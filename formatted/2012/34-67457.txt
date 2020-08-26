@@ -1,193 +1,3 @@
-https://www.sec.gov/rules/final/2012/34-67457.pdf
-
-I.0.0.0 Executive Summary
-
-II.0.0.0 Introduction
-
-	II.A.0.0 Need for, and Objectives of, a Consolidated Audit Trail
-
-		II.A.1.0 Use and Limitations of Current Sources of Trading Data
-
-			II.A.1.a The EBS System
-
-			II.A.1.b Equity Cleared Reports
-
-			II.A.1.c SRO Audit Trails
-
-		II.A.2.0 Regulatory Improvements with a Consolidated Audit Trail
-
-			II.A.2.a Improved Market Surveillance and Investigations
-
-			II.A.2.b Improved Analysis and Reconstruction of Broad-Based Market Events
-
-		II.A.1.0 billion records), even small changes to the integration and aggregation process took significant computer time to test and implement.
-
-			II.A.1.c Improved Market Analysis
-
-			II.A.1.d Potential Reduction in Disparate Reporting Requirements and Data Requests
-
-		II.A.3.0 Large Trader Reporting System Rule
-
-	II.B.0.0 Summary of Proposed Rule 613
-
-	II.C.0.0 Summary of General Comments on the Proposed Rule
-
-		II.C.1.0 Industry Support for a Consolidated Audit Trail
-
-		II.C.2.0 Commenters’ Views on the Overall Costs of the Proposed Rule and the Resulting Framework of the Adopted Rule
-
-		II.C.3.0 Comments on the Process for Creating a Consolidated Audit Trail
-
-		II.C.4.0 Comments on Alternatives to the Proposed Consolidated Audit Trail
-
-III.0.0.0 Discussion
-
-	III.A.0.0 NMS Plan
-
-		III.A.1.0 Description of the Rule
-
-			III.A.1.a Implementation of the Consolidated Audit Trail through an NMS Plan
-
-	III.B.0.0 Elements of the NMS Plan
-
-		III.B.1.0 Recording and Reporting
-
-			III.B.1.a Products and Transactions Covered
-
-			III.B.1.b Orders and Quotations
-
-			III.B.1.c Persons Required to Report Information to the Central Repository
-
-			III.B.1.d Reportable Events and Consolidated Audit Trail Data Elements As proposed, Rule 613 would have required SROs and their respective members to provide certain information regarding each order and each “reportable event” to the central
-
-		III.B.5.0 side (buy/sell); (6) order type; (7) if a sell order, whether the order is long, short, or short exempt;288 (8) if a short sale, the locate identifier; (9) open/close indicator; (10) time in force (if applicable); (11) whether the order is solicited or unsolicited; (12) whether the account has a prior position in the security; (13) if the order is for a listed option, option type (put/call), option symbol or root symbol, underlying symbol, strike price, expiration date, and open/close; and (14) any special handling instructions.
-
-	III.A.0.0 Order Type
-
-	III.B.0.0 Special Handling Instructions
-
-	III.A.0.0 Proposed Rule
-
-	III.B.0.0 Comments on Proposed Rule 613(c)(7)(i)(B)
-
-	III.C.0.0 Adopted Rule
-
-		III.C.1.0 Need for a Unique Customer Identifier
-
-		III.C.2.0 Definition of “Customer”
-
-	III.A.0.0 Reporting of Audit Trail Data by 8:00 a.m. Eastern Time on the Trading Day Following the Day Such Information Has Been Recorded
-
-	III.B.0.0 Recording of Audit Trail Data Contemporaneously with the Reportable Event
-
-			III.B.2.f More Flexible Format for Reporting Consolidated Audit Trail Data to the Central Repository
-
-			III.B.2.g Timeframe for Reporting Other Data Elements to the Central Repository
-
-		III.B.2.0 the amount of commission, if any, paid by the customer, and the unique identifier of the broker-dealer to whom the commission is paid, and (3) the short sale borrow information and identifier. Third, adopted Rule 613(c)(4) requires that the NMS plan provide for the reporting of certain customer identification and customer account information by 8:00 a.m. Eastern Time on the trading day following the day the member receives such data, instead of in “real time,” as proposed.522 These modifications are discussed in more detail below.
-
-	III.A.0.0 Reporting Timeframe
-
-	III.B.0.0 Elimination of Certain Data Elements
-
-	III.C.0.0 Movement of Certain Data Elements from Event Data to Supplemental Audit Trail Data
-
-			III.C.2.h Clock Synchronization
-
-		III.C.2.0 Central Repository
-
-			III.C.2.a Central Repository as a Facility of the SROs
-
-			III.C.2.b Receipt, Consolidation, and Retention of Data
-
-		III.C.1.0 Audit Trail Data
-
-		III.C.2.0 NBBO Information, Transaction Reports, and Last Sale Reports
-
-		III.C.3.0 Retention of Information
-
-			III.C.3.c Timeliness, Accuracy, Integrity, and Completeness of the Consolidated Data
-
-			III.C.3.d Access to the Central Repository and Consolidated Audit Trail Data for Regulatory and Oversight Purposes
-
-			III.C.3.e Confidentiality of Consolidated Data
-
-		III.C.3.0 Other Required Provisions of the NMS Plan
-
-			III.C.3.a Compliance with the NMS plan
-
-		III.C.1.0 Exchanges and Associations
-
-		III.C.2.0 Members
-
-			III.C.2.b Operation and Administration of the NMS Plan
-
-	III.C.0.0 NMS Plan Process
-
-		III.C.1.0 Comments on the NMS Plan Process
-
-		III.C.2.0 Adopted Rule
-
-		III.C.1.0 the specific features and details of the NMS plan (e.g., how data will be transmitted to the central repository, and when linked data will be available to regulators); (2) the SROs’ analysis of NMS plan costs and impact on efficiency, competition, and capital formation; (3) the process followed by the SROs in developing the NMS plan (e.g., solicitation of input from members of the SROs); and (4) the information about the implementation and milestones of the consolidated audit trail. Second, the Commission is furnishing further details about how it envisions regulators would use, access, and analyze consolidated audit trail data through a number of “use cases.” Third, the Commission is extending the amount of time allowed for the SROs to submit the NMS plan from 90 days from the date of approval of Rule 613 to 270 days from the date of publication of the Adopting Release in the Federal Register. A discussion of these modifications and the “use cases” follows.
-
-			III.C.1.a NMS Plan Considerations
-
-			III.C.1.b Regulator Use Cases
-
-		III.C.1.0 Analyses Related to Investigations and Examinations
-
-		III.C.2.0 Analyses Related to Monitoring, Surveillance, and Reconstruction
-
-		III.C.3.0 Order Tracking and Time Sequencing
-
-		III.C.4.0 Database Security, Contingency Planning, and Prospects for Growth
-
-		III.C.5.0 Database Access
-
-			III.C.5.c Extension of time for submission of NMS plan
-
-		III.C.3.0 NMS Plan Costs
-
-			III.C.3.a NMS Plan Cost Estimates
-
-	III.A.0.0 Revised Initial Costs to Create and File the NMS Plan
-
-		III.A.4.0 making decisions regarding the various options and increased flexibility provided by the adopted Rule;878 (5) reviewing alternative NMS plans; (6) choosing between alternative plans and negotiating to reach a consensus on a single NMS plan; (7) providing a detailed estimate of the costs associated with that NMS plan; and (8) drafting the NMS plan. The Commission also believes that these increased estimates are appropriate in light of the comments, including the comment that the Commission underestimated the time the SROs would spend on business analyses to be performed in designing the NMS plan based on the experience of broker-dealers,
-
-		III.A.4.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition, and Capital Formation
-
-	III.D.0.0 Implementation of Rule 613 after Approval of the NMS Plan
-
-IV.0.0.0 Paperwork Reduction Act
-
-	IV.A.0.0 Summary of Collection of Information under Rule 613
-
-	IV.B.0.0 Use of Information
-
-	IV.C.0.0 Respondents
-
-	IV.D.0.0 Total Annual Reporting and Recordkeeping Burden for the Creation and Filing of the NMS Plan
-
-		IV.D.1.0 Preliminary Burden Hour Estimates from Proposing Release
-
-		IV.D.2.0 Revised Burden Hour Estimates
-
-			IV.D.2.a Revised Initial Burden Hours Needed to Prepare and File the NMS Plan
-
-		IV.D.7.0 providing a detailed estimate of the costs associated with that NMS plan; and (8) drafting the NMS plan. The Commission also believes that these increased estimates are appropriate in light of the comments, including the comment that asserted that the Commission underestimated the time the SROs would spend on the business analyses to be performed in designing the NMS
-
-	IV.F.0.0 Confidentiality
-
-	IV.G.0.0 Retention Period of Recordkeeping Requirements
-
-V.0.0.0 Regulatory Flexibility Act Certification
-
-VI.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 242
@@ -492,7 +302,7 @@ Commission staff requested order book data from several exchanges that sell such
 
 As described in the final joint report issued by the staffs of the CFTC and the Commission on September 30, 2010, Commission staff were only able to create a comprehensive view of the order books by acquiring, processing, and aggregating four distinct data sets that each contained a subset of order book information from each of the four exchanges that couldprovide such information: Nasdaq ModelView, NYSE Openbook Ultra, NYSE ARCABook, and BATS Exchange. <sup>83</sup> Given the enormous volume of data that needed to be processed (more than
 
-<h>1. billion records), even small changes to the integration and aggregation process took significant computer time to test and implement.</h>
+1. billion records), even small changes to the integration and aggregation process took significant computer time to test and implement.
 
 By early July 2010, staff at the CFTC had completed a very detailed analysis of the full order book of the S&P 500 E-Mini futures contract and were able to show how liquidity in that contract had been eroding for most of the day. The CFTC’s detailed second-by-second analysis of trading during the Flash Crash itself revealed how buy-side depth in the S&P 500 E-Mini futures virtually evaporated as broad market indices rapidly fell 5%. <sup>84</sup> However, until a similar analysis could be completed in the equity markets, neither regulators nor the public would know whether an evaporation of liquidity was also present in the equity markets, and whether the timing of such an event preceded or followed the liquidity event in the futures market.
 
@@ -1418,7 +1228,7 @@ In addition, some commenters noted that a consolidated audit trail could be impl
 
 After considering the comments regarding the NMS plan process, the Commission is adopting proposed Rule 613(a)(1) with modifications. First, the Rule now requires the SROs to provide much more information and analysis to the Commission as part of their NMS plan submission. These requirements have been incorporated into the adopted Rule as “considerations” that the SROs must address, and generally mandate that the NMS plan discuss:
 
-<h>1. the specific features and details of the NMS plan (e.g., how data will be transmitted to the central repository, and when linked data will be available to regulators); (2) the SROs’ analysis of NMS plan costs and impact on efficiency, competition, and capital formation; (3) the process followed by the SROs in developing the NMS plan (e.g., solicitation of input from members of the SROs); and (4) the information about the implementation and milestones of the consolidated audit trail. Second, the Commission is furnishing further details about how it envisions regulators would use, access, and analyze consolidated audit trail data through a number of “use cases.” Third, the Commission is extending the amount of time allowed for the SROs to submit the NMS plan from 90 days from the date of approval of Rule 613 to 270 days from the date of publication of the Adopting Release in the Federal Register. A discussion of these modifications and the “use cases” follows.2-3, 5.</h>
+1. the specific features and details of the NMS plan (e.g., how data will be transmitted to the central repository, and when linked data will be available to regulators); (2) the SROs’ analysis of NMS plan costs and impact on efficiency, competition, and capital formation; (3) the process followed by the SROs in developing the NMS plan (e.g., solicitation of input from members of the SROs); and (4) the information about the implementation and milestones of the consolidated audit trail. Second, the Commission is furnishing further details about how it envisions regulators would use, access, and analyze consolidated audit trail data through a number of “use cases.” Third, the Commission is extending the amount of time allowed for the SROs to submit the NMS plan from 90 days from the date of approval of Rule 613 to 270 days from the date of publication of the Adopting Release in the Federal Register. A discussion of these modifications and the “use cases” follows.2-3, 5.
 
 <h>a. NMS Plan Considerations</h>
 
@@ -1586,7 +1396,7 @@ In light of the comments recommending that the Commission undertake an RFP proce
 
 The Commission notes that it is not including these “use cases” and accompanying questions to endorse a particular technology or approach to the consolidated audit trail; rather, these “use cases” and accompanying questions are designed to aid the SROs’ understanding of the types of useful specific information that the NMS plan could contain that would assist the Commission in its evaluation of the NMS plan. The Commission also notes that its descriptionof “use cases” includes a non-exclusive list of factors that SROs could consider when developing the NMS plan. The SROs also may include in the NMS plan submitted to the Commission for its consideration any other information regarding how data would be stored or accessed that the SROs believe the Commission or the public may find useful in evaluating the NMS plan submitted.
 
-<h>1. Analyses Related to Investigations and Examinations</h>
+1. Analyses Related to Investigations and Examinations
 
 The Commission expects that the consolidated audit trail will provide regulators the ability to more efficiently conduct targeted investigations and examinations. These generally require being able to conduct several types of queries on large amounts of data and extract targeted segments of such data. These targeted segments are likely to be much smaller than the bulk extractions discussed in Section III.C.2.b.2., below.
 
@@ -1606,7 +1416,7 @@ Does the NMS plan contemplate allowing for dynamic search criteria to operate di
 
 If the NMS plan does not contemplate dynamic search criteria, please explain how regulators would be able to use the consolidated audit trail data to perform such searches. Would data need to be downloaded in bulk by the regulators to accomplish these types of searches off-line (see below for related questions)?
 
-<h>2. Analyses Related to Monitoring, Surveillance, and Reconstruction</h>
+2. Analyses Related to Monitoring, Surveillance, and Reconstruction
 
 In addition to targeted analysis of select data from the consolidated audit trail database, regulators will also require the analysis of data in bulk form. For example, the Commission is likely to use consolidated audit trail data to calculate detailed statistics on order flow, order sizes,market depth and rates of cancellation, to monitor trends and inform SRO and Commission rulemaking. To satisfy the surveillance requirements of Rule 613(f), regulators may want the ability to feed consolidated audit trail data into analytical “alert” programs designed to screen for potential illegal activities such as insider trading or spoofing. Surveillances might also benefit if regulators are able to link consolidated audit trail data with databases on certain types of material news events or market participants. This would allow regulators to isolate and aggregate data on trading in advance of those news events or by those participants. If preliminary analyses showed problems, the regulators could then request significant amounts of data for a more thorough and detailed follow-up analysis. In the event of a large scale market event like the May 6, 2010 “flash crash,” regulators are likely to use consolidated audit trail data to reconstruct market events on the day of the event, including but not limited to reconstructing entire order books and trading sequences.
 
@@ -1624,7 +1434,7 @@ Does the plan contemplate data streaming as a method of transmitting bulk data t
 
 If the plan does not contemplate any bulk data analyses or means of transmitting data to regulators on a bulk overnight basis or in an intraday or overnight streaming fashion, describe what alternative mechanisms, if any, could be used to enable regulators to perform the types of analyses described at the beginning of the section (b), as well as the various examples described throughout this document of how regulators would make use of consolidated audit trail data.
 
-<h>3. Order Tracking and Time Sequencing</h>
+3. Order Tracking and Time Sequencing
 
 As discussed in detail throughout this Release, one of the key requirements of the consolidated audit trail is to provide regulators with a complete record of all of the events that stem from a particular order, from routing to modification, cancellation, or execution. In addition, these events must be stored by the central repository in a linked manner – using either a unique order identifier or a series of unique order identifiers, as discussed in Section III.B.1.d.iv.– so that regulators can quickly and accurately extract a time-sequenced history of each event related to an order.
 
@@ -1648,7 +1458,7 @@ If time stamps are not stored at a sufficient level of granularity to properly s
 
 Even if time stamps are sufficiently granular to meet the time-sequencing requirements of today, how would the plan contemplate increasing that granularity as the speed of trading increases?
 
-<h>4. Database Security, Contingency Planning, and Prospects for Growth</h>
+4. Database Security, Contingency Planning, and Prospects for Growth
 
 The data stored in the consolidated audit trail database will contain confidential detailed records of trade and order flow by customer.
 
@@ -1660,7 +1470,7 @@ What types of contingency and backup plans will be employed by the plan to safeg
 
 As order and trade volumes increase, how does the plan contemplate handling the need for increased capacity and throughput? Would the plan be able to accommodate a doubling in daily volume without materially altering the basic technologies and architecture? A ten-time increase? A 100-times increase?
 
-<h>5. Database Access</h>
+5. Database Access
 
 As part of an investigation or examination, regulators may need to analyze historical trades and orders in the database maintained by the central repository (though not trade and order events occurring prior to the implementation of the consolidated audit trail).
 
@@ -1672,7 +1482,7 @@ How will regulators access and search data that has been archived?
 
 Will third parties have access to historical data? How will this access differ from the regulatory access?
 
-<h>c. Extension of time for submission of NMS plan</h>
+c. Extension of time for submission of NMS plan
 
 Proposed Rule 613 required the SROs to jointly file the NMS plan within 90 days from approval of Rule 613. The Commission received a comment letter specifically suggesting that asix-month period, rather than the 90-day period originally proposed, would be more appropriate for the submission of the NMS plan to ensure that the NMS plan is drafted with an informed understanding of how order and trade processing works so that the consolidated audit trail systems are capable of achieving the Commission’s objectives. <sup>855</sup> To this end the commenter recommended that the Rule mandate the formation of cross ‐ market participant working groups; outline the objectives of consolidated audit trail rather than identify technical requirements; and allow six months for the cross ‐ participant working groups to perform a requirements analysis as part of the development of the NMS plan. <sup>856</sup>
 
@@ -1700,13 +1510,13 @@ Revised Cost Estimates
 
 As noted above, the Commission based its original estimates of the cost to prepare and file the NMS plan on the costs incurred with existing NMS plans. The adopted Rule, however, has been modified from the proposed Rule in several significant ways that differentiate the costs to prepare the NMS plan from all other existing NMS plans. These modifications require the SROs to: (1) provide additional information and analysis while addressing the considerations that are set forth in Rule 613(a)(1); <sup>867</sup> (2) include additional provisions that were not required by the proposed Rule relating to enforcement mechanisms, <sup>868</sup> security and confidentiality, <sup>869</sup> and the preparation of a document every two years that contains a retrospective assessment of the performance of the consolidated audit trail, as well as a plan to improve its performance; <sup>870</sup> (3) address error rates; <sup>871</sup> and (4) provide for the creation of an Advisory Committee. <sup>872</sup>
 
-<h>A. Revised Initial Costs to Create and File the NMS Plan</h>
+A. Revised Initial Costs to Create and File the NMS Plan
 
 In light of these modifications to the proposed Rule, the Commission no longer believes that the cost of developing and filing the NMS plan pursuant to the proposed Rule would be sufficiently comparable to the cost to create other existing NMS plans to use those costs as a basis for developing a cost estimate for the NMS plan required by Rule 613. Instead, as discussed in more detail below, the Commission is increasing its estimated costs for the development and filing of the NMS plan due to the increases in the hours that likely would be spent to create the NMS plan by the SROs. <sup>873</sup> The Commission also is adjusting its preliminary cost estimate for the creation and filing of an NMS plan to reflect updated 2011 wage figures, as well as the registration of two additional SROs, since the preliminary estimates were developed. <sup>874</sup> Specifically, the Commission now estimates that the aggregate one-time cost for creating and filing an NMS plan would be approximately $718,000 per SRO, <sup>875</sup> or approximately$12.2 million in the aggregate, <sup>876</sup> compared to an initial estimate of $234,000 per SRO, or approximately $3.5 million in the aggregate, to prepare and file an NMS plan. <sup>877</sup>
 
 The Commission believes that these revised estimates, which include internal SRO personnel time and external legal costs, are appropriate based on the impact of the modifications to the proposed Rule on each of the job categories underlying the estimates. The Commission believes that the modifications to the proposed Rule will require SRO Programmer Analysts, Business Analysts, Attorneys, and Compliance Managers to expend additional time to address the requirements of the Rule. As discussed in more detail below, the Commission anticipates that the SROs will spend additional time on many activities, including: (1) research; (2) discussions with members, committees and with industry associations; (3) vendor negotiations;
 
-<h>4. making decisions regarding the various options and increased flexibility provided by the adopted Rule;878 (5) reviewing alternative NMS plans; (6) choosing between alternative plans and negotiating to reach a consensus on a single NMS plan; (7) providing a detailed estimate of the costs associated with that NMS plan; and (8) drafting the NMS plan. The Commission also believes that these increased estimates are appropriate in light of the comments, including the comment that the Commission underestimated the time the SROs would spend on business analyses to be performed in designing the NMS plan based on the experience of broker-dealers,legal hours x $400 per hour) = $20,000. As a result, the Commission staff estimates that the aggregate one-time cost to each SRO to prepare and file an NMS plan, including external costs, would be ($20,000 in external costs) + ($697,660 in aggregate internal costs) = $717,660 per SRO to prepare and file an NMS plan.vendors and SROs when OATS was expanded to all NMS stocks. <sup>879</sup> In response, as discussed below, the Commission is increasing its estimated Programmer Analyst, Business Analyst, Attorney, and Compliance Manager hours.</h>
+4. making decisions regarding the various options and increased flexibility provided by the adopted Rule;878 (5) reviewing alternative NMS plans; (6) choosing between alternative plans and negotiating to reach a consensus on a single NMS plan; (7) providing a detailed estimate of the costs associated with that NMS plan; and (8) drafting the NMS plan. The Commission also believes that these increased estimates are appropriate in light of the comments, including the comment that the Commission underestimated the time the SROs would spend on business analyses to be performed in designing the NMS plan based on the experience of broker-dealers,legal hours x $400 per hour) = $20,000. As a result, the Commission staff estimates that the aggregate one-time cost to each SRO to prepare and file an NMS plan, including external costs, would be ($20,000 in external costs) + ($697,660 in aggregate internal costs) = $717,660 per SRO to prepare and file an NMS plan.vendors and SROs when OATS was expanded to all NMS stocks. <sup>879</sup> In response, as discussed below, the Commission is increasing its estimated Programmer Analyst, Business Analyst, Attorney, and Compliance Manager hours.
 
 The Commission notes that the average hourly and cost estimates per SRO for creating and filing the NMS plan likely overestimated the costs for some of SROs and underestimated the costs for other SROs. The Commission also believes that certain SROs, particularly those SROs under the same holding company, may decide to collaborate and realize some cost savings on a per SRO basis. On balance, however, the Commission believes that, these hours and cost estimates are reasonable on average even if they may not be precise for any specific SRO.
 
@@ -1788,6 +1598,7 @@ In making these estimates, the Commission assumed that the burden hours necessar
 
 <h>2. Revised Burden Hour Estimates</h>
 
+<h>E. Collection of Information is Mandatory</h>
 As noted above, the Commission based its original estimates of SRO burden hours to prepare and file the NMS plan on the burden hours spent for existing NMS plans. The Commission, however, has modified the proposed Rule in several significant ways that differentiate the burden hours to prepare the NMS plan from all other existing NMS plans.
 
 These modifications require the SROs to expand the NMS plan in the following four ways: (1) provide additional information and analysis to address the considerations that are set forth in Rule 613(a)(1); <sup>911</sup> (2) include additional provisions that were not required by the proposed Rule= $300,000 in external costs to develop and draft the NMS plan.relating to enforcement mechanisms, <sup>912</sup> security and confidentiality, <sup>913</sup> and the preparation of a document every two years that contains a retrospective assessment of the performance of the consolidated audit trail, as well as a plan to improve its performance; <sup>914</sup> (3) address error rates; <sup>915</sup> and (4) provide for the creation of an Advisory Committee. <sup>916</sup>
@@ -1798,7 +1609,7 @@ In light of these modifications to the proposed Rule, the Commission is increasi
 
 The Commission believes that these revised estimates, which include internal SRO personnel time and external legal costs, are appropriate based on the Commission’s analysis, set forth below, of the impact of the modifications to the proposed Rule on each of the job categories underlying the estimates. The Commission believes that the modifications to the proposed Rule will require SRO Programmer Analysts, Business Analysts, Attorneys, and Compliance Managers to expend additional time to address the requirements of the Rule. As discussed in more detail below, the Commission anticipates that the SROs will spend additional time on many activities, including: (1) research; (2) discussions with members, committees and with industry associations; (3) vendor negotiations; (4) making decisions regarding the various options and increased flexibility provided by the adopted Rule; <sup>921</sup> (5) reviewing alternative NMS plans; (6) choosing between alternative plans and negotiating to reach a consensus on a single NMS plan;
 
-<h>7. providing a detailed estimate of the costs associated with that NMS plan; and (8) drafting the NMS plan. The Commission also believes that these increased estimates are appropriate in light of the comments, including the comment that asserted that the Commission underestimated the time the SROs would spend on the business analyses to be performed in designing the NMSan NMS plan. In addition, Commission staff estimates that each SRO would incur a one- time external cost of (50 legal hours x $400 per hour) = $20,000.plan, based on the experience of broker-dealers, vendors and SROs when OATS was expanded to all NMS stocks. <sup>922</sup> In response, as discussed in more detail below, the Commission is increasing its estimated Programmer Analyst, Business Analyst, Attorney and Compliance Manager hours.</h>
+7. providing a detailed estimate of the costs associated with that NMS plan; and (8) drafting the NMS plan. The Commission also believes that these increased estimates are appropriate in light of the comments, including the comment that asserted that the Commission underestimated the time the SROs would spend on the business analyses to be performed in designing the NMSan NMS plan. In addition, Commission staff estimates that each SRO would incur a one- time external cost of (50 legal hours x $400 per hour) = $20,000.plan, based on the experience of broker-dealers, vendors and SROs when OATS was expanded to all NMS stocks. <sup>922</sup> In response, as discussed in more detail below, the Commission is increasing its estimated Programmer Analyst, Business Analyst, Attorney and Compliance Manager hours.
 
 The Commission notes that these revised average hourly and cost estimates per SRO for creating and filing the NMS plan likely overestimated the costs for some of SROs and underestimated the costs for other SROs. The Commission also believes that certain SROs, particularly those SROs under the same holding company, may decide to collaborate and realize some cost savings on a per SRO basis. On balance, however, the Commission believes that, these revised hours and cost estimates are reasonable on average even if they may not be precise for any specific SRO.
 

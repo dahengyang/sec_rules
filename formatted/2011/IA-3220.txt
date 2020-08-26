@@ -1,57 +1,3 @@
-https://www.sec.gov/rules/final/2011/ia-3220.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Family Office Structure and Scope of Activities
-
-		II.A.1.0 Family Clients
-
-			II.A.1.a Family Member
-
-			II.A.1.b Involuntary Transfers
-
-			II.A.1.c Family Trusts and Estates
-
-			II.A.1.d Non-Profit and Charitable Organizations
-
-			II.A.1.e Other Family Entities
-
-			II.A.1.f Key Employees
-
-		II.A.2.0 Ownership and Control
-
-		II.A.3.0 Holding Out
-
-		II.A.4.0 Multifamily Offices
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-IV.0.0.0 ECONOMIC ANALYSIS
-
-	IV.A.0.0 Benefits
-
-	IV.B.0.0 Costs
-
-V.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	V.A.0.0 Need for the Rule
-
-	V.B.0.0 Significant Issues Raised by Public Comment
-
-	V.C.0.0 Small Entities Subject to the Rule
-
-	V.D.0.0 Projected Reporting, Recordkeeping, and other Compliance Requirements
-
-	V.E.0.0 Agency Action to Minimize Effect on Smaller Entities
-
-VI.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 275
 
 [Release No. IA-3220; File No. S7-25-10] RIN 3235-AK66
@@ -220,7 +166,7 @@ As proposed, the final rule prohibits a family office relying on the rule from h
 
 The exclusion we are adopting today does not extend to family offices serving multiple families, as urged by several commenters. <sup>113</sup> Comments we received did not persuade us that the rule could be drafted to distinguish in any meaningful way between such offices and family-owned commercial advisory firms that offer their services to other families. <sup>114</sup> Moreover, they did not persuade us that the protections of the Advisers Act, including the application of the anti-fraud provisions of the Act, would not be relevant to a family obtaining services from an office established by another family with which it could have conflicts of interest. Families, of course, may have conflicts among members leading to disputes. But, as discussed in our Proposing Release, the premise of the exclusion is that such disputes could be worked out within the family unit or, if necessary, by state courts under laws that facilitate resolution of family disputes. In a multifamily office, these clients would be without the protections of the Advisers Act orfamily relationships for preventing or handling any discriminatory or fraudulent treatment of different families.
 
-B.	Grandfathering Provisions, Transition Period and Effect of Rule on Previously Issued Exemptive Orders
+<h>B.	Grandfathering Provisions, Transition Period and Effect of Rule on Previously Issued Exemptive Orders </h>
 
 The Dodd-Frank Act prohibits us from excluding from our definition of family office persons not registered or required to be registered on January 1, 2010 that would meet all of the required conditions under rule 202(a)(11)(G)-1 but for their provision of investment advice to certain clients specified in section 409(b)(3) of the Dodd-Frank Act. <sup>115</sup> We have incorporated this required grandfathering into paragraph (c) of our rule. <sup>116</sup> We received two comments on such incorporation. One commenter suggested that we incorporate the grandfathering provision only by reference to section 409(b)(3) of the Dodd-Frank Act. <sup>117</sup> We believe that incorporating the grandfathering provision of Dodd-Frank Act is a more user friendly approach for those attempting to comply with the Advisers Act compared to directing them to look up the grandfathering provision in a separate statute. Another commenter requested clarification of the Dodd-Frank grandfathering provision. <sup>118</sup> We believe clarification or interpretation of this provision would involve applying the provision to specific facts, and this release is not anappropriate means to provide such a clarification. Therefore, we are adopting paragraph (c) of the rule as proposed.
 

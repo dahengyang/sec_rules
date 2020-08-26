@@ -1,147 +1,3 @@
-https://www.sec.gov/rules/final/2011/34-64976.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Background
-
-	II.A.0.0 The Market Reform Act
-
-	II.B.0.0 Rule 17a-25 and the Enhanced EBS System
-
-	II.C.0.0 The Need for Large Trader Reporting
-
-	II.D.0.0 Relation to Consolidated Audit Trail Proposal
-
-III.0.0.0 Description of Adopted Rule and Form
-
-	III.A.0.0 Large Traders
-
-		III.A.1.0 Large Trader Status
-
-			III.A.1.a Who Should Register as a Large Trader?
-
-	III.A.0.0 Use of LTID Suffixes
-
-	III.B.0.0 Control and Minority-Owned Entities
-
-			III.B.1.b Identifying Activity Level
-
-			III.B.1.c Voluntary Registration
-
-		III.B.2.0 Duties of a Large Trader
-
-			III.B.2.a File Form 13H with the Commission
-
-			III.B.2.b if one or more persons controlled by such large trader collectively comply with all of the requirements under paragraphs (b)(1), (b)(2), and (b)(4) applicable to such large trader with respect to all of its accounts. A controlling person of one or more large traders (such as Holding Company, in the example above) would be required to comply with all of the requirements of paragraph (b) unless the entities that it controls discharge all of the responsibilities of the controlling person under paragraph (b). This provision maintains the focus on the parent company by allowing, for example, a corporate entity to comply on behalf of one or more natural persons who are its controlling owners. In the above example, if Investment Adviser and
-
-			III.B.2.b Self-Identification to Broker-Dealers
-
-		III.B.3.0 Overview of Form 13H
-
-			III.B.3.a Item 1
-
-			III.B.3.b Item 2
-
-			III.B.3.c Item 3
-
-			III.B.3.d Item 4
-
-			III.B.3.e Item 5
-
-			III.B.3.f Item 6
-
-			III.B.3.g Confidentiality
-
-	III.B.0.0 Broker-Dealers: Recordkeeping, Reporting, and Monitoring
-
-		III.B.1.0 Recordkeeping Requirements
-
-		III.B.2.0 Reporting Requirements
-
-		III.B.3.0 Monitoring Requirements
-
-	III.C.0.0 Foreign Entities
-
-	III.D.0.0 Three Specific Factors Considered by the Commission Pursuant to Section 13(h) of the Exchange Act
-
-		III.D.1.0 Existing Reporting Systems
-
-		III.D.2.0 Costs Associated With Maintaining and Reporting Large Trader Transaction Data
-
-		III.D.3.0 Relationship Between U.S. and International Securities Markets
-
-	III.E.0.0 Implementation and Compliance Dates, Exemptive Authority
-
-IV.0.0.0 Paperwork Reduction Act
-
-	IV.A.0.0 Summary of Collection of Information
-
-	IV.B.0.0 Use of Information
-
-	IV.C.0.0 Respondents
-
-		IV.C.1.0 Number of Large Traders
-
-		IV.C.2.0 Number of Broker-Dealers Affected
-
-	IV.D.0.0 Total Initial and Annual Burdens
-
-		IV.D.1.0 Burden on Large Traders
-
-			IV.D.1.a Duties of Large Traders
-
-			IV.D.1.b Initial and Annual Burdens
-
-		IV.D.2.0 Burden on Registered Broker-Dealers
-
-			IV.D.2.a Recordkeeping
-
-			IV.D.2.b Reporting
-
-			IV.D.2.c Monitoring
-
-			IV.D.2.d Total Burden
-
-	IV.E.0.0 Collection of Information is Mandatory
-
-	IV.F.0.0 Confidentiality
-
-	IV.G.0.0 Record Retention Period
-
-V.0.0.0 Consideration of Costs and Benefits
-
-	V.A.0.0 Benefits
-
-	V.B.0.0 Costs
-
-		V.B.1.0 Large Traders
-
-		V.B.2.0 Registered Broker-Dealers
-
-			V.B.2.a Recordkeeping
-
-			V.B.2.b Reporting
-
-			V.B.2.c Monitoring
-
-VI.0.0.0 Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
-
-	VI.A.0.0 Competition
-
-	VI.B.0.0 Capital Formation
-
-	VI.C.0.0 Efficiency
-
-VII.0.0.0 Regulatory Flexibility Act Certification
-
-VIII.0.0.0 Statutory Authority
-
-IX.0.0.0 Text of the Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CF R PARTS 240 and 249
 
 Release No. 34-64976; File No. S7-10-10 RIN 3235-AK55
@@ -442,7 +298,7 @@ The Commission notes that, to determine whether a parent company is a largetrade
 
 One commenter expressed concern that the filing by a parent company of a Form 13H on behalf of its subsidiaries may give the impression that its firewalls are weak. <sup>46</sup> The Commission does not believe a parent company’s duty to determine whether it is a large trader based on aggregated statistics that summarize the trading activity of its subsidiaries should violate or undermine the effectiveness of existing firewalls. The Rule only requires that a parent company aggregate and consider daily and monthly share volume and dollar value of certain transactions in NMS securities effected by the persons it controls. The Rule does not require the disclosure of any particular transaction information ( e.g. , the identity of or additional information on the securities bought or sold). Rather, persons need only produce a total figure of the relevant transactions for which they exercised investment discretion. The parent company would thenaggregate together those figures when measuring its overall activity against the applicable trading activity threshold.
 
-<h>A. Use of LTID Suffixes</h>
+A. Use of LTID Suffixes
 
 Some commenters questioned the utility of the information that would be collected if large traders were identified at the parent company level, including whether grouping together persons who make trading decisions independently of each other would cloud the Commission’s view when investigating for certain trading behavior, such as manipulation. <sup>47</sup> As an alternative, some commenters suggested that the Rule permit, but not compel, identification at the parent company level. <sup>48</sup> Another commenter suggested eliminating the requirement that an LTID be affixed to the trades of affiliates that do not independently qualify as large traders. <sup>49</sup> With respect to the concern about the Commission’s ability to identify trading activity within a large trader with more particularity, as discussed further below, <sup>50</sup> Item 4(d) of Form 13H permits a large trader to assign LTID suffixes to sub-identify persons, divisions, groups, and entities under its control. For example, a large trader may choose to assign a suffix to each independent division within the large trader. Use of suffixes to identify various sub-groups within a large trader could facilitate a large trader’s ability to accurately and efficiently track with more particularity the trading for which it exercises investment discretion, and as a consequence, could facilitate the ability of a large trader to respond to any Commission request to further identify accounts or disaggregate trading data, as discussed below. To the extent large traders utilize LTID suffixes, the need for the Commission to contact large traders for assistance in furtheridentifying their accounts should be diminished. Accordingly, the Commission encourages large traders to utilize LTID suffixes.
 
@@ -450,7 +306,7 @@ The Commission notes that, ultimately, the information limitation identified by 
 
 In the meantime, allowing a parent company to comply on behalf of relatedentities should provide the Commission with important information at lower cost to the industry, by reducing the complexity and burdens of the large trader reporting requirements – such as those proposed by the Commission during the 1990s – that could have required reporting at multiple levels within a control group. At the same time, this provision addresses the Commission’s near-term need for access to more information about large traders and their trading activities, which will enable the Commission to more efficiently analyze market events.
 
-<h>B. Control and Minority-Owned Entities</h>
+B. Control and Minority-Owned Entities
 
 With respect to which persons under a parent company’s control should be considered in determining the parent company’s large trader status, Rule 13h-1(a)(3) defines “control” (and the terms “controlling,” “controlled by,” and “under common control with”) as “the possession, direct or indirect, of the power to direct or cause the direction of the management and policies of a person, whether through the ownership of securities, by contract, or otherwise. For purposes of this rule only, any person that directly or indirectly has the right to vote or direct the vote of 25% or more of a class of voting securities of an entity or has the power to sell or direct the sale of 25% or more of a class of voting securities of such entity, or in the case of a partnership, has theright to receive, upon dissolution, or has contributed, 25% or more of the capital, is presumed to control that entity.”
 
@@ -550,7 +406,7 @@ Rule 13h-1(b)(3)(i) provides that a large trader shall not be required to separa
 
 Conversely, Rule 13h-1(b)(3)(ii) applies the same principle on a “top down” basis, providing that a large trader shall not be required to comply with the requirements of paragraph
 
-<h>b. if one or more persons controlled by such large trader collectively comply with all of the requirements under paragraphs (b)(1), (b)(2), and (b)(4) applicable to such large trader with respect to all of its accounts. A controlling person of one or more large traders (such as Holding Company, in the example above) would be required to comply with all of the requirements of paragraph (b) unless the entities that it controls discharge all of the responsibilities of the controlling person under paragraph (b). This provision maintains the focus on the parent company by allowing, for example, a corporate entity to comply on behalf of one or more natural persons who are its controlling owners. In the above example, if Investment Adviser and</h>
+b. if one or more persons controlled by such large trader collectively comply with all of the requirements under paragraphs (b)(1), (b)(2), and (b)(4) applicable to such large trader with respect to all of its accounts. A controlling person of one or more large traders (such as Holding Company, in the example above) would be required to comply with all of the requirements of paragraph (b) unless the entities that it controls discharge all of the responsibilities of the controlling person under paragraph (b). This provision maintains the focus on the parent company by allowing, for example, a corporate entity to comply on behalf of one or more natural persons who are its controlling owners. In the above example, if Investment Adviser and
 
 Broker-Dealer separately register as large traders, Holding Company would not have to separately register as a large trader, assuming that those two entities capture all transactions andaccounts controlled by Holding Company. <sup>84</sup>
 

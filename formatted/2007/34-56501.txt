@@ -1,247 +1,3 @@
-https://www.sec.gov/rules/final/2007/34-56501.pdf
-
-I.0.0.0 Introduction
-
-	I.A.0.0 Background
-
-	I.B.0.0 Overview of Comments
-
-	I.C.0.0 Final Rules and Related Matters
-
-II.0.0.0 Networking Arrangements
-
-	II.A.0.0 Overview of Proposed Rules and Comments
-
-	II.B.0.0 Rule 700: Definition of Terms Used in Networking Exception
-
-		II.B.1.0 Definition of “Nominal One-Time Cash Fee of a Fixed Dollar Amount”
-
-		II.B.3.0 1/1000th of the average of the minimum and maximum annual base salary established by the bank for the current or prior year for the job family that includes the employee.
-
-		II.B.2.0 Definition of “Referral”
-
-		II.B.3.0 Definition of ‘‘Contingent on Whether the Referral Results in a Transaction’’
-
-		II.B.4.0 Definition of “Incentive Compensation”
-
-			II.B.4.a Exception for Discretionary, Multi-Factor Bonus Plans
-
-			II.B.4.b Safe Harbor for Plans Based on Overall Profitability or Revenue
-
-	II.A.0.0 Such measure of overall profitability or revenue is only one of multiple factors or variables used to determine the compensation of the officer, director or employee;
-
-	II.B.0.0 The factors or variables used to determine the compensation of the officer, director or employee include multiple significant factors or variables that are not related to the profitability or revenue of the broker-dealer;
-
-	II.C.0.0 A referral made by the employee is not a factor or variable in determining the employee’s compensation under the plan; and
-
-	II.D.0.0 The employee’s compensation under the plan is not determined by reference to referrals made by any other person.
-
-	II.C.0.0 Rule 701: Exemption for Referrals Involving Institutional Customers and High Net Worth Customers
-
-		II.C.1.0 Definitions of “Institutional Customer” and “High Net Worth Customer”
-
-		II.C.2.0 Determining that a Customer Meets the Relevant Thresholds
-
-		II.C.3.0 Conditions Relating to Disclosures
-
-		II.C.4.0 Suitability or Sophistication Analysis by Broker-Dealer
-
-		II.C.5.0 Conditions Relating to Bank Employees
-
-		II.C.6.0 Good Faith Compliance and Corrections by Banks
-
-		II.C.7.0 Referral Fees Permitted under the Exemption
-
-		II.C.8.0 Permissible Bonus Compensation Not Restricted
-
-III.0.0.0 Trust and Fiduciary Activities
-
-	III.A.0.0 Trust and Fiduciary Exception and Proposed Rules
-
-		III.A.4.0 any combination of such fees.
-
-	III.B.0.0 Joint Final Rules
-
-		III.B.1.0 “Chiefly Compensated” Test and Bank-Wide Exemption Based on Two- Year Rolling Averages
-
-		III.B.2.0 translating the quotient obtained for each of the two years into a percentage; and
-
-		III.B.3.0 then averaging the percentages obtained for each of the two immediately preceding years.
-
-		III.B.2.0 “Relationship Compensation”
-
-		III.B.3.0 Excluded Compensation
-
-		III.B.4.0 Trust or Fiduciary Accounts
-
-		III.B.5.0 Exemptions for Special Accounts, Foreign Branches, Transferred Accounts, and a De Minimis Number of Accounts
-
-		III.B.6.0 Advertising Restrictions
-
-IV.0.0.0 Sweep Accounts and Transactions in Money Market Funds
-
-	IV.A.0.0 Rule 740: Definition of Terms Used in Sweep Exception
-
-	IV.B.0.0 Exemption Regarding Money Market Fund Transactions
-
-V.0.0.0 Safekeeping and Custody
-
-	V.A.0.0 Background
-
-	V.B.0.0 Rule 760: Custody Exemption
-
-		V.B.1.0 Order-Taking for Employee Benefit Plan Accounts and Individual Retirement or Similar Accounts
-
-			V.B.1.a Employee Compensation Restrictions
-
-			V.B.1.b Advertisements and Sales Literature
-
-			V.B.1.c Other Conditions
-
-		V.B.2.0 Order-Taking as an Accommodation for Other Types of Accounts
-
-			V.B.2.a Accommodation Basis
-
-			V.B.2.b Employee Compensation Restrictions
-
-			V.B.2.c Limitations on Bank Fees
-
-			V.B.2.d Advertising and Sales Literature Restrictions
-
-			V.B.2.e Investment Advice or Recommendations
-
-		V.B.3.0 Other Conditions Applicable to Order-Taking for All Custody Accounts The proposed exemption provided that a bank may accept orders for a securities
-
-			V.B.3.a Directed Trustees
-
-			V.B.3.b Broker Execution Requirement
-
-			V.B.3.c Carrying Broker Provisions
-
-		V.B.4.0 Custodians, Subcustodians and Administrators/Recordkeepers
-
-			V.B.4.a “Account for which a bank acts as a custodian”
-
-			V.B.4.b Administrators/Recordkeepers and Subcustodians
-
-		V.B.5.0 Evasions
-
-VI.0.0.0 Other Exemptions
-
-	VI.A.0.0 Exemption for Regulation S Transactions with Non-U.S. Persons and Broker- Dealers
-
-	VI.B.0.0 Exemption for Non-Custodial Securities Lending Transactions
-
-	VI.C.0.0 Exemption for Banks Effecting Certain Excepted or Exempted Transactions in Investment Company Securities and Variable Insurance Products
-
-	VI.D.0.0 Exemption for Certain Transactions involving a Company’s Securities for its Employee Benefit Plans and Participants
-
-	VI.E.0.0 Temporary and Permanent Exemption for Contracts Entered Into by Banks from Being Considered Void or Voidable
-
-	VI.F.0.0 Extension of Time and Transition Period
-
-VII.0.0.0 Finding that the Exemptions are Appropriate in the Public Interest and Consistent with the Protection of Investors
-
-VIII.0.0.0 Withdrawal of Proposed Regulation B and Removal of Exchange Act Rules 3a4-2 – 3a4-6, and 3b-17
-
-IX.0.0.0 Administrative Law Matters
-
-	IX.A.0.0 Paperwork Reduction Act Analysis
-
-		IX.A.1.0 Rule 701
-
-			IX.A.1.a Collection of Information
-
-			IX.A.1.b Use of Information
-
-			IX.A.1.c Respondents
-
-			IX.A.1.d Disclosure Burden
-
-			IX.A.1.e Collection of Information Is Mandatory
-
-			IX.A.1.f Confidentiality
-
-			IX.A.1.g Record Retention Period
-
-		IX.A.2.0 Rule 723
-
-			IX.A.2.a Collection of Information
-
-			IX.A.2.b Use of Information
-
-			IX.A.2.c Respondents
-
-			IX.A.2.d Recordkeeping Burden
-
-			IX.A.2.e Collection of Information Is Mandatory
-
-			IX.A.2.f Confidentiality
-
-			IX.A.2.g Record Retention Period
-
-		IX.A.3.0 Rule 741
-
-			IX.A.3.a Collection of Information
-
-			IX.A.3.b Use of Information
-
-			IX.A.3.c Respondents
-
-			IX.A.3.d Disclosure Burden
-
-			IX.A.3.e Collection of Information Is Mandatory
-
-			IX.A.3.f Confidentiality
-
-			IX.A.3.g Record Retention Period
-
-	IX.B.0.0 Consideration of Benefits and Costs
-
-		IX.B.1.0 Introduction
-
-		IX.B.2.0 Discussion of Rule Interpretations and Exemptions
-
-			IX.B.2.a Networking Exception
-
-			IX.B.2.b Trust and Fiduciary Activities Exception
-
-			IX.B.2.c Sweep Accounts and Transactions in Money Market Funds
-
-			IX.B.2.d Safekeeping and Custody Exception
-
-			IX.B.2.e Other Rules
-
-		IX.B.3.0 General Costs and Benefits
-
-	IX.C.0.0 Consideration of Burden on Competition, and on Promotion of Efficiency, Competition, and Capital Formation
-
-	IX.D.0.0 Final Regulatory Flexibility Analysis
-
-		IX.D.1.0 Reasons for the Action
-
-		IX.D.2.0 Objectives
-
-		IX.D.3.0 Legal Basis
-
-		IX.D.4.0 Small Entities Subject to the Rule
-
-		IX.D.5.0 Reporting, Recordkeeping and Other Compliance Requirements The rules will not impose any significant reporting, recordkeeping, or other
-
-		IX.D.6.0 Duplicative, Overlapping, or Conflicting Federal Rules
-
-		IX.D.7.0 Significant Alternatives
-
-	IX.E.0.0 Plain Language
-
-X.0.0.0 Statutory Authority
-
-XI.0.0.0 Text of Rules and Rule Amendment List of Subjects
-
-
-
-<END TABLE OF CONTENTS>
-
 Conforming Version (To Conform to Release Published in the Federal Register)
 
 FEDERAL RESERVE SYSTEM 12 CFR Part 218
@@ -514,7 +270,7 @@ Rule 700(c) provides that a referral fee paid to any bank employee will be consi
 
 As under the proposal, a referral fee also will be considered “nominal” under Rule 700(c) if the payment does not exceed (1) twice the employee’s actual base hourly wage; (2) twice the average of the minimum and maximum hourly wage established by the bank for the current or prior year for the job family that includes the employee; or
 
-<h>3. 1/1000th of the average of the minimum and maximum annual base salary established by the bank for the current or prior year for the job family that includes the employee.</h>
+3. 1/1000th of the average of the minimum and maximum annual base salary established by the bank for the current or prior year for the job family that includes the employee.
 
 In developing these alternatives to the fixed $25 fee, the Agencies considered data on the average hourly wages of bank tellers, which are the class of bank employees most typically engaged in making referrals of retail customers. These data indicate that the national mean hourly wage in 2005 for tellers was $10.59. <sup>50</sup> Accordingly, the$25 amount is slightly more than twice the national mean hourly wage for tellers in 2005, and slightly more than 1/1000 th of the annualized salary of an employee that makes$12.50 per hour (or $25 every two hours) based on a 40 hour work week. <sup>51</sup> Thus, the alternatives based on twice the employee’s hourly base wage or 1/1000 th of the employee’s base annual salary, at current pay rates, are designed to allow bank employees to receive referral fees that are roughly equivalent to those that may be received by bank tellers under the flat dollar option.
 
@@ -584,13 +340,13 @@ Any affiliate of the bank (other than a broker-dealer), or any operating unit of
 
 A broker-dealer if:
 
-<h>A. Such measure of overall profitability or revenue is only one of multiple factors or variables used to determine the compensation of the officer, director or employee;</h>
+A. Such measure of overall profitability or revenue is only one of multiple factors or variables used to determine the compensation of the officer, director or employee;
 
-<h>B. The factors or variables used to determine the compensation of the officer, director or employee include multiple significant factors or variables that are not related to the profitability or revenue of the broker-dealer;</h>
+B. The factors or variables used to determine the compensation of the officer, director or employee include multiple significant factors or variables that are not related to the profitability or revenue of the broker-dealer;
 
-<h>C. A referral made by the employee is not a factor or variable in determining the employee’s compensation under the plan; and</h>
+C. A referral made by the employee is not a factor or variable in determining the employee’s compensation under the plan; and
 
-<h>D. The employee’s compensation under the plan is not determined by reference to referrals made by any other person.</h>
+D. The employee’s compensation under the plan is not determined by reference to referrals made by any other person.
 
 When a bonus program is based on the overall profitability of a bank, an affiliate of a bank (other than a broker-dealer), or an operating unit of the bank or an affiliate (other than a broker-dealer), any relationship between a referral made by an employee and the amount of payments that the employee may receive under the plan are likely to be attenuated. In these circumstances, for example, any potential connection between the revenue received by a bank from its partner broker-dealer as a result of a referral and the payments made to the referring bank employee under the plan likely would be tenuous and largely speculative given the number of other employees, business and actions thatcontribute to the overall profitability of the bank, affiliate or most operating units. The Agencies believe this attenuation effectively addresses any potential that payments under the plan would give an employee an undue promotional interest in any securities transactions that may occur at the broker-dealer as a result of a referral. A bonus plan based on the overall revenue of a bank or qualifying affiliate or operating unit would be similarly attenuated and, for this reason, the Agencies have modified the safe harbor to cover plans based on either the “overall profitability or revenue” of a bank or a qualifying affiliate or operating unit. This would include plans based on an entity’s earnings per share or stock price, both of which are directly related to the entity’s overall profitability or revenue. Because other, more granular measures of the financial performance of a bank, affiliate or operating unit could create an unduly close connection between the employee’s expected payment under the bonus plan and referrals made to the broker- dealer or the securities transactions that result from those referrals, the rules provide for plans structured in more granular ways to be analyzed under the multi-factor, discretionary criteria in Rule 700(b)(1).
 
@@ -722,7 +478,7 @@ The exemption for high net worth and institutional customers expressly provides 
 
 Section 3(a)(4)(B)(ii) of the Exchange Act (the “trust and fiduciary exception”) permits a bank, under certain conditions, to effect securities transactions in a trustee or fiduciary capacity without being registered as a broker. <sup>142</sup> A bank must effect such transactions in its trust department, or other department that is regularly examined by bank examiners for compliance with fiduciary principles and standards. <sup>143</sup> In addition the bank must be “chiefly compensated” for such transactions, consistent with fiduciaryprinciples and standards, on the basis of: (1) an administration or annual fee; (2) apercentage of assets under management; (3) a flat or capped per order processing fee that does not exceed the cost the bank incurs in executing such securities transactions; or
 
-<h>4. any combination of such fees.</h>
+4. any combination of such fees.
 
 Banks relying on this exception may not publicly solicit brokerage business, other than by advertising that they effect transactions in securities in conjunction with advertising their other trust activities. <sup>145</sup> In addition, a bank that effects a transaction in the United States of a publicly traded security under the exception must execute the transaction in accordance with Exchange Act Section 3(a)(4)(C). <sup>146</sup> This Section requires that the bank direct the trade to a registered broker-dealer for execution, effect the trade through a cross trade or substantially similar trade either within the bank or between the bank and an affiliated fiduciary in a manner that is not in contravention offiduciary principles established under applicable federal or state law, or effect the trade in some other manner that the Commission permits. <sup>147</sup> The trust and fiduciary exceptionrecognizes the traditional securities role banks have performed for trust and fiduciary customers and includes conditions to help ensure that a bank does not operate a securities broker in the trust department.
 
@@ -738,9 +494,9 @@ A majority of commenters supported the general approach taken in the proposed ru
 
 After carefully considering the comments, the Agencies have retained the two alternative approaches in substantially the same form as proposed. Specifically, Rule 721 provides that a bank meets the “chiefly compensated” condition in the trust and fiduciary exception if the “relationship-total compensation percentage” for each trust or fiduciary account of the bank is greater than 50 percent. <sup>153</sup> The “relationship-total compensation percentage” for a trust or fiduciary account is calculated by (1) dividing the relationship compensation attributable to the account during each of the immediately preceding two years by the total compensation attributable to the account during the relevant year;
 
-<h>2. translating the quotient obtained for each of the two years into a percentage; and</h>
+2. translating the quotient obtained for each of the two years into a percentage; and
 
-<h>3. then averaging the percentages obtained for each of the two immediately preceding years.</h>
+3. then averaging the percentages obtained for each of the two immediately preceding years.
 
 The final rules (Rule 722) also allow a bank to use a bank-wide approach to the “chiefly compensated” condition as an alternative to the account-by-account approach. To use this bank-wide methodology, the bank must meet two conditions. First, the “aggregate relationship-total compensation percentage” for the bank’s trust and fiduciary business as a whole must be at least 70 percent. <sup>155</sup> The “aggregate relationship-totalcompensation percentage” of a bank operating under the bank-wide approach is calculated in a similar manner as the “relationship-total compensation percentage” of an account under the account-by-account, except that the calculations would be based on the aggregate relationship compensation and total compensation received by the bank from its trust and fiduciary business as a whole during each of the two immediately preceding years. In other words, the percentage would be determined by (1) dividing the relationship compensation attributable to the bank’s trust and fiduciary business as a whole during each of the immediately preceding two years by the total compensation attributable to the bank’s trust and fiduciary business as a whole during the relevant year;(2) translating the quotient obtained for each of the two years into a percentage; and (3) then averaging the percentages obtained for each of the two immediately preceding years. <sup>156</sup> Second, the bank must comply with the conditions in the trust and fiduciary exception (other than the compensation test in Section 3(a)(4)(B)(ii)(I)) <sup>157</sup> and comply with Section 3(a)(4)(C) (relating to trade execution) of the Exchange Act. <sup>158</sup>
 
@@ -1300,7 +1056,7 @@ The rules apply to “banks,” which is defined in Section 3(a)(6) of the Excha
 
 The Agencies estimate that the rules will apply to approximately 9,475 banks, approximately 5,816 of which could be considered small banks with assets of $165 million or less. Moreover, we do not anticipate any significant costs to small entity banks as a result of the rules. We note that a trade association whose membership consists primarily of small banking organizations indicated that small banks would be able to comply with the rules as proposed without significantly altering their activities. <sup>384</sup>
 
-<h>5. Reporting, Recordkeeping and Other Compliance Requirements The rules will not impose any significant reporting, recordkeeping, or othercompliance requirements on banks that are small entities. <sup>385</sup></h>
+<h>5. Reporting, Recordkeeping and Other Compliance Requirements</h> The rules will not impose any significant reporting, recordkeeping, or othercompliance requirements on banks that are small entities. <sup>385</sup>
 
 <h>6. Duplicative, Overlapping, or Conflicting Federal Rules</h>
 

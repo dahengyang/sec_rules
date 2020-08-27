@@ -1,49 +1,3 @@
-https://www.sec.gov/rules/final/33-8600.pdf
-
-I.0.0.0 EXECUTIVE SUMMARY AND BACKGROUND
-
-II.0.0.0 RULE 16b-3
-
-III.0.0.0 RULE 16b-7
-
-IV.0.0.0 ITEM 405 OF REGULATIONS S-K AND S-B
-
-V.0.0.0 PAPERWORK REDUCTION ACT
-
-VI.0.0.0 COST-BENEFIT ANALYSIS
-
-VII.0.0.0 EFFECT ON EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-VIII.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	VIII.A.0.0 Reasons for and Objectives of the Proposed Amendments
-
-	VIII.B.0.0 Legal Basis
-
-	VIII.C.0.0 Significant Issues Raised by Public Comment
-
-	VIII.D.0.0 Small Entities Subject to the Amendments
-
-	VIII.E.0.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-	VIII.F.0.0 Overlapping or Conflicting Federal Rules
-
-	VIII.G.0.0 Significant Alternatives
-
-		VIII.G.1.0 The establishment of different compliance or reporting requirements or timetables that take into account the resources available to small entities;
-
-		VIII.G.2.0 The clarification, consolidation or simplification of compliance and reporting requirements under the rule for such small entities;
-
-		VIII.G.3.0 The use of performance rather than design standards; and
-
-		VIII.G.4.0 An exemption from coverage of the rule, or any part thereof, for small entities.
-
-IX.0.0.0 STATUTORY BASIS
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 228, 229 and 240
 
 [RELEASE NOS. 33-8600; 34-52202; 35-28013; IC-27025; File No. S7-27-04]
@@ -266,13 +220,13 @@ We do not believe that any current federal rules duplicate, overlap or conflict 
 
 The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small businesses. We considered the following types of alternatives:
 
-<h>1. The establishment of different compliance or reporting requirements or timetables that take into account the resources available to small entities;</h>
+1. The establishment of different compliance or reporting requirements or timetables that take into account the resources available to small entities;
 
-<h>2. The clarification, consolidation or simplification of compliance and reporting requirements under the rule for such small entities;</h>
+2. The clarification, consolidation or simplification of compliance and reporting requirements under the rule for such small entities;
 
-<h>3. The use of performance rather than design standards; and</h>
+3. The use of performance rather than design standards; and
 
-<h>4. An exemption from coverage of the rule, or any part thereof, for small entities.</h>
+4. An exemption from coverage of the rule, or any part thereof, for small entities.
 
 Regarding Alternative 1, we believe that differing compliance or reporting requirements for small entities would be inconsistent with Section 16, the Commission’s intent when it adopted these rules, and the Commission’s purpose of making the application of these rules more uniform. Regarding Alternative 2, the amendments are concise and clarify the Rule 16b-3 and Rule 16b-7 exemptive conditions and amend the Item 405 reporting requirement for all entities, including small entities. Regarding Alternative 3, we believe that design rather than performance standards are appropriatebecause use of performance standards for small entities would not be consistent with the statutory purpose of Section 16. Finally, an exemption for small entities is not appropriate because these amendments are designed to harmonize the application of the exemptive rules.
 

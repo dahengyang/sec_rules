@@ -1,191 +1,3 @@
-https://www.sec.gov/rules/final/2008/33-8957.pdf
-
-I.0.0.0 BACKGROUND AND SUMMARY
-
-	I.A.0.0 General overview of the cross-border exemptions
-
-	I.B.0.0 Background of rule revisions adopted
-
-		I.B.1.0 Reasons for the amendments
-
-		I.B.2.0 Summary of the amendments
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Revised eligibility test for the revised cross-border exemptions
-
-		II.A.1.0 Changes to the look-through analysis
-
-			II.A.1.a Timing of the calculation
-
-			II.A.1.b Exclusion of large target security holders
-
-			II.A.1.c Under what circumstances is the issuer or acquiror unable to conduct the look-through analysis to determine eligibility to rely on a cross-border exemption?
-
-		II.A.2.0 Elements of the alternate test
-
-			II.A.2.a Average daily trading volume test
-
-			II.A.2.b Information filed by the issuer with the Commission or home country regulators
-
-			II.A.2.c Reason to know
-
-		II.A.3.0 Changes to eligibility test for rights offerings
-
-	II.B.0.0 Changes to the Tier I exemptions
-
-		II.B.1.0 Expanded exemption from Exchange Act Rule 13e-3
-
-I.0.0.0 These conditions such as the requirement that U.S. security holders be treated at least as favorably as foreign security holders, will continue to safeguard the interests of U.S. holders. In addition, a party relying on revised Rule 13-3(g)(6) for affiliated transactions not conducted pursuant to Securities Act Rule 802 or Tier I must submit a Form CB to
-
-		I.B.2.0 Technical changes to Rule 802
-
-	I.C.0.0 Changes to the Tier II exemptions
-
-		I.C.1.0 Tier II relief for tender offers not subject to Rule 13e-4 or Regulation 14D
-
-		I.C.2.0 Tier II relief for concurrent U.S. and non-U.S. offers
-
-			I.C.2.a Multiple foreign offers in connection with a U.S. offer
-
-			I.C.2.b U.S. offer may include non-U.S. holders of ADRs155
-
-			I.C.2.c U.S. holders may be included in foreign offer
-
-		I.C.3.0 Termination of withdrawal rights while counting tendered securities
-
-		I.C.4.0 Subsequent offering period changes
-
-			I.C.4.a Maximum time limit on subsequent offering period eliminated
-
-			I.C.4.b Prompt payment of securities tendered during the subsequent offering period
-
-			I.C.4.c Payment of interest on securities tendered during the subsequent offering period
-
-			I.C.4.d Mix and match offers and the initial and subsequent offering periods
-
-		I.C.5.0 Terminating withdrawal rights immediately after reducing or waiving a minimum acceptance condition
-
-		I.C.6.0 Early termination of an initial offering period or a voluntary extension of an initial offering period
-
-		I.C.7.0 Exceptions from Rule 14e-5 for Tier II cross-border tender offers
-
-			I.C.7.a Purchases or arrangements to purchase pursuant to a foreign tender offer(s)
-
-			I.C.7.b Purchases or arrangements to purchase by an affiliate of the financial advisor and an offeror and its affiliates
-
-	I.D.0.0 Expanded availability of early commencement
-
-	I.E.0.0 Changes to schedules and forms
-
-		I.E.1.0 Form CB
-
-		I.E.2.0 Schedule TO, Form F-4 and Form S-4
-
-	I.F.0.0 Beneficial ownership reporting by foreign institutions
-
-	I.G.0.0 Interpretive Guidance
-
-		I.G.1.0 Foreign target security holders and U.S. all-holders requirements
-
-		I.G.2.0 Exclusion of U.S. target security holders from cross-border tender offers
-
-		I.G.3.0 Vendor placements
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-		III.G.1.0 “Form S-4” (OMB Control No. 3235-0065);
-
-		III.G.2.0 “Form F-4” (OMB Control No. 3235-0325);
-
-		III.G.3.0 “Form ID” (OMB Control No. 3235-0328);
-
-		III.G.4.0 “Form CB” (OMB Control No. 3235-0518);
-
-		III.G.5.0 “Form F-X” (OMB Control No. 3235-0379);
-
-		III.G.6.0 “Schedule TO” (OMB Control No. 3235-0515);
-
-		III.G.7.0 “Securities Ownership – Regulation 13D (Commission Rules 13d­ 1 through 13d-7 and Schedules 13D and 13G)” (OMB Control No. 3235-0145);
-
-		III.G.8.0 “Form 3” (OMB Control No. 3235-0104); and
-
-		III.G.9.0 “Form 4” (OMB Control No. 3235-0287).
-
-	III.A.0.0 Summary of the Amendments
-
-		III.A.1.0 Amendments to the Tier I exemption and Form CB
-
-		III.A.2.0 Amendments to Form CB, Forms S-4 and F-4, and Schedule TO
-
-		III.A.3.0 Amendments to Schedule 13G
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Changes to the eligibility test for determining eligibility to rely on the cross-border exemptions
-
-		IV.A.1.0 Amendments
-
-			IV.A.1.a Adoption of the alternate test and revision to test for non-negotiated transactions
-
-			IV.A.1.b Revised calculation date and inclusion of more than 10 percent holders
-
-	IV.B.0.0 Changes to the Tier I exemption
-
-		IV.B.1.0 Expansion of the Tier I exemption from Exchange Act Rule 13e-3
-
-			IV.B.1.a Benefits
-
-			IV.B.1.b Costs
-
-		IV.B.2.0 Technical change to Rule 802 of Regulation C
-
-	IV.C.0.0 Changes to the Tier II cross-border exemptions
-
-		IV.C.1.0 Benefits
-
-		IV.C.2.0 Costs
-
-	IV.D.0.0 Expanded availability of early commencement
-
-		IV.D.1.0 Amendment to Securities Act Rule 162
-
-			IV.D.1.a Benefits
-
-			IV.D.1.b Costs
-
-	IV.E.0.0 Changes to forms and schedules
-
-		IV.E.1.0 Benefits
-
-		IV.E.2.0 Costs
-
-	IV.F.0.0 Changes to the beneficial ownership reporting rules
-
-		IV.F.1.0 Benefits
-
-		IV.F.2.0 Costs
-
-V.0.0.0 CONSIDERATION OF IMPACT ON ECONOMY, BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	VI.A.0.0 Need for the amendments
-
-	VI.B.0.0 Significant issues raised by public comments
-
-	VI.C.0.0 Small entities subject to the final amendments
-
-	VI.D.0.0 Reporting, recordkeeping and other compliance requirements
-
-	VI.E.0.0 Agency action to minimize effect on small entities
-
-VII.0.0.0 STATUTORY BASIS AND TEXT OF AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 230, 231, 232, 239, 240, 241, and 249
 
 [RELEASE NOS. 33-8957; 34-58597; FILE NO. S7-10-08] RIN 3235-AK10
@@ -560,7 +372,7 @@ We are adopting as proposed revised Exchange Act Rule 13e-3(g)(6) expands the sc
 
 We believe that the form of the transaction should not govern whether Rule 13e-3 applies to a cross-border transaction which otherwise would be eligible for the Tier I exemption from that rule; therefore, we proposed eliminating the limits on the kinds of cross-border transactions that could be covered under the exemption in Rule 13e-3(g)(6). We are adopting this change as proposed. In order to qualify for the expanded exemption from Rule 13e-3, a party must meet all of the conditions for reliance on Rule 802 or Tier
 
-<h>I. These conditions such as the requirement that U.S. security holders be treated at least as favorably as foreign security holders, will continue to safeguard the interests of U.S. holders. In addition, a party relying on revised Rule 13-3(g)(6) for affiliated transactions not conducted pursuant to Securities Act Rule 802 or Tier I must submit a Form CB tothe same extent as would be required in a transaction conducted pursuant to those provisions. Because the party relying on the expanded cross-border exemption from Rule 13e-3 would have had an obligation to file a Schedule 13E-3, absent the expanded exemption, a Form CB (and Form F-X where the filer is foreign) will be required. <sup>142</sup></h>
+I. These conditions such as the requirement that U.S. security holders be treated at least as favorably as foreign security holders, will continue to safeguard the interests of U.S. holders. In addition, a party relying on revised Rule 13-3(g)(6) for affiliated transactions not conducted pursuant to Securities Act Rule 802 or Tier I must submit a Form CB tothe same extent as would be required in a transaction conducted pursuant to those provisions. Because the party relying on the expanded cross-border exemption from Rule 13e-3 would have had an obligation to file a Schedule 13E-3, absent the expanded exemption, a Form CB (and Form F-X where the filer is foreign) will be required. <sup>142</sup>
 
 In the Proposing Release, we solicited comment on how we should accomplish the proposed expansion of the exemption from Rule 13e-3. We asked whether we should revise the rule to list additional transaction structures that would be covered under the expanded exemption, or whether we should simply eliminate any limits on the types of transactions covered, as proposed. The four commenters who addressed this issue supported the change, including our approach of leaving open the kinds of cross-border transactions that may be covered under the expanded exemption, to provide maximum flexibility for the parties covered by Rule 13e-3. <sup>143</sup>
 
@@ -972,23 +784,23 @@ Some provisions of the rule amendments adopted today constitute a “collection 
 
 The hours and costs associated with preparing and filing the disclosure, filing the forms and schedules and retaining records required by this regulation constitute reporting and cost burdens imposed by each collection of information. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The titles for the collection of information are:
 
-<h>1. “Form S-4” (OMB Control No. 3235-0065);</h>
+1. “Form S-4” (OMB Control No. 3235-0065);
 
-<h>2. “Form F-4” (OMB Control No. 3235-0325);</h>
+2. “Form F-4” (OMB Control No. 3235-0325);
 
-<h>3. “Form ID” (OMB Control No. 3235-0328);</h>
+3. “Form ID” (OMB Control No. 3235-0328);
 
-<h>4. “Form CB” (OMB Control No. 3235-0518);</h>
+4. “Form CB” (OMB Control No. 3235-0518);
 
-<h>5. “Form F-X” (OMB Control No. 3235-0379);</h>
+5. “Form F-X” (OMB Control No. 3235-0379);
 
-<h>6. “Schedule TO” (OMB Control No. 3235-0515);</h>
+6. “Schedule TO” (OMB Control No. 3235-0515);
 
-<h>7. “Securities Ownership – Regulation 13D (Commission Rules 13d­ 1 through 13d-7 and Schedules 13D and 13G)” (OMB Control No. 3235-0145);</h>
+7. “Securities Ownership – Regulation 13D (Commission Rules 13d­ 1 through 13d-7 and Schedules 13D and 13G)” (OMB Control No. 3235-0145);
 
-<h>8. “Form 3” (OMB Control No. 3235-0104); and</h>
+8. “Form 3” (OMB Control No. 3235-0104); and
 
-<h>9. “Form 4” (OMB Control No. 3235-0287).</h>
+9. “Form 4” (OMB Control No. 3235-0287).
 
 <h>A. Summary of the Amendments</h>
 

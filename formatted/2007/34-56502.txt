@@ -1,35 +1,3 @@
-https://www.sec.gov/rules/final/2007/34-56502.pdf
-
-I.0.0.0 I.	Introduction and Background
-
-II.0.0.0 
-
-	II.A.0.0 
-
-	V.B.0.0 Amendment to Exchange Act Rule 15a-6
-
-	V.C.0.0 Securities Lending by Bank Dealers
-
-	V.D.0.0 Withdrawal of Exchange Act Rule 3b-9, Rule 15a-8, and Rule 15a-9
-
-III.0.0.0 Administrative Law Matters
-
-	III.A.0.0 Paperwork Reduction Act Analysis
-
-	III.B.0.0 Consideration of Benefits and Costs
-
-	III.C.0.0 Consideration of Burden on Competition, and on Promotion of Efficiency, Competition, and Capital Formation
-
-	III.D.0.0 Regulatory Flexibility Certification
-
-IV.0.0.0 Statutory Authority
-
-V.0.0.0 Text of Final Rules and Rule Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
 
 Release No. 34-56502; File No. S7-23-06 RIN 3235-AJ77
@@ -90,9 +58,9 @@ As discussed below, we are adopting Exchange Act Rule 3a5-2 to provide a conditi
 
 Finally, we are withdrawing three rules under the Exchange Act: Rule 3b-9, <sup>6</sup> which defined the term “bank” for purposes of the Exchange Act definitions of “broker” and “dealer,” due to judicial invalidation; Rule 15a-8, <sup>7</sup> which provided a time-limited exemption for banks’ securities activities, due to the passage of time; and Rule 15a-9, <sup>8</sup> which provided an exemption from the Exchange Act definitions of “broker” and “dealer” for savings associations and savings banks, as this no longer is necessary given the passage of the Financial Services Regulatory Relief Act of 2006 (“Regulatory Relief Act”).
 
-<h>II. </h>
+<h>II. Adopted Rules and Rule Amendments</h>
 
-<h>A. </h>
+<h>A. Regulation S Transactions with Non-U.S. Persons</h>
 
 Section 3(a)(5) of the Exchange Act for certain principal transactions involving Regulation S securities. As with Rule 771 of Regulation R, which will permit banks to engage in certain Regulation S transactions on an agency basis without being “brokers,” this rule recognizes that non-U.S. persons generally will not rely on the protections of the U.S. securities laws when purchasing Regulation S securities from U.S. banks, and that non-U.S. persons can purchase the same securities from banks located outside of the U.S. <sup>9</sup> Commenters generally supported theproposal while suggesting certain modifications and clarifications. <sup>10</sup> The rule, as adopted, incorporates changes that respond to some of these comments.
 

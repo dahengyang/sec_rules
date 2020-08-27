@@ -1,75 +1,3 @@
-https://www.sec.gov/rules/final/34-51983.pdf
-
-I.0.0.0 Executive Summary
-
-II.0.0.0 Amendments to Rule 3a51-1: Definition of Penny Stock
-
-	II.A.0.0 Reported Securities and Other Exchange-Registered Securities – Minimum Listing Standards
-
-			II.A..e of Rule 3a51-1.
-
-		II.A.1.0 Protecting issuers of new securities and promoting the capital formation process on behalf of small companies are fundamental concerns in maintaining a strong economy and viable trading markets.”
-
-	II.B.0.0 Elimination of the Exclusion for Nasdaq Securities
-
-	II.C.0.0 New Exclusion for Security Futures Products
-
-	II.D.0.0 Other Amendments to Rule 3a51-1
-
-III.0.0.0 Amendments to Rules 15g-2 and 15g-9
-
-	III.A.0.0 Background
-
-		III.A.1.0 Rule 15g-2
-
-		III.A.2.0 Rule 15g-9
-
-			III.A.2.a As a means reasonably designed to prevent fraudulent, deceptive, or manipulative acts or practices, it shall be unlawful for a broker or dealer to sell a penny stock to, or to effect the purchase of a penny stock by, any person unless:
-
-		III.A.1.0 prior to the transaction:
-
-	III.B.0.0 Amendments to Rules 15g-2 and 15g-9
-
-IV.0.0.0 Amendments to Schedule 15G
-
-V.0.0.0 Other Comments
-
-VI.0.0.0 Paperwork Reduction Act Analysis
-
-	VI.A.0.0 Rule 3a51-1 Analysis
-
-	VI.B.0.0 Rules 15g-2 and 15g-9 Analyses
-
-		VI.B.1.0 Summary of Collection of Information
-
-		VI.B.2.0 Proposed Use of the Information
-
-		VI.B.3.0 Respondents
-
-		VI.B.4.0 Total Annual Reporting and Recordkeeping Burden
-
-			VI.B.4.a Estimated Burden Hours
-
-			VI.B.4.b Estimate of Total Annualized Paperwork Cost Burden
-
-VII.0.0.0 Costs and Benefits of Rule Amendments
-
-	VII.A.0.0 Rule 3a51-1
-
-	VII.B.0.0 Rules 15g-2 and 15g-9
-
-	VII.C.0.0 Rule 15g-100
-
-VIII.0.0.0 Consideration of Burden on Promotion of Efficiency, Competition, and Capital Formation
-
-IX.0.0.0 Final Regulatory Flexibility Analysis
-
-X.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
 
 [Release No. 34-51983; File No. S7-02-04] RIN 3235-AI02
@@ -144,9 +72,7 @@ An issuer must have (1) stockholders’ equity of $5 million, a market value of 
 
 For common stock, the initial listing standards must also require at least 300 round lot holders, <sup>13</sup> and at least 1 million publicly held shares with a market value of at least $5 million. <sup>14</sup> In the case of convertible debt securities, the initial listing standards need to require a principal amount outstanding of at least $10 million. With respect to rights and warrants, the initial listing standards also must require that at least 100,000rights and warrants be issued and that the underlying security be registered on a national securities exchange or listed on an automated quotation system sponsored by a registered national securities association, and satisfy the requirements of paragraphs (a) or (e) of Rule 3a51-1.
 
-For put warrants (that is, instruments that grant the holder the right to sell to the issuing company a specified number of shares of the company’s common stock, at a specified price on or before a specified date), the initial listing standards must require that at least 100,000 put warrants be issued and that the underlying security be registered on a national securities exchange or listed on an automated quotation system sponsored by a registered national securities association, and satisfy the requirements of paragraph (a) or
-
-<h>e. of Rule 3a51-1.</h>
+For put warrants (that is, instruments that grant the holder the right to sell to the issuing company a specified number of shares of the company’s common stock, at a specified price on or before a specified date), the initial listing standards must require that at least 100,000 put warrants be issued and that the underlying security be registered on a national securities exchange or listed on an automated quotation system sponsored by a registered national securities association, and satisfy the requirements of paragraph (a) or (e) of Rule 3a51-1.
 
 With regard to units (that is, two or more securities traded together), the initial listing standards must require that all component parts be registered on a national securities exchange or listed on an automated quotation system sponsored by a registered national securities association, and satisfy the requirements of paragraph (a) or (e) of Rule 3a51-1. Finally, for all other equity securities (including hybrid securities and derivative securities products), the national securities exchange or national securities association must have quantitative initial listing standards that are substantially similar to those outlined above. <sup>15</sup>
 
@@ -174,7 +100,7 @@ These amendments will create a more meaningful distinction between securities th
 
 FR 18004 (Apr. 28, 1992). Among other things, Congress found when it enacted the Penny Stock Reform Act that:“. . . (2) Protecting investors in new securities is a critical component in the maintenance of an honest and healthy market for such securities.
 
-<h>1. Protecting issuers of new securities and promoting the capital formation process on behalf of small companies are fundamental concerns in maintaining a strong economy and viable trading markets.”</h>
+1. Protecting issuers of new securities and promoting the capital formation process on behalf of small companies are fundamental concerns in maintaining a strong economy and viable trading markets.”
 
 Penny Stock Reform Act, Sec. 502 [15 U.S.C. 78o note].
 
@@ -212,9 +138,9 @@ Rule 15g-9, which was originally adopted as Rule 15c2-6 under the Exchange Act, 
 
 In approving an account for transactions in penny stocks, a broker-dealer must obtain sufficient information from the customer to make an appropriate suitability determination, provide the customer with a statement setting forth the basis of the determination, and obtain a signed copy of the suitability statement from the customer in tangible form. <sup>57</sup> By requiring the customer to agree in tangible form to purchases of penny stocks, Rule 15g-9(a)(2)(ii) was intended to provide the customer with an opportunity to make an investment decision outside of a high-pressure telephone
 
-<h>a. As a means reasonably designed to prevent fraudulent, deceptive, or manipulative acts or practices, it shall be unlawful for a broker or dealer to sell a penny stock to, or to effect the purchase of a penny stock by, any person unless:* * *</h>
+a. As a means reasonably designed to prevent fraudulent, deceptive, or manipulative acts or practices, it shall be unlawful for a broker or dealer to sell a penny stock to, or to effect the purchase of a penny stock by, any person unless:* * *
 
-<h>1. prior to the transaction:the broker or dealer has approved the person’s account for transactions in penny stocks in accordance with the procedures set forth in paragraph (b) of this section; andthe broker or dealer has received from the person a written agreement to the transaction setting forth the identity and quantity of the penny stock to be purchased.conversation with a salesperson. It removes the pressure for an immediate decision. <sup>58</sup> We believe this requirement is critical to the effectiveness of the rule. <sup>59</sup></h>
+1. prior to the transaction:the broker or dealer has approved the person’s account for transactions in penny stocks in accordance with the procedures set forth in paragraph (b) of this section; andthe broker or dealer has received from the person a written agreement to the transaction setting forth the identity and quantity of the penny stock to be purchased.conversation with a salesperson. It removes the pressure for an immediate decision. <sup>58</sup> We believe this requirement is critical to the effectiveness of the rule. <sup>59</sup>
 
 In addition, the requirement that the broker-dealer provide a copy of its suitability determination to the customer prior to the customer’s commitment to purchase a penny stock was intended to provide the customer with the opportunity to review that determination and decide whether the broker-dealer had made a good faith attempt to consider the customer’s financial situation, investment experience and investment objectives. <sup>60</sup> The requirement that the broker-dealer receive a signed copy of the suitability statement in tangible form is also intended “to convey to the customer the importance of the suitability statement, and to prevent a salesperson from convincing the customer to sign the statement without a review for accuracy.” <sup>61</sup>
 

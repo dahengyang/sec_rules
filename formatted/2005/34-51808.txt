@@ -1,415 +1,3 @@
-https://www.sec.gov/rules/final/34-51808.pdf
-
-I.0.0.0 Introduction
-
-		I..1.0 a new Order Protection Rule,which reinforces the fundamental principle of obtaining the best price for investors when such price is represented by automated quotations that are immediately accessible;
-
-		I..2.0 a new Access Rule, which promotes fair and non-discriminatory access to quotations displayed by NMS trading centers through a private linkage approach;
-
-		I..3.0 a new Sub-Penny Rule, which establishes a uniform quoting increment of no less than one penny for quotations in NMS stocks equal to or greater than $1.00 per share to promote greater price transparency and consistency;
-
-		I..4.0 amendments to the Market Data Rules and joint industry plans that allocate plan revenues to self-regulatory organizations ("SROs") for their contributions to public price discovery and promote wider and more efficient distribution of market data; and
-
-		I..5.0 a reorganization of existing Exchange Act rules governing the NMS to promote greater clarity and understanding of the rules.
-
-	I.A.0.0 Summary of Rulemaking Process and Record
-
-	I.B.0.0 NMS Principles and Objectives
-
-		I.B.1.0 Competition Among Markets and Competition Among Orders
-
-		I.B.2.0 Serving the Interests of Long-Term Investors and Listed Companies
-
-	I.C.0.0 Overview of Adopted Rules
-
-		I.C.1.0 Order Protection Rule
-
-		I.C.2.0 Access Rule
-
-		I.C.3.0 Sub-Penny Rule
-
-		I.C.4.0 Market Data Rules and Plans
-
-II.0.0.0 Order Protection Rule
-
-		II.C.1.0 whether an intermarket trade-through rule is needed to promote fair and efficient equity markets, particularly for Nasdaq stocks which have not been subject to the current ITS trade-through provisions;
-
-		II.C.2.0 whether only automated and immediately accessible quotations should be given trade-through protection and, if so, what is the best approach for defining such quotations;
-
-		II.C.3.0 whether intermarket protection against trade-throughs can be implemented in a workable manner, particularly for high-volume stocks;
-
-		II.C.4.0 whether the exception in the original proposal allowing a general opt-out of protected quotations is necessary or appropriate, particularly if manual quotations are excluded from trade-through protection;
-
-		II.C.5.0 whether the scope of quotations entitled to trade-through protection should extend beyond the best bids and offers of the various markets; and
-
-		II.C.6.0 whether the benefits of an intermarket trade-through rule would justify its cost of implementation.
-
-		II.C.1.0 Need for Intermarket Order Protection Rule
-
-			II.C.1.a Trade-Through Rates in Nasdaq and NYSE Stocks
-
-			II.C.1.b Efficiency of Trading in Nasdaq and NYSE Stocks
-
-			II.C.1.c Need for Intermarket Rule to Achieve Effective Protection Against Trade-Throughs
-
-		II.C.2.0 Limiting Protection to Automated and Accessible Quotations
-
-			II.C.2.a Standards for Automated Quotations
-
-			II.C.2.b Standards for Automated Trading Centers
-
-		II.C.3.0 Workable Implementation of Intermarket Trade-Through Protection
-
-		II.C.12.0 The Commission notes that the existence of rapid quotation updates does not necessarily mean that a security is actively traded or highly liquid.
-
-		II.C.1.0 Elimination of Proposed Opt-Out Exception
-
-			II.C.1.a Preserving Competition Among Markets
-
-			II.C.1.b Promoting the Interests of Both Marketable Orders and Limit Orders
-
-		II.C.2.0 Scope of Protected Quotations
-
-		II.C.3.0 Benefits and Implementation Costs of the Order Protection Rule
-
-		II.C.1.0 the party that received an inferior price; (2) the party whose superior-priced limit order was traded-through; and (3) the contra party to the trade-through transaction that received an advantageous price. The redistributions of welfare resulting from trade-through transactions cannot reasonably be expected to occur randomly across these parties. Customers of brokers that are doing a poor job of routing orders are more likely to be harmed than customers of brokers
-
-	II.B.0.0 Description of Adopted Rule
-
-		II.B.1.0 Scope of Rule
-
-		II.B.2.0 displayed by an automated trading center; and (3) that is the best bid or best offer of an exchange, The NASDAQ Stock Market, or an association other than The NASDAQ Stock Market (currently, the best bid or offer of the NASD's ADF).
-
-		II.B.2.0 Requirement of Reasonable Policies and Procedures
-
-		II.B.3.0 Exceptions
-
-		II.B.4.0 Duty of Best Execution
-
-III.0.0.0 Access Rule
-
-	III.A.0.0 Response to Comments and Basis for Adopted Rule
-
-		III.A.1.0 Means of Access to Quotations
-
-		III.A.2.0 Limitation on Access Fees
-
-		III.A.3.0 Locking or Crossing Quotations
-
-	III.B.0.0 Description of Adopted Rule
-
-		III.B.1.0 Access to Quotations
-
-			III.B.1.a Quotations of SRO Trading Facilities
-
-			III.B.1.b Quotations of SRO Display-Only Facility
-
-		III.B.2.0 Limitation on Access Fees
-
-		III.B.3.0 Locking or Crossing Quotations
-
-		III.B.4.0 Regulation ATS Fair Access
-
-IV.0.0.0 Sub-Penny Rule
-
-	IV.A.0.0 Background
-
-		IV.A.3.0 compliance with the Order Handling Rules and other price-dependent rules; and (4) the operations and capacity of automated systems. The Commission received 33 comments on the Concept Release. The majority of commenters opposed sub-penny pricing. Some stated that the negative effects of decimal trading would be exacerbated by further reducing the MPV, without meaningfully reducing spreads or securing other benefits for the markets or investors. These commenters recommended that all securities have an MPV of at least a penny. A smaller number of commenters believed that the forces of competition, rather than regulation by the Commission or Congress, should determine the MPV. These commenters suggested that a smaller MPV could improve market efficiency and provide investors with greater opportunity for price improvement. They argued generally that the problems accompanying decimals could be resolved through technology enhancements, rather than through regulation.
-
-	IV.B.0.0 Commission Proposal and Reproposal on Sub-Penny Quoting
-
-		IV.B.2.0 limited a quotation priced less than $1.00 per share to four decimal places.
-
-	IV.C.0.0 Comments Received
-
-		IV.C.1.0 Restriction Based on Price of the Quotation Not Price of the Stock
-
-		IV.C.2.0 Quotations Below $1.00
-
-		IV.C.3.0 Revisiting the Penny Increment
-
-		IV.C.4.0 Sub-Penny Trading
-
-		IV.C.5.0 Acceptance of Sub-Penny Quotations
-
-		IV.C.6.0 Application to Options Markets
-
-		IV.C.7.0 One-to-One Negotiating Systems
-
-		IV.C.8.0 Implementation of Rule 612
-
-V.0.0.0 Market Data Rules and Plan Amendments
-
-		V.C.1.0 Network A for securities listed on the NYSE; (2) Network B for securities listed on the Amex and other national securities exchanges; and (3) Network C for securities traded on Nasdaq. For each security, the data includes: (1) an NBBO with prices, sizes, and market center identifications; (2) the best bids and offers from each SRO that includes prices, sizes, and market center identifications; and (3) a consolidated set of trade reports in the security. The Networks
-
-	V.A.0.0 Response to Comments and Basis for Adopted Rules
-
-		V.A.1.0 Alternative Data Dissemination Models
-
-			V.A.1.a Competing Consolidators Model
-
-			V.A.1.b Hybrid Model
-
-		V.A.2.0 Level of Fees and Plan Governance
-
-			V.A.2.a Level of Fees
-
-			V.A.2.b Plan Governance
-
-		V.A.3.0 Revenue Allocation Formula
-
-		V.A.2.0 an excessive emphasis on the number of trades reported by an SRO that has led to distortive trading practices, such as wash sales, trade shredding, and print facilities; and (3) a disproportional allocation of revenues for a relatively small number of stocks with extremely high trading volume, with a much smaller allocation to the thousands of other stocks included in a Network, typically issued by smaller companies, with less trading volume.
-
-			V.A.2.a Need for New Formula
-
-			V.A.2.b Quotations that Equal the NBBO
-
-			V.A.2.c Number and Dollar Volume of Trades
-
-			V.A.2.d Allocation of Revenues Among Network Stocks
-
-		V.A.1.0 Distribution and Display of Data
-
-	V.B.0.0 Description of Adopted Rules and Amendments
-
-		V.B.1.0 Allocation Amendment
-
-			V.B.1.a Security Income Allocation
-
-			V.B.1.b Trading Share
-
-			V.B.1.c Quoting Share
-
-		V.B.2.0 Governance Amendment
-
-		V.B.3.0 Consolidation, Distribution, and Display of Data
-
-			V.B.3.a Independent Distribution of Information
-
-			V.B.3.b Consolidation of Information
-
-			V.B.3.c Display of Consolidated Information
-
-VI.0.0.0 Regulation NMS
-
-	VI.A.0.0 Description of Regulation NMS
-
-	VI.B.0.0 Rule 600 – NMS Security Designation and Definitions
-
-		VI.B.1.0 NMS Security Designation – Transaction Reporting Requirements for Equities and Listed Options
-
-		VI.B.2.0 NMS Security and NMS Stock
-
-		VI.B.3.0 Changes to Existing Definitions in the NMS Rules
-
-			VI.B.3.a Covered Security
-
-			VI.B.3.b Reported Security
-
-			VI.B.3.c Subject Security
-
-			VI.B.3.d Consolidated System
-
-			VI.B.3.e National Securities Exchange
-
-			VI.B.3.f OTC Market Maker
-
-			VI.B.3.g Vendor
-
-			VI.B.3.h Best Bid, Best Offer, and National Best Bid and National Best Offer
-
-		VI.B.4.0 Definitions in the Regulation NMS Rules Adopted Today
-
-	VI.C.0.0 Changes to Other Rules
-
-VII.0.0.0 Effective Date and Phased-In Compliance Dates
-
-VIII.0.0.0 Paperwork Reduction Act
-
-	VIII.A.0.0 Order Protection Rule
-
-		VIII.A.1.0 Summary of Collection of Information
-
-		VIII.A.2.0 Proposed Use of Information
-
-		VIII.A.3.0 Respondents
-
-		VIII.A.4.0 Total Annual Reporting and Recordkeeping Burden
-
-		VIII.A.5.0 General Information About Collection of Information
-
-	VIII.B.0.0 Access Rule
-
-	VIII.C.0.0 Sub-Penny Rule
-
-	VIII.D.0.0 Market Data Rules and Plan Amendments
-
-	VIII.E.0.0 Regulation NMS
-
-IX.0.0.0 Consideration of Costs and Benefits
-
-	IX.A.0.0 Order Protection Rule
-
-		IX.A.1.0 Benefits
-
-		IX.A.2.0 Costs
-
-	IX.B.0.0 Access Rule
-
-		IX.B.1.0 Benefits
-
-		IX.B.2.0 Costs
-
-	IX.C.0.0 Sub-Penny Rule
-
-		IX.C.1.0 Benefits
-
-		IX.C.2.0 Costs
-
-	IX.D.0.0 Market Data Rules and Plan Amendments
-
-		IX.D.1.0 Revenue Allocation Formula
-
-			IX.D.1.a Benefits
-
-			IX.D.1.b Costs
-
-		IX.D.2.0 Plan Governance
-
-			IX.D.2.a Benefits
-
-			IX.D.2.b Costs
-
-		IX.D.3.0 Amendments to Rules 11Aa3-1 and 11Ac1-2 (Redesignated as Rules 601 and 603)
-
-			IX.D.3.a Independent Distribution of Information
-
-			IX.D.3.b Consolidation of Information
-
-			IX.D.3.c Display of Consolidated Information
-
-	IX.E.0.0 Regulation NMS
-
-		IX.E.1.0 Benefits
-
-		IX.E.2.0 Costs
-
-X.0.0.0 Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
-
-	X.A.0.0 Order Protection Rule
-
-	X.B.0.0 Access Rule
-
-		X.B.1.0 prohibit trading centers from unfairly discriminating against non-members members or non- subscribers that attempt to access their quotations through a member or subscriber of the trading center, and enable access to NMS quotations through private linkages; (2) establish an outer limit on the cost of accessing such quotations of no more than $0.003 per share; and (3) require SROs to establish, maintain, and enforce rules that, among other things, prohibit their members from engaging in a pattern or practice of displaying quotations that lock or cross the automated quotations of other trading centers. The amendment to Rule 301(b)(5) under Regulation ATS lowers the threshold that triggers the Regulation ATS fair access requirements from 20% to 5% of average daily volume in a security.
-
-	X.C.0.0 Sub-Penny Rule
-
-	X.D.0.0 Market Data Rules and Plan Amendments
-
-	X.E.0.0 Regulation NMS
-
-XI.0.0.0 Regulatory Flexibility Act
-
-	XI.A.0.0 Order Protection Rule
-
-	XI.B.0.0 Access Rule
-
-	XI.C.0.0 Sub-Penny Rule
-
-		XI.C.1.0 Need for and Objective of Rule 612
-
-		XI.C.2.0 Significant Issues Raised by Public Comment
-
-		XI.C.3.0 Small Entities Subject to the Rule
-
-			XI.C.3.a National Securities Exchanges and National Securities Associations
-
-			XI.C.3.b Broker-Dealers
-
-			XI.C.3.c Vendors
-
-		XI.C.2.0 provided service to fewer than 100 interrogation devices or moving tickers at all times during the preceding fiscal year (or in the time that it has been in business, if shorter); and (3) is not affiliated with any person (other than a natural person) that is not a small business or small organization under this section. The Commission estimates that there are approximately 80 vendors, 16 of which are considered small entities.
-
-		XI.C.4.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-		XI.C.5.0 Agency Action to Minimize Effect on Small Entities
-
-	XI.D.0.0 Market Data Rules and Plan Amendments
-
-		XI.D.1.0 Regulatory Flexibility Act Certification for the Plan Amendments
-
-		XI.D.2.0 Final Regulatory Flexibility Analysis for Amendments to Rules 11Aa3-1 and 11Ac1-2 (Redesignated as Rules 601 and 603)
-
-			XI.D.2.a Need for and Objectives of Rules 601 and 603
-
-			XI.D.2.b Significant Issues Raised by Public Comment
-
-			XI.D.2.c Small Entities Subject to the Rule
-
-			XI.D.2.d Reporting, Recordkeeping and Other Compliance Requirements
-
-			XI.D.2.e Agency Action to Minimize Effects on Small Entities
-
-	XI.E.0.0 Regulation NMS
-
-XII.0.0.0 Response to Dissent
-
-	XII.A.0.0 Statutory Authority for Order Protection Rule
-
-		XII.A.1.0 Intermarket Price Protection Rule
-
-		XII.A.2.0 Long-Term Investors
-
-	XII.B.0.0 Basis for Adoption of Order Protection Rule
-
-		XII.B.1.0 Investor Protection
-
-		XII.B.2.0 Improved Depth and Liquidity in Nasdaq Stocks
-
-		XII.B.3.0 Effectiveness of Order Protection Rule
-
-		XII.B.4.0 Promoting Competition
-
-		XII.B.5.0 Scope of Order Protection Rule
-
-		XII.B.6.0 Benefits and Costs of Order Protection Rule
-
-		XII.B.7.0 Alternatives to Order Protection Rule
-
-	XII.C.0.0 Market Data
-
-	XII.D.0.0 Conclusion
-
-XIII.0.0.0 Statutory Authority
-
-XIV.0.0.0 Text of Adopted Amendments to the CTA Plan, the CQ Plan, and the Nasdaq UTP Plan
-
-			XIV.D.7.a Annual Payment. Notwithstanding any other provision of this Plan, each Participant eligible to receive distributable net income under the Plan shall receive an annual payment for each calendar year that is equal to the sum of the Participant’s Trading Shares and Quoting Shares, as defined below, in each Eligible Security for the calendar year.
-
-			XIV.D.7.b Security Income Allocation. The Security Income Allocation for an Eligible Security shall be determined by multiplying (i) the distributable net income of the Plan for the calendar year by (ii) the Volume Percentage for such Eligible Security (the "initial allocation"), and then adding or subtracting any amounts specified in the reallocation set forth below. The Volume Percentage for an Eligible Security shall be determined by dividing (i) the square root of the dollar volume of transaction reports disseminated by the Processor in such Eligible Security during the calendar year by (ii) the sum of the square roots of the dollar volume of transaction reports disseminated by the Processor in each Eligible Security during the calendar year. If the initial allocation of distributable net income in accordance with the Volume Percentage of an Eligible Security equals an amount greater than $4.00 multiplied by the total number of qualified transaction reports in such Eligible Security during the calendar year, the excess amount shall be subtracted from the initial allocation for such Eligible Security and reallocated among all Eligible Securities in direct proportion to the dollar volume of transaction reports disseminated by the Processor in Eligible Securities during the calendar year. A transaction report with a dollar volume of $5000 or more shall constitute one qualified transaction report. A transaction report with a dollar volume of less than $5000 shall constitute a fraction of a qualified transaction report that equals the dollar volume of the transaction report divided by $5000.
-
-			XIV.D.7.c Trading Share. The Trading Share of a Participant in an Eligible Security shall be determined by multiplying (i) an amount equal to fifty percent of the Security Income Allocation for the Eligible Security by (ii) the Participant’s Trade Rating in the Eligible Security. A Participant’s Trade Rating in an Eligible Security shall be determined by taking the average of (i) the Participant’s percentage of the total dollar volume of transaction reports disseminated by the Processor in the Eligible Security during the calendar year, and (ii) the Participant’s percentage
-
-			XIV.D.7.d Quoting Share. The Quoting Share of a Participant in an Eligible Security shall be determined by multiplying (i) an amount equal to fifty percent of the Security Income Allocation for the Eligible Security by (ii) the Participant’s Quote Rating in the Eligible Security. A Participant’s Quote Rating in an Eligible Security shall be determined by dividing (i) the sum of the Quote Credits earned by the Participant in such Eligible Security during the calendar year by (ii) the sum of the Quote Credits earned by all Participants in such Eligible Security during the calendar year. A Participant shall earn one Quote Credit for each second of time (with a minimum of one full second) multiplied by dollar value of size that an automated best bid (offer) transmitted by the Participant to the Processor during regular trading hours is equal to the price of the national best bid (offer) in the Eligible Security and does not lock or cross a previously displayed automated quotation. An automated bid (offer) shall have the meaning specified in Rule 600 of Regulation NMS of the Exchange Act for an "automated quotation." The dollar value of size of a quote shall be determined by multiplying the price of a quote by its size.
-
-			XIV.D.7.a Formation. Notwithstanding any other provision of this Plan, an Advisory Committee to the Plan shall be formed and shall function in accordance with the provisions set forth in this section.
-
-			XIV.D.7.b Composition. Members of the Advisory Committee shall be selected for two-year terms as follows:
-
-		XIV.D.1.0 Operating Committee Selections. By affirmative vote of a majority of the Participants entitled to vote, the Operating Committee shall select at least one representative from each of the following categories to be members of the Advisory Committee: (i) a broker- dealer with a substantial retail investor customer base, (ii) a broker-dealer with a substantial institutional investor customer base, (iii) an alternative trading system, (iv) a data vendor, and (v) an investor.
-
-		XIV.D.2.0 Participant Selections. Each Participant shall have the right to select one member of the Advisory Committee. A Participant shall not select any person employed by or affiliated with any Participant or its affiliates or facilities.
-
-			XIV.D.2.c Function. Members of the Advisory Committee shall have the right to submit their views to the Operating Committee on Plan matters, prior to a decision by the Operating Committee on such matters. Such matters shall include, but not be limited to, any new or modified product, fee, contract, or pilot program that is offered or used pursuant to the Plan.
-
-			XIV.D.2.d Meetings and Information. Members of the Advisory Committee shall have the right to attend all meetings of the Operating Committee and to receive any information concerning Plan matters that is distributed to the Operating Committee; provided, however, that the Operating Committee may meet in executive session if, by affirmative vote of a majority of the Participants entitled to vote, the Operating Committee determines that an item of Plan business requires confidential treatment.
-
-XV.0.0.0 Text of Adopted Rules List of Subjects
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 200, 201, 230, 240, 242, 249, and 270
 
 [Release No. 34-51808; File No. S7-10-04] RIN 3235-AJ18
@@ -588,15 +176,15 @@ Text of Adopted Rules
 
 The Commission is adopting Regulation NMS, a series of initiatives designed to modernize and strengthen the national market system ("NMS") for equity securities. <sup>1</sup> These initiatives include:
 
-<h>1. a new Order Protection Rule,which reinforces the fundamental principle of obtaining the best price for investors when such price is represented by automated quotations that are immediately accessible;</h>
+1. a new Order Protection Rule,which reinforces the fundamental principle of obtaining the best price for investors when such price is represented by automated quotations that are immediately accessible;
 
-<h>2. a new Access Rule, which promotes fair and non-discriminatory access to quotations displayed by NMS trading centers through a private linkage approach;</h>
+2. a new Access Rule, which promotes fair and non-discriminatory access to quotations displayed by NMS trading centers through a private linkage approach;
 
-<h>3. a new Sub-Penny Rule, which establishes a uniform quoting increment of no less than one penny for quotations in NMS stocks equal to or greater than $1.00 per share to promote greater price transparency and consistency;</h>
+3. a new Sub-Penny Rule, which establishes a uniform quoting increment of no less than one penny for quotations in NMS stocks equal to or greater than $1.00 per share to promote greater price transparency and consistency;
 
-<h>4. amendments to the Market Data Rules and joint industry plans that allocate plan revenues to self-regulatory organizations ("SROs") for their contributions to public price discovery and promote wider and more efficient distribution of market data; and</h>
+4. amendments to the Market Data Rules and joint industry plans that allocate plan revenues to self-regulatory organizations ("SROs") for their contributions to public price discovery and promote wider and more efficient distribution of market data; and
 
-<h>5. a reorganization of existing Exchange Act rules governing the NMS to promote greater clarity and understanding of the rules.</h>
+5. a reorganization of existing Exchange Act rules governing the NMS to promote greater clarity and understanding of the rules.
 
 The Commission is adopting Regulation NMS in furtherance of its statutory responsibilities. In 1975, Congress directed the Commission, through enactment of Section 11A of the Exchange Act, to facilitate the establishment of a national market system to link together the multiple individual markets that trade securities. Congress intended the Commission to take advantage of opportunities created by new data processing and communications technologies to preserve and strengthen the securities markets. By incorporating such technologies, the NMS is designed to achieve the objectives of efficient, competitive, fair, and orderly markets that are in the public interest and protect investors. For three decades, the Commission has adhered to these guiding objectives in its regulation of the NMS, which are essential to meeting the investment needs of the public and reducing the cost of capital for listed companies. Over this period, the Commission has continued to revise and refine its NMS rules in light of changing market conditions.
 
@@ -752,21 +340,21 @@ By strengthening price protection in the NMS for quotations that can be accessed
 
 The Order Protection Rule will help assure, on an order-by-order basis, that markets effect trades at the best available prices. Finally, market orders need only be routed to markets displaying quotations that are truly accessible. Accordingly, as discussed in detail below, the Commissionfinds that the Order Protection Rule is necessary and appropriate in the public interest, for the protection of investors, and otherwise in furtherance of the purposes of the Exchange Act.
 
-A.	Response to Comments and Basis for Adopted Rule
+<h>A.	Response to Comments and Basis for Adopted Rule</h>
 
 Rule 611 as adopted reflects a number of changes to the rule as originally proposed. As discussed below, the Commission has made these changes in response to substantial public comment on the proposed rule and on the issues arising out of the NMS Hearing that were addressed in the Supplemental Release. In addition, the adopted rule includes a new exception for certain "stopped orders" in response to the suggestions of commenters on the reproposal. The public submitted more than 2200 comments addressing the trade-through proposal and reproposal. <sup>54</sup> Although the comments covered a very wide range of matters, they particularly focused on the following issues:
 
-<h>1. whether an intermarket trade-through rule is needed to promote fair and efficient equity markets, particularly for Nasdaq stocks which have not been subject to the current ITS trade-through provisions;</h>
+1. whether an intermarket trade-through rule is needed to promote fair and efficient equity markets, particularly for Nasdaq stocks which have not been subject to the current ITS trade-through provisions;
 
-<h>2. whether only automated and immediately accessible quotations should be given trade-through protection and, if so, what is the best approach for defining such quotations;</h>
+2. whether only automated and immediately accessible quotations should be given trade-through protection and, if so, what is the best approach for defining such quotations;
 
-<h>3. whether intermarket protection against trade-throughs can be implemented in a workable manner, particularly for high-volume stocks;</h>
+3. whether intermarket protection against trade-throughs can be implemented in a workable manner, particularly for high-volume stocks;
 
-<h>4. whether the exception in the original proposal allowing a general opt-out of protected quotations is necessary or appropriate, particularly if manual quotations are excluded from trade-through protection;</h>
+4. whether the exception in the original proposal allowing a general opt-out of protected quotations is necessary or appropriate, particularly if manual quotations are excluded from trade-through protection;
 
-<h>5. whether the scope of quotations entitled to trade-through protection should extend beyond the best bids and offers of the various markets; and</h>
+5. whether the scope of quotations entitled to trade-through protection should extend beyond the best bids and offers of the various markets; and
 
-<h>6. whether the benefits of an intermarket trade-through rule would justify its cost of implementation.</h>
+6. whether the benefits of an intermarket trade-through rule would justify its cost of implementation.
 
 In the following sections, the Commission responds to comments on the trade-through proposal and reproposal and discusses the basis for its adoption of Rule 611.
 
@@ -1064,9 +652,9 @@ One of the Commission's goals throughout its review of market structure issues h
 
 A number of provisions in the Order Protection Rule are specifically designed to address the legitimate concern that the Rule must be workable for active stocks. These include the
 
-<h>12. The Commission notes that the existence of rapid quotation updates does not necessarily mean that a security is actively traded or highly liquid.flickering quotation exception, the intermarket sweep order exception, and the self-help exception. The Commission is committed to working closely with trading centers and the securities industry in general to make these exceptions as practical and useful as possible, consistent with the price protection objectives of the Rule and the technology currently available. In addition, the operative provision of the Order Protection Rule requires each trading center to establish, maintain, and enforce policies and procedures that are reasonably designed to prevent trade-throughs on that trading center of protected quotations and to comply with the Rule's exceptions. Implementation of intermarket trade-through protection is likely to present the greatest challenge for agency markets trading active stocks that handle a large volume of buy and sell orders and must assure that such orders interact in an orderly and efficient manner in compliance with all applicable priority rules. The requirements to have procedures reasonably designed to prevent trade-throughs will mitigate this challenge. In this regard, the Commission is encouraged that several trading centers executing the largest number of agency orders currently exhibit the lowest rates of trade-throughs. <sup>225</sup></h>
+12. The Commission notes that the existence of rapid quotation updates does not necessarily mean that a security is actively traded or highly liquid.flickering quotation exception, the intermarket sweep order exception, and the self-help exception. The Commission is committed to working closely with trading centers and the securities industry in general to make these exceptions as practical and useful as possible, consistent with the price protection objectives of the Rule and the technology currently available. In addition, the operative provision of the Order Protection Rule requires each trading center to establish, maintain, and enforce policies and procedures that are reasonably designed to prevent trade-throughs on that trading center of protected quotations and to comply with the Rule's exceptions. Implementation of intermarket trade-through protection is likely to present the greatest challenge for agency markets trading active stocks that handle a large volume of buy and sell orders and must assure that such orders interact in an orderly and efficient manner in compliance with all applicable priority rules. The requirements to have procedures reasonably designed to prevent trade-throughs will mitigate this challenge. In this regard, the Commission is encouraged that several trading centers executing the largest number of agency orders currently exhibit the lowest rates of trade-throughs. <sup>225</sup>
 
-<h>1. Elimination of Proposed Opt-Out Exception</h>
+<h>4. Elimination of Proposed Opt-Out Exception</h>
 
 The rule text of the original proposal included a broad exception for persons to opt-out of the best displayed prices if they provided informed consent. The Proposing Release indicated that the exception was particularly intended to allow investors to bypass manual markets, to execute block transactions without moving the market price, and to help discipline markets that provided slow executions or inadequate access to their quotations. <sup>226</sup> The Commission also noted, however, that an opt-out exception would be inconsistent with the principle of priceprotection and, if used frequently, could undermine investor confidence that their orders will receive the best available price. It therefore requested comment on an automated execution alternative to the opt-out exception, under which all markets would be required to provide an automated response to electronic orders. At the subsequent NMS Hearing, some panelists questioned whether, assuming only truly accessible and automated quotations were protected, there was a valid reason for opting-out of such a quotation. <sup>227</sup> To address this issue, the Commission requested comment in the Supplemental Release on whether the proposed opt-out exception would be necessary if manual quotations were excluded from trade-through protection.
 
@@ -1138,7 +726,7 @@ Even given all the exceptions set forth in Rule 611, however, the Commission rec
 
 The Commission believes that two of the most important public policy functions of the secondary equity markets are to minimize trading costs for long-term investors and to reduce the cost of capital for listed companies. These functions are inherently connected, because the cost of capital of listed companies is influenced by the transaction costs of those who are willing to accept the investment risk of holding corporate stock for an extended period. To the extent that the interests of short-term traders and market intermediaries in a broad opt-out exception conflict with those of investors, the Commission believes that the interests of long-term investors are entitled to take precedence. <sup>260</sup> In this way, the NMS will fulfill its Exchange Act objectives to promote fair and efficient equity markets for investors and to serve the public interest.
 
-<h>2. Scope of Protected Quotations</h>
+<h>5. Scope of Protected Quotations</h>
 
 The original trade-through proposal would have protected all quotations disseminated by a Plan processor in the consolidated quote stream. Currently, the scope of these quotations depends on the regulatory status of an SRO. Under Exchange Act Rule 11Ac1-1 ("Quote Rule") (redesignated as Rule 602), exchange SROs are required to provide only their best bids and offers ("BBOs") in a stock. In contrast, a national securities association, which currentlyencompasses Nasdaq's trading facilities and the NASD's ADF, must provide BBOs of its individual members. Consequently, the original proposal would have protected only a single BBO of an exchange and not any additional quotations in its depth of book ("DOB"). For Nasdaq facilities and the ADF, however, the proposal would have protected member BBOs at multiple price levels. The Proposing Release requested comment on whether only a single BBO for Nasdaq and the ADF should be protected. <sup>261</sup>
 
@@ -1172,7 +760,7 @@ Another group of commenters advocated protecting only the NBBO. <sup>279</sup> T
 
 The Commission does not support the NBBO approach. The marginal benefits to be gained from protecting only the NBBO would not justify the costs of implementing the approach. In addition, protecting only the NBBO would be a step backwards from the scope of the existing ITS trade-through rule, which covers the best bids and offers of each exchange and the NASD. The Commission also is concerned that an order protection rule that protected only the NBBO would be excessively vulnerable to gaming behavior, because a market participant could post a 100-share order improving the NBBO and then execute a much larger order away from the NBBO while protecting only the 100-share quotation. This result would not be consistent with the purposes of the Order Protection Rule.
 
-<h>3. Benefits and Implementation Costs of the Order Protection Rule</h>
+<h>6. Benefits and Implementation Costs of the Order Protection Rule</h>
 
 Commenters were concerned about the cost of implementing the original trade-through proposal. Some argued that, in general, implementing the proposed rule would be too expensive and would outweigh any perceived benefits of the rule. <sup>281</sup> Commenters also were concerned about the cost of specific requirements in the proposed rule, particularly the procedural requirements associated with the proposed opt-out exception ( e.g. , obtaining informed consent from customers and disclosing the NBBO to customers). <sup>282</sup>
 
@@ -1194,7 +782,7 @@ Two commenters on the reproposal asserted that the dollar amount of traded-throu
 
 The Commission does not agree that trades executed at inferior prices should be considered merely a transfer of benefits from one group of investors to another equally-situated group of investors. There are at least three parties affected by every trade-through transaction:
 
-<h>1. the party that received an inferior price; (2) the party whose superior-priced limit order was traded-through; and (3) the contra party to the trade-through transaction that received an advantageous price. The redistributions of welfare resulting from trade-through transactions cannot reasonably be expected to occur randomly across these parties. Customers of brokers that are doing a poor job of routing orders are more likely to be harmed than customers of brokersthat are doing a better job. <sup>295</sup> Investors who generally submit limit orders at the best prices are more likely to be harmed than customers who generally submit less aggressively-priced limit orders.</h>
+1. the party that received an inferior price; (2) the party whose superior-priced limit order was traded-through; and (3) the contra party to the trade-through transaction that received an advantageous price. The redistributions of welfare resulting from trade-through transactions cannot reasonably be expected to occur randomly across these parties. Customers of brokers that are doing a poor job of routing orders are more likely to be harmed than customers of brokersthat are doing a better job. <sup>295</sup> Investors who generally submit limit orders at the best prices are more likely to be harmed than customers who generally submit less aggressively-priced limit orders.
 
 Thus, trade-through transactions can result in direct harm to two parties, as well as more general harm to the efficiency of the markets by dampening the incentive for aggressive quoting. Moreover, even when the party receiving an inferior price does so willingly (such as when an institution accepts a block trade at a price away from the inside quotation), <sup>296</sup> the party whose quotation was traded through and the efficiency of the markets still are harmed. Finally, many trade-throughs are dealer internalized trades, where the party receiving the advantageous price is not an investor but a market intermediary, and therefore such trades cannot be considered a transfer of benefits from one group of investors to another equally-situated group of investors.
 
@@ -1226,9 +814,7 @@ The scope of Rule 611 is largely determined by a series of definitions set forth
 
 This definition effectively covers stocks listed on a national securities exchange and stocks included in either the National Market or SmallCap tiers of Nasdaq. It does not include stocks quoted on the OTC Bulletin Board or elsewhere in the OTC market.
 
-The term "trade-through" is defined in Rule 600(b)(77) as the purchase or sale of an NMS stock during regular trading hours, <sup>310</sup> either as principal or agent, at a price that is lower than a protected bid or higher than a protected offer. Rule 600(b)(57), which defines a "protected bid" or "protected offer," <sup>311</sup> includes three main elements: (1) an automated quotation;
-
-<h>2. displayed by an automated trading center; and (3) that is the best bid or best offer of an exchange, The NASDAQ Stock Market, or an association other than The NASDAQ Stock Market (currently, the best bid or offer of the NASD's ADF).</h>
+The term "trade-through" is defined in Rule 600(b)(77) as the purchase or sale of an NMS stock during regular trading hours, <sup>310</sup> either as principal or agent, at a price that is lower than a protected bid or higher than a protected offer. Rule 600(b)(57), which defines a "protected bid" or "protected offer," <sup>311</sup> includes three main elements: (1) an automated quotation; (2) displayed by an automated trading center; and (3) that is the best bid or best offer of an exchange, The NASDAQ Stock Market, or an association other than The NASDAQ Stock Market (currently, the best bid or offer of the NASD's ADF).
 
 As discussed above, an "automated quotation" is defined in Rule 600(b)(3) as a quotation displayed by a trading center that: (1) permits an incoming order to be marked as immediate-or-a.m. and 4:00 p.m. Eastern time, unless otherwise specified.cancel; (2) immediately and automatically executes an order marked as immediate-or-cancel against the displayed quotation up to its full size; <sup>313</sup> (3) immediately and automatically cancels any unexecuted portion of an order marked as immediate-or-cancel without routing the order elsewhere; (4) immediately and automatically transmits a response to the sender of an order marked as immediate-or-cancel indicating the action taken with respect to such order; and (5) immediately and automatically displays information that updates the displayed quotation to reflect any change to its material terms.
 
@@ -1516,7 +1102,7 @@ SR-NASD-2002-08, SR-NYSE-2002-12, SR-PCX-2002-04, and SR-Phlx-2002-05).
 
 Between the June 2000 Order and the August 2002 Order, the Commission issued a Concept Release seeking public comment on the potential impact of sub-penny pricing, <sup>471</sup> including its effect on: (1) price clarity ( e.g. , the potential to cause ephemeral or "flickering" quotations); (2) market depth ( i.e. , the number of shares available at a given price);
 
-<h>3. compliance with the Order Handling Rules and other price-dependent rules; and (4) the operations and capacity of automated systems. The Commission received 33 comments on the Concept Release. The majority of commenters opposed sub-penny pricing. Some stated that the negative effects of decimal trading would be exacerbated by further reducing the MPV, without meaningfully reducing spreads or securing other benefits for the markets or investors. These commenters recommended that all securities have an MPV of at least a penny. A smaller number of commenters believed that the forces of competition, rather than regulation by the Commission or Congress, should determine the MPV. These commenters suggested that a smaller MPV could improve market efficiency and provide investors with greater opportunity for price improvement. They argued generally that the problems accompanying decimals could be resolved through technology enhancements, rather than through regulation.</h>
+3. compliance with the Order Handling Rules and other price-dependent rules; and (4) the operations and capacity of automated systems. The Commission received 33 comments on the Concept Release. The majority of commenters opposed sub-penny pricing. Some stated that the negative effects of decimal trading would be exacerbated by further reducing the MPV, without meaningfully reducing spreads or securing other benefits for the markets or investors. These commenters recommended that all securities have an MPV of at least a penny. A smaller number of commenters believed that the forces of competition, rather than regulation by the Commission or Congress, should determine the MPV. These commenters suggested that a smaller MPV could improve market efficiency and provide investors with greater opportunity for price improvement. They argued generally that the problems accompanying decimals could be resolved through technology enhancements, rather than through regulation.
 
 In August 2003, Nasdaq submitted a proposed rule change to the Commission to adopt an MPV of $0.001 for Nasdaq-listed securities. <sup>477</sup> Nasdaq stated that, unless and until a uniform MPV were established, it felt compelled to implement an MPV of $0.001 to remain competitive with ECNs that permit their subscribers to quote in sub-pennies. At the same time, Nasdaq filed a petition for Commission action urging the Commission "to adopt a uniform rule requiring market participants to quote and trade Nasdaq securities in a consistent monetary increment . . . with the exception of average price trades." <sup>478</sup>
 
@@ -1542,7 +1128,7 @@ In the Reproposing Release, the sub-penny rule was fundamentally unchanged altho
 
 Proposing Release. These modifications in reproposed Rule 612 would have: (1) based the sub- penny restriction on the price of the quotation rather than the price of the NMS stock itself; and
 
-<h>2. limited a quotation priced less than $1.00 per share to four decimal places.</h>
+2. limited a quotation priced less than $1.00 per share to four decimal places.
 
 <h>C. Comments Received</h>
 
@@ -1660,7 +1246,7 @@ The Exchange Act rules and joint-SRO Plans for disseminating market information 
 
 The SROs generate consolidated market data by participating in the Plans. <sup>562</sup> Pursuant tothe Plans, three separate networks disseminate consolidated market information for NMS stocks:
 
-<h>1. Network A for securities listed on the NYSE; (2) Network B for securities listed on the Amex and other national securities exchanges; and (3) Network C for securities traded on Nasdaq. For each security, the data includes: (1) an NBBO with prices, sizes, and market center identifications; (2) the best bids and offers from each SRO that includes prices, sizes, and market center identifications; and (3) a consolidated set of trade reports in the security. The Networksestablish fees for this data, which must be filed for Commission approval. <sup>563</sup> The Networks collect the applicable fees and, after deduction of Network expenses (which do not include the costs incurred by SRO participants to generate market data and supply such data to the Networks), distribute the remaining revenues to their individual SRO participants. As set forth in the following table, the Networks collected $434.1 million in revenues derived from market data fees in 2004 and distributed $393.7 million to their individual SRO participants:2004 Financial Information for Networks A, B, and C <sup>564</sup></h>
+1. Network A for securities listed on the NYSE; (2) Network B for securities listed on the Amex and other national securities exchanges; and (3) Network C for securities traded on Nasdaq. For each security, the data includes: (1) an NBBO with prices, sizes, and market center identifications; (2) the best bids and offers from each SRO that includes prices, sizes, and market center identifications; and (3) a consolidated set of trade reports in the security. The Networksestablish fees for this data, which must be filed for Commission approval. <sup>563</sup> The Networks collect the applicable fees and, after deduction of Network expenses (which do not include the costs incurred by SRO participants to generate market data and supply such data to the Networks), distribute the remaining revenues to their individual SRO participants. As set forth in the following table, the Networks collected $434.1 million in revenues derived from market data fees in 2004 and distributed $393.7 million to their individual SRO participants:2004 Financial Information for Networks A, B, and C <sup>564</sup>
 
 The overriding objective of the Rule and Plan amendments adopted today is to preserve the vital benefits that investors currently enjoy, while addressing those particular problems with the current rules and Plans that are most in need of reform. The changes fall into three categories: (1) modifying the current formulas for allocating market data revenues to the SROs to more appropriately reflect their contributions to public price discovery; (2) establishing non- voting advisory committees to broaden participation in Plan governance; and (3) updating andstreamlining the various Exchange Act rules that govern the distribution and display of market information.
 
@@ -1724,9 +1310,7 @@ In many respects, the Commission agrees with the concerns expressed by commenter
 
 As discussed below, the Commission has adopted the Allocation Amendment with some modifications from the proposal and reproposal. <sup>596</sup> Given the significant changes from the current Plan formulas, the Commission will monitor the operation of the new formula to assess whether it achieves its goals and whether any further modifications are warranted. As with any other aspects of the Plans, the language added to the Plans by the Allocation Amendment can be adjusted in the future pursuant to the normal process of Commission-approved amendments. <sup>597</sup>
 
-The proposal and reproposal included an amendment to the Plans that would modify their formulas for allocating market data revenues to SRO Participants. The current Plan formulas are based solely on the trading activity of an SRO. The proposed and reproposed formulas were intended to address three serious weaknesses in the old formulas: (1) the absence of any allocation of revenues for the quotations contributed by an SRO to the consolidated data stream;will address exchange data delay intervals, subscriber agreement streamlining, billing and reporting period issues, and unit of count definitions).
-
-<h>2. an excessive emphasis on the number of trades reported by an SRO that has led to distortive trading practices, such as wash sales, trade shredding, and print facilities; and (3) a disproportional allocation of revenues for a relatively small number of stocks with extremely high trading volume, with a much smaller allocation to the thousands of other stocks included in a Network, typically issued by smaller companies, with less trading volume.</h>
+The proposal and reproposal included an amendment to the Plans that would modify their formulas for allocating market data revenues to SRO Participants. The current Plan formulas are based solely on the trading activity of an SRO. The proposed and reproposed formulas were intended to address three serious weaknesses in the old formulas: (1) the absence of any allocation of revenues for the quotations contributed by an SRO to the consolidated data stream;will address exchange data delay intervals, subscriber agreement streamlining, billing and reporting period issues, and unit of count definitions). (2) an excessive emphasis on the number of trades reported by an SRO that has led to distortive trading practices, such as wash sales, trade shredding, and print facilities; and (3) a disproportional allocation of revenues for a relatively small number of stocks with extremely high trading volume, with a much smaller allocation to the thousands of other stocks included in a Network, typically issued by smaller companies, with less trading volume.
 
 To address these problems, the proposed formula included a number of elements, including a Quoting Share, an NBBO Improvement Share, a Trading Share, and a Security Income Allocation. The Quoting Share and NBBO Improvement Share would have provided an allocation of revenues for an SRO's quotations. In particular, the Quoting Share would have allocated revenues for all quotes, both automated and manual, according to the dollar size and length of time that such quotes equaled the price of the NBBO. It included an automatic cutoff of credit for manual quotations, however, when they were left alone at the NBBO. This cut-off was intended to preclude SROs from being allocated revenues merely for slowness in updating their manual quotations. The NBBO Improvement Share would have allocated revenues to SROs for the extent to which they displayed quotations that improved the price of the NBBO.
 
@@ -1734,7 +1318,7 @@ At the NMS Hearing, representatives of floor-based exchanges stated their intent
 
 The comments on the proposal and reproposal generally addressed four broad categories of issues: (1) whether the current Plan formulas need to be updated; (2) whether quotations should be considered in allocating revenues; (3) whether the size of trades should be considered in allocating revenues; and (4) whether the allocation of revenues should be allocated more evenly across all of a Network's stocks. These comments are discussed below.
 
-<h>a. Need for New Formula</h>
+a. Need for New Formula
 
 Many commenters agreed with the Commission that, if the Networks were to continue allocating revenues to the SROs, the current allocation formulas needed to be updated. <sup>601</sup> Many of these commenters also believed that the proposed and reproposed formulas should be modified in several respects, and their specific suggestions to improve the proposed formula are discussed below. In general, however, they agreed with the objectives of the proposal andreproposal to eliminate much of the incentive for distortive trade reporting practices and to begin providing some allocation of revenues for the quotations that SROs contribute to the consolidated data stream.
 
@@ -1758,7 +1342,7 @@ Some commenters suggested that revenue allocations under the formula should be c
 
 Finally, a few commenters were concerned about the effect of modifying the current allocation formulas on the existing business models and terms of competition for the various markets. <sup>609</sup> The Commission recognizes that reforming formulas that have remained unchanged for many years could affect the competitive position of various markets. Given the severe deficiencies of these formulas, however, it does not believe that the interests of any particular business model should preclude updating the formulas to reflect current market conditions. The adopted formula is intended to reflect more appropriately the contributions of the various SROs to the consolidated data stream and thereby better align the interests of individual markets withthe interests of investors. Moreover, by incorporating a much more broad-based measure of an SRO's contribution to the consolidated data stream, the adopted formula should be less subject to any particular type of gaming and distortion than the narrowly-focused current Plan formulas. <sup>610</sup>
 
-<h>b. Quotations that Equal the NBBO</h>
+b. Quotations that Equal the NBBO
 
 Many commenters supported the proposal to allocate a portion of market data revenues based on an SRO's quotations, particularly if only automated and accessible quotations would qualify for an allocation. <sup>611</sup> Some commenters, however, were concerned about the risk of harmful gaming behavior by market participants. <sup>612</sup> For example, Instinet stated that the "fundamental problem with the Commission's proposed formula stems from the inherently low cost for market participants to generate quotation information and the consequent high potential for gaming behavior in any formula that attempts to reward such behavior." <sup>613</sup> A specific type of gaming that concerned commenters was "flickering quotes" – quotes that are flashed for a short period of time solely to earn market data revenues, but are not truly accessible and therefore do not add any value to the consolidated quote stream. Nasdaq discussed a number of other potential gaming behaviors, including posting quotations in inactive markets or for inactivesecurities so that they are less likely to be executed. <sup>614</sup> Commenters also were concerned that such practices would increase quotation traffic and bandwidth costs, but with little or no benefit for the quality of the consolidated data stream.
 
@@ -1782,7 +1366,7 @@ A few commenters also opposed the proposed Quoting Share because they believed i
 
 These commenters appear to have misunderstood the Commission's objective in proposing to update the current Plan formulas. As noted above, <sup>621</sup> it is unlikely that a marginal increase in market data revenues would significantly alter the quoting behavior of market participants, at least for those not already interested in trading a stock for separate reasons. The potential cost of unprofitable trades would be too high. Rather, the Commission's primary objective is to correct an existing flaw in the current formulas by allocating revenues to those SROs that, even now, benefit investors by contributing useful quotations to the consolidated data stream. Currently, such SROs do not receive any allocation for providing a venue for this beneficial quoting activity. Basing an allocation on the extent to which an SRO's quotes equal the NBBO is an appropriate means to correct this flaw, even if the allocation does not always reflect the precise value of quotations. <sup>622</sup>
 
-<h>c. Number and Dollar Volume of Trades</h>
+c. Number and Dollar Volume of Trades
 
 The current Plan formulas allocate revenues based on the number of trades (Networks A and B) or on the average of number of trades and share volume of trades (Network C) reported by SROs. By focusing solely on trading activity (and particularly by rewarding the reporting of many trades no matter how small their size), these formulas have contributed to a variety of distortive trade reporting practices, including wash sales, shredded trades, and SRO print facilities. To address these practices and to establish a more broad-based measure of an SRO'scontribution to the consolidated trade stream, the proposed formula provided that an SRO's Trading Share in a particular stock would be calculated by taking the average of the SRO's percentage of total dollar volume in the stock and the SRO's percentage of qualified trades in the stock. A "qualified trade" was defined as having a dollar volume of $5000 or more. The Proposing Release requested comment on whether this amount should be higher or lower, or whether trades with a size of less than $5000 should receive credit that was proportional to their size. <sup>623</sup>
 
@@ -1790,7 +1374,7 @@ Several commenters on the original proposal believed that small trades contribut
 
 Two commenters on the original proposal asserted that the $5000 threshold was arbitrary. <sup>625</sup> As noted in the Proposing Release, an analysis of Network A data indicates that approximately 90% of dollar volume and 50% of trades exceed this threshold. The Commission believes that the $5000 figure represents a reasonable attempt to address the problem of shredding large trades into 100-share trades. By providing only a proportional allocation fortrades with dollar amounts below this threshold, the ability of market participants to generate large revenue allocations by shredding trades would be greatly reduced. For example, a 2000- share trade in a $25 stock could be shredded into twenty trades in the absence of a dollar threshold for qualified trades, but could be shredded into only ten qualified trades under the reproposed formula. Moreover, when combined with the allocation of 50% of revenues to the Quoting Share and the allocation of another 25% of revenues based on the dollar volume of trades, the $5000 threshold for qualified trades will eliminate much of the potential reward for trade shredding under reproposed formula. In the example of the 2000-share trade in a $25 stock, the incentive for shredding would have been reduced by a total of 87.5% (75% + (50% * 25%). <sup>626</sup>
 
-<h>d. Allocation of Revenues Among Network Stocks</h>
+d. Allocation of Revenues Among Network Stocks
 
 The proposed formula included a Security Income Allocation, pursuant to which a Network's total distributable revenues would be allocated among each of the Network's stocks based on the square root of dollar volume. The square root function was intended to adjust for the highly disproportionate level of trading in the very top tier of Network stocks. A few hundred stocks ( e.g. , the top 5%) are much more heavily traded than the other thousands of Network stocks. The Proposing Release noted that an allocation that simply was directly proportional to trading volume would fail to reflect adequately the importance of price discoveryfor the vast majority of stocks. <sup>627</sup> The Reproposing Release retained this provision in the reproposed formula. <sup>628</sup>
 
@@ -1804,7 +1388,7 @@ The $4 limitation is consistent with the $2 limitation on Trading Share allocati
 
 To illustrate the operation of the $4 limitation, assume that the initial square root allocation for a security with 10 qualified transaction reports during the year was $300, or an average allocation of $30 per qualified transaction report. Rather than allocate the full $300 to this extremely inactive security, the adopted formula limits the allocation to $4 per qualified transaction report, so that a total of only $40 would be allocated to the stock as its Security Income Allocation. The difference of $260 ($300 minus $40) would be reallocated among all Network securities in direct proportion to their share of dollar volume of trading.
 
-<h>1. Distribution and Display of Data</h>
+<h>4. Distribution and Display of Data</h>
 
 Most commenters supported the provisions, set forth in both the proposal and reproposal, authorizing the independent distribution of market data outside of what is required by the15.1 cents for Network A, 14.5 cents for Network C, and 103.1 cents for Network B. The foregoing Network financial information is preliminary and unaudited.
 
@@ -1942,7 +1526,9 @@ Because many rules in Regulation NMS, including the Limit Order Display Rule (re
 
 Rule 600(b) provides a single set of definitions that will be used throughout Regulation NMS. To create a single set of definitions, Regulation NMS eliminates multiple, inconsistent definitions of identical terms. In addition, Regulation NMS amends some definitions in the NMS rules to reflect changed conditions in the marketplace or to modernize references. <sup>667</sup> Forexample, as discussed above, several definitions in the existing NMS rules have been rendered obsolete by the extension of the Nasdaq UTP Plan to Nasdaq SmallCap securities. <sup>668</sup> Because the Nasdaq UTP Plan includes Nasdaq SmallCap securities, those securities now are “securities for which transaction reports are collected, processed and made available pursuant to an effective transaction reporting plan” ( i.e. , they are “reported” securities). <sup>669</sup> For this reason, it is no longer necessary to distinguish, as several existing NMS rules do, between “reported” securities and equity securities for which market information is made available through Nasdaq. <sup>670</sup> Accordingly, Regulation NMS eliminates or revises the defined terms in the existing NMS rules that make this distinction.
 
-<h>a. Covered Securityinsert the phrase "for the purposes of § 242.602(b)(5)" at the beginning of the definition to avoid inadvertently narrowing the scope of the term "electronic communications network" as used in the term "vendor" in Rule 600(b)(83) (formerly Exchange Act Rule 11Ac1-2(a)(2)). See also infra , section VI.B.3.g. This modification makes the definition consistent with the definition of "electronic communications network" in former Rule 11Ac1-1(a)(8).</h>
+<h>a. Covered Security</h>
+
+insert the phrase "for the purposes of § 242.602(b)(5)" at the beginning of the definition to avoid inadvertently narrowing the scope of the term "electronic communications network" as used in the term "vendor" in Rule 600(b)(83) (formerly Exchange Act Rule 11Ac1-2(a)(2)). See also infra , section VI.B.3.g. This modification makes the definition consistent with the definition of "electronic communications network" in former Rule 11Ac1-1(a)(8).
 
 Different definitions of the term “covered security” appeared in the Quote Rule, the Limit Order Display Rule, and Exchange Act Rule 11Ac1-6 (redesignated as Rule 606). <sup>671</sup> In addition, as discussed below, the term has become obsolete. Therefore, Regulation NMS eliminates the term “covered security” from the NMS rules and replaces it with the term “NMS security” or “NMS stock,” as applicable, depending upon the scope of the particular rule.
 
@@ -1956,7 +1542,9 @@ The Limit Order Display Rule used the term “reported security” solely for th
 
 Similarly, the Quote Rule used the term “reported security” primarily to define the term “covered security.” <sup>674</sup> Because Regulation NMS eliminates the term “covered security,” the redesignated Quote Rule (redesignated as Rule 602) also will not use the term “reported security.” <sup>675</sup>
 
-<h>c. Subject Securitytransaction reporting plan.” See former Exchange Act Rules 11Ac1-4(a)(10), 11Ac1- 2(a)(20), and 11Aa3-1(a)(4). The Quote Rule defined the term “reported security” to mean “any security or class of securities for which transaction reports are collected, processed, and made available pursuant to an effective transaction reporting plan, or an effective national market system plan for reporting transactions in listed options.” See former Exchange Act Rule 11Ac1-1(a)(20). As discussed above, this release adopts substantial modifications to the Vendor Display Rule.</h>
+<h>c. Subject Security</h>
+
+transaction reporting plan.” See former Exchange Act Rules 11Ac1-4(a)(10), 11Ac1- 2(a)(20), and 11Aa3-1(a)(4). The Quote Rule defined the term “reported security” to mean “any security or class of securities for which transaction reports are collected, processed, and made available pursuant to an effective transaction reporting plan, or an effective national market system plan for reporting transactions in listed options.” See former Exchange Act Rule 11Ac1-1(a)(20). As discussed above, this release adopts substantial modifications to the Vendor Display Rule.
 
 The Quote Rule and the Vendor Display Rule both used the term “subject security,” although they define the term differently. To eliminate this inconsistency, the amended Vendor Display Rule (redesignated as Rule 603) does not use the term “subject security” and Regulation NMS retains a slightly modified version of the definition of “subject security” currently found in the Quote Rule.
 
@@ -2440,7 +2028,7 @@ The Commission therefore believes that Rule 611 will not impose any competitive 
 
 Rule 610 establishes standards governing access to quotations in NMS stocks that:
 
-<h>1. prohibit trading centers from unfairly discriminating against non-members members or non- subscribers that attempt to access their quotations through a member or subscriber of the trading center, and enable access to NMS quotations through private linkages; (2) establish an outer limit on the cost of accessing such quotations of no more than $0.003 per share; and (3) require SROs to establish, maintain, and enforce rules that, among other things, prohibit their members from engaging in a pattern or practice of displaying quotations that lock or cross the automated quotations of other trading centers. The amendment to Rule 301(b)(5) under Regulation ATS lowers the threshold that triggers the Regulation ATS fair access requirements from 20% to 5% of average daily volume in a security.</h>
+(1) prohibit trading centers from unfairly discriminating against non-members members or non- subscribers that attempt to access their quotations through a member or subscriber of the trading center, and enable access to NMS quotations through private linkages; (2) establish an outer limit on the cost of accessing such quotations of no more than $0.003 per share; and (3) require SROs to establish, maintain, and enforce rules that, among other things, prohibit their members from engaging in a pattern or practice of displaying quotations that lock or cross the automated quotations of other trading centers. The amendment to Rule 301(b)(5) under Regulation ATS lowers the threshold that triggers the Regulation ATS fair access requirements from 20% to 5% of average daily volume in a security.
 
 The access provisions are intended to bolster investor confidence in the markets by helping to assure investors that their orders will be executed at the best prices and will not subject to hidden fees, regardless of the market on which the execution takes place. By generally imposing a uniform fee limitation of $0.003 per share, the Rule will promote equal regulation of different types of trading centers, where currently some are permitted to charge fees and some are not, thereby leveling the playing field among diverse market centers. Moreover, the Commission believes that, by prohibiting a trading center from imposing unfairly discriminatory terms that would prevent or inhibit the efficient access of any person through members, subscribers, or customers of such trading center, the Rule will promote competition among trading centers.
 
@@ -2540,9 +2128,7 @@ Commission rules generally define a broker-dealer as a small entity for purposes
 
 <h>c. Vendors</h>
 
-A vendor is any securities information processor engaged in the business of disseminating transaction reports or last sale data with respect to transactions in reported securities to brokers, dealers, or investors on a real-time or other current and continuing basis, whether through an ECN, moving ticker, or interrogation device. <sup>900</sup> Rule 0-10(g) <sup>901</sup> provides that the term "small business" or "small organization," when referring to a securities information processor, means any securities information processor that: (1) had gross revenues of less than$10 million during the preceding fiscal year (or in the time it has been in business, if shorter);
-
-<h>2. provided service to fewer than 100 interrogation devices or moving tickers at all times during the preceding fiscal year (or in the time that it has been in business, if shorter); and (3) is not affiliated with any person (other than a natural person) that is not a small business or small organization under this section. The Commission estimates that there are approximately 80 vendors, 16 of which are considered small entities.</h>
+A vendor is any securities information processor engaged in the business of disseminating transaction reports or last sale data with respect to transactions in reported securities to brokers, dealers, or investors on a real-time or other current and continuing basis, whether through an ECN, moving ticker, or interrogation device. <sup>900</sup> Rule 0-10(g) <sup>901</sup> provides that the term "small business" or "small organization," when referring to a securities information processor, means any securities information processor that: (1) had gross revenues of less than$10 million during the preceding fiscal year (or in the time it has been in business, if shorter);(2) provided service to fewer than 100 interrogation devices or moving tickers at all times during the preceding fiscal year (or in the time that it has been in business, if shorter); and (3) is not affiliated with any person (other than a natural person) that is not a small business or small organization under this section. The Commission estimates that there are approximately 80 vendors, 16 of which are considered small entities.
 
 <h>4. Reporting, Recordkeeping, and Other Compliance Requirements</h>
 
@@ -2748,27 +2334,27 @@ Set forth below is the text of (1) the new allocation formula to be incorporated
 
 Allocation Amendment(#) Allocation of Net Income .
 
-<h>a. Annual Payment. Notwithstanding any other provision of this Plan, each Participant eligible to receive distributable net income under the Plan shall receive an annual payment for each calendar year that is equal to the sum of the Participant’s Trading Shares and Quoting Shares, as defined below, in each Eligible Security for the calendar year.</h>
+<h>a. Annual Payment.</h> Notwithstanding any other provision of this Plan, each Participant eligible to receive distributable net income under the Plan shall receive an annual payment for each calendar year that is equal to the sum of the Participant’s Trading Shares and Quoting Shares, as defined below, in each Eligible Security for the calendar year.
 
-<h>b. Security Income Allocation. The Security Income Allocation for an Eligible Security shall be determined by multiplying (i) the distributable net income of the Plan for the calendar year by (ii) the Volume Percentage for such Eligible Security (the "initial allocation"), and then adding or subtracting any amounts specified in the reallocation set forth below. The Volume Percentage for an Eligible Security shall be determined by dividing (i) the square root of the dollar volume of transaction reports disseminated by the Processor in such Eligible Security during the calendar year by (ii) the sum of the square roots of the dollar volume of transaction reports disseminated by the Processor in each Eligible Security during the calendar year. If the initial allocation of distributable net income in accordance with the Volume Percentage of an Eligible Security equals an amount greater than $4.00 multiplied by the total number of qualified transaction reports in such Eligible Security during the calendar year, the excess amount shall be subtracted from the initial allocation for such Eligible Security and reallocated among all Eligible Securities in direct proportion to the dollar volume of transaction reports disseminated by the Processor in Eligible Securities during the calendar year. A transaction report with a dollar volume of $5000 or more shall constitute one qualified transaction report. A transaction report with a dollar volume of less than $5000 shall constitute a fraction of a qualified transaction report that equals the dollar volume of the transaction report divided by $5000.</h>
+<h>b. Security Income Allocation.</h> The Security Income Allocation for an Eligible Security shall be determined by multiplying (i) the distributable net income of the Plan for the calendar year by (ii) the Volume Percentage for such Eligible Security (the "initial allocation"), and then adding or subtracting any amounts specified in the reallocation set forth below. The Volume Percentage for an Eligible Security shall be determined by dividing (i) the square root of the dollar volume of transaction reports disseminated by the Processor in such Eligible Security during the calendar year by (ii) the sum of the square roots of the dollar volume of transaction reports disseminated by the Processor in each Eligible Security during the calendar year. If the initial allocation of distributable net income in accordance with the Volume Percentage of an Eligible Security equals an amount greater than $4.00 multiplied by the total number of qualified transaction reports in such Eligible Security during the calendar year, the excess amount shall be subtracted from the initial allocation for such Eligible Security and reallocated among all Eligible Securities in direct proportion to the dollar volume of transaction reports disseminated by the Processor in Eligible Securities during the calendar year. A transaction report with a dollar volume of $5000 or more shall constitute one qualified transaction report. A transaction report with a dollar volume of less than $5000 shall constitute a fraction of a qualified transaction report that equals the dollar volume of the transaction report divided by $5000.
 
-<h>c. Trading Share. The Trading Share of a Participant in an Eligible Security shall be determined by multiplying (i) an amount equal to fifty percent of the Security Income Allocation for the Eligible Security by (ii) the Participant’s Trade Rating in the Eligible Security. A Participant’s Trade Rating in an Eligible Security shall be determined by taking the average of (i) the Participant’s percentage of the total dollar volume of transaction reports disseminated by the Processor in the Eligible Security during the calendar year, and (ii) the Participant’s percentageof the total number of qualified transaction reports disseminated by the Processor in the Eligible Security during the calendar year.</h>
+<h>c. Trading Share.</h> The Trading Share of a Participant in an Eligible Security shall be determined by multiplying (i) an amount equal to fifty percent of the Security Income Allocation for the Eligible Security by (ii) the Participant’s Trade Rating in the Eligible Security. A Participant’s Trade Rating in an Eligible Security shall be determined by taking the average of (i) the Participant’s percentage of the total dollar volume of transaction reports disseminated by the Processor in the Eligible Security during the calendar year, and (ii) the Participant’s percentageof the total number of qualified transaction reports disseminated by the Processor in the Eligible Security during the calendar year.
 
-<h>d. Quoting Share. The Quoting Share of a Participant in an Eligible Security shall be determined by multiplying (i) an amount equal to fifty percent of the Security Income Allocation for the Eligible Security by (ii) the Participant’s Quote Rating in the Eligible Security. A Participant’s Quote Rating in an Eligible Security shall be determined by dividing (i) the sum of the Quote Credits earned by the Participant in such Eligible Security during the calendar year by (ii) the sum of the Quote Credits earned by all Participants in such Eligible Security during the calendar year. A Participant shall earn one Quote Credit for each second of time (with a minimum of one full second) multiplied by dollar value of size that an automated best bid (offer) transmitted by the Participant to the Processor during regular trading hours is equal to the price of the national best bid (offer) in the Eligible Security and does not lock or cross a previously displayed automated quotation. An automated bid (offer) shall have the meaning specified in Rule 600 of Regulation NMS of the Exchange Act for an "automated quotation." The dollar value of size of a quote shall be determined by multiplying the price of a quote by its size.</h>
+<h>d. Quoting Share.</h> The Quoting Share of a Participant in an Eligible Security shall be determined by multiplying (i) an amount equal to fifty percent of the Security Income Allocation for the Eligible Security by (ii) the Participant’s Quote Rating in the Eligible Security. A Participant’s Quote Rating in an Eligible Security shall be determined by dividing (i) the sum of the Quote Credits earned by the Participant in such Eligible Security during the calendar year by (ii) the sum of the Quote Credits earned by all Participants in such Eligible Security during the calendar year. A Participant shall earn one Quote Credit for each second of time (with a minimum of one full second) multiplied by dollar value of size that an automated best bid (offer) transmitted by the Participant to the Processor during regular trading hours is equal to the price of the national best bid (offer) in the Eligible Security and does not lock or cross a previously displayed automated quotation. An automated bid (offer) shall have the meaning specified in Rule 600 of Regulation NMS of the Exchange Act for an "automated quotation." The dollar value of size of a quote shall be determined by multiplying the price of a quote by its size.
 
 Governance Amendment(#) Advisory Committee .
 
-<h>a. Formation. Notwithstanding any other provision of this Plan, an Advisory Committee to the Plan shall be formed and shall function in accordance with the provisions set forth in this section.</h>
+<h>a. Formation.</h> Notwithstanding any other provision of this Plan, an Advisory Committee to the Plan shall be formed and shall function in accordance with the provisions set forth in this section.
 
-<h>b. Composition. Members of the Advisory Committee shall be selected for two-year terms as follows:</h>
+<h>b. Composition.</h> Members of the Advisory Committee shall be selected for two-year terms as follows:
 
-<h>1. Operating Committee Selections. By affirmative vote of a majority of the Participants entitled to vote, the Operating Committee shall select at least one representative from each of the following categories to be members of the Advisory Committee: (i) a broker- dealer with a substantial retail investor customer base, (ii) a broker-dealer with a substantial institutional investor customer base, (iii) an alternative trading system, (iv) a data vendor, and (v) an investor.</h>
+<h>1. Operating Committee Selections.</h> By affirmative vote of a majority of the Participants entitled to vote, the Operating Committee shall select at least one representative from each of the following categories to be members of the Advisory Committee: (i) a broker- dealer with a substantial retail investor customer base, (ii) a broker-dealer with a substantial institutional investor customer base, (iii) an alternative trading system, (iv) a data vendor, and (v) an investor.
 
-<h>2. Participant Selections. Each Participant shall have the right to select one member of the Advisory Committee. A Participant shall not select any person employed by or affiliated with any Participant or its affiliates or facilities.</h>
+<h>2. Participant Selections.</h> Each Participant shall have the right to select one member of the Advisory Committee. A Participant shall not select any person employed by or affiliated with any Participant or its affiliates or facilities.
 
-<h>c. Function. Members of the Advisory Committee shall have the right to submit their views to the Operating Committee on Plan matters, prior to a decision by the Operating Committee on such matters. Such matters shall include, but not be limited to, any new or modified product, fee, contract, or pilot program that is offered or used pursuant to the Plan.</h>
+<h>c. Function.</h> Members of the Advisory Committee shall have the right to submit their views to the Operating Committee on Plan matters, prior to a decision by the Operating Committee on such matters. Such matters shall include, but not be limited to, any new or modified product, fee, contract, or pilot program that is offered or used pursuant to the Plan.
 
-<h>d. Meetings and Information. Members of the Advisory Committee shall have the right to attend all meetings of the Operating Committee and to receive any information concerning Plan matters that is distributed to the Operating Committee; provided, however, that the Operating Committee may meet in executive session if, by affirmative vote of a majority of the Participants entitled to vote, the Operating Committee determines that an item of Plan business requires confidential treatment.</h>
+<h>d. Meetings and Information.</h> Members of the Advisory Committee shall have the right to attend all meetings of the Operating Committee and to receive any information concerning Plan matters that is distributed to the Operating Committee; provided, however, that the Operating Committee may meet in executive session if, by affirmative vote of a majority of the Participants entitled to vote, the Operating Committee determines that an item of Plan business requires confidential treatment.
 
 <h>XV. Text of Adopted Rules List of Subjects17 CFR Part 200</h>
 

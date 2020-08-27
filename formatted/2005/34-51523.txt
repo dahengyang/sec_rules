@@ -1,125 +1,3 @@
-https://www.sec.gov/rules/final/34-51523.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 BACKGROUND
-
-	II.A.0.0 The Advisers Act Broker-Dealer Exception
-
-	II.B.0.0 The Current Rulemaking
-
-		II.B.1.0 The 1999 Proposal
-
-		II.B.2.0 The Reproposal
-
-III.0.0.0 DISCUSSION
-
-	III.A.0.0 Fee-Based Brokerage Programs
-
-		III.A.1.0 Historical Context
-
-			III.A.1.b those problems involving the organization and operation of investment counsel institutions.”60 Based on the findings of the Investment Counsel Report, representatives of the Commission testified at the Congressional hearings on what ultimately became the Advisers Act in favor of regulating the largely unregulated community of persons engaged in the business of providing investment advice for compensation. As Commission staff explained, a “compulsory census” in the form of a registration requirement for investment advisers was necessary both to protect investors against the unregulated “fringe” offering investment advisory services and to advance the interests of legitimate investment counselors by eliminating “tipsters” who “crash in on the good will of these reputable organizations . . . by giving themselves a designation of investment counselors.”61
-
-		III.A.2.0 Our Conclusions
-
-	III.B.0.0 Exception for Fee-Based Brokerage Accounts
-
-		III.B.1.0 Solely Incidental To
-
-		III.B.2.0 Customer Disclosure
-
-	III.C.0.0 Discount Brokerage Programs
-
-	III.D.0.0 Scope of Exception
-
-	III.E.0.0 Solely Incidental To
-
-		III.E.1.0 Separate Contract or Fee
-
-		III.E.2.0 Financial Planning
-
-		III.E.29.0 At least one broker-dealer commenter, however, argued that financial planning services are unconnected from any securities transaction, are not solely incidental, and therefore should be provided only in accounts subject to full investment advisory registration. TD Waterhouse Letter, supra note 113.
-
-		III.E.1.0 Holding Out
-
-		III.E.2.0 Discretionary Asset Management
-
-IV.0.0.0 EFFECTIVE AND COMPLIANCE DATES
-
-V.0.0.0 FURTHER EXAMINATION OF ISSUES
-
-VI.0.0.0 COST BENEFIT ANALYSIS
-
-	VI.A.0.0 Fee-based and Discount Brokerage Accounts
-
-		VI.A.1.0 Benefits
-
-			VI.A.1.a Avoidance of Compliance Costs
-
-			VI.A.1.b Investor Benefits
-
-		VI.A.2.0 Costs
-
-	VI.B.0.0 Advice That Is Not Solely Incidental to Brokerage
-
-		VI.B.1.0 Separate Advisory Services
-
-			VI.B.1.a Benefits
-
-			VI.B.1.b Costs
-
-		VI.B.2.0 Holding Out As A Financial Planner
-
-			VI.B.2.a Benefits
-
-			VI.B.2.b Costs
-
-		VI.B.3.0 Discretionary Brokerage
-
-			VI.B.3.a Benefits
-
-			VI.B.3.b Costs
-
-VII.0.0.0 EFFECTS OF COMPETITION, EFFICIENCY AND CAPITAL FORMATION
-
-	VII.A.0.0 Fee-Based and Discount Brokerage Programs
-
-	VII.B.0.0 Discretionary Brokerage and Financial Planning
-
-VIII.0.0.0 PAPERWORK REDUCTION ACT
-
-	VIII.A.0.0 Certain Broker-Dealers Deemed Not To Be Investment Advisers
-
-	VIII.B.0.0 Broker-Dealers Providing Discretionary Advice or Financial Plans
-
-		VIII.B.1.0 Form ADV
-
-		VIII.B.2.0 Form ADV-W and Rule 203-2
-
-		VIII.B.3.0 Rule 203-3 and Form ADV-H
-
-		VIII.B.4.0 Form ADV-NR
-
-IX.0.0.0 REGULATORY FLEXIBILITY ANALYSIS
-
-	IX.A.0.0 Reasons for Action
-
-	IX.B.0.0 Significant Issues Raised by Public Comment
-
-	IX.C.0.0 Small Entities
-
-	IX.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	IX.E.0.0 Duplicative, Overlapping, or Conflicting Federal Rules
-
-	IX.F.0.0 Significant Alternatives
-
-X.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 275
 
 [Release Nos. 34-51523; IA-2376; File No. S7-25-99] RIN 3235-AH78
@@ -278,9 +156,7 @@ The second way in which broker-dealers dispensed advice was to charge a distinct
 
 Between 1935 and 1939, the Commission conducted a congressionally mandated study of investment trusts and investment companies and in connection with this study surveyed investment advisers. <sup>56</sup> For those entities that did not engage solely in the business of providing investment advice for a fee, the “study dealt only with the department of the organization engaged in the business of furnishing such service,” <sup>57</sup> including broker-dealers with investment advisory departments. <sup>58</sup> Following the survey, the Commission held a public hearing at which representatives of the investment counsel industry offered testimony about the history of the investment counsel business, the nature of the services investment counsel provided, and what they saw as the main problems involved in the business of providing investment advice. <sup>59</sup>the investment banks and those brokerage houses which undertake to perform the functions of investment counsel”).
 
-In a report to Congress (the “Investment Counsel Report”), the Commission informed Congress that the Commission’s study had identified two broad classes of problems relating to investment advisers that warranted legislation: “(a) the problem of distinguishing between bona fide investment counselors and ‘tipster’ organizations; and
-
-<h>b. those problems involving the organization and operation of investment counsel institutions.”60 Based on the findings of the Investment Counsel Report, representatives of the Commission testified at the Congressional hearings on what ultimately became the Advisers Act in favor of regulating the largely unregulated community of persons engaged in the business of providing investment advice for compensation. As Commission staff explained, a “compulsory census” in the form of a registration requirement for investment advisers was necessary both to protect investors against the unregulated “fringe” offering investment advisory services and to advance the interests of legitimate investment counselors by eliminating “tipsters” who “crash in on the good will of these reputable organizations . . . by giving themselves a designation of investment counselors.”61</h>
+In a report to Congress (the “Investment Counsel Report”), the Commission informed Congress that the Commission’s study had identified two broad classes of problems relating to investment advisers that warranted legislation: “(a) the problem of distinguishing between bona fide investment counselors and ‘tipster’ organizations; and (b) those problems involving the organization and operation of investment counsel institutions.”60 Based on the findings of the Investment Counsel Report, representatives of the Commission testified at the Congressional hearings on what ultimately became the Advisers Act in favor of regulating the largely unregulated community of persons engaged in the business of providing investment advice for compensation. As Commission staff explained, a “compulsory census” in the form of a registration requirement for investment advisers was necessary both to protect investors against the unregulated “fringe” offering investment advisory services and to advance the interests of legitimate investment counselors by eliminating “tipsters” who “crash in on the good will of these reputable organizations . . . by giving themselves a designation of investment counselors.”61
 
 Congress chose to fill this regulatory gap by passing the Advisers Act. Section 202(a)(11) of the Act defined “investment adviser” – those subject to the requirements of the Act – broadly to include “any person who, for compensation, engages in the business of advising others, either directly or through publications or writings, as to the value of securities or as to the advisability of investing in, purchasing, or selling securities, or who, for compensation and as part of a regular business, issues or promulgates analysesor reports concerning securities . . . .” In adopting this broad definition, Congress necessarily rejected arguments presented during its hearings that legitimate investment counselors should be free from any oversight except, perhaps, by the few states that had passed laws regulating investment counselors <sup>62</sup> and by private organizations, such as the Investment Counsel Association of America. <sup>63</sup> Instead, in responding to such views, congressional committee members repeatedly observed that those whose business was limited to providing investment advice for compensation were subject to little if any regulatory oversight, and questioned why they should not be subject to regulation even though other professionals were. <sup>64</sup>
 
@@ -420,15 +296,13 @@ We received many comment letters from firms and individuals with strongly held v
 
 We do not believe that financial planning, as it is understood today, necessarily follows as a consequence of rendering brokerage services. Instead, it is a relatively new service that many brokers provide in a manner essentially independent of their brokerage services. That being said, and as we acknowledged in the Reproposing Release, elements of financial planning have been, are, and should be a part of every broker-dealer’s considerations as to the suitability of their recommendations. We have concluded that it would be unwise for us to attempt to distinguish when a suitability analysis ends and financial planning begins, and we do not want to interfere in any way with a broker- dealer’s fulfillment of its suitability obligations.
 
-We have determined instead to rely primarily on how a broker-dealer holds itself out to the public and its customers in distinguishing the advice provided in connection with financial planning from other types of investment advice, such as transaction- specific advice, which may be solely incidental to brokerage. <sup>157</sup> Our experience
-
-<h>29. At least one broker-dealer commenter, however, argued that financial planning services are unconnected from any securities transaction, are not solely incidental, and therefore should be provided only in accounts subject to full investment advisory registration. TD Waterhouse Letter, supra note 113.generally informs us that investors understand financial plans and financial planning to mean something different from brokerage. Our investor focus groups showed that investors were confused about the differences among financial service providers generally, but in many cases understood financial planning to be a separate category, and assumed financial planners held responsibilities relating to the long-term needs of their clients. <sup>158</sup> Moreover, our approach would provide broker-dealers the certainty they need to determine when their advisory activities will trigger obligations under the Advisers Act because they can control how they hold themselves out to the public and their customers.</h>
+We have determined instead to rely primarily on how a broker-dealer holds itself out to the public and its customers in distinguishing the advice provided in connection with financial planning from other types of investment advice, such as transaction- specific advice, which may be solely incidental to brokerage. <sup>157</sup> Our experience 29. At least one broker-dealer commenter, however, argued that financial planning services are unconnected from any securities transaction, are not solely incidental, and therefore should be provided only in accounts subject to full investment advisory registration. TD Waterhouse Letter, supra note 113.generally informs us that investors understand financial plans and financial planning to mean something different from brokerage. Our investor focus groups showed that investors were confused about the differences among financial service providers generally, but in many cases understood financial planning to be a separate category, and assumed financial planners held responsibilities relating to the long-term needs of their clients. <sup>158</sup> Moreover, our approach would provide broker-dealers the certainty they need to determine when their advisory activities will trigger obligations under the Advisers Act because they can control how they hold themselves out to the public and their customers.
 
 Under the rule, a broker-dealer would be subject to the Advisers Act if it portrays itself to the public as a financial planner or as providing financial planning services, whether it uses those particular terms or not. And it must treat as advisory clients all those customers to whom it delivers a financial plan, regardless of what it chooses to call the plan. While we have recognized there are some common elements in a financial plan and a broker-dealer’s advice based on its understanding of a customer’s needs and objectives, which is incumbent in its suitability analysis, we do no not consider this broker-dealer advice alone as constituting a financial plan.
 
 The broker-dealer must also treat as advisory clients those customers to whom it represents that its advice is part of a financial plan even if it uses some other term to“financial planning” activity, this restriction addresses another form of holding out. The delivery of a financial plan to a customer demonstrates to the customer that the broker- dealer is offering its financial planning services, and thus delivery has the same effect as other forms of holding out. Accordingly, we have concluded that, on balance, this type of financial planning activity should also be restricted.describe the plan. <sup>159</sup> Whether a particular document is, under the rule, a financial plan will turn on whether the document or representation bears the characteristics of a financial plan. Whether a communication represents that the services provided are financial planning services will depend on how a reasonable investor would understand the services described in the communication. <sup>160</sup>
 
-<h>1. Holding Out</h>
+<h>3. Holding Out</h>
 
 We have decided not to include in rule 202(a)(11)-1 any other limitations on how a broker-dealer may hold itself out or titles it may employ without complying with the Advisers Act. Many commenters argued that we should prohibit broker-dealers from calling themselves financial advisors, financial consultants or other similar names. These commenters asserted such titles are inconsistent with the broker-dealer exception for advice that is solely incidental to brokerage. <sup>161</sup> Other commenters, however, argued that, in many instances, such titles are fully consistent with the services provided to brokerage customers, whether fee-based or commission-based, and should not be proscribed. <sup>162</sup>
 
@@ -438,7 +312,7 @@ Moreover, we are concerned that any list of proscribed names we develop could le
 
 We believe the better approach, which we are adopting today, is to require broker- dealers to inform clients clearly that they are entering into a brokerage, and not an advisory, relationship. The customer disclosure requirements, which we discuss above, must be included in all customer documents for fee-based brokerage accounts. We encourage brokers to consider making similar disclosure in other communications. <sup>163</sup>
 
-<h>2. Discretionary Asset Management</h>
+<h>4. Discretionary Asset Management</h>
 
 Under the rule we adopt today, discretionary investment advice is not “solely incidental to” brokerage services within the meaning of the rule (or to the business of a broker-dealer within the meaning of section 202(a)(11)(C)) and, accordingly, brokers and dealers are not excepted from the Act for any accounts over which they exercise investment discretion as that term is defined in section 3(a)(35) of the Exchange Act <sup>164</sup>(A) is authorized to determine what securities or other property shall be purchased or sold(except that investment discretion granted by a customer on a temporary or limited basis is excluded). The rule terminates the existing staff approach, under which a discretionary account is subject to the Act only if the broker-dealer has enough other discretionary accounts to trigger the Act. <sup>165</sup> Under the new rule, the exception provided by section 202(a)(11)(C) is unavailable for any account over which a broker-dealer exercises investment discretion, regardless of the form of compensation and without regard to how the broker-dealer handles other accounts. <sup>166</sup>
 
@@ -466,7 +340,9 @@ To sell specific bonds and purchase similar bonds in order to permit a customer 
 
 To purchase a bond with a specified credit rating and maturity; and
 
-To purchase or sell a security or type of security limited by specific parameters established by the customer. <sup>181</sup>5.	Wrap Fee Sponsorship
+To purchase or sell a security or type of security limited by specific parameters established by the customer. <sup>181</sup>
+
+<h>5.	Wrap Fee Sponsorship</h>
 
 Broker-dealers often serve as sponsors of wrap fee programs, under which broker- dealers effect securities transactions for one or more portfolio managers, which may be independent investment advisers. The sponsoring broker-dealer may provide wrap fee program clients with asset allocation models or with advice about selecting one or more of the portfolio managers in the program. The portfolio managers typically have discretionary authority over the client’s assets. Traditionally, we have not viewed the sponsor’s asset allocation or portfolio manager selection advice as incidental to thebrokerage transactions initiated by the portfolio manager and executed by the sponsor. <sup>182</sup> In our Reproposing Release, however, we asked whether such broker-dealers may have available the exception provided by rule 202(a)(11)-1 if, among other things, the portfolio manager selection and asset allocation services could be viewed as solely incidental to the sponsor’s business of brokerage. <sup>183</sup> Commenters urged the Commission to reaffirm its interpretation that portfolio manager selection and asset allocation services involved in wrap fee programs are advisory services that are not solely incidental to brokerage services, <sup>184</sup> and we do so here today.
 
@@ -602,7 +478,7 @@ In many instances, broker-dealers that are not dually registered are affiliated 
 
 For broker-dealers whose maintenance of discretionary accounts will require them to register as investment advisers for the first time, rule 202(a)(11)-1(b) will result in costs associated with registration under the Advisers Act and compliance with the Act’s requirements. <sup>240</sup> Although we acknowledge (as discussed above in connection with separately-contracted-for advisory services and financial planning services in Section VI.B.1.b and VI.B.2.b of this Release) that the costs of registration and compliance under the Advisers Act are significant, <sup>241</sup> we believe that such costs will be mitigated by the fact that these firms can build upon the infrastructure they already have in place as broker-dealers, much of which overlaps with Advisers Act requirements. For example, these broker- dealers are already subject to rules requiring designation of a chief compliance officer, establishment and maintenance of written compliance procedures,maintenance of books and records, and oversight of employee personal securities trading. <sup>242</sup> These broker-dealers will ordinarily also be in compliance with the adviser custody rule. <sup>243</sup>
 
-C.	Wrap Fee Sponsorship.
+<h>C.	Wrap Fee Sponsorship.</h>
 
 We are re-affirming our current interpretation regarding wrap program sponsorship. Since this does not change existing obligations or relationships, no new costs or benefits result.
 

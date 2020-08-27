@@ -1,67 +1,3 @@
-https://www.sec.gov/rules/final/2007/33-8809.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 DISCUSSION OF AMENDMENTS
-
-	II.A.0.0 Exchange Act Rules 13a-15(c) and 15d-15(c)
-
-		II.A.1.0 Proposal
-
-		II.A.2.0 Comments on the Proposal
-
-		II.A.1.0 an identification of the risks that are reasonably likely to result in a material misstatement of the company’s financial statements; (2) an evaluation of whether the company has placed controls in operation that are designed to address those risks; and (3) a risk-based process for gathering and evaluating evidence regarding the effective operation of those controls.
-
-		II.A.3.0 Final Rule
-
-	II.B.0.0 Rules 1-02 and 2-02 of Regulation S-X and Item 308 of Regulations S-B and S-K
-
-		II.B.1.0 Proposal
-
-		II.B.2.0 Comments on the Proposal
-
-		II.B.3.0 Final Rule
-
-	II.C.0.0 Definition of Material Weakness
-
-		II.C.1.0 Proposal
-
-		II.C.2.0 Comments on the Proposal
-
-		II.C.3.0 Final Rule
-
-III.0.0.0 TRANSITION ISSUES
-
-IV.0.0.0 BACKGROUND TO REGULATORY ANALYSES
-
-V.0.0.0 PAPERWORK REDUCTION ACT
-
-VI.0.0.0 COST-BENEFIT ANALYSIS
-
-	VI.A.0.0 Benefits
-
-	VI.B.0.0 Costs
-
-VII.0.0.0 EFFECT ON EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-VIII.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VIII.A.0.0 Need for the Amendments
-
-	VIII.B.0.0 Significant Issues Raised by Public Comments
-
-	VIII.C.0.0 Small Entities Subject to the Final Amendments
-
-	VIII.D.0.0 Reporting, Recordkeeping, and other Compliance Requirements
-
-	VIII.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-IX.0.0.0 STATUTORY AUTHORITY AND TEXT OF RULE AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 Corrected
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 210, 228, 229 and 240
@@ -152,7 +88,7 @@ Exchange Act Rules 13a-15(c) and 15d-15(c) require the management of each issuer
 
 While many commenters supported the proposed amendments to Rules 13a-15 and 15d-15, <sup>17</sup> some expressed the view that although the guidance is appropriately principles-based, the nature of the requirements set forth in the Proposed Interpretive Guidance is not well-suited to the type of safe-harbor protection intended by theamendments. <sup>18</sup> For instance, three commenters suggested that the Proposed Interpretive Guidance does not contain specific, objective criteria that a company’s management could use to demonstrate that its evaluation complies with the requirements of the Proposed Interpretive Guidance. <sup>19</sup> Consequently, two of these commenters went on to conclude that the amendments may eventually lead to the Interpretive Guidance being viewed as an exclusive evaluation approach. In light of these and similar concerns, one commenter suggested broadening the amended rule language to explicitly indicate that an evaluation provides a reasonable basis for management’s ICFR assessment if it includes:
 
-<h>1. an identification of the risks that are reasonably likely to result in a material misstatement of the company’s financial statements; (2) an evaluation of whether the company has placed controls in operation that are designed to address those risks; and (3) a risk-based process for gathering and evaluating evidence regarding the effective operation of those controls.</h>
+1. an identification of the risks that are reasonably likely to result in a material misstatement of the company’s financial statements; (2) an evaluation of whether the company has placed controls in operation that are designed to address those risks; and (3) a risk-based process for gathering and evaluating evidence regarding the effective operation of those controls.
 
 One commenter opposed both the Proposed Interpretive Guidance and the proposed rule amendments and expressed the view that management will, as a result of the nature of the Proposed Interpretive Guidance, claim the protection afforded by the amendments for deficient evaluations. <sup>21</sup> Another commenter expressed the view that theproposed rule amendments could result in a “minimalist” attitude towards the internal control evaluation on the part of management. <sup>22</sup>
 

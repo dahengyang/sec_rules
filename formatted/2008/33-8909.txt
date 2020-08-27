@@ -1,69 +1,3 @@
-https://www.sec.gov/rules/final/2008/33-8909.pdf
-
-I.0.0.0 Discussion
-
-	I.A.0.0 Background
-
-	I.B.0.0 Amendments to Form S-11
-
-		I.B.1.0 Historical Incorporation by Reference
-
-			I.B.1.a Eligibility
-
-			I.B.1.b Procedural Requirements
-
-		I.B.2.0 Form S-11 and Rule 415 under the Securities Act
-
-	I.C.0.0 Comments on Form S-11 Amendments
-
-	I.D.0.0 Effective Date
-
-II.0.0.0 Paperwork Reduction Act
-
-	II.A.0.0 Background
-
-	II.B.0.0 Summary of Information Collection
-
-	II.C.0.0 Summary of Comments and Revisions to Amendments
-
-	II.D.0.0 Revised Paperwork Reduction Act Burden Estimates
-
-III.0.0.0 Cost-Benefit Analysis
-
-	III.A.0.0 Summary of Amendments
-
-	III.B.0.0 Benefits
-
-	III.C.0.0 Costs
-
-IV.0.0.0 Consideration of Promotion on Efficiency, Competition and Capital Formation
-
-V.0.0.0 Final Regulatory Flexibility Act Analysis
-
-	V.A.0.0 Reasons for and Objectives of the Amendments
-
-	V.B.0.0 Significant Issues Raised by Public Comment
-
-	V.C.0.0 Small Entities Subject to the Amendments
-
-	V.D.0.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-	V.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-		V.E.1.0 establishing different compliance or reporting requirements that take into account the resources of small entities;
-
-		V.E.2.0 the clarification, consolidation, or simplification of disclosure for small entities;
-
-		V.E.3.0 use of performance standards rather than design standards; and
-
-		V.E.4.0 exempting smaller entities from coverage of the disclosure requirements or any part thereof.
-
-VI.0.0.0 Statutory Authority and Text of the Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PART 239
 
 [RELEASE NO. 33-8909; FILE NO. S7-30-07] RIN 3235-AK02
@@ -236,13 +170,13 @@ We expect that small entities eligible to register on Form S-11 may need to incu
 
 The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objective, while minimizing any significant adverse impact on small entities. In connection with the amendments, the Regulatory Flexibility Act requires us to consider the following alternatives:
 
-<h>1. establishing different compliance or reporting requirements that take into account the resources of small entities;</h>
+1. establishing different compliance or reporting requirements that take into account the resources of small entities;
 
-<h>2. the clarification, consolidation, or simplification of disclosure for small entities;</h>
+2. the clarification, consolidation, or simplification of disclosure for small entities;
 
-<h>3. use of performance standards rather than design standards; and</h>
+3. use of performance standards rather than design standards; and
 
-<h>4. exempting smaller entities from coverage of the disclosure requirements or any part thereof.</h>
+4. exempting smaller entities from coverage of the disclosure requirements or any part thereof.
 
 Our amendments will extend the benefit of incorporation by reference to small entities that are required to file registration statements on Form S-11. Establishing a different standard for small business entities would impose a greater compliance burden on small entities and would be inconsistent with the benefits provided for small entities that register on Form S-1 and Form F-1.
 

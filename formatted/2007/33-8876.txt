@@ -1,137 +1,3 @@
-https://www.sec.gov/rules/final/2007/33-8876.pdf
-
-I.0.0.0 Background and Summary
-
-		I..6.0 Release No. 34-56010 (July 5, 2007) [72 FR 37608] (proposing exemptions from requirement to register class of securities for compensatory stock options granted by reporting and non- reporting companies). This proposal was adopted in Release No. 34-56887 (Dec. 3, 2007) [72 FR 69554]; (7) Release No. 33-8810 (June 20, 2007) [72 FR 35324] (providing interpretive guidance regarding management’s report on internal control over financial reporting under Section 13(a) or 15(d) of the Securities Exchange Act of 1934); and (8) Release No. 33-8811 (June 20, 2007) [72 FR 35346] (requesting additional comment on the definition of a significant deficiency). The last proposal was adopted in Release No. 33-8829 (Aug. 3, 2007) [72 FR 44927] (adopting definition of “significant deficiency”).
-
-	I.A.0.0 was designed to reduce compliance costs and improve the ability of start-ups and other small businesses to obtain financing through the public capital markets.
-
-II.0.0.0 Description of Proposed Amendments
-
-			II.A.6.a A blank check company as defined in Rule 419(a)(2);
-
-			II.A.6.b A shell company, other than a business combination related shell company, each as defined in Rule 405; or
-
-			II.A.6.c A registrant for any offering of penny stock as defined in Rule 3a51-1 under the Exchange Act.
-
-III.0.0.0 Discussion of Amendments We Are Adopting
-
-	III.A.0.0 Moving Scaled Disclosure Item Requirements from Regulation S-B into Regulation S-K
-
-	III.B.0.0 Moving Smaller Reporting Company Financial Statement Requirements from Item 310 of Regulation S-B into New Article 8 of Regulation S-X; Additional Regulation S-X Changes
-
-	III.C.0.0 Adopting Scaled Disclosure Item Requirements in Regulation S-K
-
-		III.C.1.0 Overview
-
-		III.C.2.0 Electing Scaled Disclosure Standards on “A La Carte” Basis
-
-	III.D.0.0 Eliminating “SB” Forms Associated with Regulation S-B
-
-	III.E.0.0 Qualifying Standards for Treatment as “Smaller Reporting Company”
-
-		III.E.1.0 Eligibility and Exclusions
-
-		III.E.2.0 Determination Dates
-
-			III.E.2.a Reporting Companies
-
-			III.E.2.b Non-Reporting Companies Filing an Initial Registration Statement
-
-			III.E.2.c Alternative Revenue Test for Reporting and Non-Reporting Companies
-
-			III.E.2.d Entering and Exiting Smaller Reporting Company Status
-
-	III.F.0.0 Miscellaneous99
-
-		III.F.1.0 Indexing for Inflation
-
-		III.F.2.0 Eliminating Transitional Small Business Issuer Format
-
-		III.F.3.0 Checking the “Smaller Reporting Company” Box
-
-IV.0.0.0 Compliance Dates
-
-V.0.0.0 Paperwork Reduction Act
-
-	V.A.0.0 Background
-
-		V.A.1.0 “Regulation S-B” (OMB Control No. 3235-0417);
-
-		V.A.2.0 “Regulation S-K” (OMB Control No. 3235-0071);
-
-		V.A.3.0 “Regulation C” (OMB Control No. 3235-0074);
-
-		V.A.4.0 “Form SB-1” (OMB Control No. 3235-0423);
-
-		V.A.5.0 “Form SB-2” (OMB Control No. 3235-0418);
-
-		V.A.6.0 “Form S-1” (OMB Control No. 3235-0065);
-
-		V.A.7.0 “Form S-3” (OMB Control No. 3235-0073);
-
-		V.A.8.0 “Form S-4” (OMB Control No. 3235-0324);
-
-		V.A.9.0 “Form S-8” (OMB Control No. 3235-0066);
-
-		V.A.15.0 “Form 10-KSB” (OMB Control No. 3235-0420);
-
-		V.A.16.0 “Form 8-K” (OMB Control No. 3235-0060);
-
-		V.A.17.0 “Form 8-A” (OMB Control No. 3235-0056);
-
-		V.A.19.0 “Form 10-QSB” (OMB Control No. 3235-0416);
-
-		V.A.20.0 “Form 11-K” (OMB Control No. 3235-0082); and
-
-		V.A.21.0 “Form SE” (OMB Control No. 3235-0327).
-
-	V.B.0.0 Summary of Comment Letters and Revisions to the Proposals
-
-VI.0.0.0 Cost-Benefit Analysis
-
-	VI.A.0.0 Background
-
-	VI.B.0.0 Summary of Rules
-
-	VI.C.0.0 Benefits
-
-	VI.D.0.0 Costs
-
-VII.0.0.0 Consideration of Impact on the Economy, Burden on
-
-VIII.0.0.0 Final Regulatory Flexibility Act Analysis
-
-	VIII.A.0.0 Reasons for and Objectives of Amendments
-
-		VIII.A.1.0 The Advisory Committee on Smaller Public Companies Recommended Scaled Federal Securities Regulation for Smaller Companies
-
-		VIII.A.2.0 Expanding Eligibility for Smaller Company Scaled Regulation Under Amended Regulation S-K
-
-		VIII.A.3.0 Integrating Substantive Requirements of Regulation S-B into Regulations S-K and S-X
-
-	VIII.B.0.0 Significant Issues Raised by Public Comment
-
-	VIII.C.0.0 Small Entities Subject to the Amendments
-
-	VIII.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VIII.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-			VIII.E.3.a establishing different compliance or reporting requirements which take into account the resources available to smaller entities;
-
-			VIII.E.3.b the clarification, consolidation or simplification of disclosure for small entities;
-
-			VIII.E.3.c use of performance standards rather than design standards; and
-
-			VIII.E.3.d exempting smaller entities from coverage of the disclosure requirements or any part thereof.
-
-IX.0.0.0 Statutory Basis and Text of Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR PARTS 210, 228, 229, 230, 239, 240, 249, 260, and 269
@@ -266,9 +132,7 @@ Statutory Basis and Text of Amendments
 
 <h>I. Background and Summary</h>
 
-At an open Commission meeting on May 23, 2007, we approved publication of eight releases designed to update and improve federal securities regulations that significantly affect smaller companies and their investors in today’s capital markets. <sup>17</sup> These releases reflected our efforts during the past few years to provide responsive solutions addressing the special characteristics and needs of smaller companies and their investors. One of the releases (the “Proposing Release”) proposed rule amendments intended to provide general regulatory relief and simplification for smaller companies reporting under our rules. <sup>18</sup> In that release, we proposed a series of amendments to our(2) Release No. 33-8813 (June 22, 2007) [72 FR 36822] (proposing amendments to Rule 144 to revise the holding period for the resale of restricted securities, simplify compliance for non- affiliates, revise the Form 144 filing thresholds, and codify certain staff interpretations, as well as to amend Rule 145). This proposal was adopted in Release No. 33-8869 (Dec. 6, 2007) [72 FR 71546]; (3) Release No. 33-8814 (June 29, 2007) [72 FR 37376] (proposing revisions to Form D and to mandate electronic filing of Form D). The Commission voted to approve this proposal at the December 11, 2007 open meeting (archived webcast available at http://www.sec.gov/news/openmeetings.shtml); (4) Release No. 33-8819 (July 5, 2007) [72 FR 39670] (proposing to increase the number of companies eligible for our scaled disclosure and reporting requirements for smaller companies); (5) Release No. 33-8828 (Aug. 3, 2007) [72 FR 45116] (proposing new Regulation D exemption for offers and sales of securities to a newly defined category of “large accredited investors,” as well as proposing revisions to the Regulation D definition of “accredited investor,” disqualification provisions, and integration safe harbor);
-
-<h>6. Release No. 34-56010 (July 5, 2007) [72 FR 37608] (proposing exemptions from requirement to register class of securities for compensatory stock options granted by reporting and non- reporting companies). This proposal was adopted in Release No. 34-56887 (Dec. 3, 2007) [72 FR 69554]; (7) Release No. 33-8810 (June 20, 2007) [72 FR 35324] (providing interpretive guidance regarding management’s report on internal control over financial reporting under Section 13(a) or 15(d) of the Securities Exchange Act of 1934); and (8) Release No. 33-8811 (June 20, 2007) [72 FR 35346] (requesting additional comment on the definition of a significant deficiency). The last proposal was adopted in Release No. 33-8829 (Aug. 3, 2007) [72 FR 44927] (adopting definition of “significant deficiency”).scaled disclosure and reporting requirements for smaller reporting companies. The release had three stated objectives:expanding the number of smaller companies eligible to use scaled disclosure requirements;reducing unnecessary complexity in our regulations by combining the category of “small business issuers” with the category of “non-accelerated filers” to the extent feasible; andsimplifying disclosure requirements by moving our scaled disclosure requirements for smaller companies from Regulation S-B into Regulation S-K, the integrated disclosure system for other companies.</h>
+At an open Commission meeting on May 23, 2007, we approved publication of eight releases designed to update and improve federal securities regulations that significantly affect smaller companies and their investors in today’s capital markets. <sup>17</sup> These releases reflected our efforts during the past few years to provide responsive solutions addressing the special characteristics and needs of smaller companies and their investors. One of the releases (the “Proposing Release”) proposed rule amendments intended to provide general regulatory relief and simplification for smaller companies reporting under our rules. <sup>18</sup> In that release, we proposed a series of amendments to our(2) Release No. 33-8813 (June 22, 2007) [72 FR 36822] (proposing amendments to Rule 144 to revise the holding period for the resale of restricted securities, simplify compliance for non- affiliates, revise the Form 144 filing thresholds, and codify certain staff interpretations, as well as to amend Rule 145). This proposal was adopted in Release No. 33-8869 (Dec. 6, 2007) [72 FR 71546]; (3) Release No. 33-8814 (June 29, 2007) [72 FR 37376] (proposing revisions to Form D and to mandate electronic filing of Form D). The Commission voted to approve this proposal at the December 11, 2007 open meeting (archived webcast available at http://www.sec.gov/news/openmeetings.shtml); (4) Release No. 33-8819 (July 5, 2007) [72 FR 39670] (proposing to increase the number of companies eligible for our scaled disclosure and reporting requirements for smaller companies); (5) Release No. 33-8828 (Aug. 3, 2007) [72 FR 45116] (proposing new Regulation D exemption for offers and sales of securities to a newly defined category of “large accredited investors,” as well as proposing revisions to the Regulation D definition of “accredited investor,” disqualification provisions, and integration safe harbor);(6) Release No. 34-56010 (July 5, 2007) [72 FR 37608] (proposing exemptions from requirement to register class of securities for compensatory stock options granted by reporting and non- reporting companies). This proposal was adopted in Release No. 34-56887 (Dec. 3, 2007) [72 FR 69554]; (7) Release No. 33-8810 (June 20, 2007) [72 FR 35324] (providing interpretive guidance regarding management’s report on internal control over financial reporting under Section 13(a) or 15(d) of the Securities Exchange Act of 1934); and (8) Release No. 33-8811 (June 20, 2007) [72 FR 35346] (requesting additional comment on the definition of a significant deficiency). The last proposal was adopted in Release No. 33-8829 (Aug. 3, 2007) [72 FR 44927] (adopting definition of “significant deficiency”).scaled disclosure and reporting requirements for smaller reporting companies. The release had three stated objectives:expanding the number of smaller companies eligible to use scaled disclosure requirements;reducing unnecessary complexity in our regulations by combining the category of “small business issuers” with the category of “non-accelerated filers” to the extent feasible; andsimplifying disclosure requirements by moving our scaled disclosure requirements for smaller companies from Regulation S-B into Regulation S-K, the integrated disclosure system for other companies.
 
 Several of the amendments in the Proposing Release had their genesis in the recommendations made by the Advisory Committee on Smaller Public Companies in 2006. The Commission had chartered the Advisory Committee in March 2005 to assess the current regulatory system for smaller companies under the federal securities laws and make recommendations for changes. <sup>19</sup> Among the specific charges of the Committee was to consider the corporate disclosure and reporting requirements for smaller companies, including differing regulatory requirements based on market capitalization, and other measurements of size or market characteristics. <sup>20</sup> In its Final Report, the Advisory Committee made several recommendations relating to scaling securities regulation for smaller companies and labeled them as priority items. <sup>21</sup>
 
@@ -276,9 +140,7 @@ IV.P.2 (pp.65-68).
 
 In 2006, 3,395 reporting companies elected to take advantage of our current scaled disclosure and reporting requirements for small business issuers by filing their annual reports on Form 10-KSB. <sup>22</sup> We estimate that a total of 4,976 companies will be eligible to use our scaled disclosure requirements under today’s amendments, a difference of 1,581 additional companies. <sup>23</sup> The 1,581 companies would represent about 13% of the total 11,898 reporting companies that filed annual reports with us in 2006.
 
-The amendments that we are adopting address the need to revisit and adjust the Commission’s small company policies to reflect changes in our securities markets as well as changes to the regulatory landscape since 1992, when the Commission first adopted an integrated scaled disclosure system for small business in Regulation S-B. <sup>24</sup> The Commission adopted Regulation S-B and its associated Forms SB-1 and SB-2 based upon the success of Form S-18, which was a simplified registration form for smaller companies under the Securities Act that preceded Forms SB-1 and SB-2. <sup>25</sup> Regulation
-
-<h>A. was designed to reduce compliance costs and improve the ability of start-ups and other small businesses to obtain financing through the public capital markets.</h>
+The amendments that we are adopting address the need to revisit and adjust the Commission’s small company policies to reflect changes in our securities markets as well as changes to the regulatory landscape since 1992, when the Commission first adopted an integrated scaled disclosure system for small business in Regulation S-B. <sup>24</sup> The Commission adopted Regulation S-B and its associated Forms SB-1 and SB-2 based upon the success of Form S-18, which was a simplified registration form for smaller companies under the Securities Act that preceded Forms SB-1 and SB-2. <sup>25</sup> Regulation A was designed to reduce compliance costs and improve the ability of start-ups and other small businesses to obtain financing through the public capital markets.
 
 The amendments we are adopting will result in the substantive changes highlighted below. The new provisions:
 
@@ -320,11 +182,11 @@ The proposal, like the amendments we are adopting, would rescind all of our form
 
 Finally, the proposals, like the amendments we are adopting, would eliminate the “transitional small business issuer format” associated with Form SB-1 and annual reports on Form 10-KSB. <sup>37</sup> A small business issuer using the transitional format followed disclosure based on Model A or B found in Regulation A. These two disclosure models were intended to ease transition from non-reporting to reporting status for small business issuers preparing disclosure on initial registration statements and annual reports. In our
 
-<h>a. A blank check company as defined in Rule 419(a)(2);</h>
+a. A blank check company as defined in Rule 419(a)(2);
 
-<h>b. A shell company, other than a business combination related shell company, each as defined in Rule 405; or</h>
+b. A shell company, other than a business combination related shell company, each as defined in Rule 405; or
 
-<h>c. A registrant for any offering of penny stock as defined in Rule 3a51-1 under the Exchange Act.</h>
+c. A registrant for any offering of penny stock as defined in Rule 3a51-1 under the Exchange Act.
 
 Proposing Release we noted, however, that the number of companies registering on Form SB-1 and following the disclosure format within Form 10-KSB had significantly declined over time. <sup>38</sup>
 
@@ -576,35 +438,47 @@ For example, a company that filed on Form SB-2 before the effective date would b
 
 The amendments contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>102</sup> As discussed in the Proposing Release, we submitted a request for approval of the “collection of information” requirements contained in the proposed amendments to the Office of Management and Budget in accordance with the PRA. <sup>103</sup> Some of the revisions that we are making to the original proposal affect these collections of information, but the revisions do not affect the burden estimates that we submitted to the OMB in connection with the Proposing Release. The titles of the collections of information are: <sup>104</sup>
 
-<h>1. “Regulation S-B” (OMB Control No. 3235-0417);</h>
+(1) “Regulation S-B” (OMB Control No. 3235-0417);
 
-<h>2. “Regulation S-K” (OMB Control No. 3235-0071);</h>
+(2) “Regulation S-K” (OMB Control No. 3235-0071);
 
-<h>3. “Regulation C” (OMB Control No. 3235-0074);</h>
+(3) “Regulation C” (OMB Control No. 3235-0074);
 
-<h>4. “Form SB-1” (OMB Control No. 3235-0423);</h>
+(4) “Form SB-1” (OMB Control No. 3235-0423);
 
-<h>5. “Form SB-2” (OMB Control No. 3235-0418);</h>
+(5) “Form SB-2” (OMB Control No. 3235-0418);
 
-<h>6. “Form S-1” (OMB Control No. 3235-0065);</h>
+(6) “Form S-1” (OMB Control No. 3235-0065);
 
-<h>7. “Form S-3” (OMB Control No. 3235-0073);</h>
+(7) “Form S-3” (OMB Control No. 3235-0073);
 
-<h>8. “Form S-4” (OMB Control No. 3235-0324);</h>
+(8) “Form S-4” (OMB Control No. 3235-0324);
 
-<h>9. “Form S-8” (OMB Control No. 3235-0066);(10) “Form S-11” (OMB Control No. 3235-0067);(11) “Form 1-A” (OMB Control No. 3235-0286);(12) “Form 10” (OMB Control No. 3235-0064);(13) “Form 10-SB” (OMB Control No. 3235-0419);(14) “Form 10-K” (OMB Control No. 3235-0063);</h>
+(9) “Form S-8” (OMB Control No. 3235-0066);
 
-<h>15. “Form 10-KSB” (OMB Control No. 3235-0420);</h>
+(10) “Form S-11” (OMB Control No. 3235-0067);
 
-<h>16. “Form 8-K” (OMB Control No. 3235-0060);</h>
+(11) “Form 1-A” (OMB Control No. 3235-0286);
 
-<h>17. “Form 8-A” (OMB Control No. 3235-0056);(18) “Form 10-Q” (OMB Control No. 3235-0070);</h>
+(12) “Form 10” (OMB Control No. 3235-0064);
 
-<h>19. “Form 10-QSB” (OMB Control No. 3235-0416);</h>
+(13) “Form 10-SB” (OMB Control No. 3235-0419);
 
-<h>20. “Form 11-K” (OMB Control No. 3235-0082); and</h>
+(14) “Form 10-K” (OMB Control No. 3235-0063);
 
-<h>21. “Form SE” (OMB Control No. 3235-0327).</h>
+(15) “Form 10-KSB” (OMB Control No. 3235-0420);
+
+(16) “Form 8-K” (OMB Control No. 3235-0060);
+
+(17) “Form 8-A” (OMB Control No. 3235-0056);
+
+(18) “Form 10-Q” (OMB Control No. 3235-0070);
+
+(19) “Form 10-QSB” (OMB Control No. 3235-0416);
+
+(20) “Form 11-K” (OMB Control No. 3235-0082); and
+
+(21) “Form SE” (OMB Control No. 3235-0327).
 
 An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.
 
@@ -790,13 +664,13 @@ Amended Item 404 of Regulation S-K is the only example where it is possible that
 
 The Regulatory Flexibility Act directs us to consider significant alternatives that will accomplish the stated objectives, while minimizing any significant adverse impact on small entities. In connection with the proposals, we considered the following alternatives:
 
-<h>a. establishing different compliance or reporting requirements which take into account the resources available to smaller entities;</h>
+a. establishing different compliance or reporting requirements which take into account the resources available to smaller entities;
 
-<h>b. the clarification, consolidation or simplification of disclosure for small entities;</h>
+b. the clarification, consolidation or simplification of disclosure for small entities;
 
-<h>c. use of performance standards rather than design standards; and</h>
+c. use of performance standards rather than design standards; and
 
-<h>d. exempting smaller entities from coverage of the disclosure requirements or any part thereof.</h>
+d. exempting smaller entities from coverage of the disclosure requirements or any part thereof.
 
 As adopted, our amendments are intended to maintain current disclosure standards for small entities while further expanding the scope of eligibility for companies that elect to comply with the scaled disclosure item requirements currently set forth in Regulation S-B. These changes do not exempt smaller entities from coverage of the disclosure requirements; rather, they provide a greater number of smaller reporting companies the choice to provide scaled disclosure within Regulations S-K and S-X.
 

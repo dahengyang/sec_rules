@@ -1,89 +1,3 @@
-https://www.sec.gov/rules/final/2008/33-8959.pdf
-
-I.0.0.0 Summary
-
-	I.A.0.0 Proposed Amendments
-
-	I.B.0.0 Principal Comments Received
-
-	I.C.0.0 Summary of Adopted Amendments
-
-II.0.0.0 Discussion of the Amendments
-
-	II.A.0.0 Annual Test for Foreign Private Issuer Status
-
-	II.B.0.0 Accelerating the Reporting Deadline for Form 20-F Annual Reports
-
-	II.C.0.0 Segment Data Disclosure
-
-	II.D.0.0 Exchange Act Rule 13e-3
-
-	II.E.0.0 Requiring Item 18 Reconciliation in Annual Reports and Registration Statements
-
-	II.F.0.0 Disclosure About Changes in a Registrant’s Certifying Accountant
-
-	II.G.0.0 Annual Disclosure About ADR Fees and Payments
-
-	II.H.0.0 Disclosure About Differences in Corporate Governance Practices
-
-III.0.0.0 Other Matters Considered
-
-		III.H.3.0 the acquired business’ pre-tax income to the pre-tax income of the registrant. See Rule 1-02(w) [17 CFR 210.1-02] of Regulation S-X.
-
-IV.0.0.0 Paperwork Reduction Act
-
-	IV.A.0.0 Background
-
-		IV.A.1.0 “Form F-1” (OMB Control No. 3235-0258);
-
-		IV.A.2.0 “Form F-3” (OMB Control No. 3235-0256); and
-
-		IV.A.3.0 “Form F-4” (OMB Control No. 3235-0325).
-
-	IV.B.0.0 Burden and Cost Estimates Related to the Amendments
-
-		IV.B.1.0 Form 20-F
-
-		IV.B.2.0 Form F-1
-
-		IV.B.3.0 Form F-3
-
-		IV.B.4.0 Form F-4
-
-		IV.B.5.0 Other Amendments
-
-V.0.0.0 Cost-Benefit Analysis
-
-	V.A.0.0 Annual Test for Foreign Private Issuer Status
-
-		V.A.1.0 Expected Benefits
-
-		V.A.2.0 Expected Costs
-
-	V.B.0.0 Amendments to Form 20-F
-
-	V.A.0.0 by foreign private issuers. We are also adopting amendments to Form 20-F to require certain additional disclosures in annual reports on that Form. The adopted amendments will require issuers to disclose any changes in and disagreements with the registrant’s certifying accountant in their Form 20-F annual reports, as well as in the Securities Act registration statements filed by registrants with the Commission. The amendments will also require disclosure of the fees and other charges paid by ADR holders to depositaries, and any payments made by depositaries to the foreign issuers whose securities underlie the ADRs. In addition, we are adopting amendments to Form 20-F to require disclosure in the annual report about the significant differences in the corporate governance practices of listed foreign private issuers compared to the corporate governance practices applicable to domestic companies under the relevant exchange’s listing standards. Another adopted amendment will eliminate an instruction to Item 17 of Form 20-F that permits certain foreign private issuers to omit segment data from the U.S. GAAP financial statements.
-
-		V.A.1.0 Expected Benefits
-
-		V.A.2.0 Expected Costs
-
-	V.C.0.0 Exchange Act Rule 13e-3
-
-		V.C.1.0 Expected Benefits
-
-		V.C.2.0 Expected Costs
-
-VI.0.0.0 Consideration of Impact on the Economy, Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
-
-VII.0.0.0 Regulatory Flexibility Act Certification
-
-VIII.0.0.0 Statutory Authority and Text of Final Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 230, 239, 240 and 249
 
 [RELEASE NOS. 33-8959; 34-58620; INTERNATIONAL SERIES RELEASE NO. 1310; File No. S7-05-08]
@@ -392,7 +306,7 @@ Form 8-K current report, <sup>140</sup> foreign private issuers only provide thi
 
 We proposed amendments to require foreign private issuers to provide the financial information elicited by Rule 3-05 and Article 11 of Regulation S-X in their Exchange Act annual reports. Because foreign private issuers do not file current reports on Form 8-K, we did not propose imposing a requirement that this financial information be presented on a more current basis than annually. We proposed requiring foreign private issuers to provide financial information in their annual reports on Form 20-F about highly significant acquisitions completed during the most recent fiscal year covered by their annual report on that Form. As proposed, the disclosure requirement would have been triggered at the 50% or greater level of significance, <sup>141</sup> and would have required the provision of financial statements for three fiscal years as prescribed by Rule 3• 05(b)(2)(iv) of Regulation S-X.
 
-<h>3. the acquired business’ pre-tax income to the pre-tax income of the registrant. See Rule 1-02(w) [17 CFR 210.1-02] of Regulation S-X.</h>
+3. the acquired business’ pre-tax income to the pre-tax income of the registrant. See Rule 1-02(w) [17 CFR 210.1-02] of Regulation S-X.
 
 We received several comments on this proposal. Although many commenters supported the proposal, several also expressed concern about the timeliness of the information that would be provided, since it would be provided in the foreign private issuer’s periodic reports ( i.e. , its annual report), rather than on a current basis. Other commenters questioned the value of requiring foreign private issuers to provide historical financial statements of significant acquirees for three fiscal years. One commenter recommended that foreign private issuers be afforded the flexibility to include financial information based on the relevant IFRS and local auditing standards, and to omit financial information when it cannot be produced without unreasonable burden or expense. <sup>142</sup> Another commenter suggested that we should defer to home country disclosure requirements, and require financial statements only with respect to the most recently completed fiscal year, unless home country law requires more. <sup>143</sup> This commenter suggested that this approach would avoid the imposition of unnecessary burdens on foreign private issuers, as well as inconsistent disclosure obligations on the issuer, and would avoid creating a disparity in the information available to investors in the issuer’s home country and the United States. We are not adopting these amendments at this time, but will continue to consider the proposal in light of the concerns expressed.
 
@@ -402,11 +316,11 @@ We received several comments on this proposal. Although many commenters supporte
 
 The final amendments contain "collection of information" requirements within the meaning of the Paperwork Reduction Act of 1995 ("PRA"). <sup>144</sup> We have submitted the proposed amendments to the Office of Management and Budget ("OMB") for review in accordance with the PRA. <sup>145</sup> The titles for the affected collections of information are:(1) "Form 20-F” (OMB Control No. 3235-0288);
 
-<h>1. “Form F-1” (OMB Control No. 3235-0258);</h>
+1. “Form F-1” (OMB Control No. 3235-0258);
 
-<h>2. “Form F-3” (OMB Control No. 3235-0256); and</h>
+2. “Form F-3” (OMB Control No. 3235-0256); and
 
-<h>3. “Form F-4” (OMB Control No. 3235-0325).</h>
+3. “Form F-4” (OMB Control No. 3235-0325).
 
 Form 20-F sets forth the disclosure requirements for annual reports and registration statements filed by foreign private issuers under the Exchange Act, as well as many of the disclosure requirements for registration statements filed by foreign private issuers under the Securities Act. Forms F-1, F-3 and F-4 were adopted pursuant to the Securities Act, and set forth the disclosure requirements for registration statements filed by foreign private issuers to offer securities to the public.
 
@@ -518,9 +432,7 @@ Currently, when a foreign issuer no longer qualifies as a foreign private issuer
 
 <h>B. Amendments to Form 20-F</h>
 
-The amendments will make several changes to annual reports filed on Form 20-F. We are adopting amendments to accelerate the deadline for annual reports filed on Form
-
-<h>A. by foreign private issuers. We are also adopting amendments to Form 20-F to require certain additional disclosures in annual reports on that Form. The adopted amendments will require issuers to disclose any changes in and disagreements with the registrant’s certifying accountant in their Form 20-F annual reports, as well as in the Securities Act registration statements filed by registrants with the Commission. The amendments will also require disclosure of the fees and other charges paid by ADR holders to depositaries, and any payments made by depositaries to the foreign issuers whose securities underlie the ADRs. In addition, we are adopting amendments to Form 20-F to require disclosure in the annual report about the significant differences in the corporate governance practices of listed foreign private issuers compared to the corporate governance practices applicable to domestic companies under the relevant exchange’s listing standards. Another adopted amendment will eliminate an instruction to Item 17 of Form 20-F that permits certain foreign private issuers to omit segment data from the U.S. GAAP financial statements.</h>
+The amendments will make several changes to annual reports filed on Form 20-F. We are adopting amendments to accelerate the deadline for annual reports filed on Form A. by foreign private issuers. We are also adopting amendments to Form 20-F to require certain additional disclosures in annual reports on that Form. The adopted amendments will require issuers to disclose any changes in and disagreements with the registrant’s certifying accountant in their Form 20-F annual reports, as well as in the Securities Act registration statements filed by registrants with the Commission. The amendments will also require disclosure of the fees and other charges paid by ADR holders to depositaries, and any payments made by depositaries to the foreign issuers whose securities underlie the ADRs. In addition, we are adopting amendments to Form 20-F to require disclosure in the annual report about the significant differences in the corporate governance practices of listed foreign private issuers compared to the corporate governance practices applicable to domestic companies under the relevant exchange’s listing standards. Another adopted amendment will eliminate an instruction to Item 17 of Form 20-F that permits certain foreign private issuers to omit segment data from the U.S. GAAP financial statements.
 
 In addition to these amendments, we are adopting amendments to eliminate the availability of the limited U.S. GAAP reconciliation option that is contained in Item 17 of Form 20-F for foreign private issuers that are only listing a class of securities on a U.S. national securities exchange, or only registering a class of equity securities under Section 12(g) of the Exchange Act, and not conducting a public offering. The amendments will apply not only to registration statements filed on Form 20-F in the circumstances described above, but also to annual reports filed on that Form. Related to this adopted amendment, we are adopting amendments to eliminate the Item 17 limited reconciliation option for certain non-capital raising offerings, such as offerings pursuant to dividendreinvestment plans, offerings upon the conversion of securities, or offerings of investment grade securities. The Securities Act registration statement forms available to foreign private issuers (Form F-1, F-3 and F-4) are amended accordingly.
 

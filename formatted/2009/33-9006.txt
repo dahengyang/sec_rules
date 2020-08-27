@@ -1,101 +1,3 @@
-https://www.sec.gov/rules/final/2009/33-9006.pdf
-
-I.0.0.0 INTRODUCTION AND BACKGROUND
-
-	I.A.0.0 Commission Initiatives to Update the Public Disclosure Process
-
-	I.B.0.0 Current Filing Technology and Interactive Data
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Submission of Risk/Return Summary Information Using Interactive Data
-
-	II.B.0.0 Content and Submission Requirements for Interactive Risk/Return Summary Information
-
-		II.B.1.0 compromise the integrity of the entire interactive data program;93 (2) result in a rendered file containing different information from the current prospectus, potentially leading to liability;94 and (3) result in investors accessing stale tagged data.95
-
-		II.B.1.0 a 497 document (this 497 document may, in accordance with rule 411 under the Securities Act, incorporate by reference the first rule 497 filing and should include the accession number of that first rule 497 filing), and (2) any related interactive data exhibit.
-
-	II.C.0.0 Web Site Posting of Interactive Data
-
-	II.D.0.0 Consequences of Non-Compliance and Hardship Exemption
-
-	II.E.0.0 Interactive Data List of Tags and Commission Viewer
-
-		II.E.1.0 Data Tags
-
-		II.E.2.0 Regulation S-T and the EDGAR Filer Manual
-
-			II.E.2.e under the Securities Act that includes risk/return summary information that varies from the registration statement.151 Interactive data will be required to comply with our Regulation S-T152 and the EDGAR Filer Manual. The EDGAR Filer Manual is available
-
-		II.E.3.0 Commission Viewer
-
-	II.F.0.0 Application of Federal Securities Laws
-
-	II.G.0.0 Changes to the Voluntary Program
-
-		II.G.1.0 the information would not be meaningful to individual investors;192 (2) the taxonomy does not yet exist;193 and (3) more experience with the technology is necessary before expansion of the program.194 Given that participants may already provide portfolio holdings information as part of their financial statements under the voluntary program, we disagree with these comments. The expansion of the voluntary program to permit the submission of portfolio holdings information simply provides volunteers with an alternative to submitting complete financial statement information and increases the options for participation in the program. Investors, financial intermediaries, and third­
-
-	II.H.0.0 Compliance Date
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-	III.A.0.0 Reporting and Burden Estimate
-
-	III.B.0.0 Submission of Risk/Return Summary Information Using Interactive Data
-
-	III.C.0.0 Changes to the Voluntary Program
-
-IV.0.0.0 COST/BENEFIT ANALYSIS
-
-	IV.A.0.0 Submission of Risk/Return Summary Information Using Interactive Data
-
-		IV.A.1.0 Benefits of Interactive Data Submissions and Web Site Posting
-
-	IV.B.0.0 Changes to Voluntary Program
-
-		IV.B.1.0 Benefits
-
-		IV.B.2.0 Costs
-
-V.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
-
-	V.A.0.0 Submission of Risk/Return Summary Information Using Interactive Data
-
-	V.B.0.0 Changes to the Voluntary Program
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Need for the Rule
-
-		VI.A.1.0 Submission of Risk/Return Summary Information Using Interactive Data
-
-		VI.A.2.0 Changes to the Voluntary Program
-
-	VI.B.0.0 Significant Issues Raised by Public Comment
-
-	VI.C.0.0 Small Entities Subject to the Rules
-
-	VI.D.0.0 Projected Reporting, Recordkeeping and Other Compliance Requirements
-
-		VI.D.1.0 Submission of Risk/Return Summary Information Using Interactive Data
-
-		VI.D.2.0 Changes to the Voluntary Program
-
-	VI.E.0.0 Agency Action to Minimize the Effect on Small Entities
-
-		VI.E.2.0 the clarification, consolidation, or simplification of compliance and reporting requirements under the amendments for small entities; (3) the use of performance rather than design standards; and (4) an exemption from coverage of the amendments, or any part thereof, for small entities.
-
-		VI.E.1.0 Submission of Risk/Return Summary Information Using Interactive Data
-
-		VI.E.2.0 Changes to the Voluntary Program
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 230, 232, 239, and 274
 
 [Release Nos. 33-9006, 34-59391, 39-2462, IC-28617; File Number S7-12-08] RIN 3235-AK13
@@ -248,7 +150,7 @@ CIFiR conducted open meetings on March 13-14, 2008 and May 2, 2008, in which it 
 
 We are adopting, as proposed, the requirement that an interactive data file must be submitted to the Commission for any registration statement or post-effective amendment thereto on Form N-1A that includes or amends information provided in response to Items 2, 3, or 4. <sup>88</sup> In response to commenters’ concerns, <sup>89</sup> however, we are modifying our rules to encompass changes to risk/return summary information that mutual funds may make pursuant to rule 497 under the Securities Act. <sup>90</sup> Specifically, in the Proposing Release, we asked for comment on whether mutual funds should be required to submit tagged risk/return summary information for prospectuses submitted pursuant to rule 497 under the Securities Act. Rule 497 sets out general filing requirements for fund prospectuses and provides, among other things, that funds must file any prospectus that contains information that varies from that in the registration statement. <sup>91</sup> Commenters addressingthe matter uniformly recommended that updates to interactive risk/return summary information should be required when such information is revised in a filing made pursuant to rule 497 under the Securities Act, <sup>92</sup> asserting that failure to do so could:
 
-<h>1. compromise the integrity of the entire interactive data program;93 (2) result in a rendered file containing different information from the current prospectus, potentially leading to liability;94 and (3) result in investors accessing stale tagged data.95</h>
+1. compromise the integrity of the entire interactive data program;93 (2) result in a rendered file containing different information from the current prospectus, potentially leading to liability;94 and (3) result in investors accessing stale tagged data.95
 
 We agree with commenters’ concerns that failure to include changes to risk/return summary information in filings made pursuant to rule 497 could result in investors and others accessing outdated interactive data. For that reason we are modifying the proposed rules, in response to the commenters’ recommendations, to require that an interactive data file must be submitted to the Commission for any form of prospectus filed pursuant to rule 497(c) or (e) under the Securities Act that includes information provided in response to Items 2, 3, or 4 that varies from the registration statement. <sup>96</sup>
 
@@ -258,7 +160,7 @@ To address the inclusion of tagged risk/return summary information submitted wit
 
 We also are adopting, as proposed, the requirement that an interactive data file be submitted as an exhibit to Form N-1A, but also include a modification to address submissions made with rule 497 filings, providing that an interactive data file must be
 
-<h>1. a 497 document (this 497 document may, in accordance with rule 411 under the Securities Act, incorporate by reference the first rule 497 filing and should include the accession number of that first rule 497 filing), and (2) any related interactive data exhibit.submitted as an exhibit to the filing made pursuant to rule 497. <sup>99</sup> Similar to the voluntary program, the rules require that the information contained in the risk/return summary section in the traditional format filing be the same as in the interactive data format. <sup>100</sup></h>
+1. a 497 document (this 497 document may, in accordance with rule 411 under the Securities Act, incorporate by reference the first rule 497 filing and should include the accession number of that first rule 497 filing), and (2) any related interactive data exhibit.submitted as an exhibit to the filing made pursuant to rule 497. <sup>99</sup> Similar to the voluntary program, the rules require that the information contained in the risk/return summary section in the traditional format filing be the same as in the interactive data format. <sup>100</sup>
 
 We have not changed this equivalency standard for risk/return summary information provided in interactive data format as required by the rules. As proposed, we also are adopting the requirement that an interactive data file be submitted in such a manner that will permit the information for each series and, for any information that does not relate to all of the classes in a filing, each class of the fund to be separately identified. <sup>101</sup> However, information that is not class-specific, such as investment objectives, is not required to be separately identified by class.
 
@@ -344,7 +246,7 @@ We are adopting, as proposed, the requirement that mutual funds provide interact
 
 N-1A, and we are also adopting a requirement that mutual funds provide interactive data in the form of exhibits to any related form of prospectus filed pursuant to rule 497(c) or
 
-<h>e. under the Securities Act that includes risk/return summary information that varies from the registration statement.151 Interactive data will be required to comply with our Regulation S-T152 and the EDGAR Filer Manual. The EDGAR Filer Manual is availableon our Web site. <sup>153</sup> It includes technical information for making electronic filings with the Commission. Volume II of this manual includes guidance on the preparation, submission, and validation of interactive data submitted under the voluntary program. <sup>154</sup></h>
+e. under the Securities Act that includes risk/return summary information that varies from the registration statement.151 Interactive data will be required to comply with our Regulation S-T152 and the EDGAR Filer Manual. The EDGAR Filer Manual is availableon our Web site. <sup>153</sup> It includes technical information for making electronic filings with the Commission. Volume II of this manual includes guidance on the preparation, submission, and validation of interactive data submitted under the voluntary program. <sup>154</sup>
 
 In addition to both Regulation S-T, which includes the rules we are adopting, and the instructions in our EDGAR Filer Manual, filers may access other sources for guidance in tagging their financial information. These include the XBRL U.S. Preparers Guide; user guidance accompanying tagging software; and financial printers and other service providers. New software and other forms of third-party support for tagging risk/return summary information using interactive data are also becoming available.
 
@@ -418,7 +320,7 @@ Currently, the interactive data furnished under the voluntary program must consi
 
 Several commenters asserted that expanding the voluntary program to include fund portfolio holdings information was premature. <sup>191</sup> These commenters stated that
 
-<h>1. the information would not be meaningful to individual investors;192 (2) the taxonomy does not yet exist;193 and (3) more experience with the technology is necessary before expansion of the program.194 Given that participants may already provide portfolio holdings information as part of their financial statements under the voluntary program, we disagree with these comments. The expansion of the voluntary program to permit the submission of portfolio holdings information simply provides volunteers with an alternative to submitting complete financial statement information and increases the options for participation in the program. Investors, financial intermediaries, and third­party information providers, among others, use the portfolio holdings data contained in Schedule I to make decisions concerning the purchase and continued holding of funds and for other purposes. Portfolio holdings data may be even more useful to these various stakeholders if such data is interactive.</h>
+1. the information would not be meaningful to individual investors;192 (2) the taxonomy does not yet exist;193 and (3) more experience with the technology is necessary before expansion of the program.194 Given that participants may already provide portfolio holdings information as part of their financial statements under the voluntary program, we disagree with these comments. The expansion of the voluntary program to permit the submission of portfolio holdings information simply provides volunteers with an alternative to submitting complete financial statement information and increases the options for participation in the program. Investors, financial intermediaries, and third­party information providers, among others, use the portfolio holdings data contained in Schedule I to make decisions concerning the purchase and continued holding of funds and for other purposes. Portfolio holdings data may be even more useful to these various stakeholders if such data is interactive.
 
 Under the current voluntary program, any official filing with which tagged exhibits are submitted must disclose that the financial information is “unaudited” or “unreviewed,” as applicable and that the purpose of submitting the tagged exhibits is to test the related format and technology and, as a result, investors should not rely on the exhibits in making investment decisions. <sup>195</sup> We believe that this cautionary disclosure should also be tagged and included within each interactive data exhibit, in order to help alert investors and other users that the exhibits should not be relied on in making investment decisions. Accordingly, we are requiring, as proposed, that this disclosure be included in the exhibits submitted pursuant to the voluntary program as a tagged data element, <sup>196</sup> consistent with how the cautionary disclosure is presented in risk/return summary exhibits under the current voluntary program.
 
@@ -572,7 +474,9 @@ Another potential information consequence of the requirements is how the precisi
 
 Nonetheless, interactive data benefits could diminish if other reporting formats are required for clarification in data aggregation.
 
-The content of mutual fund-reported information may improve because, as previously discussed, a mutual fund that uses a standardized interactive data format at earlier stages of its disclosure cycle may increase the accuracy of its disclosure. Incontrast, the content of mutual fund-reported information may improve or decline to the extent that the interactive data process influences what mutual funds disclose. While the requirements to submit and post interactive data information are designed to be disclosure neutral, it is possible they may affect what is disclosed.2. Costs of Interactive Data Submissions and Web Site Posting
+The content of mutual fund-reported information may improve because, as previously discussed, a mutual fund that uses a standardized interactive data format at earlier stages of its disclosure cycle may increase the accuracy of its disclosure. Incontrast, the content of mutual fund-reported information may improve or decline to the extent that the interactive data process influences what mutual funds disclose. While the requirements to submit and post interactive data information are designed to be disclosure neutral, it is possible they may affect what is disclosed.
+
+<h>2. Costs of Interactive Data Submissions and Web Site Posting</h>
 
 The primary cost of the rule amendments is the cost of mutual funds’ implementation of the rule, which includes the costs of submitting and posting interactive data. We discuss this cost element extensively below. In addition, because the rules allow an increase in the flow of risk/return summary information being reported directly to third party information providers and investors, there will be a cost of learning on the part of the investors in using and analyzing risk/return summary information at the interactive data level.
 
@@ -726,7 +630,7 @@ The internal labor and external costs required to comply with the rules we are a
 
 The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objective, while minimizing any significant adverse impact on small entities. In connection with the amendments, the Commission considered the following alternatives: (1) the establishment of different compliance or reporting requirements or timetables that take into account the resources available to small entities;
 
-<h>2. the clarification, consolidation, or simplification of compliance and reporting requirements under the amendments for small entities; (3) the use of performance rather than design standards; and (4) an exemption from coverage of the amendments, or any part thereof, for small entities.</h>
+2. the clarification, consolidation, or simplification of compliance and reporting requirements under the amendments for small entities; (3) the use of performance rather than design standards; and (4) an exemption from coverage of the amendments, or any part thereof, for small entities.
 
 <h>1. Submission of Risk/Return Summary Information Using Interactive Data</h>
 

@@ -1,233 +1,3 @@
-https://www.sec.gov/rules/final/2008/33-8995.pdf
-
-I.0.0.0 Introduction
-
-	I.A.0.0 Background
-
-	I.B.0.0 Issuance of the Concept Release
-
-	I.C.0.0 Overview of the Comment Letters Received on the Proposing Release
-
-II.0.0.0 Revisions and Additions to the Definition Section in Rule 4-10 of Regulation S-X
-
-	II.A.0.0 Introduction
-
-	II.B.0.0 Pricing Mechanism for Oil and Gas Reserves Estimation
-
-		II.B.1.0 12-month average price
-
-		II.B.2.0 Prices used for disclosure and accounting purposes
-
-		II.B.3.0 Alternate pricing schemes
-
-		II.B.4.0 Time period over which the average price is to be calculated
-
-	II.C.0.0 Extraction of Bitumen and Other Non-Traditional Resources
-
-		II.C.1.0 Definition of “oil and gas producing activities”
-
-		II.C.2.0 Disclosure by final products
-
-	II.D.0.0 Proved Oil and Gas Reserves
-
-	II.E.0.0 Reasonable Certainty
-
-	II.F.0.0 Developed and Undeveloped Oil and Gas Reserves
-
-		II.F.1.0 Developed oil and gas reserves
-
-		II.F.2.0 Undeveloped oil and gas reserves
-
-	II.G.0.0 Reliable Technology
-
-		II.G.1.0 Definition of the term “reliable technology”
-
-		II.G.2.0 Disclosure of technologies used
-
-	II.H.0.0 Unproved Reserves—“Probable Reserves” and “Possible Reserves”
-
-		II.H.1.0 Probable reserves
-
-		II.H.2.0 Possible reserves
-
-I.0.0.0 Reserves
-
-	I.J.0.0 Other Supporting Terms and Definitions
-
-		I.J.1.0 Deterministic estimate
-
-		I.J.2.0 Probabilistic estimate
-
-		I.J.3.0 Analogous reservoir
-
-		I.J.4.0 Definitions of other terms
-
-		I.J.5.0 Proposed terms and definitions not adopted
-
-	I.K.0.0 Alphabetization of the Definitions Section of Rule 4-10
-
-III.0.0.0 Revisions to Full Cost Accounting and Staff Accounting Bulletin
-
-IV.0.0.0 Update and Codification of the Oil and Gas Disclosure Requirements in Regulation S-K
-
-	IV.A.0.0 Revisions to Items 102, 801, and 802 of Regulation S-K
-
-	IV.B.0.0 Proposed New Subpart 1200 to Regulation S-K Codifying Industry Guide 2 Regarding Disclosures by Companies Engaged in Oil and Gas Producing Activities
-
-		IV.B.1.0 Overview
-
-		IV.B.2.0 Item 1201 (General instructions to oil and gas industry-specific disclosures)
-
-			IV.B.2.a Geographic area
-
-		IV.B.1.0 By individual country;
-
-		IV.B.2.0 By groups of countries within a continent; or
-
-		IV.B.3.0 By continent.
-
-			IV.B.3.b Tabular disclosure
-
-		IV.B.3.0 Item 1202 (Disclosure of reserves)
-
-			IV.B.3.a Oil and gas reserves tables
-
-			IV.B.3.b Optional reserves sensitivity analysis table
-
-			IV.B.3.c Separate disclosure of conventional and continuous accumulations
-
-			IV.B.3.d Preparation of reserves estimates or reserves audits
-
-			IV.B.3.e Reserve audits and the contents of third-party reports
-
-			IV.B.3.f Process reviews
-
-		IV.B.4.0 Item 1203 (Proved undeveloped reserves)
-
-		IV.B.5.0 Item 1204 (Oil and gas production)
-
-		IV.B.6.0 Item 1205 (Drilling and other exploratory and development activities)
-
-		IV.B.7.0 Item 1206 (Present activities)
-
-		IV.B.8.0 Item 1207 (Delivery commitments)
-
-		IV.B.2.0 However, we are restructuring and rewording the disclosure item to make it easier to understand, including separating embedded lists into separate subparagraphs and making general plain English revisions. As proposed, these revisions are not intended to change the substance of the disclosures.
-
-V.0.0.0 Guidance for Management’s Discussion and Analysis for Companies Engaged in Oil and Gas Producing Activities
-
-VI.0.0.0 Conforming Changes to Form 20-F
-
-VII.0.0.0 Impact of Amendments on Accounting Literature
-
-	VII.A.0.0 Consistency with FASB and IASB Rules
-
-	VII.B.0.0 Change in Accounting Principle or Estimate
-
-	VII.C.0.0 Differing Capitalization Thresholds Between Mining Activities and Oil and Gas Producing Activities
-
-VIII.0.0.0 Application of Interactive Data Format to Oil and Gas Disclosures
-
-IX.0.0.0 Implementation Date
-
-	IX.A.0.0 Mandatory Compliance
-
-	IX.B.0.0 Voluntary Early Compliance
-
-X.0.0.0 Paperwork Reduction Act
-
-	X.A.0.0 Background
-
-		X.A.1.0 “Regulation S-K” (OMB Control No. 3235-0071);
-
-		X.A.2.0 “Industry Guides” (OMB Control No. 3235-0069);
-
-		X.A.3.0 “Regulation S-X” (OMB Control No. 3235-0009);
-
-		X.A.4.0 “Form S-1” (OMB Control No. 3235-0065);
-
-		X.A.5.0 “Form S-4” (OMB Control No. 3235-0324);
-
-		X.A.6.0 “Form F-1” (OMB Control No. 3235-0258);
-
-		X.A.7.0 “Form F-4” (OMB Control No. 3235-0325);
-
-	X.B.0.0 Summary of Information Collections
-
-	X.C.0.0 Revisions to PRA Burden Estimates
-
-	X.D.0.0 Request for Comment
-
-XI.0.0.0 Cost-Benefit Analysis
-
-	XI.A.0.0 Background
-
-	XI.B.0.0 Description of New Rules and Amendments
-
-	XI.C.0.0 Benefits
-
-		XI.C.1.0 Average price and first of the month price
-
-		XI.C.2.0 Probable and possible reserves
-
-		XI.C.3.0 Reserves estimate preparers and reserves auditors
-
-		XI.C.4.0 Development of proved undeveloped reserves
-
-		XI.C.5.0 Disclosure guidance
-
-		XI.C.6.0 Updating of definitions related to oil and gas activities
-
-		XI.C.7.0 Harmonizing foreign private issuer disclosure
-
-	XI.D.0.0 Costs
-
-		XI.D.1.0 Probable and possible reserves
-
-		XI.D.2.0 Reserves estimate preparers and reserves auditors
-
-		XI.D.3.0 Consistency with IASB
-
-		XI.D.4.0 Change in pricing mechanism
-
-		XI.D.5.0 Disclosure of PUD development
-
-		XI.D.6.0 Increased geographic disclosure
-
-		XI.D.7.0 Harmonizing foreign private issuer disclosure
-
-XII.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition, and Capital Formation
-
-XIII.0.0.0 Final Regulatory Flexibility Analysis
-
-	XIII.A.0.0 Reasons for, and Objectives of, the New Rules and Amendments
-
-	XIII.B.0.0 Significant Issues Raised by Commenters
-
-	XIII.C.0.0 Small Entities Subject to the New Rules and Amendments
-
-	XIII.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	XIII.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-XIV.0.0.0 Update to Codification of Financial Reporting Policies
-
-		XIV.E.1.0 By removing the seven introductory paragraphs before Section 406.01, the last sentence of Section 406.01.c.vi., the first paragraph of Section 406.01.d, the introductory paragraph of Section 406.02.d, and removing and reserving Sections 406.01.a., 406.02.a, 406.02.b., 406.02.d.iii., and 406.02.e.
-
-		XIV.E.2.0 By revising Section 406.01B to read as follows:
-
-		XIV.E.3.0 By removing the first three sentences of Section 406.02.c. and in the fourth sentence replacing the phrase “this sort of information” with “information to assess the impact of oil and gas producing activities on near term cash flows and liquidity”.
-
-		XIV.E.4.0 By adding a new Section 406.03 entitled “Transition” and including the text of the 3rd paragraph of Section VII.B and the last sentence of the 2nd paragraph of Section
-
-		XIV.E.5.0 By adding a new Section 406.04 entitled “MD&A Guidance” and including the text beginning with the last sentence of the 2nd paragraph of Section V of this release through the end of that Section.
-
-XV.0.0.0 Statutory Basis and Text of Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 Conforming Version (To Conform to Release Published in the Federal Register)
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 210, 211, 229, and 249
@@ -856,11 +626,11 @@ For many large U.S. oil and gas producers, the majority of reserves are now over
 
 We think that greater specificity than simply disclosing reserves within “groups of countries” would benefit investors and, in certain cases, may be necessary to meet the requirements of Item 102 of Regulation S-K. Some countries in which many of these companies operate and may have significant reserves are subject to unique risks, such as political instability. However, we recognize that disclosure that is too detailed may detract from the overall disclosure. Thus, we have revised the definition of the term “by geographic area” to mean, as appropriate for meaningful disclosure under a company’s particular circumstances:
 
-<h>1. By individual country;</h>
+1. By individual country;
 
-<h>2. By groups of countries within a continent; or</h>
+2. By groups of countries within a continent; or
 
-<h>3. By continent.</h>
+3. By continent.
 
 This definition is substantially the same as the definition currently provided in SFAS 69. However, as proposed, we are adopting specific percentage thresholds to the geographic breakdowns of reserves estimates and production. With respect to production, the final rules require disclosure of production in each country or field containing 15% or more of the company’s proved reserves unless prohibited by the country in which the reserves are located. We are raising the proposed 10% threshold for field disclosure of production to 15% to make the threshold consistent. However, rather than requiring disclosure based on a percentage of the amount of the company’s reserves of an individual product, as proposed, the final rules require disclosure based on apercentage of a company’s total global oil and gas proved reserves, based on barrels of oil equivalent. <sup>181</sup>
 
@@ -1072,7 +842,7 @@ Item 1206 codifies existing Item 7 of Industry Guide 2, which calls for disclosu
 
 Item 1207 codifies existing Item 8 of Industry Guide 2, which calls for disclosure of arrangements under which the company is required to deliver specified amounts of oil or gas and how the company intends to meet such commitments. <sup>281</sup> We are not adopting any substantive changes to the disclosure currently called for by Item 8 of Industry Guide
 
-<h>2. However, we are restructuring and rewording the disclosure item to make it easier to understand, including separating embedded lists into separate subparagraphs and making general plain English revisions. As proposed, these revisions are not intended to change the substance of the disclosures.9.	Item 1208 (Oil and gas properties, wells, operations, and acreage)</h>
+2. However, we are restructuring and rewording the disclosure item to make it easier to understand, including separating embedded lists into separate subparagraphs and making general plain English revisions. As proposed, these revisions are not intended to change the substance of the disclosures.9.	Item 1208 (Oil and gas properties, wells, operations, and acreage)
 
 We proposed to codify disclosure about oil and gas properties, wells, operations, and acreage as Item 1208 of Regulation S-K, in tabular form, as well as make several revisions to the existing disclosures, including applying a new definition of the term “geographic area” and adding language that better illustrates the types of properties and the types of disclosures for those properties, including the following:
 
@@ -1202,19 +972,19 @@ Seven commenters recommended that early compliance not be permitted to maintain 
 
 Our new rules and amendments contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>330</sup> We submitted the new rules and amendments to the Office of Management and Budget (OMB) for review in accordance with the PRA. <sup>331</sup> OMB has approved the revisions. The titles for these collections of information are:
 
-<h>1. “Regulation S-K” (OMB Control No. 3235-0071);</h>
+1. “Regulation S-K” (OMB Control No. 3235-0071);
 
-<h>2. “Industry Guides” (OMB Control No. 3235-0069);</h>
+2. “Industry Guides” (OMB Control No. 3235-0069);
 
-<h>3. “Regulation S-X” (OMB Control No. 3235-0009);</h>
+3. “Regulation S-X” (OMB Control No. 3235-0009);
 
-<h>4. “Form S-1” (OMB Control No. 3235-0065);</h>
+4. “Form S-1” (OMB Control No. 3235-0065);
 
-<h>5. “Form S-4” (OMB Control No. 3235-0324);</h>
+5. “Form S-4” (OMB Control No. 3235-0324);
 
-<h>6. “Form F-1” (OMB Control No. 3235-0258);</h>
+6. “Form F-1” (OMB Control No. 3235-0258);
 
-<h>7. “Form F-4” (OMB Control No. 3235-0325);(8) “Form 10” (OMB Control No. 3235-0064);(9) “Form 10-K” (OMB Control No. 3235-0063); and(10) “Form 20-F” (OMB Control No. 3235-0063).</h>
+7. “Form F-4” (OMB Control No. 3235-0325);(8) “Form 10” (OMB Control No. 3235-0064);(9) “Form 10-K” (OMB Control No. 3235-0063); and(10) “Form 20-F” (OMB Control No. 3235-0063).
 
 We adopted all of the existing regulations and forms pursuant to the Securities Act and the Exchange Act. These regulations and forms set forth the disclosure requirements for annual reports <sup>333</sup> and registration statements that are prepared by issuers to provide investors with the information they need to make informed investment decisions in registered offerings and in secondary market transactions. The industry guides supplement the existing regulations and forms and provide guidance with respect to industry-specific disclosures.
 
@@ -1496,19 +1266,19 @@ Adopting differing standards for disclosure for small entities would significant
 
 The Commission amends the "Codification of Financial Reporting Policies" announced in Financial Reporting Release No. 1 (April 15, 1982) [47 FR 21028] as follows:
 
-<h>1. By removing the seven introductory paragraphs before Section 406.01, the last sentence of Section 406.01.c.vi., the first paragraph of Section 406.01.d, the introductory paragraph of Section 406.02.d, and removing and reserving Sections 406.01.a., 406.02.a, 406.02.b., 406.02.d.iii., and 406.02.e.</h>
+1. By removing the seven introductory paragraphs before Section 406.01, the last sentence of Section 406.01.c.vi., the first paragraph of Section 406.01.d, the introductory paragraph of Section 406.02.d, and removing and reserving Sections 406.01.a., 406.02.a, 406.02.b., 406.02.d.iii., and 406.02.e.
 
-<h>2. By revising Section 406.01B to read as follows:</h>
+2. By revising Section 406.01B to read as follows:
 
 The rules in Rule 4-10(b) specify that the application of successful efforts shall comply with SFAS 19. In 2008, the Commission published amendments to the definitions in Rule 4-10(a) that may not align completely with SFAS 19’s existing terminology and application. Further, paragraph 7 of SFAS 25 states: “For purposes of applying this Statement and Statement 19, the definition of proved reserves, proved developed reserves, and proved undeveloped reserves shall be the definitions adopted by the SEC for its reporting purposes that are in effect on the date(s) as of which the reserve disclosures are to be made. Previous reported quantities shall not be revised retroactively if the SEC definitions are changed.” In any case, the Commission expects the practical application of SFAS 19 will remain unchanged other than incorporating the effects of the new definitions.
 
-<h>3. By removing the first three sentences of Section 406.02.c. and in the fourth sentence replacing the phrase “this sort of information” with “information to assess the impact of oil and gas producing activities on near term cash flows and liquidity”.</h>
+3. By removing the first three sentences of Section 406.02.c. and in the fourth sentence replacing the phrase “this sort of information” with “information to assess the impact of oil and gas producing activities on near term cash flows and liquidity”.
 
-<h>4. By adding a new Section 406.03 entitled “Transition” and including the text of the 3rd paragraph of Section VII.B and the last sentence of the 2nd paragraph of Section</h>
+4. By adding a new Section 406.03 entitled “Transition” and including the text of the 3rd paragraph of Section VII.B and the last sentence of the 2nd paragraph of Section
 
 VII.C of this release.
 
-<h>5. By adding a new Section 406.04 entitled “MD&A Guidance” and including the text beginning with the last sentence of the 2nd paragraph of Section V of this release through the end of that Section.</h>
+5. By adding a new Section 406.04 entitled “MD&A Guidance” and including the text beginning with the last sentence of the 2nd paragraph of Section V of this release through the end of that Section.
 
 The Codification is a separate publication of the Commission. It will not be published in the Federal Register or Code of Federal Regulations. For more information on the Codification of Financial Reporting Policies, contact the Commission’s Public Reference Room at 202-551-5850.
 

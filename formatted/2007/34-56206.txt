@@ -1,67 +1,3 @@
-https://www.sec.gov/rules/final/2007/34-56206.pdf
-
-I.0.0.0 Background
-
-II.0.0.0 Discussion of Amendments
-
-	II.A.0.0 Bona Fide Purchase Exception
-
-	II.B.0.0 Separate Accounts and Investment Company Exceptions
-
-		II.B.1.0 Separate Accounts.
-
-		II.B.1.0 The accounts have separate and distinct investment and trading strategies and objectives;
-
-		II.B.2.0 Personnel for each account do not coordinate trading among or between the accounts;
-
-		II.B.3.0 Information barriers separate the accounts, and information about securities positions or investment decisions is not shared between accounts;
-
-		II.B.4.0 Each account maintains a separate profit and loss statement;
-
-		II.B.5.0 There is no allocation of securities between or among accounts; and
-
-		II.B.6.0 Personnel with oversight or managerial responsibility over multiple accounts in a single entity or affiliated entities, and account owners of multiple accounts, do not have authority to execute trades in individual securities in the accounts and in fact, do not execute trades in the accounts, and do not have the authority to pre-approve trading decisions for the accounts and in fact, do not pre-approve trading decisions for the accounts.
-
-		II.B.3.0 We believe that these factors are important indicators that accounts are separate for purposes of the exception. Thus, if trading is coordinated between accounts, the accounts will not be considered separate for purposes of this exception.
-
-		II.B.2.0 Investment Companies
-
-	II.C.0.0 Additional Amendments
-
-III.0.0.0 Derivatives
-
-IV.0.0.0 Paperwork Reduction Act
-
-V.0.0.0 Cost-Benefit Analysis
-
-	V.A.0.0 Adopted Amendments to Rule 105 of Regulation M
-
-	V.B.0.0 Benefits
-
-	V.C.0.0 Costs
-
-VI.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition, and Capital Formation
-
-VII.0.0.0 Final Regulatory Flexibility Analysis
-
-	VII.A.0.0 Need for the Amendments
-
-	VII.B.0.0 Objectives of the Amendments
-
-	VII.C.0.0 Significant Issues Raised by Public Comments
-
-	VII.D.0.0 Small Entities Subject to the Rule
-
-	VII.E.0.0 Projected Reporting, Recordkeeping and Other Compliance Requirements
-
-	VII.F.0.0 Agency Action to Minimize Effect on Small Entities
-
-VIII.0.0.0 Statutory Basis and Text of Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PART 242
 
 [Release No. 34-56206; File No. S7-20-06] RIN: 3235-AJ75
@@ -156,23 +92,23 @@ Indicia of Separate Accounts
 
 For purposes of this exception, accounts are separate and operating without coordination of trading or cooperation if:
 
-<h>1. The accounts have separate and distinct investment and trading strategies and objectives;</h>
+1. The accounts have separate and distinct investment and trading strategies and objectives;
 
-<h>2. Personnel for each account do not coordinate trading among or between the accounts;</h>
+2. Personnel for each account do not coordinate trading among or between the accounts;
 
-<h>3. Information barriers separate the accounts, and information about securities positions or investment decisions is not shared between accounts;</h>
+3. Information barriers separate the accounts, and information about securities positions or investment decisions is not shared between accounts;
 
-<h>4. Each account maintains a separate profit and loss statement;</h>
+4. Each account maintains a separate profit and loss statement;
 
-<h>5. There is no allocation of securities between or among accounts; and</h>
+5. There is no allocation of securities between or among accounts; and
 
-<h>6. Personnel with oversight or managerial responsibility over multiple accounts in a single entity or affiliated entities, and account owners of multiple accounts, do not have authority to execute trades in individual securities in the accounts and in fact, do not execute trades in the accounts, and do not have the authority to pre-approve trading decisions for the accounts and in fact, do not pre-approve trading decisions for the accounts.</h>
+6. Personnel with oversight or managerial responsibility over multiple accounts in a single entity or affiliated entities, and account owners of multiple accounts, do not have authority to execute trades in individual securities in the accounts and in fact, do not execute trades in the accounts, and do not have the authority to pre-approve trading decisions for the accounts and in fact, do not pre-approve trading decisions for the accounts.
 
 Depending on the facts and circumstances, accounts not satisfying each of these conditions may nonetheless fall within the exception if the accounts are separate and operating without coordination of trading or cooperation. Policies and procedures reasonably designed to ensure that the above safeguards are fully implemented would be indications that accounts are separate, as would regular reviews to help ensure that such policies and procedures are up to date and fully implemented. For example, such reviews may include reviewing activities that are indicative of coordination between accounts and reviewing trading activity of a particular account that does not appear to be consistent with the stated strategy or objectives of such account.
 
 We believe that accounts that have separate and distinct investment and trading strategies and personnel that are prohibited from coordinating trading between or among accounts would be considered to make separate decisions regarding securities transactions for purposes of Rule105. <sup>68</sup> These two factors are similar to the requirements of Regulation SHO Rule 200(f)(1) and
 
-<h>3. We believe that these factors are important indicators that accounts are separate for purposes of the exception. Thus, if trading is coordinated between accounts, the accounts will not be considered separate for purposes of this exception.</h>
+3. We believe that these factors are important indicators that accounts are separate for purposes of the exception. Thus, if trading is coordinated between accounts, the accounts will not be considered separate for purposes of this exception.
 
 We believe that to meet the requirements of the exception there can be no communication of securities positions, investment decisions or other trading matters between accounts. <sup>69</sup> Information barriers, similar to information barriers required for registered broker-dealers under Section 15(f) of the Securities Exchange Act of 1934 (“Exchange Act”), will also inhibit coordination and help maintain the separation of accounts. Information leakage, which can occur for various reasons such as close proximity of trading desks or because traders are unawarethat they should not pass information between or among accounts, can give rise to either deliberate or inadvertent coordination of shorting into an offering. Similarly, the sharing of personnel with decision-making authority regarding trading activities in different accounts may lead to information leakage, whether deliberate or inadvertent, between or among accounts.
 

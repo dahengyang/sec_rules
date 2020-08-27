@@ -1,157 +1,3 @@
-https://www.sec.gov/rules/final/2009/34-60423.pdf
-
-I.0.0.0 Background
-
-II.0.0.0 Overview of Comments Received and Explanation of Regulation S-AM
-
-	II.A.0.0 Overview of Comments Received
-
-	II.B.0.0 Explanation of Regulation S-AM
-
-III.0.0.0 Section-by-Section Analysis
-
-	III.A.0.0 Section 248.101 Purpose and Scope
-
-	III.B.0.0 Section 248.102 Examples
-
-	III.C.0.0 Section 248.120 Definitions
-
-		III.C.1.0 Affiliate
-
-		III.C.2.0 Broker
-
-		III.C.3.0 Clear and Conspicuous
-
-		III.C.4.0 Commission
-
-		III.C.5.0 Company
-
-		III.C.6.0 Concise
-
-		III.C.7.0 Consumer
-
-		III.C.8.0 Control
-
-		III.C.9.0 Dealer
-
-		III.C.10.0 Eligibility Information
-
-		III.C.11.0 FCRA
-
-		III.C.12.0 GLBA
-
-		III.C.13.0 Investment Adviser
-
-		III.C.14.0 Investment Company
-
-		III.C.15.0 Marketing Solicitation
-
-		III.C.16.0 Person
-
-		III.C.17.0 Pre-Existing Business Relationship
-
-			III.C.17.a Definition
-
-			III.C.17.b Examples
-
-		III.C.18.0 Transfer Agent
-
-		III.C.19.0 You
-
-	III.D.0.0 Section 248.121 Affiliate Marketing Opt Out and Exceptions
-
-			III.D.19.f clarified the relationship between sharing information and becoming a credit reporting agency. The final rules modify many of these proposed provisions as discussed below.
-
-			III.D.19.a Making Marketing Solicitations
-
-			III.D.19.b Constructive Sharing and Service Providers
-
-		III.D.2.0 Sections 248.121(c) and (d)
-
-	III.A.0.0 M and incorporated each of the statutory exceptions to the affiliate marketing notice and opt out requirements that are set forth in Section 624(a)(4) of the FCRA. The Commission has revised the preface to the exceptions for clarity to provide that Regulation S-AM does not apply to “you” if a Covered Person uses eligibility information that it receives from an affiliate in certain circumstances. In addition, each of the exceptions has been moved to § 248.121(c) in the final rules and is discussed below.180
-
-			III.A.2.a Pre-existing Business Relationship Exception
-
-			III.A.2.b Employee Benefit Plan Exception
-
-			III.A.2.c Service Provider Exception
-
-			III.A.2.d Consumer-Initiated Communication Exception
-
-			III.A.2.e Consumer Authorization or Request Exception
-
-			III.A.2.f Compliance with Applicable Laws Exception
-
-		III.A.3.0 Relation to Affiliate-Sharing Notice and Opt Out
-
-	III.E.0.0 Section 248.122 Scope and Duration of Opt Out 1.	Section 248.122(a)
-
-	III.F.0.0 Section 248.123 Contents of Opt Out Notice; Consolidated and Equivalent Notices
-
-			III.F.3.a Joint Notice
-
-			III.F.3.b Joint Relationships
-
-			III.F.3.c Alternative Contents
-
-			III.F.3.d Model Notices
-
-	III.G.0.0 Section 248.124 Reasonable Opportunity to Opt Out 1.	Section 248.124(a)
-
-	III.H.0.0 Section 248.125 Reasonable and Simple Methods of Opting Out
-
-	III.I.0.0 Section 248.126 Delivery of Opt Out Notices
-
-	III.J.0.0 Section 248.127 Renewal of Opt Out Elections
-
-			III.J.3.a of § 247.26 required consumers to be provided with a new notice and a reasonable opportunity to extend their opt out before a receiving affiliate could make marketing solicitations based on the consumer’s eligibility information upon expiration of the opt out period. The affiliate that initially provided the notice, or its successor, would provide the extension notice. If an extension notice were not provided to the consumer, the opt out period would continue indefinitely. The requirement to provide an extension notice upon expiration of the opt out period would apply to any opt out – even if, for example, the consumer failed to opt out initially and informed the communicating affiliate of his or her opt out at some later time. The consumer could extend the opt out at the expiration of each successive opt out period. Proposed paragraph
-
-			III.J.3.b of § 247.26 provided that each opt out extension would be effective for a period of at least five years, in compliance with proposed § 247.25.
-
-	III.K.0.0 Section 248.128 Effective Date, Compliance Date, and Prospective Application
-
-		III.K.1.0 Section 248.128(a) and (b)
-
-IV.0.0.0 Appendix to Subpart B – Model Forms
-
-V.0.0.0 Cost-Benefit Analysis
-
-VI.0.0.0 Paperwork Reduction Act
-
-	VI.A.0.0 Collection of Information
-
-	VI.B.0.0 Use of Information
-
-	VI.C.0.0 Respondents
-
-	VI.D.0.0 Total Annual Reporting and Recordkeeping Burdens
-
-	VI.E.0.0 Retention Period for Recordkeeping Requirements
-
-	VI.F.0.0 Collection of Information is Mandatory
-
-VII.0.0.0 Final Regulatory Flexibility Analysis
-
-	VII.A.0.0 Need for the Rule
-
-	VII.B.0.0 Description of Small Entities to Which the Final Rules Will Apply
-
-	VII.C.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements Regulation S-AM requires Covered Persons to provide consumers with notice and an
-
-	VII.D.0.0 Identification of Other Duplicative, Overlapping, or Conflicting Federal Rules With the exception of the opt out for affiliate sharing under Section 603(d)(2)(A)(iii) of
-
-	VII.E.0.0 Agency Actions to Minimize Effects on Small Entities
-
-VIII.0.0.0 Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
-
-IX.0.0.0 Statutory Authority
-
-X.0.0.0 Text of Final Rules
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 248
 
 [Release Nos. 34-60423, IC-28842, IA-2911; File No. S7-29-04] RIN 3235-AJ24
@@ -380,9 +226,9 @@ Proposed § 247.20 set forth the requirement that a consumer be provided with no
 
 S-AM and incorporated each of the statutory exceptions to the affiliate marketing notice and opt out requirements that are set forth in Section 624(a)(4) of the FCRA, and paragraph (d) illustrated those exceptions with examples. Proposed paragraph (e) provided that Regulation
 
-S-AM would not be applicable to marketing solicitations that were based on information received by an affiliate prior to the proposed mandatory compliance date. <sup>141</sup> Proposed paragraph
+S-AM would not be applicable to marketing solicitations that were based on information received by an affiliate prior to the proposed mandatory compliance date. <sup>141</sup> Proposed paragraph f. clarified the relationship between sharing information and becoming a credit reporting agency. The final rules modify many of these proposed provisions as discussed below.
 
-<h>f. clarified the relationship between sharing information and becoming a credit reporting agency. The final rules modify many of these proposed provisions as discussed below.1.	Section 248.121(a)</h>
+<h>1.	Section 248.121(a)</h>
 
 Under proposed § 247.20(a)(1), before a receiving affiliate could use eligibility information to make or send marketing solicitations to a consumer, the communicating affiliate would have had to provide a notice to the consumer stating that the information may be communicated to and used by the receiving affiliate for marketing purposes. The consumer also would have had to have a reasonable opportunity to opt out through some simple method before the receiving affiliate could make a marketing solicitation. The notice and opt out requirements would have applied only if a receiving affiliate would use eligibility information for marketing purposes. <sup>142</sup> Proposed paragraph (a)(2) included two “rules of construction” to give further guidance regarding how affiliate marketing notices might be provided to consumers. <sup>143</sup>(continued)
 
@@ -400,7 +246,9 @@ Proposed paragraph (b) of § 247.20 has been deleted and replaced with paragraph
 
 The Commission continues to believe that the statute’s silence with regard to which affiliates may provide the opt out notice makes the statute ambiguous on this point. We agree with the commenters who indicated that consumers are less likely to disregard a notice provided by a person known to the consumer. We are concerned that a notice provided by an entity unknown to the consumer may not provide meaningful or effective notice because consumers are more likely to ignore or discard these notices. However, we note that while an agent unknown to the consumer may provide a notice, the notice itself would have to clearly indicate that it is on behalf of either the company the consumer has or had a pre-existing relationship with or be a joint notice(continued)of enactment and to ensure that notices and disclosures may be coordinated and consolidated in promulgating regulations. Any affiliate-sharing notice required under Section 603(d)(2)(A)(iii) of the FCRA generally must be included in a GLBA privacy notice, which must be provided in writing, or if the consumer agrees, electronically. We find it consistent with existing affiliate- sharing notification practices to require the affiliate marketing opt out notice to be provided in writing, or if the consumer agrees, electronically. The Commission believes that this will promote coordination and consolidation of the FCRA affiliate marketing and sharing notice with the GLBA privacy notices. We are not persuaded that there are any circumstances in which an oral opt out notice would be necessary. While oral opt out notices are not permitted, a number of key exceptions to the initial notice and opt out requirement may be triggered by an oral communication with the customer. These include the: (1) pre-existing business relationship exception; (2) consumer-initiated communication exception; and (3) consumer authorization or request exception. We understand that some Covered Persons currently require consumers to provide their Social Security numbers when exercising their existing GLBA or FCRA opt out rights. To combat identity theft and prevent “phishing,” however, consumers have been advised not to provide sensitive personal information such as Social Security numbers to unknown entities. Furthermore, as one of the Federal agencies participating in the President’s Identity Theft Task Force, the Commission has made a commitment to examine and recommend ways to limit the private sector’s use of Social Security numbers. The approach recommended by some industry commenters would allow an entity unknown to the consumer to not only provide the affiliate marketing opt out notice, but also to require the consumer to reveal his or her Socialfrom two or more members of an affiliated group of companies so long as one of the companies on the joint notice has or had a pre-existing relationship with the consumer. See § 248.121(a)(3).
 
-Security number to that unknown entity in order to exercise the opt out. The Commission notes that requiring that a consumer reveal his or her Social Security number to an unknown entity in order to exercise his or her opt out right would send conflicting messages to consumers about providing Social Security numbers to unknown entities. This approach would be inconsistent with the Commission’s current joint efforts with the Agencies to develop a comprehensive record on the uses of the Social Security number in the private sector and evaluate their necessity, as recommended by the President’s Identity Theft Task Force. <sup>157</sup>2.	Section 248.121(b)
+Security number to that unknown entity in order to exercise the opt out. The Commission notes that requiring that a consumer reveal his or her Social Security number to an unknown entity in order to exercise his or her opt out right would send conflicting messages to consumers about providing Social Security numbers to unknown entities. This approach would be inconsistent with the Commission’s current joint efforts with the Agencies to develop a comprehensive record on the uses of the Social Security number in the private sector and evaluate their necessity, as recommended by the President’s Identity Theft Task Force. <sup>157</sup>
+
+<h>2.	Section 248.121(b)</h>
 
 <h>a. Making Marketing Solicitations</h>
 
@@ -458,11 +306,9 @@ Under these conditions, the service provider is acting on behalf of an affiliate
 
 To provide additional guidance to Covered Persons, § 248.121(b)(6) provides six illustrative examples of the rules relating to making marketing solicitations.
 
-<h>2. Sections 248.121(c) and (d)</h>
+<h>3. Sections 248.121(c) and (d)</h>
 
-Proposed § 247.20(c) contained exceptions to the requirements of Regulation
-
-<h>A. M and incorporated each of the statutory exceptions to the affiliate marketing notice and opt out requirements that are set forth in Section 624(a)(4) of the FCRA. The Commission has revised the preface to the exceptions for clarity to provide that Regulation S-AM does not apply to “you” if a Covered Person uses eligibility information that it receives from an affiliate in certain circumstances. In addition, each of the exceptions has been moved to § 248.121(c) in the final rules and is discussed below.180</h>
+Proposed § 247.20(c) contained exceptions to the requirements of Regulation S-AM and incorporated each of the statutory exceptions to the affiliate marketing notice and opt out requirements that are set forth in Section 624(a)(4) of the FCRA. The Commission has revised the preface to the exceptions for clarity to provide that Regulation S-AM does not apply to “you” if a Covered Person uses eligibility information that it receives from an affiliate in certain circumstances. In addition, each of the exceptions has been moved to § 248.121(c) in the final rules and is discussed below.180
 
 <h>a. Pre-existing Business Relationship Exception</h>
 
@@ -522,7 +368,7 @@ For the reasons discussed in connection with the consumer-initiated communicatio
 
 Proposed § 247.20(c)(6) clarified that the provisions of Regulation S-AM would not apply to an affiliate if compliance with the requirements of Section 624 by the affiliate would prevent that affiliate from complying with any provision of state insurance law pertaining to unfair discrimination in a state where the affiliate is lawfully doing business. <sup>220</sup> The Commission received no comments on this provision and is adopting it as proposed, redesignated as § 248.121(c)(6). There is no corresponding example for this exception.
 
-<h>3. Relation to Affiliate-Sharing Notice and Opt Out</h>
+<h>4. Relation to Affiliate-Sharing Notice and Opt Out</h>
 
 Proposed paragraph (f) of § 247.20 clarified the relationship between the affiliate-sharing notice and opt out opportunity required under Section 603(d)(2)(A)(iii) of the FCRA and the affiliate marketing notice and opt out opportunity required by new Section 624 of the FCRA. <sup>221</sup>
 
@@ -532,7 +378,9 @@ Specifically, proposed paragraph (f) provided that nothing in proposed Regulatio
 
 One commenter urged the Commission to delete this provision as unnecessary. <sup>222</sup> In the alternative, this commenter asked the Commission to confirm that Section 603(d)(2)(A)(iii) of the FCRA applies to the sharing of information that would otherwise meet the definition of a “consumer report,” and that the sharing affiliate does not automatically become a consumer reporting agency, but risks becoming a consumer reporting agency. <sup>223</sup> In response, the Commission is clarifying that the FCRA, not Regulation S-AM, establishes the standard for defining a person as a consumer reporting agency. Accordingly, we are adopting proposed§ 247.20(f), redesignated as § 248.121(e) and modified to replace the reference to becoming a consumer reporting agency with the phrase “where applicable,” in order to highlight this clarification.
 
-<h>E. Section 248.122 Scope and Duration of Opt Out 1.	Section 248.122(a)</h>
+<h>E. Section 248.122 Scope and Duration of Opt Out</h> 
+
+<h>1.	Section 248.122(a)</h>
 
 The scope of the opt out was addressed in various sections of the proposal. Proposed§ 247.21(c) provided that the notice could have allowed a consumer to choose from a menu of alternatives when opting out, such as opting out of receiving marketing solicitations from certain<sup>222</sup>purposes. Nothing in these rules regarding the limitations on affiliate marketing under Section 624 of the FCRA supersedes or replaces the affiliate sharing notice and opt out requirement contained in Section 603(d)(2)(A)(iii) of the FCRA.
 
@@ -550,7 +398,9 @@ Section 248.122(a)(3)(i) limits the scope of an opt out notice that is not conne
 
 Section 248.122(a)(4) provides that a consumer may be given the opportunity to choose from a menu of alternatives when electing to prohibit marketing solicitations. An opt out notice may give the consumer the opportunity to elect to prohibit marketing solicitations from certain types of affiliates covered by the opt out notice but not other types of affiliates covered by the notice, marketing solicitations based on certain types of eligibility information but not other types of eligibility information, or marketing solicitations by certain methods of delivery but not other methods of delivery, so long as one of the alternatives is the opportunity to prohibit all marketing solicitations from all of the affiliates that are covered by the notice. We continue to believe that Section 624(a)(2)(A) of the FCRA requires the opt out notice to contain a single opt out option for all marketing solicitations within the scope of the notice. The Commission recognizes that consumers could receive a number of different opt out notices, even from the same affiliate. Accordingly, we anticipate monitoring industry notice practices and evaluating whether further action is needed.
 
-Section 248.122(a)(5)(i) contains a special rule that explains the obligations with respect to notice following the termination of a continuing relationship. Under this rule, a consumer must be given a new opt out notice if, after all continuing relationships with a person or itsaffiliate have been terminated, the consumer subsequently establishes a new continuing relationship with that person or the same or a different affiliate and the consumer’s eligibility information is to be used to make a marketing solicitation. <sup>231</sup> This will afford the consumer and the Covered Person a fresh start following termination of all continuing relationships by requiring a new opt out notice if a new continuing relationship is subsequently established. The new opt out notice must apply, at a minimum, to eligibility information obtained in connection with the new continuing relationship. The new opt out notice may apply more broadly to information obtained in connection with a terminated relationship and give the consumer the opportunity to opt out with respect to eligibility information obtained in connection with both the terminated and the new continuing relationships. A consumer’s failure to opt out does not override a prior, but still in-effect, opt out election made by the consumer and applicable to eligibility information obtained in connection with a terminated relationship. The prior opt out would still be in effect regardless of whether the new opt out notice provided to the consumer applies to eligibility information that was obtained in connection with the terminated relationship. <sup>232</sup> Section 248.122(a)(5)(ii) contains an example of this special rule. The Commission notes, however, that when a consumer was not given an opt out notice in connection with the initial continuing relationship because eligibility information obtained inconnection with that continuing relationship was not shared with affiliates for use in making marketing solicitations, an opt out notice provided in connection with a new continuing relationship would have to apply to any eligibility information obtained in connection with the terminated relationship that is to be shared with affiliates for use in making future marketing solicitations.2.	Section 248.122(b) Duration and Timing of Opt Out
+Section 248.122(a)(5)(i) contains a special rule that explains the obligations with respect to notice following the termination of a continuing relationship. Under this rule, a consumer must be given a new opt out notice if, after all continuing relationships with a person or itsaffiliate have been terminated, the consumer subsequently establishes a new continuing relationship with that person or the same or a different affiliate and the consumer’s eligibility information is to be used to make a marketing solicitation. <sup>231</sup> This will afford the consumer and the Covered Person a fresh start following termination of all continuing relationships by requiring a new opt out notice if a new continuing relationship is subsequently established. The new opt out notice must apply, at a minimum, to eligibility information obtained in connection with the new continuing relationship. The new opt out notice may apply more broadly to information obtained in connection with a terminated relationship and give the consumer the opportunity to opt out with respect to eligibility information obtained in connection with both the terminated and the new continuing relationships. A consumer’s failure to opt out does not override a prior, but still in-effect, opt out election made by the consumer and applicable to eligibility information obtained in connection with a terminated relationship. The prior opt out would still be in effect regardless of whether the new opt out notice provided to the consumer applies to eligibility information that was obtained in connection with the terminated relationship. <sup>232</sup> Section 248.122(a)(5)(ii) contains an example of this special rule. The Commission notes, however, that when a consumer was not given an opt out notice in connection with the initial continuing relationship because eligibility information obtained inconnection with that continuing relationship was not shared with affiliates for use in making marketing solicitations, an opt out notice provided in connection with a new continuing relationship would have to apply to any eligibility information obtained in connection with the terminated relationship that is to be shared with affiliates for use in making future marketing solicitations.
+
+<h>2.	Section 248.122(b) Duration and Timing of Opt Out</h>
 
 Proposed § 247.25 addressed the duration and effect of a consumer’s opt out election.
 
@@ -574,11 +424,15 @@ The Commission also believes that it is neither necessary nor appropriate to set
 
 Consistent with the special rule for a notice following termination of a continuing relationship, the duration of the opt out is not affected by the termination of a continuing relationship. When a consumer opts out in the course of a continuing relationship and that relationship is terminated during the opt out period, the opt out remains in effect for the<sup>239</sup>
 
-See Proposing Release at 69 FR 42322.remainder of the opt out period. If the consumer subsequently establishes a new continuing relationship while the opt out period remains in effect, the opt out period may not be shortened with respect to information obtained in connection with the terminated relationship by sending a new opt out notice to the consumer when the new continuing relationship is established, even if the consumer does not opt out upon receipt of the new opt out notice. A person may track the eligibility information obtained in connection with the terminated relationship and provide a renewal notice to the consumer, or may choose not to use eligibility information obtained in connection with the terminated relationship to make marketing solicitations to the consumer.3.	Section 248.122(c)
+See Proposing Release at 69 FR 42322.remainder of the opt out period. If the consumer subsequently establishes a new continuing relationship while the opt out period remains in effect, the opt out period may not be shortened with respect to information obtained in connection with the terminated relationship by sending a new opt out notice to the consumer when the new continuing relationship is established, even if the consumer does not opt out upon receipt of the new opt out notice. A person may track the eligibility information obtained in connection with the terminated relationship and provide a renewal notice to the consumer, or may choose not to use eligibility information obtained in connection with the terminated relationship to make marketing solicitations to the consumer.
+
+<h>3.	Section 248.122(c)</h>
 
 Proposed § 247.25(c) clarified that a consumer could opt out at any time. <sup>240</sup> As explained in the proposal, even if the consumer did not opt out in response to the initial opt out notice or if the consumer’s election to opt out was not prompted by an opt out notice, a consumer could still opt out. Regardless of when the consumer opted out, the opt out would have had to be effective for a period of at least five years. We received no comment on this provision and are adopting it as proposed, redesignated as § 248.122(c).
 
-<h>F. Section 248.123 Contents of Opt Out Notice; Consolidated and Equivalent Notices1.	Section 248.123(a)</h>
+<h>F. Section 248.123 Contents of Opt Out Notice; Consolidated and Equivalent Notices</h>
+
+<h>1.	Section 248.123(a)</h>
 
 <h>a. Joint Notice</h>
 
@@ -606,7 +460,9 @@ Proposed § 247.21(d) provided that if a person chose to give consumers a broade
 
 <h>d. Model Notices</h>
 
-Section 248.123(a)(4) provides that model notices are in the Appendix. The Commission has provided model notices to facilitate compliance with the rule, although the final rules do not require their use.2.	Coordinated, Consolidated, and Equivalent Notices
+Section 248.123(a)(4) provides that model notices are in the Appendix. The Commission has provided model notices to facilitate compliance with the rule, although the final rules do not require their use.
+
+<h>2.	Coordinated, Consolidated, and Equivalent Notices</h>
 
 Proposed § 247.27 provided that a notice required by proposed Regulation S-AM could be coordinated and consolidated with any other notice or disclosure required to be issued under any other provision of law. <sup>249</sup> We indicated that these notices could include but were not limited to the affiliate sharing and opt out notices described in Section 603(d)(2)(A)(iii) of the FCRA <sup>250</sup> and the privacy notices required by Title V of the GLBA. We further noted that a notice or other disclosure that was equivalent to the notice required by the proposal, and that was provided to a consumer together with disclosures required by any other provision of law, would satisfy the requirements of the proposed rule.
 
@@ -614,9 +470,13 @@ We requested comment on whether persons subject to the proposed rules would plan
 
 We encourage Covered Persons to consolidate their affiliate marketing opt out notice with GLBA privacy notices, including any affiliate sharing opt out notice under Section 603(d)(2)(A)(iii) of the FCRA, so that consumers receive a single notice they can use to review and exercise all applicable opt outs. We recognize, however, that special issues arise when these notices are consolidated. For example, the affiliate marketing opt out may be limited to a period of at least five years, subject to renewal, while the GLBA privacy and affiliate sharing opt out notices are not time-limited. This difference, if applicable, must be made clear to the consumer. Thus, if a Covered Person uses a consolidated notice and the affiliate marketing opt out is limited in duration, the notice must inform consumers that if they previously opted out, they do not need to opt out again until they receive a renewal notice when the opt out expires or is about to expire. In addition, as discussed more fully below, the Commission and the Agencies, in a joint rulemaking, have proposed a model privacy form that includes an affiliate marketing opt out. <sup>253</sup> The proposed model privacy form is designed to satisfy the requirement to provide an affiliate marketing opt out notice.
 
-<h>G. Section 248.124 Reasonable Opportunity to Opt Out 1.	Section 248.124(a)</h>
+<h>G. Section 248.124 Reasonable Opportunity to Opt Out</h> 
 
-Proposed § 247.22(a) provided that the communicating affiliate would have to provide a consumer a “reasonable opportunity to opt out” after delivery of the opt out notice but before a marketing solicitation based on eligibility information is sent. We noted that because of the various circumstances in which opt out rights are provided, a “reasonable opportunity to opt out” should be generally construed to avoid setting a mandatory waiting period. A general standard would provide flexibility to allow receiving affiliates to use eligibility information to make marketing solicitations at an appropriate point in time, while assuring that the consumer is given a realistic opportunity to prevent such use of the information. We received no comments on proposed § 247.22(a) and are adopting it substantially as proposed, redesignated as § 248.124(a) with technical changes for clarity.2.	Section 248.124(b)
+<h>1.	Section 248.124(a)</h>
+
+Proposed § 247.22(a) provided that the communicating affiliate would have to provide a consumer a “reasonable opportunity to opt out” after delivery of the opt out notice but before a marketing solicitation based on eligibility information is sent. We noted that because of the various circumstances in which opt out rights are provided, a “reasonable opportunity to opt out” should be generally construed to avoid setting a mandatory waiting period. A general standard would provide flexibility to allow receiving affiliates to use eligibility information to make marketing solicitations at an appropriate point in time, while assuring that the consumer is given a realistic opportunity to prevent such use of the information. We received no comments on proposed § 247.22(a) and are adopting it substantially as proposed, redesignated as § 248.124(a) with technical changes for clarity.
+
+<h>2.	Section 248.124(b)</h>
 
 Proposed §§ 247.22(b)(1) through (5) provided examples of what might constitute a reasonable opportunity to opt out in different situations. Proposed §§ 247.22(b)(1) and (2) provided examples of reasonable opportunities to opt out by mail or by electronic means consistent with the examples used in the GLBA privacy rules. <sup>254</sup> Both examples illustrated that giving consumers 30 days in which to decide whether to opt out would be reasonable in most cases. Proposed § 247.22(b)(3) provided an example of a reasonable opportunity to opt out when the consumer was required to decide as a necessary part of proceeding with an electronic<sup>254</sup>
 
@@ -676,11 +536,7 @@ Unlike the Agencies, the Commission did not receive requests to require the mand
 
 <h>J. Section 248.127 Renewal of Opt Out Elections</h>
 
-Proposed § 247.26 described procedures for extending an opt out. Proposed paragraph
-
-<h>a. of § 247.26 required consumers to be provided with a new notice and a reasonable opportunity to extend their opt out before a receiving affiliate could make marketing solicitations based on the consumer’s eligibility information upon expiration of the opt out period. The affiliate that initially provided the notice, or its successor, would provide the extension notice. If an extension notice were not provided to the consumer, the opt out period would continue indefinitely. The requirement to provide an extension notice upon expiration of the opt out period would apply to any opt out – even if, for example, the consumer failed to opt out initially and informed the communicating affiliate of his or her opt out at some later time. The consumer could extend the opt out at the expiration of each successive opt out period. Proposed paragraph</h>
-
-<h>b. of § 247.26 provided that each opt out extension would be effective for a period of at least five years, in compliance with proposed § 247.25.</h>
+Proposed § 247.26 described procedures for extending an opt out. Proposed paragraph (a) of § 247.26 required consumers to be provided with a new notice and a reasonable opportunity to extend their opt out before a receiving affiliate could make marketing solicitations based on the consumer’s eligibility information upon expiration of the opt out period. The affiliate that initially provided the notice, or its successor, would provide the extension notice. If an extension notice were not provided to the consumer, the opt out period would continue indefinitely. The requirement to provide an extension notice upon expiration of the opt out period would apply to any opt out – even if, for example, the consumer failed to opt out initially and informed the communicating affiliate of his or her opt out at some later time. The consumer could extend the opt out at the expiration of each successive opt out period. Proposed paragraph (b) of § 247.26 provided that each opt out extension would be effective for a period of at least five years, in compliance with proposed § 247.25.
 
 Proposed § 247.26(c) addressed the contents of an extension notice. <sup>292</sup> Like the initial<sup>292</sup>
 
@@ -710,7 +566,9 @@ Proposed § 247.26(d) addressed the timing of the extension or renewal notice. W
 
 In the Proposing Release, we recognized that some institutions may want to combine their affiliate marketing opt out notice with their next annual GLBA privacy notice. Twelve commenters addressed the effective and mandatory compliance dates. <sup>298</sup> These commenters believed that the mandatory compliance date should be delayed until some time after the effective date of the final rules. The commenters suggested various periods for delaying the mandatory compliance date from six, 12, <sup>299</sup> 15, <sup>300</sup> and 18 months. <sup>301</sup> In addition, they argued that a delayed mandatory compliance date was necessary in order to make significant changes to business practices and procedures, to implement necessary operational and systems changes, and to design and provide affiliate marketing opt out notices. Commenters also noted that many institutions would like to send the affiliate marketing notices with their initial or annual GLBA privacy notices, both to minimize costs and to avoid consumer confusion. These commenters noted that many large institutions provide GLBA privacy notices on a rolling basis, and indicated that a delayed mandatory compliance date was necessary to enable institutions to introduce affiliate marketing opt out notices into this cycle. A few industry commenters believed that Congress knew that an effective date is not necessarily the same as a mandatory compliance date because banking regulations commonly have effective dates and mandatory compliance datesthat differ.
 
-Regulation S-AM becomes effective approximately 30 days after publication in the Federal Register. <sup>302</sup> Compliance with Regulation S-AM is required not later than January 1, 2010. <sup>303</sup> The mandatory compliance date is delayed to give Covered Persons a reasonable amount of time to include the affiliate marketing opt out notice with their initial and annual privacy notices. <sup>304</sup> This is consistent with the FCRA’s directive that notices may be consolidated and coordinated. The Commission believes that delaying the mandatory compliance date until January 1, 2010 will give Covered Persons adequate time to develop and distribute opt out notices, as well as provide Covered Persons sufficient time to develop and distribute consolidated notices.2.	Section 248.128(c)
+Regulation S-AM becomes effective approximately 30 days after publication in the Federal Register. <sup>302</sup> Compliance with Regulation S-AM is required not later than January 1, 2010. <sup>303</sup> The mandatory compliance date is delayed to give Covered Persons a reasonable amount of time to include the affiliate marketing opt out notice with their initial and annual privacy notices. <sup>304</sup> This is consistent with the FCRA’s directive that notices may be consolidated and coordinated. The Commission believes that delaying the mandatory compliance date until January 1, 2010 will give Covered Persons adequate time to develop and distribute opt out notices, as well as provide Covered Persons sufficient time to develop and distribute consolidated notices.
+
+<h>2.	Section 248.128(c)</h>
 
 Proposed § 247.20(e) provided that Regulation S-AM would not apply to eligibility information received by a receiving affiliate prior to the required compliance date. Some commenters argued that the proposed rule did not track the statutory language or reflect the intent of Congress. <sup>305</sup> These commenters asserted the final rules should grandfather all information received by any financial institution or affiliate in a holding company before the mandatory compliance date, rather than grandfather only that information received before the mandatory compliance date by a person that intends to use the information to make solicitationsto the consumer. In the alternative, one commenter requested that, if we adopted the rule as proposed, we clarify that any information placed into a common database by an affiliate be considered to have been provided to an affiliated person. <sup>306</sup> The commenter argued that without such a clarification, affiliated companies would have to undertake costly deconstruction of existing databases to ensure compliance.
 

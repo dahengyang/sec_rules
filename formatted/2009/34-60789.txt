@@ -1,81 +1,3 @@
-https://www.sec.gov/rules/final/2009/34-60789.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Amendments to Rules under the Exchange Act
-
-		II.A.1.0 Rule 3a1-1
-
-		II.A.2.0 Rules 300, 301(b)(5) and 301(b)(6) of Regulation ATS
-
-		II.A.3.0 Form ATS-R and Form PILOT
-
-		II.A.4.0 Discussion
-
-	II.B.0.0 Amendments to Rules under the Investment Company Act
-
-		II.B.1.0 Refunded Securities (Rule 5b-3)
-
-		II.B.2.0 Affiliated Underwritings (Rule 10f-3)
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-	III.A.0.0 Rule and Form Amendments under the Exchange Act
-
-	III.B.0.0 Rule Amendments under the Investment Company Act
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Rule and Form Amendments under the Exchange Act
-
-		IV.A.1.0 Benefits
-
-		IV.A.2.0 Costs
-
-	IV.B.0.0 Rule Amendments under the Investment Company Act
-
-		IV.B.1.0 Benefits
-
-		IV.B.2.0 Costs
-
-V.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-	V.A.0.0 Rule and Form Amendments under the Exchange Act
-
-	V.B.0.0 Rule Amendments under the Investment Company Act
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY CERTIFICATION AND ANALYSIS
-
-	VI.A.0.0 Rule and Form Amendments under the Exchange Act
-
-	VI.B.0.0 Rule Amendments under the Investment Company Act
-
-		VI.B.1.0 Need for and Objectives of the Rule Amendments
-
-		VI.B.2.0 Significant Issues Raised By Public Comment
-
-		VI.B.3.0 Small Entities Subject to the Rule Amendments
-
-		VI.B.4.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-		VI.B.5.0 Commission Action to Minimize Effect on Small Entities
-
-			VI.B.5.a Different reporting or compliance standards or timetables. We believe that the credit quality and liquidity considerations required by the amendments to Rule 10f-3 should apply to all funds relying on the rules, including small entities. We believe that special compliance requirements or timetables for small entities are unnecessary because the substituted standards require a level of credit quality and liquidity that is similar to the standards in the
-
-			VI.B.5.b Clarification, consolidation or simplification of reporting and compliance
-
-			VI.B.5.c Performance rather than design standards. Rules 5b-3 and 10f-3, as amended, do not dictate any particular design standards that must be employed to meet the objectives of the rules. In fact, the amendments to the rules substitute a performance standard for references to NRSRO ratings.
-
-			VI.B.5.d Exempting small entities. Continuing to require small entities to rely exclusively on NRSRO ratings for the credit quality and liquidity determinations required by the amendments to Rule 10f-3 would not be consistent with the goals underlying our amendments. Moreover, fund boards may incorporate ratings reports, analyses and other assessments issued by third parties, including NRSROs, in making their determinations, although an NRSRO rating, by itself, could not substitute for the evaluation required to be performed under the amendments.
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 240, 242, 249 and 270
 
 Release Nos. 34-60789, IC-28939; File Nos. S7-17-08 , S7-19-08 RIN 3235-AK17, 3235-AK19
@@ -364,13 +286,13 @@ Small entities registered with the Commission as investment companies seeking to
 
 The RFA directs us to consider significant alternatives that may accomplish our stated objective, while minimizing any significant adverse impact on small entities. In connection with the amendments, we considered several alternatives, including the following:
 
-<h>a. Different reporting or compliance standards or timetables. We believe that the credit quality and liquidity considerations required by the amendments to Rule 10f-3 should apply to all funds relying on the rules, including small entities. We believe that special compliance requirements or timetables for small entities are unnecessary because the substituted standards require a level of credit quality and liquidity that is similar to the standards in thecurrent rule, but without reference to NRSRO ratings. Thus, these standards are designed to achieve the same purpose that the ratings were designed to achieve without resulting in significant costs for funds, including small entities. In addition, funds that rely on Rule 10f-3 may continue to use or rely on NRSRO ratings in making determinations under the amended rule. Moreover, different or special compliance requirements for small entities consistent with the Commission’s goal of removing references to NRSRO ratings in the rule may create a risk that those entities could purchase securities with insufficient liquidity and credit quality, to the detriment of the fund and its investors. As discussed above, we do not believe that the requirement that the escrow agent for all refunded securities (not just those that are not top-rated) have received an independent accountant’s certification would result in significant cost burdens for funds. We believe that fund managers may be able to obtain this information from multiple sources at little expense, including, for example, the issuer’s Web site, a municipal dealer’s Web site or the escrow agent’s Web site. <sup>143</sup> In addition, funds can satisfy the certification requirement of Rule 5b-3 by determining that an NRSRO required an independent accountant to make the same determination. <sup>144</sup> Because we understand that these certifications are typically provided during the course of refunding transactions, we believe that it will not be difficult or expensive for fund managers to confirm that the certification has been provided to the escrow agent.</h>
+<h>a. Different reporting or compliance standards or timetables</h>We believe that the credit quality and liquidity considerations required by the amendments to Rule 10f-3 should apply to all funds relying on the rules, including small entities. We believe that special compliance requirements or timetables for small entities are unnecessary because the substituted standards require a level of credit quality and liquidity that is similar to the standards in thecurrent rule, but without reference to NRSRO ratings. Thus, these standards are designed to achieve the same purpose that the ratings were designed to achieve without resulting in significant costs for funds, including small entities. In addition, funds that rely on Rule 10f-3 may continue to use or rely on NRSRO ratings in making determinations under the amended rule. Moreover, different or special compliance requirements for small entities consistent with the Commission’s goal of removing references to NRSRO ratings in the rule may create a risk that those entities could purchase securities with insufficient liquidity and credit quality, to the detriment of the fund and its investors. As discussed above, we do not believe that the requirement that the escrow agent for all refunded securities (not just those that are not top-rated) have received an independent accountant’s certification would result in significant cost burdens for funds. We believe that fund managers may be able to obtain this information from multiple sources at little expense, including, for example, the issuer’s Web site, a municipal dealer’s Web site or the escrow agent’s Web site. <sup>143</sup> In addition, funds can satisfy the certification requirement of Rule 5b-3 by determining that an NRSRO required an independent accountant to make the same determination. <sup>144</sup> Because we understand that these certifications are typically provided during the course of refunding transactions, we believe that it will not be difficult or expensive for fund managers to confirm that the certification has been provided to the escrow agent.</h>
 
-<h>b. Clarification, consolidation or simplification of reporting and compliancerequirements . Where we have substituted alternative credit quality and liquidity criteria for ratings references in the amended rules, we have endeavored to make the criteria as clear and straightforward as possible. We believe that the standards provided by the amended rule aresufficiently clear to permit a fund (or a fund adviser conducting the analysis on behalf of the fund board) to understand the risks acceptable under the rule. The amended rules are designed to minimize the regulatory burden, consistent with the Commission’s objectives, on all entities eligible to rely on the respective rules, including small entities.</h>
+<h>b. Clarification, consolidation or simplification of reporting and compliance requirements</h> Where we have substituted alternative credit quality and liquidity criteria for ratings references in the amended rules, we have endeavored to make the criteria as clear and straightforward as possible. We believe that the standards provided by the amended rule aresufficiently clear to permit a fund (or a fund adviser conducting the analysis on behalf of the fund board) to understand the risks acceptable under the rule. The amended rules are designed to minimize the regulatory burden, consistent with the Commission’s objectives, on all entities eligible to rely on the respective rules, including small entities.</h>
 
-<h>c. Performance rather than design standards. Rules 5b-3 and 10f-3, as amended, do not dictate any particular design standards that must be employed to meet the objectives of the rules. In fact, the amendments to the rules substitute a performance standard for references to NRSRO ratings.</h>
+<h>c. Performance rather than design standards</h>Rules 5b-3 and 10f-3, as amended, do not dictate any particular design standards that must be employed to meet the objectives of the rules. In fact, the amendments to the rules substitute a performance standard for references to NRSRO ratings.</h>
 
-<h>d. Exempting small entities. Continuing to require small entities to rely exclusively on NRSRO ratings for the credit quality and liquidity determinations required by the amendments to Rule 10f-3 would not be consistent with the goals underlying our amendments. Moreover, fund boards may incorporate ratings reports, analyses and other assessments issued by third parties, including NRSROs, in making their determinations, although an NRSRO rating, by itself, could not substitute for the evaluation required to be performed under the amendments.</h>
+<h>d. Exempting small entities</h>Continuing to require small entities to rely exclusively on NRSRO ratings for the credit quality and liquidity determinations required by the amendments to Rule 10f-3 would not be consistent with the goals underlying our amendments. Moreover, fund boards may incorporate ratings reports, analyses and other assessments issued by third parties, including NRSROs, in making their determinations, although an NRSRO rating, by itself, could not substitute for the evaluation required to be performed under the amendments.</h>
 
 <h>VII. STATUTORY AUTHORITY</h>
 

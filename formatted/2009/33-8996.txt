@@ -1,79 +1,3 @@
-https://www.sec.gov/rules/final/2009/33-8996.pdf
-
-I.0.0.0 EXECUTIVE SUMMARY
-
-II.0.0.0 BACKGROUND
-
-	II.A.0.0 Description of Indexed Annuities
-
-	II.B.0.0 Section 3(a)(8) Exemption
-
-		II.B.1.0 the insurer, for the life of the contract,
-
-			II.B.1.a guarantees the principal amount of purchase payments and credited interest, less any deduction for sales, administrative, or other expenses or charges; and
-
-			II.B.1.b credits a specified interest rate that is at least equal to the minimum rate required by applicable state law; and
-
-		II.B.2.0 the insurer guarantees that the rate of any interest to be credited in excess of the guaranteed minimum rate described in paragraph 1(b) will not be
-
-III.0.0.0 DISCUSSION OF THE AMENDMENTS
-
-	III.A.0.0 Definition of Annuity Contract
-
-		III.A.1.0 Analysis
-
-		III.A.2.0 Commenters’ Concerns Regarding Commission’s Analysis
-
-		III.A.3.0 Definition
-
-		III.A.1.0 The Exemption
-
-		III.A.2.0 Conditions to Exemption
-
-		III.A.3.0 Effective Date
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-	IV.A.0.0 Background
-
-	IV.B.0.0 Summary of Information Collection
-
-	IV.C.0.0 Paperwork Reduction Act Burden Estimates
-
-	IV.D.0.0 Response to Comments on Commission’s Paperwork Reduction Act Analysis
-
-V.0.0.0 COST-BENEFIT ANALYSIS
-
-	V.A.0.0 Benefits
-
-	V.B.0.0 Costs
-
-VI.0.0.0 CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION; CONSIDERATION OF BURDEN ON COMPETITION
-
-	VI.A.0.0 Efficiency
-
-	VI.B.0.0 Competition
-
-	VI.C.0.0 Capital Formation
-
-VII.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VII.A.0.0 Need For and Objectives of Rules
-
-	VII.B.0.0 Significant Issues Raised By Public Comment
-
-	VII.C.0.0 Small Entities Subject to the Rules
-
-	VII.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VII.E.0.0 Commission Action to Minimize Effect on Small Entities
-
-VIII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 230 and 240
@@ -184,13 +108,13 @@ Marketing is another significant factor in determining whether a state-regulated
 
 In 1986, given the proliferation of annuity contracts commonly known as “guaranteed investment contracts,” the Commission adopted rule 151 under the Securities Act to establish a “safe harbor” for certain annuity contracts that are not deemed subjectto the federal securities laws and are entitled to rely on Section 3(a)(8) of the Securities Act. <sup>35</sup> Under rule 151, an annuity contract issued by a state-regulated insurance company is deemed to be within Section 3(a)(8) of the Securities Act if (1) the insurer assumes the investment risk under the contract in the manner prescribed in the rule; and (2) the contract is not marketed primarily as an investment. <sup>36</sup> Rule 151 essentially codifies the tests the courts have used to determine whether an annuity contract is entitled to the Section 3(a)(8) exemption, but adds greater specificity with respect to the investment risk test. Under rule 151, an insurer is deemed to assume the investment risk under an annuity contract if, among other things,
 
-<h>1. the insurer, for the life of the contract,</h>
+1. the insurer, for the life of the contract,
 
-<h>a. guarantees the principal amount of purchase payments and credited interest, less any deduction for sales, administrative, or other expenses or charges; and</h>
+a. guarantees the principal amount of purchase payments and credited interest, less any deduction for sales, administrative, or other expenses or charges; and
 
-<h>b. credits a specified interest rate that is at least equal to the minimum rate required by applicable state law; and</h>
+b. credits a specified interest rate that is at least equal to the minimum rate required by applicable state law; and
 
-<h>2. the insurer guarantees that the rate of any interest to be credited in excess of the guaranteed minimum rate described in paragraph 1(b) will not bemodified more frequently than once per year. <sup>37</sup></h>
+2. the insurer guarantees that the rate of any interest to be credited in excess of the guaranteed minimum rate described in paragraph 1(b) will not bemodified more frequently than once per year. <sup>37</sup>
 
 Indexed annuities are not entitled to rely on the safe harbor of rule 151 because they fail to satisfy the requirement that the insurer guarantee that the rate of any interest to be credited in excess of the guaranteed minimum rate will not be modified more frequently than once per year. <sup>38</sup>
 
@@ -410,7 +334,7 @@ Rule 151A applies to annuities where the contract specifies that amounts payable
 
 Some commenters suggested that the Commission, instead of adopting a rule that defines certain indexed annuities as not being “annuity contracts” under Section 3(a)(8), should instead define a safe harbor that would provide that indexed annuities that meet certain conditions are entitled to the Section 3(a)(8) exemption. <sup>136</sup> We are not adopting this approach for two reasons. First, such a rule would not address in any way the federal interest in providing investors with disclosure, antifraud, and sales practice protections that arise when individuals are offered indexed annuities that expose them to investment risk. A safe harbor would address circumstances where purchasers of indexed annuities are not entitled to the protections of the federal securities laws; one of our primary goals is to address circumstances where purchasers of indexed annuities are entitled to theprotections of the federal securities laws. We are concerned that many purchasers of indexed annuities today should be receiving the protections of the federal securities laws, but are not. Rule 151A addresses this problem; a safe harbor rule would not. Second, we believe that, under many of the indexed annuities that are sold today, the purchaser bears significant investment risk and is more likely than not to receive a fluctuating, securities- linked return. In light of that fact, we believe that is far more important to address this class of contracts with our definitional rule than to address the remaining contracts, or some subset of those contracts, with a safe harbor rule.
 
-B.	Exchange Act Exemption for Securities that are Regulated as Insurance
+<h>B.	Exchange Act Exemption for Securities that are Regulated as Insurance</h>
 
 The Commission is also adopting new rule 12h-7 under the Exchange Act, which provides an insurance company with an exemption from Exchange Act reporting with respect to indexed annuities and certain other securities issued by the company that are registered under the Securities Act and regulated as insurance under state law. <sup>137</sup> Sixteen commenters supported the exemption. <sup>138</sup> No commenters opposed the exemption. We are adopting this exemption, with changes to the proposal that address commenters’ concerns, because we believe that the exemption is necessary or appropriate in the publicinterest and consistent with the protection of investors. We base that view on two factors: first, the nature and extent of the activities of insurance company issuers, and their income and assets, and, in particular, the regulation of those activities and assets under state insurance law; and, second, the absence of trading interest in the securities. <sup>139</sup> The new rule imposes conditions to the exemption that relate to these factors and that we believe are necessary or appropriate in the public interest and consistent with the protection of investors.
 

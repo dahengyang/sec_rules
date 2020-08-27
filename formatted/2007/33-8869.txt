@@ -1,101 +1,3 @@
-https://www.sec.gov/rules/final/2007/33-8869.pdf
-
-I.0.0.0 Background
-
-II.0.0.0 Discussion of Final Amendments
-
-	II.A.0.0 Simplification of the Preliminary Note and Text of Rule 144
-
-	II.B.0.0 Amendments to Holding Periods for Restricted Securities
-
-		II.B.1.0 Six-Month Rule 144(d) Holding Period Requirement for Exchange Act Reporting Companies
-
-		II.B.2.0 Significant Reduction of Conditions Applicable to Non-Affiliates
-
-		II.B.3.0 Tolling Provision
-
-	II.C.0.0 Amendments to the Manner of Sale Requirements Applicable to Resales by Affiliates
-
-	II.D.0.0 Changes to Rule 144 Conditions Related to Resales of Debt Securities by Affiliates
-
-		II.D.1.0 Comments Received on Proposed Amendments Relating to Debt Securities
-
-		II.D.2.0 No Manner of Sale Requirements Regarding Resales of Debt Securities
-
-		II.D.3.0 Raising Volume Limitations for Debt Securities
-
-	II.E.0.0 Increase of the Thresholds that Trigger the Form 144 Filing Requirement for Affiliates
-
-	II.F.0.0 Codification of Several Staff Positions
-
-		II.F.1.0 Securities Acquired under Section 4(6) of the Securities Act are Considered “Restricted Securities”
-
-		II.F.2.0 Tacking of Holding Periods When a Company Reorganizes into a Holding Company Structure
-
-		II.F.3.0 Tacking of Holding Periods for Conversions and Exchanges of Securities
-
-		II.F.5.0 Aggregation of Pledged Securities
-
-		II.F.6.0 Shell Companies”
-
-		II.F.1.0 no or nominal operations; and
-
-		II.F.2.0 either:
-
-		II.F.144.0 is available for the resale of restricted or unrestricted securities that were initially
-
-		II.F.7.0 Representations Required from Security Holders Relying on Exchange Act Rule 10b5-1(c)
-
-	II.G.0.0 Amendments to Rule 145
-
-			II.G.7.g of Rule 144 after at least 90 days have elapsed since the securities were acquired in
-
-		II.G.145.0 that paragraph (d) is not available with respect to any transaction or series of transactions that, although in technical compliance with the rule, is part of a plan or scheme to evade the registration requirements of the Securities Act. We have included
-
-	II.H.0.0 Conforming and Other Amendments
-
-		II.H.1.0 Regulation S Distribution Compliance Period for Category Three Issuers
-
-		II.H.2.0 s
-
-		II.H.3.0 Securities Act Rule 701(g)(3)
-
-III.0.0.0 Paperwork Reduction Act
-
-	III.C.0.0 Revised Burden Estimates
-
-	III.D.0.0 Solicitation of Comments
-
-IV.0.0.0 Cost-Benefit Analysis
-
-	IV.A.0.0 Background
-
-	IV.B.0.0 Description of Amendments
-
-	IV.C.0.0 Benefits
-
-	IV.D.0.0 Costs
-
-V.0.0.0 Promotion of Efficiency, Competition and Capital Formation
-
-VI.0.0.0 Final Regulatory Flexibility Analysis
-
-	VI.A.0.0 Reasons for, and Objectives of, the Amendments
-
-	VI.B.0.0 Significant Issues Raised by Comments
-
-	VI.C.0.0 Small Entities Subject to the Rule
-
-	VI.D.0.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 Statutory Basis and Text of Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 Conforming Version (To Conform to Release Published in the Federal Register)
 
 SECURITIES AND EXCHANGE COMMISSION
@@ -536,7 +438,7 @@ Provided that the loans and pledges are bona fide transactions and there is no c
 
 We received no comments on this proposal, and we are adopting the amendment to Rule 144(e), as proposed. <sup>159</sup>
 
-<h>6. Shell Companies”</h>
+<h>6. Shell Companies</h>
 
 A blank check company is a company that:
 
@@ -550,9 +452,9 @@ Such companies historically have provided opportunity for abuse of the federal s
 
 In 2005, we amended Securities Act Rule 405 <sup>163</sup> to define a “shell company” to mean a registrant, other than an asset-backed issuer, that has:
 
-<h>1. no or nominal operations; and</h>
+1. no or nominal operations; and
 
-<h>2. either:no or nominal assets;<sup>159</sup><sup>160</sup><sup>161</sup><sup>162</sup></h>
+2. either:no or nominal assets;<sup>159</sup><sup>160</sup><sup>161</sup><sup>162</sup>
 
 See amendments to Rule 144(e)(3)(ii).17 CFR 230.419. The term “penny stock” is defined in Exchange Act Rule 3a51-1 [17 CFR 240.3a51-1].
 
@@ -584,9 +486,7 @@ In another part of our proposal regarding the resale of securities of reporting 
 
 See Release No. 33-8587. These provisions are consistent with the Form S-8 provisions for shell companies, except that Form S-8 requires a former shell company to wait 60 days, rather than 90 days, before it is able to use the form to register securities.at least 90 days have elapsed from the time the issuer files “Form <sup>10</sup>information” reflecting the fact that it had ceased to be a shell companybefore any securities were sold under Rule 144.“Form 10 information” is equivalent to information that a company would be required tofile if it were registering a class of securities on Form 10 or Form 20-F under the Exchange Act. <sup>175</sup> This information is ordinarily included in a Form 8-K if the former shell company has been filing Exchange Act reports. <sup>176</sup> As proposed, the Rule 144(d)holding period for restricted securities sold under this provision would have commencedat the time that the Form 10 information was filed.
 
-We are adopting this part of the amendments, with some modification. <sup>177</sup> Wehave modified the proposal to require at least one year to elapse after Form 10information is filed with Commission before a security holder can resell any securities of an issuer that was formerly a shell company subject to Rule 144 conditions. We believethat the one-year period is necessary for investor protection given the comments relatingto the abuse and micro-cap fraud occurring in connection with the securities of shell companies. Both restricted securities and unrestricted securities will be subject to the same one-year waiting period. Thus, under the amendments that we are adopting, Rule
-
-<h>144. is available for the resale of restricted or unrestricted securities that were initiallyissued by a reporting or non-reporting shell company or an issuer that has been at anytime previously a reporting or non-reporting shell company, only if the following conditions are met:</h>
+We are adopting this part of the amendments, with some modification. <sup>177</sup> Wehave modified the proposal to require at least one year to elapse after Form 10information is filed with Commission before a security holder can resell any securities of an issuer that was formerly a shell company subject to Rule 144 conditions. We believethat the one-year period is necessary for investor protection given the comments relatingto the abuse and micro-cap fraud occurring in connection with the securities of shell companies. Both restricted securities and unrestricted securities will be subject to the same one-year waiting period. Thus, under the amendments that we are adopting, Rule 144 is available for the resale of restricted or unrestricted securities that were initiallyissued by a reporting or non-reporting shell company or an issuer that has been at anytime previously a reporting or non-reporting shell company, only if the following conditions are met:
 
 The issuer of the securities that was formerly a reporting or non-reporting shell company has ceased to be a shell company;
 
@@ -644,15 +544,11 @@ See comment letters on the 2007 Proposing Release from Barron and Fried Frank.
 
 Rule 145(c) now provides that any party, other than the issuer, to a Rule 145(a) transaction involving a shell company (but not a business combination related shellcompany), including any affiliate of such party, who publicly offers or sells securities ofthe issuer acquired in connection with the transaction, will continue to be deemed an underwriter. <sup>193</sup>
 
-Under the amendments to Rule 145 that we are adopting, if the issuer has met the requirements of new paragraph (i)(2) of Rule 144, <sup>194</sup> the persons and parties deemed underwriters will be able to resell their securities subject to paragraphs (c), (e), (f), and
-
-<h>g. of Rule 144 after at least 90 days have elapsed since the securities were acquired inthe transaction. After six months have elapsed since the securities were acquired in the Rule 145(a) transaction, the persons and parties will be permitted to resell their securities, subject only to the Rule 144(c) current public information condition, provided that the sellers are not affiliates of the issuer at the time of sale and have not been affiliates during the three months before the sale. After one year has elapsed since the securities were acquired in the transaction, the persons and parties will be permitted to resell their securities without any limitations under Rule 145(d), provided that they are non-affiliates at the time of sale and have not been affiliates during the three months before the sale.<sup>193</sup>securities in accordance with the restrictions of Rule 145(d). Also, the staff intends to issue a revised Staff Legal Bulletin No. 3 concurrently with the effective date of the amendments that we are adopting that will address the treatment of parties to a transaction and their affiliates that have acquired securities in a transaction exempt from registration pursuant to Section 3(a)(10) of the Securities Act.</h>
+Under the amendments to Rule 145 that we are adopting, if the issuer has met the requirements of new paragraph (i)(2) of Rule 144, <sup>194</sup> the persons and parties deemed underwriters will be able to resell their securities subject to paragraphs (c), (e), (f), and (g) of Rule 144 after at least 90 days have elapsed since the securities were acquired inthe transaction. After six months have elapsed since the securities were acquired in the Rule 145(a) transaction, the persons and parties will be permitted to resell their securities, subject only to the Rule 144(c) current public information condition, provided that the sellers are not affiliates of the issuer at the time of sale and have not been affiliates during the three months before the sale. After one year has elapsed since the securities were acquired in the transaction, the persons and parties will be permitted to resell their securities without any limitations under Rule 145(d), provided that they are non-affiliates at the time of sale and have not been affiliates during the three months before the sale.<sup>193</sup>securities in accordance with the restrictions of Rule 145(d). Also, the staff intends to issue a revised Staff Legal Bulletin No. 3 concurrently with the effective date of the amendments that we are adopting that will address the treatment of parties to a transaction and their affiliates that have acquired securities in a transaction exempt from registration pursuant to Section 3(a)(10) of the Securities Act.
 
 We are also adding the definition of “affiliate” to paragraph (e) and transferring the definition of “party” from paragraph (c) to paragraph (e).
 
-In addition, we are adopting, as proposed, a note to paragraphs (c) and (d) of Rule
-
-<h>145. that paragraph (d) is not available with respect to any transaction or series of transactions that, although in technical compliance with the rule, is part of a plan or scheme to evade the registration requirements of the Securities Act. We have includeda similar statement in the Preliminary Note to Rule 144. We also are adopting, as proposed, the clarification to the language in Rule 145(d) regarding the securities that were acquired in a transaction specified in Rule 145(a). <sup>196</sup></h>
+In addition, we are adopting, as proposed, a note to paragraphs (c) and (d) of Rule 145 that paragraph (d) is not available with respect to any transaction or series of transactions that, although in technical compliance with the rule, is part of a plan or scheme to evade the registration requirements of the Securities Act. We have includeda similar statement in the Preliminary Note to Rule 144. We also are adopting, as proposed, the clarification to the language in Rule 145(d) regarding the securities that were acquired in a transaction specified in Rule 145(a). <sup>196</sup>
 
 <h>H. Conforming and Other Amendments</h>
 
@@ -670,7 +566,7 @@ Several commenters recommended revising the Regulation S distribution compliance
 
 When Regulation S was amended in 1998, the distribution compliance period was revised to coincide with the Rule 144(d) holding period. <sup>202</sup> In making this revision, wenoted that a distribution compliance period that is longer than the Rule 144 holding period is unnecessary and could be confusing to apply. For the same reason, we are amending Regulation S to conform the distribution compliance period in Rule 903(b)(3)(iii) for Category 3 reporting issuers to the amendments to the Rule 144 holding period. <sup>203</sup> As a result, U.S. reporting issuers will be subject to a distribution complian ceperiod of six months under Regulation S.
 
-<h>2. s</h>
+<h>2. Underlying Securities in Asset-Backed Securities Transactions</h>
 
 In 2004, we adopted Securities Act Rule 190 to clarify when registration of the sale of underlying securities in asset-backed securities transactions is required. <sup>204</sup> One o fthe basic premises underlying asset-backed securities offerings is that an investor isbuying participation in the underlying assets. Therefore, if the assets being securitizedare themselves securities under the Securities Act (commonly referred to as a<sup>200</sup>
 
@@ -704,7 +600,7 @@ Rule 701(g)(3). <sup>212</sup> Accordingly, we believe that it is appropriate to
 
 <h>III. Paperwork Reduction Act</h>
 
-A.	Background
+<h>A.	Background</h>
 
 Our amendments contain “collection of information” requirements within themeaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>214</sup>
 
@@ -716,7 +612,7 @@ See comment letter on the 2007 Proposing Release from ABA. See amendments to Rul
 
 See 44 U.S.C. 3507 and 5 CFR 1320.11 .information required by Form 144. The information collection requirements imposed by Form 144 are mandatory.
 
-B. Summary of Amendments
+<h>B. Summary of Amendments</h>
 
 In the 2007 Proposing Release, we proposed an amendment to the Form 144 filing requirement to eliminate the need for non-affiliates of the issuer to file Form 144 in order to sell their securities under Rule 144. In addition, the proposal would have raised thefiling threshold for Form 144 to 1,000 shares or $50,000 worth of securities during a three-month period. Currently, the Form 144 filing threshold is 500 shares or $10,000. The proposed amendments also included two other minor changes to Form 144. <sup>216</sup>
 

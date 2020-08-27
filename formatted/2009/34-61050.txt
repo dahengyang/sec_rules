@@ -1,93 +1,3 @@
-https://www.sec.gov/rules/final/2009/34-61050.pdf
-
-I.0.0.0 BACKGROUND
-
-	I.A.0.0 Prior Commission Actions
-
-	I.B.0.0 Summary of the Comments and Final Rules
-
-			I.B..d of Rule 17g-2 require a broader disclosure of credit ratings history information.
-
-II.0.0.0 FINAL AMENDMENTS TO RULE 17g-2
-
-	II.A.0.0 Summary and Background
-
-	II.B.0.0 Paragraph (d)(1) of Rule 17g-2
-
-	II.C.0.0 Paragraph (d)(2) of Rule 17g-2
-
-	II.D.0.0 Paragraph (d)(3) of Rule 17g-2
-
-III.0.0.0 FINAL AMENDMENTS TO RULE 17g-5 AND REGULATION FD
-
-	III.A.0.0 Summary and Background
-
-	III.B.0.0 Paragraph (b)(9) of Rule 17g-5
-
-	III.C.0.0 Paragraph (a)(3) of Rule 17g-5
-
-	III.D.0.0 of Rule 17g-5 in order to clarify that the proposed language “all information the issuer, sponsor, or underwriter provides to the nationally recognized statistical rating organization for the purpose of determining the initial credit rating for the security or money market instrument” and “all information the issuer, sponsor, or underwriter provides to the nationally recognized statistical rating organization for the purpose of undertaking credit rating surveillance on the security or money market instrument” includes all information the issuer, sponsor or underwriter provides to the hired NRSRO either directly or by contracting with a third party.
-
-	III.D.0.0 Paragraph (e) of Rule 17g-5
-
-			III.D..e is designed to provide a level of verification that the NRSRO is, in fact, accessing the information for purposes of determining credit ratings.
-
-	III.E.0.0 Regulation FD
-
-	III.F.0.0 Conclusion
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-		IV.F.1.0 Rule 17g-2, Records to be made and retained by nationally recognized statistical rating organizations (OMB Control Number 3235-0628); and
-
-		IV.F.2.0 Rule 17g-5, Conflicts of interest (OMB Control Number 3235-0649).
-
-	IV.A.0.0 Collections of Information under the Proposed Rule Amendments
-
-	IV.B.0.0 Proposed Use of Information
-
-	IV.C.0.0 Respondents
-
-	IV.D.0.0 Total Annual Recordkeeping and Reporting Burden
-
-		IV.D.1.0 Amendments to Rule 17g-2
-
-		IV.D.2.0 Amendments to Rule 17g-5
-
-	IV.E.0.0 Collection of Information Is Mandatory
-
-	IV.F.0.0 Confidentiality
-
-V.0.0.0 COSTS AND BENEFITS OF THE AMENDED RULES
-
-	V.A.0.0 Benefits
-
-	V.B.0.0 Costs
-
-		V.B.1.0 Amendment to Rule 17g-2
-
-		V.B.2.0 Amendment to Rule 17g-5.
-
-VI.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
-
-VII.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VII.A.0.0 Need for and Objective of the Amendments
-
-	VII.B.0.0 Significant Issues Raised by Commenters
-
-	VII.C.0.0 Small Entities Subject to the Rule
-
-	VII.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VII.E.0.0 Significant Alternatives
-
-VIII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 240 and 243
@@ -142,9 +52,7 @@ Examine Oversight of Credit Rating Agencies (April 15, 2009) (“Realpoint State
 
 The Commission notes that in addition to citing fostering competition in the credit rating industry as one of the purposes of the Rating Agency Act, Congress stated its finding in the Rating Agency Act that “additional competition [among credit rating agencies] is in the public interest.” <sup>17</sup> In seeking to increase competition, the Commission seeks to further the purposes of Congress in enacting the Rating Agency Act.
 
-In summary, the Commission is adopting amendments to paragraph (d) of Rule 17g-2 and paragraphs (a) and (b) of Rule 17g-5 as well as a new paragraph (e) of Rule 17g-5 and a conforming amendment to Regulation FD. <sup>18</sup> The amendments to paragraph
-
-<h>d. of Rule 17g-2 require a broader disclosure of credit ratings history information.</h>
+In summary, the Commission is adopting amendments to paragraph (d) of Rule 17g-2 and paragraphs (a) and (b) of Rule 17g-5 as well as a new paragraph (e) of Rule 17g-5 and a conforming amendment to Regulation FD. <sup>18</sup> The amendments to paragraph (d) of Rule 17g-2 require a broader disclosure of credit ratings history information.
 
 Specifically, as adopted in the February 2009 Adopting Release , paragraph (d) of Rule 17g-2 requires the disclosure of ratings actions histories, in eXtensible Business Reporting Language (“XBRL”) format, for 10% of the ratings in each class for which the NRSRO has registered and for which it has issued 500 or more credit ratings paid for by the issuer, underwriter, or sponsor of the security being rated (“issuer-paid” credit ratings), with each required disclosure of a new ratings action to be made no later than six months after the ratings action is taken (hereinafter sometimes referred to as the “10% requirement”). <sup>19</sup> The amendments being adopted today add the requirement that anits Internet Web site, on August 5, 2009, the Commission provided notice that an NRSRO subject to those disclosure provisions can satisfy the requirement to make publicly available ratings history information in an XBRL format by using an XBRL format or any other machine-readable
 
@@ -386,9 +294,7 @@ Another commenter argued that requiring NRSROs to obtain such representations wo
 
 The Commission requested comment as to whether the NRSRO should be required to obtain a representation from the arranger that the arranger will not provide any information to the hired NRSRO that is material without also disclosing that information on the arranger’s Internet Web site. <sup>159</sup> The three commenters directly addressing this issue responded in the affirmative. <sup>160</sup> The Commission believes, however, that the representations the hired NRSRO will be required to obtain from an arranger, as set forth in paragraphs (a)(3)(iii)(C) and (D) as proposed, are sufficient to advance the purposes of the rule as amended. One commenter suggested that the Commission broaden the proposed amendment to permit unsolicited, subscriber-paid NRSROs to contact an arranger with questions regarding the information provided, or to be provided, on its password-protected Internet Web site for purposes of determining or monitoring a credit rating. <sup>161</sup> The Commission believes that the representations an NRSRO will be required to obtain from an arranger are sufficient to accomplish the goalsof the rule, as amended, and that it would be beyond the intended scope of the rule, as amended, to require arrangers to take on the responsibility of answering questions from the non-hired NRSROs obtaining access to the information that the arranger has disclosed.
 
-Finally, one commenter stated that arranger, trustee, servicer and special servicer information and reports should be included in the arrangers’ representation to disclose under paragraph (a)(3)(iii) of Rule 17g-5. <sup>162</sup> The Commission agrees with this comment. The Commission recognizes that in many cases, the data required to monitor the rating of a structured finance product is provided by third parties such as trustees or loan servicers. In proposing the amendments to paragraph (a) of Rule 17g-5, the Commission did not intend to exclude such information from disclosure to non-hired NRSROs and potentially provide arrangers with an incentive to delegate the provision of information regarding a structured finance product to third parties in order to avoid such disclosure. Accordingly, the Commission is adding the language “or contracts with a third party to provide to the nationally recognized statistical rating organization” to new paragraphs (a)(3)(iii)(C) and
-
-<h>D. of Rule 17g-5 in order to clarify that the proposed language “all information the issuer, sponsor, or underwriter provides to the nationally recognized statistical rating organization for the purpose of determining the initial credit rating for the security or money market instrument” and “all information the issuer, sponsor, or underwriter provides to the nationally recognized statistical rating organization for the purpose of undertaking credit rating surveillance on the security or money market instrument” includes all information the issuer, sponsor or underwriter provides to the hired NRSRO either directly or by contracting with a third party.</h>
+Finally, one commenter stated that arranger, trustee, servicer and special servicer information and reports should be included in the arrangers’ representation to disclose under paragraph (a)(3)(iii) of Rule 17g-5. <sup>162</sup> The Commission agrees with this comment. The Commission recognizes that in many cases, the data required to monitor the rating of a structured finance product is provided by third parties such as trustees or loan servicers. In proposing the amendments to paragraph (a) of Rule 17g-5, the Commission did not intend to exclude such information from disclosure to non-hired NRSROs and potentially provide arrangers with an incentive to delegate the provision of information regarding a structured finance product to third parties in order to avoid such disclosure. Accordingly, the Commission is adding the language “or contracts with a third party to provide to the nationally recognized statistical rating organization” to new paragraphs (a)(3)(iii)(C) and (D) of Rule 17g-5 in order to clarify that the proposed language “all information the issuer, sponsor, or underwriter provides to the nationally recognized statistical rating organization for the purpose of determining the initial credit rating for the security or money market instrument” and “all information the issuer, sponsor, or underwriter provides to the nationally recognized statistical rating organization for the purpose of undertaking credit rating surveillance on the security or money market instrument” includes all information the issuer, sponsor or underwriter provides to the hired NRSRO either directly or by contracting with a third party.
 
 The same commenter suggested that the Commission clarify that information made available to the arranger-paid NRSRO must be made available to the other NRSROs not only at the same time but also in the same manner, and with same search, access and other capabilities, as it is made available to the arranger-paid NRSRO. <sup>163</sup> The Commission notes that the nature of the relationship between the arranger and the hired NRSRO makes it inappropriate to mandate that all arranger information is made available in the same manner to non-hired NRSROs. For example, the rule as amended does not prohibit arrangers from continuing to deliver written materials directly to the hired NRSROs while posting that material on their password-protected Internet Web site for other NRSROs to access. Nevertheless, a hired NRSRO’s reliance on an arranger’s representations would not be reasonable if the arranger provided the information to non- hired NRSROs in an impaired manner such that it impeded the ability of the non-hired NRSROs to develop and maintain a credit rating.
 
@@ -402,9 +308,7 @@ The Commission also is adopting new paragraph (e) of Rule 17g-5 substantially as
 
 The undersigned hereby certifies that it will access the Internet Web sites described in 17 CFR §240.17g-5(a)(3) solely for the purpose of determining or monitoring credit ratings. Further, the undersigned certifies that it will keep the information it accesses pursuant to 17 CFR §240.17g- 5(a)(3) confidential and treat it as material nonpublic information subject to its written policies and procedures established, maintained, and enforced pursuant to section 15E(g)(1) of the Act (15 U.S.C. 78o-7(g)(1)) and 17 CFR§240.17g-4. Further, the undersigned certifies that it willdetermine and maintain credit ratings for at least 10% of the issued securities and money market instruments for which it accesses information pursuant to 17 CFR§240.17g-5(a)(3)(iii), if it accesses such information for 10 or more issued securities or money market instruments in the calendar year covered by the certification. Further, the undersigned certifies one of the following as applicable: (1) In the most recent calendar year during which it accessed information pursuant to 17 CFR §240.17g-5(a)(3), the undersigned accessed information for [Insert Number] issued securities and money market instruments through Internet Web sites described in 17 CFR §240.17g-5(a)(3) and determined and maintained credit ratings for [Insert Number] of such securities and money market instruments; or (2) The undersigned previously has not accessed information pursuant to 17 CFR §240.17g-5(a)(3) 10 or more times during the recently ended calendar year. <sup>164</sup>
 
-The 10% threshold set forth in paragraph (e) of Rule 17g-5, as amended, is designed to require the NRSRO accessing arranger Internet Web sites to determine a meaningful amount of credit ratings without forcing it to undertake work that it may not have the capacity or resources to perform. The Commission expressed its belief in the February 2009 Proposing Release that there should be some minimum level of credit ratings issued to demonstrate that the NRSRO is accessing the information for the purpose of determining credit ratings. On the other hand, if an NRSRO accesses information about a proposed deal that involves a structure or a type of assets that are new and that the NRSRO has not developed a methodology to incorporate into its ratings, it would not be appropriate or prudent to require the NRSRO to determine a credit rating. The requirement that the NRSRO list the number of times it accessed the information forissued securities and money market instruments and the number of credit ratings determined using that information on its next annual certification pursuant to paragraph
-
-<h>e. is designed to provide a level of verification that the NRSRO is, in fact, accessing the information for purposes of determining credit ratings.</h>
+The 10% threshold set forth in paragraph (e) of Rule 17g-5, as amended, is designed to require the NRSRO accessing arranger Internet Web sites to determine a meaningful amount of credit ratings without forcing it to undertake work that it may not have the capacity or resources to perform. The Commission expressed its belief in the February 2009 Proposing Release that there should be some minimum level of credit ratings issued to demonstrate that the NRSRO is accessing the information for the purpose of determining credit ratings. On the other hand, if an NRSRO accesses information about a proposed deal that involves a structure or a type of assets that are new and that the NRSRO has not developed a methodology to incorporate into its ratings, it would not be appropriate or prudent to require the NRSRO to determine a credit rating. The requirement that the NRSRO list the number of times it accessed the information forissued securities and money market instruments and the number of credit ratings determined using that information on its next annual certification pursuant to paragraph (e) is designed to provide a level of verification that the NRSRO is, in fact, accessing the information for purposes of determining credit ratings.
 
 The Commission received five comments on proposed paragraph (e) of Rule 17g-5. <sup>165</sup> Two commenters argued that NRSROs accessing arranger information pursuant to the rule should be required to provide confidentiality agreements to the arranger. <sup>166</sup> The Commission is not requiring NRSROs accessing this information to enter into a confidentiality agreement with the arrangers. However, the Commission is sensitive to the concerns of commenters advocating such a requirement, namely that an arranger has a confidentiality agreement it could enforce directly itself. Accordingly, the representations an NRSRO must obtain from an arranger will not prevent the arranger from employing a simple process requiring non-hired NRSROs to agree to keep the information they obtain from the arranger confidential, provided that such a process does not operate to preclude, discourage, or significantly impede non-hired NRSROs’ access to the information, or their ability to issue a credit rating based on the information. For example, an arranger could interpose a confidentiality agreement in a window (click- through screen) on the Internet Web site that appears after the NRSRO successfully enters its password to access the information and which requires the NRSRO to hit an “Agree” button before being directed to the information to be used to determine the credit rating. Presumably, this confidentiality agreement would contain the same terms as the confidentiality agreement between the arranger and the hired NRSRO. A process thateffectively operates to preclude, discourage, or significantly impede non-hired NRSROs’ access to the arranger’s information or ability to issue unsolicited ratings, however, would be contrary to the Commission’s purpose in adopting the rule as amended and, depending on the facts, may affect whether a hired NRSRO may reasonably rely on the arranger’s representations.
 
@@ -456,9 +360,9 @@ For the reasons discussed above, the Commission is adopting the amendments to Ru
 
 Certain provisions of the rule amendments contain a “collection of information” within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). The Commission published a notice requesting comment on the collection of information requirements in the February 2009 Proposing Release and submitted the proposed collection to the Office of Management and Budget (“OMB”) for review in accordance with the PRA. <sup>195</sup> An agency may not conduct or sponsor, and a person is not required to comply with, a collection of information unless it displays a currently valid control number. The titles for the collections of information are:
 
-<h>1. Rule 17g-2, Records to be made and retained by nationally recognized statistical rating organizations (OMB Control Number 3235-0628); and</h>
+1. Rule 17g-2, Records to be made and retained by nationally recognized statistical rating organizations (OMB Control Number 3235-0628); and
 
-<h>2. Rule 17g-5, Conflicts of interest (OMB Control Number 3235-0649).</h>
+2. Rule 17g-5, Conflicts of interest (OMB Control Number 3235-0649).
 
 The amendment to Regulation FD does not contain a collection of information within the meaning of the PRA.
 

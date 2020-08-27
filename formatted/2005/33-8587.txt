@@ -1,113 +1,3 @@
-https://www.sec.gov/rules/final/33-8587.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 ADOPTED RULES AND RULE AMENDMENTS
-
-		II..10.0 KSB, and Form 20-F to allow market participants and regulators to identify shell companies more easily.
-
-	II.A.0.0 Definition of “Shell Company”
-
-		II.A.1.0 Discussion of the Proposal
-
-		II.A.2.0 Comments on the Proposal
-
-		II.A.3.0 Final Rules
-
-		II.A.4.0 Definition of “Business Combination Related Shell Company”
-
-	II.B.0.0 Definition of “Succession”
-
-	II.C.0.0 Amendments to Securities Act Form S-8
-
-		II.C.1.0 Discussion of the Proposal
-
-		II.C.10.0 SB, or Form 20-F under Section 12(g) of the Exchange Act.39
-
-		II.C.2.0 Comments on the Proposal
-
-		II.C.3.0 Final Rule
-
-	II.D.0.0 Exchange Act Form 8-K
-
-		II.D.1.0 Discussion of the Proposal
-
-		II.D.2.0 Comments on the Proposal
-
-		II.D.3.0 Final Rule
-
-	II.E.0.0 Shell Companies that Are Foreign Private Issuers
-
-		II.E.1.0 Form S-8
-
-		II.E.2.0 Exchange Act Reporting of Transactions that Cause a Foreign Private Issuer to Cease Being a Shell Company
-
-	II.F.0.0 Shell Company Check Box on Exchange Act Reports
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-	III.A.0.0 Summary of Amendments
-
-	III.B.0.0 Summary of Comment Letters and Revisions to Proposals
-
-	III.C.0.0 Form S-8
-
-	III.D.0.0 Form 8-K
-
-	III.E.0.0 Form 20-F
-
-IV.0.0.0 COSTS AND BENEFITS
-
-	IV.A.0.0 Form S-8
-
-		IV.A.1.0 Costs of Form S-8 Amendments
-
-		IV.A.2.0 Benefits of Form S-8 Amendments
-
-	IV.B.0.0 Form 8-K
-
-		IV.B.1.0 Costs of Form 8-K Amendments
-
-			IV.B.1.a New Item 5.06 of Form 8-K
-
-			IV.B.1.b Revised Items 2.01 and 5.01 of Form 8-K
-
-		IV.B.2.0 Benefits of Form 8-K Amendments
-
-	IV.C.0.0 Form 20-F
-
-		IV.C.1.0 Costs of Form 20-F Amendment
-
-		IV.C.2.0 Benefits of Form 20-F Amendments
-
-V.0.0.0 CONSIDERATION OF IMPACT ON THE ECONOMY, BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Reasons for and Objectives of the Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comment
-
-	VI.C.0.0 Small Entities Subject to the Amendments
-
-	VI.D.0.0 Reporting, Record Keeping, and Other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-		VI.E.1.0 establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities;
-
-		VI.E.2.0 clarification, consolidation, or simplification of compliance and reporting requirements for such small entities;
-
-		VI.E.3.0 use of performance rather than design standards; and
-
-		VI.E.4.0 an exemption from coverage of the amendments, or any part thereof, for small entities.
-
-VII.0.0.0 STATUTORY BASIS AND TEXT
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 230, 239, 240 and 249
 
 [Release Nos. 33-8587; 34-52038; International Series Release No. 1293; File No. S7-19-04]
@@ -210,9 +100,7 @@ We proposed amendments to prohibit the use of Form S-8 by any shell company. As 
 
 Securities Act registration statement covering the transaction.
 
-A registration statement on Form 10, Form 10-SB, or Form 20-F provides investors with important information about the company in which they are considering investing. The 60-day delay between the filing of that information and the use of Form S-8 was intended to give employees and the markets sufficient time to absorb the information provided by the company in its Form 8-K or other filing. The 60-day period is consistent with the 60-day period between the filing and effectiveness of a company’s registration of a class of securities on Form 10, Form
-
-<h>10. SB, or Form 20-F under Section 12(g) of the Exchange Act.39</h>
+A registration statement on Form 10, Form 10-SB, or Form 20-F provides investors with important information about the company in which they are considering investing. The 60-day delay between the filing of that information and the use of Form S-8 was intended to give employees and the markets sufficient time to absorb the information provided by the company in its Form 8-K or other filing. The 60-day period is consistent with the 60-day period between the filing and effectiveness of a company’s registration of a class of securities on Form 10, Form 10. SB, or Form 20-F under Section 12(g) of the Exchange Act.39
 
 <h>2. Comments on the Proposal</h>
 
@@ -432,13 +320,13 @@ The amendments impose additional disclosure requirements on shell companies by r
 
 The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small businesses. In connection with the proposal, we considered the following alternatives:
 
-<h>1. establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities;</h>
+1. establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities;
 
-<h>2. clarification, consolidation, or simplification of compliance and reporting requirements for such small entities;</h>
+2. clarification, consolidation, or simplification of compliance and reporting requirements for such small entities;
 
-<h>3. use of performance rather than design standards; and</h>
+3. use of performance rather than design standards; and
 
-<h>4. an exemption from coverage of the amendments, or any part thereof, for small entities.</h>
+4. an exemption from coverage of the amendments, or any part thereof, for small entities.
 
 With respect to Alternative (1), the amendment to Form S-8 will prohibit shell companies from using the form. The amendments to Form 8-K will shorten the time within which shellcompanies must file their required financial disclosures from 71 calendar days after the initial Form 8-K filing to four business days after completion of the transaction that causes them to cease being shell companies. It would be inappropriate to establish a more liberal compliance standard for small businesses given that the current standard applies to all public companies; it is the current delay in the filing of the required financial statements that permits and facilitates abuse by shell companies. The amendments will increase costs only to shell companies, not to all small entities, by requiring former shell companies, upon making a significant acquisition, to file a Form 8-K containing the information that would be required in an initial registration statement on Form 10 or Form 10-SB to register a class of its securities under Section 12 of the Exchange Act.
 

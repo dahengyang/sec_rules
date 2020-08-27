@@ -1,115 +1,3 @@
-https://www.sec.gov/rules/final/2007/34-56135.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Description of the Amendments
-
-	II.A.0.0 Notice and Access Model for Issuers: Two Options for Making Proxy Materials Available to Shareholders
-
-		II.A.1.0 The Notice Only Option: Sending a Notice Without a Full Set of Proxy Materials
-
-			II.A.1.a Contents of the Notice of Internet Availability of Proxy Materials
-
-			II.A.1.b Design of the specified publicly-accessible Web site
-
-			II.A.1.c Means to vote
-
-			II.A.1.d Request for paper or e-mail copies
-
-			II.A.1.e Delivery of a proxy card
-
-			II.A.1.f Web site confidentiality
-
-		II.A.2.0 The Full Set Delivery Option: Sending a Notice with a Full Set of Proxy Materials
-
-			II.A.2.a Contents of the Notice or incorporation of Notice information
-
-		II.A.2.0 an annual report if one is required by Rule 14a-3(b) or Rule 14c-3(a), and (3) a proxy card or, in the case of a beneficial owner, a request for voting instructions, if proxies are being solicited.
-
-			II.A.2.b Design of the specified publicly-accessible Web site
-
-			II.A.2.c Means to vote
-
-			II.A.2.d Repeat Delivery of a Proxy Card
-
-			II.A.2.e Web site confidentiality
-
-		II.A.3.0 Differences Between the Full Set Delivery Option and the Notice Only Option
-
-			II.A.3.a Inclusion of a Full Set of Proxy Materials
-
-			II.A.3.b Request for Copies of the Proxy Materials
-
-			II.A.3.c 40-Day Deadline
-
-	II.B.0.0 Implications of the Notice and Access Model for Intermediaries
-
-	II.C.0.0 Reliance on the Notice and Access Model by Soliciting Persons Other Than the Issuer
-
-III.0.0.0 Clarifying Amendments
-
-	III.A.0.0 No Requirement to Provide Recommendations
-
-	III.B.0.0 Deadline for Responding to Requests for Copies After the Meeting
-
-	III.C.0.0 Item 4 of Schedule 14A
-
-IV.0.0.0 Compliance Dates
-
-		IV.C.1.0 the effect on voter participation; (2) the costs of implementing the model; and (3) the extent to which predicted savings are actually realized by companies and other soliciting
-
-V.0.0.0 Paperwork Reduction Act
-
-VI.0.0.0 Cost-Benefit Analysis
-
-	VI.A.0.0 Background
-
-	VI.B.0.0 Summary of the Amendments
-
-	VI.C.0.0 Benefits
-
-		VI.C.1.0 Versatility of the Internet
-
-		VI.C.2.0 Paper Processing Costs
-
-		VI.C.3.0 Reduction in the Cost of Proxy Contests
-
-		VI.C.4.0 Environmental Benefits
-
-	VI.D.0.0 Costs
-
-		VI.D.1.0 Costs Under the Notice Only Option
-
-		VI.D.2.0 Costs Under the Full Set Delivery Option
-
-		VI.D.3.0 Costs to Intermediaries
-
-		VI.D.4.0 Costs to Shareholders
-
-		VI.D.5.0 Comments Regarding Unanticipated Costs
-
-		VI.D.6.0 Comment on the Complexity of the Notice and Access Model
-
-VII.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation
-
-VIII.0.0.0 Final Regulatory Flexibility Analysis
-
-	VIII.A.0.0 Need for the Amendments
-
-	VIII.B.0.0 Significant Issues Raised by Public Comment
-
-	VIII.C.0.0 Small Entities Subject to the Amendments
-
-	VIII.D.0.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-	VIII.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-IX.0.0.0 Statutory Basis and Text of Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PART 240
 
 [RELEASE NOS. 34-56135; IC-27911; File No. S7-03-07] RIN 3235-AJ79
@@ -346,7 +234,7 @@ Issuers may household the Notice and other proxy materials pursuant to Rule 14a-
 
 Under the final rules that we are adopting, a separate Notice is not required if the issuer presents all of the information required in the Notice in its proxy statement and
 
-<h>2. an annual report if one is required by Rule 14a-3(b) or Rule 14c-3(a), and (3) a proxy card or, in the case of a beneficial owner, a request for voting instructions, if proxies are being solicited.proxy card. <sup>56</sup> In the proposing release, we solicited comment on whether we should permit the issuer that is sending a full set to incorporate the information required in the Notice into the proxy statement and proxy card, rather than require that issuer to prepare a separate Notice. Although we did not receive any comment on this issue, we do not see a compelling reason to require an issuer to include a separate Notice when it already is sending a shareholder a full set of proxy materials. We believe that providing the Notice information in the proxy materials will provide shareholders with sufficient information to access the materials on the Internet, while reducing costs to issuers. However, an issuer may prepare a separate Notice if it desires.</h>
+2. an annual report if one is required by Rule 14a-3(b) or Rule 14c-3(a), and (3) a proxy card or, in the case of a beneficial owner, a request for voting instructions, if proxies are being solicited.proxy card. <sup>56</sup> In the proposing release, we solicited comment on whether we should permit the issuer that is sending a full set to incorporate the information required in the Notice into the proxy statement and proxy card, rather than require that issuer to prepare a separate Notice. Although we did not receive any comment on this issue, we do not see a compelling reason to require an issuer to include a separate Notice when it already is sending a shareholder a full set of proxy materials. We believe that providing the Notice information in the proxy materials will provide shareholders with sufficient information to access the materials on the Internet, while reducing costs to issuers. However, an issuer may prepare a separate Notice if it desires.
 
 The information required in the Notice, or proxy materials if no separate Notice is prepared, includes much, but not all, of the information that is required under the notice only option, including the following: <sup>57</sup>
 
@@ -462,7 +350,7 @@ As stated above, the primary concern of most commenters on the proposal was the 
 
 Eight of these commenters were concerned that the short period between effectiveness of the voluntary model and adoption of the amendments in this release would not permit the Commission and the industry to properly evaluate the results of the voluntary model and prepare an adequate cost-benefit analysis. <sup>99</sup> Data that the commenters felt would be important to capture regarding the voluntary model included:
 
-<h>1. the effect on voter participation; (2) the costs of implementing the model; and (3) the extent to which predicted savings are actually realized by companies and other solicitingpersons. These commenters recommended that the Commission not adopt the proposed amendments until it has had the opportunity to assess the data received regarding companies’ experiences with the voluntary model.</h>
+1. the effect on voter participation; (2) the costs of implementing the model; and (3) the extent to which predicted savings are actually realized by companies and other solicitingpersons. These commenters recommended that the Commission not adopt the proposed amendments until it has had the opportunity to assess the data received regarding companies’ experiences with the voluntary model.
 
 With respect to costs, three of these commenters were concerned regarding the cost of adopting rules that would require issuers to develop, or hire outside services to develop, an Internet voting platform. <sup>100</sup> The rules that we are adopting do not require, and the proposals would not have required, such an Internet voting platform. Similarly, five commenters raised concerns regarding the ability of issuers to prepare their proxy materials at least 40 days before the date of the shareholder meeting, and costs associated with these efforts. <sup>101</sup> The rules that we are adopting do not require, and the proposal would not have required, all issuers to comply with the 40-day deadline if they are unable, or choose not, to do so.
 

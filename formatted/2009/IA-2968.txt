@@ -1,91 +1,3 @@
-https://www.sec.gov/rules/final/2009/ia-2968.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 Discussion
-
-	II.A.0.0 Delivery of Account Statements and Notice to Client
-
-	II.B.0.0 Annual Surprise Examination of Client Assets
-
-		II.B.1.0 Applicability of Surprise Examination
-
-			II.B.1.a Advisers with Limited Custody Due to Fee Deduction
-
-			II.B.1.b Pooled Investment Vehicle Audit
-
-		II.B.2.0 Commission Reporting
-
-		II.B.3.0 Privately Offered Securities
-
-		II.B.4.0 Guidance for Accountants
-
-	II.C.0.0 Custody by Adviser and Related Person
-
-		II.C.1.0 Internal Control Report
-
-		II.C.2.0 Related Persons
-
-		II.C.3.0 PCAOB Registration and Inspection
-
-	II.D.0.0 Liquidation Audit
-
-	II.E.0.0 Pooled Investment Vehicles
-
-	II.F.0.0 Delivery to Related Persons
-
-	II.G.0.0 Compliance Policies and Procedures
-
-	II.H.0.0 Amendments to Form ADV
-
-III.0.0.0 EFFECTIVE AND COMPLIANCE DATES
-
-	III.A.0.0 Effective Date
-
-	III.B.0.0 Compliance Dates and Related Rule Amendments
-
-		III.B.1.0 
-
-		III.B.2.0 Internal Control Reports
-
-		III.B.3.0 Audits of Pooled Investment Vehicles
-
-		III.B.4.0 Forms ADV and ADV-E
-
-IV.0.0.0 
-
-	IV.B.0.0 Form ADV
-
-	IV.C.0.0 Form ADV-E
-
-V.0.0.0 COST-BENEFIT ANALYSIS
-
-	V.A.0.0 Background
-
-	V.B.0.0 Benefits
-
-	V.C.0.0 Costs
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Need for the Rule
-
-	VI.B.0.0 Significant Issues Raised by Public Comment
-
-	VI.C.0.0 Small Entities Subject to Rule
-
-	VI.D.0.0 Projected Reporting, Recordkeeping, and other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 EFFECTS ON COMPETITION, EFFICIENCY AND CAPITAL FORMATION
-
-VIII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 275 and 279
@@ -352,7 +264,7 @@ Several commenters generally supported these amendments to Form ADV, an d many r
 
 In addition to providing the accountant’s name and address, advisers must indicate whether the accountant is registered with and subject to regular inspection by the PCAOB. Advisers must also indicate whether the accountant’s report contained an unqualified opinion. Section 9.C. of Schedule D to Part 1A of Form ADV. One commenter stated that we should not require advisers to report whether the accountants they, or their related persons, engage are registered with and subject to inspection by the PCAOB because this information is readily available on the PCAOB’s website. See AICPA Letter. An adviser, or related person custodian, would have to collect this information in the course of retaining an accountant to perform the necessary engagements to comply with the revised custody rule, and we expect that accountants would make these representations to their clients. As a result, reporting this information should not be burdensome to advisers.custodian, and the amount of assets of which a related person has custody, including when the related person serves as a qualified custodian. <sup>154</sup>
 
-I.	Amendments to Form ADV-E
+<h>I.	Amendments to Form ADV-E</h>
 
 We are adopting, as proposed, three amendments to the instructions to Form ADV-E. First, we have amended the form instructions to require that the form and the accompanying accountant’s examination certificate be filed electronically with the Commission through the IARD. <sup>155</sup> Advisers will, however, continue to file form ADV on paper until the IARD system begins accepting electronic filings of Form ADV-E, which we expect to occur sometime in late 2010. Investment advisers will be notified at that time. The second and third amendments we are adopting conform Form ADV-E instructions to amended rule 206(4)-(2), which, as discussed above, requires that (i) the surprise examination certificate must be filed within 120 days of the time chosen by the accountant for the surprise examination, <sup>156</sup> and (ii) a termination statement be filed by an accountant within four business days of its resignation, dismissal, or removal. <sup>157</sup><sup>153</sup><sup>154</sup>
 
@@ -402,7 +314,7 @@ An investment adviser to a pooled investment vehicle may rely on the annual audi
 
 Investment advisers registered with us must provide responses to the revised Form ADV in their first annual amendment after January 1, 2011. <sup>161</sup> Until the IARD system is upgraded to accept Form ADV-E, accountants performing surprise examinations should continue paper filing of Form ADV-E. Investment advisers will be notified as soon as the IARD system can accept filings of Form ADV-E. <sup>162</sup>
 
-<h>IV. </h>
+<h>IV. PAPERWORK REDUCTION ACT</h>
 
 Certain provisions of rule 206(4)-2, Form ADV, and Form ADV-E that we areamending today contain “collection of information” requirements within the meani ng of the Paperwork Reduction Act of 1995 (“PRA”). <sup>163</sup> In the Proposing Release, the Commission published notice soliciting comment on the collection of information requirements. The Commission submitted the collection of information requirements t othe Office of Management and Budget (“OMB”) for review in accordance with 44 U .S.C.3507(d) and 5 CFR 1320.11 under control numbers 3235-0241, 3235-0049, and 3235- 0361, respectively. The titles for the collections of information are “Rule 206(4)-2,
 
@@ -416,7 +328,7 @@ The collections of information under rule 206(4)-2 are necessary to ensure that 
 
 We also are adopting amendments to rule 204-2 that require approximately 337 advisers to maintain the internal control reports they obtain, or receive from related persons, and if these advisers have determined that the presumption that a related person is operationally independent has been overcome, a memorandum describing the basis upon which that determination was made. In addition, rule 204-2(a)(10) already requires an adviser to maintain all written agreements relating to its business as such, which would require an adviser to maintain the written agreement concerning the surprise examination required by the amended rule. The current approved collection of information burden for rule204-2 is 1,945,109 hours and has an estimated cost of $13,551,390 under OMB control number 3235-0278. The two new retention requirements and the additional writtennotification of any material discrepancies identified in a surprise examination pursuant to rule 206(4)-2(a)(4)(ii), responses provided to the Commission are not kept confidential.
 
-A.	Rule 206(4)-2
+<h>A.	Rule 206(4)-2</h>
 
 The Commission is adopting amendments to the custody rule under the Advisers Act. The amendments are designed to provide additional safeguards under the Advisers Act when a registered adviser has custody of client funds or securities by requiring such an adviser, among other things: (i) to undergo an annual surprise examination by an independent public accountant to verify client assets; (ii) to have a reasonable basis after due inquiry, for believing that the qualified custodian maintaining client funds and securities sends account statements directly to the advisory clients; and (iii) unless client assets are maintained by an independent custodian ( i.e ., a custodian that is not the adviser itself or a related person) to obtain or receive a report of the internal controls relating to the custody of those assets from an independent public accountant that is registered with and subject to regular inspection by the PCAOB.
 

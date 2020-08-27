@@ -1,285 +1,3 @@
-https://www.sec.gov/rules/final/2007/34-55857.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 TIMING OF FINAL RULES
-
-III.0.0.0 EFFECTIVE DATE
-
-IV.0.0.0 REVIEW OF COMMISSION RULES
-
-V.0.0.0 THE FINAL RULES
-
-	V.A.0.0 Rule 17g-1 – Registration Requirements
-
-		V.A.1.0 Paragraph (a) of Rule 17g-1
-
-		V.A.2.0 Paragraph (b) of Rule 17g-1
-
-		V.A.3.0 Paragraph (c) of Rule 17g-1
-
-		V.A.4.0 Paragraph (d) of Rule 17g-1
-
-		V.A.5.0 Paragraph (e) of Rule 17g-1
-
-		V.A.6.0 Paragraph (f) of Rule 17g-1
-
-		V.A.7.0 Paragraph (g) of Rule 17g-1
-
-		V.A.8.0 Paragraph (h) of Rule 17g-1
-
-		V.A.9.0 Paragraph (i) of Rule 17g-1
-
-	V.B.0.0 Form NRSRO
-
-		V.B.1.0 Checkboxes indicating nature of submission
-
-		V.B.2.0 Item 1 (Identifying information)
-
-		V.B.3.0 Certification
-
-		V.B.4.0 Item 2 (Legal status, place of formation, fiscal year end)
-
-		V.B.5.0 Item 3 (Credit Rating Affiliates)
-
-		V.B.6.0 Item 4 (Compliance officer)
-
-		V.B.7.0 Item 5 (Method of making Form and Exhibits publicly available)
-
-		V.B.8.0 Item 6 (Classes of credit ratings for which registration is sought and QIB certifications)
-
-		V.B.3.0 at least two of the certifications must address each category of obligor.105 Section 15E(a)(1)(C)(iv) provides that the QIB must state in the certification that it meets the definition of a “QIB” in Section 3(a)(64) of the Exchange Act106 and that the QIB has used the credit ratings of the applicant for at least three years immediately preceding the
-
-		V.B.9.0 Item 7 (Classes of credit ratings covered by current registration)
-
-		V.B.10.0 Item 8 (Potential statutory disqualifications)
-
-		V.B.11.0 Exhibit 1 (Credit Ratings Performance Statistics)
-
-		V.B.12.0 Exhibit 2 (Procedures and methodologies for determining credit ratings)
-
-		V.B.13.0 Exhibit 3 (Procedures to prevent the misuse of material non- public information)
-
-		V.B.14.0 Exhibit 4 (Organizational information)
-
-		V.B.15.0 Exhibit 5 (Code of Ethics)
-
-		V.B.16.0 Exhibit 6 (Conflicts of interest)
-
-		V.B.17.0 Exhibit 7 (Procedures to manage conflicts)
-
-		V.B.18.0 Exhibit 8 (Credit Analyst Information)
-
-		V.B.19.0 Exhibit 9 (Designated Compliance Officer)
-
-		V.B.20.0 Exhibit 10 (List of large users of credit rating services)
-
-		V.B.21.0 Exhibit 11 (Audited Financial Statements)
-
-		V.B.22.0 Exhibit 12 (Revenues)
-
-		V.B.23.0 Exhibit 13 (Analyst Compensation)
-
-	V.C.0.0 Rule 17g-2 – Recordkeeping
-
-		V.C.1.0 Paragraph (a) of Rule 17g-2
-
-			V.C.1.a Paragraph (a)(1) of Rule 17g-2
-
-			V.C.1.b Paragraph (a)(2) of Rule 17g-2
-
-			V.C.1.c Paragraph (a)(3) of Rule 17g-2
-
-			V.C.1.d Paragraph (a)(4) of Rule 17g-2
-
-			V.C.1.e Paragraph (a)(5) of Rule 17g-2
-
-			V.C.1.f Paragraph (a)(6) of Rule 17g-2
-
-			V.C.1.g Paragraph (a)(7) of Rule 17g-2
-
-		V.C.2.0 Paragraph (b) of Rule 17g-2
-
-			V.C.2.a Paragraph (b)(1) of Rule 17g-2
-
-			V.C.2.b Paragraph (b)(2) of Rule 17g-2
-
-			V.C.2.c Paragraph (b)(3) of Rule 17g-2
-
-			V.C.2.d Paragraph (b)(4) of Rule 17g-2
-
-			V.C.2.e Paragraph (b)(5) of Rule 17g-2
-
-			V.C.2.f Paragraph (b)(6) of Rule 17g-2
-
-			V.C.2.g Paragraph (b)(7) of Rule 17g-2
-
-			V.C.2.h Paragraph (b)(8) of Rule 17g-2
-
-		V.C.3.0 Paragraph (c) of Rule 17g-2
-
-		V.C.4.0 Paragraph (d) of Rule 17g-2
-
-		V.C.5.0 Paragraph (e) of Rule 17g-2
-
-		V.C.6.0 Paragraph (f) of Rule 17g-2
-
-		V.C.7.0 Non-resident NRSROs
-
-	V.D.0.0 Rule 17g-3 – Annual Financial Reports
-
-		V.D.1.0 Paragraph (a) to Rule 17g-3
-
-			V.D.1.a Paragraph (a)(1): Audited Financial Statements
-
-			V.D.1.b Paragraph (a)(2): Consolidating Financial Statements
-
-			V.D.1.c Paragraph (a)(3): Revenue Information
-
-			V.D.1.d Paragraph (a)(4): Credit Analyst Compensation
-
-			V.D.1.e Paragraph (a)(5): List of Large Customers
-
-		V.D.2.0 Paragraph (b) of Rule 17g-3
-
-		V.D.3.0 Paragraph (c) of Rule 17g-3
-
-	V.E.0.0 Rule 17g-4 – Procedures to Prevent the Misuse of Material, Nonpublic Information
-
-		V.E.1.0 Paragraph (a)(1) of Rule 17g-4
-
-		V.E.2.0 Paragraph (a)(2) of Rule 17g-4
-
-		V.E.3.0 Paragraph (a)(3) of Rule 17g-4
-
-		V.E.4.0 Paragraph (b) of Rule 17g-4
-
-	V.F.0.0 Proposed Rule 17g-5 – Management of Conflicts of Interest
-
-		V.F.1.0 Paragraph (a) of Rule 17g-5
-
-		V.F.2.0 Paragraph (b) of Rule 17g-5
-
-			V.F.2.a Paragraph (b)(1) Rule 17g-5
-
-			V.F.2.b Paragraph (b)(2) of Rule 17g-5
-
-			V.F.2.c Paragraph (b)(3) of Rule 17g-5
-
-			V.F.2.d Paragraph (b)(4) of Rule 17g-5
-
-			V.F.2.e Paragraph (b)(5) of Rule 17g-5
-
-			V.F.2.f Paragraph (b)(6) of Rule 17g-5
-
-			V.F.2.g Paragraph (b)(7) of Rule 17g-5
-
-			V.F.2.h Paragraph (b)(8) of Rule 17g-5
-
-			V.F.2.i Paragraph (b)(9) of Rule 17g-5
-
-		V.F.3.0 Paragraph (c) of Rule 17g-5
-
-			V.F.3.a Paragraph (c)(1) of Rule 17g-5
-
-			V.F.3.b Paragraph (c)(2) of Rule 17g-5
-
-			V.F.3.c Paragraph (c)(3) of Rule 17g-5
-
-			V.F.3.d Paragraph (c)(4) of Rule 17g-5
-
-	V.F.0.0 Rule 17g-6 – Prohibited Unfair, Coercive, or Abusive Practices
-
-		V.F.1.0 Paragraph (a)(1) of Rule 17g-6
-
-		V.F.2.0 Paragraphs (a)(2) and (a)(3) of Rule 17g-6
-
-		V.F.3.0 Paragraph (a)(4) of Rule 17g-6
-
-			V.F.3.a Structured Product Credit Rating Practices
-
-			V.F.3.b Proposed Rule 17g-6(a)(4)
-
-			V.F.3.c Comments on Proposed Rule 17g-6(a)(4)
-
-			V.F.3.d Final Rule 17g-6(a)(4)
-
-			V.F.3.e Enhanced Recordkeeping Requirements
-
-V.0.0.0 PAPERWORK REDUCTION ACT
-
-		V.F.1.0 Rule 17g-1, Application for registration as a nationally recognized statistical rating organization; Form NRSRO and the Instructions for Form NRSRO;
-
-		V.F.2.0 Rule 17g-2, Records to be made and retained by national recognized statistical rating organizations;
-
-		V.F.3.0 Rule 17g-3, Annual financial reports to be furnished by nationally recognized statistical rating organizations; and
-
-		V.F.4.0 Rule 17g-4, Prevention of Misuse of Material Nonpublic Information.
-
-	V.A.0.0 Collections of Information in the Rules
-
-	V.B.0.0 Use of the Information
-
-	V.C.0.0 Respondents
-
-	V.D.0.0 Total Annual Recordkeeping and Reporting Burden
-
-		V.D.1.0 Rule 17g-1, Form NRSRO, and Instructions for Form NRSRO
-
-		V.D.2.0 Rule 17g-2
-
-		V.D.3.0 Rule 17g-3
-
-		V.D.4.0 Rule 17g-4
-
-	V.E.0.0 Collection of Information Is Mandatory
-
-	V.F.0.0 Confidentiality
-
-	V.G.0.0 Record Retention Period
-
-	V.H.0.0 Request for Comment
-
-VI.0.0.0 COSTS AND BENEFITS OF THE RULES
-
-	VI.A.0.0 Benefits
-
-	VI.B.0.0 Costs
-
-		VI.B.1.0 Rule 17g-1, Form NRSRO and Instructions to Form NRSRO
-
-		VI.B.2.0 Rule 17g-2
-
-		VI.B.3.0 Rule 17g-3
-
-		VI.B.4.0 Rule 17g-4
-
-		VI.B.5.0 Rules 17g-5 and 17g-6
-
-VII.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
-
-VIII.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VIII.A.0.0 Need for and Objective of the Rules
-
-	VIII.B.0.0 Significant Issues Raised by Commenters
-
-	VIII.C.0.0 Legal Basis
-
-	VIII.D.0.0 Small Entities Subject to the Rule
-
-	VIII.E.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VIII.F.0.0 Duplicative, Overlapping, or Conflicting Federal Rules
-
-	VIII.G.0.0 Significant Alternatives
-
-IX.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 240 and 249b
@@ -494,7 +212,7 @@ For these reasons, the Commission is adopting Item 3 to Form NRSRO as described 
 
 As adopted, Item 4 requires an applicant and NRSRO to provide the name and address of its designated compliance officer required under Section 15E(j) of the Exchange Act. <sup>93</sup> This person is responsible for administering the policies and procedures of the credit rating agency to prevent the misuse of nonpublic information, to manage conflicts of interest, and to ensure compliance with the securities laws and the rules and regulations under those laws. The Commission did not receive any comments on this provision and is adopting it substantially as proposed.
 
-<h>7. Item 5 (Method of making Form and Exhibits publicly available)<sup>93</sup> 15 U.S.C. 78o-7(j). <sup>94</sup> 15 U.S.C. 78o-7(a)(3). <sup>95</sup> Id . As adopted, Item 5 requires an applicant and NRSRO to describe how it will make, or makes, its current Form NRSRO and Exhibits 1 through 9 publicly available pursuant to Section 15E(a)(3) of the Exchange Act <sup>94</sup> and Rule 17g-1(i) thereunder. As discussed above, paragraph (i) of Rule 17g-1 is being adopted under Section 15E(a)(3) of the Exchange Act, which provides that the Commission shall, by rule, require an NRSRO, upon the granting of its registration, to make the information submitted to the Commission in the initial application, amendments, or annual certifications publicly available on the NRSRO’s Web site or through another comparable, readily accessible means. <sup>95</sup> As discussed above, paragraph (i) of Rule 17g-1 requires an NRSRO to make its current Form NRSRO and Exhibits 1 through 9 publicly available within 10 business days after the date of the Commission order granting an initial application and an application to be registered in an additional class of credit ratings and within 10 businessdays after furnishing the Commission with an amendment on Form NRSRO (including an annual certification and withdrawal of registration). This information elicited in Item 5 will assist the Commission in reviewing whether the NRSRO is complying with this requirement and assist the public in locating the information.</h>
+<h>7. Item 5 (Method of making Form and Exhibits publicly available)</h><sup>93</sup> 15 U.S.C. 78o-7(j). <sup>94</sup> 15 U.S.C. 78o-7(a)(3). <sup>95</sup> Id . As adopted, Item 5 requires an applicant and NRSRO to describe how it will make, or makes, its current Form NRSRO and Exhibits 1 through 9 publicly available pursuant to Section 15E(a)(3) of the Exchange Act <sup>94</sup> and Rule 17g-1(i) thereunder. As discussed above, paragraph (i) of Rule 17g-1 is being adopted under Section 15E(a)(3) of the Exchange Act, which provides that the Commission shall, by rule, require an NRSRO, upon the granting of its registration, to make the information submitted to the Commission in the initial application, amendments, or annual certifications publicly available on the NRSRO’s Web site or through another comparable, readily accessible means. <sup>95</sup> As discussed above, paragraph (i) of Rule 17g-1 requires an NRSRO to make its current Form NRSRO and Exhibits 1 through 9 publicly available within 10 business days after the date of the Commission order granting an initial application and an application to be registered in an additional class of credit ratings and within 10 businessdays after furnishing the Commission with an amendment on Form NRSRO (including an annual certification and withdrawal of registration). This information elicited in Item 5 will assist the Commission in reviewing whether the NRSRO is complying with this requirement and assist the public in locating the information.</h>
 
 The Commission did not receive any comments on this provision and is adopting it substantially as proposed.
 
@@ -514,9 +232,7 @@ One commenter stated that Item 6, as proposed, does not elicit information that 
 
 Finally, Item 6 requires the applicant to provide the QIB certifications mandated pursuant to Section 15E(a)(1)(B)(ix) of the Exchange Act. <sup>102</sup> Under this provision, an applicant must submit a minimum of ten QIB certifications. An NRSRO will not be required to make the QIB certifications publicly available pursuant to Section 15E(a)(3) of the Exchange Act <sup>103</sup> and Rule 17g-1(i) thereunder or update them after registration. <sup>104</sup>
 
-Sections 15E(a)(1)(C)(i), (ii), and (iii) further provide, respectively, that: (1) the certifying QIB must not be affiliated with the applicant; (2) the certification may address more than one of the categories of obligors identified in the definition of NRSRO; and
-
-<h>3. at least two of the certifications must address each category of obligor.105 Section 15E(a)(1)(C)(iv) provides that the QIB must state in the certification that it meets the definition of a “QIB” in Section 3(a)(64) of the Exchange Act106 and that the QIB has used the credit ratings of the applicant for at least three years immediately preceding thedate of the application in the subject category or categories of obligors. <sup>107</sup> The Senate report (“Senate Report”) accompanying the Rating Agency Act explained that the term “used” was intended to mean the QIB “seriously considered the ratings in some of [its] investment decisions.” <sup>108</sup> The Senate Report further explained that “a QIB whose analysts regularly read and consider [a credit rating agency’s] ratings in the course of making investment decisions would have “used” them under the meaning of the bill.” <sup>109</sup> The required representation for the QIB certification is that the QIB “has seriously considered the credit ratings of [the credit rating agency] in the course of making some of its investment decisions for at least the three years immediately preceding the date of this certification, in the following classes of credit ratings.” In addition, as a measure designed to ensure the impartiality of the QIB’s representation, the QIB must certify that it has not received compensation for providing the certification.</h>
+Sections 15E(a)(1)(C)(i), (ii), and (iii) further provide, respectively, that: (1) the certifying QIB must not be affiliated with the applicant; (2) the certification may address more than one of the categories of obligors identified in the definition of NRSRO; and (3) at least two of the certifications must address each category of obligor.105 Section 15E(a)(1)(C)(iv) provides that the QIB must state in the certification that it meets the definition of a “QIB” in Section 3(a)(64) of the Exchange Act106 and that the QIB has used the credit ratings of the applicant for at least three years immediately preceding thedate of the application in the subject category or categories of obligors. <sup>107</sup> The Senate report (“Senate Report”) accompanying the Rating Agency Act explained that the term “used” was intended to mean the QIB “seriously considered the ratings in some of [its] investment decisions.” <sup>108</sup> The Senate Report further explained that “a QIB whose analysts regularly read and consider [a credit rating agency’s] ratings in the course of making investment decisions would have “used” them under the meaning of the bill.” <sup>109</sup> The required representation for the QIB certification is that the QIB “has seriously considered the credit ratings of [the credit rating agency] in the course of making some of its investment decisions for at least the three years immediately preceding the date of this certification, in the following classes of credit ratings.” In addition, as a measure designed to ensure the impartiality of the QIB’s representation, the QIB must certify that it has not received compensation for providing the certification.
 
 The certification must be executed by a person duly authorized by the QIB to make the certification on behalf of the QIB. This is designed to ensure that the certification is that of the QIB and not an employee of the QIB who may have an interest (distinct from that of the QIB) in providing the certification to the applicant. The form of the certification now requires that the printed name and title of the person be providedunder the signature. This will clarify the identity and level of responsibility of the person executing the certification.
 
@@ -1380,7 +1096,9 @@ These records will permit Commission examiners to review on a case-by-case basis
 
 See 17 CFR 240.17g-2(b)(8).rated assets. One commenter that strongly supports prohibiting these practices states that credit rating agencies engaging in these practices notch down assets they have rated in the highest credit rating categories even though studies suggest that its credit ratings perform comparably. <sup>482</sup>
 
-The Commission believes this provision is necessary or appropriate in the public interest or for the protection of investors because it will assist the Commission in reviewing whether these practices are being engaged in with anticompetitive intent in violation of Rule 17g-6(a)(4).5.	Unsolicited credit ratings
+The Commission believes this provision is necessary or appropriate in the public interest or for the protection of investors because it will assist the Commission in reviewing whether these practices are being engaged in with anticompetitive intent in violation of Rule 17g-6(a)(4).
+
+<h>4.	Unsolicited credit ratings</h>
 
 In the proposing release, the Commission preliminarily determined that it would be unfair, coercive, or abusive to issue an unsolicited credit rating and communicate with the issuer or obligor to induce or attempt to induce them to pay for the credit rating or another product or service of the NRSRO or its affiliates. Consequently, paragraph (a)(5) of proposed Rule 17g-6 would have prohibited this practice.
 
@@ -1396,13 +1114,13 @@ An agency may not conduct or sponsor, and a person is not required to comply wit
 
 The titles for the collections of information are:
 
-<h>1. Rule 17g-1, Application for registration as a nationally recognized statistical rating organization; Form NRSRO and the Instructions for Form NRSRO;</h>
+1. Rule 17g-1, Application for registration as a nationally recognized statistical rating organization; Form NRSRO and the Instructions for Form NRSRO;
 
-<h>2. Rule 17g-2, Records to be made and retained by national recognized statistical rating organizations;</h>
+2. Rule 17g-2, Records to be made and retained by national recognized statistical rating organizations;
 
-<h>3. Rule 17g-3, Annual financial reports to be furnished by nationally recognized statistical rating organizations; and<sup>485</sup></h>
+3. Rule 17g-3, Annual financial reports to be furnished by nationally recognized statistical rating organizations; and<sup>485</sup>
 
-<h>4. Rule 17g-4, Prevention of Misuse of Material Nonpublic Information.44 U.S.C. 3501 et seq .; 5 CFR 1320.11.</h>
+4. Rule 17g-4, Prevention of Misuse of Material Nonpublic Information.44 U.S.C. 3501 et seq .; 5 CFR 1320.11.
 
 <h>A. Collections of Information in the Rules</h>
 

@@ -1,73 +1,3 @@
-https://www.sec.gov/rules/final/2008/34-57526.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Amendments
-
-	II.A.0.0 Electronic Filing
-
-	II.B.0.0 Posting of Rule 19b-7 Proposed Rule Changes on SRO Web sites
-
-	II.C.0.0 Requirement to Update Rule Text on SRO Web Sites
-
-		II.C.1.0 New Paragraph (g) of Rule 19b-7
-
-		II.C.2.0 Amendments to Paragraph (m) of Rule 19b-4
-
-		II.C.1.0 the Commission’s approval of the proposed rule change; or (2) the SRO’s filing of a written certification with the CFTC under Section 5c(c) of the Commodity Exchange Act, notice from the CFTC that it has determined that review of the proposed rule change is not necessary, or notice from the CFTC that it has approved the proposed rule change.
-
-	II.D.0.0 Form 19b-7 Amendments
-
-		II.D.1.0 Form 19b-7 Amendments
-
-		II.D.2.0 Accurate, Consistent, and Complete Forms 19b-7
-
-	II.E.0.0 Amendments to Form 19b-4
-
-	II.F.0.0 Date of Effectiveness of the Proposal
-
-III.0.0.0 Paperwork Reduction Act
-
-	III.A.0.0 Summary of Collection of Information
-
-	III.B.0.0 Use of Information
-
-	III.C.0.0 Respondents
-
-	III.D.0.0 Total Annual Reporting and Recordkeeping Burden
-
-		III.D.1.0 Background
-
-		III.D.2.0 Rule 19b-7 and Form 19b-7
-
-		III.D.3.0 Posting of Proposed Rule Changes filed under Rule 19b-7 on SRO Web sites
-
-		III.D.4.0 SRO Rule Text
-
-		III.D.5.0 Total Annual Reporting Burden
-
-	III.E.0.0 Retention Period of Recordkeeping Requirements
-
-	III.F.0.0 Collection of Information is Mandatory
-
-	III.G.0.0 Responses to Collection of Information Will Not Be Kept Confidential
-
-IV.0.0.0 Costs and Benefits of the Rulemaking
-
-	IV.A.0.0 Benefits
-
-	IV.B.0.0 Costs
-
-V.0.0.0 Consideration of the Burden on Competition, Promotion of Efficiency, and Capital Formation
-
-VI.0.0.0 Regulatory Flexibility Act Certifications
-
-VII.0.0.0 Statutory Basis and Text of Proposed Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 240 and 249
@@ -154,7 +84,7 @@ The Commission also proposed to make a conforming change to Ruletechnology on th
 
 In addition, in response to comments from the NFA, the Commission is modifying Rule 19b-4(m) as it applies to an exchange registered with the Commission under Section 6(g) or a limited purpose national securities association registered under Section 15A(k) with regard to the period within which it must update its rule text on its Web site. An Exchange registered with the Commission under Section 6(g) of the Act <sup>33</sup> or a limited purpose national securities association registered under Section 15A(k) of the Act, <sup>34</sup> may be required to file certain proposed rule changes under Section 19(b)(2) of the Act. Such proposed rule changes do not become effective until: (1) the Commission approved the proposal; and (2) the SRO filed with the CFTC a written certification, the CFTC determined that review of the proposed rule change is not necessary, or the CFTC approved the proposed rule change. Accordingly, the final rule the Commission is adopting provides that an exchange that is registered with the Commission under Section 6(g) of the Act or a limited purpose national securities association registered under Section 15A(k) of the Act, is required to update its rule text on its Web site to reflect rule changes filed under Section 19(b)(2) of the Act within two business days of the later of:
 
-<h>1. the Commission’s approval of the proposed rule change; or (2) the SRO’s filing of a written certification with the CFTC under Section 5c(c) of the Commodity Exchange Act, notice from the CFTC that it has determined that review of the proposed rule change is not necessary, or notice from the CFTC that it has approved the proposed rule change.</h>
+1. the Commission’s approval of the proposed rule change; or (2) the SRO’s filing of a written certification with the CFTC under Section 5c(c) of the Commodity Exchange Act, notice from the CFTC that it has determined that review of the proposed rule change is not necessary, or notice from the CFTC that it has approved the proposed rule change.
 
 The Commission believes these modifications to the proposal are appropriate because they reflect the practical effect of the fact that exchanges registered under Section 6(g) of the Act and national securities association registered under Section 15A(k) of the Act are also regulated by the CFTC. Under this dual regulatory scheme, proposed rule changes must become effective under both the Act and the CEA. The final rule makes clear that such an SRO’s obligation to update its Web site to reflect rule changes arises only after such rule changes have become effective under both the Act and the CEA.
 

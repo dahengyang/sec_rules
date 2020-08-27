@@ -1,473 +1,3 @@
-https://www.sec.gov/rules/final/33-8591.pdf
-
-I.0.0.0 Introduction
-
-	I.A.0.0 Overview
-
-	I.B.0.0 Background
-
-		I.B.1.0 Advances in Technology
-
-		I.B.2.0 Exchange Act Reporting Standards
-
-II.0.0.0 Well-Known Seasoned Issuers; Other Categories of Issuers
-
-	II.A.0.0 Well-Known Seasoned Issuers
-
-		II.A.1.0 Definition of Well-Known Seasoned Issuer
-
-			II.A.1.a Market Capitalization Threshold
-
-			II.A.1.b Registered Offerings of Non-Convertible Securities Threshold
-
-		II.A.2.0 Timing of Determination of Well-Known Seasoned Issuer Status
-
-		II.A.3.0 Well-Known Seasoned Issuers’ Securities Offerings
-
-		II.A.4.0 Comments Regarding the Definition of Well-Known Seasoned Issuer
-
-	II.B.0.0 Other Categories of Issuers
-
-III.0.0.0 Communications Rules
-
-	III.A.0.0 Communications Requirements Prior to Today’s Rules and Amendments
-
-	III.B.0.0 Need for Modernization of Communications Requirements
-
-		III.B.1.0 General
-
-		III.B.2.0 Definition of Written Communication
-
-			III.B.2.a “Written Communication” and “Graphic Communication”
-
-			III.B.2.b Comments Regarding Proposals
-
-	III.C.0.0 Overview of Communications Rules
-
-	III.D.0.0 Communications Rules
-
-		III.D.1.0 Permitted Continuation of Ongoing Communications During an Offering
-
-			III.D.1.a Overview
-
-			III.D.1.b Exception for Regularly Released Factual Business and Forward-Looking Information – Available to Reporting Issuers
-
-	III.A.0.0 Scope of the Safe Harbor
-
-	III.B.0.0 Comments on the Scope of the Safe Harbor
-
-	III.A.0.0 “By or on Behalf of” the Issuer
-
-		III.A.1.0 Definition
-
-		III.A.2.0 Comments on Definition
-
-	III.B.0.0 Regularly Released Information
-
-		III.B.1.0 Regularly Released Condition
-
-		III.B.2.0 Comments on Regularly Released Condition
-
-	III.C.0.0 Exclusion for Offering-Related Information
-
-		III.C.1.0 Scope of Exclusion
-
-		III.C.2.0 Comments on Exclusion
-
-			III.C.2.c Exception for Regularly Released Factual Business Information –
-
-		III.C.2.0 Other Permitted Communications Prior to Filing a Registration Statement
-
-			III.C.2.a 30-Day Bright-Line Exclusion From the Prohibition on Offers Prior to Filing a Registration Statement – All Issuers
-
-			III.C.2.b Permitted Pre-Filing Offers for Well-Known Seasoned Issuers
-
-		III.C.3.0 Relaxation of Restrictions on Written Offering-Related Communications
-
-			III.C.3.a Rule 134
-
-			III.C.3.b Permissible Use of Free Writing Prospectuses
-
-	III.A.0.0 Scope of Definition
-
-	III.B.0.0 Comments on Definition
-
-	III.A.0.0 Overview
-
-	III.B.0.0 Issuer Eligibility
-
-		III.B.1.0 Comments on Ineligible Issuer Definition
-
-	III.C.0.0 Conditions to Permitted Use of a Free Writing Prospectus
-
-		III.C.1.0 Prospectus Delivery or Availability
-
-			III.C.1.a Prospectus Delivery Conditions for Non-Reporting Issuers and Unseasoned Issuers
-
-			III.C.1.b Prospectus Availability Condition for Seasoned Issuers and Well-Known Seasoned Issuers
-
-			III.C.1.a offerings of securities registered on Form S-3 pursuant to General Instruction I.B.1, I.B.2, I.B.5, I.C., or I.D. thereof;
-
-			III.C.1.b offerings of securities registered on Form F-3 pursuant to General Instruction I.A.5, I.B.1, I.B.2,, or I.C thereof;
-
-			III.C.1.c Comments on Prospectus Delivery or Availability Conditions
-
-			III.C.1.c any other offering not excluded from reliance on Rule 164 and Rule 433 of a well-known seasoned issuer; and
-
-			III.C.1.d any other offering not excluded from reliance on Rule 164 and Rule 433 of an issuer eligible to use Form S-3 or Form F-3 for primary offerings pursuant to General Instruction I.B.1 of such forms.
-
-		III.C.2.0 Information in a Free Writing Prospectus
-
-			III.C.2.a Information Conditions
-
-			III.C.2.b Amendment to Rule 408
-
-			III.C.2.c Legend Condition
-
-		III.C.3.0 Filing Conditions
-
-			III.C.3.a General Conditions
-
-		III.C.1.0 factual information regarding the asset-backed securities being offered and the structure and basic parameters of the securities, such as the number of classes, seniority, payment priorities, terms of payment, the tax, ERISA or other legal conclusions of counsel, and descriptive information relating to each class (e.g., principal amount, coupon, minimum denomination, price or anticipated price, yield, weighted average life, credit enhancements, anticipated ratings, and other similar information relating to the proposed structure of the offering);
-
-		III.C.2.0 factual information regarding the pool assets underlying the asset-backed securities, including origination, acquisition and pool selection criteria, information regarding any prefunding or revolving period applicable to the offering, information regarding significant obligors, data regarding the contractual and related characteristics of the underlying pool assets (e.g., weighted average coupon, weighted average maturity, delinquency and loss information and geographic distribution) and other factual information concerning the parameters of the asset pool appropriate to the nature of the underlying assets, such as the type of assets comprising the pool and the programs under which the loans were originated;
-
-		III.C.3.0 identification of key parties to the transaction, such as servicers, trustees, depositors, sponsors, originators and providers of credit enhancement or other support, including information about any such party;
-
-		III.C.4.0 static pool data, as referenced in Item 1105 of Regulation AB [17 CFR 229.1105], such as for the sponsor's and/or servicer's portfolio, prior transactions or the asset pool itself; and
-
-		III.C.5.0 to the extent that the information is provided by the issuer, depositor, affiliated depositor, or sponsor, statistical information displaying for a particular class of asset-backed securities the yield, average life, expected maturity, interest rate sensitivity, cash flow characteristics, total rate of return, option adjusted spread or other financial or statistical information relating to the class or classes under specified prepayment, interest rate, loss or other hypothetical scenarios. (Where such information is prepared by an underwriter or dealer, it is not issuer information, even when derived from issuer information.)
-
-		III.C.1.0 factual information regarding the asset-backed securities being offered and the structure and basic parameters of the securities, such as the number of classes, seniority, payment priorities, terms of payment, the tax, ERISA or other legal conclusions of counsel, and descriptive information relating to each class (e.g., principal amount, coupon, minimum denomination, anticipated price, yield, weighted average life, credit enhancements, anticipated ratings, and other similar
-
-		III.C.2.0 factual information regarding the pool assets underlying the asset-backed securities, including origination, acquisition and pool selection criteria, information regarding any prefunding or revolving period applicable to the offering, information regarding significant obligors, data regarding the contractual and related characteristics of the underlying pool assets (e.g., weighted average coupon, weighted average maturity, delinquency and loss information and geographic distribution) and other factual information concerning the parameters of the asset pool appropriate to the nature of the underlying assets, such as the type of assets comprising the pool and the programs under which the loans were originated;
-
-		III.C.3.0 identification of key parties to the transaction, such as servicers, trustees, depositors, sponsors, originators and providers of credit enhancement or other support, including a brief description of each such party’s roles, responsibilities, background and experience;
-
-		III.C.4.0 static pool data;
-
-		III.C.5.0 the names of underwriters participating in the offering of the securities, and their additional roles, if any, within the underwriting syndicate;
-
-		III.C.6.0 the anticipated schedule for the offering (including the approximate date upon which the proposed sale to the public will begin) and a description of marketing events (including the dates, times, locations, and procedures for attending or otherwise accessing them); and
-
-		III.C.7.0 a description of the procedures by which the underwriters will conduct the offering and the procedures for transactions in connection with the offering with an underwriter or participating dealer (including procedures regarding account- opening and submitting indications of interest and conditional offers to buy).
-
-			III.C.7.b Immaterial or Unintentional Failures to File
-
-		III.C.4.0 Record Retention Condition
-
-			III.C.4.a Discussion
-
-			III.C.4.b Immaterial or Unintentional Failure to Retain a Free Writing Prospectus
-
-	III.D.0.0 Road Shows
-
-		III.D.1.0 Definition of Electronic Road Show
-
-		III.D.2.0 Treatment of Electronic Road Shows
-
-		III.D.3.0 Comments on Electronic Road Shows
-
-	III.E.0.0 Treatment of Communications on Web Sites and Other Electronics Issues
-
-		III.E.1.0 General
-
-		III.E.2.0 Historical Information on an Issuer Web Site
-
-		III.E.3.0 Comments on Treatment of Communications on Web Sites and Other Electronics Issues
-
-	III.F.0.0 Media Publications or Broadcasts
-
-		III.F.1.0 Overview
-
-		III.F.2.0 Application of Rule 164 and Rule 433 to Media Publications
-
-			III.F.2.a Prospectus Delivery or Availability
-
-			III.F.2.b Filing
-
-			III.F.2.c Issuers in the Media Business
-
-		III.F.3.0 Responses to Comments on Treatment of Media Publications
-
-	III.G.0.0 Liability Issues Affecting Free Writing Prospectuses
-
-		III.G.1.0 General
-
-		III.G.2.0 Filed Free Writing Prospectus Not Part of Registration Statement
-
-		III.G.3.0 Cross-Liability Issues
-
-			III.G.3.c Interaction of New Communications Rules with Regulation FD
-
-		III.G.4.0 Use of Research Reports
-
-			III.G.4.a Current Regulatory Treatment of Research Reports
-
-			III.G.4.b Amendments to Exemptions for Research
-
-	III.A.0.0 Definition
-
-	III.B.0.0 Comments on Definition of Research Report
-
-	III.A.0.0 Amendments to Rule 138
-
-	III.B.0.0 Comments on Rule 138 Amendments
-
-	III.A.0.0 Issuer-Specific Reports
-
-		III.A.1.0 Amendments Regarding Issuer-Specific Reports
-
-		III.A.2.0 Comments on Issuer-Specific Reports
-
-	III.B.0.0 Industry-Related Reports
-
-		III.B.1.0 Amendments Regarding Industry-Related Reports
-
-		III.B.2.0 Comments on Industry-Related Reports
-
-IV.0.0.0 Liability Issues
-
-	IV.A.0.0 Information Conveyed by the Time of Sale for Purposes of Section 12(a)(2) and Section 17(a)(2) Liability
-
-		IV.A.1.0 Interpretation and Rule
-
-		IV.A.2.0 Comments and Guidance Regarding Our Interpretation and Rule 159
-
-			IV.A.2.a The Section 12(a)(2) and Section 17(a)(2) Analysis of the Information Conveyed
-
-			IV.A.2.b Determination of Time of Sale
-
-			IV.A.2.c Termination of an Old Contract and Creation or Reformation of a New Contract
-
-		IV.A.3.0 Rule 412 and Rule 430B
-
-		IV.A.4.0 Relationship of Section 12(a)(2) and Section 17(a)(2) Interpretation and Rule 159 to Section 11 Liability
-
-	IV.B.0.0 Issuer as Seller
-
-	IV.C.0.0 Due Diligence Interpretation
-
-V.0.0.0 Securities Act Registration Rules and Amendments
-
-	V.A.0.0 Overview
-
-	V.B.0.0 Procedural Rules
-
-		V.B.1.0 Procedural Changes Regarding Shelf Offerings
-
-			V.B.1.a Overview
-
-			V.B.1.b Information in a Prospectus
-
-	V.A.0.0 Rule 430B
-
-	V.B.0.0 Means for Providing Information
-
-	V.C.0.0 Identification of Selling Security Holders Following Effectiveness
-
-		V.C.1.0 Scope of Provision
-
-		V.C.2.0 Comments on Identification of Selling Security Holders
-
-	V.A.0.0 Scope of Provisions
-
-	V.B.0.0 New Effective Date for Section 11 Purposes
-
-	V.C.0.0 Comments on Prospectus Supplements and New Effective Dates
-
-	V.A.0.0 Elimination of Limitation on Amount of Securities Registered
-
-		V.A.1.0 Revised Provisions
-
-	V.B.0.0 Immediate Takedowns From a Shelf Registration Statement Filed Under Rule 415(a)(1)(x)
-
-	V.C.0.0 Eliminating “At-the-Market” Offering Restrictions for Seasoned Issuers
-
-	V.A.0.0 Treatment of Information in Prospectus Supplements
-
-	V.B.0.0 Prospectus Supplements Deemed Part of a Registration Statement and New Effective Dates
-
-			V.B.1.c Changes to Form S-3 and Form F-3
-
-		V.B.2.0 Automatic Shelf Registration for Well-Known Seasoned Issuers
-
-			V.B.2.a Overview
-
-			V.B.2.b Automatic Shelf Registration Mechanics
-
-	V.A.0.0 Information That May be Omitted From the Base Prospectus
-
-	V.B.0.0 Mechanics for Including Information
-
-	V.C.0.0 Registration of Securities to be Offered
-
-	V.D.0.0 Pay-as-You-Go Registration Fees
-
-		V.D.1.0 Pay-as-You-Go Fee Rules
-
-		V.D.2.0 Comments on Pay-as-You-Go Fees
-
-	V.E.0.0 Registration under Securities Act Sections 5 and 6
-
-	V.F.0.0 Immediate Effectiveness
-
-	V.G.0.0 Duration
-
-		V.G.3.0 Unseasoned Issuers and Non-Reporting Issuers
-
-			V.G.3.a Overview
-
-			V.G.3.b Amendments to Form S-1 and Form F-1 – Expanded Use of Incorporation by Reference
-
-			V.G.3.c Elimination of Form S-2 and Form F-2
-
-VI.0.0.0 Prospectus Delivery Reforms
-
-	VI.A.0.0 Current Prospectus Delivery Requirements
-
-	VI.B.0.0 Prospectus Delivery Revisions
-
-		VI.B.1.0 Access Equals Delivery
-
-			VI.B.1.a Rule 172
-
-			VI.B.1.b Exceptions to the Rule
-
-			VI.B.1.c Notification
-
-		VI.B.2.0 Written Confirmations and Notices of Allocations
-
-		VI.B.3.0 Transactions Taking Place on an Exchange or Through a Registered Trading Facility – Rule 153
-
-		VI.B.4.0 Aftermarket Prospectus Delivery – Rule 174
-
-VII.0.0.0 Additional Exchange Act Disclosure Provisions
-
-	VII.A.0.0 Risk Factor Disclosure
-
-		VII.A.1.0 Scope of Requirement
-
-		VII.A.2.0 Comments on Risk Factor Disclosure Requirement
-
-	VII.B.0.0 Disclosure of Unresolved Staff Comments
-
-		VII.B.1.0 Disclosure Requirement
-
-		VII.B.2.0 Comments on Disclosure of Outstanding Comments
-
-	VII.C.0.0 Disclosure of Status as Voluntary Filer Under the Exchange Act
-
-VIII.0.0.0 Paperwork Reduction Act
-
-	VIII.A.0.0 Background
-
-		VIII.A.5.0 “Regulation S-K” (OMB Control No. 3235-0071);
-
-		VIII.A.6.0 “Regulation S-B” (OMB Control No. 3235-0417);
-
-		VIII.A.7.0 “Regulation C” (OMB Control No. 3235-0074);
-
-		VIII.A.8.0 “Form S-1” (OMB Control No. 3235-0065);
-
-		VIII.A.9.0 “Form F-1” (OMB Control No. 3235-0258);
-
-		VIII.A.10.0 “Form S-2” (OMB Control Number 3235-0072);
-
-		VIII.A.11.0 “Form F-2” (OMB Control Number 3235-0257);
-
-		VIII.A.12.0 “Form S-3” (OMB Control Number 3235-0073);
-
-		VIII.A.13.0 “Form F-3” (OMB Control Number 3235-0256);
-
-		VIII.A.14.0 “Form S-4” (OMB Control Number 3235-0324);
-
-		VIII.A.15.0 “Form F-4” (OMB Control Number 3235-0325);
-
-		VIII.A.16.0 “Form N-2” (OMB Control Number 3235-0026);
-
-		VIII.A.17.0 “Rule 173” (OMB Control Number 3235-0618);
-
-		VIII.A.18.0 “Rule 163” (OMB Control Number 3235-0619); and
-
-		VIII.A.19.0 “Rule 433” (OMB Control Number 3235-0617).
-
-	VIII.B.0.0 Summary of Information Collections
-
-	VIII.C.0.0 Summary of Comment Letters on the PRA Analysis
-
-	VIII.D.0.0 Paperwork Reduction Act Burden Estimates
-
-		VIII.D.1.0 Exchange Act Periodic Reports and Registration Statements
-
-		VIII.D.2.0 Communications and Prospectus Delivery
-
-		VIII.D.3.0 Securities Act Registration Statements
-
-IX.0.0.0 Cost Benefit Analysis
-
-	IX.A.0.0 Background
-
-	IX.B.0.0 Summary of Rules
-
-		IX.B.1.0 Communications
-
-		IX.B.2.0 Securities Act Registration Rules
-
-		IX.B.3.0 Prospectus Delivery
-
-		IX.B.4.0 Exchange Act Reports
-
-	IX.C.0.0 Comments on the Proposals
-
-	IX.D.0.0 Benefits
-
-		IX.D.1.0 Increased Information Flow
-
-		IX.D.2.0 Investor Protection
-
-		IX.D.3.0 Facilitating Capital Formation
-
-		IX.D.4.0 Reduced Regulatory Uncertainty
-
-		IX.D.5.0 Lower Costs
-
-	IX.E.0.0 Costs
-
-		IX.E.1.0 Compliance Costs
-
-		IX.E.2.0 Potential for Increased Liability
-
-		IX.E.3.0 Other Potential Costs
-
-X.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation
-
-XI.0.0.0 Final Regulatory Flexibility Act Analysis
-
-	XI.A.0.0 Reasons for and Objectives of the Rules and Amendments
-
-	XI.B.0.0 Significant Issues Raised by Public Comment
-
-	XI.C.0.0 Small Entities Subject to the Rules
-
-	XI.D.0.0 Reporting, Record Keeping, and Other Compliance Requirements
-
-	XI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-		XI.E.1.0 Establishing different compliance or reporting requirements that take into account the resources available to small entities;
-
-		XI.E.2.0 Clarifying, consolidating, or simplifying compliance and reporting obligations for small entities;
-
-		XI.E.3.0 Using performance standards rather than design standards; and
-
-		XI.E.4.0 Including smaller entities in some of the reforms.
-
-XII.0.0.0 Statutory Authority – Text of the Rules and Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR PARTS 200, 228, 229, 230, 239, 240, 243, 249, and 274
@@ -555,7 +85,7 @@ General
 Definition of Written Communication
 
 “Written Communication” and “Graphic Communication”
-
+x
 Comments Regarding Proposals
 
 Overview of Communications Rules
@@ -1252,9 +782,9 @@ The reference to depositors, sponsors, servicers, and affiliated depositors, whe
 
 As we note above, voluntary filers are not required to report under the Exchange Act and therefore do not fall within Rule 168. Voluntary filers will have available to them the safe harbor for non-reporting issuers in new Rule 169. <sup>121</sup> We also note above that registered investment companies and business development companies are subject to a separate framework governing communications with investors, and we believe that it would be more appropriate to consider investment company issues in the context of a broader reconsideration of this separate framework.
 
-Factual Business Information
+i. Factual Business Information
 
-<h>A. Scope of the Safe Harbor</h>
+A. Scope of the Safe Harbor
 
 We believe it is important to provide increased certainty regarding when thegun-jumping provisions will be inapplicable to the continuing ongoing communication of specified factual business information. We are adopting Securities Act Rule 168, which provides a non-exclusive safe harbor that such a communication is not an impermissible prospectus and does not violate the prohibition on pre-filing offers. <sup>122</sup> We want to encourage reporting issuers and other issuers eligible to rely on the safe harbor to continue to provide this information. For purposes of Rule 168, factual business information is defined as: <sup>123</sup>
 
@@ -1264,7 +794,7 @@ Dealers , Release No. 33-4697 (May 28, 1964) [29 FR 7317]; and Publication of In
 
 This information includes without limitation in each case such factual business information contained in reports or materials filed with, furnished to, or submitted to us pursuant to the Exchange Act. <sup>124</sup>
 
-<h>B. Comments on the Scope of the Safe Harbor</h>
+B. Comments on the Scope of the Safe Harbor
 
 Some commenters suggested broadening the categories of factual business information, <sup>125</sup> including the suggestion that only offering-related information be excluded from the definition of factual business information. <sup>126</sup> We are adopting the definition of factual business information that in substantive respects is substantially as proposed. The simplification of the definition in the Rule as adopted does not narrow the information included in the definition. We believe that the purpose of the safe harbor is to permit reporting issuers to continue their ordinary course factual business communications, not to define when an offer is considered to occur in all cases. As we
 
@@ -1272,7 +802,7 @@ Factual business information that reporting issuers release or disseminate will 
 
 We have modified the definition from the proposal to make clear that factual business information may be communicated within the safe harbor by including it in any report or material filed with, furnished to, or submitted to us. The other conditions of the safe harbor, for example, the “regularly released,” condition of course also must be satisfied. In addition, in response to commenters’ concerns, we have made clear in a preliminary note that the safe harbor addresses use and relates to a communication, and, therefore, that another communication of the information in an offering-related manner will not affect the ability to rely on the safe harbor for the protected communication.
 
-Forward-Looking Information(A)	Scope of the Safe Harbor
+ii. Forward-Looking Information (A)	Scope of the Safe Harbor
 
 As we stated in the Proposing Release, our view of the value of forward-looking information in the market has evolved through the years. Through the 1970’s we were most concerned with the potentially misleading effect that forward-looking information could have on investors. <sup>127</sup> Since the 1980’s, we have encouraged issuers to disclose forward-looking information and, in some situations (such as the disclosures in MD&A), required them to do so. <sup>128</sup> The existing safe harbors for the content of forward-lookingstatements are designed to encourage the provision of forward-looking information. <sup>129</sup> Where an issuer regularly releases forward-looking information in the ordinary course, we indicated in the Proposing Release that we believe that the purpose of suchcommunication is to keep the market informed about the issuer and its future prospects and, thus, the continued release or dissemination of this information in the ordinary course is not for the purpose of offering securities or conditioning the market for new issuances of the issuer’s securities. Many issuers disclose earnings forecasts and other forward-looking information publicly to provide more information to the markets and to enable them to continue to have discussions to which Regulation FD applies. We do not believe that it is beneficial to investors or the markets to force reporting issuers tointerpretive guidance on MD&A which stated:
 
@@ -1286,15 +816,15 @@ As with factual business information, we have clarified that any such informatio
 
 The safe harbor for forward-looking information also addresses “use,” and the preliminary note discussed above applies.
 
-Conditions of Safe Harbor in Rule <sup>168</sup>
+iii. Conditions of Safe Harbor in Rule <sup>168</sup>
 
-<h>A. “By or on Behalf of” the Issuer</h>
+A. “By or on Behalf of” the Issuer
 
-<h>1. Definition</h>
+1. Definition
 
 Under the Rule as adopted, factual business and forward-looking information will be considered released or disseminated by or on behalf of an issuer if the issuer or an agent or a representative of the issuer, other than an offering participant who is an underwriter or dealer, authorizes or approves the release or dissemination of the communication before it is made. <sup>131</sup> Satisfaction of this condition is separate from the “regularly released” condition. The safe harbor is not available for information released in a manner intended to circumvent either the conditions to use or the permitted manner of use of the information.
 
-<h>2. Comments on Definition</h>
+2. Comments on Definition
 
 Commenters supported the concept of “by or on behalf of” the issuer. <sup>132</sup> Commenters also supported placing the definition of the term in a single rule, rather than
 
@@ -1304,9 +834,9 @@ We have considered these suggestions carefully and have made some revisions to t
 
 A few commenters suggested that the Rule not include the preliminary note that contains the “scheme to evade” language because they believed it would causeuncertainty about the ability to rely on the safe harbors. <sup>135</sup> The preliminary note to the Rule is substantially the same preliminary note contained in a significant number of exemptions under the Securities Act upon which market participants have relied and we are adopting the Rule with the preliminary note regarding the “scheme to evade” language as proposed. <sup>136</sup>
 
-<h>B. Regularly Released Information</h>
+B. Regularly Released Information
 
-<h>1. Regularly Released Condition</h>
+1. Regularly Released Condition
 
 As we discussed in the Proposing Release, the purpose of the safe harbor is to enable a reporting issuer to continue its past ordinary course practice of releasing or disseminating publicly factual business and forward-looking information.
 
@@ -1318,7 +848,7 @@ Under Rule 168, information will be considered regularly released or disseminate
 
 While the Rule does not establish or require any minimum time period to satisfy the regularly released element, the safe harbor requires the issuer to have some track record of releasing the particular type of information. One prior release or dissemination could establish this track record. Issuers should consider the frequency and regularity with which they have released the same type of information. For example, an issuer’s release of new types of financial information or projections just before or during a registered offering will likely prevent a conclusion that the issuer regularly released that type of forward-looking or financial information in the ordinary course of its business.
 
-<h>2. Comments on Regularly Released Condition</h>
+2. Comments on Regularly Released Condition
 
 Commenters on the regularly released condition suggested that we further clarify the concept of regularly released information by elaborating on the meaning of timing, manner, and form. <sup>138</sup> Some of these commenters were concerned about the availability of the safe harbor for non-scheduled releases of information and information distributed using new or different technologies. <sup>139</sup> Other commenters on this point, however, desired greater flexibility with no definition of “ordinary course.” <sup>140</sup>
 
@@ -1328,15 +858,15 @@ Merely using new or different technologies will not be necessarily inconsistent 
 
 Press-Related Materials Released Offshore , Release No. 33-7470 (Oct. 17, 1997) [62 FR 53948].whether its use of new or different technologies to release information falls within the safe harbor, including whether the release or dissemination is consistent in material respects with how the issuer is already releasing or disseminating its communications containing factual business or forward-looking information using analogous methods. For example, whether the new or different technology makes a material difference in terms of the breadth of dissemination to investors or other reach of the communication to investors is relevant in determining whether the manner or form is consistent in material respects.
 
-<h>C. Exclusion for Offering-Related Information</h>
+C. Exclusion for Offering-Related Information
 
-<h>1. Scope of Exclusion</h>
+1. Scope of Exclusion
 
 We are adopting as proposed the exclusion from the safe harbor of any information about the registered offering itself. Publication of information about a registered offering outside the registration statement or a prospectus is limited to statements allowed under other exemptions or exclusions, including Rule 134 and Rule 135. <sup>141</sup>
 
 As we discussed in the Proposing Release, because the safe harbor is a “use” exemption intended to facilitate continued release or dissemination of regularly released ordinary course factual business and forward-looking communications, it also excludes the release of that information as part of the offering activities in the registered offering. For example, while the safe harbor could be available for factual business information contained in an Exchange Act report at the time it is initially filed, the safe harbor willnot be available for the distribution of that information to investors or potential investors as part of offering activities, such as incorporation by reference into a prospectus that is part of a registration statement, disclosure at a road show, or disclosure in a free writing prospectus. As another example, as permitted by the “regularly released” condition, an issuer could rely on the safe harbor for the publication of an earnings release consistent with past practice, including the posting of and maintaining the release on an issuer’s web site, whether or not located in a separate section of the web site for historical information. The distribution of that earnings release, however, as part of the marketing activities to potential investors will be outside the scope of the safe harbor.
 
-<h>2. Comments on Exclusion</h>
+2. Comments on Exclusion
 
 Commenters requested further clarification that release of a communication containing information in reliance on the safe harbor will not be affected by release of the same information in offering-related communications. <sup>142</sup> We have made clear in a preliminary note in the adopted Rule that the release of communications containing information outside the safe harbor will not affect the availability of the safe harbor for any other release or dissemination of a communication containing the same information that is (or was) within the scope of the safe harbor.
 
@@ -1344,11 +874,11 @@ Some commenters requested that we define “offering-related” or “part of th
 
 Certain commenters requested that we clarify the impact Rule 168 and Rule 169 (as discussed below) would have on our guidance regarding the filing requirement for ordinary or routine business communications that refer to a business combination transaction in a non-substantive way. <sup>144</sup> We believe that guidance is unaffected by the adoption of the safe harbors of Rule 168 and Rule 169, regardless of whether the communication falls within the scope of such safe harbors or our other interpretive guidance regarding ongoing factual and business communications. <sup>145</sup>
 
-<h>c. Exception for Regularly Released Factual Business Information –</h>
+<h>c. Exception for Regularly Released Factual Business Information –
 
-Available to Non-Reporting Issuers
+Available to Non-Reporting Issuers</h>
 
-Scope of the Safe Harbor
+i. Scope of the Safe Harbor
 
 We are adopting substantially as proposed a non-exclusive safe harbor from the gun-jumping provisions for regularly released factual business information that, unlike Rule 168, is available to all eligible issuers, including non-reporting issuers. <sup>146</sup> The Rule provides a non-exclusive safe harbor for the issuer’s release or dissemination of regularly released ordinary course factual business information intended for use by persons other than in their capacity as investors or potential investors, such as customers and suppliers. <sup>147</sup> Under the safe harbor, a non-reporting issuer’s release or dissemination offactual business information that satisfies the conditions of the Rule would not be an impermissible prospectus and would not violate the prohibition on pre-filing offers. <sup>148</sup>
 
@@ -1358,7 +888,7 @@ Under the safe harbor, factual business information is defined as:factual inform
 
 As we discussed in the Proposing Release, because non-reporting issuers generally are not releasing information in connection with securities market activities, we believe it is appropriate to limit the scope of the safe harbor to the specified regularly released ordinary course factual business information. <sup>150</sup> Further, we are not adopting a safe harbor for forward-looking information for non-reporting issuers because of the lack of such information or history for these issuers in the marketplace. In those circumstances, we believe that the potential for abuse in permitting a safe harbor for the continued release of forward-looking information as a way to condition the market for the issuer’s securities outweighs the legitimate utility to the issuer of the safe harbor.
 
-Comments on the Safe Harbor
+ii. Comments on the Safe Harbor
 
 Commenters supported the proposed safe harbor and suggested certain expansions and clarifications. <sup>151</sup> Commenters wanted us to clarify that information that was directed to customers, suppliers, etc., would be covered by the safe harbor even if the information became available to other persons, including investors or potential investors. <sup>152</sup> As we discuss above, the Rule is aimed at assuring that the communication is intended for use by an audience that is other than an investor audience, not at ensuring that the communication is not received by or available to an investor or potential investor. We have modified the Rule to clarify this point. For example, a widely disseminated communication (such as a press release) intended for use by a non-investor audience andotherwise meeting the conditions of the safe harbor will not lose protection if it is available to or received by investors or potential investors.
 
@@ -1370,7 +900,7 @@ Beyond the continuing ongoing release of information discussed above, there is a
 
 <h>a. 30-Day Bright-Line Exclusion From the Prohibition on Offers Prior to Filing a Registration Statement – All Issuers</h>
 
-Scope of Exclusion
+i. Scope of Exclusion
 
 We are adopting, substantially as proposed, Rule 163A to provide all issuers a bright-line time period, ending 30 days prior to filing a registration statement, during which issuers may communicate without risk of violating the gun-jumping provisions. Such communications will be excluded from the definition of offer for purposes of Securities Act Section 5(c). <sup>155</sup> As we noted in the Proposing Release, a bright-line test
 
@@ -1388,7 +918,7 @@ The 30-day bright-line exclusion is not available for enumerated categories of o
 
 The Rule as adopted also excludes communications regarding business combination transactions from being able to rely on the exclusion, as those communications are regulated separately. <sup>160</sup> The Rule also is not available for communications regarding offerings made by a registered investment company or a business development company.
 
-Comments on 30-day Bright-Line Exclusion
+ii. Comments on 30-day Bright-Line Exclusion
 
 Commenters expressed strong support for the Rule and suggested certain expansions and clarifications. <sup>161</sup> Some commenters wanted the Rule to provide an exemption from the definition of offer for all purposes under the Securities Act. <sup>162</sup> We do not believe that it is appropriate to exclude from the definition of offer for all purposesany communications occurring more than 30 days from the date of filing the registration statement. The Rule contains no content restriction, other than a prohibition against referencing a securities offering that is or will be the subject of a registration statement. The intent of the Rule is to provide certainty that an issuer will not be considered to be “gun jumping” by engaging in communications more than 30 days before it files its registration statement, not to provide certainty that it will not be liable for material disclosure deficiencies in its communications. <sup>163</sup>
 
@@ -1398,11 +928,11 @@ Commenters also suggested that registered investment companies and business deve
 
 <h>b. Permitted Pre-Filing Offers for Well-Known Seasoned Issuers</h>
 
-Overview
+i. Overview
 
 The rules we are adopting today, when taken together, provide exemptions generally from the applicability of the gun-jumping provisions for eligible well-known seasoned issuers. The safe harbors for regularly released factual business andforward-looking information and the exemption from the prohibition on offers for purposes of Securities Act Section 5(c) for communications more than 30 days prior to filing of a registration statement are available to well-known seasoned issuers. In addition, as discussed below, the broadened exemption for routine offering-relatedexclusion. For example, if an issuer or its representative gives an interview to the press prior to the 30-day period, it will not be able to rely on the exclusion if the interview is published during the 30-day period. We have addressed the same issues in the context of free writing prospectuses discussed below.communications and the availability of an exemption for eligible issuers from the gun- jumping provisions for free writing prospectuses, in both cases after filing of a registration statement, also are available to well-known seasoned issuers. However, because the gun-jumping provisions prohibit all offers – written or oral – before the filing of a registration statement, we believe well-known seasoned issuers could be unnecessarily constrained in their capital formation activities. <sup>167</sup>
 
-Exemption for Pre-Filing Offers
+ii. Exemption for Pre-Filing Offers
 
 To address communications made in the 30 days prior to filing a registration statement that are not otherwise excluded from the gun-jumping provisions and to complete the set of rules permitting all communications by well-known seasoned issuers under the gun-jumping provisions, we are adopting essentially as proposed an exemption from the prohibition on offers before the filing of a registration statement for offers made by or on behalf of eligible well-known seasoned issuers. <sup>168</sup> The exemption permits these issuers to engage in unrestricted oral and written offers before a registration statement is filed without violating the gun-jumping provisions. These communications, while exempt from the gun-jumping provisions, are still considered offers and subject to liability standards applicable to such offers. <sup>169</sup> The exemption is available only forcommunications made “by or on behalf of” the issuer. <sup>170</sup> Moreover, any communication for which disclosure is required under Securities Act Section 17(b) will be deemed to be a communication that is an offer for purposes of the Rule and, if written, the communication will be a free writing prospectus of the issuer. <sup>171</sup> As with the other exemptions, exclusions, and safe harbor rules we are adopting today, we have made clear that the exemption is non-exclusive.
 
@@ -1416,7 +946,7 @@ The Rule is different from Securities Act Rule 254. Securities Act Rule 254 perm
 
 Any written communication used in reliance on this exemption will be subject to the same provisions applicable to free writing prospectuses used after a registration statement is filed with regard to the ability to “cure” a failure to meet the legend or filing condition in reliance on our rules governing free writing prospectuses discussed below. <sup>175</sup>
 
-Comments on Exemption for Pre-Filing Offers
+iii. Comments on Exemption for Pre-Filing Offers
 
 Commenters broadly supported the proposed exemption for pre-filing offers by well-known seasoned issuers. <sup>176</sup> One commenter thought the exemptions should be expanded to cover all seasoned issuers, not just well-known seasoned issuers. <sup>177</sup> Some commenters suggested that the filing condition for free writing prospectuses apply only when and if the registration statement is filed. <sup>178</sup> In addition, commenters wanted clarification that the availability of the exemption does not depend on the issuer filing the free writing prospectus within a particular time frame. <sup>179</sup> Finally, commenters requested clarification that media publications, as with other free writing prospectuses, do not need to be filed until the registration statement is filed. <sup>180</sup> One commenter also suggested that
 
@@ -1436,7 +966,7 @@ The rules we are adopting today will expand the amount and types of permitted wr
 
 Rule 134 provides a safe harbor from the gun-jumping provisions for limited public notices about an offering made after an issuer files its registration statement. <sup>184</sup> The Rule was intended originally to provide an “identifying statement” that could be used to locate persons that might be interested in receiving a prospectus. All issuers, including well-known seasoned issuers, are precluded from relying on Rule 134 until the issuer files a registration statement that includes a statutory prospectus. <sup>185</sup>
 
-Expansion of Permitted Information
+i. Expansion of Permitted Information
 
 We are modifying and expanding the information permitted under Rule 134 to include information that issuers, underwriters, and investors will find helpful and to permit the types of written communications during an offering that we do not consider raise the risk of offering abuses. We are adopting a limited expansion of the information permitted in the notice about the issuer and the registered offering. The amendments to Rule 134 will:permit increased information about an issuer and its business, including where to contact the issuer;permit more information about the terms of the securities being offered; <sup>186</sup>expand the scope of permissible factual information about the offering itself, including underwriter information, more details about the mechanics of and procedures for transactions in connection with the offering process, the anticipated schedule of the offering, and a description of marketing events; <sup>187</sup>(other than a free writing prospectus), and it need not be a prospectus that satisfies Section 10(a).
 
@@ -1446,7 +976,7 @@ While we have expanded the amount of information regarding the terms of an offer
 
 Commenters suggested a number of additional items of information that they believed should be included in the Rule 134 safe harbor. <sup>189</sup> This additional information generally focused on more extensive information about the terms of the securities being offered. As we have noted, Rule 134 is not intended as a substitute for a detailed description of the securities, such as a term sheet, or information included in a prospectus. We have expanded the information categories from those in the proposal toinclude items that provide more procedural information about the offering or the securities. <sup>190</sup>
 
-Section 10 Prospectus Requirement
+ii. Section 10 Prospectus Requirement
 
 We have modified the changes to Rule 134 from the proposals in one significant regard. We had proposed that Rule 134 explicitly condition the availability of the Rule on the issuer filing a statutory prospectus meeting the requirements of Securities Act Section 10 which, in the case of an initial public offering, would include a bona fideestimate of the initial offering price range and the maximum amount of securities to be offered. While commenters recognized that the registration statement had to be filed, a number of commenters were concerned that including an explicit requirement of a bonafide price range and maximum amount of securities to be offered would change current practice and would not permit a number of communications, including press releases announcing the filing of the registration statement and naming underwriters, or even lead managers, and other notices that would be appropriate before the commencement of marketing efforts. <sup>191</sup> These commenters noted that, in many cases, the bona fide price range is not included in registration statements for initial public offerings until a later point in time that is closer to the commencement of marketing activities for the offering. <sup>192</sup>
 
@@ -1454,7 +984,7 @@ We are modifying the Rule to provide that much of the information permitted unde
 
 The amended Rule also provides that the Rule is available for certain other information only if it also is disclosed at that time in the filed registration statement. For example, notices including information about the use of proceeds of the offering can be provided only after information about the use of proceeds is included in the filed registration statement. <sup>193</sup> Rule 134(d) continues to require that a price range be included where required. We are not modifying the provisions of Rule 134(d). The procedures that market participants have developed with the staff of the Division of Corporation Finance to facilitate offerings of securities using Internet facilities are not affected by the amendments to Rule 134 that we are adopting today.
 
-Changes to Required Information
+iii. Changes to Required Information
 
 We are modifying the information that must be included in a Rule 134 notice, as proposed. First, we are eliminating the reference in the legend to state securities laws, as we believe that other provisions of the Rule already address any state securities lawrequirements, as applicable. <sup>194</sup> Second, we are eliminating the requirement to specify whether the financing is a new financing or refunding, as we believe that such information is no longer necessary because it will be provided where appropriate by the issuer’s disclosure of the use of the proceeds of the offering.
 
@@ -1464,7 +994,7 @@ Rule 134 notice will satisfy the requirement that the prospectus accompany or pr
 
 <h>b. Permissible Use of Free Writing Prospectuses</h>
 
-Overview
+i. Overview
 
 After the filing of a registration statement, the gun-jumping provisions permit issuers and other offering participants to make written offers only in the form of a statutory prospectus. After effectiveness of a registration statement, written offers other than a statutory prospectus may be made only if a final prospectus meeting the requirements of Securities Act Section 10(a) is sent or given prior to or at the same time as the written offer. <sup>199</sup> We believe that written communications during the offering process are unnecessarily restricted, even with the substantial relaxations in restrictions on communications resulting from the rules we discuss above. The rules we are adopting permit written offers, including electronic communications, outside the statutory prospectus beyond those currently permitted by the Securities Act, if certain conditions are met. We are defining such a written offer outside of the statutory prospectus as a “free writing prospectus.” <sup>200</sup>
 
@@ -1472,9 +1002,9 @@ Under the rules we are adopting today, a free writing prospectus that satisfies 
 
 The issuer and any other offering participant in an eligible issuer’s registered securities offering satisfying the conditions of our rules can use a free writing prospectus after a registration statement is filed to communicate information about a registered offering of securities. <sup>204</sup> This will permit affiliates, underwriters, dealers, and others acting on behalf of the parties to the transaction to use a free writing prospectus without violating the gun-jumping provisions. The conditions to the use of a free writing prospectus will depend on the nature of the issuer and the offering. A free writingprospectus can take any form and is not required to meet the informational requirements otherwise applicable to prospectuses.
 
-Definition of Free Writing Prospectus
+ii. Definition of Free Writing Prospectus
 
-<h>A. Scope of Definition</h>
+A. Scope of Definition
 
 We are adopting the proposed definition of “free writing prospectus.” A free writing prospectus is, except as otherwise provided specifically or otherwise required by the context, a written communication that constitutes an offer to sell or a solicitation of an offer to buy securities that are or will be the subject of a registration statement and is not:a prospectus satisfying the requirements of Securities Act Section 10(a);a prospectus satisfying our rules permitting the use of preliminary or summary prospectuses or prospectuses subject to completion;a communication made in reliance on the special rules for asset-backed issuers permitting the use of ABS informational and computational materials; <sup>205</sup> ora prospectus because a final prospectus meeting the requirements of Section 10(a) was sent or given with or prior to the written communication. <sup>206</sup>
 
@@ -1482,17 +1012,17 @@ Further, the definition makes clear that, although a free writing prospectus wil
 
 A written communication will be a free writing prospectus only where it constitutes an offer by an offering participant of a security under the Securities Act. Whether a particular communication constitutes such an offer will continue to be determined based on the particular facts and circumstances. <sup>207</sup> While the definition of “offer” is broad, not all communications relating to an offering are offers or offers by an offering participant. As a non-exclusive illustration, the gun-jumping provisions have been administered in a manner that excludes from categorization as an offer a media publication or television or radio broadcast that is based solely on information that is filed with us or available on an unrestricted basis or on other information the dissemination of which did not represent an offer by an issuer or other offering participant, where there is no other involvement or participation by an offering participant. On that basis, for example, a newspaper article about an initial public offering that is based on the filed registration statement, on a press release that is filed with or furnished to us, on a filed free writing prospectus, or on filed issuer information where the issuer and other offering participants have refused to comment and not otherwise been involved, would not be categorized as an offer under the gun-jumping provisions.
 
-<h>B. Comments on Definition</h>
+B. Comments on Definition
 
 Commenters supported the concept of free writing prospectuses. <sup>208</sup> Commenters suggested that we exclude offshore communications and rating agency reports from the scope of the definition. <sup>209</sup> We are not including any specific provision in the rules regarding offshore communications and, as such, the treatment of offshore communications under the free writing prospectus rules will be no different than the treatment of any offshore communication prior to the Rules we adopt today. <sup>210</sup> We also have not revised the Rule in response to commenters’ request for clarification of the treatment of rating agency reports. Our treatment of NRSROs is currently the subject of rulemaking and other consideration. <sup>211</sup>prospectuses.
 
-Permitted Use of a Free Writing Prospectus After the Filing of a Registration Statement Under Rule <sup>433</sup>
+iii. Permitted Use of a Free Writing Prospectus After the Filing of a Registration Statement Under Rule <sup>433</sup>
 
-<h>A. Overview</h>
+A. Overview
 
 We are adopting Rule 164 and Rule 433 substantially as proposed. Rule 164 will permit the use of a free writing prospectus where an eligible issuer has filed a registration statement, the other requirements of Rule 164 are met, and the conditions of Rule 433 are satisfied. <sup>212</sup> The Rules permitting the use of free writing prospectuses are not available for any communication that, while in technical compliance with the Rule, is part of a plan or scheme to evade the requirements of Securities Act Section 5. <sup>213</sup>
 
-<h>B. Issuer Eligibility</h>
+B. Issuer Eligibility
 
 For any offering participant to use free writing prospectuses, other than free writing prospectuses that consist only of descriptions of the securities in the offering or of the offering, the issuer may not be an ineligible issuer. <sup>214</sup> We have modified the consequences of ineligibility in the context of use of free writing prospectuses to permit ineligible issuers, other than blank check companies, shell companies, and penny stock issuers, to use free writing prospectuses that are limited to descriptions of the terms of the securities being offered and the offering because we believe that the permitted use ofsuch free writing prospectuses can provide advantages to investors that justify the risks of use of such materials by some classes of ineligible issuers. Such use would be subject to all of the other requirements of the new rules.
 
@@ -1506,7 +1036,7 @@ We have revised the Rules from the proposal to change the time of determination 
 
 This timing of determination as to eligibility to use a free writing prospectus (with the enumerated exceptions from the prohibition) applies to all issuers, including well- known seasoned issuers. The timing of determination of whether an issuer is a well-known seasoned issuer, described above, is different and is made on an approximately annual basis.
 
-<h>1. Comments on Ineligible Issuer Definition</h>
+1. Comments on Ineligible Issuer Definition
 
 Commenters expressed a number of concerns about the ineligibility conditions, including those relating to prior securities law violations and settlements, <sup>227</sup> going concern opinions in audit reports covering financial statements, <sup>228</sup> and certain involuntary bankruptcy petitions. <sup>229</sup> Commenters also requested clarification of the time frame for which the issuer must be current in its reports for purposes of the definition. <sup>230</sup> Commenters did not believe that issuers should be ineligible based on disclosure of material weaknesses in internal controls over financial reporting. <sup>231</sup> Commenters also stated that offering participants should be able to rely on the various exemptions based on a reasonable belief that the issuer was not an ineligible issuer. <sup>232</sup>
 
@@ -1518,17 +1048,17 @@ Commenters addressing ineligibility based on bankruptcy were concerned that an i
 
 We have revised the definition of “ineligible issuer” to address many of commenters’ concerns. Under the definition we are adopting, an issuer must be current, but not necessarily timely, in its required filings under the Exchange Act for the past twelve months or such shorter period that the issuer is subject to the Exchange Act reporting requirements. We have limited the ineligibility condition for securities law violations to those involving the anti-fraud provisions and have eliminated the separate provision regarding settlements because they are subsumed within the ineligibility provision based on a settled judicial or administrative decree or order. In addition, we have provided that ineligibility based on actions of a subsidiary must have arisen at the time that the entity was a subsidiary of the issuer. We also have eliminated the ineligibility condition based on a going concern opinion covering the issuer’s most recent audited financial statements. In addition to the revisions to the specific ineligibility provisions, we also have revised Rule 164 and Rule 433 to provide that persons relying on those Rules, other than issuers, must have a reasonable belief that an issuer is not ineligible. <sup>238</sup> We also have provided that ineligibility based on settlements will apply only to judicial or administrative decrees or orders entered into after the effective date of the new rules.
 
-<h>C. Conditions to Permitted Use of a Free Writing Prospectus</h>
+C. Conditions to Permitted Use of a Free Writing Prospectus
 
 Rule 164 as adopted provides that, after the filing of a registration statement, a free writing prospectus that meets the requirements of Rule 164 and satisfies the conditions of Rule 433 will be a permitted prospectus under Section 10(b) for purposes of
 
 Securities Act Section 5(b)(1). The Rule 433 conditions on the use of free writing prospectuses relate to:the delivery or availability of the statutory prospectus at the time the free writing prospectus is used;the information contained in the free writing prospectus;the legend that is to be included in the free writing prospectus;filing of the free writing prospectus; andrecord retention for the free writing prospectus.
 
-<h>1. Prospectus Delivery or Availability</h>
+1. Prospectus Delivery or Availability
 
 The ability of any person participating in the offer and sale of the securities to use free writing prospectuses under Rules 164 and 433 generally is conditioned on the filing of a registration statement that includes a prospectus satisfying the requirements of Securities Act Section 10. <sup>239</sup> Further, in specified cases, Rule 433 conditions the use of a free writing prospectus on prior or concurrent delivery of the issuer’s most recently filed statutory prospectus.
 
-<h>a. Prospectus Delivery Conditions for Non-Reporting Issuers and Unseasoned Issuers</h>
+a. Prospectus Delivery Conditions for Non-Reporting Issuers and Unseasoned Issuers
 
 In an offering of securities of an eligible non-reporting issuer, including an initial public offering, or securities of an eligible unseasoned issuer, the use by an offering participant of free writing prospectuses is conditioned on:respect to an issuer’s status as a well-known seasoned issuer.10. Rule 433 makes clear that the prospectus condition may be satisfied by any Section 10 prospectus, other than a summary prospectus permitted by Securitiesfiling of the registration statement for the offering; andthe free writing prospectus being preceded or accompanied by the most recent statutory prospectus that satisfies the requirements of Section 10 if: <sup>240</sup> the free writing prospectus is prepared by or on behalf of or used or referred to by an issuer or prepared by or on behalf of or used or referred to by other offering participants; consideration has been or will be given by the issuer or an offering participant for the dissemination (in any format) <sup>241</sup> of any free writing prospectus (including any published article, publication, or advertisement); or Securities Act Section 17(b) <sup>242</sup> requires disclosure that consideration has been or will be given by the issuer or an offering participant for any activity described therein in connection with the free writing prospectus.
 
@@ -1540,25 +1070,25 @@ In the following situations, for example, the most recent statutory prospectus m
 
 Once the required statutory prospectus is provided to an investor, additional free writing prospectuses can be provided to that investor without having to provide an additional statutory prospectus, unless there is a material change in the most recent statutory prospectus from the provided prospectus. <sup>244</sup> For example, once an investor hasbeen sent a preliminary prospectus, absent a material change, the Rule permits subsequent e-mail communications to that investor by an offering participant that constitute free writing prospectuses without the user having to hyperlink to or otherwise redeliver a statutory prospectus with each communication. After effectiveness and availability of a final prospectus meeting the requirements of Securities Act Section 10(a), no earlier statutory prospectus may be provided, and such final prospectus, as revised or supplemented, must precede or accompany any free writing prospectus provided after such availability, whether or not an earlier statutory prospectus has been previously provided to the recipient. <sup>245</sup>
 
-<h>b. Prospectus Availability Condition for Seasoned Issuers and Well-Known Seasoned Issuers</h>
+b. Prospectus Availability Condition for Seasoned Issuers and Well-Known Seasoned Issuers
 
 In offerings of securities of eligible seasoned issuers (including asset-backed issuers eligible to use Form S-3) and eligible well-known seasoned issuers, we are adopting as proposed the provision that these issuers and other offering participants in their offerings can use a free writing prospectus after the filing of a registration statement containing a statutory prospectus. <sup>246</sup> For shelf offerings, this statutory prospectus can beprospectus supplement, the issuer and offering participants generally will recirculate the revised preliminary prospectus or supplement to potential purchasers.
 
-<h>a. offerings of securities registered on Form S-3 pursuant to General Instruction I.B.1, I.B.2, I.B.5, I.C., or I.D. thereof;</h>
+a. offerings of securities registered on Form S-3 pursuant to General Instruction I.B.1, I.B.2, I.B.5, I.C., or I.D. thereof;
 
-<h>b. offerings of securities registered on Form F-3 pursuant to General Instruction I.A.5, I.B.1, I.B.2,, or I.C thereof;a base prospectus. <sup>247</sup> For offerings of securities of eligible seasoned issuers (including eligible well-known seasoned issuers), the Rule does not condition use of the free writing prospectus on actual delivery of the most recent statutory prospectus. Instead, the user of the free writing prospectus must notify the recipient, through a required legend, of the filing of the registration statement and the URL for our web site where the recipient can access or hyperlink to the preliminary or base prospectus. The Rule as adopted permits the use of a generic rather than an issuer-specific legend. The legend must contain a toll- free telephone number, and may contain an e-mail address, through which the statutory prospectus may be requested. <sup>248</sup></h>
+b. offerings of securities registered on Form F-3 pursuant to General Instruction I.A.5, I.B.1, I.B.2,, or I.C thereof;a base prospectus. <sup>247</sup> For offerings of securities of eligible seasoned issuers (including eligible well-known seasoned issuers), the Rule does not condition use of the free writing prospectus on actual delivery of the most recent statutory prospectus. Instead, the user of the free writing prospectus must notify the recipient, through a required legend, of the filing of the registration statement and the URL for our web site where the recipient can access or hyperlink to the preliminary or base prospectus. The Rule as adopted permits the use of a generic rather than an issuer-specific legend. The legend must contain a toll- free telephone number, and may contain an e-mail address, through which the statutory prospectus may be requested. <sup>248</sup>
 
-<h>c. Comments on Prospectus Delivery or Availability Conditions</h>
+c. Comments on Prospectus Delivery or Availability Conditions
 
 Some commenters believed that the requirement that a statutory prospectus precede or accompany a free writing prospectus in offerings of securities of non-reporting or unseasoned issuers should be able to be accomplished by the availability of the
 
-<h>c. any other offering not excluded from reliance on Rule 164 and Rule 433 of a well-known seasoned issuer; and</h>
+c. any other offering not excluded from reliance on Rule 164 and Rule 433 of a well-known seasoned issuer; and
 
-<h>d. any other offering not excluded from reliance on Rule 164 and Rule 433 of an issuer eligible to use Form S-3 or Form F-3 for primary offerings pursuant to General Instruction I.B.1 of such forms.prospectus on our Electronic Data Gathering, Analysis, and Retrieval system (“EDGAR”), <sup>249</sup> while others thought it should be limited only to non-reporting companies engaging in their initial public offerings <sup>250</sup> or that there should be cure provisions for failure to provide timely a statutory prospectus. <sup>251</sup> We do not believe that it is appropriate at this time to have access or filing of a registration statement on EDGAR satisfy this delivery obligation for statutory prospectuses in all cases. In addition, as we note above, we believe that investors should have the statutory prospectus for unseasoned issuers when they evaluate free writing prospectuses involving offerings of securities of such issuers.</h>
+d. any other offering not excluded from reliance on Rule 164 and Rule 433 of an issuer eligible to use Form S-3 or Form F-3 for primary offerings pursuant to General Instruction I.B.1 of such forms.prospectus on our Electronic Data Gathering, Analysis, and Retrieval system (“EDGAR”), <sup>249</sup> while others thought it should be limited only to non-reporting companies engaging in their initial public offerings <sup>250</sup> or that there should be cure provisions for failure to provide timely a statutory prospectus. <sup>251</sup> We do not believe that it is appropriate at this time to have access or filing of a registration statement on EDGAR satisfy this delivery obligation for statutory prospectuses in all cases. In addition, as we note above, we believe that investors should have the statutory prospectus for unseasoned issuers when they evaluate free writing prospectuses involving offerings of securities of such issuers.
 
-<h>2. Information in a Free Writing Prospectus</h>
+2. Information in a Free Writing Prospectus
 
-<h>a. Information Conditions</h>
+a. Information Conditions
 
 We are adopting substantially as proposed the provisions that will permit a free writing prospectus meeting the conditions of Rule 433 to be a Section 10(b) prospectus without having line-item disclosure requirements or otherwise requiring that the free writing prospectus contain any particular information, other than the legend. The Rule permits information in a free writing prospectus to go beyond information the substance of which is contained in the prospectus included in the registration statement. However, the information in the free writing prospectus must not conflict with the information in the registration statement, including Exchange Act reports incorporated by reference into the registration statement. We believe that exempting free writing prospectuses meetingregistration statement.the conditions of Rule 433 from limitations on any particular content should not diminish investor protection. In that regard, we believe that the liability provisions applicable to free writing prospectuses, particularly Securities Act Section 12(a)(2) and the anti-fraud provisions of the federal securities laws, provide protection against material misstatements in and material omissions from information contained in such free writing prospectus.
 
@@ -1568,11 +1098,11 @@ Commenters requested clarification as to how information in the free writing pro
 
 Treating a free writing prospectus satisfying the conditions of Rule 433 as a Section 10(b) prospectus provides for additional continuing Commission oversight and enforcement authority over the contents and use of the free writing prospectus. As we discussed in the Proposing Release, we will retain the ability to halt the use of any materially false or misleading free writing prospectus in accordance with Section 10(b). Under the amendments to Securities Act Rule 418 we are adopting today, our staff will be able to request any free writing prospectus that has been used in connection with a securities offering.
 
-<h>b. Amendment to Rule 408</h>
+b. Amendment to Rule 408
 
 Finally, we are amending Securities Act Rule 408 as proposed to make clear that not including information that is included in a free writing prospectus in a prospectus filed as part of a registration statement will not, solely by virtue of inclusion of the information in a free writing prospectus, be considered an omission of material information required to be included in the registration statement.
 
-<h>c. Legend Condition</h>
+c. Legend Condition
 
 Discussion
 
@@ -1590,9 +1120,9 @@ Impermissible Legends or Disclaimers
 
 As we discussed in the Proposing Release, we understand that issuers or other users of written communications may sometimes include legends or disclaimers in offering materials that may be inappropriate. In particular, disclaimers of responsibilityor liability that are impermissible in a statutory prospectus or registration statement also are impermissible in free writing prospectuses. Examples of impermissible legends or disclaimers, which are not exclusive, that will cause the materials not to be permissible free writing prospectuses or not to be effective as to any purchaser for liability purposes include:disclaimers regarding accuracy or completeness or reliance by investors;statements requiring investors to read or acknowledge that they have read or understand the registration statement or any disclaimers or legends;language indicating that the communication is neither a prospectus nor an offer to sell or a solicitation or an offer to buy; andfor information that must be filed with us, statements that the information is confidential. <sup>262</sup>
 
-<h>3. Filing Conditions</h>
+3. Filing Conditions
 
-<h>a. General Conditions</h>
+a. General Conditions
 
 Scope of General Conditions
 
@@ -1616,15 +1146,15 @@ These persons may also use free writing prospectuses as permitted by Rules 164 a
 
 Registered investment companies and business development companies may not use these descriptions as free writing prospectuses.dissemination. Issuers also must file issuer information contained in other free writing prospectuses. <sup>271</sup>
 
-<h>1. factual information regarding the asset-backed securities being offered and the structure and basic parameters of the securities, such as the number of classes, seniority, payment priorities, terms of payment, the tax, ERISA or other legal conclusions of counsel, and descriptive information relating to each class (e.g., principal amount, coupon, minimum denomination, price or anticipated price, yield, weighted average life, credit enhancements, anticipated ratings, and other similar information relating to the proposed structure of the offering);</h>
+1. factual information regarding the asset-backed securities being offered and the structure and basic parameters of the securities, such as the number of classes, seniority, payment priorities, terms of payment, the tax, ERISA or other legal conclusions of counsel, and descriptive information relating to each class (e.g., principal amount, coupon, minimum denomination, price or anticipated price, yield, weighted average life, credit enhancements, anticipated ratings, and other similar information relating to the proposed structure of the offering);
 
-<h>2. factual information regarding the pool assets underlying the asset-backed securities, including origination, acquisition and pool selection criteria, information regarding any prefunding or revolving period applicable to the offering, information regarding significant obligors, data regarding the contractual and related characteristics of the underlying pool assets (e.g., weighted average coupon, weighted average maturity, delinquency and loss information and geographic distribution) and other factual information concerning the parameters of the asset pool appropriate to the nature of the underlying assets, such as the type of assets comprising the pool and the programs under which the loans were originated;</h>
+2. factual information regarding the pool assets underlying the asset-backed securities, including origination, acquisition and pool selection criteria, information regarding any prefunding or revolving period applicable to the offering, information regarding significant obligors, data regarding the contractual and related characteristics of the underlying pool assets (e.g., weighted average coupon, weighted average maturity, delinquency and loss information and geographic distribution) and other factual information concerning the parameters of the asset pool appropriate to the nature of the underlying assets, such as the type of assets comprising the pool and the programs under which the loans were originated;
 
-<h>3. identification of key parties to the transaction, such as servicers, trustees, depositors, sponsors, originators and providers of credit enhancement or other support, including information about any such party;</h>
+3. identification of key parties to the transaction, such as servicers, trustees, depositors, sponsors, originators and providers of credit enhancement or other support, including information about any such party;
 
-<h>4. static pool data, as referenced in Item 1105 of Regulation AB [17 CFR 229.1105], such as for the sponsor's and/or servicer's portfolio, prior transactions or the asset pool itself; and</h>
+4. static pool data, as referenced in Item 1105 of Regulation AB [17 CFR 229.1105], such as for the sponsor's and/or servicer's portfolio, prior transactions or the asset pool itself; and
 
-<h>5. to the extent that the information is provided by the issuer, depositor, affiliated depositor, or sponsor, statistical information displaying for a particular class of asset-backed securities the yield, average life, expected maturity, interest rate sensitivity, cash flow characteristics, total rate of return, option adjusted spread or other financial or statistical information relating to the class or classes under specified prepayment, interest rate, loss or other hypothetical scenarios. (Where such information is prepared by an underwriter or dealer, it is not issuer information, even when derived from issuer information.)</h>
+5. to the extent that the information is provided by the issuer, depositor, affiliated depositor, or sponsor, statistical information displaying for a particular class of asset-backed securities the yield, average life, expected maturity, interest rate sensitivity, cash flow characteristics, total rate of return, option adjusted spread or other financial or statistical information relating to the class or classes under specified prepayment, interest rate, loss or other hypothetical scenarios. (Where such information is prepared by an underwriter or dealer, it is not issuer information, even when derived from issuer information.)
 
 Under Rule 426, filing is required for ABS informational and computational materials provided to prospective investors after final terms of all classes of securities in the offering have been established. Filing also is required of such materials relating to a class of securities, whether or not final terms of all classes had been established, as to which a prospective investor had indicated an interest. Filing is required by the later of the due date for filing the final prospectus with us under Rule 424(b) or two days after the date of first use.
 
@@ -1632,21 +1162,21 @@ Under Rule 433, the issuer must file a free writing prospectus or portion thereo
 
 Under Rule 164, ineligible issuers may not use free writing prospectuses, except that most categories of ineligible issuers may use free writing prospectuses comprising only descriptions of terms of securities and offerings. Rule 164 provides that for offerings of asset-backed securities, ineligible issuers may use free writing prospectuses limited to certain categories of ABS informational and computational materials. <sup>272</sup> There
 
-<h>1. factual information regarding the asset-backed securities being offered and the structure and basic parameters of the securities, such as the number of classes, seniority, payment priorities, terms of payment, the tax, ERISA or other legal conclusions of counsel, and descriptive information relating to each class (e.g., principal amount, coupon, minimum denomination, anticipated price, yield, weighted average life, credit enhancements, anticipated ratings, and other similaris no such ineligible issuer restriction on the use of ABS informational and computational materials under Rules 167 and 426.</h>
+1. factual information regarding the asset-backed securities being offered and the structure and basic parameters of the securities, such as the number of classes, seniority, payment priorities, terms of payment, the tax, ERISA or other legal conclusions of counsel, and descriptive information relating to each class (e.g., principal amount, coupon, minimum denomination, anticipated price, yield, weighted average life, credit enhancements, anticipated ratings, and other similaris no such ineligible issuer restriction on the use of ABS informational and computational materials under Rules 167 and 426.
 
 To coordinate the operation of the two available approaches to use of written offering communications, Rule 433 as adopted today provides that a free writing prospectus or portion thereof required to be filed under Rule 433 containing only ABS informational and computational materials, as defined in Item 1101(a) of Regulation AB,information relating to the proposed structure of the offering);
 
-<h>2. factual information regarding the pool assets underlying the asset-backed securities, including origination, acquisition and pool selection criteria, information regarding any prefunding or revolving period applicable to the offering, information regarding significant obligors, data regarding the contractual and related characteristics of the underlying pool assets (e.g., weighted average coupon, weighted average maturity, delinquency and loss information and geographic distribution) and other factual information concerning the parameters of the asset pool appropriate to the nature of the underlying assets, such as the type of assets comprising the pool and the programs under which the loans were originated;</h>
+2. factual information regarding the pool assets underlying the asset-backed securities, including origination, acquisition and pool selection criteria, information regarding any prefunding or revolving period applicable to the offering, information regarding significant obligors, data regarding the contractual and related characteristics of the underlying pool assets (e.g., weighted average coupon, weighted average maturity, delinquency and loss information and geographic distribution) and other factual information concerning the parameters of the asset pool appropriate to the nature of the underlying assets, such as the type of assets comprising the pool and the programs under which the loans were originated;
 
-<h>3. identification of key parties to the transaction, such as servicers, trustees, depositors, sponsors, originators and providers of credit enhancement or other support, including a brief description of each such party’s roles, responsibilities, background and experience;</h>
+3. identification of key parties to the transaction, such as servicers, trustees, depositors, sponsors, originators and providers of credit enhancement or other support, including a brief description of each such party’s roles, responsibilities, background and experience;
 
-<h>4. static pool data;</h>
+4. static pool data;
 
-<h>5. the names of underwriters participating in the offering of the securities, and their additional roles, if any, within the underwriting syndicate;</h>
+5. the names of underwriters participating in the offering of the securities, and their additional roles, if any, within the underwriting syndicate;
 
-<h>6. the anticipated schedule for the offering (including the approximate date upon which the proposed sale to the public will begin) and a description of marketing events (including the dates, times, locations, and procedures for attending or otherwise accessing them); and</h>
+6. the anticipated schedule for the offering (including the approximate date upon which the proposed sale to the public will begin) and a description of marketing events (including the dates, times, locations, and procedures for attending or otherwise accessing them); and
 
-<h>7. a description of the procedures by which the underwriters will conduct the offering and the procedures for transactions in connection with the offering with an underwriter or participating dealer (including procedures regarding account- opening and submitting indications of interest and conditional offers to buy).may be filed under Rule 433 but within the time frame required for satisfaction of the conditions of Rule 426, and that such filing will satisfy the conditions of Rule 433.</h>
+7. a description of the procedures by which the underwriters will conduct the offering and the procedures for transactions in connection with the offering with an underwriter or participating dealer (including procedures regarding account- opening and submitting indications of interest and conditional offers to buy).may be filed under Rule 433 but within the time frame required for satisfaction of the conditions of Rule 426, and that such filing will satisfy the conditions of Rule 433.
 
 Rule 433 as adopted today also provides that where a free writing prospectus is used in reliance on Rules 164 and 433 and the conditions of those Rules (including the special filing election for free writing prospectuses or portions thereof comprising ABS informational and computational materials) are satisfied, the conditions of Rules 167 and 426 do not need to be satisfied. It similarly provides that where ABS informational and computational materials are used in reliance on Rules 167 and 426 and the conditions of those Rules are satisfied, the conditions of Rules 164 and 433 do not need to be satisfied.
 
@@ -1668,7 +1198,7 @@ Some commenters addressed issues regarding asset-backed securities offerings.
 
 Some commenters questioned the interplay between the free writing prospectus rules and rules affecting communications in asset-backed offerings, particularly as it affected the use of informational and computational materials and final term sheets. <sup>282</sup> These commenters were concerned about filing deadlines and the treatment of certain disclosures, such as static pool data disclosed on a website, under the definition of free/telephone /phonesupplement3.htm . Such guidance may continue to be helpful to this analysis. Of course, the issuer or other offering participant can determine to comply with both Rule 425 and Rule 433.writing prospectus. <sup>283</sup> As noted above, we are revising Rule 433 and have provided additional guidance as appropriate to address these issues.
 
-<h>b. Immaterial or Unintentional Failures to File</h>
+b. Immaterial or Unintentional Failures to File
 
 Scope of Cure Provision
 
@@ -1680,21 +1210,21 @@ Comments on Cure Provision
 
 Some commenters requested further clarification of the cure provisions, including what constitutes “unintentional,” a “good faith and reasonable effort” to comply with the filing conditions, and a “discovery” of a failure to file a free writing prospectus. <sup>285</sup> The filing cure provisions are the same as those contained in the asset-backed rules we adopted in 2004 and in the business combination rules, which have operated withoutfurther elaboration on these issues since we adopted the rules in 1999. <sup>286</sup> As we discuss above under Rule 163, we are not including any further clarification of what constitutes the elements of the cure provisions. <sup>287</sup>
 
-<h>4. Record Retention Condition</h>
+4. Record Retention Condition
 
-<h>a. Discussion</h>
+a. Discussion
 
 We are adopting, with some modifications, the proposed record retention condition in Rule 433. As adopted, Rule 433 conditions the use of a free writing prospectus on issuers and offering participants retaining for three years any free writing prospectuses they have used from the date of the initial bona fide offering of the securities in question that have not been filed with us. This record retention condition applies to all offering participants. <sup>288</sup> The three-year retention period is consistent with retention periods for brokers and dealers to retain securities sale confirmations. <sup>289</sup>
 
 We believe this record retention condition is appropriate for several reasons. First, it will give us the ability to review free writing prospectuses used in reliance on Rules 164 and 433 under our authority in Securities Act Section 10(b) and the amendments to Rule 418, among other rules. Second, offering participants and purchasers will benefit from the availability of the free writing prospectuses.
 
-<h>b. Immaterial or Unintentional Failure to Retain a Free Writing Prospectus</h>
+b. Immaterial or Unintentional Failure to Retain a Free Writing Prospectus
 
 Some commenters were concerned that the lack of a cure provision for failure to retain free writing prospectuses could cause retroactive violations of Securities Act Section 5 for three years. <sup>290</sup> In response to these concerns, we have included a provision in Rule 164 that provides that solely for purposes of that Rule, but not any other record retention obligation of any issuer or other offering participant, an immaterial or unintentional failure to retain a free writing prospectus will not result in a violation of Securities Act Section 5(b)(1) or the loss of the ability to rely on the exemption so long as a good faith and reasonable effort was made to comply with the record retention condition. Whether or not there has been a good faith and reasonable effort to comply with the record retention condition will be a facts and circumstances determination. We have included this provision because we believe that there can be circumstances in which a free writing prospectus is inadvertently not retained even after a good faith and reasonable effort. We also have modified the record retention condition so that it does not apply in cases where the free writing prospectus is filed with us.
 
-<h>D. Road Shows</h>
+D. Road Shows
 
-<h>1. Definition of Electronic Road Show</h>
+1. Definition of Electronic Road Show
 
 Issuers and underwriters frequently conduct presentations known as “road shows” to market their offerings to the public. These road shows are a primary means by which issuers are involved directly and actively in a selling effort to investors. Historically, these presentations were conducted in person and limited to institutional investors.
 
@@ -1706,7 +1236,7 @@ As discussed above, we have revised the definition of graphic communication from
 
 Road shows that do not originate live, in real-time to a live audience and are graphically transmitted are electronic road shows that will be considered written communications and, therefore, free writing prospectuses. Under our new Rules, they are, of course, permitted if the conditions of our new Rules for free writing prospectuses are satisfied. As we noted in the Proposing Release, issuer involvement or participation in an electronic road show that is a written communication will make it an issuer free writing prospectus. <sup>293</sup>still be a written communication.real-time to a live audience from the definition of graphic communication. The exclusion for presentations to a live audience that originate live, in real-time also covers overflow rooms at live, in-person road shows. The rules we are adopting today do not affect the treatment of written communications or road shows regarding business combination transactions to which Rule 425 and Regulation M-A apply.
 
-<h>2. Treatment of Electronic Road Shows</h>
+2. Treatment of Electronic Road Shows
 
 Electronic road shows have to date proceeded in reliance on a series of no-action letters granted by the staff of the Division of Corporation Finance. <sup>294</sup> The rules we are adopting today permit the use of electronic road shows without many of the conditions in the electronic road show no-action letters. <sup>295</sup> As we discussed in the Proposing Release, the electronic road show no-action letters for registered public offerings are withdrawn as of the effective date of Rule 433. <sup>296</sup>
 
@@ -1718,7 +1248,7 @@ A few commenters asked for further guidance on which categories of information c
 
 Whether or not road shows are written communications, all road shows that are offers are subject to Securities Act Section 12(a)(2) liability. In addition, all road shows that are offers that are written communications are free writing prospectuses, whether or not required to be filed.versions.
 
-<h>3. Comments on Electronic Road Shows</h>
+3. Comments on Electronic Road Shows
 
 Commenters generally supported permitting electronic road shows. <sup>299</sup> While commenters supported the filing exclusion for electronic road shows, a significant number of commenters were concerned about the proposed rules conditions affecting electronic road shows. <sup>300</sup> Most of the comments related to the treatment of live, real-time road shows transmitted electronically as graphic communications. <sup>301</sup> These commenters believed that all live, real-time road shows, including those that are transmitted graphically to “overflow rooms,” should be treated as oral communications. <sup>302</sup> The commenters also argued that all materials provided or made available at these live graphically transmitted road shows, including slides and other materials used but not retained by participants should be treated as oral communications and should not be required to be filed with us under Rule 433. <sup>303</sup> Many commenters were concerned that putting greater restrictions on these road shows would eliminate the ability of out of town investors to participate in these road shows and view PowerPoint® and similarpresentations which would, therefore, reduce the amount of information that these investors receive. <sup>304</sup>
 
@@ -1734,15 +1264,15 @@ Some commenters also did not support requiring the filing of any issuer informat
 
 We believe that our treatment of road shows, including electronic road shows, strikes the appropriate balance between the need to market an issuer’s securities to institutional investors and the desires of retail and other investors to have access to issuer information, such as management presentations, that are normally available only at roadshows that often have not been open to retail investors generally. We also believe that the Rule as adopted addresses some of the concerns that important information about an issuer or an offering can be communicated at electronic (as well as live) road shows, rather than in the statutory prospectus. In this regard, as we noted in the Proposing Release, the Report and Recommendations of the NASD/NYSE IPO Advisory Committee recommended that issuers be required to make a version of their IPO road show available electronically to unrestricted audiences. <sup>310</sup> While we are not requiring that road shows be made available to unrestricted audiences, issuers and underwriters are free to make road shows available to all investors and we believe that our new rules will encourage issuers to do so where retail interest justifies such unrestricted availability.
 
-<h>E. Treatment of Communications on Web Sites and Other Electronics Issues</h>
+E. Treatment of Communications on Web Sites and Other Electronics Issues
 
-<h>1. General</h>
+1. General
 
 The communications rules we are adopting will enable issuers and market participants to take significantly greater advantage of the Internet and other electronic media to communicate and deliver information to investors. We have addressed previously the circumstances under which an issuer retains responsibility for information included on its web site; <sup>311</sup> however, the rules we are adopting today expand possibilitiesin this regard due to the ability to communicate outside the statutory prospectus, including posting information on web sites that will be free writing prospectuses.
 
 We are adopting Rule 433(e) as proposed to make clear that an offer of an issuer’s securities that is contained on an issuer’s web site or that is contained on a third party web site hyperlinked from the issuer’s web site is considered a written offer of such securities made by the issuer and, unless otherwise exempt, will be a free writing prospectus of the issuer. Accordingly, the requirements of Rule 433 will apply to these free writing prospectuses. <sup>312</sup>
 
-<h>2. Historical Information on an Issuer Web Site</h>
+2. Historical Information on an Issuer Web Site
 
 As we discussed in the Proposing Release, we recognize the importance of an issuer’s web site as a means to communicate with the public, not just with potential investors in an offering, about its business. In this regard, commenters on our 2000 Electronics Release expressed concerns regarding the possibility that historical issuercommunications made by or attributed to the issuer. Web site content differs from traditional methods of distribution, however, in several important aspects. First, information that is placed on a web site can be continuously accessed as long as the information remains posted. Second, issuers are able to hyperlink to other documents, information, and web sites, thereby allowing instant access to such documents, information, and web sites. See 2000 Electronics Release, note 96, at II.B.information on an issuer’s web site that is accessed at a later time would be considered “republished” at that later date, with attendant securities law liability. <sup>313</sup>
 
@@ -1754,7 +1284,7 @@ The use of that historical information will become a current offer if it is:inco
 
 While Rule 433(e)(2) addresses particular situations in which information retained on a web site will not be considered a free writing prospectus, other information located on or hyperlinked to a web site might similarly not be considered a current offer of the issuer’s securities and, therefore, not a free writing prospectus, where it can be demonstrated that the information was published previously. <sup>315</sup> For example, certain information that, while not contained in a separate section of an issuer’s web site, is dated or otherwise identified as historical information and is not referred to in connection with the offering activities may not be a current offer, depending on the particular facts and circumstances.
 
-<h>3. Comments on Treatment of Communications on Web Sites and Other Electronics Issues</h>
+3. Comments on Treatment of Communications on Web Sites and Other Electronics Issues
 
 Commenters supported the provisions of proposed Rule 433 clarifying the treatment of information contained on or hyperlinked to web sites of issuers and offering participants. <sup>316</sup> Some commenters requested that the Commission provide greater explanation of what might constitute “historical” information, including whether and howinformation is archived. <sup>317</sup> Commenters also desired further clarification of the treatment under the free writing prospectus rules of information on an issuer’s web site hyperlinked from a third party’s web site. <sup>318</sup>
 
@@ -1762,9 +1292,9 @@ Rule 433(e)(2) addresses particular situations in which information on an issuer
 
 Finally, information that is an offer and is contained on the web site of an offering participant or contained on the web site of another person hyperlinked from the web site of an offering participant could be a free writing prospectus of that offering participant.
 
-<h>F. Media Publications or Broadcasts</h>
+F. Media Publications or Broadcasts
 
-<h>1. Overview</h>
+1. Overview
 
 As we discussed in the Proposing Release, we believe it is important to identify the circumstances under which information released or disseminated to the media by an issuer or offering participant in connection with a registered offering will be considered the use of a free writing prospectus under the new rules. We recognize that the financial news media are a valuable source of information about issuers to the public at large.
 
@@ -1774,11 +1304,11 @@ We want to encourage the role of the media as an important communicator of infor
 
 However, we do not want issuers and offering participants to avoid responsibility for their offering or marketing efforts by using the media. We, therefore, believe that it is appropriate to address in our new rules offers that take place using the media as a communication vehicle. Under the rules we are adopting today, where an issuer or any offering participant provides information about the issuer or the offering that constitutes an offer, whether orally or in writing, to a member of the media and where the media publication of that information is an offer by the issuer or other offering participant, we will consider the publication to be a free writing prospectus of the issuer or offering participant in question.
 
-<h>2. Application of Rule 164 and Rule 433 to Media Publications</h>
+2. Application of Rule 164 and Rule 433 to Media Publications
 
 As we proposed, under the rules we are adopting today, the treatment of a media publication that constitutes an offer and therefore a free writing prospectus of the issuer or other offering participant will depend on whether the issuer or other offering participant prepares the publication or television or radio broadcast or pays for or provides other consideration for the publication or broadcast, or whether unaffiliated media prepares and publishes or broadcasts the communication for no consideration or payment from an issuer or offering participant.
 
-<h>a. Prospectus Delivery or Availability</h>
+a. Prospectus Delivery or Availability
 
 Where Media Publications Are Prepared or Consideration Paid by Issuer or Offering Participant
 
@@ -1790,7 +1320,7 @@ Unaffiliated Media Publications
 
 Where, however, the free writing prospectus is prepared and published or broadcast by persons in the media business that are unaffiliated with the issuer andanother offering participant, <sup>319</sup> and the preparation, publication, or broadcast is not paid for by the issuer or other offering participant, our rules include certain accommodations. In these cases, an issuer or offering participant would not have to have a statutory prospectus precede or accompany the media communication, although a filed registration statement including a statutory prospectus would be necessary, except in the case of a well-known seasoned issuer. <sup>320</sup> Therefore, an interview or other media publication or television or radio broadcast where an issuer or offering participant participates (but does not prepare or pay for the event or article) could be a free writing prospectus, but because of the media intervention, we conclude that its use should not be conditioned on prior or simultaneous delivery of the statutory prospectus. For example, an underwriter or issuer will be permitted to invite the press to a live road show or an electronic road show, but, in most cases, we will consider an article including information obtained at that road show to be a free writing prospectus of the issuer or underwriter and subject to the rules regarding free writing prospectuses. <sup>321</sup> As another example, if a chief executive officerof a non-reporting issuer gives an interview to a financial news magazine without payment to the magazine for the article, the publication of the article after the filing of the registration statement will be a free writing prospectus of the issuer that will be subject to the filing conditions by the issuer after publication. In that case, there will be no requirement that a statutory prospectus precede or accompany the article at the time of the publication.
 
-<h>b. Filing</h>
+b. Filing
 
 We are adopting the filing condition applicable to free writing prospectuses that are media publications or television or radio broadcasts with some modifications from the proposals in response to comments. Rule 433(f) provides that the filing condition of Rule 433(d) will be satisfied where a free writing prospectus including information about the issuer, its securities, or the offering provided, authorized, or approved by or on behalf of the issuer or an offering participant, that is prepared and published or disseminated by persons in the media business who are not affiliated with or paid by the issuer or an offering participant (with certain exceptions for issuers in the media business), is filed by the issuer or offering participant involved within four business days after the issuer or offering participant becomes aware of its publication or first broadcast. <sup>322</sup> Persons in the media have no filing or other responsibilities under these provisions. <sup>323</sup>information provided at a readily accessible electronic road show open to an unrestricted audience may not be an offer as discussed above where there is no other involvement by an issuer or offering participant.
 
@@ -1798,11 +1328,11 @@ We have made certain modifications to the filing conditions from the proposals. 
 
 We also have provided that an issuer or other offering participant does not have to file the media publication if the substance of the written communication has been previously filed with us. Finally, the issuer or offering participant may file, together with or after the media publication is filed, information that the issuer reasonably believes is necessary or appropriate to correct information included in the media publication. <sup>324</sup> We believe that these additional provisions will give issuers and offering participants the ability to file the publications on a timely basis, to file the underlying materials in lieu of the publication, and to file correcting materials after publication, television or radio broadcast, or other dissemination, if there is concern about the accuracy of the publication. <sup>325</sup>offer.
 
-<h>c. Issuers in the Media Business</h>
+c. Issuers in the Media Business
 
 In response to comments about the impact the condition that the media entity is unaffiliated with the issuer has on issuers that are in the media business, <sup>326</sup> we have provided a limited exclusion that would permit issuers that are in the media business to be able to rely on the unaffiliated media condition if the media issuer or its affiliated media business:is the publisher of a bona fide newspaper, magazine, or business or financial publication of general and regular circulation or bona fide broadcaster of news including business and financial news; <sup>327</sup>has established policies and procedures for the independence of the content of the publication or broadcast from the offering activities of the issuer; andpublishes or broadcasts the communication in the ordinary course.
 
-<h>3. Responses to Comments on Treatment of Media Publications</h>
+3. Responses to Comments on Treatment of Media Publications
 
 Among the issues commenters raised, many focused on the treatment of media reports under the proposed rules regarding free writing prospectuses. <sup>328</sup> They expressedcircumstances. In addition, because the exception for free writing prospectuses is non-exclusive and does not preclude reliance on other exclusions or exemptions from the gun-jumping provisions, compliance with the conditions of Rule 433 for the use of a free writing prospectus, including filing, does not preclude reliance on the argument that the communication is not an offer.concern as to whether the issuer or offering participants were obligated to monitor media releases and provide correcting information. <sup>329</sup> These commenters were concerned about the ability to satisfy the conditions of the exemption if the media reports or publicity about the issuer or its securities occurred prior to the filing of a statutory prospectus.
 
@@ -1814,17 +1344,17 @@ We also have made accommodations so that issuers in the bona fide media business
 
 As in the case of the safe harbors for factual business information, some commenters also requested that we revise the definition of “by or on behalf of” an offering participant to include only those communications that were made by specific authorized persons and to provide that the issuer or other offering participant is not liablefor unauthorized communications. <sup>334</sup> For the reasons noted above, we are not modifying the definition of “by or on behalf of” to limit it to specified persons.
 
-<h>G. Liability Issues Affecting Free Writing Prospectuses</h>
+G. Liability Issues Affecting Free Writing Prospectuses
 
-<h>1. General</h>
+1. General
 
 Even when filed, a free writing prospectus will not be part of a registration statement subject to liability under Securities Act Section 11, unless the issuer elects to file it as a part of the registration statement. Regardless of whether a free writing prospectus is filed, any seller offering or selling securities by means of the free writing prospectus will be subject to disclosure liability under Securities Act Section 12(a)(2). A free writing prospectus also can, of course, be the basis for liability under the anti-fraud provisions of the federal securities laws.
 
-<h>2. Filed Free Writing Prospectus Not Part of Registration Statement</h>
+2. Filed Free Writing Prospectus Not Part of Registration Statement
 
 A free writing prospectus used after a registration statement is filed complying with Rule 433 will be governed by the provisions of Securities Act Section 10(b), which provides that a prospectus permitted under that section is filed as part of the registration statement, but is not subject to Section 11 liability. We are adopting as proposed the modification to the Section 10(b) filing requirement to provide that a free writing prospectus filed pursuant to Rule 433 must identify the registration statement to which it relates, but Rule 433 provides that it will not have to be filed as part of the registration statement. We believe that the modified filing condition will enhance investor protectionbecause it should facilitate filing of the free writing prospectus on a timely basis and more readily identify the filed information as a free writing prospectus. <sup>335</sup>
 
-<h>3. Cross-Liability Issues</h>
+3. Cross-Liability Issues
 
 As we discussed in the Proposing Release, we provided that the filing condition applied only to an issuer free writing prospectus and issuer information or to information in a free writing prospectus broadly disseminated, to address the concerns that commenters on our 1998 proposals had about cross liability under Securities Act Section 12(a)(2) for free writing materials of other offering participants. <sup>336</sup> As we discuss above, we are adopting the filing condition substantially as proposed so that it does not extend to a free writing prospectus prepared by an underwriter, even one including information prepared on the basis of or derived from issuer information that does not include issuer information, unless the free writing prospectus falls into the “broad dissemination” category. Free writing prospectuses sent directly to customers of an offering participant, without regard to number, are not broadly disseminated for purposes of the Rule.
 
@@ -1836,7 +1366,7 @@ The Rule, as revised, also provides that a person will not be considered to offe
 
 <h>c. Interaction of New Communications Rules with Regulation FD</h>
 
-Amendments to Regulation FD
+i. Amendments to Regulation FD
 
 As a consequence of our new rules to liberalize communications during the offering process and encourage continuing ongoing regular communications by reporting issuers, we are revisiting the exclusions from Regulation FD for communications made during a registered offering of securities. <sup>341</sup> The communications regime that we are adopting today contemplates that, in connection with an offering, certain materialnon-public issuer information can be made public through the prospectus filed as part of a registration statement or the issuer’s filing of free writing prospectuses. Oral communications of an issuer made in connection with a registered offering after the registration statement is filed will continue not to be subject to any filing or public disclosure requirement. As we stated in the Proposing Release, we continue to believe
 
@@ -1850,7 +1380,7 @@ Second, prior to our actions today, Regulation FD applied to offerings of the ty
 
 In view of our new rules to expand permissible communications, we believe it is appropriate to clarify that the communications excluded from the operation of Regulation FD are, in fact, those communications that are directly related to a registered securities offering. Communications not contained in our enumerated list of exceptions from Regulation FD – for example, the publication of regularly released factual business information or regularly released forward-looking information or pre-filing communications – are subject to Regulation FD.
 
-Comments on Amendments to Regulation FD
+ii. Comments on Amendments to Regulation FD
 
 Most commenters on the proposed changes to Regulation FD supported the inclusion of the specific enumeration of communications in connection with offerings that are not subject to the provisions of Regulation FD. <sup>344</sup> Commenters expressedemployee benefit plan of the issuer; (3) securities to be issued upon the exercise of outstanding options, warrants, or rights; (4) securities to be issued upon conversion of other outstanding securities; (5) securities pledged as collateral; and(6) securities registered on Form F-6.concern that the proposed changes limited the Regulation FD exclusion only to registered offerings involving capital formation transactions. <sup>345</sup> Some commenters believed that the Regulation FD exclusion should cover all secondary offerings (those on behalf of selling security holders), regardless of whether conducted as part of an issuer capital raising transaction. <sup>346</sup>
 
@@ -1876,11 +1406,11 @@ Rules 137, 138, and 139 under the Securities Act describe circumstances in which
 
 The amendments we are adopting today are designed to ensure that appropriate investor protections are maintained. In that regard, we have maintained our current approach with respect to liability for research, which includes general anti-fraud liability,used in reliance on these rules. <sup>354</sup>
 
-Definition of Research Report
+i. Definition of Research Report
 
 Based on comments, we believe it is important to have a significant measure of consistency between Regulation AC and the research safe harbors contained in Rules 137, 138, and 139. We do not believe, however, that absolute consistency is appropriate in recognition of the differences in the purposes of the rules. Accordingly, we are adopting a definition of research report that builds on the definition of “research report” in Regulation AC, while preserving the purposes of Rules 137, 138, and 139.
 
-<h>A. Definition</h>
+A. Definition
 
 As adopted, “research report” is defined as a written communication, as defined in Securities Act Rule 405, that includes information, opinions, or recommendations with respect to securities of an issuer or an analysis of a security or an issuer, whether or not it provides information reasonably sufficient upon which to base an investment decision. <sup>355</sup> This definition is intended to encompass all types of research reports, whetherissuer-specific or industry research separately identifying the issuer.
 
@@ -1900,13 +1430,13 @@ Research Reports , Release No. 33-6492 (Oct. 5, 1983)[48 FR 46801]. See Publicat
 
 No. 33-6550 (Sept. 19, 1984) [49 FR 36719]; Amendments to Clarify Safe Harbors for Broker-Dealer Research Reports , Release No. 33-7120 (Dec. 13, 1994) [59 FR 31038]; and Adoption of Amendments to Clarify Safe Harbors for Broker-Dealer Research Reports , Release No. 33-7132 (Feb. 1, 1995) [60 FR 6965]. See also the Wheat Report, note 21.
 
-<h>B. Comments on Definition of Research Report</h>
+B. Comments on Definition of Research Report
 
 While commenters supported the proposed amendments to the research safe harbors, <sup>359</sup> they were concerned that the proposed definition of research report would narrow the types of research that would be eligible for the safe harbors. <sup>360</sup> In particular, commenters requested that the research report definition not be the same as in Regulation AC requiring that the research report contain information sufficient upon which to make an investment decision. <sup>361</sup> Rather, the commenters requested that, as today, the research safe harbors be available for information, opinions, and recommendations about an issuer or its securities. <sup>362</sup> Some commenters also requested that the definition of research permit the use of oral, rather than just written, research in reliance on the safe harbors. <sup>363</sup>
 
 As we discuss above, we have revised the proposed definition of research report for purposes of Rules 137, 138, and 139 to make clear that it continues to apply to information, opinions, or recommendations contained in written communications. We agree with commenters that for purposes of Rules 137, 138, and 139 a research report does not have to contain information sufficient to make an investment decision for the research safe harbors to be available and have revised the definition accordingly. We have not, however, expanded the scope of the research safe harbors to encompass oral communications.
 
-Rule <sup>137</sup>
+ii. Rule 137
 
 Rule 137 provides that a broker or dealer that is not an offering participant in a registered offering but publishes or distributes research reports with respect to an issuer’s securities will not be considered to be engaged in a distribution of the issuer’s securities and would therefore not be an underwriter in the offering. We are expanding the exemption, as proposed, to apply to securities of any issuer, including non-reporting issuers, with exceptions for blank check companies, shell companies, and penny stock issuers. Rule 137 will continue to be available only to brokers and dealers who:are not participating in the registered offering of the issuer’s securities;have not received compensation from the issuer, its affiliates, or participants in the securities distribution, among others, in connection with the research report; andpublish or distribute the research report in the regular course of business.
 
@@ -1914,11 +1444,11 @@ Commenters supported the proposed changes to Rule 137 but requested that the rul
 
 We are adopting as proposed, and as is in current Rule 137, the provision prohibiting compensation in connection with the publication or distribution of the research report. In response to commenters’ concerns regarding compensation, however, we have clarified the compensation language in Rule 137 to provide that the prohibitionon compensation applies to compensation for the particular research report. While the safe harbor covers research reports provided after effectiveness of the registration statement, it continues to be an exemption from the definition of underwriter.
 
-Rule 138
+iii. Rule 138
 
 Rule 138 permits a broker or dealer participating in a distribution of an issuer's common stock and similar securities to publish or distribute research that is confined to that issuer’s fixed income securities, and vice versa, if it publishes or distributes that research in the regular course of its business. We believe it is appropriate to permit research on a broader group of reporting issuers under Rule 138 in view of the regulatory reforms and the role of independent research. Further, we believe the current limitation on the type of issuers under this Rule is no longer necessary to protect investors.
 
-<h>A. Amendments to Rule 138</h>
+A. Amendments to Rule 138
 
 We are amending Rule 138 substantially as proposed to expand the categories of eligible issuers. As adopted, the Rule generally will cover research reports on all reporting issuers that are current in their periodic Exchange Act reports on Forms 10-K, 10-KSB, 10-Q, 10-QSB, and 20-F at the time of reliance on the exemptions, rather than only issuers who are Form S-3 or Form F-3 eligible, as is currently the case. In addition, in response to commenters’ suggestions, we are expanding the Rule as it applies to foreign private issuers to allow broker-dealers publishing or distributing research reports on non-reporting foreign private issuers that either have had equity securities traded on a designated offshore market or have a $700 million worldwide public float to rely on the
 
@@ -1926,19 +1456,19 @@ Rule. <sup>366</sup> Like the amendments regarding Rules 137 and 139 that we are
 
 We also are adopting as proposed the condition to the Rule 138 exemption that the broker or dealer must have previously published or distributed research reports on the types of securities that are the subject of the reports in the regular course of its business. <sup>367</sup> As we stated in the Proposing Release, we believe that it is appropriate to include this condition because it is important that the broker or dealer have a history of publishing or distributing a particular type of research. This condition does not mean, however, that the broker or dealer must have a history of publishing research reports about the particular issuer or its securities. If a broker or dealer begins publishing research about a different type of security around the time of a public offering of an issuer’s security and does not have a history of publishing research on those types of securities, we are concerned that such publication or distribution might be a way to provide information about the publicly offered securities in order to circumvent the provisions of Section 5 and the permissible free writing rules we are adopting today.
 
-<h>B. Comments on Rule 138 Amendments</h>
+B. Comments on Rule 138 Amendments
 
 Commenters generally supported the expansion of the safe harbor to a broader class of issuers. <sup>368</sup> Some commenters suggested that the safe harbor also be available to research reports on voluntary filers and Schedule B issuers and that it apply to all private offerings. <sup>369</sup> A number of commenters requested a further change to the existing provisions of Rule 138 to eliminate the foreign private issuer eligibility condition regarding trading on a designated offshore securities market. <sup>370</sup> Finally, some commenters requested clarification of the condition that the broker or dealer be publishing reports on the same types of securities to be able to rely on the safe harbor, while others recommended eliminating this condition. <sup>371</sup>
 
 We have adopted the amendments to Rule 138 substantially as proposed. We do not believe it is appropriate at this time to further expand the categories of eligible issuers under the Rule, other than for certain non-reporting foreign private issuers that have a significant worldwide public float. We have clarified that the broker dealer does not have to be publishing or distributing research reports about a particular issuer or its securities to rely on the Rule, only that the research reports cover the same types of securities. We have not expanded the scope of the research safe harbor to cover all private offerings.
 
-Rule 139
+iv. Rule 139
 
 Rule 139 permits a broker or dealer participating in a distribution of securities by a seasoned issuer or by certain non-reporting foreign private issuers to publish researchconcerning the issuer or any class of its securities, if that research is in a publication distributed with reasonable regularity in the normal course of its business. Rule 139 also provides a safe harbor for industry reports covering smaller seasoned issuers, if the broker or dealer complies with restrictions on the nature of the publication and the opinion or recommendation expressed in that publication.
 
-<h>A. Issuer-Specific Reports</h>
+A. Issuer-Specific Reports
 
-<h>1. Amendments Regarding Issuer-Specific Reports</h>
+1. Amendments Regarding Issuer-Specific Reports
 
 We are adopting the amendments to Rule 139 to allow reports about a specific issuer that, at the time of reliance on the Rule, is current in its Exchange Act periodic reports and:at the later of the time of filing its most recent registration statement on Form S-3 or Form F-3 or the time of filing of its most recent amendment to such registration statement for purposes of complying with Securities Act Section 10(a)(3), is eligible to register a primary offering of securities on Forms S-3 or F-3, based on the $75 million minimum public float eligibility provision of those forms; orat the time of reliance on the Rule, the issuer’s registration statement covers an offering of the issuer’s securities in reliance on General Instruction I.B.2 of Form S-3 or Form F-3.
 
@@ -1950,13 +1480,13 @@ As we stated in the Proposing Release, we do not believe that the reasonable reg
 
 As we note previously, we are not requiring any minimum time period for the broker or dealer to have distributed or published research reports, only that the particular broker or dealer have initiated or re-initiated coverage. In addition, the amendment as adopted does not require that the previously published or distributed research report cover the same securities that are the subject of the registered offering.
 
-<h>2. Comments on Issuer-Specific Reports</h>
+2. Comments on Issuer-Specific Reports
 
 Commenters supported extending the safe harbor to a broader class of issuers and recommended further extension to all reporting issuers, investment companies, and business development companies. <sup>373</sup> We have not extended the safe harbor to a broader class of issuers than we proposed, other than for certain non-reporting foreign private issuers with a significant public float. Commenters also requested clarification that the proposed changes would only require the publication or distribution of one prior researchworldwide public float.report in order to be able to rely on the safe harbor. <sup>374</sup> As noted above, we have clarified the Rule in this regard to require only that coverage be initiated or re-initiated.
 
-<h>B. Industry-Related Reports</h>
+B. Industry-Related Reports
 
-<h>1. Amendments Regarding Industry-Related Reports</h>
+1. Amendments Regarding Industry-Related Reports
 
 As adopted, industry reports under Rule 139 can cover issuers required to file reports pursuant to Exchange Act Section 13 or Section 15(d) and issuers satisfying the conditions regarding non-reporting foreign private issuers. The safe harbor for industry reports is not available if the issuer is or during the last three years was or any of its predecessors was a blank check company, shell company (other than business combination related shell company), or penny stock issuer. As adopted, the amendments extend the safe harbor for industry reports to registered offerings of any reporting issuer.
 
@@ -1966,13 +1496,13 @@ We believe that the recently adopted safeguards regarding analyst recommendation
 
 In the instruction regarding projections, we are requiring that projections be provided for substantially all the issuers listed in the comprehensive list of securities contained in the report.
 
-<h>2. Comments on Industry-Related Reports</h>
+2. Comments on Industry-Related Reports
 
 Commenters supported the safe harbor for industry-related reports for all reporting issuers and suggested expanding the safe harbor further to include all issuers, whether or not reporting, including voluntary filers. <sup>375</sup> Commenters also supported the elimination of the previous publication condition in the safe harbor. <sup>376</sup> Some commenters thought that the disqualification for research reports on blank check, shell companies, and penny stock issuers should remain at two years, not three, and that Rules 137 and 138 should have only a two-year disqualification. <sup>377</sup>
 
 We have not expanded the coverage of the safe harbor to all issuers or to include voluntary filers. In addition, we have provided that the disqualification for blank check companies, shell companies (other than business combination related shell companies), and penny stock issuers is for three, rather than two, years to be consistent with all of the Rules we are adopting today that have similar disqualification provisions.
 
-Rule 139a
+v. Rule 139a
 
 In the Asset-Backed Securities Adopting Release, we noted that we were considering amendments to Rules 137, 138 and 139 in connection with these reform proposals and:
 
@@ -1982,13 +1512,13 @@ In light of the modifications we are making to Rule 139 today to eliminate the r
 
 Commenters suggested the elimination of paragraph (c) and also suggested that the “reasonable regularity” requirement in Rule 139a be eliminated. While we have eliminated the latter requirement in Rule 139, we have added a requirement that the research report not represent the initiation or reinitiation of research coverage. In Rule 139a the “reasonable regularity” requirement extends to reports on multiple issuers and transactions. We have therefore decided to retain the “reasonable regularity” requirement in Rule 139a.
 
-Research Report Amendments in Connection with Regulation S and Rule 144A Offerings
+vi. Research Report Amendments in Connection with Regulation S and Rule 144A Offerings
 
 We are concerned that the restrictions in Regulation S on directed selling efforts and offshore transactions <sup>379</sup> and in Rule 144A on offers to non-qualified institutional buyers (“QIBs”) and general solicitation <sup>380</sup> have resulted in brokers and dealers unnecessarily withholding regularly published research. <sup>381</sup> Accordingly, we are adopting as proposed amendments providing that research reports meeting the conditions of Rule 138 and Rule 139 will not be considered offers or general solicitation or general advertising in connection with offerings relying on Rule 144A. <sup>382</sup> The amendments also provide that these research reports will not constitute directed selling efforts or be inconsistent with the offshore transaction requirements of Regulation S. <sup>383</sup>
 
 We do not believe that the publication of research in reliance on Rules 138 and 139 will jeopardize the interests of investors in transactions relying on Rule 144A or Regulation S. On the other hand, limiting the ability to rely on these exemptions when research on the issuers may otherwise be available could, we believe, negatively impact information available to investors. Commenters supported the proposals to exempt research reports meeting the conditions of the safe harbor from the restrictions in Regulation S and Rule 144A. <sup>384</sup>
 
-Research and Proxy Solicitations
+vii. Research and Proxy Solicitations
 
 We are adopting with one modification from the proposal a codification of a Commission staff position <sup>385</sup> that the publication or distribution of research under the conditions set forth in Rules 138 and 139 is permitted in connection with a transaction that is subject to the proxy rules under the Exchange Act. <sup>386</sup> The new Rule provides that distribution of research in accordance with Rule 138 or Rule 139 is a solicitation to which Rules 14a-3 through 14a-15 (other than Rule 14a-9) of the proxy rules <sup>387</sup> does not apply. Commenters supported the proposal to codify the staff position and one requested that the exemption not be restricted to use only in connection with transactions registered under the Securities Act. <sup>388</sup> We are adopting Rule 14a-2(b)(5) without the requirement that the exemption be limited to transactions registered under the Securities Act.
 
@@ -2112,9 +1642,9 @@ As discussed in greater detail below, we are adopting the procedural changes wit
 
 <h>b. Information in a Prospectus</h>
 
-Mechanics
+i. Mechanics
 
-<h>A. Rule 430B</h>
+A. Rule 430B
 
 Rule 415 provides for continuous or delayed offerings and is, therefore, the foundation for shelf registration. Primary offerings on a delayed basis may be registered by certain seasoned issuers only. A number of other delayed or continuous offerings may be undertaken or registered by any issuer, including offerings on a continuous basis of securities issued on exercise of outstanding options or warrants or conversion of other securities, offerings on a continuous basis under dividend reinvestment plans, offerings on a continuous basis under employee benefit plans, and offerings solely on behalf of selling security holders. Rule 415 also permits registration by any issuer of a continuous offering that will commence promptly and may continue for more than 30 days from the date of initial effectiveness. <sup>435</sup>
 
@@ -2138,7 +1668,7 @@ Commenters supported proposed Rule 430B because of the level of certainty it wou
 
 For asset-backed securities offerings made in reliance on General Instruction I.B.5 of Form S-3, because those issuers do not have to satisfy a reporting history requirement, asset-backed securities offerings often must present most of their disclosure in the base prospectus and prospectus supplements rather than incorporate such information by reference into the registration statement. Thus, for purposes of Section 10, a prospectus for an asset-backed securities offering must include the format of deal-specific information in the base prospectus or the base prospectus and a prospectus supplement. See Asset-Backed Securities Adopting Release, note 82, at Section III.A.3.b. and General Instruction V. to Form S-3.
 
-<h>B. Means for Providing Information</h>
+B. Means for Providing Information
 
 A base prospectus that omits statutorily required information is not a Securities Act Section 10(a) final prospectus, and today’s rules do not change that fact. To satisfy the requirements of Securities Act Section 10(a), as is the case with shelf registration statements today, an issuer must include the information omitted from the base prospectus in:a prospectus supplement;a post-effective amendment; orwhere permitted as described below, through its Exchange Act filings that are incorporated by reference into the registration statement and prospectus that is part of the registration statement and identified in a prospectus supplement.
 
@@ -2148,9 +1678,9 @@ The rules we are adopting today provide primary shelf eligible issuers and well-
 
 Exchange Act reports. <sup>447</sup> Such information also can be contained in the prospectus or a prospectus supplement. <sup>448</sup> For example, material changes in the plan of distribution, which currently are required to be included in post-effective amendments, can be amended under our new rules by incorporated Exchange Act reports or prospectus supplements. <sup>449</sup> Rule 430B also requires that a prospectus supplement be prepared and filed pursuant to Rule 424 if omitted information about an offering, such as the terms of the offering, the securities, the plan of distribution, or the selling security holders, is included in an Exchange Act report incorporated by reference. The prospectus supplement filed pursuant to Rule 424 must disclose the Exchange Act report or reports containing such information. This disclosure will assist investors and the markets in locating this offering-related information and will also be consistent with the treatment of other prospectus supplements filed for these purposes.
 
-<h>C. Identification of Selling Security Holders Following Effectiveness</h>
+C. Identification of Selling Security Holders Following Effectiveness
 
-<h>1. Scope of Provision</h>
+1. Scope of Provision
 
 As we discussed in the Proposing Release, transfers of restricted securities can occur after a private placement is completed so that the identities of the holders of those restricted securities at the time of filing the resale registration statement may not beinformation.known to the issuer. <sup>450</sup> Filing post-effective amendments to add new or previously unidentified security holders can impose delays. To alleviate the timing concern arising from an issuer’s inability to identify selling security holders prior to effectiveness, we are including provisions to allow issuers eligible to use Form S-3 or Form F-3 for primary offerings in reliance on General Instruction I.B.1 to those Forms <sup>451</sup> to identify selling security holders and the amounts of securities to be registered on behalf of each of them after effectiveness.
 
@@ -2164,7 +1694,7 @@ The issuer can still register the resale of the not-yet-issued securities, but i
 
 We believe that it is important for issuers to be able to satisfy their contractual registration obligations to selling security holders in registering their resales, while also assuring that offerings are properly registered and the selling security holders and the securities to be sold by them are identified in the registration statement. The purpose of this provision of Rule 430B is to provide a more convenient method to identify selling security holders in registration statements, and not to change the existing responsibilities and liabilities of issuers and these selling security holders under the federal securities laws.
 
-<h>2. Comments on Identification of Selling Security Holders</h>
+2. Comments on Identification of Selling Security Holders
 
 Commenters expressed support for the proposals to allow seasoned issuers the ability to identify selling shareholders after effectiveness. <sup>457</sup> As with many of the other proposals, some believed that this flexibility also should be extended to unseasoned issuers. <sup>458</sup> In addition, one commenter suggested that we eliminate the proposed requirement that the issuer identify any known selling security holders prior to effectiveness, because some selling security holders known to the issuer may not have consented to the inclusion of their names in the prospectus. <sup>459</sup>
 
@@ -2172,19 +1702,19 @@ In response to commenters’ suggestions, we have clarified that the initial tra
 
 Commenters also suggested that we should allow all issuers to be able to identify selling security holders after effectiveness. <sup>460</sup> We have determined not to extend this flexibility to all issuers. We believe that issuers that are not eligible to file a primary offering on Form S-3 or Form F-3 are more prone, in general, to engage in transactions some of which have raised disclosure and registration issues. <sup>461</sup> As a result, we believe it is important to have complete selling security holder information and be able to review that information in registration statements to assure compliance with Section 5 and our disclosure rules in connection with these offerings.
 
-Information Deemed Part of Registration Statement
+ii. Information Deemed Part of Registration Statement
 
 We are adopting provisions in Rule 430B that will make clear that information contained in a prospectus supplement required to be filed under Rule 424, whether in connection with a takedown or otherwise, will be deemed part of and included in the registration statement containing the base prospectus to which the prospectus supplement relates. We also are adopting new Rule 430C that has similar provisions regarding thetreatment of prospectus supplements, which applies to offerings not covered by Rule 430B and prospectuses not covered by Rule 430A. As a result of Rule 430B and Rule 430C, prospectus supplements required to be filed under Rule 424 or Rule 497(b), (c), (d), or (e) will, in all cases, be deemed to be part of and included in registration statements for purposes of Securities Act Section 11.
 
-Date of Inclusion of Prospectus Supplements in Registration Statements and New Effective Dates of Registration Statements
+iii. Date of Inclusion of Prospectus Supplements in Registration Statements and New Effective Dates of Registration Statements
 
-<h>A. Scope of Provisions</h>
+A. Scope of Provisions
 
 Rule 430B and Rule 430C, as adopted, deem information contained in prospectus supplements to be part of and included in the registration statement as follows:for a prospectus supplement required to be filed other than in connection with a takedown of securities, all information contained in that prospectus supplement will be deemed part of and included in the registration statement as of the date the prospectus supplement is first used; <sup>462</sup> andunder Rule 430B only, for a prospectus supplement required to be filed in connection with a takedown of securities pursuant to Rule 424(b)(2), (b)(5), or (b)(7), all information in that prospectus supplement will be deemed part of and included in the registration statement as of the earlier of the date it is first used or the date and time of the first contract of sale of securities in the offering to which the prospectus supplement relates. <sup>463</sup>
 
 We have chosen the triggering dates for prospectus supplements to be deemed part of and included in registration statements for a number of reasons. First, under Rule 430B and Rule 430C, for a prospectus supplement filed other than in connection with a takedown, we have chosen the date of first use as the appropriate date for it to be deemed part of and included in the registration statement because that is the date on which the prospectus supplement updates the information in the registration statement. <sup>464</sup> Second, under Rule 430B, a prospectus supplement filed in connection with a takedown pursuant to Rule 424 will be deemed part of and included in the registration statement as of the earlier of when it is first used or the date and time of the first contract of sale of the securities to which the prospectus supplement relates. This timing, combined with the new effective date provisions discussed below, provides the appropriate timing for assessing liability under Section 11 for issuers and underwriters.
 
-<h>B. New Effective Date for Section 11 Purposes</h>
+B. New Effective Date for Section 11 Purposes
 
 Rule 430B also establishes a new effective date for a shelf registration statement for Section 11 liability purposes only for the issuer and for a person that is at the time an underwriter. <sup>465</sup> That new effective date will be the date a prospectus supplement filed in connection with the takedown or takedowns is deemed part of the relevant registration statement. <sup>466</sup> For purposes of liability under Section 11 of the issuer and any underwriter
 
@@ -2198,17 +1728,17 @@ In the event a new consent is required, that consent may be filed by a post- eff
 
 Including information contained in prospectus supplements in registration statements and triggering new effective dates for the issuer and underwriter will provide and preserve important investor protections under the Securities Act. We believe that these modifications are appropriate to ensure issuer liability for information included in the registration statement at the time of the prospectus supplement filing.
 
-<h>C. Comments on Prospectus Supplements and New Effective Dates</h>
+C. Comments on Prospectus Supplements and New Effective Dates
 
 A number of commenters addressed the provisions providing for new effective dates of registration statements at the time of filing of prospectus supplements for takedowns off shelf registration statements. <sup>471</sup> Commenters supporting these proposals agreed that, as to shelf registration statement takedowns, the liability of issuers under Section 11 should be brought into line with the liability of underwriters. <sup>472</sup> A number of commenters were concerned with the liability of auditors, other experts, and outside directors that would arise under Section 11 as of the new effective date of the registration statement. <sup>473</sup> While some commenters believed that the Rule should provide that a newauditor’s consent is not required in connection with the takedown and new effective dates, others believed that unless the Rule was clear that the takedown would not be a new effective date for auditors and other experts, we should require that consents of these experts be provided at the new effective date. <sup>474</sup>
 
 We have revised Rule 430B in response to commenters’ concerns about new effective dates as we discuss above. We believe that these changes should provide clarity for auditors, among others, that a new effective date for them is not created and that new consents and corresponding procedures are not required as a result of Rule 430B.
 
-Amendments to Rule 415
+iv. Amendments to Rule 415
 
-<h>A. Elimination of Limitation on Amount of Securities Registered</h>
+A. Elimination of Limitation on Amount of Securities Registered
 
-<h>1. Revised Provisions</h>
+1. Revised Provisions
 
 Prior to today’s amendments, Rule 415(a)(2) limited the amount of securities that could be registered where the registration statement pertained to offerings pursuant to Rule 415(a)(1)(viii), (ix), and (x). Rule 415(a)(2) limited the amount of securities that could be registered in these offerings to an amount which, at the time the registration statement became effective, was reasonably expected to be offered and sold within two years from the initial effective date of a registration statement.
 
@@ -2220,39 +1750,41 @@ Automatic shelf registration statements are immediately effective, as discussed 
 
 We believe that, especially with our liberalization of procedures for shelf registration, particularly automatic shelf registration as described below, the precise contents of shelf registration statements may become difficult to identify over time, and that markets will benefit from a periodic updating and consolidation requirement. <sup>480</sup> The
 
-V.B.2 below under “Automatic Shelf Registration for Well-Known Seasoned Issuers.”new registration statement will include the disclosures then required under the applicable form and our rules.(2)	Comments on Elimination of Limitation on Amount of Securities Registered
+V.B.2 below under “Automatic Shelf Registration for Well-Known Seasoned Issuers.”new registration statement will include the disclosures then required under the applicable form and our rules.
+
+2. Comments on Elimination of Limitation on Amount of Securities Registered
 
 Commenters supported most of the proposed changes to Rule 415. <sup>481</sup> Some commenters were concerned that the requirement to file a new shelf registration statement every three years could result in a blackout period between the end of the three years and effectiveness of the new registration statement, during which issuers could not continue to sell securities off their old registration statements. <sup>482</sup> As noted above, we are maintaining the three-year requirement, but we are allowing the issuer to continue to offer and sell securities off its old registration statement until the earlier of the effectiveness of the new registration statement or six months after the timely filing of the new registration statement. We believe that this provision will eliminate any inappropriate blackout periods.
 
-<h>B. Immediate Takedowns From a Shelf Registration Statement Filed Under Rule 415(a)(1)(x)</h>
+B. Immediate Takedowns From a Shelf Registration Statement Filed Under Rule 415(a)(1)(x)
 
 We are amending Securities Act Rule 415(a)(1)(x), as proposed, to allow primary offerings on Form S-3 or Form F-3 to occur immediately after effectiveness of a shelfin registration statements and prospectuses to be modified or superseded by subsequently filed Exchange Act reports and prospectus supplements and our amendments to Forms S-3 and F-3 to permit most information to be included in the prospectus through incorporation by reference.registration statement. <sup>483</sup> With respect to immediate offerings from an effective registration statement, our current rules permit omission of information from the prospectus at the time of effectiveness only in reliance on Securities Act Rule 430A. <sup>484</sup> The changes we are adopting today affecting the treatment of prospectus supplements provides sufficient protection to investors to allow, in an immediate offering, omission of information under Rule 415 and Rule 430B. <sup>485</sup> Commenters on this provision expressed support for allowing immediate takedowns off of shelf registration statements in reliance on Rule 415. <sup>486</sup>
 
-<h>C. Eliminating “At-the-Market” Offering Restrictions for Seasoned Issuers</h>
+C. Eliminating “At-the-Market” Offering Restrictions for Seasoned Issuers
 
 The restrictions on primary “at-the-market” offerings of equity securities currently set forth in Rule 415(a)(4) were adopted initially to address concerns about the integrity of trading markets. <sup>487</sup> As discussed in the Proposing Release, we are eliminating these restrictions for primary shelf eligible issuers because they are not necessary to provide protection to markets or investors. The market today has greater information about seasoned issuers than it did at the adoption of the “at-the-market” limitations, due to enhanced Exchange Act reporting. Further, trading markets for these issuers’securities have grown significantly since that time. Requiring the involvement of underwriters and limiting the amount of securities that can be sold imposes artificial limitations on this avenue for these issuers to access capital. Under our revised Rule, an issuer that is registering a primary equity shelf offering pursuant to Rule 415(a)(1)(x) can register an “at-the-market” offering of equity securities without identifying an underwriter in its registration statement <sup>488</sup> and without a limitation on the amount of the offering. Issuers who are not eligible to register primary equity offerings using Rule 415(a)(1)(x) will still not be eligible to register “at-the-market” equity securities offerings. Commenters generally supported the removal of the restrictions on “at-the- market” offerings. <sup>489</sup>
 
-Rule 424 Amendments
+v. Rule 424 Amendments
 
 In conjunction with our other procedural rules, we are adopting certain companion modifications to Securities Act Rule 424. We are adding a separate new paragraph (b)(8) to Rule 424 for forms of final prospectuses not filed within the required timeframe under Rule 424. As we discuss below, this provision of Rule 424 will allow us to identify more readily final prospectuses not filed timely. <sup>490</sup> As noted above, we also are adding a separate new paragraph (b)(7) under Rule 424 for filing of prospectuses identifying selling security holders.
 
 Commenters supported the amendments to Rule 424. <sup>491</sup> Some commenters suggested additional revisions to Rule 424, including deleting references to paper copies <sup>492</sup> and defining the phrase “date it is first used. <sup>493</sup> We are adopting the changes to Rule 424 essentially as proposed. <sup>494</sup>
 
-Elimination of Rule <sup>434</sup>
+vi. Elimination of Rule <sup>434</sup>
 
 In the Proposing Release, we requested comment as to whether we should eliminate Rule 434 in its entirety. <sup>495</sup> The commenters who responded to this request believed that the Rule is superfluous and should be eliminated. <sup>496</sup> Because we believe that Rule 434 has been used only very rarely, and because our new rules regarding free writing prospectuses permit the use of written descriptions of the terms of the issuer’s securities or of the offering, such as term sheets, under more flexible circumstances, we are eliminating Rule 434. <sup>497</sup>
 
-Issuer Undertakings
+vii. Issuer Undertakings
 
 We are adopting conforming revisions to the issuer undertakings that are required in connection with a shelf registration statement. These revisions reflect the issuer’s agreement regarding the inclusion of information contained in prospectus supplements inregistration statements and new effective dates of the registration statement on filing of a prospectus supplement.
 
-<h>A. Treatment of Information in Prospectus Supplements</h>
+A. Treatment of Information in Prospectus Supplements
 
 Item 512(a) of Regulation S-K currently requires an issuer that has registered securities pursuant to Rule 415 to undertake to file a post-effective amendment to the registration statement to:include in the registration statement any prospectus required by Securities Act Section 10(a)(3);reflect in a prospectus included in the registration statement any facts or events arising after the effective date of the registration statement (or the most recent post-effective amendment thereto) which, individually or in the aggregate, represent a fundamental change in the information set forth in the registration statement; andinclude in a prospectus included in the registration statement any material information with respect to the plan of distribution not previously disclosed in the registration statement or any material change in such information in the registration statement. <sup>498</sup>
 
 Currently, shelf issuers can satisfy the first two of these obligations by filing Exchange Act periodic reports that are incorporated by reference into the registration statement. We are amending the Item 512(a) undertaking as proposed to clarify that, in shelf registration statements filed on Forms S-3 and F-3, all the disclosures required by this undertaking also may be contained in any filed prospectus supplement deemed part of and included in a registration statement or any Exchange Act report, instead of only inperiodic reports, that an issuer files that is incorporated by reference into the registration statement. <sup>499</sup> As discussed below, we also are adopting as proposed the undertaking to allow automatic shelf issuers to include in this manner all other information that has been omitted from the base prospectus, subject in the case of a takedown of securities to the filing of a prospectus supplement. In the event that satisfaction of any element of the undertaking requires the filing by any of the permitted methods of a consent of an expert, that consent may be filed by post-effective amendment to Part II of the registration statement or by filing of an Exchange Act report, such as an annual report on Form 10-K or a report on Form 8-K or Form 6-K, that is incorporated by reference into the registration statement. <sup>500</sup>
 
-<h>B. Prospectus Supplements Deemed Part of a Registration Statement and New Effective Dates</h>
+B. Prospectus Supplements Deemed Part of a Registration Statement and New Effective Dates
 
 To reflect the issuer’s understanding of and agreement to the changes described above regarding inclusion of prospectus supplements in registration statements and new effective dates, we are including a new undertaking in which the issuer will agree that, consistent with Rules 430B and 430C, information in prospectus supplements is deemed part of and included in registration statements and that, consistent with Rule 430B, new effective dates as to the issuer and underwriter will occur in respect of prospectuses related to certain shelf takedowns. <sup>501</sup> The new undertaking will assure that the issuer agrees that it has liability for information that is included in or deemed part of theregistration statement, that the liability of the issuer will be assessed as of the date such a prospectus supplement is deemed part of and included in the registration statement. <sup>502</sup>
 
@@ -2266,7 +1798,7 @@ In addition to adopting changes that will allow additional Form S-3 or Form F-3 
 
 <h>a. Overview</h>
 
-Rule Changes
+i. Rule Changes
 
 In addition to the updating of the shelf registration process described above, we are adopting rules to establish a significantly more flexible version of shelf registration for offerings by well-known seasoned issuers. This version of shelf registration, which we refer to as “automatic shelf registration,” involves filings on Form S-3 or Form F-3. The automatic shelf registration rules are in addition to the communications exemptions we are adopting today and will allow eligible well-known seasoned issuers substantially greater latitude in registering and marketing securities. The automatic shelf registration process will continue to enable the issuer, as with other shelf registrants, to take down securities off a shelf registration statement from time to time. <sup>506</sup> Automatic shelf registration is not mandatory; a well-known seasoned issuer may continue to file anyother registration statement it is eligible to use or engage in any exempt offering or offerings of exempt securities available to it. <sup>507</sup>
 
@@ -2278,7 +1810,7 @@ Issuers using an automatic shelf registration statement will be permitted, but n
 
 The rules as adopted also permit more information to be excluded from the base prospectus in an automatic shelf registration statement than from a regular shelf registration statement. The omitted information can then be included at or before the time of filing a prospectus supplement. The automatic shelf registration process, together with the loosening of the restrictions on communications, permits well-known seasoned issuers with maximum flexibility to use free writing prospectuses to structure transactions.
 
-Comments on Automatic Shelf Registration
+ii. Comments on Automatic Shelf Registration
 
 Commenters strongly supported the concept of automatic shelf registration for well-known seasoned issuers. <sup>509</sup> Commenters also believed that automatic shelfextend rights offerings to U.S. security holders.registration should be optional and, in addition, should allow issuers to control the timing of effectiveness of their registration statements, if they did not want immediate effectiveness. <sup>510</sup> A number of commenters on the procedural changes, while supporting the automatic shelf registration proposals for well-known seasoned issuers, believed that all seasoned issuers should be able to use certain of the elements of automatic shelf registration such as identification of selling security holders in prospectus supplements, omission of most information from base prospectuses, and addition of new securities and new registrants by automatically effective post-effective amendments. <sup>511</sup>
 
@@ -2288,7 +1820,7 @@ We are not mandating that automatic shelf registration be used by any issuer mee
 
 <h>b. Automatic Shelf Registration Mechanics</h>
 
-Eligibility
+i. Eligibility
 
 The automatic shelf registration procedure can be used in connection with registration statements on Form S-3 or Form F-3 for all primary and secondary offerings of securities of well-known seasoned issuers. <sup>514</sup> In general, securities of majority-owned subsidiaries of a well-known seasoned issuer parent can be included on the automatic shelf registration statement of the parent if the subsidiary satisfies the conditions for being considered a well-known seasoned issuer described above. <sup>515</sup> Under automatic shelf registration, as adopted, a registration statement can be amended by post-effective amendment to add an eligible subsidiary as an issuer. <sup>516</sup>
 
@@ -2296,15 +1828,15 @@ Under the rules we are adopting today, an issuer can file an automatic shelf reg
 
 S-3, can file a post-effective amendment or a new registration statement on Form S-3 that designates an amount of securities to be registered and otherwise complies with requirements for seasoned issuers that are not well-known seasoned issuers.
 
-Information in a Registration Statement
+ii. Information in a Registration Statement
 
-<h>A. Information That May be Omitted From the Base Prospectus</h>
+A. Information That May be Omitted From the Base Prospectus
 
 Our rules as adopted will allow well-known seasoned issuers using automatic shelf registration statements to omit more information from the base prospectus in an automatic shelf registration statement than is the case currently or than is the case in a regular shelf offering registration statement under new Rule 430B. A base prospectus included in an automatic shelf registration statement can, as today, omit information pursuant to Securities Act Rule 409 that is unknown and not reasonably available and, as adopted, can omit the following additional information:whether the offering is a primary or secondary offering;the description of the securities to be offered other than an identification of the name or class of the securities;the names of any selling security holders; andthe disclosure regarding any plan of distribution.
 
 Omitting this additional information from the base prospectus will not affect the information that an investor will be provided in connection with a particular sale. <sup>517</sup>
 
-<h>B. Mechanics for Including Information</h>
+B. Mechanics for Including Information
 
 We believe that our new rules to broaden the means by which issuers may include information in an automatic shelf registration statement will benefit both issuers and investors. These new rules provide issuers with automatic shelf registration statements the ability to add omitted information to a prospectus by means of:a post-effective amendment to the registration statement;incorporation by reference from Exchange Act reports; ora prospectus or a prospectus supplement that would be deemed to be part of and included in the registration statement. <sup>518</sup>
 
@@ -2312,7 +1844,7 @@ Examples of the types of information that can be added in this manner for automa
 
 The principal exceptions to this complete flexibility will be that an issuer adding new types of securities <sup>519</sup> or new eligible issuers, including guarantors, and the securities they may issue to a registration statement must do so by post-effective amendment, which will be effective immediately upon filing. <sup>520</sup> New issuers and requisite officers and directors are required to be signatories to the post-effective amendment. <sup>521</sup>
 
-<h>C. Registration of Securities to be Offered</h>
+C. Registration of Securities to be Offered
 
 An eligible well-known seasoned issuer may register on an automatic shelf registration statement an unspecified amount of securities to be offered, without indicating whether the securities are being sold in primary offerings or secondaryofferings on behalf of selling security holders. Issuers that are well-known seasoned issuers based only on their registered non-convertible security issuances can register on automatic shelf registration statements only non-convertible securities, other than common equity, unless they also are primarily eligible to use Form S-3 or Form F-3 for a primary offering because they have a public float of $75 million or more. <sup>522</sup> The calculation of registration fee table in the initial registration statement will not need to include a dollar amount or a specific number of securities, unless a fee based on an amount of securities is paid at the time of filing, but that table must at least list each class of security registered and indicate if the filing fee will be paid on a pay-as-you-go basis. The issuer can specify the number or dollar amount of securities in a prospectus supplement at the time it pays a fee in advance of or for each offering. <sup>523</sup>
 
@@ -2326,25 +1858,25 @@ In order to add new classes of securities, an issuer must file a post-effective 
 
 F-3. Currently, an issuer offering securities on Form S-3 or Form F-3 is not required to specify the amount of each class of securities that it will offer, but it is required to separately register and designate the amount and classes of securities that may be offered and sold by eligible subsidiaries and selling security holders. Under our current rules, offerings for selling security holders are not considered delayed offerings under Rule 415(a)(1)(x) and thus must be separately registered or designated prior to effectiveness of the registration statement. Except under our new rules for well-known seasoned issuers, issuers cannot offer and sell securities of selling security holders using an unallocated shelf registration statement.each new class of securities to be offered. An issuer can provide the disclosure about the new class of securities of the issuer in:a post-effective amendment to the registration statement;a prospectus supplement deemed part of and included in the registration statement; oran Exchange Act report that is incorporated by reference into the registration statement. <sup>528</sup>
 
-<h>D. Pay-as-You-Go Registration Fees</h>
+D. Pay-as-You-Go Registration Fees
 
-<h>1. Pay-as-You-Go Fee Rules</h>
+1. Pay-as-You-Go Fee Rules
 
 We are adopting rules to permit, but not require, issuers using automatic shelf registration statements to pay filing fees at the time of a securities offering – commonly known as “pay-as-you-go” – or prior to that time. Under the new rules, for issuers electing to use the pay-as-you-go arrangement, the issuer will not have to pay any filing fee at the time of filing the initial registration statement. <sup>529</sup> We have eliminated theto add securities to a shelf registration statement by means of a post-effective amendment. As such, unlike in the current registration statement process, under our new rules the effectiveness of an automatic shelf registration post-effective amendment that adds securities to a shelf registration statement will be the time “when registration becomes effective as to such securit(ies),” as that term is used in Trust Indenture Act Section 309(a)(1). Accordingly, under the automatic shelf procedure, the Trust Indenture Act qualification requirement will be satisfied in the following manner: (1) for debt securities or guarantees included in the registration statement at original effectiveness, the trust indenture will be required to be included in the registration statement at the time that registration statement becomes effective; and (2) for debt securities or guarantees added to the registration statement through a post-effective amendment, the trust indenture will be required to be included in the registration statement at the time that post- effective amendment becomes effective.requirement in the proposal to pay a nominal ($100) initial filing fee. The triggering event for a required fee payment is a takedown off a shelf registration statement. For each takedown, the issuer can file a prospectus supplement for the takedown that includes a calculation of registration fee table or can file a post-effective amendment including the same information. The rules provide that the issuer must pay the appropriate fee calculated in accordance with Securities Act Rule 457 within the time required to file the prospectus supplement pursuant to Rule 424, but provide an ability to cure a failure to pay the fee. The cure is available if the issuer made a good faith effort to pay the fee timely and then pays the fee within four business days of the original fee due date. The rules we are adopting today also require that the issuer file the prospectus supplement, including the fee table reflecting payment of the fee on the cover page, pursuant to Rule424. In addition, at any time before one or more takedowns in the future (for example, in the case of a medium-term note program), the issuer can pay a filing fee in advance and file such a prospectus supplement with a fee table reflecting payment of the fee on the cover. <sup>530</sup>
 
-<h>2. Comments on Pay-as-You-Go Fees</h>
+2. Comments on Pay-as-You-Go Fees
 
 Commenters supported a pay-as-you-go filing fee approach. <sup>531</sup> Some commenters were concerned about the effect of an inadvertent failure to pay the filing fee in a timelypayment of filing fees when due. As today, the fee rules applicable to the use of such account will apply. We are referring to this account as the “lockbox account.” The amount of the fee will be calculated based on the fee schedule in effect when the money is withdrawn from the lockbox account. We are providing this flexibility for issuers, such as those with medium term note programs, to determine the fee payment approach most appropriate for them.manner. <sup>532</sup> Commenters also believed that issuers should continue to be able to pay filing fees in advance of an offering. <sup>533</sup> Some commenters requested guidance on the time at which automatic shelf issuers using the pay-as-you-go system should calculate the amount of the filing fee. <sup>534</sup>
 
 We have adopted the pay-as-you-go filing fee provisions substantially as proposed, but with certain modifications to address commenters’ concerns. In response to commenters’ concerns, we have provided a cure provision that will allow an issuer to pay a filing fee after its original payment due date if it made a good faith effort to pay timely and then paid the fee within four business days of the original fee due date. We also have clarified that automatic shelf issuers may use any of the methods available to pay their filing fees, including paying the filing fees in advance, or paying the filing fees on a pay-as-you-go basis. We have eliminated the initial fee requirement. As a result of this clarification and the cure provisions, we believe that we have addressed commenters’ concerns in this area. With regard to the time when the amount of the filing fee is calculated, as today, the amount of the filing fee is calculated based on the fee schedule in effect at the time of payment (upon filing in advance, or at the time of a takedown) in accordance with the provisions of Rule 457. Thus, the fee amount may be different depending on the time of payment. <sup>535</sup>
 
-<h>E. Registration under Securities Act Sections 5 and 6</h>
+E. Registration under Securities Act Sections 5 and 6
 
 As we discussed in the Proposing Release, under our new rules for automatic shelf registration, compliance with Securities Act Sections 5 and 6 is tied to the timing of the necessary filings and the content of the automatic shelf registration statement (including, as we have described, amendments, incorporated documents, and prospectus supplements). Securities Act Section 5 requires registration of each securities offering unless an exemption is available. Securities Act Section 6 governs how securities may be registered, including the filing of registration statements and the payment of filing fees.
 
 Any securities offered and sold off an effective automatic shelf registration statement will satisfy the requirements of Securities Act Section 5(c) if the registration statement, as amended if applicable, includes that class of securities and is filed prior to sale and will satisfy the requirements of Securities Act Section 5(a) if such registration statement, as amended if applicable, includes that class of securities and is effective prior to sale. The securities sold in the takedown will be registered for purposes of Securities Act Section 6 if:the class of securities is included in the registration statement, which is signed as required; andthe appropriate fee is paid as provided in our rules.
 
-<h>F. Immediate Effectiveness</h>
+F. Immediate Effectiveness
 
 Under the automatic shelf registration statement rules we are adopting today, all automatic shelf registration statements and post-effective amendments thereto will become effective immediately upon filing. <sup>536</sup> In addition, we are adopting the proposed amendments to Securities Act Rule 401(g) to provide that an automatic shelf registrationstatement will be deemed to be filed on the proper form unless we notify the issuer after filing of our objection to the use of such form. <sup>537</sup> Therefore, until an issuer is notified by us, it can conduct offerings with certainty that it has registered the securities on the proper form. After we notify an issuer of our objection, the issuer cannot proceed with subsequent offerings (those offerings not in progress), unless it amends the registration statement to the proper form, or otherwise resolves the issue with us. If we notify an issuer that it is ineligible to use an automatic shelf registration statement, securities sold prior to our notification will not have been sold in violation of Section 5. For ongoing offerings, the issuer, once notified by us, will promptly have to file a post-effective amendment or a new registration statement to reflect that it is not an automatic shelf registration statement. Pending effectiveness of the post-effective amendment or a new registration statement, the ongoing offering could continue if such offering is permitted by the post-effective amendment or new registration statement.
 
@@ -2352,7 +1884,7 @@ Immediate effectiveness of automatic shelf registration statements will not rais
 
 One commenter supported the change to Rule 401 that provides that automatic shelf registration statements will be deemed to be filed on the proper form unless we notify the issuer of our objection. See letter from Alston. Of course this provision does not affect the issuer’s responsibility to assess its eligibility as a well-known seasoned issuer on the relevant determination date.without previous staff review of each offering. <sup>538</sup> We expect issuers to evaluate disclosure or accounting issues in Exchange Act filings before filing registration statements, including automatic shelf registration statements, and at the time of filing incorporated Exchange Act reports. Because we believe it is important that issuers address unresolved staff comments as part of its evaluation of these issues, we are adopting, as we discuss below, substantially as proposed the requirement for accelerated filers and well-known seasoned issuers to disclose written staff comments received 180 days before an issuer’s fiscal year end that the issuer believes are material and that have remained unresolved at the time of filing of the Form 10-K or Form 20-F. <sup>539</sup>
 
-<h>G. Duration</h>
+G. Duration
 
 An automatic shelf registration statement will become effective immediately and will cover an unspecified amount of securities. The open-ended nature of such registration statements could result in a large number of post-effective amendments. We are, therefore, adopting as proposed a requirement for issuers to file new automatic shelf registration statements every three years that will, in effect, restate their then-current registration statement and amend it, as they deem appropriate. As adopted, issuers will be prohibited from issuing securities off an automatic shelf registration statement that is more than three years old. Our rules provide, however, that, so long as eligibility forautomatic shelf registration is maintained, the new registration statement will be effective immediately and will carry forward to the new registration statement, at the issuer’s election, either any unused fees paid or unsold securities registered and fees paid attributable to such registered securities under the old registration statement. As a result, an issuer’s securities offerings under the registration statement can be uninterrupted. <sup>540</sup>
 
@@ -2366,7 +1898,7 @@ The provisions of Rule 430C also apply to prospectuses and prospectus supplement
 
 <h>b. Amendments to Form S-1 and Form F-1 – Expanded Use of Incorporation by Reference</h>
 
-Eligibility
+i. Eligibility
 
 As we stated in the Proposing Release, as part of our initiatives to integrate further the Exchange Act and the Securities Act, we are adopting as proposed amendments to Form S-1 and Form F-1 to permit a reporting issuer that has filed at least one annual report and that is current in its reporting obligation under the Exchange Act to incorporate by reference into its Form S-1 or Form F-1 information from its previously filed Exchange Act reports and documents. Successor registrants can incorporate by reference if their predecessors were eligible. <sup>543</sup> In a change from the proposals, only the following issuers will not be able to incorporate by reference into a Form S-1 or Form
 
@@ -2374,11 +1906,11 @@ F-1:reporting issuers who are not current in their Exchange Act reports; <sup>54
 
 In addition, as proposed, to enhance the availability to investors of incorporated information, the ability to incorporate by reference is conditioned on the issuer making its incorporated Exchange Act reports and other materials readily accessible on a web site maintained by or for the issuer. By conditioning the ability to incorporate by reference on the ready accessibility of an issuer’s incorporated Exchange Act reports and other materials on its web site, we are providing investors the ability to obtain the information from those reports and materials at the same time that they would have been able to obtain the information if it was set forth directly in the registration statement. Issuers may satisfy this condition by including hyperlinks directly to the reports or other materials filed on EDGAR or on another third-party web site where the reports or other materials are made available in the appropriate time frame and access to the reports or other materials is free of charge to the user. <sup>545</sup>
 
-Procedural Requirements
+ii. Procedural Requirements
 
 Under the amendments we are adopting today, the prospectus in the registration statement at effectiveness must identify all previously filed Exchange Act reports and materials, such as proxy and information statements, that are incorporated by reference. There will be no permitted incorporation by reference of Exchange Act reports and materials filed after the registration statement is effective – known as “forward incorporation by reference.” Under the amended Forms, an issuer eligible to incorporate by reference its Exchange Act reports and other materials into its Securities Actregistration statement must include the following in the prospectus that is part of the registration statement:a list of the incorporated reports and materials;a statement that it will provide copies of any incorporated reports or materials on request;an indication that the reports and materials are available from us through our EDGAR system or our public reference room;identification of the issuer’s web site address where such incorporated reports and other materials can be accessed; andrequired disclosures regarding material changes in or updates to the information that is incorporated by reference from an Exchange Act report or other material required to be filed.
 
-Comments on Form S-1 and Form F-1 Amendments
+iii. Comments on Form S-1 and Form F-1 Amendments
 
 Commenters on this aspect of the proposals strongly supported the changes to allow issuers to incorporate by reference historical filings into Forms S-1 and F-1. <sup>546</sup> Some commenters suggested that Form S-1 and Form F-1 should allow forward incorporation by reference as well for filings made after effectiveness of a registration statement. <sup>547</sup> Some commenters did not believe that issuers should, as a condition to incorporating by reference into their Forms S-1 or F-1, be required to make their Exchange Act reports and other materials readily accessible on their web sites. <sup>548</sup>
 
@@ -2422,13 +1954,13 @@ As adopted, the new and amended rules will:eliminate the existing link between d
 
 <h>a. Rule 172</h>
 
-Scope of Rule
+i. Scope of Rule
 
 We are adopting new Rule 172 with some refinements from the proposals to implement our access equals delivery model. <sup>560</sup> Under Rule 172(b), as adopted, a final prospectus will be deemed to precede or accompany a security for sale for purposes of Securities Act Section 5(b)(2) as long as the final prospectus meeting the requirements of Securities Act Section 10(a) is filed or the issuer will make a good faith and reasonable effort to file it with us as part of the registration statement within the required Rule 424 prospectus filing timeframe. <sup>561</sup>
 
 Our “access equals delivery” model will continue to satisfy the principal statutory purposes of final prospectus delivery while recognizing the need to modernize the obligations in view of technological and market structure developments. <sup>562</sup>
 
-Comments on Rule <sup>172</sup>
+ii. Comments on Rule <sup>172</sup>
 
 Most commenters supported the proposals that would deem the final prospectus delivery requirements satisfied through the filing of the final prospectus with the Commission. <sup>563</sup> Some commenters believed that the “access equals delivery” concept should extend to delivery obligations for preliminary prospectuses in initial public offerings as well as those applicable to proxy statements and other documents. <sup>564</sup> One commenter was concerned that an access equals delivery method for providing information would not provide older persons with the information they needed for their investment decisions. <sup>565</sup>
 
@@ -2448,7 +1980,7 @@ Finally, registered investment companies and business development companies will
 
 <h>c. Notification</h>
 
-Rule <sup>173</sup>
+i. Rule 173
 
 In addition to providing access to information, prospectus delivery can serve the function of informing investors that they purchased securities in a registered transaction. This notification will provide investors the ability to trace their purchases for purposes of asserting their rights under the liability provisions of the federal securities laws. To preserve this investor protection function, we are adopting Rule 173 substantially as proposed. Rule 173 addresses each transaction involving:a sale by an issuer or an underwriter to a purchaser; anda sale in which the final prospectus delivery requirements apply.
 
@@ -2460,7 +1992,7 @@ Rule 173, as adopted, provides that compliance with Rule 173 is not a condition 
 
 As adopted, the same offerings excluded pursuant to Rule 172, as discussed above, also are excluded from this notification provision. <sup>572</sup> We also have revised Rule 173 to exclude transactions solely between brokers or dealers in reliance on Rule 153.
 
-Comments on Rule <sup>173</sup>
+ii. Comments on Rule 173
 
 Commenters suggested certain clarifications to proposed Rule 173 including providing a cure provision for failure to provide the required notification, <sup>573</sup> eliminating required compliance with Rule 173 for aftermarket sales covered by Rule 174, <sup>574</sup> and providing that compliance with Rule 153 would be deemed compliance with Rule 173. <sup>575</sup> One commenter also requested that we confirm that the Rule 173 notification may be included in Rule 10b-10 confirmations. <sup>576</sup>
 
@@ -2556,37 +2088,44 @@ The rules contain “collection of information” requirements within the meanin
 
 We did not receive any comments on the PRA analysis contained in the Proposing Release. As discussed above, we have made several changes to the proposed rules in response to comments on the proposals. These changes are designed to avoid potential unintended consequences and reduce possible additional costs or burdens pointed out by commenters. After evaluating the comments and our responsive revisions to addressthem, we are not changing the initial PRA estimates described in the Proposing Release and submitted to OMB, other than to reflect the decreased number of free writing prospectuses that will be filed as a result of the changes to the treatment of electronic road shows, as discussed below.
 
-The titles for all the collections of information affected by these rules are: <sup>616</sup>(1)	“Form 10” (OMB Control No. 3235-0064);(2)	“Form 20-F” (OMB Control No. 3235-0288);(3)	“Form 10-K” (OMB Control No. 3235-0063);(4)	“Form 10-Q” (OMB Control No. 3235-0070);
+The titles for all the collections of information affected by these rules are: <sup>616</sup>
+1. “Form 10” (OMB Control No. 3235-0064);
 
-<h>5. “Regulation S-K” (OMB Control No. 3235-0071);</h>
+2. “Form 20-F” (OMB Control No. 3235-0288);
 
-<h>6. “Regulation S-B” (OMB Control No. 3235-0417);</h>
+3. “Form 10-K” (OMB Control No. 3235-0063);
 
-<h>7. “Regulation C” (OMB Control No. 3235-0074);</h>
+4. “Form 10-Q” (OMB Control No. 3235-0070);
 
-<h>8. “Form S-1” (OMB Control No. 3235-0065);</h>
+5. “Regulation S-K” (OMB Control No. 3235-0071);
 
-<h>9. “Form F-1” (OMB Control No. 3235-0258);</h>
+6. “Regulation S-B” (OMB Control No. 3235-0417);
 
-<h>10. “Form S-2” (OMB Control Number 3235-0072);</h>
+7. “Regulation C” (OMB Control No. 3235-0074);
 
-<h>11. “Form F-2” (OMB Control Number 3235-0257);</h>
+8. “Form S-1” (OMB Control No. 3235-0065);
 
-<h>12. “Form S-3” (OMB Control Number 3235-0073);</h>
+9. “Form F-1” (OMB Control No. 3235-0258);
 
-<h>13. “Form F-3” (OMB Control Number 3235-0256);</h>
+10. “Form S-2” (OMB Control Number 3235-0072);
 
-<h>14. “Form S-4” (OMB Control Number 3235-0324);</h>
+11. “Form F-2” (OMB Control Number 3235-0257);
 
-<h>15. “Form F-4” (OMB Control Number 3235-0325);</h>
+12. “Form S-3” (OMB Control Number 3235-0073);
 
-<h>16. “Form N-2” (OMB Control Number 3235-0026);</h>
+13. “Form F-3” (OMB Control Number 3235-0256);
 
-<h>17. “Rule 173” (OMB Control Number 3235-0618);</h>
+14. “Form S-4” (OMB Control Number 3235-0324);
 
-<h>18. “Rule 163” (OMB Control Number 3235-0619); and</h>
+15. “Form F-4” (OMB Control Number 3235-0325);
 
-<h>19. “Rule 433” (OMB Control Number 3235-0617).</h>
+16. “Form N-2” (OMB Control Number 3235-0026);
+
+17. “Rule 173” (OMB Control Number 3235-0618);
+
+18. “Rule 163” (OMB Control Number 3235-0619); and
+
+19. “Rule 433” (OMB Control Number 3235-0617).
 
 We adopted all of the existing regulations and forms pursuant to the Securities Act of 1933, the Securities Exchange Act of 1934, and the Investment Company Act of 1940. They set forth the disclosure requirements for annual and quarterly reports, registration statements, and prospectuses that are prepared by issuers to ensure that investors have the information they need to make informed investment decisions in registered offerings and in secondary market transactions. We also are adopting new Securities Act Rules 163, 173, and 433 and eliminating Securities Act Rule 434 and Forms S-2 and F-2.
 
@@ -2848,13 +2387,13 @@ The rules also will affect broker-dealers participating in a registered offering
 
 The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small entities. In connection with the rules, we considered the following alternatives:
 
-<h>1. Establishing different compliance or reporting requirements that take into account the resources available to small entities;</h>
+1. Establishing different compliance or reporting requirements that take into account the resources available to small entities;
 
-<h>2. Clarifying, consolidating, or simplifying compliance and reporting obligations for small entities;</h>
+2. Clarifying, consolidating, or simplifying compliance and reporting obligations for small entities;
 
-<h>3. Using performance standards rather than design standards; and</h>
+3. Using performance standards rather than design standards; and
 
-<h>4. Including smaller entities in some of the reforms.</h>
+4. Including smaller entities in some of the reforms.
 
 We have considered a variety of reforms to achieve our regulatory objectives and, where possible, have taken steps to minimize the effects of the rules and amendments on small entities. For example, we are not requiring small business issuers to include disclosure of risk factors or unresolved staff comments in their Exchange Act periodic reports. We are liberalizing generally the restrictions regarding communications around the time of a Securities Act registered offering of securities. As discussed above, the flexibility will be greatest for larger, more seasoned issuers; however, the rules will provide greater flexibility for all issuers, including small entities. As we implement these changes, we will consider the available information to determine whether greater flexibility is warranted, consistent with investor protections. In this regard, we have established an Advisory Committee on Smaller Public Companies to examine these and other related issues.
 

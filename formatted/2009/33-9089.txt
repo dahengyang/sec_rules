@@ -1,165 +1,3 @@
-https://www.sec.gov/rules/final/2009/33-9089.pdf
-
-I.0.0.0 BACKGROUND AND OVERVIEW OF THE AMENDMENTS
-
-II.0.0.0 DISCUSSION OF THE AMENDMENTS
-
-		II..1.0 Narrative Disclosure of the Company’s Compensation Policies and Practices as They Relate to the Company’s Risk Management
-
-			II..1.a Proposed Amendments
-
-			II..1.b Comments on the Proposed Amendments
-
-			II..1.c Final Rule
-
-		II..2.0 Revisions to the Summary Compensation Table
-
-			II..2.a Proposed Amendments
-
-			II..2.b Comments on the Proposed Amendments
-
-			II..2.c Final Rule
-
-			II..2.d Transition
-
-			II..2.e Comment Responses Regarding Rulemaking Petition and Other Requests for Comment
-
-	II.B.0.0 Enhanced Director and Nominee Disclosure
-
-		II.B.1.0 Proposed Amendments
-
-		II.B.2.0 Comments on the Proposed Amendments
-
-		II.B.3.0 Final Rule
-
-	II.C.0.0 New Disclosure about Board Leadership Structure and the Board’s Role in Risk Oversight
-
-		II.C.1.0 Proposed Amendments
-
-		II.C.2.0 Comments on the Proposed Amendments
-
-		II.C.3.0 Final Rule
-
-	II.D.0.0 New Disclosure Regarding Compensation Consultants
-
-		II.D.1.0 Proposed Amendments
-
-		II.D.2.0 Comments on the Proposed Amendments
-
-		II.D.3.0 Final Rule
-
-			II.D.3.a Summary of the Final Rule
-
-			II.D.3.b Disclosure required if the board’s compensation consultant provides additional services to the company
-
-			II.D.3.c Disclosure required if the board does not have a compensation consultant, but the company receives executive compensation and non-executive compensation services from its consultant
-
-			II.D.3.d Disclosure not required if the board and management have different compensation consultants, even if management’s consultant provides additional services to the company
-
-			II.D.3.e Disclosure required only if fees for additional services exceed $120,000 during the company’s last completed fiscal year
-
-			II.D.3.f Disclosure of nature and extent of additional services not required
-
-			II.D.3.g Exceptions to the disclosure requirement for consulting on broad-based plans and provision of survey information
-
-			II.D.3.h Other concerns
-
-	II.E.0.0 Reporting of Voting Results on Form 8-K
-
-		II.E.1.0 Proposed Amendments
-
-		II.E.2.0 Comments on the Proposed Amendments
-
-		II.E.3.0 Final Rule
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-	III.A.0.0 Background
-
-		III.A.1.0 “Regulation 14A and Schedule 14A” (OMB Control No. 3235-0059);
-
-		III.A.2.0 “Regulation 14C and Schedule 14C” (OMB Control No. 3235-0057);
-
-		III.A.6.0 “Form S-1” (OMB Control No. 3235-0065);
-
-		III.A.7.0 “Form S-4” (OMB Control No. 3235-0324);
-
-		III.A.9.0 “Form 8-K” (OMB Control No. 3235-0060);
-
-		III.A.10.0 “Rule 20a-1 under the Investment Company Act of 1940, Solicitations of Proxies, Consents, and Authorizations” (OMB Control No. 3235-0158);
-
-		III.A.11.0 “Form N-1A” (OMB Control No. 3235-0307);
-
-		III.A.12.0 “Form N-2” (OMB Control No. 3235-0026);
-
-		III.A.13.0 “Form N-3” (OMB Control No. 3235-0316); and
-
-		III.A.14.0 “Regulation S-K” (OMB Control No. 3235-0071).
-
-	III.B.0.0 Summary of the Final Rules
-
-	III.C.0.0 Summary of Comment Letters and Revisions to Proposals
-
-	III.D.0.0 Revisions to PRA Reporting and Cost Burden Estimates
-
-		III.D.1.0 Proxy and Information Statements
-
-		III.D.2.0 Exchange Act Periodic Reports
-
-		III.D.3.0 Securities Act Registration Statements and Exchange Act Registration Statements
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Introduction
-
-	IV.B.0.0 Benefits
-
-		IV.B.1.0 Benefits Related to the New Narrative Disclosure of the Company’s Compensation Policies and Practices as They Relate to the Company’s Risk Management
-
-		IV.B.2.0 Benefits Related to Revisions to Summary Compensation Table Disclosure
-
-		IV.B.3.0 Benefits Related to Enhanced Director and Nominee Disclosure
-
-		IV.B.4.0 Benefits Related to New Disclosure about Board Leadership Structure and the Board’s Role in Risk Oversight
-
-		IV.B.5.0 Benefits Related to New Disclosure Regarding Compensation Consultants
-
-		IV.B.6.0 Benefits Related to Reporting of Voting Results on Form 8-K
-
-	IV.C.0.0 Costs
-
-		IV.C.1.0 Costs Related to the New Narrative Disclosure of the Company’s Compensation Policies and Practices as They Relate to the Company’s Risk Management
-
-		IV.C.2.0 Costs Related to Revisions to Summary Compensation Table Disclosure
-
-		IV.C.3.0 Costs Related to Enhanced Director and Nominee Disclosure
-
-		IV.C.4.0 Costs Related to New Disclosure about Board Leadership Structure and the Board’s Role in Risk Oversight
-
-		IV.C.5.0 Costs Related to New Disclosure Regarding Compensation Consultants
-
-		IV.C.6.0 Costs Related to Reporting of Voting Results on Form 8-K
-
-V.0.0.0 CONSIDERATION OF IMPACT ON THE ECONOMY, BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Need for the Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comments
-
-	VI.C.0.0 Small Entities Subject to the Final Amendments
-
-	VI.D.0.0 Reporting, Recordkeeping, and other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 STATUTORY AUTHORITY AND TEXT OF THE AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 229, 239, 240, 249 and 274
 
 [RELEASE NOS. 33-9089; 34-61175; IC-29092; File No. S7-13-09] RIN 3235-AK28
@@ -296,7 +134,7 @@ The Proposing Release also included several proposed amendments to our rules gov
 
 <h>II. DISCUSSION OF THE AMENDMENTS</h>
 
-A.	Enhanced Compensation Disclosure
+<h>A.	Enhanced Compensation Disclosure</h>
 
 <h>1. Narrative Disclosure of the Company’s Compensation Policies and Practices as They Relate to the Company’s Risk Management</h>
 
@@ -642,25 +480,33 @@ Eliminating Instruction 3, Instruction 5 and Instruction 7 to the item, as well 
 
 Certain provisions of the final amendments contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>176</sup> We published a notice requesting comment on the collection of information requirements in the proposing release for the rule amendments, and we submitted these requirements to the Office of Management and Budget (“OMB”) for review in accordance with the PRA. <sup>177</sup> The titles for the collection of information are:
 
-<h>1. “Regulation 14A and Schedule 14A” (OMB Control No. 3235-0059);</h>
+1. “Regulation 14A and Schedule 14A” (OMB Control No. 3235-0059);
 
-<h>2. “Regulation 14C and Schedule 14C” (OMB Control No. 3235-0057);(3)	“Form 10-K” (OMB Control No. 3235-0063);(4)	“Form 10-Q” (OMB Control No. 3235-0070);(5)	“Form 10” (OMB Control No. 3235-0064);</h>
+2. “Regulation 14C and Schedule 14C” (OMB Control No. 3235-0057);
 
-<h>6. “Form S-1” (OMB Control No. 3235-0065);</h>
+3. “Form 10-K” (OMB Control No. 3235-0063);
 
-<h>7. “Form S-4” (OMB Control No. 3235-0324);(8)	“Form S-11” (OMB Control No. 3235-0067);</h>
+4. “Form 10-Q” (OMB Control No. 3235-0070);
 
-<h>9. “Form 8-K” (OMB Control No. 3235-0060);</h>
+5. “Form 10” (OMB Control No. 3235-0064);
 
-<h>10. “Rule 20a-1 under the Investment Company Act of 1940, Solicitations of Proxies, Consents, and Authorizations” (OMB Control No. 3235-0158);</h>
+6. “Form S-1” (OMB Control No. 3235-0065);
 
-<h>11. “Form N-1A” (OMB Control No. 3235-0307);</h>
+7. “Form S-4” (OMB Control No. 3235-0324);
 
-<h>12. “Form N-2” (OMB Control No. 3235-0026);</h>
+8. “Form S-11” (OMB Control No. 3235-0067);
 
-<h>13. “Form N-3” (OMB Control No. 3235-0316); and<sup>177</sup> 44 U.S.C. 3507(d) and 5 CFR 1320.11.</h>
+9. “Form 8-K” (OMB Control No. 3235-0060);
 
-<h>14. “Regulation S-K” (OMB Control No. 3235-0071).</h>
+10. “Rule 20a-1 under the Investment Company Act of 1940, Solicitations of Proxies, Consents, and Authorizations” (OMB Control No. 3235-0158);
+
+11. “Form N-1A” (OMB Control No. 3235-0307);
+
+12. “Form N-2” (OMB Control No. 3235-0026);
+
+13. “Form N-3” (OMB Control No. 3235-0316); and<sup>177</sup> 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+14. “Regulation S-K” (OMB Control No. 3235-0071).
 
 The regulations, schedules and forms were adopted under the Securities Act and the Exchange Act, except for Forms N-1A, N-2, and N-3, which we adopted pursuant to the Securities Act and the Investment Company Act, and Rule 20a-1, which we adopted pursuant to the Investment Company Act. The regulations, forms and schedules set forth the disclosure requirements for periodic reports, registration statements, and proxy and information statements filed by companies to help investors make informed investment and voting decisions. The hours and costs associated with preparing, filing and sending the form or schedule constitute reporting and cost burdens imposed by each collection of information. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. Compliance with the amendments is mandatory.
 

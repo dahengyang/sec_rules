@@ -1,53 +1,3 @@
-https://www.sec.gov/rules/final/33-8529.htm
-
-	I.0.0.0: I. BACKGROUND
-
-	II.0.0.0: II. THE AMENDMENTS
-
-		II.A.0.0: A. Form of XBRL Submissions
-
-		II.B.0.0: B. Description of XBRL Data
-
-		II.C.0.0: C. Timing of XBRL Submissions
-
-		II.D.0.0: D. Official Filings Still Required
-
-		II.E.0.0: E. Voluntary Program Content and Format
-
-		II.F.0.0: F. XBRL Data Must Correlate to Standard XBRL Taxonomies
-
-		II.G.0.0: G. Use of Tagged Data
-
-		II.H.0.0: H. Liability Issues
-
-	III.0.0.0: III. PAPERWORK REDUCTION ACT
-
-	IV.0.0.0: IV. COST-BENEFIT ANALYSIS
-
-		IV.A.0.0: A. Benefits
-
-		IV.B.0.0: B. Costs
-
-	V.0.0.0: V. FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-		V.A.0.0: A. Reasons for, and Objectives of, the Amendments
-
-		V.B.0.0: B. Significant Issues Raised by Public Comment
-
-		V.C.0.0: C. Small Entities Subject to the Amendments
-
-		V.D.0.0: D. Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-		V.E.0.0: E. Agency Action to Minimize Effect on Small Entities
-
-	VI.0.0.0: VI. CONSIDERATION OF IMPACT ON THE ECONOMY, BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
-
-	VII.0.0.0: VII. STATUTORY BASIS AND TEXT OF AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 228, 229, 232, 240, 249 and 270 Release Nos. 33-8529, 34-51129, 35-27944, 39-2432, IC-26747; File Number S7-35-04 RIN 3235-AJ32 XBRL Voluntary Financial Reporting Program on the EDGAR System 
 
  AGENCY: Securities and Exchange Commission. 
@@ -76,7 +26,9 @@ All registrants who file with the Commission are generally required to file elec
 
 We received 28 comment letters relating to the Proposing Release from various constituencies, including issuers, accounting firms, financial analysts, filing agents and associations representing the interests of such constituencies.<sup> 24 </sup> Commenters expressed general overall support for the Commission's approach to implementing the voluntary program and investigating tagged data. Commenters also supported our approach of not limiting the program by size or specific industry.<sup> 25 </sup> The final rules include a number of changes from the proposed rules to address the comment letters, including commenters’ recommendations to encourage participation in the program and provide volunteers with greater flexibility. For example, we have addressed commenters' requests to allow volunteers the option of whether to submit the notes to the financial statements in XBRL in the voluntary program.<sup> 26 </sup> There were many additional comments addressing the development of the voluntary program and the XBRL technology, including taxonomy development, auditor attestation and audit opinions. We discuss specific comments where applicable in this release; otherwise we may consider these comments in the future based on our experience with the voluntary program. 
 
-We emphasize that we are in the preliminary phases of testing XBRL and we may amend the voluntary program as the technology becomes more mature and based on our experience with the program.<h>II. THE AMENDMENTS </h>
+We emphasize that we are in the preliminary phases of testing XBRL and we may amend the voluntary program as the technology becomes more mature and based on our experience with the program.
+
+<h>II. THE AMENDMENTS </h>
 
 In conjunction with establishing the voluntary filing program, we are adding new Rule 401 to Regulation S-T that will allow filers, on a voluntary basis, to furnish supplemental financial information using XBRL. The revision to Rule 11 of Regulation S-T, adopted as proposed, makes “XBRL-Related Documents” a defined term that means documents related to presenting financial information in XBRL format that are part of a voluntary submission in electronic format in accordance with new Rule 401. New Rule 401 generally provides that a registrant participating in the voluntary program (a “volunteer”) may submit XBRL-Related Documents in electronic format if they meet all the conditions of the rule. Appendix L to the EDGARLink Filer Manual will provide instructions and guidance on the preparation, submission, and validation of EDGAR-acceptable electronic filings with attached XBRL-Related Documents.<sup> 27 </sup> The EDGAR system upgrade to Release 8.10 is scheduled to become available on February 7, 2005 to, among other things, enable EDGAR to process XBRL-Related Documents when the voluntary program becomes effective on March 16, 2005.<sup> 28 </sup><h>A. Form of XBRL Submissions </h>
 

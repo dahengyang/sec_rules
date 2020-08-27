@@ -1,115 +1,3 @@
-https://www.sec.gov/rules/final/33-8567.pdf
-
-I.0.0.0 BACKGROUND
-
-	I.A.0.0 Increasing Use of International Financial Reporting Standards
-
-	I.B.0.0 Proposed Amendments to Form 20-F
-
-	I.C.0.0 Comments Received
-
-	I.D.0.0 Summary of the Final Amendments to Form 20-F
-
-II.0.0.0 DISCUSSION OF THE AMENDMENTS TO PERMIT OMISSION OF IFRS FINANCIAL STATEMENTS FOR THE THIRD FINANCIAL YEAR
-
-	II.A.0.0 Eligibility Requirements
-
-	II.B.0.0 Primary Financial Statements
-
-		II.B.1.0 IFRS Financial Statements
-
-		II.B.2.0 Condensed U.S. GAAP Financial Information
-
-		II.B.3.0 Previous GAAP Financial Statements
-
-	II.C.0.0 Selected Financial Data
-
-	II.D.0.0 Operating and Financial Review and Prospects
-
-	II.E.0.0 Other Disclosures
-
-		II.E.1.0 Business and Derivatives Disclosure
-
-		II.E.2.0 Disclosure Pursuant to Industry Guides
-
-	II.F.0.0 Financial Statements and Information for Interim Periods during the Transition Year in Registration Statements, Prospectuses and Other Filings
-
-		II.F.1.0 Exchange Act Reporting
-
-		II.F.2.0 Financial Information in Securities Act Registration Statements and Prospectuses and Initial Exchange Act Registration Statements Used Less Than Nine Months after the Financial Year End
-
-		II.F.3.0 Financial Statements in Securities Act Registration Statements and Prospectuses and Initial Exchange Act Registration Statements Used More Than Nine Months after the Financial Year End
-
-			II.F.3.a The Previous GAAP Option
-
-			II.F.3.b The IFRS Option
-
-			II.F.3.c The U.S. GAAP Condensed Information Option
-
-			II.F.3.d The Case-by-Case Option
-
-	II.G.0.0 Issuers Using IFRS as Adopted by the European Union
-
-III.0.0.0 DISCLOSURES ABOUT FIRST-TIME ADOPTION OF IFRS
-
-	III.A.0.0 Disclosure about Exceptions to IFRS
-
-	III.B.0.0 Reconciliation from Previous GAAP
-
-IV.0.0.0 PAPERWORK REDUCTION ACT ANALYSIS
-
-	IV.A.0.0 Background
-
-		IV.A.2.0 “Form F-1” (OMB Control No. 3235-0258);
-
-		IV.A.3.0 “Form F-2” (OMB Control No. 3235-0257);
-
-		IV.A.4.0 “Form F-3” (OMB Control No. 3235-0256); and
-
-		IV.A.5.0 “Form F-4” (OMB Control No. 3235-0325).
-
-	IV.B.0.0 Burden and Cost Estimates Related to the Accommodation
-
-		IV.B.1.0 Form 20-F
-
-		IV.B.2.0 Form F-1
-
-		IV.B.3.0 Form F-2
-
-		IV.B.4.0 Form F-3
-
-		IV.B.5.0 Form F-4
-
-	IV.C.0.0 Burden and Cost Estimates Related to the Disclosure about First-Time Adoption of IFRS
-
-		IV.C.1.0 Form 20-F
-
-		IV.C.2.0 Form F-1
-
-		IV.C.3.0 Form F-2
-
-		IV.C.4.0 Form F-3
-
-		IV.C.5.0 Form F-4
-
-	IV.D.0.0 New Burden Estimates
-
-V.0.0.0 COST-BENEFIT ANALYSIS
-
-	V.A.0.0 Expected Benefits
-
-	V.B.0.0 Expected Costs
-
-VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-VII.0.0.0 PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION ANALYSIS
-
-VIII.0.0.0 STATUTORY BASIS
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 249
 
 [RELEASE NOS. 33-8567; 34-51535; INTERNATIONAL SERIES RELEASE NO. 1285; File No. S7-15-04]
@@ -360,15 +248,15 @@ Most commenters did not oppose the proposal and did not feel that following the 
 
 <h>A. Background</h>
 
-The final rule amendment contains “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>49</sup> The titles of the affected collections of information are:(1) "Form 20-F” (OMB Control No. 3235-0288);
+The final rule amendment contains “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>49</sup> The titles of the affected collections of information are:1. "Form 20-F” (OMB Control No. 3235-0288);
 
-<h>2. “Form F-1” (OMB Control No. 3235-0258);</h>
+2. “Form F-1” (OMB Control No. 3235-0258);
 
-<h>3. “Form F-2” (OMB Control No. 3235-0257);</h>
+3. “Form F-2” (OMB Control No. 3235-0257);
 
-<h>4. “Form F-3” (OMB Control No. 3235-0256); and</h>
+4. “Form F-3” (OMB Control No. 3235-0256); 
 
-<h>5. “Form F-4” (OMB Control No. 3235-0325).</h>
+5. “Form F-4” (OMB Control No. 3235-0325).
 
 These forms were adopted pursuant to the Securities Act and Exchange Act and set forth the disclosure requirements for annual reports and registration statements filed by foreign private issuers to provide material information to investors. The hours and costs associated with preparing, filing and sending these forms constitute reporting and cost burdens imposed by each collection of information. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number. The disclosure is mandatory. There would be no mandatory retention period for the information disclosed, and responses to the disclosure requirements would not be kept confidential. The Commission published a notice requesting comment on the collection of information requirements in the Proposing Release and submitted these requirements to the Office of Management and
 

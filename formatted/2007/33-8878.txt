@@ -1,89 +1,3 @@
-https://www.sec.gov/rules/final/2007/33-8878.pdf
-
-I.0.0.0 Discussion
-
-	I.A.0.0 Background
-
-		I.A.1.0 Proposing Release and Public Comment Letters
-
-		I.A.2.0 Form S-3
-
-		I.A.3.0 Reasons for New Form S-3 Amendments
-
-		I.A.2.0 extending Form S-3 eligibility for secondary transactions to issuers quoted on the Over-the-Counter Bulletin Board. The Proposing Release also included additional discussion of the Advisory Committee and its recommendations.
-
-			I.A.2.a Securities may be registered for an offering to be made on a continuous or delayed basis in the future, Provided, That:
-
-		I.A.4.0 Limited Expansion of Form Eligibility
-
-	I.B.0.0 Amendments to Form S-3
-
-		I.B.1.0 One-Third Cap and Listed Securities Only
-
-		I.B.2.0 Calculation of Amount of Securities That May Be Sold
-
-		I.B.1.0 in the previous 12 months. To determine the value of the convertible promissory notes, the registrant is required by Instruction 2 to General Instruction I.B.6. to calculate the value of the shares underlying the convertible notes. The notes are convertible into shares of common stock at a 50% discount to the market price of the common stock. Assuming that the market price of the common stock is $2 per share, the notes are convertible as follows: $1 million (the price of the notes) divided by 1 (50% of the market price of the common stock) is equal to 1 million shares of common stock that the purchasers will receive upon conversion. Since the market price of the stock is $2 per share, the value of the 1 million shares is $2 million (1 million shares at $2 per share). Therefore, the value of the accompanying warrants for 10,000 shares must be less than
-
-		I.B.3.0 Exclusion of Shell Companies
-
-	I.C.0.0 Amendments to Form F-3
-
-		I.C.1.0 More than 50 percent of the outstanding voting securities of such issuer are directly or indirectly owned of record by residents of the United States; and
-
-		I.C.2.0 Any of the following:
-
-	I.A.0.0 under the Exchange Act. For an explanation of this difference, see Simplification of Registration and Reporting Requirements for Foreign Companies; Safe Harbors for Public Announcements of Unregistered Offerings and Broker-Dealer Research Reports, Release No. 33-7029 (Nov. 3, 1993) [58 FR 60307], at 3; and Simplification of Registration and Reporting Requirements for Foreign Companies; Safe Harbors for Public Announcements of Unregistered Offerings and Broker-Dealer Research Reports, Release No. 33-7053 (Apr. 19, 1994) [59 FR 21644], at 2 (explaining that the requirement was adopted “in order to ensure that information regarding the issuer is available to the market”).
-
-II.0.0.0 Paperwork Reduction Act
-
-	II.A.0.0 Background
-
-	II.B.0.0 Summary of Information Collections
-
-	II.C.0.0 Summary of Comments and Revisions to Amendments
-
-	II.D.0.0 Revised Paperwork Reduction Act Burden Estimates
-
-III.0.0.0 Cost-Benefit Analysis
-
-	III.A.0.0 Summary of Amendments
-
-		III.A.1.0 and F-3 have, before now, restricted the use of these forms for primary securities offerings to companies that have a minimum of $75 million in public float calculated within 60 days prior to the date the registration statement is filed. To expand the availability of Forms S-3 and F-3 for primary offerings to more companies, we are adopting revisions to these forms that allow companies with less than $75 million in public float to register primary offerings of their securities on Forms S-3 and F-3, provided:
-
-	III.B.0.0 Benefits
-
-	III.C.0.0 Costs
-
-		III.C.1.0 and Form F-3. If there is a perception that smaller public company securities offered through shelf registration statements are more prone to abuse because of the lack of involvement by the Commission staff, this may erode investor confidence in these offerings generally. This could, in turn, make it more difficult for these companies to raise capital and significantly negate some of the benefits of the rule.
-
-IV.0.0.0 Consideration of Promotion of Efficiency, Competition and Capital Formation
-
-V.0.0.0 Final Regulatory Flexibility Act Analysis
-
-	V.A.0.0 Need for the Amendments
-
-	V.B.0.0 Significant Issues Raised by Public Comment
-
-	V.C.0.0 Small Entities Subject to the Amendments
-
-	V.D.0.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-	V.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-		V.E.1.0 establishing different compliance or reporting requirements which take into account the resources available to smaller entities;
-
-		V.E.2.0 the clarification, consolidation or simplification of disclosure for small entities;
-
-		V.E.3.0 use of performance standards rather than design standards; and
-
-		V.E.4.0 exempting smaller entities from coverage of the disclosure requirements, or any part thereof.
-
-VI.0.0.0 Statutory Authority and Text of the Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 230 AND 239
 
 [RELEASE NO. 33-8878; FILE NO. S7-10-07] RIN 3235-AJ89
@@ -190,9 +104,9 @@ The ability to conduct primary offerings on Form S-3 confers significant advanta
 
 Form S-3 eligibility for primary offerings also enables companies to conduct primary offerings “off the shelf” under Rule 415 of the Securities Act. <sup>17</sup> Rule 415 provides considerable flexibility in accessing the public securities markets from time to time in response to changes in the markets and other factors. The shelf eligibility resulting from Form S-3 eligibility and the ability to forward incorporate information on
 
-<h>2. extending Form S-3 eligibility for secondary transactions to issuers quoted on the Over-the-Counter Bulletin Board. The Proposing Release also included additional discussion of the Advisory Committee and its recommendations.</h>
+2. extending Form S-3 eligibility for secondary transactions to issuers quoted on the Over-the-Counter Bulletin Board. The Proposing Release also included additional discussion of the Advisory Committee and its recommendations.
 
-<h>a. Securities may be registered for an offering to be made on a continuous or delayed basis in the future, Provided, That:(1) the registration statement pertains only to:. . .(x) Securities registered (or qualified to be registered) on Form S-3 or Form F-3 which are to be offered and sold on an immediate, continuous or delayed basis by or on behalf of the registrant, a majority owned subsidiary of the registrant or a person of which the registrant is a majority-owned subsidiary.</h>
+a. Securities may be registered for an offering to be made on a continuous or delayed basis in the future, Provided, That:(1) the registration statement pertains only to:. . .(x) Securities registered (or qualified to be registered) on Form S-3 or Form F-3 which are to be offered and sold on an immediate, continuous or delayed basis by or on behalf of the registrant, a majority owned subsidiary of the registrant or a person of which the registrant is a majority-owned subsidiary.
 
 Form S-3, therefore, allow companies to avoid additional delays and interruptions in the offering process and can reduce or even eliminate the costs associated with preparing and filing post-effective amendments to the registration statement.
 
@@ -334,7 +248,7 @@ Instruction I.B.6. in the previous 12 months and add this to the value of the se
 
 Assume that the registrant has not sold any securities pursuant to the Instruction
 
-<h>1. in the previous 12 months. To determine the value of the convertible promissory notes, the registrant is required by Instruction 2 to General Instruction I.B.6. to calculate the value of the shares underlying the convertible notes. The notes are convertible into shares of common stock at a 50% discount to the market price of the common stock. Assuming that the market price of the common stock is $2 per share, the notes are convertible as follows: $1 million (the price of the notes) divided by 1 (50% of the market price of the common stock) is equal to 1 million shares of common stock that the purchasers will receive upon conversion. Since the market price of the stock is $2 per share, the value of the 1 million shares is $2 million (1 million shares at $2 per share). Therefore, the value of the accompanying warrants for 10,000 shares must be less than$14 million for the sale to be within the one-third cap (one-third of $48 million, less the$2 million of common stock underlying the convertible notes).</h>
+1. in the previous 12 months. To determine the value of the convertible promissory notes, the registrant is required by Instruction 2 to General Instruction I.B.6. to calculate the value of the shares underlying the convertible notes. The notes are convertible into shares of common stock at a 50% discount to the market price of the common stock. Assuming that the market price of the common stock is $2 per share, the notes are convertible as follows: $1 million (the price of the notes) divided by 1 (50% of the market price of the common stock) is equal to 1 million shares of common stock that the purchasers will receive upon conversion. Since the market price of the stock is $2 per share, the value of the 1 million shares is $2 million (1 million shares at $2 per share). Therefore, the value of the accompanying warrants for 10,000 shares must be less than$14 million for the sale to be within the one-third cap (one-third of $48 million, less the$2 million of common stock underlying the convertible notes).
 
 To calculate the value of the warrants, which are derivative securities, Instruction 2 to General Instruction I.B.6. requires that the registrant calculate the value of the shares underlying the warrants in lieu of the market value of the warrants. Under the terms of the warrants, the warrants are exercisable for 10,000 shares at an exercise price of $5 per share.
 
@@ -356,9 +270,9 @@ Form F-3, which was designed to parallel Form S-3, <sup>81</sup> is the equivale
 
 The three forms proposed under the Securities Act roughly parallel proposed Forms S-1, S-2 and S-3 in the domestic integration system, but the foreign system is based on the Form 20-F instead of the Form 10-K and annual report to shareholders as the uniform disclosure package.
 
-<h>1. More than 50 percent of the outstanding voting securities of such issuer are directly or indirectly owned of record by residents of the United States; and</h>
+1. More than 50 percent of the outstanding voting securities of such issuer are directly or indirectly owned of record by residents of the United States; and
 
-<h>2. Any of the following:offerings under the Securities Act. Similar to Form S-3, Form F-3 is available to foreign private issuers that satisfy the form’s registrant requirements and at least one of the form’s transaction requirements. <sup>83</sup> The Form F-3 registrant requirements are similar to Form S-3 and generally relate to a registrant’s reporting history under the Exchange Act. <sup>84</sup> In addition, like the Form S-3 registration statement, Form F-3 limits the ability of registrants to conduct primary offerings on the form unless their public float equals or exceeds a particular threshold. <sup>85</sup></h>
+2. Any of the following:offerings under the Securities Act. Similar to Form S-3, Form F-3 is available to foreign private issuers that satisfy the form’s registrant requirements and at least one of the form’s transaction requirements. <sup>83</sup> The Form F-3 registrant requirements are similar to Form S-3 and generally relate to a registrant’s reporting history under the Exchange Act. <sup>84</sup> In addition, like the Form S-3 registration statement, Form F-3 limits the ability of registrants to conduct primary offerings on the form unless their public float equals or exceeds a particular threshold. <sup>85</sup>
 
 As with Form S-3, the Commission has attempted to limit the availability of Form F-3 for primary offerings to a class of companies believed to provide a steady stream of corporate disclosure that is broadly disseminated to, and digested by, the marketplace.
 
@@ -370,7 +284,7 @@ More than 50 percent of the assets of the issuer are located in the United State
 
 The business of the issuer is administered principally in the United States.
 
-<h>A. under the Exchange Act. For an explanation of this difference, see Simplification of Registration and Reporting Requirements for Foreign Companies; Safe Harbors for Public Announcements of Unregistered Offerings and Broker-Dealer Research Reports, Release No. 33-7029 (Nov. 3, 1993) [58 FR 60307], at 3; and Simplification of Registration and Reporting Requirements for Foreign Companies; Safe Harbors for Public Announcements of Unregistered Offerings and Broker-Dealer Research Reports, Release No. 33-7053 (Apr. 19, 1994) [59 FR 21644], at 2 (explaining that the requirement was adopted “in order to ensure that information regarding the issuer is available to the market”).the Commission reduced this threshold to $75 million in order to extend to foreign issuers the benefits of short-form registration “to the same extent available to domestic companies.” <sup>88</sup> In explaining its rationale, the Commission stated:[Our] experience with foreign issuers, as well as the internationalization of securities markets, indicates that foreign issuers with a public float of $75 million or more have a degree of analyst following in their world-wide markets comparable to similarly-sized domestic companies. <sup>89</sup></h>
+A. under the Exchange Act. For an explanation of this difference, see Simplification of Registration and Reporting Requirements for Foreign Companies; Safe Harbors for Public Announcements of Unregistered Offerings and Broker-Dealer Research Reports, Release No. 33-7029 (Nov. 3, 1993) [58 FR 60307], at 3; and Simplification of Registration and Reporting Requirements for Foreign Companies; Safe Harbors for Public Announcements of Unregistered Offerings and Broker-Dealer Research Reports, Release No. 33-7053 (Apr. 19, 1994) [59 FR 21644], at 2 (explaining that the requirement was adopted “in order to ensure that information regarding the issuer is available to the market”).the Commission reduced this threshold to $75 million in order to extend to foreign issuers the benefits of short-form registration “to the same extent available to domestic companies.” <sup>88</sup> In explaining its rationale, the Commission stated:[Our] experience with foreign issuers, as well as the internationalization of securities markets, indicates that foreign issuers with a public float of $75 million or more have a degree of analyst following in their world-wide markets comparable to similarly-sized domestic companies. <sup>89</sup>
 
 As a result, the Commission believed that expanding Form F-3 eligibility by lowering the float standard to $75 million would give foreign issuers the same capital raising advantages enjoyed by domestic issuers on Form S-3 consistent with investor protection. <sup>90</sup>
 
@@ -452,7 +366,7 @@ The table below illustrates our estimates concerning the incremental annual comp
 
 We are adopting revisions to the transaction eligibility requirements of Forms S-3 and F-3 that will allow companies to take advantage of these forms for primaryofferings regardless of the size of their public float. Whereas secondary offerings may be registered on Forms S-3 and F-3 irrespective of float, the instructions to Forms
 
-<h>1. and F-3 have, before now, restricted the use of these forms for primary securities offerings to companies that have a minimum of $75 million in public float calculated within 60 days prior to the date the registration statement is filed. To expand the availability of Forms S-3 and F-3 for primary offerings to more companies, we are adopting revisions to these forms that allow companies with less than $75 million in public float to register primary offerings of their securities on Forms S-3 and F-3, provided:they meet the other registrant eligibility conditions for the use of Form S-3 or Form F-3, as applicable;they have at least one class of common equity securities listed and registered on a national securities exchange;they do not sell more than the equivalent of one-third of their public float in primary offerings under General Instruction I.B.6. of Form S-3 or under General Instruction I.B.5. of Form F-3, as applicable, over the previous period of 12 calendar months; andthey are not shell companies and have not been shell companies for at least 12 calendar months before filing the registration statement.</h>
+1. and F-3 have, before now, restricted the use of these forms for primary securities offerings to companies that have a minimum of $75 million in public float calculated within 60 days prior to the date the registration statement is filed. To expand the availability of Forms S-3 and F-3 for primary offerings to more companies, we are adopting revisions to these forms that allow companies with less than $75 million in public float to register primary offerings of their securities on Forms S-3 and F-3, provided:they meet the other registrant eligibility conditions for the use of Form S-3 or Form F-3, as applicable;they have at least one class of common equity securities listed and registered on a national securities exchange;they do not sell more than the equivalent of one-third of their public float in primary offerings under General Instruction I.B.6. of Form S-3 or under General Instruction I.B.5. of Form F-3, as applicable, over the previous period of 12 calendar months; andthey are not shell companies and have not been shell companies for at least 12 calendar months before filing the registration statement.
 
 <h>B. Benefits</h>
 
@@ -478,7 +392,7 @@ As discussed in Section B. above, we do not expect that the amendments to Forms 
 
 Commission action or prior staff review, concerns have been raised about the increased potential for fraud and market manipulation. <sup>116</sup> Although the Commission would retain the authority to review registration statements before declaring them effective, individual takedowns are not subject to prior staff review. Under the current rules, if issuers are instead using Forms S-1 or F-1, they would be required to file separate registration statements for each new offering, which would be subject to selective staff review before going effective. If these issuers can instead conduct shelf offerings on Form S-3 and Form F-3, there may be some loss of the deterrent effect on the companies’ disclosures in connection with each takedown off the shelf because of the lack of prior staff review. In addition, the short time horizon of shelf offerings may also reduce the time that participating underwriters have to apply their independent scrutiny and judgment to an issuer’s prospectus disclosure. We have also considered the effect the amendments may have on market demand for the securities of smaller public companies offered on Form
 
-<h>1. and Form F-3. If there is a perception that smaller public company securities offered through shelf registration statements are more prone to abuse because of the lack of involvement by the Commission staff, this may erode investor confidence in these offerings generally. This could, in turn, make it more difficult for these companies to raise capital and significantly negate some of the benefits of the rule.</h>
+1. and Form F-3. If there is a perception that smaller public company securities offered through shelf registration statements are more prone to abuse because of the lack of involvement by the Commission staff, this may erode investor confidence in these offerings generally. This could, in turn, make it more difficult for these companies to raise capital and significantly negate some of the benefits of the rule.
 
 While we recognize that extending the benefits of shelf registration to an expanded group of companies will limit the staff’s direct involvement in takedowns of securities off the shelf and could therefore pose some risk to investors, we believe that the risks are justified by the benefits that we anticipate will accrue by facilitating the capitalformation efforts of smaller public companies. As we have discussed elsewhere in this release, we believe these risks have been mitigated by the emergence of the Internet which, in combination with the Commission’s EDGAR database, has greatly enhanced the ability of the market to readily digest and assimilate public company information.
 
@@ -530,13 +444,13 @@ For purposes of the Paperwork Reduction Act, we estimate the annual decrease in 
 
 The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small entities. In connection with the amendments, the Regulatory Flexibility Act requires that we consider the following alternatives:
 
-<h>1. establishing different compliance or reporting requirements which take into account the resources available to smaller entities;</h>
+1. establishing different compliance or reporting requirements which take into account the resources available to smaller entities;
 
-<h>2. the clarification, consolidation or simplification of disclosure for small entities;</h>
+2. the clarification, consolidation or simplification of disclosure for small entities;
 
-<h>3. use of performance standards rather than design standards; and</h>
+3. use of performance standards rather than design standards; and
 
-<h>4. exempting smaller entities from coverage of the disclosure requirements, or any part thereof.</h>
+4. exempting smaller entities from coverage of the disclosure requirements, or any part thereof.
 
 CFR 229.10 et seq .] with specific attention to the subparagraph describing scaled disclosure, if any. Smaller reporting companies may provide the financial information called for by Item 310 of Regulation S-K in lieu of the financial information called for by Item 11 in this form.
 

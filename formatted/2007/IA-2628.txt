@@ -1,37 +1,3 @@
-https://www.sec.gov/rules/final/2007/ia-2628.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Scope of Rule 206(4)-8
-
-		II.A.1.0 Investors and Prospective Investors
-
-		II.A.2.0 Unregistered Investment Advisers
-
-		II.A.3.0 Pooled Investment Vehicles
-
-	II.B.0.0 Prohibition on False or Misleading Statements
-
-	II.C.0.0 Prohibition of Other Frauds
-
-	II.D.0.0 Other Matters
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-V.0.0.0 REGULATORY FLEXIBILITY ACT ANALYSIS
-
-VI.0.0.0 STATUTORY AUTHORITY
-
-VII.0.0.0 TEXT OF RULES
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 275

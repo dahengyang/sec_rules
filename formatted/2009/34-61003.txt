@@ -1,161 +1,3 @@
-https://www.sec.gov/rules/final/2009/34-61003.pdf
-
-I.0.0.0 INTRODUCTION
-
-	I.A.0.0 Statutory Authority and Overview
-
-	I.A.0.0 be comprehensible to consumers, with a clear format and design;
-
-	I.B.0.0 provide for clear and conspicuous disclosures;
-
-	I.C.0.0 enable consumers easily to identify the sharing practices of a financial institution and to compare privacy practices among financial institutions; and
-
-	I.D.0.0 be succinct, and use an easily readable type font.
-
-	I.B.0.0 Overview of the Final Model Privacy Form
-
-		I.B.1.0 The Structure
-
-		I.B.2.0 Page One – Background Information, the Disclosure Table, and Opt-Out Information
-
-		I.B.3.0 Page Two – Supplemental Information
-
-II.0.0.0 BACKGROUND
-
-	II.A.0.0 The Gramm-Leach-Bliley Act Privacy Notices
-
-	II.B.0.0 Development of the Proposed Model Privacy Form
-
-	II.C.0.0 Overview of Comments Received
-
-	II.D.0.0 Quantitative Research
-
-	II.E.0.0 Public Comments on the Quantitative Test Data
-
-	II.F.0.0 Validation Testing
-
-III.0.0.0 THE FINAL MODEL PRIVACY FORM
-
-	III.A.0.0 Standardization
-
-	III.B.0.0 Instructions for Use
-
-	III.C.0.0 Format of the Notice
-
-	III.D.0.0 Appearance of the Model Privacy Form
-
-	III.E.0.0 Optional General Guidance for Easily Readable Type
-
-	III.F.0.0 Printing, Color, and Logos
-
-	III.G.0.0 Jointly-Provided Notices
-
-	III.H.0.0 Use of the Form by Differently-Regulated Entities
-
-	III.I.0.0 Page One of the Model Form
-
-		III.I.1.0 Title
-
-		III.I.2.0 Key frame
-
-		III.I.3.0 Disclosure table
-
-		III.I.4.0 FCRA Opt-Outs
-
-		III.I.5.0 Limiting Sharing: Opt-Out Information
-
-		III.I.6.0 Additional Opt-Outs in the Model Form
-
-		III.I.7.0 Contact Information for Questions
-
-		III.I.8.0 Mail-In Opt-Out Form
-
-	III.J.0.0 Page Two of the Model Form
-
-		III.J.1.0 Frequently Asked Questions
-
-		III.J.1.0 State the common corporate name or other readily identifiable name that is also used for the title and various headings of the model form as the “name of financial institution;” and
-
-		III.J.2.0 Either (a) identify the entities jointly providing the notice; or (b) for institutions with a lengthy list of entities jointly providing the notice, identify the general types of entities in the response and identify the entities174 at the end of the form following the “Other important information” box, or, if that box is not incorporated into the form, following the “Definitions” or on an additional page. The list at the end of the form must be printed in minimum 8-point font and may appear in a multi-column format.
-
-		III.J.1.0 Definitions
-
-		III.J.2.0 State and international law provisions
-
-	III.K.0.0 Other Issues
-
-		III.K.1.0 Highlighting material changes in privacy practices
-
-		III.K.2.0 Safe Harbor
-
-		III.K.3.0 Online Form Builder
-
-		III.K.4.0 Web-based design
-
-		III.K.5.0 Electronic Delivery
-
-		III.K.6.0 Other comments
-
-IV.0.0.0 THE SAMPLE CLAUSES
-
-V.0.0.0 EFFECTIVE DATE
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Need For and Objectives of Rule Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comment
-
-	VI.C.0.0 Small Entities Subject to the Rules
-
-		VI.C.1.0 OCC. The OCC estimates that 690 insured national banks, uninsured national banks and trust companies, and foreign branches and agencies are small entities for purpose of the RFA.
-
-		VI.C.2.0 Board. The Board estimates that 432 state member banks are small entities for purposes of the RFA.
-
-		VI.C.3.0 FDIC. The FDIC estimates that 3115 state nonmember banks are small entities for purposes of the RFA.
-
-		VI.C.4.0 OTS. The OTS estimates that 377 small savings associations are small entities for purposes of the RFA.
-
-		VI.C.5.0 NCUA. The RFA requires NCUA to prepare an analysis to describe any significant economic impact a regulation may have on a substantial number of small credit unions (primarily those under $10 million in assets). The NCUA estimates that 3,168 federally-insured, state-chartered credit unions are small entities for purposes of the RFA.
-
-		VI.C.6.0 FTC.	Determining a precise estimate of the number of small entities that are financial institutions within the meaning of the rule is not readily feasible. The GLB Act does not identify for purposes of the Commission’s jurisdiction any specific category of financial institution. In the absence of such information, there is no way to estimate precisely the number of affected entities that share nonpublic personal information with nonaffiliated third parties or that establish customer relationships with consumers and therefore assume greater disclosure obligations.
-
-		VI.C.7.0 CFTC. Section 5g of the CEA, 7 U.S.C. § 7b-2, provides that any futures commission merchant, commodity trading advisor, commodity pool operator, or introducing broker that is subject to the jurisdiction of the CFTC with respect to any financial activity, shall be treated as a financial institution for purposes of Title V of the GLB Act, regardless of size and including commodity trading advisors and commodity pool operators that are exempt from the CEA’s registration requirements. The CFTC has previously established certain definitions of “small entities” and determined that futures commission merchants and commodity pool operators are not small for purposes of the Regulatory Flexibility Act. Policy Statement and Establishment of Definitions of “Small Entities,” 47 Fed. Reg. 18,618 (Apr. 30, 1982). This rule applies to commodity trading advisors and introducing brokers of all sizes. Because use of the model privacy form is voluntary, and because its use is a form of substituted compliance with Part 160 and not a new mandatory burden, CFTC believes that the rule will not have a significant economic impact on a substantial number of small entities.
-
-		VI.C.8.0 SEC. The SEC estimates that 915 broker-dealers, 212 investment companies registered with the Commission, and 781 investment advisers registered with the Commission are small entities for purposes of the RFA.240
-
-	VI.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VI.E.0.0 Action by the Agencies to Minimize Effects on Small Entities
-
-		VI.E.2.0 Clarification, consolidation, or simplification of reporting and compliance requirements. The Agencies believe that the model form will simplify the reporting requirements for all entities, including small entities, that choose to use the model form. We anticipate that financial institutions that choose to use the model form will spend less time preparing notices than if they had to draft one on their own. Because the model form was developed as part of a consumer testing process, further clarifying, consolidating, or simplifying the model notice would compromise the research findings.
-
-		VI.E.3.0 Performance rather than design standards. Section 728 of the Regulatory Relief Act specifically requires that the Agencies develop a model form. The model form is an alternative means of providing a privacy notice that institutions may choose to use. The privacy rules do not mandate the format of privacy notices; thus neither the privacy rules nor the amendments impose a design standard.
-
-		VI.E.4.0 Exempting small entities. We believe that an exemption for small entities would not be appropriate or desirable. The Agencies note that the model form is available for use at the discretion of all financial institutions, including small institutions. Moreover, two key objectives of the model form are that (1) consumers can understand an institution’s information sharing practices and (2) they may more easily compare financial institutions’ sharing practices and policies across privacy notices. An exemption for small entities would directly conflict with both of these key objectives, particularly that of enabling comparison across notices.
-
-VII.0.0.0 PAPERWORK REDUCTION ACT
-
-VIII.0.0.0 OCC AND OTS EXECUTIVE ORDER 12866 DETERMINATION
-
-IX.0.0.0 OCC AND OTS EXECUTIVE ORDER 13132 DETERMINATION
-
-X.0.0.0 OCC AND OTS UNFUNDED MANDATES REFORM ACT OF 1995 DETERMINATION
-
-XI.0.0.0 SEC COST-BENEFIT ANALYSIS
-
-	XI.A.0.0 Benefits
-
-	XI.B.0.0 Costs
-
-XIII.0.0.0 NCUA: THE TREASURY AND GENERAL GOVERNMENT APPROPRIATIONS ACT, 1999-ASSESSMENT OF FEDERAL REGULATIONS AND POLICIES ON FAMILIES
-
-XIV.0.0.0 CFTC COST-BENEFIT ANALYSIS
-
-
-
-<END TABLE OF CONTENTS>
-
 [OCC-4810-33-P 12.5%]
 
 [FRB-6210-01-P 12.5%]
@@ -324,13 +166,13 @@ CFTC COST-BENEFIT ANALYSIS
 
 The Regulatory Relief Act was enacted on October 13, 2006. <sup>2</sup> Section 728 of the Act directs the Agencies to “jointly develop a model form which may be used, at the option of the financial institution, for the provision of disclosures under [section 503 of the GLB Act].” <sup>3</sup> The Regulatory Relief Act stipulates that the model form shall be a safe harbor for financial institutions that elect to use it. Section 728 further directs that the model form shall:
 
-<h>A. be comprehensible to consumers, with a clear format and design;</h>
+A. be comprehensible to consumers, with a clear format and design;
 
-<h>B. provide for clear and conspicuous disclosures;</h>
+B. provide for clear and conspicuous disclosures;
 
-<h>C. enable consumers easily to identify the sharing practices of a financial institution and to compare privacy practices among financial institutions; and</h>
+C. enable consumers easily to identify the sharing practices of a financial institution and to compare privacy practices among financial institutions; and
 
-<h>D. be succinct, and use an easily readable type font.</h>
+D. be succinct, and use an easily readable type font.
 
 On March 29, 2007, the Agencies published a proposed model privacy form (the “proposed model form”) that financial institutions would be able to use to comply with certain disclosures under the privacy rule. <sup>4</sup> On April 15, 2009, the SEC reopened the comment period on the proposed rulemaking to solicit comment on a research report and test data pertaining to additional consumer testing of the proposed model privacy form. <sup>5</sup> Today, the Agencies are amending the privacy rule to include a model privacy form that institutions may use to provide required disclosures. The final model form is substantially as proposed with changes based on comments we received as well as additional consumer testing.
 
@@ -676,9 +518,9 @@ The Agencies have modified page two of the model form to streamline the informat
 
 To address the concerns about jointly-provided notices, the Agencies have added a new FAQ at the top of page two: “Who is providing this notice?” An institution may omit this FAQ only when one financial institution is providing the notice and that institution is identified in the title. The space to the right, which is limited (for reasons of space constraints) to a maximum of four (4) lines, <sup>172</sup> allows institutions that are jointly providing the notice to be identified. <sup>173</sup> This space must be used to:
 
-<h>1. State the common corporate name or other readily identifiable name that is also used for the title and various headings of the model form as the “name of financial institution;” and</h>
+1. State the common corporate name or other readily identifiable name that is also used for the title and various headings of the model form as the “name of financial institution;” and
 
-<h>2. Either (a) identify the entities jointly providing the notice; or (b) for institutions with a lengthy list of entities jointly providing the notice, identify the general types of entities in the response and identify the entities174 at the end of the form following the “Other important information” box, or, if that box is not incorporated into the form, following the “Definitions” or on an additional page. The list at the end of the form must be printed in minimum 8-point font and may appear in a multi-column format.</h>
+2. Either (a) identify the entities jointly providing the notice; or (b) for institutions with a lengthy list of entities jointly providing the notice, identify the general types of entities in the response and identify the entities174 at the end of the form following the “Other important information” box, or, if that box is not incorporated into the form, following the “Definitions” or on an additional page. The list at the end of the form must be printed in minimum 8-point font and may appear in a multi-column format.
 
 The Agencies have deleted the FAQ on how often consumers are provided notices on an institution’s sharing practices due to space constraints. <sup>175</sup>
 
@@ -694,7 +536,7 @@ As discussed earlier, a number of commenters asked how an opt-out election can b
 
 The second provides that the opt-out election will be applied to everyone on the account unless the customer elects to have the opt-out apply only to him. Institutions must select one or the other as the response to this question. <sup>184</sup>
 
-<h>1. Definitions</h>
+<h>2. Definitions</h>
 
 In the final model privacy form, the definition of “everyday business purposes” has been deleted as superfluous, and the description of everyday business purposes has been consolidated in the disclosure table on page one.	The other three definitions remain as proposed, with one modification.
 
@@ -704,7 +546,7 @@ Similarly, if an institution does not share for joint marketing or with nonaffil
 
 The Instructions have been modified with respect to an institution’s sharing with its affiliates so that an institution must provide only an illustrative list of affiliates with which it shares, and not a complete list. As proposed, when an institution shares with nonaffiliates or with other financial institutions to do joint marketing, the institution must describe the categories of entities with which it shares. <sup>186</sup> While the Instructions provide illustrative examples of categories, institutions must provide examples consistent with their practices. The Instructions provide guidance on these points. <sup>187</sup>
 
-<h>2. State and international law provisions</h>
+<h>3. State and international law provisions</h>
 
 To accommodate commenters’ requests to incorporate state and international law provisions in the notice, <sup>188</sup> the Agencies have added a new optional box at the end of the final model form called “Other important information.” The size of the box is not limited (except where space constraints apply in the Online Form Builder, described below), and institutions may use a third page, as necessary, for the information in this box. To qualify for the safe harbor, <sup>189</sup> institutions that elect to use this box can only use it for the following: (1) information about state and/or international privacy law requirements, as applicable; or (2) an acknowledgment form to create a record of having provided the notice. Certain institutions, for example, are required to includespecific affiliate sharing information for Vermont residents or to meet other requirements under California law. Some insurance commenters noted that approximately 16 states have privacy laws that require insurers to provide notice of “access and correction” rights. <sup>190</sup> Commenters noted that other states require disclosures about medical information. <sup>191</sup> Some large institutions noted that they are required to provide international law information. Such information may be included in this new box. In addition, one association commenter, representing automobile dealers, specifically requested a place on the form to allow its members to obtain signatures from customers acknowledging that they had received a copy of the notice. <sup>192</sup>
 
@@ -818,21 +660,21 @@ Finally, we received a limited number of comments indicating that a downloadable
 
 The amendments to Appendix A and conforming amendments to sections .2,.6, and .7 of the Agencies’ privacy rules may potentially affect financial institutions, including financial institutions that are small businesses or small organizations, that choose to rely on the model privacy form as a safe harbor.
 
-<h>1. OCC. The OCC estimates that 690 insured national banks, uninsured national banks and trust companies, and foreign branches and agencies are small entities for purpose of the RFA.</h>
+1. OCC. The OCC estimates that 690 insured national banks, uninsured national banks and trust companies, and foreign branches and agencies are small entities for purpose of the RFA.
 
-<h>2. Board. The Board estimates that 432 state member banks are small entities for purposes of the RFA.</h>
+2. Board. The Board estimates that 432 state member banks are small entities for purposes of the RFA.
 
-<h>3. FDIC. The FDIC estimates that 3115 state nonmember banks are small entities for purposes of the RFA.</h>
+3. FDIC. The FDIC estimates that 3115 state nonmember banks are small entities for purposes of the RFA.
 
-<h>4. OTS. The OTS estimates that 377 small savings associations are small entities for purposes of the RFA.</h>
+4. OTS. The OTS estimates that 377 small savings associations are small entities for purposes of the RFA.
 
-<h>5. NCUA. The RFA requires NCUA to prepare an analysis to describe any significant economic impact a regulation may have on a substantial number of small credit unions (primarily those under $10 million in assets). The NCUA estimates that 3,168 federally-insured, state-chartered credit unions are small entities for purposes of the RFA.</h>
+5. NCUA. The RFA requires NCUA to prepare an analysis to describe any significant economic impact a regulation may have on a substantial number of small credit unions (primarily those under $10 million in assets). The NCUA estimates that 3,168 federally-insured, state-chartered credit unions are small entities for purposes of the RFA.
 
-<h>6. FTC.	Determining a precise estimate of the number of small entities that are financial institutions within the meaning of the rule is not readily feasible. The GLB Act does not identify for purposes of the Commission’s jurisdiction any specific category of financial institution. In the absence of such information, there is no way to estimate precisely the number of affected entities that share nonpublic personal information with nonaffiliated third parties or that establish customer relationships with consumers and therefore assume greater disclosure obligations.</h>
+6. FTC.	Determining a precise estimate of the number of small entities that are financial institutions within the meaning of the rule is not readily feasible. The GLB Act does not identify for purposes of the Commission’s jurisdiction any specific category of financial institution. In the absence of such information, there is no way to estimate precisely the number of affected entities that share nonpublic personal information with nonaffiliated third parties or that establish customer relationships with consumers and therefore assume greater disclosure obligations.
 
-<h>7. CFTC. Section 5g of the CEA, 7 U.S.C. § 7b-2, provides that any futures commission merchant, commodity trading advisor, commodity pool operator, or introducing broker that is subject to the jurisdiction of the CFTC with respect to any financial activity, shall be treated as a financial institution for purposes of Title V of the GLB Act, regardless of size and including commodity trading advisors and commodity pool operators that are exempt from the CEA’s registration requirements. The CFTC has previously established certain definitions of “small entities” and determined that futures commission merchants and commodity pool operators are not small for purposes of the Regulatory Flexibility Act. Policy Statement and Establishment of Definitions of “Small Entities,” 47 Fed. Reg. 18,618 (Apr. 30, 1982). This rule applies to commodity trading advisors and introducing brokers of all sizes. Because use of the model privacy form is voluntary, and because its use is a form of substituted compliance with Part 160 and not a new mandatory burden, CFTC believes that the rule will not have a significant economic impact on a substantial number of small entities.</h>
+7. CFTC. Section 5g of the CEA, 7 U.S.C. § 7b-2, provides that any futures commission merchant, commodity trading advisor, commodity pool operator, or introducing broker that is subject to the jurisdiction of the CFTC with respect to any financial activity, shall be treated as a financial institution for purposes of Title V of the GLB Act, regardless of size and including commodity trading advisors and commodity pool operators that are exempt from the CEA’s registration requirements. The CFTC has previously established certain definitions of “small entities” and determined that futures commission merchants and commodity pool operators are not small for purposes of the Regulatory Flexibility Act. Policy Statement and Establishment of Definitions of “Small Entities,” 47 Fed. Reg. 18,618 (Apr. 30, 1982). This rule applies to commodity trading advisors and introducing brokers of all sizes. Because use of the model privacy form is voluntary, and because its use is a form of substituted compliance with Part 160 and not a new mandatory burden, CFTC believes that the rule will not have a significant economic impact on a substantial number of small entities.
 
-<h>8. SEC. The SEC estimates that 915 broker-dealers, 212 investment companies registered with the Commission, and 781 investment advisers registered with the Commission are small entities for purposes of the RFA.240</h>
+8. SEC. The SEC estimates that 915 broker-dealers, 212 investment companies registered with the Commission, and 781 investment advisers registered with the Commission are small entities for purposes of the RFA.240
 
 Because use of the model privacy form will be entirely voluntary, the Agencies cannot estimate how many small financial institutions will use it. The Agencies expect, however, that small financial institutions, particularly those that do not have permanent staff available to address compliance matters associated with the privacy rules, will be relatively more likely to rely on the model privacy form than larger institutions. We believe that most financial institutions currently have legal counsel review their privacy notices for compliance with the GLB Act, the FCRA, and the privacy rules. We anticipate that a financial institution that uses the model form for its privacy notice will need little review by legal counsel because the rules do not permit institutions to vary the form if they wish to obtain the benefit of a safe harbor, except as necessary within narrow parameters to identify their information collection, sharing, and opt-out policies. Finally, the Agencies are providing an Online Form Builder that will enable institutions to directly create a customized model form and thus will facilitate compliance.
 
@@ -846,15 +688,17 @@ Nonetheless, some of the financial institutions that rely on the Sample Clauses 
 
 <h>E. Action by the Agencies to Minimize Effects on Small Entities</h>
 
-The RFA directs the Agencies to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small entities. In connection with the amendments, we considered the following alternatives:1. Different reporting or compliance standards . As noted above, the Regulatory Relief Act requires the Agencies to develop “a” model form that, among other things, will facilitate comparison of the information sharing practices of different financial institutions. In light of these statutory requirements, the Agencies are adopting only one model form, which includes alternative language in some places that allows a financial institution to describe its particular information collection and sharing practices. The specific model form that the Agencies are adopting today was developed as part of a careful and thorough consumer testing process designed to produce a clear, comprehensible, and comparable notice. The model form emerged as the most effective of several notice formats considered as part of this testing.<sup>241</sup>
+The RFA directs the Agencies to consider significant alternatives that would accomplish the stated objectives, while minimizing any significant adverse impact on small entities. In connection with the amendments, we considered the following alternatives:
+
+1. Different reporting or compliance standards.As noted above, the Regulatory Relief Act requires the Agencies to develop “a” model form that, among other things, will facilitate comparison of the information sharing practices of different financial institutions. In light of these statutory requirements, the Agencies are adopting only one model form, which includes alternative language in some places that allows a financial institution to describe its particular information collection and sharing practices. The specific model form that the Agencies are adopting today was developed as part of a careful and thorough consumer testing process designed to produce a clear, comprehensible, and comparable notice. The model form emerged as the most effective of several notice formats considered as part of this testing.<sup>241</sup>
 
 To the extent that institutions review their privacy policies annually for compliance, we estimate that the costs associated with this annual review, including professional costs, will be approximately the same as the costs to complete the model form.
 
-<h>2. Clarification, consolidation, or simplification of reporting and compliance requirements. The Agencies believe that the model form will simplify the reporting requirements for all entities, including small entities, that choose to use the model form. We anticipate that financial institutions that choose to use the model form will spend less time preparing notices than if they had to draft one on their own. Because the model form was developed as part of a consumer testing process, further clarifying, consolidating, or simplifying the model notice would compromise the research findings.</h>
+2. Clarification, consolidation, or simplification of reporting and compliance requirements. The Agencies believe that the model form will simplify the reporting requirements for all entities, including small entities, that choose to use the model form. We anticipate that financial institutions that choose to use the model form will spend less time preparing notices than if they had to draft one on their own. Because the model form was developed as part of a consumer testing process, further clarifying, consolidating, or simplifying the model notice would compromise the research findings.
 
-<h>3. Performance rather than design standards. Section 728 of the Regulatory Relief Act specifically requires that the Agencies develop a model form. The model form is an alternative means of providing a privacy notice that institutions may choose to use. The privacy rules do not mandate the format of privacy notices; thus neither the privacy rules nor the amendments impose a design standard.</h>
+3. Performance rather than design standards. Section 728 of the Regulatory Relief Act specifically requires that the Agencies develop a model form. The model form is an alternative means of providing a privacy notice that institutions may choose to use. The privacy rules do not mandate the format of privacy notices; thus neither the privacy rules nor the amendments impose a design standard.
 
-<h>4. Exempting small entities. We believe that an exemption for small entities would not be appropriate or desirable. The Agencies note that the model form is available for use at the discretion of all financial institutions, including small institutions. Moreover, two key objectives of the model form are that (1) consumers can understand an institution’s information sharing practices and (2) they may more easily compare financial institutions’ sharing practices and policies across privacy notices. An exemption for small entities would directly conflict with both of these key objectives, particularly that of enabling comparison across notices.</h>
+4. Exempting small entities. We believe that an exemption for small entities would not be appropriate or desirable. The Agencies note that the model form is available for use at the discretion of all financial institutions, including small institutions. Moreover, two key objectives of the model form are that (1) consumers can understand an institution’s information sharing practices and (2) they may more easily compare financial institutions’ sharing practices and policies across privacy notices. An exemption for small entities would directly conflict with both of these key objectives, particularly that of enabling comparison across notices.
 
 <h>VII. PAPERWORK REDUCTION ACT</h>
 

@@ -1,93 +1,3 @@
-https://www.sec.gov/rules/final/2008/34-59062.pdf
-
-I.0.0.0 Executive Summary
-
-II.0.0.0 Background
-
-	II.A.0.0 History of Rule 15c2-12
-
-		II.A.3.0 unscheduled draws on debt service reserves reflecting financial difficulties;
-
-		II.A.4.0 unscheduled draws on credit enhancements reflecting financial difficulties;
-
-	II.B.0.0 Disclosure Practices in the Secondary Market and Need for Improved Availability to Continuing Disclosure
-
-		II.B.5.0 substitution of credit or liquidity providers, or their failure to perform; (6) adverse tax opinions or events affecting the tax-exempt status of the security; (7) modifications to rights of security holders; (8) bond calls; (9) defeasances; (10) release, substitution, or sale of property securing repayment of the securities; and (11) rating changes.
-
-	II.C.0.0 The MSRB’s Electronic Systems
-
-III.0.0.0 Discussion of Amendments and Comments Received
-
-	III.A.0.0 Amendments to Rule 15c2-12
-
-		III.A.1.0 Use of a Single Repository
-
-		III.A.2.0 MSRB as the Sole Repository
-
-		III.A.3.0 Competitive Concerns with a Single Repository
-
-		III.A.4.0 Electronic Document Submission
-
-		III.A.5.0 Identifying Information
-
-		III.A.6.0 Exemptive Provision
-
-		III.A.7.0 SIDs
-
-		III.A.8.0 Other Amendments
-
-	III.B.0.0 Other Comments
-
-	III.C.0.0 Transition
-
-IV.0.0.0 Paperwork Reduction Act
-
-	IV.A.0.0 Summary of Collection of Information
-
-	IV.B.0.0 Use of Information
-
-	IV.C.0.0 Respondents
-
-	IV.D.0.0 Total Annual Reporting and Recordkeeping Burden
-
-		IV.D.1.0 Broker-Dealers
-
-		IV.D.2.0 Issuers
-
-		IV.D.3.0 The MSRB
-
-		IV.D.4.0 Annual Aggregate Burden for Proposed Amendments
-
-	IV.E.0.0 Total Annual Cost Burden
-
-		IV.E.1.0 Issuers
-
-		IV.E.2.0 MSRB
-
-	IV.F.0.0 Retention Period of Recordkeeping Requirements
-
-	IV.G.0.0 Collection of Information Is Mandatory
-
-	IV.H.0.0 Responses to Collection of Information Will Not Be Kept Confidential
-
-V.0.0.0 Costs and Benefits of Proposed Amendments to Rule 15c2-12
-
-	V.A.0.0 Benefits
-
-	V.B.0.0 Costs
-
-		V.B.1.0 an approximate cost of $8 per notice to use a third party vendor to scan a material event notice or failure to file notice, and an approximate cost of $64 to use a third party vendor to scan
-
-VI.0.0.0 Consideration of Burden and Promotion of Efficiency, Competition, and Capital Formation
-
-VII.0.0.0 Regulatory Flexibility Act Certification
-
-VIII.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
 
 [Release No. 34-59062; File No. S7-21-08] RIN 3235-AK20
@@ -128,15 +38,15 @@ Among other things, the 1994 Amendments placed certain requirements on brokers, 
 
 Specifically, under the 1994 Amendments, Participating Underwriters are prohibited, subject to certain exemptions, from purchasing or selling municipal securities covered by the Rule in a primary offering, unless the Participating Underwriter has reasonably determined that an issuer of municipal securities or an obligated person <sup>23</sup> has undertaken in a written agreement or contract for the benefit of holders of such securities (“continuing disclosure agreement”) to provide specified annual information and event notices to certain information repositories. The information to be provided consists of: (1) certain annual financial and operating information and audited financial statements (“annual filings”); <sup>24</sup> (2) notices of the occurrence of any of eleven specific events (“material event notices”); <sup>25</sup> and (3) notices of the failure of an issuer orintended that its statement of views with respect to disclosures under the federal securities laws in the municipal market would encourage and expedite the ongoing efforts by market participants to improve disclosure practices, particularly in the secondary market, and to assist market participants in meeting their obligations under the antifraud provisions. Id .(1) principal and interest payment delinquencies; (2) non-payment related defaults;
 
-<h>3. unscheduled draws on debt service reserves reflecting financial difficulties;</h>
+3. unscheduled draws on debt service reserves reflecting financial difficulties;
 
-<h>4. unscheduled draws on credit enhancements reflecting financial difficulties;other obligated person to make a submission required by a continuing disclosure agreement (“failure to file notices”). <sup>26</sup> The 1994 Amendments require the Participating Underwriter to reasonably determine that an issuer of municipal securities or an obligated person has undertaken in the continuing disclosure agreement to provide: (1) annual filings to each NRMSIR; (2) material event notices and failure to file notices either to each NRMSIR or to the MSRB; and (3) in the case of states that established SIDs, all continuing disclosure documents to the appropriate SID. Finally, the 1994 Amendments revise the definition of “final official statement” to include a description of the issuer’s or obligated person’s continuing disclosure undertakings for the securities being offered, and of any instances in the previous five years in which the issuer or obligated person failed to comply, in all material respects, with undertakings in previous continuing disclosure agreements.</h>
+4. unscheduled draws on credit enhancements reflecting financial difficulties;other obligated person to make a submission required by a continuing disclosure agreement (“failure to file notices”). <sup>26</sup> The 1994 Amendments require the Participating Underwriter to reasonably determine that an issuer of municipal securities or an obligated person has undertaken in the continuing disclosure agreement to provide: (1) annual filings to each NRMSIR; (2) material event notices and failure to file notices either to each NRMSIR or to the MSRB; and (3) in the case of states that established SIDs, all continuing disclosure documents to the appropriate SID. Finally, the 1994 Amendments revise the definition of “final official statement” to include a description of the issuer’s or obligated person’s continuing disclosure undertakings for the securities being offered, and of any instances in the previous five years in which the issuer or obligated person failed to comply, in all material respects, with undertakings in previous continuing disclosure agreements.
 
 <h>B. Disclosure Practices in the Secondary Market and Need for Improved Availability to Continuing Disclosure</h>
 
 Since the adoption of Rule 15c2-12 in 1989 and its subsequent amendment in 1994, the size of the municipal securities market has grown considerably. <sup>27</sup> There were over $2.6 trillion
 
-<h>5. substitution of credit or liquidity providers, or their failure to perform; (6) adverse tax opinions or events affecting the tax-exempt status of the security; (7) modifications to rights of security holders; (8) bond calls; (9) defeasances; (10) release, substitution, or sale of property securing repayment of the securities; and (11) rating changes.</h>
+5. substitution of credit or liquidity providers, or their failure to perform; (6) adverse tax opinions or events affecting the tax-exempt status of the security; (7) modifications to rights of security holders; (8) bond calls; (9) defeasances; (10) release, substitution, or sale of property securing repayment of the securities; and (11) rating changes.
 
 In addition, Rule 15c2-12(d)(2) provides an exemption from the application of paragraph (b)(5) of the Rule with respect to primary offerings if, among other things, the issuer or obligated person has agreed to a limited disclosure obligation, including sending certain material event notices to each NRMSIR or the MSRB, as well as the appropriate SID. See 17 CFR 240.15c2-12(d)(2).of municipal securities outstanding at the end of 2007. <sup>28</sup> Notably, at the end of 2007, retail investors held approximately 35% of outstanding municipal securities directly and up to another 36% indirectly through money market funds, mutual funds, and closed end funds. <sup>29</sup> There is also substantial trading volume in the municipal securities market. According to the MSRB, more than $6.6 trillion of long and short term municipal securities were traded in 2007 in more than 9 million transactions. <sup>30</sup> Further, the municipal securities market is extremely diverse, with more than 50,000 state and local issuers of these securities. <sup>31</sup>
 
@@ -504,7 +414,7 @@ It is likely, however, that most issuers of municipal securities currently posse
 
 As described more fully in Section IV. above, we estimate that the costs to some issuers to submit continuing disclosure documents to the MSRB in an electronic format may include:
 
-<h>1. an approximate cost of $8 per notice to use a third party vendor to scan a material event notice or failure to file notice, and an approximate cost of $64 to use a third party vendor to scanan average-sized annual financial statement; (2) an approximate cost ranging from $750 and$4300 to acquire technology resources to convert continuing disclosure documents into an electronic format; (3) approximately $50 to $300 to upgrade or acquire the software to submit documents in an electronic format; (4) approximately $50 per month to acquire Internet access; and (5) an approximate cost of $16 per continuing disclosure document to have a designatedagent submit electronically continuing disclosure documents and identifying information to the MSRB. As noted in the Proposing Release, for an issuer that does not have Internet access andelects to have a third party convert continuing disclosure documents into an electronic format, the maximum external estimated cost such issuer will incur is $752 per year. <sup>250</sup> As noted in the Proposing Release, for an issuer that does not have Internet access and elects to acquire the technological resources to convert continuing disclosure documents into an electronic format internally, the maximum external estimated cost such issuer will incur is $4,900 for the first year and $600 per year thereafter. <sup>251</sup> As noted in the Proposing Release, the estimated total cost for issuers, if they all were classified as Category 1 issuers, is $7,520,000 per year, and the estimatedtotal cost for issuers, if they all were classified as Category 2 issuers, is $49,000,000 for the first year and $6,000,000 per year thereafter. <sup>252</sup> We included these cost estimates in the Proposing$600 (annual cost per issuer for Internet access) = $6,000,000. To provide an estimate of the total costs to issuers that would not be under-inclusive, we assumed that all 10,000 issuers are Category 1 issuers and Category 2 issuers.</h>
+1. an approximate cost of $8 per notice to use a third party vendor to scan a material event notice or failure to file notice, and an approximate cost of $64 to use a third party vendor to scanan average-sized annual financial statement; (2) an approximate cost ranging from $750 and$4300 to acquire technology resources to convert continuing disclosure documents into an electronic format; (3) approximately $50 to $300 to upgrade or acquire the software to submit documents in an electronic format; (4) approximately $50 per month to acquire Internet access; and (5) an approximate cost of $16 per continuing disclosure document to have a designatedagent submit electronically continuing disclosure documents and identifying information to the MSRB. As noted in the Proposing Release, for an issuer that does not have Internet access andelects to have a third party convert continuing disclosure documents into an electronic format, the maximum external estimated cost such issuer will incur is $752 per year. <sup>250</sup> As noted in the Proposing Release, for an issuer that does not have Internet access and elects to acquire the technological resources to convert continuing disclosure documents into an electronic format internally, the maximum external estimated cost such issuer will incur is $4,900 for the first year and $600 per year thereafter. <sup>251</sup> As noted in the Proposing Release, the estimated total cost for issuers, if they all were classified as Category 1 issuers, is $7,520,000 per year, and the estimatedtotal cost for issuers, if they all were classified as Category 2 issuers, is $49,000,000 for the first year and $6,000,000 per year thereafter. <sup>252</sup> We included these cost estimates in the Proposing$600 (annual cost per issuer for Internet access) = $6,000,000. To provide an estimate of the total costs to issuers that would not be under-inclusive, we assumed that all 10,000 issuers are Category 1 issuers and Category 2 issuers.
 
 Release and received no comments on them. In the Proposing Release, the Commission indicated that we believe that most issuers either currently submit continuing disclosure documents in an electronic format, or currently have the necessary technology resources to submit continuing disclosure documents in an electronic format. Accordingly, we believe that the actual total costs that will be incurred by issuers to convert continuing disclosure documentsinto an electronic format will be less than the estimated maximum external costs described above and discussed more fully in Section IV. above.
 

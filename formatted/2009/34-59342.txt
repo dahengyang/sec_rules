@@ -1,99 +1,3 @@
-https://www.sec.gov/rules/final/2009/34-59342.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 THE FINAL RULE AMENDMENTS
-
-	II.A.0.0 Amendments to the Instructions for Form NRSRO
-
-		II.A.1.0 Enhanced Ratings Performance Measurement Statistics on Form NRSRO
-
-		II.A.2.0 Enhanced Disclosure of Ratings Methodologies
-
-	II.B.0.0 Amendments to Rule 17g-2
-
-		II.B.1.0 A Record of Rating Actions and the Requirement that they be made Publicly Available
-
-		II.B.2.0 A Record of Material Deviation from Model Output
-
-		II.B.3.0 Records Concerning Third-Party Analyst Complaints
-
-		II.B.4.0 Clarifying Amendment to Rule 17g-2(b)(7)
-
-	II.C.0.0 Amendment to Rule 17g-3 (Report of Credit Rating Actions)
-
-	II.D.0.0 Amendments to Rule 17g-5
-
-		II.D.1.0 Rule 17g-5 Prohibition on Conflict of Interest Related to Rating an Obligor or Debt Security where the Obligor or Issuer Received Ratings Recommendations from the NRSRO or Person Associated with the NRSRO
-
-		II.D.2.0 Rule 17g-5 Prohibition on Conflict of Interest Related to the Participation of Certain Personnel in Fee Discussions
-
-		II.D.3.0 Rule 17g-5 Prohibition of Conflict of Interest Related to Receipt of Gifts
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-		III.D.1.0 Rule 17g-1, Application for registration as a nationally recognized statistical rating agency; Form NRSRO and the Instructions for Form NRSRO (OMB Control Number 3235-0625);
-
-		III.D.2.0 Rule 17g-2, Records to be made and retained by national recognized statistical rating organizations (OMB Control Number 3235-0628); and
-
-		III.D.3.0 Rule 17g-3, Annual reports to be furnished by nationally recognized statistical rating organizations (OMB Control Number 3235-0626).
-
-	III.A.0.0 Collections of Information under the Amended Rules
-
-	III.B.0.0 Proposed Use of Information
-
-	III.C.0.0 Respondents
-
-	III.D.0.0 Total Annual Recordkeeping and Reporting Burden
-
-		III.D.1.0 Amendments to Form NRSRO
-
-		III.D.2.0 Amendments to Rule 17g-2
-
-		III.D.3.0 Amendment to Rule 17g-3
-
-	III.E.0.0 Collection of Information Is Mandatory
-
-	III.F.0.0 Confidentiality
-
-IV.0.0.0 COSTS AND BENEFITS OF THE AMENDED RULES
-
-	IV.A.0.0 Benefits
-
-	IV.B.0.0 Costs
-
-		IV.B.1.0 Amendments to Form NRSRO
-
-		IV.B.2.0 Amendments to Rule 17g-2
-
-		IV.B.3.0 Amendment to Rule 17g-3
-
-		IV.B.4.0 Amendments to Rule 17g-5
-
-			IV.B.4.c to Rule 17g-5 to add three additional prohibited conflicts of interest.264 In the June
-
-	IV.C.0.0 Total Estimated Costs of this Rulemaking
-
-V.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Need for and Objective of the Amendments
-
-	VI.B.0.0 Significant Issues Raised by Commenters
-
-	VI.C.0.0 Small Entities Subject to the Rule
-
-	VI.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VI.E.0.0 Significant Alternatives
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 240 and 249b
@@ -382,11 +286,11 @@ For the reasons discussed, the Commission is adopting the amendment as proposed.
 
 Certain provisions of the rule amendments contain a “collection of information” within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>117</sup> The Commission published a notice requesting comment on the collection of information requirements in the June 16, 2008 Proposing Release and submitted the proposed amendments to the Office of Management and Budget (“OMB”) for review in accordance with the PRA. <sup>118</sup> An agency may not conduct or sponsor, and a person is not required to comply with, a collection of information unless it displays a currently valid control number. The titles for the collections of information are:
 
-<h>1. Rule 17g-1, Application for registration as a nationally recognized statistical rating agency; Form NRSRO and the Instructions for Form NRSRO (OMB Control Number 3235-0625);</h>
+1. Rule 17g-1, Application for registration as a nationally recognized statistical rating agency; Form NRSRO and the Instructions for Form NRSRO (OMB Control Number 3235-0625);
 
-<h>2. Rule 17g-2, Records to be made and retained by national recognized statistical rating organizations (OMB Control Number 3235-0628); and</h>
+2. Rule 17g-2, Records to be made and retained by national recognized statistical rating organizations (OMB Control Number 3235-0628); and
 
-<h>3. Rule 17g-3, Annual reports to be furnished by nationally recognized statistical rating organizations (OMB Control Number 3235-0626).</h>
+3. Rule 17g-3, Annual reports to be furnished by nationally recognized statistical rating organizations (OMB Control Number 3235-0626).
 
 <h>A. Collections of Information under the Amended Rules</h>
 
@@ -574,7 +478,7 @@ The seven remaining NRSROs account for 2% of the credit ratings outstanding and,
 
 Rule 17g-5 requires an NRSRO to manage and disclose certain conflicts of interest and prohibits other conflicts outright. <sup>263</sup> The Commission is amending paragraph
 
-<h>c. to Rule 17g-5 to add three additional prohibited conflicts of interest.264 In the June16, 2008 Proposing Release , the Commission estimated that the amendments to paragraph (c) to Rule 17g-5 generally would impose de minimis costs on an NRSRO. <sup>265</sup> However, the Commission recognized that an NRSRO may incur costs related to training employees about the new requirements. <sup>266</sup> The Commission also recognized that it waspossible that the proposed amendments could require some NRSROs to restructure their business models or activities, in particular with respect to their consulting services. <sup>267</sup></h>
+c. to Rule 17g-5 to add three additional prohibited conflicts of interest.264 In the June16, 2008 Proposing Release , the Commission estimated that the amendments to paragraph (c) to Rule 17g-5 generally would impose de minimis costs on an NRSRO. <sup>265</sup> However, the Commission recognized that an NRSRO may incur costs related to training employees about the new requirements. <sup>266</sup> The Commission also recognized that it waspossible that the proposed amendments could require some NRSROs to restructure their business models or activities, in particular with respect to their consulting services. <sup>267</sup>
 
 The Commission requested comment in the June 16, 2008 Proposing Release on the costs that would result from the proposed amendments to Rule 17g-5. <sup>268</sup> In addition, the Commission requested specific comment on whether the proposed amendments to paragraph (c) of Rule 17g-5 would impose training and restructuring costs, would impose personnel costs, or would impose any additional costs on an NRSRO that is part of a large conglomerate related to monitoring the business activities of persons associated with the NRSRO, such as affiliates located in other countries. <sup>269</sup> The Commission asked that commenters provide specific data and analysis to support any comments they submit with respect to these cost estimates. <sup>270</sup> The Commission received two comments on the proposed amendment, both from large NRSROs. <sup>271</sup>
 

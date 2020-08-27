@@ -1,65 +1,3 @@
-https://www.sec.gov/rules/final/2007/34-56887.pdf
-
-I.0.0.0 INTRODUCTION AND BACKGROUND
-
-	I.A.0.0 Proposing Release and Public Comment Letters
-
-	I.B.0.0 Employee Stock Options and Exchange Act Section 12(g)
-
-II.0.0.0 DISCUSSION OF EXEMPTIONS
-
-	II.A.0.0 Exemption For Compensatory Employee Stock Options of Issuers That Are Not Exchange Act Reporting Issuers
-
-		II.A.1.0 Eligible Issuers
-
-		II.A.3.0 Eligible Option Plan Participants
-
-		II.A.4.0 Option Terms
-
-			II.A.4.a Compensatory Employee Stock Option Transferability Restrictions
-
-			II.A.4.b Permitted Exercisability of Compensatory Employee Stock Options
-
-		II.A.5.0 Required Information
-
-		II.A.6.0 Issuer Obligation to Impose the Conditions to the Exemption
-
-	II.B.0.0 Exemption for Compensatory Employee Stock Options of Exchange Act Reporting Issuers
-
-	II.C.0.0 Registering When No Longer Eligible for Exemption
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-	III.A.0.0 Background
-
-	III.B.0.0 Summary of Collection of Information
-
-	III.C.0.0 Summary of Comments
-
-	III.D.0.0 Paperwork Reduction Act Burden Estimates
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Background
-
-	IV.B.0.0 Summary of Amendments
-
-		IV.B.1.0 Expected Benefits
-
-		IV.B.2.0 Expected Costs
-
-V.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION ANALYSIS
-
-VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-VII.0.0.0 ADMINISTRATIVE PROCEDURE ACT
-
-VIII.0.0.0 STATUTORY BASIS AND TEXT OF RULE AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>240</sup>
 
 Release No. 34-56887; International Series Release No. 1305; File No. S7-14-07
@@ -196,6 +134,7 @@ Issuers that are not subject to the reporting requirements of Exchange Act Secti
 
 The exemption will be available only to those issuers that are not required to report under the Exchange Act. As such, the exemption will terminate once the issuer becomes subject to the reporting requirements of the Exchange Act. The exemption also will terminate if the issuer no longer satisfies the conditions to the exemption. <sup>26</sup>available if the issuer was required, but failed, to register another class of equity security under the Exchange Act.
 
+<h>2. Eligible Compensatory Employee Stock Options</h>
 The exemption covers all compensatory employee stock options meeting the conditions of the exemption, even if the compensatory employee stock options are issued under separate written option plans of the issuer, its parents, or majority-owned subsidiaries of the issuer or its parents. <sup>29</sup> For the purpose of the exemption, the compensatory employee stock options will be considered to belong to the same class of equity security of the issuer if the same class of securities of the issuer will be issuable on exercise of the compensatory employee stock options. <sup>30</sup> While one commenter requested that we allow companies to determine whether a particular group of compensatory employee stock options was the same class as other compensatory employee stock options for purposes of determining whether it had met the 500 holder threshold, <sup>31</sup> we are adopting the exemption as proposed in this regard. <sup>32</sup> We believe that, solely for purposes of determining whether the Rule 12h-1 exemption is available, it is important to establish uniformity in evaluating whether there are 500 or more holders of compensatory employee stock options and so that issuers appropriately analyze when Exchange Act Section 12(g) applies to their compensatory employee stock options. <sup>33</sup>
 
 The exemption, as adopted, applies to the compensatory employee stock options only and not to the securities issued (or to be issued) on exercise of the compensatory employee stock options. Thus, the issuer will have to apply the registration requirements of Exchange Act Section 12 to the class of equity security underlying the compensatory employee stock options without regard to the exemption. <sup>34</sup>

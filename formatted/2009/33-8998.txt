@@ -1,129 +1,3 @@
-https://www.sec.gov/rules/final/2009/33-8998.pdf
-
-I.0.0.0 EXECUTIVE SUMMARY
-
-II.0.0.0 BACKGROUND
-
-III.0.0.0 DISCUSSION
-
-	III.A.0.0 Amendments to Form N-1A
-
-		III.A.1.0 General Instructions to Form N-1A
-
-		III.A.2.0 Exchange Ticker Symbols
-
-		III.A.3.0 Information Required in Summary Section
-
-		III.A.3.0 principal investment strategies, risks, and performance; (4) investment advisers and portfolio managers; (5) brief purchase and sale and tax information; and (6) financial intermediary compensation. These items will appear in the same order that we proposed. We have modified the requirements for some items to address comments and views expressed in the focus groups.
-
-			III.A.3.a Elimination of Proposed Portfolio Holdings Requirement
-
-			III.A.3.b Order of Information
-
-			III.A.3.c Investment Objectives and Goals
-
-			III.A.3.d Fee Table
-
-			III.A.3.e Investments, Risks, and Performance
-
-			III.A.3.f Management
-
-			III.A.3.g Purchase and Sale of Fund Shares
-
-			III.A.3.h Tax Information
-
-			III.A.3.i Financial Intermediary Compensation
-
-		III.A.4.0 Exchange-Traded Funds
-
-			III.A.4.a Purchasing and Redeeming Shares
-
-			III.A.4.b Total Return
-
-			III.A.4.c Premium/Discount Information
-
-		III.A.5.0 Conforming and Technical Amendments to Form N-1A
-
-	III.B.0.0 New Delivery Option for Mutual Funds
-
-		III.B.1.0 Use of Summary Prospectus and Satisfaction of Statutory Prospectus Delivery Requirements
-
-		III.B.2.0 Content of Summary Prospectus
-
-			III.B.2.a General
-
-			III.B.2.b Cover Page or Beginning of Summary Prospectus
-
-			III.B.2.c Updating Requirements
-
-		III.B.3.0 Provision of Statutory Prospectus, SAI, and Shareholder Reports
-
-			III.B.3.a Documents Required to be Provided on the Internet
-
-			III.B.3.b Formatting Requirements for Information Provided on the Internet
-
-			III.B.3.c Technological Requirements for Online Information
-
-			III.B.3.d Ability to Retain Documents
-
-			III.B.3.e Safe Harbor for Temporary Noncompliance
-
-			III.B.3.f Requirement to Send Documents
-
-		III.B.4.0 Incorporation by Reference
-
-			III.B.4.a Permissible Incorporation by Reference
-
-			III.B.4.b Effect of Incorporation by Reference
-
-		III.B.5.0 Filing Requirements for the Summary Prospectus
-
-	III.C.0.0 Technical and Conforming Amendments
-
-	III.D.0.0 Compliance Date
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-	IV.A.0.0 , Form N-4 under the Securities Act and the Investment Company Act, and Form N-14 under the Securities Act. These technical and conforming amendments do not
-
-	IV.A.0.0 Form N-1A
-
-	IV.B.0.0 Rule 498
-
-	IV.C.0.0 ETF-Related Amendments
-
-V.0.0.0 COST/BENEFIT ANALYSIS
-
-	V.A.0.0 Benefits
-
-		V.A.1.0 Form N-1A
-
-		V.A.2.0 ETF-Related Disclosures
-
-	V.B.0.0 Costs
-
-		V.B.1.0 Form N-1A
-
-VI.0.0.0 CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
-
-VII.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VII.A.0.0 Need for the Rule
-
-	VII.B.0.0 Significant Issues Raised by Public Comment
-
-	VII.C.0.0 Small Entities Subject to the Rule
-
-	VII.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VII.E.0.0 Agency Action to Minimize the Effect on Small Entities
-
-VIII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 230, 232, 239, and 274
 
 [Release Nos. 33-8998; IC-28584; File No. S7-28-07] RIN 3235-AJ44
@@ -254,7 +128,7 @@ We requested comment on whether we should require or permit a fund to include it
 
 We are adopting the required content of the summary section substantially as proposed, except that, having considered commenters’ concerns and the views of investors expressed in focus groups, we have determined not to require disclosure of a fund’s portfolio holdings. The summary section of a mutual fund statutory prospectus will consist of the following information: (1) investment objectives; (2) costs;
 
-<h>3. principal investment strategies, risks, and performance; (4) investment advisers and portfolio managers; (5) brief purchase and sale and tax information; and (6) financial intermediary compensation. These items will appear in the same order that we proposed. We have modified the requirements for some items to address comments and views expressed in the focus groups.</h>
+3. principal investment strategies, risks, and performance; (4) investment advisers and portfolio managers; (5) brief purchase and sale and tax information; and (6) financial intermediary compensation. These items will appear in the same order that we proposed. We have modified the requirements for some items to address comments and views expressed in the focus groups.
 
 <h>a. Elimination of Proposed Portfolio Holdings Requirement</h>
 
@@ -680,7 +554,7 @@ To implement the new disclosure framework, we are adopting amendments to Form N-
 
 We are also adopting technical and conforming amendments to rules 159A and 482 under the Securities Act that reflect the Summary Prospectus and the elimination of the voluntary profile, along with amendments that update the cross references to Form N-1A contained in rule 485 under the Securities Act, rules 304 and 401 of Regulation
 
-<h>A. , Form N-4 under the Securities Act and the Investment Company Act, and Form N-14 under the Securities Act. These technical and conforming amendments do not<sup>358</sup></h>
+A. , Form N-4 under the Securities Act and the Investment Company Act, and Form N-14 under the Securities Act. These technical and conforming amendments do not<sup>358</sup>
 
 See Proposing Release, supra note 12, 72 FR at 67990.constitute a collection of information because we are not altering the legal requirements of these rules and forms.
 
@@ -816,7 +690,9 @@ In the Proposing Release, we estimated an hourly wage rate of $252.50, which was
 
 In the Proposing Release, we estimated the costs per fund choosing to use the Summary Prospectus. See Proposing Release, supra note 12, 72 FR 67811 n. 166. We have revised this calculation to produce an average cost per portfolio industry-wide.
 
-We received one comment letter arguing that the use of the Summary Prospectus under rule 498 may impose costs on investors by relieving funds of liability for misleading disclosure. <sup>424</sup> For the reasons discussed in Parts III.B.4.a. and III.B.5., we do not believe that the amendments, as adopted, will entail such costs.2.	ETF-Related Disclosures
+We received one comment letter arguing that the use of the Summary Prospectus under rule 498 may impose costs on investors by relieving funds of liability for misleading disclosure. <sup>424</sup> For the reasons discussed in Parts III.B.4.a. and III.B.5., we do not believe that the amendments, as adopted, will entail such costs.
+
+<h>2.	ETF-Related Disclosures</h>
 
 The primary goal of our amendments relating to ETF disclosures is to provide investors in ETF shares with more valuable information regarding an investment in an ETF. We do not expect that the amendments will result in significant additional costs to ETFs. <sup>425</sup> As noted above, the N-1A amendments generally codify disclosure requirements in existing ETF exemptive orders.we estimate that 100% of prospectuses are printed in black and white at a cost of $0.035 per page for ink and that the average prospectus length is approximately 45 pages at a cost of $0.010 per page for the paper (($0.035 for ink + $0.010 for paper) x 45 pages).
 

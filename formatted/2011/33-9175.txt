@@ -1,99 +1,3 @@
-https://www.sec.gov/rules/final/2011/33-9175.pdf
-
-I.0.0.0 Background
-
-		I..1.0 to require any securitizer to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by securitizer, so that investors may identify asset originators with clear underwriting deficiencies; and
-
-		I..2.0 to require each nationally recognized statistical rating organization (“NRSRO”) to include, in any report accompanying a credit rating for an asset-backed securities offering, a description of (A) the representations, warranties and enforcement mechanisms available to investors; and (B) how they differ from the representations, warranties and enforcement mechanisms in issuances of similar securities.12
-
-II.0.0.0 Discussion of Amendments
-
-	II.A.0.0 Disclosure Requirements for Securitizers
-
-		II.A.1.0 Definition of Exchange Act-ABS for Purposes of Rule 15Ga-1
-
-		II.A.2.0 Definition of Securitizer for Purposes of Rule 15Ga-1
-
-	II.A.0.0 an issuer of an asset-backed security; or
-
-	II.B.0.0 a person who organizes and initiates an asset-backed securities transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the issuer.20
-
-		II.B.3.0 Application to Municipal Securitizers
-
-		II.B.4.0 Disclosures Required by Rule 15Ga-1
-
-			II.B.4.a Proposed New Rule 15Ga-1
-
-			II.B.4.b Comments on the Proposed Rule
-
-			II.B.4.c Final Rule
-
-		II.B.5.0 Form ABS-15G
-
-			II.B.5.a Proposed Form ABS-15G
-
-			II.B.5.b Comments on the Proposed Rule
-
-			II.B.5.c Final Form ABS-15G
-
-	II.B.0.0 Disclosure Requirements in Regulation AB Transactions
-
-		II.B.1.0 Proposed Amendments to Regulation AB
-
-		II.B.2.0 Comments Received on the Proposal
-
-		II.B.3.0 Final Rule
-
-	II.C.0.0 Disclosure Requirements for NRSROs
-
-		II.C.1.0 Proposed New Rule 17g-7
-
-		II.C.2.0 Comments received on Proposed Rule
-
-III.0.0.0 Transition Period
-
-IV.0.0.0 Paperwork Reduction Act
-
-	IV.A.0.0 Background
-
-		IV.A.1.0 “Form ABS-15G” (a new collection of information);
-
-		IV.A.2.0 “Regulation S-K” (OMB Control No. 3235-0071); 199 and
-
-		IV.A.3.0 “Rule 17g-7” (a new collection of information).
-
-	IV.B.0.0 Summary of the Final Rules
-
-	IV.C.0.0 Summary of Comment Letters on the PRA Analysis and Revisions to Proposals
-
-	IV.D.0.0 PRA Reporting and Cost Burden Estimates
-
-		IV.D.1.0 Form ABS-15G
-
-		IV.D.2.0 Forms S-1, S-3 and 10-D
-
-		IV.D.3.0 Regulation S-K
-
-		IV.D.4.0 Rule 17g-7
-
-		IV.D.5.0 Summary of Changes to Annual Burden Compliance in Collection of Information
-
-X.0.0.0 of the 2010 ABS Proposing Release. We also add 393 to estimate for offerings under other exemptions that were not within the scope of the 2010 ABS Proposing Release. Thus, in total we use an estimated annual average number of 2,067 ABS offerings for the basis of our PRA burden estimates.
-
-	X.A.0.0 Benefits
-
-	X.B.0.0 Costs
-
-VII.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation
-
-VIII.0.0.0 Regulatory Flexibility Act Certification
-
-IX.0.0.0 Statutory Authority and Text of Rule and Form Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 229, 232, 240 and 249
 
 Release Nos. 33-9175; 34-63741; File No. S7-24-10 RIN 3235-AK75
@@ -248,9 +152,9 @@ Exchange Act-ABS definition, our new Rule 15Ga-1 would require a securitizer to 
 
 Section 943 and new Rule 15Ga-1 impose the disclosure obligation on a “securitizer” as defined in the Exchange Act. The Act amended the Exchange Act to include the definition of a “securitizer”. Under the Exchange Act, a securitizer is either:
 
-<h>A. an issuer of an asset-backed security; or</h>
+A. an issuer of an asset-backed security; or
 
-<h>B. a person who organizes and initiates an asset-backed securities transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the issuer.20</h>
+B. a person who organizes and initiates an asset-backed securities transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the issuer.20
 
 The definition of securitizer is not specifically limited to entities that undertake transactions that are registered under the Securities Act or conducted in reliance upon any particular exemption. <sup>21</sup> Consequently, it applies to any entity or person that issues or
 
@@ -556,11 +460,11 @@ ABS offerings. <sup>217</sup> We also assigned four to the number of credit rati
 
 Table 1 illustrates the annual compliance burden of the collection of information in hours and costs for the new disclosure requirements for securitizers and NRSROs. Below, the new Rule 15Ga-1 requirement for securitizers is noted as “Form ABS-15G” and the new requirement for NRSROs is noted as “17g-7.”
 
-VI.	Benefit-Cost Analysis
+<h>VI.	Benefit-Cost Analysis</h>
 
 Section 943 of the Act requires the Commission to prescribe rules relating to disclosure of demand, repurchase and replacement history by securitizers and disclosure of
 
-<h>X. of the 2010 ABS Proposing Release. We also add 393 to estimate for offerings under other exemptions that were not within the scope of the 2010 ABS Proposing Release. Thus, in total we use an estimated annual average number of 2,067 ABS offerings for the basis of our PRA burden estimates.representations, warranties, and enforcement mechanisms by NRSROs. In response to the requirements of Section 943, the Commission is adopting new rules and form amendments that would require securitizers and NRSROs to make the required disclosures.</h>
+X. of the 2010 ABS Proposing Release. We also add 393 to estimate for offerings under other exemptions that were not within the scope of the 2010 ABS Proposing Release. Thus, in total we use an estimated annual average number of 2,067 ABS offerings for the basis of our PRA burden estimates.representations, warranties, and enforcement mechanisms by NRSROs. In response to the requirements of Section 943, the Commission is adopting new rules and form amendments that would require securitizers and NRSROs to make the required disclosures.
 
 First, Section 943(2) requires any securitizer to disclose fulfilled and unfulfilled repurchase requests across all trusts aggregated by the securitizer, so that investors may identify asset originators with clear underwriting deficiencies. As the Act requires, our rules will apply to “any securitizer” of Exchange Act-ABS, including unregistered Exchange Act- ABS. The Act requires disclosure of “fulfilled and unfulfilled repurchase requests” and our new rules require disclosure of all repurchase requests, not just those limited to the transaction agreements. Further, the Act requires disclosure “across all trusts aggregated by the securitizer.” The new rule seeks to account for the potential limited availability and usefulness of older information by requiring securitizers to provide demand and repurchase history, initially for a three-year look back period and then quarterly on an ongoing basis for all outstanding Exchange Act-ABS held by non-affiliates during the reporting period. In order to implement the disclosure requirement, we are requiring that securitizers provide the disclosures in a tabular format and file them on EDGAR on new Form ABS-15G. As we discuss above, the new rules provide that if an affiliate securitizer has filed the same disclosures, then other affiliated securitizers would not have to also file the disclosures in order to avoid duplicate disclosures. In addition, a securitizer may suspend its quarterly reporting obligation if it has no reportable activity and makes an annual filing to confirm that it has had no activity for the prior year. We are also providing approximately a one-year transition period so that securitizers may set up systems and gather the data to make the required disclosures. For municipal securitizers, we are providing approximately a four-yeartransition period and permitting municipal securitizers to satisfy the filing obligation by filing on EMMA.
 

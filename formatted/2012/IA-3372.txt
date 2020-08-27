@@ -1,35 +1,3 @@
-https://www.sec.gov/rules/final/2012/ia-3372.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Inflation Adjustment of Dollar Amount Thresholds
-
-	II.B.0.0 Exclusion of the Value of Primary Residence from Net Worth Determination
-
-	II.C.0.0 Transition Provisions
-
-		II.C.3.0 of rule 205-3(c) to provide that, if an owner of an interest in a private investment company transfers an interest by gift or bequest, or pursuant to an agreement related to a legal separation or divorce, the transfer will not cause the transferee to “become a party” to the contract and will not cause section 205(a)(1) of the Act to apply to such transferee. Thus, transfers in these circumstances will not cause the transferee to have to meet the definition of a qualified client under rule 205-3.
-
-	II.D.0.0 Effective Date
-
-III.0.0.0 COST-BENEFIT ANALYSIS
-
-	III.A.0.0 Benefits
-
-	III.B.0.0 Costs
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-V.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-VI.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 275
 
 [Release No. IA-3372; File No. S7-17-11] RIN 3235-AK71
@@ -144,7 +112,7 @@ Finally, at the suggestion of one commenter, we have revised the third paragraph
 
 We believe that, when those types of transfers occur, the transferee does not make aseparate investment decision to enter into an advisory contract with the adviser, but is the recipient, perhaps involuntarily, of the benefits of a pre-existing contractual relationship. Because of the circumstances of these transfers, we believe the transferee is not of the type thatneeds the protections of the performance fee restrictions. We are therefore amending paragraph
 
-<h>3. of rule 205-3(c) to provide that, if an owner of an interest in a private investment company transfers an interest by gift or bequest, or pursuant to an agreement related to a legal separation or divorce, the transfer will not cause the transferee to “become a party” to the contract and will not cause section 205(a)(1) of the Act to apply to such transferee. Thus, transfers in these circumstances will not cause the transferee to have to meet the definition of a qualified client under rule 205-3.</h>
+3. of rule 205-3(c) to provide that, if an owner of an interest in a private investment company transfers an interest by gift or bequest, or pursuant to an agreement related to a legal separation or divorce, the transfer will not cause the transferee to “become a party” to the contract and will not cause section 205(a)(1) of the Act to apply to such transferee. Thus, transfers in these circumstances will not cause the transferee to have to meet the definition of a qualified client under rule 205-3.
 
 <h>D. Effective Date</h>
 

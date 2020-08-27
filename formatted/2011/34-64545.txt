@@ -1,383 +1,3 @@
-https://www.sec.gov/rules/final/2011/34-64545.pdf
-
-I.0.0.0 Background and Summary
-
-II.0.0.0 Description of the Rules
-
-	II.A.0.0 Rule 21F-1 – General
-
-	II.B.0.0 Rule 21F-2 – Definition of a Whistleblower
-
-			II.B..a Proposed Rule
-
-			II.B..b Comments Received
-
-			II.B..c Final Rule
-
-	II.C.0.0 Rule 21F-3 - Payment of Award
-
-			II.C..a Proposed Rule
-
-			II.C..b Comments Received
-
-			II.C..c Final Rule
-
-	II.D.0.0 Rule 21F- 4 – Other Definitions
-
-		II.D.1.0 Rule 21F-4(a) – Voluntary submission of information
-
-			II.D.1.a Proposed Rule
-
-			II.D.1.b Comments Received
-
-			II.D.1.c Final Rule
-
-		II.D.2.0 Rule 21F-4(b) – Original Information
-
-			II.D.2.a Proposed Rule
-
-			II.D.2.b Comments Received
-
-			II.D.2.c Final Rule
-
-		II.D.3.0 Rule 21F-4(b)(2) – Independent knowledge
-
-			II.D.3.a Proposed Rule
-
-			II.D.3.b Comments Received
-
-			II.D.3.c Final Rule
-
-		II.D.4.0 Rule 21F-4(b)(3) – Definition of independent analysis
-
-			II.D.4.a Proposed Rule
-
-			II.D.4.b Comments Received
-
-			II.D.4.c Final Rule
-
-		II.D.5.0 Rules 21F-4(b)(4)(i) through (vi) – Exclusions from Independent Knowledge and Independent Analysis
-
-			II.D.5.a Proposed Rules
-
-			II.D.5.b Comments Received
-
-			II.D.5.c Final Rules
-
-			II.D.5.a Attorney-client privilege and other attorney conduct
-
-			II.D.5.a Proposed Rule
-
-			II.D.5.b Comments Received
-
-		II.D.2.0 to prevent the client from committing a crime or fraud that is reasonably certain to result in substantial injury to the financial interests or property of another and in furtherance of which the client has used or is using the lawyer's services; and (3) to prevent, mitigate or rectify substantial injury to the financial interests or property of another that is reasonably certain to result or has resulted from the client's commission of a crime or fraud in furtherance of which the client has used the lawyer's services. See Model Rule 1.6(b)(1)-(3). Model Rule 1.13(c) provides that where an attorney reports violations of law to the highest authority within an organization, and “despite the lawyer's efforts…the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and (2) the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization,” the lawyer may reveal information relating to the representation., notwithstanding Rule 1.6, but only to the extent “the lawyer reasonably believes necessary to prevent substantial injury to the organization.”
-
-			II.D.2.c Final Rule
-
-			II.D.2.b Responsible company personnel, compliance processes, and independent public accountants
-
-			II.D.2.a Proposed Rule
-
-			II.D.2.b Comments Received
-
-			II.D.2.a Proposed Rules
-
-			II.D.2.b Comments Received
-
-			II.D.2.a Rules 21F-4(b)(4)(iii)(A) through (C)
-
-			II.D.2.c Rule 21F-4(b)(4)(iv) - Conviction for Violations of Law
-
-			II.D.2.a Proposed Rule
-
-			II.D.2.b Comments Received
-
-			II.D.2.c Final Rule
-
-			II.D.2.d Rule 21F-4(b)(4)(vi) – Information Obtained from Excluded Persons
-
-			II.D.2.a Proposed Rule
-
-			II.D.2.b Comments Received
-
-			II.D.2.c Final Rule
-
-		II.D.6.0 Rule 21F-4(b)(5) – Original source
-
-			II.D.6.a Proposed Rule
-
-			II.D.6.b Comments Received
-
-			II.D.6.c Final Rule
-
-		II.D.7.0 Rule 21F-4(b)(6) – Original source; additional information
-
-			II.D.7.a Proposed Rule
-
-			II.D.7.b Comments Received
-
-			II.D.7.c Final Rule
-
-		II.D.8.0 21F-4(b)(7): Original Source: Lookback
-
-			II.D.8.a Proposed Rule
-
-			II.D.8.b Comments Received
-
-			II.D.8.c Final Rule
-
-		II.D.9.0 Rule 21F-4(c) – Information that Leads to Successful Enforcement
-
-			II.D.9.a Proposed Rule
-
-			II.D.9.b Comments Received
-
-		II.D.1.0 allow companies to take appropriate actions to remedy improper conduct at an early stage;
-
-		II.D.2.0 allow companies to self-report;
-
-		II.D.3.0 avoid undermining internal compliance programs and preserve systems companies have installed designed to deter, indentify, and correct violations;
-
-		II.D.4.0 allow the whistleblower program to supplement, rather than supersede the internal control requirements under the Sarbanes-Oxley Act of 2002;
-
-		II.D.5.0 allow the Commission to preserve its scarce resources by relying upon corporate internal compliance programs;
-
-		II.D.6.0 promote a working relationship between the Commission and companies;
-
-		II.D.7.0 allow compliance personnel to address conduct that does not yet rise to the level of a violation or is not a violation (based on a misunderstanding of fact or law);
-
-		II.D.8.0 increase the quality of tips the Commission receives;and
-
-		II.D.9.0 avoid internal investigations being compromised by unwillingness on the part of whistleblowers to participate.
-
-		II.D.1.0 prohibit whistleblowers from reporting fraud directly and immediately to the Commission;
-
-		II.D.2.0 be inconsistent with Congressional intent;
-
-		II.D.3.0 create unnecessary and improper hurdles for whistleblowers;
-
-		II.D.4.0 place whistleblowers at risk of retaliation;
-
-		II.D.5.0 result in whistleblowers deciding not to report misconduct;
-
-		II.D.6.0 eliminate incentives for companies to improve their internal compliance programs.
-
-		II.D.7.0 contravene an employee’s right to disclose information anonymously and directly to the Commission;and
-
-		II.D.8.0 be inconsistent with the DOJ and IRS whistleblower programs.
-
-			II.D.8.c Final Rule
-
-		II.D.3.0 the information provided by the employer to the Commission “led to” successful enforcement under the criteria of Rule 21F-4(c)(1) or (2) discussed above, then the whistleblower will receive full credit for the information provided by the employer as if the whistleblower had provided the information to us. Thus, when the employer provided information “led to” a successful enforcement action, the whistleblower will be
-
-		II.D.10.0 Rule 21F-4(d) – Action
-
-			II.D.10.a Proposed Rule
-
-			II.D.10.b Comments Received
-
-			II.D.10.c Final Rule
-
-		II.D.11.0 Rule 21F-4(e) – Monetary Sanctions
-
-		II.D.12.0 Rule 21F-4(f) – Appropriate regulatory agency
-
-			II.D.12.a Proposed Rule
-
-			II.D.12.b Comments Received
-
-			II.D.12.c Final Rule
-
-		II.D.13.0 Rule 21F-4(g) – Appropriate regulatory authority
-
-		II.D.14.0 Rule 21F-4(h) – SRO
-
-	II.E.0.0 Rule 21F-5 - Amount of Award
-
-			II.E.14.a Proposed Rule
-
-			II.E.14.b Comments Received
-
-			II.E.14.c Final Rule
-
-	II.F.0.0 Rule 21F-6 – Criteria for Determining Amount of Award.
-
-			II.F.14.a Proposed Rule
-
-			II.F.14.b Comments Received
-
-			II.F.14.c Final Rule
-
-	II.G.0.0 Rule 21F-7 - Confidentiality of Submissions
-
-			II.G.14.a Proposed Rule
-
-			II.G.14.b Comments Received
-
-			II.G.14.c Final Rule
-
-	II.H.0.0 Rule 21F-8 – Eligibility
-
-			II.H.14.a Proposed Rule
-
-			II.H.14.b also authorized the staff to require that a whistleblower enter into a confidentiality agreement in a form acceptable to the Office of the Whistleblower, including a provision that a violation may result in the whistleblower being ineligible for an award.
-
-			II.H.14.b Comments Received
-
-			II.H.14.c Final Rule
-
-I.0.0.0 Rule 21F-9 - Procedures for Submitting Original Information
-
-			I.H.14.a Proposed Rule
-
-			I.H.14.b Comments Received
-
-			I.H.14.c Final Rule
-
-	I.A.0.0 Procedure for Submitting Original Information
-
-	I.B.0.0 Form TCR
-
-	I.J.0.0 Rule 21F-10 — Procedures for Making a Claim Based on a Successful
-
-			I.J.14.a Proposed Rule
-
-		I.J.30.0 days of the deposit of monetary sanctions into a disgorgement or other fund
-
-			I.J.30.b Comments Received
-
-			I.J.30.c Final Rule
-
-	I.K.0.0 Rule 21F-11 — Procedure for Making a Claim Based on a Successful
-
-			I.K.30.a Proposed Rule
-
-			I.K.30.b Comments Received
-
-			I.K.30.c Final Rule
-
-	I.L.0.0 Rules 21F-12 & 13 – Materials that May Be Used as the Basis for an
-
-			I.L.30.a Proposed Rule
-
-			I.L.30.b Comments Received
-
-			I.L.30.c Final Rule
-
-	I.M.0.0 Rule 21F-14 – Procedures Applicable to Payment of Awards
-
-			I.M.30.a Proposed Rule
-
-			I.M.30.b Comments Received
-
-			I.M.30.c Final Rule
-
-	I.N.0.0 Rule 21F-15 - No Amnesty
-
-			I.N.30.a Proposed Rule
-
-			I.N.30.b Comments Received
-
-			I.N.30.c Final Rule
-
-	I.O.0.0 Rule 21F-16 – Awards to Whistleblowers who Engage in Culpable
-
-			I.O.30.a Proposed Rule
-
-			I.O.30.b Comments Received
-
-			I.O.30.c Final Rule
-
-	I.P.0.0 Rule 21F-17 - Staff Communications with Individuals Reporting Possible
-
-			I.P.30.a Proposed Rule
-
-			I.P.30.b Comments Received
-
-			I.P.30.c Final Rule
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-		III.P.1.0 Form TCR (Tip, Complaint or Referral), (2) Form WB-DEC (Declaration Concerning Original Information Provided Pursuant to § 21F of the Securities Exchange Act of 1934), and (3) Form WB-APP (Application for Award for Original Information Provided Pursuant to § 21F of the Securities Exchange Act of 1934). These three forms were proposed to implement Section 21F of the Exchange Act. The proposed forms allowed
-
-	III.A.0.0 Summary of Collection of Information
-
-		III.A.1.0 Background information regarding each complainant submitting the TCR, including the person’s name and contact information. We have added a section for the identification of additional complainants.
-
-		III.A.2.0 If the complainant is represented by an attorney, the name and contact information for the complainant’s attorney (in cases of anonymous submissions the person must be represented by an attorney);
-
-		III.A.3.0 Information regarding the person or entity that is the subject of the tip or complaint, including contact information;
-
-		III.A.4.0 Information regarding the tip or complaint, including the date of the alleged violation; the nature of the complaint; the type of security or investment, ticker symbol or CUSIP number and name of the issuer or security, if relevant; whether the complainant or counsel has had prior contact with Commission staff and with whom; whether information has been communicated to another agency and, if so, details about that communication, including the name and contact information for the point of contact at the agency, if available; whether the complaint relates to an entity of which the complainant is or was an officer, director, counsel, employee, consultant or contractor; whether the complainant has taken any prior actions regarding the complaint including reporting the violation to a supervisor, compliance office, whistleblower hotline, ombudsman, or any other available mechanism at the entity for reporting violations; and the date of such action was taken;
-
-		III.A.5.0 A description of the facts pertinent to the alleged violation, including an explanation of why the complainant believes the acts described constitute a violation of the federal securities laws;
-
-		III.A.6.0 A description of all supporting materials in the complainant’s possession and the availability and location of any additional supporting materials not in the complainant’s possession;
-
-		III.A.7.0 An explanation of how the person submitting the complaint obtained the information and, if any information was obtained form an attorney or in a communication where an attorney was present, the identification of any such information;
-
-		III.A.8.0 A description of any information obtained from a public source and a description of such source;
-
-		III.A.9.0 A description of any documents or other information in the complainant’s submission that the complainant believes could reasonably be expected to reveal his or her identity, including an explanation of the basis for the complainant’s belief that his or her identity would be revealed if the documents were disclosed to a third party; and
-
-		III.A.10.0 Any additional information the complainant believes may be relevant.
-
-		III.A.1.0 The applicant’s name, address and contact information;
-
-		III.A.2.0 The applicant’s social security number, if any;
-
-		III.A.3.0 If the person is represented by an attorney, the name and contact information for the attorney (in cases of anonymous submissions the person must be represented by an attorney);
-
-		III.A.4.0 Details concerning the tip or complaint, including (a) the manner in which the information was submitted to the SEC, (b) the subject of the tip, complaint or referral (TCR), (c) the TCR number, and (d) the date the TCR was submitted to the SEC;
-
-		III.A.5.0 Information concerning the Notice of Covered Action to which the claim relates, including (i) the date of the Notice, (ii) the Notice number, and
-
-		III.A.6.0 For related actions, (i) the name and contact information for the agency or organization to which the person provided the original information; (ii) the date the person provided this information, (ii) the date the agency or
-
-		III.A.7.0 A series of questions concerning the person’s eligibility to receive an award as described in the discussion Form TCR above;
-
-		III.A.8.0 An optional explanation of the reasons that the person believes he is entitled to an award in connection with his submission of information to the Commission, or to another agency in a related action, including any additional information and supporting documents that may be relevant in light of the criteria for determining the amount of an award set forth in Rule 21F-6, and any supporting documents; and
-
-		III.A.9.0 A declaration, signed under penalty of perjury, that the information provided in Form WB-APP is true, correct and complete to the best of the person’s knowledge, information and belief.
-
-	III.B.0.0 Use of Information
-
-	III.C.0.0 Respondents
-
-	III.D.0.0 Total Annual Reporting and Recordkeeping Burden
-
-	III.E.0.0 Mandatory Collection of Information
-
-	III.F.0.0 Confidentiality
-
-IV.0.0.0 ECONOMIC ANALYSIS
-
-	IV.A.0.0 Analysis of Benefits, Costs, and Economic Effects of the Rules
-
-		IV.A.1.0 Eligibility for Anti-Retaliation Protection
-
-		IV.A.2.0 The Penalty of Perjury
-
-		IV.A.3.0 Monetary Award Eligibility
-
-		IV.A.4.0 Eligibility for culpable whistleblowers
-
-		IV.A.5.0 Award Amount Factor
-
-		IV.A.6.0 Procedures Required for a Whistleblower to Qualify for an Award
-
-		IV.A.7.0 Incentives for Internal Reporting
-
-	IV.B.0.0 Additional Considerations of Competition, Efficiency, and Capital
-
-V.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-VI.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 240 and 249
@@ -792,7 +412,7 @@ The exclusions did not preclude an individual who has independent knowledge of f
 
 The Commission received a number of comments related to the exclusions set forth in Proposed Rules 21F-4(b)(4)(i) and (ii). Most commenters were generally supportive of the exclusions for the reasons that we identified in our proposing release. <sup>124</sup> A few commenters, however, asserted that the exclusions are unnecessary,
 
-<h>2. to prevent the client from committing a crime or fraud that is reasonably certain to result in substantial injury to the financial interests or property of another and in furtherance of which the client has used or is using the lawyer's services; and (3) to prevent, mitigate or rectify substantial injury to the financial interests or property of another that is reasonably certain to result or has resulted from the client's commission of a crime or fraud in furtherance of which the client has used the lawyer's services. See Model Rule 1.6(b)(1)-(3). Model Rule 1.13(c) provides that where an attorney reports violations of law to the highest authority within an organization, and “despite the lawyer's efforts…the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and (2) the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization,” the lawyer may reveal information relating to the representation., notwithstanding Rule 1.6, but only to the extent “the lawyer reasonably believes necessary to prevent substantial injury to the organization.”and that instead we should rely upon judicial decisions and state bar opinions to decide on a case-by-case basis whether we could use information that would otherwise be covered by the proposed exclusions. <sup>125</sup></h>
+2. to prevent the client from committing a crime or fraud that is reasonably certain to result in substantial injury to the financial interests or property of another and in furtherance of which the client has used or is using the lawyer's services; and (3) to prevent, mitigate or rectify substantial injury to the financial interests or property of another that is reasonably certain to result or has resulted from the client's commission of a crime or fraud in furtherance of which the client has used the lawyer's services. See Model Rule 1.6(b)(1)-(3). Model Rule 1.13(c) provides that where an attorney reports violations of law to the highest authority within an organization, and “despite the lawyer's efforts…the highest authority that can act on behalf of the organization insists upon or fails to address in a timely and appropriate manner an action, or a refusal to act, that is clearly a violation of law, and (2) the lawyer reasonably believes that the violation is reasonably certain to result in substantial injury to the organization,” the lawyer may reveal information relating to the representation., notwithstanding Rule 1.6, but only to the extent “the lawyer reasonably believes necessary to prevent substantial injury to the organization.”and that instead we should rely upon judicial decisions and state bar opinions to decide on a case-by-case basis whether we could use information that would otherwise be covered by the proposed exclusions. <sup>125</sup>
 
 Many commenters who were generally supportive of the exclusions suggested modifications. <sup>126</sup> Several commenters recommended that the exclusions expressly apply to all information coming from communications subject to the attorney-client privilege, whether or not the whistleblower was an attorney, because non-attorneys are often in possession of information that is subject to the privilege. <sup>127</sup> Other commenters wanted us to modify the rules to ensure that we are not receiving privileged information. <sup>128</sup> For example, one commenter requested that the rule explicitly state that we are not seeking privileged information, and, that if such information is provided to us, we will not argue that the privilege was waived. <sup>129</sup> Other commenters recommended that the rule should exclude all information coming from communications with attorneys, even if the privilege had been waived. <sup>130</sup>
 
@@ -1046,43 +666,43 @@ Commenters also criticized the proposed standard applicable when there is alread
 
 As noted, we requested comment on whether our rules should require whistleblowers to report violations of the securities laws through their internal compliance and reporting systems before submitting the information to us. Comments on this issue were sharply divided. Many commenters strongly supported such a requirement. In particular, commenters argued that we should require internal reporting because doing so will:
 
-<h>1. allow companies to take appropriate actions to remedy improper conduct at an early stage;</h>
+1. allow companies to take appropriate actions to remedy improper conduct at an early stage;
 
-<h>2. allow companies to self-report;</h>
+2. allow companies to self-report;
 
-<h>3. avoid undermining internal compliance programs and preserve systems companies have installed designed to deter, indentify, and correct violations;</h>
+3. avoid undermining internal compliance programs and preserve systems companies have installed designed to deter, indentify, and correct violations;
 
-<h>4. allow the whistleblower program to supplement, rather than supersede the internal control requirements under the Sarbanes-Oxley Act of 2002;</h>
+4. allow the whistleblower program to supplement, rather than supersede the internal control requirements under the Sarbanes-Oxley Act of 2002;
 
-<h>5. allow the Commission to preserve its scarce resources by relying upon corporate internal compliance programs;</h>
+5. allow the Commission to preserve its scarce resources by relying upon corporate internal compliance programs;
 
-<h>6. promote a working relationship between the Commission and companies;</h>
+6. promote a working relationship between the Commission and companies;
 
-<h>7. allow compliance personnel to address conduct that does not yet rise to the level of a violation or is not a violation (based on a misunderstanding of fact or law);</h>
+7. allow compliance personnel to address conduct that does not yet rise to the level of a violation or is not a violation (based on a misunderstanding of fact or law);
 
-<h>8. increase the quality of tips the Commission receives;and</h>
+8. increase the quality of tips the Commission receives;and
 
-<h>9. avoid internal investigations being compromised by unwillingness on the part of whistleblowers to participate.</h>
+9. avoid internal investigations being compromised by unwillingness on the part of whistleblowers to participate.
 
 Many other commenters strongly opposed a requirement that whistleblower report internally before reporting to the Commission. Several commenters argued that doing so would:
 
-<h>1. prohibit whistleblowers from reporting fraud directly and immediately to the Commission;</h>
+1. prohibit whistleblowers from reporting fraud directly and immediately to the Commission;
 
-<h>2. be inconsistent with Congressional intent;</h>
+2. be inconsistent with Congressional intent;
 
-<h>3. create unnecessary and improper hurdles for whistleblowers;</h>
+3. create unnecessary and improper hurdles for whistleblowers;
 
-<h>4. place whistleblowers at risk of retaliation;</h>
+4. place whistleblowers at risk of retaliation;
 
-<h>5. result in whistleblowers deciding not to report misconduct;</h>
+5. result in whistleblowers deciding not to report misconduct;
 
-<h>6. eliminate incentives for companies to improve their internal compliance programs.</h>
+6. eliminate incentives for companies to improve their internal compliance programs.
 
-<h>7. contravene an employee’s right to disclose information anonymously and directly to the Commission;and</h>
+7. contravene an employee’s right to disclose information anonymously and directly to the Commission;and
 
-<h>8. be inconsistent with the DOJ and IRS whistleblower programs.</h>
+8. be inconsistent with the DOJ and IRS whistleblower programs.
 
-<h>c. Final Rule</h>
+c. Final Rule
 
 After considering the comments, we have significantly modified Rule 21F-4(c).
 
@@ -1110,7 +730,7 @@ Rule 21F-4(c)(3): Additional incentives to encourage reporting throughinternal c
 
 Paragraph (3) of Rule 21F-4(c) is a new provision that has been added, in response to comments, to create a significant financial incentive for whistleblowers to report possible violations to internal compliance programs before, or at the same time, they report to us. The final rule provides that if: (1) a whistleblower reports original information through his or her employer’s internal whistleblower, legal or compliance procedures before or at the same time he or she reports them to the Commission; (2) the employer provides the Commission with the whistleblower’s information or with the results of an investigation initiated in response to the whistleblower’s information; and
 
-<h>3. the information provided by the employer to the Commission “led to” successful enforcement under the criteria of Rule 21F-4(c)(1) or (2) discussed above, then the whistleblower will receive full credit for the information provided by the employer as if the whistleblower had provided the information to us. Thus, when the employer provided information “led to” a successful enforcement action, the whistleblower will beeligible for an award, even if the information the whistleblower originally provided to the employer would not have satisfied the “led to” requirements.</h>
+3. the information provided by the employer to the Commission “led to” successful enforcement under the criteria of Rule 21F-4(c)(1) or (2) discussed above, then the whistleblower will receive full credit for the information provided by the employer as if the whistleblower had provided the information to us. Thus, when the employer provided information “led to” a successful enforcement action, the whistleblower will beeligible for an award, even if the information the whistleblower originally provided to the employer would not have satisfied the “led to” requirements.<
 
 To qualify for an award under this new provision, the rule requires that a whistleblower must provide information “through an entity’s internal whistleblower, legal or compliance procedures for reporting allegations of possible violations of law.” A report to a supervisor will qualify under this standard if the entity’s internal compliance procedures require or permit reporting misconduct in the first instance to supervisors.
 
@@ -1448,7 +1068,7 @@ In Section F, the whistleblower is required to declare under penalty of perjury 
 
 The counsel certification in Section G requires an attorney for an anonymous whistleblower to certify that the attorney reviewed the form for completeness and accuracy and that the attorney has verified the identity of the whistleblower on whose behalf the form is being submitted by viewing the complainant’s valid, unexpired government issued identification ( e.g. , driver’s license, passport). In addition, the attorney must certify that he or she will retain an original, signed copy of the form, with Section F signed by the whistleblower, in his or her records. Finally, the attorney must indicate that the attorney has obtained the whistleblower’s non-waiveable consent tosame household as a member or employee of the SEC. Item 6 asks whether the whistleblower is providing the information before the whistleblower (or anyone representing the whistleblower) received any request, inquiry or demand that relates to the subject matter of the submission (i) from the SEC, (ii) in connection with an investigation, inspection or examination by the PCAOB, or any SRO; or (iii) in connection with an investigation by the Congress, any other authority of the federal government, or a state Attorney General or securities regulatory authority. In item 7, we ask whether the whistleblower is the subject or target of a criminal investigation or has been convicted of a criminal violation in connection with the information being submitted to the SEC and request details concerning any such investigation or conviction. Item 8 asks whether the whistleblower acquired the information being submitted to the Commission from any person described in Item E1 through E6. Item 9 requests additional details concerning the whistleblower’s responses to items 1 through 8.provide the Commission with his or her original signed Form TCR upon request in the event that the Commission requests it due to concerns that the whistleblower may have knowingly and willfully made false, fictitious, or fraudulent statements or representations, or used any false writing or document knowing that the writing or document contains any false fictitious or fraudulent statement or entry. The certification also reflects the attorney’s consent to be legally obligated to do so within 7 calendar days of receiving such a request from the Commission.
 
-<h>J. Rule 21F-10 — Procedures for Making a Claim Based on a Successful</h>
+<h>J. Rule 21F-10 — Procedures for Making a Claim Based on a Successful Commission Action</h>
 
 Commission Action
 
@@ -1456,7 +1076,7 @@ Commission Action
 
 In Proposed Rule 21F-10, we described the procedures that a whistleblower would be required to follow in order to make a claim for an award based on a Commission action, and the Commission’s proposed claims review process. The proposed process would begin with the publication of a “Notice of a Covered Action” (“Notice”) on the Commission’s website. Whenever a judicial or administrative action brought by the Commission results in the imposition of monetary sanctions exceeding$1,000,000, the Office of the Whistleblower would cause this Notice to be published on the Commission’s website subsequent to the entry of a final judgment or order in the action that by itself, or collectively with other judgments or orders previously entered in the action, exceeds the $1,000,000 threshold. If the monetary sanctions are obtained without a judgment or order -- as in the case of a contribution made pursuant to Section 308(b) of the Sarbanes-Oxley Act of 2002 -- the Notice would be published within thirty
 
-<h>30. days of the deposit of monetary sanctions into a disgorgement or other fundpursuant to Section 308(b) that causes total monetary sanctions in the action to exceed$1,000,000. The Commission’s proposed rule would require claimants to file their claim for an award within sixty (60) days of the date of the Notice.	A claimant’s failure to timely file a request for a whistleblower award would bar that individual from later seeking a recovery.</h>
+30. days of the deposit of monetary sanctions into a disgorgement or other fundpursuant to Section 308(b) that causes total monetary sanctions in the action to exceed$1,000,000. The Commission’s proposed rule would require claimants to file their claim for an award within sixty (60) days of the date of the Notice.	A claimant’s failure to timely file a request for a whistleblower award would bar that individual from later seeking a recovery.
 
 Paragraph (b) of Proposed Rule 21F-10 described the procedure for making a claim for an award. Specifically, a claimant would be required to submit a claim for an award on Proposed Form WB-APP, Application for Award for Original Information Provided Pursuant to §21F of the Securities Exchange Act of 1934 . Proposed Form WB-APP, and the instructions thereto, would elicit information concerning a whistleblower’s eligibility to receive an award at the time the whistleblower files his claim. The purpose of the form is, among other things, to provide an opportunity for the whistleblower to “make his case” for why he is entitled to an award by describing the information and assistance he has provided and its significance to the Commission’s successful action. Proposed Items A1 through A3 required the claimant to provide basic identifying information, including first and last name and contact information.
 
@@ -1528,9 +1148,9 @@ END
 
 Whistleblower instead of the SEC Office of the Secretary (although the Office of the Secretary will continue to issue the Order). We have done so to reflect the fact that the Office of the Whistleblower is the appropriate Commission liaison with whistleblower claimants.
 
-<h>K. Rule 21F-11 — Procedure for Making a Claim Based on a Successful</h>
+<h>K. Rule 21F-11 — Procedure for Making a Claim Based on a Successful Related Action</h>
 
-Related Action
+
 
 <h>a. Proposed Rule</h>
 

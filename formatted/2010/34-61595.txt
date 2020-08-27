@@ -1,173 +1,3 @@
-https://www.sec.gov/rules/final/2010/34-61595.pdf
-
-I.0.0.0 Executive Summary
-
-II.0.0.0 Background on Short Sale Restrictions
-
-	II.A.0.0 Short Selling and its Market Impact
-
-	II.B.0.0 History of Short Sale Price Test Restrictions in the U.S.
-
-	II.C.0.0 Proposal to Adopt a Short Sale Price Test Restriction or Circuit Breaker
-
-III.0.0.0 Discussion of Rule 201 of Regulation SHO
-
-	III.A.0.0 Operation of the Circuit Breaker Plus Alternative Uptick Rule
-
-		III.A.1.0 Covered Securities
-
-		III.A.2.0 Pricing Increment
-
-		III.A.3.0 Alternative Uptick Rule
-
-		III.A.4.0 Circuit Breaker Approach Generally
-
-		III.A.1.0 Circuit Breaker Trigger Level and Duration
-
-		III.A.2.0 Determination Regarding Securities Subject to Rule 201 and Dissemination of Such Information
-
-		III.A.3.0 Policies and Procedures Approach
-
-		III.A.1.0 Broker-Dealer Provision
-
-		III.A.2.0 Seller’s Delay in Delivery469
-
-		III.A.3.0 Odd Lot Transactions
-
-		III.A.4.0 Domestic Arbitrage
-
-		III.A.5.0 International Arbitrage
-
-		III.A.6.0 Over-Allotments and Lay-Off Sales
-
-		III.A.7.0 Riskless Principal Transactions
-
-		III.A.8.0 Transactions on a Volume-Weighted Average Price Basis
-
-		III.A.9.0 Decision Not to Adopt a Provision that a Broker-Dealer may Mark an Order “Short Exempt” in Connection with Bona Fide Market Making Activity
-
-IV.0.0.0 Order Marking
-
-V.0.0.0 Exemptive Procedures
-
-VI.0.0.0 Overseas Transactions
-
-VII.0.0.0 Rule 201 Implementation Period
-
-VIII.0.0.0 Decision Not to Implement Rule 201 on a Pilot Basis
-
-IX.0.0.0 Paperwork Reduction Act
-
-	IX.A.0.0 Background
-
-	IX.B.0.0 Summary
-
-		IX.B.1.0 Policies and Procedures Requirement under Rule 201
-
-		IX.B.2.0 Policies and Procedures Requirement under the Broker-Dealer and Riskless Principal Provisions
-
-		IX.B.3.0 Marking Requirements
-
-	IX.C.0.0 Use of Information
-
-		IX.C.1.0 Policies and Procedures Requirement under Rule 201
-
-		IX.C.2.0 Policies and Procedures Requirement under the Broker-Dealer and Riskless Principal Provisions
-
-		IX.C.3.0 Marking Requirements
-
-	IX.D.0.0 Respondents
-
-		IX.D.1.0 Policies and Procedures Requirement under Rule 201
-
-		IX.D.2.0 Policies and Procedures Requirement under the Broker-Dealer and Riskless Principal Provisions
-
-		IX.D.3.0 Marking Requirements
-
-	IX.E.0.0 Total Annual Reporting and Recordkeeping Burdens
-
-		IX.E.1.0 Policies and Procedures Requirement under Rule 201
-
-	IX.F.0.0 Collection of Information Is Mandatory
-
-		IX.F.1.0 Policies and Procedures Requirements
-
-		IX.F.2.0 Marking Requirements
-
-	IX.G.0.0 Confidentiality
-
-		IX.G.1.0 Policies and Procedures Requirements
-
-		IX.G.2.0 Marking Requirements
-
-	IX.H.0.0 Record Retention Period
-
-		IX.H.1.0 Policies and Procedures Requirements
-
-		IX.H.2.0 Marking Requirements
-
-X.0.0.0 Cost-Benefit Analysis
-
-	X.A.0.0 Benefits
-
-		X.A.1.0 Alternative Uptick Rule
-
-		X.A.2.0 Circuit Breaker Approach
-
-		X.A.3.0 Marking Requirements
-
-	X.B.0.0 Costs
-
-		X.B.1.0 Alternative Uptick Rule
-
-			X.B.1.a Impact on Market Quality
-
-			X.B.1.b Implementation and On-going Monitoring and Surveillance Costs
-
-		X.B.2.0 Circuit Breaker Approach
-
-			X.B.2.a Impact on Market Quality
-
-			X.B.2.b Implementation and On-going Monitoring and Surveillance Costs
-
-		X.B.3.0 Implementation Period
-
-		X.B.4.0 Marking Requirements
-
-XI.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition, and Capital Formation
-
-	XI.A.0.0 Competition
-
-		XI.A.1.0 Market Structure for Trading Centers and Broker-Dealers
-
-		XI.A.2.0 Discussion of Impacts of Rules 200(g) and 201 on Competition
-
-	XI.B.0.0 Capital Formation
-
-	XI.C.0.0 Efficiency
-
-XII.0.0.0 Final Regulatory Flexibility Analysis
-
-	XII.A.0.0 Need for and Objectives of the Rule
-
-	XII.B.0.0 Significant Issues Raised by Public Comment
-
-	XII.C.0.0 Small Entities Affected by the Rule
-
-	XII.D.0.0 Projected Reporting, Recordkeeping and Other Compliance Requirements
-
-	XII.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-	XII.F.0.0 Significant Alternatives
-
-XIII.0.0.0 Statutory Authority
-
-XIV.0.0.0 Text of the Amendments to Regulation SHO List of Subjects
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PART 242
 
 Release No. 34-61595; File No. S7-08-09 RIN 3235-AK35
@@ -502,7 +332,7 @@ As discussed in this adopting release, we remain mindful that short selling prov
 
 Thus, as discussed in detail below, we are adopting in Rule 201 a targeted short sale price test restriction that will be based on the current national best bid and that will apply only if the price of an individual security declines intra-day by 10% or more from that security’s prior day’s closing price on the listing market for that security. We are also amending Rule 200(g) of Regulation SHO to address when a broker-dealer may need to mark certain sell orders “short exempt.”
 
-D.	Empirical Data Regarding Potential Market Impact of Short Sale Price Test Restrictions Submitted in Response to the Proposal and Re-Opening Release
+<h>D. Empirical Data Regarding Potential Market Impact of Short Sale Price Test Restrictions Submitted in Response to the Proposal and Re-Opening Release </h>
 
 In the Proposal, we requested that commenters provide empirical data to support their views and arguments with respect to the proposed short sale price test rules and the proposedcircuit breaker rules. <sup>124</sup> Overall, the interpretations and results of the analyses submitted were mixed and sometimes conflicted with each other. In addition, the methods used in the empirical analyses submitted ranged from simple plots of data points to carefully constructed econometrics. The Pilot Results, while dated, in our view should continue to inform our decision-making where relevant, and none of the empirical studies discussed below have given us reason to question the rigor or validity of the Pilot Results.
 
@@ -776,7 +606,7 @@ We recognize commenters’ concerns regarding the potential impact that receivin
 
 As discussed in the Proposal, trading centers will be required to conduct regular surveillance of their policies and procedures under Rule 201. Specifically, Rule 201(b)(2) provides that a trading center must regularly surveil to ascertain the effectiveness of the policies and procedures required under the Rule and must take prompt action to remedy deficiencies in such policies and procedures. <sup>412</sup> This provision will reinforce the requirement of Rule 201(b)(1) to maintain and enforce policies and procedures by explicitly assigning an affirmative responsibility to trading centers to surveil to ascertain the effectiveness of their policies and procedures. <sup>413</sup> Thus, under the Rule, trading centers may not merely establish policies and procedures that may be reasonable when created and assume that such policies and procedures will continue to satisfy the requirements of Rule 201(b). Rather, trading centers will be required to regularly assess the continuing effectiveness of their policies and procedures and take prompt action when needed to remedy deficiencies. In particular, trading centers will need to engage in regular and periodic surveillance to determine whether executions or displays of short sale orders on impermissible bids are occurring without an applicable exception and whether the trading center has failed to implement and maintain policies and procedures that would have reasonably prevented such impermissible executions or displays of short sale orders. We note that, althoughdiscussed in the Proposal, we did not receive comments that specifically addressed the requirement that trading centers must conduct regular surveillance of their policies and procedures under Rule 201.
 
-B.	“Short Exempt” Provisions of Rule <sup>201</sup>
+<h>B. “Short Exempt” Provisions of Rule</h> <sup>201</sup>
 
 In the Proposal, we proposed that a trading center’s policies and procedures must be reasonably designed to permit the execution or display of a short sale order of a covered security marked “short exempt” without regard to whether the order otherwise met the short sale price test restrictions. <sup>414</sup> In addition, we included provisions in the Proposal that set out circumstances under which a broker-dealer could mark a sale order as “short exempt.” <sup>415</sup>
 

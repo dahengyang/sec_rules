@@ -1,101 +1,3 @@
-https://www.sec.gov/rules/final/2010/ia-3043.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 First Amendment Considerations
-
-		II.A.1.0 Advisers Subject to the Rule
-
-		II.A.2.0 Pay to Play Restrictions
-
-			II.A.2.a Two-Year “Time Out” for Contributions
-
-		II.A.1.0 Prohibition on Compensation
-
-		II.A.2.0 Officials of a Government Entity
-
-		II.A.3.0 Contributions
-
-		II.A.4.0 Covered Associates
-
-		II.A.5.0 “Look Back”
-
-		II.A.6.0 Exceptions for De Minimis Contributions
-
-		II.A.7.0 Exception for Certain Returned Contributions
-
-			II.A.7.b Ban on Using Third Parties to Solicit Government Business
-
-		II.A.1.0 Registered Broker-Dealers
-
-		II.A.2.0 Registered Investment Advisers
-
-			II.A.2.c Restrictions on Soliciting and Coordinating Contributions and Payments
-
-			II.A.2.d Direct and Indirect Contributions or Solicitations
-
-			II.A.2.e Covered Investment Pools
-
-		II.A.1.0 million in the first quarter of 2009); Investment Company Institute, The U.S. Retirement Market, 2008, 18 RESEARCH FUNDAMENTALS, No. 5 (June 2009), available at (indicating that 403(b) plan and 457 plan assets have increased from $627 billion in 2000 to $712 billion in the fourth quarter of 2008); SEI, Collective Investment Trusts: The New Wave in Retirement Investing (May 2008), available at https://longjump.com/networking/RepositoryPublicDocDownload?id=80031025axe1395 09557&docname=SEI%20CIT%20White%20Paper%205.08.pdf&cid=80031025&encod e=application/pdf (citing Morningstar data indicating that collective investment trust assets nearly tripled from 2004 to 2007 and grew by more than 150 percent between 2005 and 2007 alone). See also Michael Marois, CalPERS, Blackstone Clash over Placement Agent ‘Jackpot’ Fees, BLOOMBERG (Apr. 7, 2010), available at(noting that placement agents working for private equity, hedge funds, venture capital and real estate firms typically earn the equivalent of 0.5 percent to 3 percent of the money they place under the management of their client, quoting California State Treasurer Bill Lockyer, a member of the CalPERS board, “[t]he contingency fees are too much of a jackpot for the placement agents . . . [they] invite corrupt practices”).
-
-		II.A.1.0 Definition of “Covered Investment Pool”
-
-		II.A.2.0 Application of the Rule
-
-		II.A.3.0 Subadvisory Arrangements
-
-			II.A.3.f Exemptions
-
-III.0.0.0 EFFECTIVE AND COMPLIANCE DATES
-
-	III.A.0.0 Two-Year Time Out and Prohibition on Soliciting or Coordinating Contributions
-
-	III.B.0.0 Prohibition on Using Third Parties to Solicit Government Business and Cash Solicitation Rule Amendment
-
-	III.C.0.0 Recordkeeping
-
-	III.D.0.0 Registered Investment Companies
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Benefits
-
-	IV.A.0.0 Costs
-
-		IV.A.1.0 Compliance Costs Related to Rule 206(4)-5
-
-		IV.A.2.0 Other Costs Related to Rule 206(4)-5
-
-			IV.A.2.a Two-Year Time Out
-
-	IV.D.0.0 Whitman (Sept. 21, 2009) (“Without access to placement agents, government pensions would be significantly disadvantaged relative to their private sector peers, with limited access (and benefit from) the services described above.”); ABA Letter. But see Fund Democracy/Consumer Federation Letter (“The proposed ban would simply replace the indirect cost of placement agents incurred by pension plan sponsors with the direct cost of hiring their own placement agents – without the conflict of interest and potential for abuse that relying on advisers’ placement agents creates.”).
-
-		IV.D.3.0 Costs Related to the Amendments to Rule 204-2
-
-V.0.0.0 PAPERWORK REDUCTION ACT
-
-	V.A.0.0 Rule 204-2
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Need for the Rule
-
-	VI.B.0.0 Significant Issues Raised by Public Comment
-
-	VI.C.0.0 Small Entities Subject to Rule
-
-	VI.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-VII.0.0.0 EFFECTS ON COMPETITION, EFFICIENCY AND CAPITAL FORMATION
-
-VIII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 275
 
 Release No. IA-3043; File No. S7-18-09 RIN 3235-AK39
@@ -194,7 +96,7 @@ Fourth, the rule only applies to investment advisers that are registered with us
 
 Finally, the rule is not a restriction on contributions that is applicable to the public and is not intended to eliminate corruption in the electoral process. Rather, it is focused exclusively on conduct by professionals subject to fiduciary duties, seeking profitable business from governmental entities. The rule is targeted at those employees of an adviser whose contributions raise the greatest danger of quid pro quo exchanges, <sup>77</sup> and it covers only contributions to those governmental officials who would be the most likely targets of pay to play arrangements because of their authority to influence the award of advisory business. <sup>78</sup>
 
-B.	Rule 206(4)-5
+<h>B.	Rule 206(4)-5</h>
 
 We are today adopting new rule 206(4)-5 under the Advisers Act that is designed to protect public pension plans and other government investors from the consequences of pay to play practices by deterring advisers’ participation in such practices. <sup>79</sup> As we notedgovernment clients, which is consistent with our authority under the Advisers Act. Seesection II.B.2(a)(1) of this Release.in the Proposing Release, advisers and government officials might, in order to circumvent our rule, attempt to structure their transactions in a manner intended to hide the true purpose of a contribution or payment. <sup>80</sup> Therefore, our pay to play restrictions are intended to capture not only direct political contributions by advisers, but also other ways that advisers may engage in pay to play arrangements. Rule 206(4)-5 prohibits several principal avenues for pay to play activities.
 
@@ -434,7 +336,7 @@ Nonetheless, as described in more detail below, we have made several changes fro
 
 See, e.g., Investment Company Institute, 529 Plan Program Statistics, Mar. 2009 (Feb. 5, 2010), available at http://www.ici.org/research/stats/529s/529s_03-09 (indicating that 529 plan assets have increased from $8.6 billion in 2000 to $100.3 billion in the first quarter of 2009, and that 529 plan accounts have increased from 1.3 million in 2000 to
 
-<h>1. million in the first quarter of 2009); Investment Company Institute, The U.S. Retirement Market, 2008, 18 RESEARCH FUNDAMENTALS, No. 5 (June 2009), available at (indicating that 403(b) plan and 457 plan assets have increased from $627 billion in 2000 to $712 billion in the fourth quarter of 2008); SEI, Collective Investment Trusts: The New Wave in Retirement Investing (May 2008), available at https://longjump.com/networking/RepositoryPublicDocDownload?id=80031025axe1395 09557&docname=SEI%20CIT%20White%20Paper%205.08.pdf&cid=80031025&encod e=application/pdf (citing Morningstar data indicating that collective investment trust assets nearly tripled from 2004 to 2007 and grew by more than 150 percent between 2005 and 2007 alone). See also Michael Marois, CalPERS, Blackstone Clash over Placement Agent ‘Jackpot’ Fees, BLOOMBERG (Apr. 7, 2010), available at(noting that placement agents working for private equity, hedge funds, venture capital and real estate firms typically earn the equivalent of 0.5 percent to 3 percent of the money they place under the management of their client, quoting California State Treasurer Bill Lockyer, a member of the CalPERS board, “[t]he contingency fees are too much of a jackpot for the placement agents . . . [they] invite corrupt practices”).compliance burdens that commenters brought to our attention. In addition, we have made certain clarifying changes to the rule, as described below.</h>
+1. million in the first quarter of 2009); Investment Company Institute, The U.S. Retirement Market, 2008, 18 RESEARCH FUNDAMENTALS, No. 5 (June 2009), available at (indicating that 403(b) plan and 457 plan assets have increased from $627 billion in 2000 to $712 billion in the fourth quarter of 2008); SEI, Collective Investment Trusts: The New Wave in Retirement Investing (May 2008), available at https://longjump.com/networking/RepositoryPublicDocDownload?id=80031025axe1395 09557&docname=SEI%20CIT%20White%20Paper%205.08.pdf&cid=80031025&encod e=application/pdf (citing Morningstar data indicating that collective investment trust assets nearly tripled from 2004 to 2007 and grew by more than 150 percent between 2005 and 2007 alone). See also Michael Marois, CalPERS, Blackstone Clash over Placement Agent ‘Jackpot’ Fees, BLOOMBERG (Apr. 7, 2010), available at(noting that placement agents working for private equity, hedge funds, venture capital and real estate firms typically earn the equivalent of 0.5 percent to 3 percent of the money they place under the management of their client, quoting California State Treasurer Bill Lockyer, a member of the CalPERS board, “[t]he contingency fees are too much of a jackpot for the placement agents . . . [they] invite corrupt practices”).compliance burdens that commenters brought to our attention. In addition, we have made certain clarifying changes to the rule, as described below.
 
 <h>1. Definition of “Covered Investment Pool”</h>
 
@@ -634,13 +536,15 @@ Most of the comments we received about the costs of this aspect of the proposed 
 
 However, with these potential costs in mind, we have taken additional steps to decreasethe likelihood of inadvertent violations of the rule. First, as discussed above, we shortened the look back with respect to most covered associates. We expect this new exception will provide an additional mechanism for advisers to avoid the cost of a time out as a result of an inadvertent violation and will largely address commenters’ concerns about the screening burdens for new or promoted employees that this aspect of the proposal would have imposed on advisers. <sup>518</sup> Second, as discussed above, we are increasing to $350 the amount eligible for an exception for certain returned contributions from what we had proposed, we are increasing the number of times an adviser is permitted to rely on the returned contributions exception, and we are also adopting an additional de minimis exception for certain contributions not exceeding $150. Last, we note that an adviser’s implementation of a strong compliance program will reduce the likelihood, and therefore costs, of inadvertent violations.
 
-One commenter asserted that the proposed rule would put advisers at a competitive disadvantage to other providers of advisory services to government plans that would not be subject to it, such as banks and insurance companies. <sup>519</sup> As we stated earlier, we believe that the concerns that we are trying to address with the rule justify its adoption, notwithstanding the potential competitive effects that advisers may face as acompliance system [will be] costly to develop and arduous to implement	[and] itwould also impose severe limitations on the career opportunities of those newly entering the investment advisory world who are weighed down by political contributions that were completely innocuous when made.”).result of the limits on our jurisdiction. We also do not view competition by means of engaging in practices such as pay to play as an interest that we need to protect.(b)	Third-Party Solicitor Ban
+One commenter asserted that the proposed rule would put advisers at a competitive disadvantage to other providers of advisory services to government plans that would not be subject to it, such as banks and insurance companies. <sup>519</sup> As we stated earlier, we believe that the concerns that we are trying to address with the rule justify its adoption, notwithstanding the potential competitive effects that advisers may face as acompliance system [will be] costly to develop and arduous to implement	[and] itwould also impose severe limitations on the career opportunities of those newly entering the investment advisory world who are weighed down by political contributions that were completely innocuous when made.”).result of the limits on our jurisdiction. We also do not view competition by means of engaging in practices such as pay to play as an interest that we need to protect.
+
+<h>(b)	Third-Party Solicitor Ban</h>
 
 Under our proposal, advisers would have been prohibited from compensating any third party to solicit government entities for advisory services, other than “related persons.” <sup>520</sup> As a result, advisers that rely on third-party solicitors to obtain government clients would have had to bear the expense of hiring and training in-house staff in order to continue their solicitation activities, <sup>521</sup> a result that commenters said would be particularly costly for small and new investment advisers. <sup>522</sup> In addition, third-party solicitors might also have experienced substantial negative consequences under theproposed rule. <sup>523</sup> We heard from many commenters on this issue, offering various perspectives on how the costs would outweigh the benefits of the proposed prohibition. <sup>524</sup> A few commenters asserted that this proposal would have a significant adverse effect on efficient capital formation in that it would make it more difficult for private equity and venture capital managers to obtain funding that they in turn can invest in portfolio companies. <sup>525</sup> As other commenters pointed out, this aspect of our proposed rule might also have placed a significant burden on public pension plans, <sup>526</sup> particularly smallerplans because third-party solicitors provide services that plans may value, including serving as placement agent for alternative investments and serving a screening function with respect to those investments presented to the pension plan. <sup>527</sup>
 
 Others argued, for similar reasons as those expressed above, that it would also harm public pension plans to ban payments to third parties because it would decrease<sup>527</sup>plans.	[For instance, the] incremental effort by investment staffs to perform duediligence on promising but possibly ill-prepared investment managers will raise the cost and lessen the overall pension fund portfolio performance.”); Comment Letter of Austin
 
-<h>D. Whitman (Sept. 21, 2009) (“Without access to placement agents, government pensions would be significantly disadvantaged relative to their private sector peers, with limited access (and benefit from) the services described above.”); ABA Letter. But see Fund Democracy/Consumer Federation Letter (“The proposed ban would simply replace the indirect cost of placement agents incurred by pension plan sponsors with the direct cost of hiring their own placement agents – without the conflict of interest and potential for abuse that relying on advisers’ placement agents creates.”).</h>
+D. Whitman (Sept. 21, 2009) (“Without access to placement agents, government pensions would be significantly disadvantaged relative to their private sector peers, with limited access (and benefit from) the services described above.”); ABA Letter. But see Fund Democracy/Consumer Federation Letter (“The proposed ban would simply replace the indirect cost of placement agents incurred by pension plan sponsors with the direct cost of hiring their own placement agents – without the conflict of interest and potential for abuse that relying on advisers’ placement agents creates.”).
 
 See, e.g. , Ogburn Letter; Schmitz Letter (highlighting the valuable “pre-vetting” function of placement agents, especially in light of pension funds’ budgetary pressures and lean staffs); Savanna Letter (discussing the “pre-screening” effect that reputable placement agent client selection provides for pension professionals); Atlantic-Pacific Letter; Indian Harbor Letter; Peterson Letter; Rubenstein Letter; Comment Letter of Réal Desrochers (Aug. 20, 2009) (noting that from the perspective of a former pension fund investment officer, “[t]he skill sets of certain placement agents streamlined what they brought to our attention and made our internal process much more efficient.”); Devon Letter; Thomas Letter; Myers Letter; PRIM Board Letter (“[T]he Commission should strongly resist the politically expedient suggestion that an outright ban on the use of placement agents is somehow good for plan sponsors; nothing could be further than the truth.”); Meridian Letter; Comment Letter of Norman G. Benedict (Sept. 30, 2009) (indicating that, from the perspective of a retired public pension chief investment officer, placement agents provide an essential and invaluable service, particularly with providing access to private equity fund investments, which often yielded higher returns than more traditional, publicly traded securities); Berkshire Letter; Comment Letter of The British Private Equity and Venture Capital Association (Sept. 18, 2009) (“BVCA Letter”) (“Placement agents are not just a crude middleman in the fundraising process”); CT Treasurer Letter; Credit Suisse Letter (describing four key functions its placement agent group performs); Portfolio Advisors Letter (noting that among the valuable services provided are: “(1) helping new fund sponsors to become more established among the institutional investor community; (ii) helping sponsors to complete RFPs, provide information and respond to questions, which, in turn, gives the public pension plans and other investors a broader pool of investment options; and (iii) serving as intermediaries in uniting capital with fund sponsors who can put the money to work by investing in businesses and creating value”); George Letter; Comment Letter of Rahul Mehta (Sept. 11, 2009); Touchstone Letter; SIFMA Letter.competition by reducing the number of advisers competing for government business <sup>528</sup> and limit the universe of investment opportunities presented to public pension funds. <sup>529</sup> We believe our decision to modify the proposed rule to permit advisers to make payments to certain “regulated persons” to solicit government clients on their behalf, <sup>530</sup>as described in more detail above, should alleviate many of these concerns, including those from private equity and venture capital managers on capital formation. <sup>531</sup> In particular, we believe the concerns expressed by private equity and venture capital managers regarding the effects of the rule on capital formation have been substantially addressed by the modification for payments to “regulated persons.” We expect advisers that engage the services of regulated person solicitors will incur limited costs to initially confirm and subsequently monitor the solicitor’s eligibility to be a “regulated person.” Nevertheless, we expect this exception to the third-party solicitor ban will substantially reduce the costs commenters associated with this aspect of the proposal.
 
@@ -665,6 +569,9 @@ We anticipate that commenters’ general concerns that we may have underestimate
 <h>V. PAPERWORK REDUCTION ACT</h>
 
 <h>A. Rule 204-2</h>
+<h>B. Rule 206(4)-3</h>
+<h>C. Rule 206(4)-7</h>
+<h>D. Rule 0-4</h>
 
 The amendment to rule 204-2 contains a “collection of information” requirement within the meaning of the PRA. In the Proposing Release, the Commission solicited comment on the proposed amendment to the collection of information requirement. <sup>548</sup> The Commission also submitted the proposed amendment’s collection of information requirement to the Office of Management and Budget (“OMB”) for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11 under control number 3235-0278. The title for the collection of information is “Rule 204-2 under the Investment Advisers Act of 1940.” Rule 204-2 contains a currently approved collection of information number under OMB control number 3235-0278. An agency may not sponsor, or conduct, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.
 
@@ -776,7 +683,7 @@ See supra notes 559-564 and accompanying text (providing the revised estimated h
 
 As noted above, we believe that a limited number of small advisers <sup>608</sup> will have to comply with rule 206(4)-5 and the amendments to rules 204-2 and 206(4)-3. To the extent small advisers tend to have fewer clients and fewer employees that would be covered associates for purposes of the rule, the rule should impose lower costs on small advisers as compared to large advisers because variable costs, such as the requirement to make and keep records relating to contributions, should be lower due to the likelihood that there would be fewer records to make and keep. <sup>609</sup> Moreover, as discussed above, the rule and amendments were modified from what we had proposed in several ways that we expect will substantially minimize compliance burdens on small advisers.
 
-E.	Agency Action to Minimize Effect on Small Entities
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
 
 The Regulatory Flexibility Act directs the Commission to consider significant alternatives that would accomplish the stated objective, while minimizing any significant impact on small entities. <sup>610</sup> In considering whether to adopt rule 206(4)-5 and the amendments to rules 204-2 and 206(4)-3, the Commission considered the following alternatives: (i) the establishment of differing compliance or reporting requirements or timetables that take into account the resources available to small entities; (ii) the clarification, consolidation, or simplification of compliance and reporting requirements under the rule and rule amendments for such small entities; (iii) the use of performancerather than design standards; and (iv) an exemption from coverage of the rule and rule amendments, or any part thereof, for such small entities.
 

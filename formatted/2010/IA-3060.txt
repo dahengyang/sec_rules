@@ -1,95 +1,3 @@
-https://www.sec.gov/rules/final/2010/ia-3060.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 DISCUSSION OF FORM ADV, PART 2
-
-	II.A.0.0 Part 2A: Brochure Format and Content
-
-		II.A.1.0 Format
-
-		II.A.2.0 Brochure Items
-
-	II.B.0.0 Ross, Investment Advisers Act Release No. 1668 (Sept. 22, 1997) (settled order).
-
-		II.B.1.0 One commenter supported the flexibility of allowing advisers to rebut the presumption of materiality.87 Other commenters suggested, however, that an adviser should not be permitted to rebut this presumption, stating that this would give advisers little incentive to disclose disciplinary information that may be considered material.88 We note that an adviser, as a fiduciary, has an obligation to disclose material information to clients.89 We believe that the legal consequences that flow from its failure to meet this obligation provide an incentive for an adviser to disclose material disciplinary information. Moreover, advisers that seek to exclude information from their brochures because they believe that they can rebut the presumption of
-
-	II.A.0.0 White, Investment Advisers Act Release No. 2577 (Dec. 29, 2006) (settled order); In the Matter of Harry Michael Schwartz, Investment Advisers Act Release No. 1833 (Sept. 27, 1999) (settled order); In the Matter of Renaissance Capital Advisors, Inc., and Richard N. Fine, Investment Advisers Act Release No. 1688 (Dec. 22, 1997) (settled order). In addition, under section 9(a) of the Company Act [15 USC 80a-9(a)] an investment adviser to a registered investment company may be prohibited from serving in certain capacities with the fund as a result of a disciplinary event.
-
-		II.A.1.0 Delivery and Updating of Brochures
-
-			II.A.1.a Delivery to Clients
-
-			II.A.1.b Updating Part 2A of Form ADV
-
-	II.B.0.0 Part 2B: The Brochure Supplement
-
-		II.B.1.0 Format
-
-		II.B.2.0 Supplement Items
-
-		II.B.3.0 Delivery and Updating
-
-			II.B.3.a Delivery
-
-			II.B.3.b Updating
-
-	II.C.0.0 Filing Requirements, Public Availability
-
-	II.D.0.0 Transition to New Requirements
-
-III.0.0.0 AMENDMENTS TO FORM ADV INSTRUCTIONS AND GLOSSARY
-
-IV.0.0.0 AMENDMENTS TO RULE 204-2
-
-V.0.0.0 EFFECTIVE AND COMPLIANCE DATES
-
-	V.A.0.0 New Investment Advisers
-
-	V.B.0.0 Registered Advisers
-
-VI.0.0.0 PAPERWORK REDUCTION ACT
-
-	VI.A.0.0 Summary of Comment Letters
-
-	VI.B.0.0 Revisions to Paperwork Reduction Act Burden Estimates
-
-		VI.B.1.0 Amendments to Form ADV
-
-			VI.B.1.a Part 2 of Form ADV
-
-VII.0.0.0 COST-BENEFIT ANALYSIS
-
-	VII.A.0.0 Background
-
-	VII.B.0.0 Form ADV Part 2 and IARD Filing
-
-VIII.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VIII.A.0.0 Need for the Rule and Form Amendments
-
-	VIII.B.0.0 Significant Issues Raised by Public Comment
-
-	VIII.C.0.0 Small Entities Subject to the Rules
-
-	VIII.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-		VIII.D.1.0 Amendments to Part 2 of Form ADV
-
-		VIII.D.2.0 Updating and Delivery Requirements
-
-		VIII.D.3.0 Recordkeeping Requirements
-
-	VIII.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-IX.0.0.0 EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
-
-X.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 275 and 279
@@ -244,7 +152,7 @@ Item 8. Methods of Analysis, Investment Strategies and Risk of Loss . Item 8 req
 
 Several commenters supported this proposed disclosure requirement as central to the adviser’s fiduciary relationship with its client. <sup>72</sup> One objected, stating that the item creates a different disclosure obligation for multi-strategy firms because, as proposed, it only required advisers primarily using a particular strategy to discuss the risks involved in their strategy. <sup>73</sup> We agree that advisers should disclose material risks associated with their strategies that will be
 
-<h>B. Ross, Investment Advisers Act Release No. 1668 (Sept. 22, 1997) (settled order).relevant to most clients, regardless of whether they use one strategy or many strategies. We have, therefore, modified the item to require that advisers explain the material risks involved for each significant investment strategy or method of analysis they use, rather than those they primarily use, as we believe this threshold for disclosure better captures those methods of analysis or strategies that will be relevant to most clients. <sup>74</sup> However, as we noted in the proposal, the brochure may not always be the best place for a multi-strategy adviser to disclose risks associated with all of its methods of analysis or strategies. <sup>75</sup> Disclosure of that information likely would lengthen the brochure unnecessarily given that different clients will be pursuing different strategies, each of which poses specific and different risks.</h>
+B. Ross, Investment Advisers Act Release No. 1668 (Sept. 22, 1997) (settled order).relevant to most clients, regardless of whether they use one strategy or many strategies. We have, therefore, modified the item to require that advisers explain the material risks involved for each significant investment strategy or method of analysis they use, rather than those they primarily use, as we believe this threshold for disclosure better captures those methods of analysis or strategies that will be relevant to most clients. <sup>74</sup> However, as we noted in the proposal, the brochure may not always be the best place for a multi-strategy adviser to disclose risks associated with all of its methods of analysis or strategies. <sup>75</sup> Disclosure of that information likely would lengthen the brochure unnecessarily given that different clients will be pursuing different strategies, each of which poses specific and different risks.
 
 Some commenters urged us to define the term “frequent trading of securities,” which is used in Item 8.B, but did not suggest a definition in response to our request. <sup>76</sup> As commenters implicitly acknowledged, the phrase “frequent trading” is hard to define. We would expect advisers to respond to this item only if their intended investment strategies involve frequent trading of securities that a reasonable client would otherwise not expect in light of the other disclosures contained in the brochure.
 
@@ -262,7 +170,7 @@ As required by rule 206(4)-4, Item 9 requires that disciplinary events more than
 
 Two other commenters addressed the rebuttable presumption of materiality under Item
 
-<h>1. One commenter supported the flexibility of allowing advisers to rebut the presumption of materiality.87 Other commenters suggested, however, that an adviser should not be permitted to rebut this presumption, stating that this would give advisers little incentive to disclose disciplinary information that may be considered material.88 We note that an adviser, as a fiduciary, has an obligation to disclose material information to clients.89 We believe that the legal consequences that flow from its failure to meet this obligation provide an incentive for an adviser to disclose material disciplinary information. Moreover, advisers that seek to exclude information from their brochures because they believe that they can rebut the presumption of</h>
+1. One commenter supported the flexibility of allowing advisers to rebut the presumption of materiality.87 Other commenters suggested, however, that an adviser should not be permitted to rebut this presumption, stating that this would give advisers little incentive to disclose disciplinary information that may be considered material.88 We note that an adviser, as a fiduciary, has an obligation to disclose material information to clients.89 We believe that the legal consequences that flow from its failure to meet this obligation provide an incentive for an adviser to disclose material disciplinary information. Moreover, advisers that seek to exclude information from their brochures because they believe that they can rebut the presumption of
 
 Must Disclose to Clients , Investment Advisers Act Release No. 1035 (Sept. 19, 1986) [51 FR 34229 (Sept. 26, 1986)](“ Rule 206(4)-4 Proposing Release”), at nn.12-13 and accompanying text. One commenter noted the use of the term “currently material” in Item 9 and asked if this phrase differed in meaning from “material.” See ABA Committees Letter. We did not intend this phrase to have a different meaning than “material” and, therefore, we have deleted the word “currently” in the Item 9 as adopted.materiality must memorialize the basis for that determination, which is subject to review by our staff. <sup>90</sup>
 
@@ -278,7 +186,7 @@ Accordingly, we believe that requiring clients to sift through an advisory firm�
 
 Because Part 2A, as amended, incorporates disciplinary disclosures formerly required by rule 206(4)-4 directly in the advisory brochure requirements, we are rescinding rule 206(4)-4. <sup>103</sup> The rescission of rule 206(4)-4 will be effective, with respect to any particular investment adviser, on the date by which that adviser must deliver its narrative brochure to existing clients and begin delivering its brochure to prospective clients under the rule and form amendments we are adopting today. <sup>104</sup> Some advisers, however, may have clients to whom they are not required to deliver a brochure, such as certain clients receiving only impersonal investment advice or those that are registered investment companies and business development companies. <sup>105</sup> For these advisers, their fiduciary duty of full and fair disclosure requires them to continue to disclose to all their clients material disciplinary and legal events and their inability to meet contractual commitments to their clients. <sup>106</sup>18.B of Part 2A requires certain advisers to disclose any financial condition that is reasonably likely to impair their ability to meet contractual commitments to clients. See infra note 177 and accompanying text.
 
-<h>A. White, Investment Advisers Act Release No. 2577 (Dec. 29, 2006) (settled order); In the Matter of Harry Michael Schwartz, Investment Advisers Act Release No. 1833 (Sept. 27, 1999) (settled order); In the Matter of Renaissance Capital Advisors, Inc., and Richard N. Fine, Investment Advisers Act Release No. 1688 (Dec. 22, 1997) (settled order). In addition, under section 9(a) of the Company Act [15 USC 80a-9(a)] an investment adviser to a registered investment company may be prohibited from serving in certain capacities with the fund as a result of a disciplinary event.</h>
+A. White, Investment Advisers Act Release No. 2577 (Dec. 29, 2006) (settled order); In the Matter of Harry Michael Schwartz, Investment Advisers Act Release No. 1833 (Sept. 27, 1999) (settled order); In the Matter of Renaissance Capital Advisors, Inc., and Richard N. Fine, Investment Advisers Act Release No. 1688 (Dec. 22, 1997) (settled order). In addition, under section 9(a) of the Company Act [15 USC 80a-9(a)] an investment adviser to a registered investment company may be prohibited from serving in certain capacities with the fund as a result of a disciplinary event.
 
 Item 10. Other Financial Industry Activities and Affiliations . Item 10 requires each adviser to describe in its brochure material relationships or arrangements the adviser (or any of its management persons) has with related financial industry participants, any material conflicts of interest that these relationships or arrangements create, and how the adviser addresses the conflicts. <sup>107</sup> In addition, if an adviser selects or recommends other advisers for clients, Item 10 requires that it disclose any compensation arrangements or other business relationships between the advisory firms, along with the conflicts created, and explain how it addresses these conflicts. <sup>108</sup> The disclosure that Item 10 requires highlights for clients their adviser’s other financial industry activities and affiliations that can create conflicts of interest and may impair the objectivity of the adviser’s investment advice.
 

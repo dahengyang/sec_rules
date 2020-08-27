@@ -1,175 +1,3 @@
-https://www.sec.gov/rules/final/2011/33-9286.pdf
-
-I.0.0.0 BACKGROUND AND SUMMARY
-
-II.0.0.0 DISCUSSION OF THE AMENDMENTS
-
-	II.A.0.0 Required Disclosure in Periodic Reports
-
-		II.A.1.0 Scope
-
-			II.A.1.a Proposed Amendments
-
-		II.A.1.0 "coal or other mine" means (A) an area of land from which minerals are extracted in nonliquid form or, if in liquid form, are extracted with workers underground, (B) private ways and roads appurtenant to such area, and (C) lands, excavations, underground passageways, shafts, slopes, tunnels and workings, structures, facilities, equipment, machines, tools, or other property including impoundments, retention dams, and tailings ponds, on the surface or underground, used in, or to be used in, or resulting from, the work of extracting such minerals from their natural deposits in nonliquid form, or if in liquid form, with workers underground, or used in, or to be used in, the milling of such minerals, or the work of preparing coal or other minerals, and includes custom coal preparation facilities. In making a determination of what constitutes mineral milling for purposes of this Act, the Secretary shall give due consideration to the convenience of administration resulting from the delegation to one Assistant Secretary of all authority with respect to the health and safety of miners employed at one physical establishment;
-
-		II.A.2.0 For purposes of titles II, III, and IV, "coal mine" means an area of land and all structures, facilities, machinery tools, equipment, shafts, slopes, tunnels, excavations, and other property, real or personal, placed upon, under, or above the surface of such land by any person, used in, or to be used in, or resulting from, the work of extracting in such area bituminous coal, lignite, or anthracite from its natural deposits in the earth by any means or method, and the work of preparing the coal so extracted, and includes custom coal preparation facilities;
-
-			II.A.2.b Comments on the Proposed Amendments
-
-			II.A.2.c Final Rule
-
-		II.A.2.0 Location of Disclosure
-
-			II.A.2.a Proposed Amendments
-
-			II.A.2.b Comments on the Proposed Amendments
-
-			II.A.2.c Final Rule
-
-		II.A.3.0 Time Periods Covered
-
-			II.A.3.a Proposed Amendments
-
-			II.A.3.b Comments on the Proposed Amendments
-
-			II.A.3.c Final Rule
-
-		II.A.4.0 Required Disclosure Items
-
-			II.A.4.a The total number of violations of mandatory health or safety standards that could
-
-		II.A.1.0 Proposed Amendments
-
-		II.A.2.0 Comments on the Proposed Amendments
-
-		II.A.3.0 Final Rule
-
-			II.A.3.b The total dollar value of proposed assessments from MSHA under the Mine Act.
-
-		II.A.1.0 Proposed Amendments
-
-		II.A.2.0 Comments on the Proposed Amendments
-
-		II.A.3.0 Final Rule
-
-			II.A.3.c The total number of mining-related fatalities.
-
-		II.A.1.0 Proposed Amendments
-
-		II.A.2.0 Comments on the Proposed Amendments
-
-		II.A.3.0 Final Rule
-
-			II.A.3.d Any pending legal action before the Federal Mine Safety and Health Review
-
-		II.A.1.0 Proposed Amendments
-
-		II.A.2.0 Comments on the Proposed Amendments
-
-		II.A.3.0 Final Rule
-
-			II.A.3.e A brief description of each category of violations, orders and citations reported.
-
-		II.A.1.0 Proposed Amendments
-
-		II.A.2.0 Comments on the Proposed Amendments
-
-		II.A.3.0 Final Rule
-
-			II.A.3.f Other disclosure items specified in Section 1503(a).
-
-		II.A.1.0 Proposed Amendments
-
-		II.A.1.0 Comments on the Proposed Amendments
-
-		II.A.2.0 Final Rule
-
-		II.A.2.0 Disclosure Requirements and Deadline
-
-			II.A.2.a Proposed Amendments
-
-			II.A.2.b Comments on the Proposed Amendments
-
-			II.A.2.c Final Rule
-
-	II.K.0.0 However, as discussed above with respect to reporting of dismissed, reduced or contested matters,we believe the language of Section 1503(b) of the Act dictates that the “receipt” of the specified orders or notices must be disclosed. We note that issuers may include additional disclosure explaining the status of these orders and notices if they choose to do so.
-
-		II.K.3.0 Treatment of Foreign Private Issuers
-
-			II.K.3.a Proposed Amendments
-
-			II.K.3.b Comments on the Proposed Amendments
-
-			II.K.3.c Final Rule
-
-	II.A.0.0 Amendment to General Instruction I.A.3.(b) of Form S-3
-
-			II.A.3.a Proposed Amendments
-
-			II.A.3.b Comments on the Proposed Amendments
-
-			II.A.3.c Final Rule
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-	III.A.0.0 Background
-
-	III.B.0.0 Summary of the Final Rules
-
-	III.C.0.0 Summary of Comment Letters and Revisions to Proposals
-
-	III.D.0.0 Revisions to PRA Reporting and Cost Burden Estimates
-
-		III.D.1.0 Regulation S-K
-
-		III.D.2.0 Form 10-K
-
-		III.D.3.0 Form 20-F
-
-		III.D.4.0 Form 40-F
-
-		III.D.5.0 Form 10-Q
-
-		III.D.6.0 Form 8-K
-
-	III.E.0.0 Summary of Changes to Annual Compliance Burden in Collection of Information
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Introduction
-
-	IV.B.0.0 Benefits
-
-	IV.C.0.0 Costs
-
-V.0.0.0 CONSIDERATION OF IMPACT ON THE ECONOMY, BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	VI.A.0.0 Reasons for, and Objectives of, the Proposed Action
-
-	VI.B.0.0 Significant Issues Raised by Public Comments
-
-	VI.C.0.0 Small Entities Subject to the Final Amendments
-
-	VI.D.0.0 Reporting, Recordkeeping, and other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-		VI.E.1.0 Establishing differing compliance or reporting requirements or timetables which take into account the resources available to smaller entities;
-
-		VI.E.2.0 Exempting smaller entities from coverage of the disclosure requirements, or any part thereof;
-
-		VI.E.3.0 The clarification, consolidation, or simplification of disclosure for small entities; and
-
-		VI.E.4.0 Use of performance standards rather than design standards.
-
-VII.0.0.0 STATUTORY AUTHORITY AND TEXT OF THE AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 229, 239 and 249
 
 [RELEASE NOS. 33-9286; 34-66019; File No. S7-41-10] RIN 3235-AK83
@@ -226,9 +54,9 @@ We proposed to include references to these definitions in new items of Regulatio
 
 The Proposing Release also explained that, because the Act’s definition of “coal or other mine” is limited to those mines that are subject to the provisions of the Mine Act, and the Mine Act applies only to mines located in the United States, <sup>32</sup> the proposed mine safety disclosure
 
-<h>1. "coal or other mine" means (A) an area of land from which minerals are extracted in nonliquid form or, if in liquid form, are extracted with workers underground, (B) private ways and roads appurtenant to such area, and (C) lands, excavations, underground passageways, shafts, slopes, tunnels and workings, structures, facilities, equipment, machines, tools, or other property including impoundments, retention dams, and tailings ponds, on the surface or underground, used in, or to be used in, or resulting from, the work of extracting such minerals from their natural deposits in nonliquid form, or if in liquid form, with workers underground, or used in, or to be used in, the milling of such minerals, or the work of preparing coal or other minerals, and includes custom coal preparation facilities. In making a determination of what constitutes mineral milling for purposes of this Act, the Secretary shall give due consideration to the convenience of administration resulting from the delegation to one Assistant Secretary of all authority with respect to the health and safety of miners employed at one physical establishment;</h>
+1. "coal or other mine" means (A) an area of land from which minerals are extracted in nonliquid form or, if in liquid form, are extracted with workers underground, (B) private ways and roads appurtenant to such area, and (C) lands, excavations, underground passageways, shafts, slopes, tunnels and workings, structures, facilities, equipment, machines, tools, or other property including impoundments, retention dams, and tailings ponds, on the surface or underground, used in, or to be used in, or resulting from, the work of extracting such minerals from their natural deposits in nonliquid form, or if in liquid form, with workers underground, or used in, or to be used in, the milling of such minerals, or the work of preparing coal or other minerals, and includes custom coal preparation facilities. In making a determination of what constitutes mineral milling for purposes of this Act, the Secretary shall give due consideration to the convenience of administration resulting from the delegation to one Assistant Secretary of all authority with respect to the health and safety of miners employed at one physical establishment;
 
-<h>2. For purposes of titles II, III, and IV, "coal mine" means an area of land and all structures, facilities, machinery tools, equipment, shafts, slopes, tunnels, excavations, and other property, real or personal, placed upon, under, or above the surface of such land by any person, used in, or to be used in, or resulting from, the work of extracting in such area bituminous coal, lignite, or anthracite from its natural deposits in the earth by any means or method, and the work of preparing the coal so extracted, and includes custom coal preparation facilities;would be required only for coal or other mines (as defined in the Mine Act) located in the United States. Under the proposed rules, this disclosure would be made for each distinct mine covered by the Mine Act, and issuers would not be permitted to group mines by project or geographic region.</h>
+2. For purposes of titles II, III, and IV, "coal mine" means an area of land and all structures, facilities, machinery tools, equipment, shafts, slopes, tunnels, excavations, and other property, real or personal, placed upon, under, or above the surface of such land by any person, used in, or to be used in, or resulting from, the work of extracting in such area bituminous coal, lignite, or anthracite from its natural deposits in the earth by any means or method, and the work of preparing the coal so extracted, and includes custom coal preparation facilities;would be required only for coal or other mines (as defined in the Mine Act) located in the United States. Under the proposed rules, this disclosure would be made for each distinct mine covered by the Mine Act, and issuers would not be permitted to group mines by project or geographic region.
 
 The proposed rules would include smaller reporting companies and foreign private issuers <sup>33</sup> within the scope of the rules implementing Section 1503(a) of the Act.
 
@@ -370,7 +198,7 @@ As discussed in more detail below, we also proposed instructions to certain of t
 
 Those disclosure items on which we received little or no comment are discussed at the end of this section.
 
-<h>a. The total number of violations of mandatory health or safety standards that couldsignificantly and substantially contribute to the cause and effect of a coal or othermine safety or health hazard under Section 104 of the Mine Act for which theoperator received a citation from MSHA.</h>
+a. The total number of violations of mandatory health or safety standards that couldsignificantly and substantially contribute to the cause and effect of a coal or othermine safety or health hazard under Section 104 of the Mine Act for which theoperator received a citation from MSHA.
 
 <h>1. Proposed Amendments</h>
 
@@ -540,7 +368,7 @@ We did not receive any comments on the proposedrequirements to disclose a list o
 
 Consistent with the proposal, we are adopting final rules requiring each issuer that is required under Section 1503(a) to provide mine safety disclosure to provide, for each coal or other mine for the time period covered by the report:the total number of orders issued under Section 104(b) of the Mine Act;the total number of citations and orders for unwarrantable failure of the mine operator to comply with mandatory health and safety standards under Section 104(d) of the Mine Act;the total number of flagrant violations under Section 110(b)(2) of the Mine Act;the total number of imminent danger orders issued under Section 107(a) of the Mine Act;a list of mines for which the issuer or a subsidiary received written notice from MSHA of a pattern of violations of mandatory health or safety standards that are of such nature as could have significantly and substantially contributed to the cause and effect of coal or other mine health or safety hazards under Section 104(e) of the Mine Act; anda list of mines for which the issuer or a subsidiary received written notice from MSHA of a potential to have such a pattern of violations of mandatory health or safety standards.
 
-B. Form 8-K Filing Requirement
+<h>B. Form 8-K Filing Requirement</h>
 
 Section 1503(b) of the Act requires each issuer that is an operator, or has a subsidiary that is an operator, of a coal or other mine to report on Form 8-K the receipt of certain notices from
 
@@ -578,7 +406,7 @@ As discussed above, these orders and notices are also required to be disclosed u
 
 We understand there is a possibility that an order or notice could be issued and subsequently vacated by MSHA within the four business day time period for filing the Form 8-
 
-<h>K. However, as discussed above with respect to reporting of dismissed, reduced or contested matters,we believe the language of Section 1503(b) of the Act dictates that the “receipt” of the specified orders or notices must be disclosed. We note that issuers may include additional disclosure explaining the status of these orders and notices if they choose to do so.</h>
+K. However, as discussed above with respect to reporting of dismissed, reduced or contested matters,we believe the language of Section 1503(b) of the Act dictates that the “receipt” of the specified orders or notices must be disclosed. We note that issuers may include additional disclosure explaining the status of these orders and notices if they choose to do so.
 
 <h>3. Treatment of Foreign Private Issuers</h>
 

@@ -1,179 +1,3 @@
-https://www.sec.gov/rules/final/2012/34-67717.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 FINAL RULES IMPLEMENTING SECTION 13(q)
-
-	II.A.0.0 Summary of the Final Rules
-
-	II.B.0.0 Definition of “Resource Extraction Issuer” and Application of the Disclosure Requirements
-
-		II.B.1.0 Proposed Rules
-
-		II.B.2.0 Comments on the Proposed Rules
-
-		II.B.3.0 Final Rules
-
-	II.C.0.0 Definition of “Commercial Development of Oil, Natural Gas, or Minerals”
-
-		II.C.1.0 Proposed Rules
-
-		II.C.2.0 Comments on the Proposed Rules
-
-	II.A.0.0 The search for crude oil, including condensate and natural gas liquids, or natural gas (“oil and gas”) in their natural states and original locations;
-
-	II.B.0.0 The acquisition of property rights or properties for the purpose of further exploration or for the purpose of removing the oil or gas from such properties;
-
-	II.C.0.0 The construction, drilling, and production activities necessary to retrieve oil and gas from their natural reservoirs, including the acquisition, construction, installation, and maintenance of field gathering and storage systems, such as:
-
-		II.C.1.0 Lifting the oil and gas to the surface; and
-
-		II.C.2.0 Gathering, treating, and field processing (as in the case of processing gas to extract liquid hydrocarbons); and
-
-	II.D.0.0 Extraction of saleable hydrocarbons, in the solid, liquid, or gaseous state, from oil sands, shale, coalbeds, or other nonrenewable natural resources which are intended to be upgraded into synthetic oil or gas, and activities undertaken with a view to such extraction.
-
-	II.A.0.0 Transporting, refining, or marketing oil and gas;
-
-	II.B.0.0 Processing of produced oil, gas or natural resources that can be upgraded into synthetic oil or gas by a registrant that does not have the legal right to produce or a revenue interest in such production;
-
-	II.C.0.0 Activities relating to the production of natural resources other than oil, gas, or natural resources from which synthetic oil and gas can be extracted; or
-
-	II.D.0.0 Production of geothermal steam. (Instructions omitted.)
-
-		II.D.3.0 Final Rules
-
-	II.D.0.0 Definition of “Payment”
-
-		II.D.1.0 Types of Payments
-
-			II.D.1.a Proposed Rules
-
-			II.D.1.b Comments on the Proposed Rules
-
-			II.D.1.c Final Rules
-
-		II.D.2.0 The “Not De Minimis” Requirement
-
-			II.D.2.a Proposed Rules
-
-			II.D.2.b Comments on the Proposed Rules
-
-			II.D.2.c Final Rules
-
-		II.D.3.0 The Requirement to Provide Disclosure for “Each Project”
-
-			II.D.3.a Proposed Rules
-
-			II.D.3.b Comments on the Proposed Rules
-
-			II.D.3.c Final Rules
-
-		II.D.4.0 Payments by “a Subsidiary...or an Entity Under the Control of…”
-
-			II.D.4.a Proposed Rules
-
-			II.D.4.b Comments on the Proposed Rules
-
-			II.D.4.c Final Rules
-
-	II.E.0.0 Definition of “foreign government”
-
-		II.E.1.0 Proposed Rules
-
-		II.E.2.0 Comments on the Proposed Rules
-
-		II.E.3.0 Final Rules
-
-	II.F.0.0 Disclosure Required and Form of Disclosure
-
-		II.F.1.0 Annual Report Requirement
-
-			II.F.1.a Proposed Rules
-
-			II.F.1.b Comments on Proposed Rules
-
-			II.F.1.b do not extend to exhibits or disclosures required pursuant to Section 13(q).
-
-			II.F.1.c Final Rules
-
-		II.F.2.0 Exhibits and Interactive Data Format Requirements
-
-			II.F.2.a Proposed Rules
-
-			II.F.2.b Comments on the Proposed Rules
-
-			II.F.2.c Final Rules
-
-		II.F.3.0 Treatment for Purposes of Securities Act and Exchange Act
-
-			II.F.3.a Proposed Rules
-
-			II.F.3.b Comments on the Proposed Rules
-
-			II.F.3.c Final Rules
-
-	II.G.0.0 Effective Date
-
-		II.G.1.0 Proposed Rules
-
-		II.G.2.0 Comments on the Proposed Rules
-
-		II.G.3.0 Final Rules
-
-III.0.0.0 ECONOMIC ANALYSIS
-
-	III.A.0.0 Introduction
-
-	III.B.0.0 Benefits and Costs Resulting from the Mandatory Reporting Requirement
-
-		III.B.1.0 Benefits
-
-		III.B.2.0 Costs
-
-	III.C.0.0 Benefits and Costs Resulting from Commission’s Exercise of Discretion
-
-		III.C.1.0 Definition of “Commercial Development of Oil, Natural Gas, or Minerals”
-
-		III.C.2.0 Types of Payments
-
-		III.C.3.0 Definition of “Not De Minimis”
-
-		III.C.4.0 Definition of “Project”
-
-		III.C.5.0 Annual Report Requirement
-
-		III.C.6.0 Exhibit and Interactive Data Requirement
-
-	III.D.0.0 Quantified Assessment of Overall Economic Effects
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-	IV.A.0.0 Background
-
-	IV.B.0.0 Summary of the Comment Letters
-
-	IV.C.0.0 Revisions to PRA Reporting and Cost Burden Estimates
-
-	IV.D.0.0 Revised PRA Estimate
-
-V.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	V.A.0.0 Reasons for, and Objectives of, the Final Rules
-
-	V.B.0.0 Significant Issues Raised by Public Comments
-
-	V.C.0.0 Small Entities Subject to the Final Rules
-
-	V.D.0.0 Reporting, Recordkeeping, and other Compliance Requirements
-
-	V.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VI.0.0.0 STATUTORY AUTHORITY AND TEXT OF FINAL RULE AND FORM AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 Corrected to Conform to Federal Register Version SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 240 and 249
@@ -324,27 +148,27 @@ Consistent with Section 13(q), the proposed rules defined “commercial developm
 
 Commentators supported various aspects of the proposed definition <sup>103</sup> while suggesting clarifications or alternative approaches to the definition of commercial development. For example, numerous commentators suggested defining commercial development to include upstream activities (exploration and extraction of resources) only . <sup>104</sup> Commentators noted that Section 13(q) is entitled “Disclosure of Payments by Resource Extraction Issuers,” and as such, the statute “is directed toward those issuers who are engaged in extractive activities, or what are commonly referred to as ‘upstream activities.’ ” <sup>105</sup> Commentators also noted that the EITI focuses on upstream activities <sup>106</sup> and that the statute directs the Commission “to consider consistency with EITI guidelines in the rules it develops.” <sup>107</sup> Several commentators noted they believed defining commercialdevelopment to include only upstream activities would be consistent with the Commission’s existing definition of “oil and gas producing activities” in Regulation S-X Rule 4- <sup>10</sup> . <sup>108</sup> In addition, commentators noted that adopting a definition of commercial development that is based on the definition of “oil and gas producing activities” in Regulation S-X would align it with a widely understood and accepted industry definition. <sup>109</sup> According to commentators
 
-<h>A. The search for crude oil, including condensate and natural gas liquids, or natural gas (“oil and gas”) in their natural states and original locations;</h>
+A. The search for crude oil, including condensate and natural gas liquids, or natural gas (“oil and gas”) in their natural states and original locations;
 
-<h>B. The acquisition of property rights or properties for the purpose of further exploration or for the purpose of removing the oil or gas from such properties;</h>
+B. The acquisition of property rights or properties for the purpose of further exploration or for the purpose of removing the oil or gas from such properties;
 
-<h>C. The construction, drilling, and production activities necessary to retrieve oil and gas from their natural reservoirs, including the acquisition, construction, installation, and maintenance of field gathering and storage systems, such as:</h>
+C. The construction, drilling, and production activities necessary to retrieve oil and gas from their natural reservoirs, including the acquisition, construction, installation, and maintenance of field gathering and storage systems, such as:
 
-<h>1. Lifting the oil and gas to the surface; and</h>
+1. Lifting the oil and gas to the surface; and
 
-<h>2. Gathering, treating, and field processing (as in the case of processing gas to extract liquid hydrocarbons); and</h>
+2. Gathering, treating, and field processing (as in the case of processing gas to extract liquid hydrocarbons); and
 
-<h>D. Extraction of saleable hydrocarbons, in the solid, liquid, or gaseous state, from oil sands, shale, coalbeds, or other nonrenewable natural resources which are intended to be upgraded into synthetic oil or gas, and activities undertaken with a view to such extraction.</h>
+D. Extraction of saleable hydrocarbons, in the solid, liquid, or gaseous state, from oil sands, shale, coalbeds, or other nonrenewable natural resources which are intended to be upgraded into synthetic oil or gas, and activities undertaken with a view to such extraction.
 
 Oil and gas producing activities do not include:
 
-<h>A. Transporting, refining, or marketing oil and gas;</h>
+A. Transporting, refining, or marketing oil and gas;
 
-<h>B. Processing of produced oil, gas or natural resources that can be upgraded into synthetic oil or gas by a registrant that does not have the legal right to produce or a revenue interest in such production;</h>
+B. Processing of produced oil, gas or natural resources that can be upgraded into synthetic oil or gas by a registrant that does not have the legal right to produce or a revenue interest in such production;
 
-<h>C. Activities relating to the production of natural resources other than oil, gas, or natural resources from which synthetic oil and gas can be extracted; or</h>
+C. Activities relating to the production of natural resources other than oil, gas, or natural resources from which synthetic oil and gas can be extracted; or
 
-<h>D. Production of geothermal steam. (Instructions omitted.)advocating this approach, “commercial development of oil, natural gas, or minerals” would include “exploration, extraction, field processing and gathering/transportation activities to the first marketable location.” <sup>110</sup> Some commentators suggested clarifying, either in the regulatory text or in the adopting release, that the definition would include field processing activities prior to the refining or smelting phase, such as upgrading of bitumen and heavy oil and crushing and processing of raw ore, as well as transport activities related to the export of oil, natural gas, or minerals to the first marketable location . <sup>111</sup> In focusing exclusively on mining activities, one commentator stated that the definition of “commercial development” should include exploration, extraction, and production, and activities of processing and export to the extent that they are associated with producti on . <sup>112</sup> Under that approach, the definition would include steps in production prior to the smelting or refining phase, such as crushing of raw ore, processing of the crushed ore, and export of processed ore to the smelter, but would not include the actual smelting or refining. Several commentators stated that the definition should exclude transportation and other midstream or downstream activities, including export. <sup>113</sup> According to some of those commentators, “‘export’ activities are not always directly associated with oil and gas producing activities, and can often beundertaken by issuers that are not engaged in ‘resource extraction’ at all.” <sup>114</sup> They believed that requiring the reporting of payments by such issuers goes beyond the intended scope of the statute. One commentator urged us to state explicitly that “commercial development” does not include transportation activities and that transportation activities include the underground storage of natural gas. <sup>115</sup> Another commentator stated that an issuer should be allowed to choose whether to include transportation in the definition of “commercial development” as long as it discloses the basis for its definition. <sup>116</sup></h>
+D. Production of geothermal steam. (Instructions omitted.)advocating this approach, “commercial development of oil, natural gas, or minerals” would include “exploration, extraction, field processing and gathering/transportation activities to the first marketable location.” <sup>110</sup> Some commentators suggested clarifying, either in the regulatory text or in the adopting release, that the definition would include field processing activities prior to the refining or smelting phase, such as upgrading of bitumen and heavy oil and crushing and processing of raw ore, as well as transport activities related to the export of oil, natural gas, or minerals to the first marketable location . <sup>111</sup> In focusing exclusively on mining activities, one commentator stated that the definition of “commercial development” should include exploration, extraction, and production, and activities of processing and export to the extent that they are associated with producti on . <sup>112</sup> Under that approach, the definition would include steps in production prior to the smelting or refining phase, such as crushing of raw ore, processing of the crushed ore, and export of processed ore to the smelter, but would not include the actual smelting or refining. Several commentators stated that the definition should exclude transportation and other midstream or downstream activities, including export. <sup>113</sup> According to some of those commentators, “‘export’ activities are not always directly associated with oil and gas producing activities, and can often beundertaken by issuers that are not engaged in ‘resource extraction’ at all.” <sup>114</sup> They believed that requiring the reporting of payments by such issuers goes beyond the intended scope of the statute. One commentator urged us to state explicitly that “commercial development” does not include transportation activities and that transportation activities include the underground storage of natural gas. <sup>115</sup> Another commentator stated that an issuer should be allowed to choose whether to include transportation in the definition of “commercial development” as long as it discloses the basis for its definition. <sup>116</sup>
 
 Other commentators stated that, at a minimum, the definition of “commercial development” must include the activities of exploration, extraction, processing, and export. <sup>117</sup> One commentator argued that, although the EITI does not include processing and export activities in its minimum disclosure requirements, the definition of “commercial development” must include those activities to be consistent with the plain language of Section 13(q) and because Congress intended the statute to go beyond the EITI’s requirements . <sup>118</sup> Another commentator suggested expanding the proposed definition to include not just upstream activities, but also midstream activities (activities involved in trading and transport of resources), and downstream activities (activities involved in refining,ore processing, and marketing of resources) . <sup>119</sup> The commentator agreed with the proposal that the definition should not include activities of a manufacturer of a product used in the commercial development of oil, natural gas, or minerals.
 

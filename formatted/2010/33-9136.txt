@@ -1,211 +1,3 @@
-https://www.sec.gov/rules/final/2010/33-9136.pdf
-
-I.0.0.0 BACKGROUND AND OVERVIEW OF AMENDMENTS
-
-	I.A.0.0 Background
-
-	I.B.0.0 Our Role in the Proxy Process
-
-	I.C.0.0 Summary of the Final Rules
-
-II.0.0.0 CHANGES TO THE PROXY RULES
-
-	II.A.0.0 Introduction
-
-	II.B.0.0 Exchange Act Rule 14a-11
-
-		II.B.1.0 Overview
-
-		II.B.2.0 When Rule 14a-11 Will Apply
-
-			II.B.2.a Interaction with state or foreign law
-
-			II.B.2.b Opt-in not required
-
-			II.B.2.c No opt-out
-
-			II.B.2.d No triggering events
-
-			II.B.2.e Concurrent proxy contests
-
-		II.B.3.0 Which Companies Are Subject to Rule 14a-11
-
-			II.B.3.a General
-
-			II.B.3.b Investment companies
-
-			II.B.3.c Controlled companies
-
-			II.B.3.d “Debt only” companies
-
-			II.B.3.e Application of Exchange Act Rule 14a-11 to companies that voluntarily register a class of securities under Exchange Act Section 12(g)
-
-		II.B.12.0 Accordingly, Rule 14a-11 will apply to companies that have voluntarily registered a class of equity securities pursuant to Exchange Act Section 12(g), with the same ownership eligibility thresholds as those of companies that were required to register a class of equity securities pursuant to Section 12.
-
-			II.B.12.f Smaller reporting companies
-
-		II.B.4.0 Who Can Use Exchange Act Rule 14a-11
-
-			II.B.4.a General
-
-			II.B.4.b Ownership threshold
-
-			II.B.4.c Holding period
-
-			II.B.4.d No change in control intent
-
-			II.B.4.e Agreements with the company
-
-		II.B.11.0 Our revisions to that provision are discussed in Section II.B.6. below.
-
-			II.B.11.f No requirement to attend the annual or special meeting
-
-			II.B.11.g No limit on resubmission
-
-		II.B.1.0 Nominee Eligibility under Exchange Act Rule 14a-11
-
-			II.B.1.a Consistent with applicable law and regulation
-
-			II.B.1.b Independence requirements and other director qualifications
-
-	II.A.0.0 Goolsby; Headwaters; Home Depot; Honeywell; Horizon; C. Horner; IBM; Intel; JPMorgan Chase; Keating Muething; E.J. Kullman; McDonald’s; Merchants Terminal; Metlife; Norfolk Southern; Northrop; Office Depot; O’Melveny & Myers; P&G; PepsiCo; Pfizer; Protective; S&C; Seven Law Firms; Sidley Austin; SIFMA; Society of Corporate Secretaries; Southern Company; Tenet; Tesoro; Theragenics; TI; Tompkins; tw telecom; UnitedHealth; U.S. Bancorp; Verizon; Wells Fargo; Weyerhaeuser.
-
-			II.A.1.c Agreements with the company
-
-			II.A.1.d Relationship between the nominating shareholder or group and the nominee
-
-			II.A.1.e No limit on resubmission of shareholder director nominees
-
-		II.A.2.0 Maximum Number of Shareholder Nominees to Be Included in Company Proxy Materials
-
-			II.A.2.a General
-
-			II.A.2.b Different voting rights with regard to election of directors
-
-			II.A.2.c Inclusion of shareholder nominees in company proxy materials as company nominees
-
-		II.A.3.0 Priority of nominations received by a company
-
-			II.A.3.a Priority when multiple shareholders submit nominees
-
-		II.A.4.0 Notice on Schedule 14N
-
-			II.A.4.a Proposed notice requirements
-
-			II.A.4.b Comments on the proposed notice requirements
-
-			II.A.4.c Adopted notice requirements
-
-		II.A.5.0 Requirements for a Company That Receives a Notice from a Nominating Shareholder or Group
-
-			II.A.5.a Procedure if company plans to include Rule 14a-11 nominee
-
-			II.A.5.b Procedure if company plans to exclude Rule 14a-11 nominee
-
-			II.A.5.c Timing of Process
-
-			II.A.5.d Information required in company proxy materials
-
-		II.A.6.0 Application of the Other Proxy Rules to Solicitations by the Nominating Shareholder or Group
-
-	II.C.0.0 Exchange Act Rule 14a-8(i)(8)
-
-		II.C.1.0 Background
-
-		II.C.2.0 Proposed Amendment
-
-		II.C.3.0 Comments on the Proposal
-
-		II.C.4.0 Final Rule Amendment
-
-		II.C.5.0 Disclosure Requirements
-
-	II.D.0.0 Other Rule Changes
-
-		II.D.1.0 Disclosure of Dates and Voting Information
-
-		II.D.2.0 Beneficial Ownership Reporting Requirements
-
-		II.D.7.0 A few commenters recommended that the Commission create an exemption from Section 16 for a group of shareholders that aggregated their holdings in order to submit a nominee pursuant to Rule 14a-11.737 Commenters reasoned that members of a nominating group that owns more than 10% of the shares could not reasonably be considered company “insiders.”738 These commenters noted that the group would exist for the sole purpose of nominating a candidate and, absent special facts, would have no access to inside information about the company. Thus, these commenters argued that the statutory purpose of Section 16 – the prevention of insider trading – would not be relevant to such groups. Other commenters did not support an exemption from Section 16.739 Some of these commenters further agreed that no standard should be adopted regarding application of the judicial doctrine concerning “deputized directors.”740
-
-	II.E.0.0 Application of the Liability Provisions in the Federal Securities Laws to Statements Made By a Nominating Shareholder or Nominating Shareholder Group
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-	III.A.0.0 Background
-
-		III.A.1.0 “Proxy Statements – Regulation 14A and Schedule 14A” (OMB Control No. 3235-0059);
-
-		III.A.2.0 “Information Statements – Regulation 14C and Schedule 14C” (OMB Control No. 3235-0057);
-
-		III.A.3.0 “Form ID” (OMB Control No. 3235-0328);
-
-		III.A.4.0 “Schedule 14N”;
-
-		III.A.5.0 “Securities Ownership – Regulation 13D and 13G (Commission Rules 13d-1 through 13d-7 and Schedules 13D and 13G)” (OMB Control No. 3235-0145);
-
-		III.A.6.0 “Form 8-K” (OMB Control No. 3235-0060); and
-
-		III.A.7.0 “Rule 20a-1 under the Investment Company Act of 1940, Solicitations of Proxies, Consents, and Authorizations” (OMB Control No. 3235-0158).
-
-	III.B.0.0 Summary of the Final Rules and Amendments
-
-	III.C.0.0 Summary of Comment Letters and Revisions to Proposal
-
-	III.D.0.0 Revisions to PRA Reporting and Cost Burden Estimates
-
-		III.D.1.0 Rule 14a-11
-
-		III.D.2.0 Amendment to Rule 14a-8(i)(8)
-
-		III.D.5.0 Schedule 13G Filings
-
-		III.D.6.0 Form ID Filings
-
-	III.E.0.0 Revisions to PRA Reporting and Cost Burden Estimates
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Background
-
-	IV.B.0.0 Summary of Rules
-
-		IV.B.1.0 Facilitating Shareholders’ Ability to Exercise Their State Law Rights to Nominate and Elect Directors
-
-		IV.B.2.0 Minimum Uniform Procedure for Inclusion of Shareholder Director Nominations and Enhanced Ability for Shareholders to Adopt Director Nomination Procedures
-
-		IV.B.3.0 Potential Improved Board Performance and Company Performance
-
-	IV.D.0.0 Nappier; P. Neuhauser; NJSIC; OPERS; Pax World; Pershing Square; Relational; RiskMetrics; D. Romine; Shareowners.org; Social Investment Forum; Teamsters; TIAA-CREF; Universities Superannuation; USPE; Walden. One commenter added that the benefits of the right to include shareholder director nominees in the company’s proxy materials, including enhanced shareholder value from hybrid boards and directors becoming “more alert to their duties,” are “less easy to quantify.” See letter from P. Neuhauser.
-
-	IV.E.0.0 Costs
-
-		IV.E.1.0 Costs Related to Potential Adverse Effects on Company and Board Performance
-
-		IV.E.3.0 Costs Related to Preparing Disclosure, Printing and Mailing and Costs of Additional Solicitations and Shareholder Proposals
-
-		IV.E.4.0 Other Costs
-
-V.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Need for the Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comments
-
-	VI.C.0.0 Small Entities Subject to the Rules
-
-	VI.D.0.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 STATUTORY AUTHORITY AND TEXT OF THE AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 [Corrected – conforming to non-substantive changes in Federal Register version]
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 200, 232, 240 and 249
@@ -526,7 +318,7 @@ Three commenters stated that Rule 14a-11 should apply to companies that voluntar
 
 We agree with the commenters that Rule 14a-11 generally should apply to those companies that choose to avail themselves of the obligations and benefits of Section 12(g) registration. As Section 12 registrants, these companies are subject to the full panoply of the Exchange Act, including Section 14(a), and their shareholders receive proxy materials in connection with annual and special meetings of shareholders in accordance with the proxy rules. We believe disparate treatment among these Section 12 registrants is unwarranted and shareholders of these companies should enjoy the same protections generally available to shareholders of other companies with a class of equity securities registered pursuant to Section
 
-<h>12. Accordingly, Rule 14a-11 will apply to companies that have voluntarily registered a class of equity securities pursuant to Exchange Act Section 12(g), with the same ownership eligibility thresholds as those of companies that were required to register a class of equity securities pursuant to Section 12.</h>
+12. Accordingly, Rule 14a-11 will apply to companies that have voluntarily registered a class of equity securities pursuant to Exchange Act Section 12(g), with the same ownership eligibility thresholds as those of companies that were required to register a class of equity securities pursuant to Section 12.
 
 <h>f. Smaller reporting companies</h>
 
@@ -738,7 +530,7 @@ As described above, a nominating shareholder or group will not be eligible to us
 
 Although we are adopting the “no agreements” requirement largely as proposed, we are persuaded by commenters that we should revise our final rules so that they do not unnecessarilydiscourage constructive dialogue between shareholders and companies. However, we believe this concern is more appropriately addressed in the method of calculation of the maximum number of permissible nominees, and the question of whether that number should include management nominees that were originally put forward as shareholder nominees under Rule 14a­
 
-<h>11. Our revisions to that provision are discussed in Section II.B.6. below.</h>
+11. Our revisions to that provision are discussed in Section II.B.6. below.
 
 <h>f. No requirement to attend the annual or special meeting</h>
 
@@ -752,7 +544,7 @@ Under the Proposal, a nominating shareholder’s or group’s ability to use Rul
 
 A. Drexler, et al., Delaware Corporation Law and Practice, ¶ 24.05[3] (2009 supp.); Carroll R. Wetzel, Conduct of a Stockholders’ Meeting , 22 B US . L AW . 303, 313-314 (1967); American Bar Association Corporate Laws Committee and Corporate Governance Committee, Business Law Section, Handbook for the Conduct of Shareholders’ Meetings (2d ed. 2010) at 151.require the company to expend resources repeatedly to include the unsuccessful nominee; <sup>344</sup> andother shareholders would have an opportunity to submit their own nominations. <sup>345</sup> On the other hand, some commenters opposed a provision that would render a nominating shareholder or group ineligible to use Rule 14a-11 for a period of time if the nominating shareholder or group presented a nominee who failed to receive a specified percentage of shareholder votes at a previous election. <sup>346</sup> One commenter pointed out that management nominees are not subject to similar limits. <sup>347</sup> After consideration of the comments we do not believe it is necessary or appropriate to include a limitation on use of Rule 14a-11 by nominating shareholders or groups that have previously used the rule. We continue to believe that such a limitation would not facilitate shareholders’ traditional state law rights and would add unnecessary complexity to the rule’s operation.
 
-<h>1. Nominee Eligibility under Exchange Act Rule 14a-11</h>
+<h>5. Nominee Eligibility under Exchange Act Rule 14a-11</h>
 
 <h>a. Consistent with applicable law and regulation</h>
 
@@ -772,7 +564,7 @@ Commenters generally supported the requirement regarding the objective independe
 
 A significant number of commenters from the corporate community stated generally that shareholder nominees should satisfy not just the objective director independence standards of the relevant exchange or national securities associations, but all of the company’s director qualifications and independence standards (including, if applicable, more stringent objective independence standards imposed by the board, subjective director independence standards, director qualification standards, board service guidelines, and code of conduct in the company’s governance principles and committee charters) applicable to all directors and director nominees. <sup>364</sup> Many commenters warned that exempting shareholder nominees from a company’s director independence and qualification standards could cause the company to be exposed to legal issues, lower the quality and diversity of the board, and create difficulties in recruiting qualified directors. <sup>365</sup> Other commenters also believed that exempting shareholder nominees from the subjective director independence standards of the relevant exchange or national securities association would put companies at risk of noncompliance with the exchange’s or association’s rules regarding independent directors, burden the remaining independent directors
 
-<h>A. Goolsby; Headwaters; Home Depot; Honeywell; Horizon; C. Horner; IBM; Intel; JPMorgan Chase; Keating Muething; E.J. Kullman; McDonald’s; Merchants Terminal; Metlife; Norfolk Southern; Northrop; Office Depot; O’Melveny & Myers; P&G; PepsiCo; Pfizer; Protective; S&C; Seven Law Firms; Sidley Austin; SIFMA; Society of Corporate Secretaries; Southern Company; Tenet; Tesoro; Theragenics; TI; Tompkins; tw telecom; UnitedHealth; U.S. Bancorp; Verizon; Wells Fargo; Weyerhaeuser.with additional duties by forcing them to serve on more board committees, make it more difficult for companies to recruit the independent directors needed for the board committees, and force companies to increase the size of the board and conduct additional searches for directors qualifying as independent. <sup>366</sup></h>
+A. Goolsby; Headwaters; Home Depot; Honeywell; Horizon; C. Horner; IBM; Intel; JPMorgan Chase; Keating Muething; E.J. Kullman; McDonald’s; Merchants Terminal; Metlife; Norfolk Southern; Northrop; Office Depot; O’Melveny & Myers; P&G; PepsiCo; Pfizer; Protective; S&C; Seven Law Firms; Sidley Austin; SIFMA; Society of Corporate Secretaries; Southern Company; Tenet; Tesoro; Theragenics; TI; Tompkins; tw telecom; UnitedHealth; U.S. Bancorp; Verizon; Wells Fargo; Weyerhaeuser.with additional duties by forcing them to serve on more board committees, make it more difficult for companies to recruit the independent directors needed for the board committees, and force companies to increase the size of the board and conduct additional searches for directors qualifying as independent. <sup>366</sup>
 
 After carefully considering the comments, we are adopting the requirement largely as proposed. We believe that the Rule 14a-11 process should be limited to nominations of board candidates who meet any objective independence standards of the relevant securities exchange. While we understand the concerns expressed by many commenters from the corporate community, particularly with respect to the risk of noncompliance with listing standards, we continue to believe that the rule should not extend to subjective independence standards. We note that Rule 14a-11 only addresses when a company must include a nominee in its proxy materials – it does not preclude a nominee from ultimately being subject to any subjective determination of independence for board committee positions. We believe the concerns regarding independent directors being forced to take on additional duties, companies needing to increase the size of the board or conducting additional searches for independent directors are best addressed through disclosure. A company could include disclosure in its proxy materials advising shareholders that the shareholder nominee would not meet the company’s subjective criteria, as appropriate. This would provide shareholders with the opportunity to make an informed choice with regard to the candidates for director.
 
@@ -808,7 +600,7 @@ Other commenters opposed generally any requirement that the nominating sharehold
 
 Under the Proposal, an individual would not be limited in their ability to stand as a nominee under the rule based on prior unsuccessful nominations under the rule. A number of commenters supported a provision under which a shareholder nominee who failed to receive a specified threshold ( e.g. , 10%, 15%, 25%, or 30%) of support at a previous election would be ineligible to be nominated again pursuant to Rule 14a-11 for a specified period ( e.g. , one, two, or three years). <sup>400</sup> One commenter reasoned that “[t]his would allow more shareholders to participate in the process and would motivate them to propose high quality candidates.” <sup>401</sup> On the other hand, other commenters opposed a provision under which a shareholder nominee whofailed to receive significant support at a previous election would be ineligible to be nominated again pursuant to Rule 14a-11 for a specified period. <sup>402</sup> One commenter reasoned that “[s]imilar resubmission requirements aren’t applicable to management’s candidates, so they shouldn’t apply to candidates suggested by shareowners.” <sup>403</sup> We agree with those commenters who opposed a provision that would limit the ability of a shareholder nominee to be nominated based on the level of support received in a prior election. We do not believe that such a limitation would facilitate shareholders’ traditional state law rights and would add undue complexity to the rule’s operation.
 
-<h>2. Maximum Number of Shareholder Nominees to Be Included in Company Proxy Materials</h>
+<h>6. Maximum Number of Shareholder Nominees to Be Included in Company Proxy Materials</h>
 
 <h>a. General</h>
 
@@ -854,7 +646,7 @@ Rule 14a-11 by other shareholders should not be restricted. A number of commente
 
 While we appreciate commenters’ views, we are not persuaded that it is appropriate to provide an exception to the general method of calculating the maximum number of Rule 14a-11 nominees in the case of a shareholder-nominated incumbent director that is re-nominated by the company. As noted previously, by adopting Rule 14a-11 we are seeking to facilitate shareholders’ ability under state law to nominate and elect directors, not necessarily to enhance shareholder representation on the board. We do not believe that a Commission rule is needed to facilitate the working relationship between the shareholder-nominated director and the company- nominated directors, or to provide an incentive for the board to integrate the shareholder- nominated director into its activities. To the extent that a shareholder nominee is elected to the board, the company-nominated directors and the shareholder-nominated director will have a fiduciary duty to act in the best interests of the company and its shareholders.
 
-<h>3. Priority of nominations received by a company</h>
+<h>7. Priority of nominations received by a company</h>
 
 <h>a. Priority when multiple shareholders submit nominees</h>
 
@@ -894,7 +686,9 @@ As adopted, Rule 14a-11 addresses situations where more than one shareholder or 
 
 See new Rule 14a-11(e) and proposed Rule 14a-11(d)(3).percentage that is otherwise eligible to use the rule and that filed a timely notice does not nominate the maximum number of directors allowed under the rule, the nominee or nominees of the nominating shareholder or group with the next highest qualifying voting power percentage that is otherwise eligible to use the rule and that filed a timely notice of intent to nominate a director pursuant to the rule would be included in the company’s proxy materials, up to and including the total number of shareholder nominees required to be included by the company.
 
-This process would continue until the company included the maximum number of nominees it is required to include in its proxy statement and on its proxy card or the company exhausts the list of eligible nominees. If the number of eligible nominees exceeds the maximum number required under Rule 14a-11 and the shareholder or group with the next highest qualifying voting power percentage submitted more nominees than there are remaining available director slots, the nominating shareholder would have the option to specify which of its nominees are to be included in the company’s proxy materials. <sup>470</sup>b.	Priority when a nominating shareholder or group or a nominee withdraws or is disqualified
+This process would continue until the company included the maximum number of nominees it is required to include in its proxy statement and on its proxy card or the company exhausts the list of eligible nominees. If the number of eligible nominees exceeds the maximum number required under Rule 14a-11 and the shareholder or group with the next highest qualifying voting power percentage submitted more nominees than there are remaining available director slots, the nominating shareholder would have the option to specify which of its nominees are to be included in the company’s proxy materials. <sup>470</sup>
+
+<h>b. Priority when a nominating shareholder or group or a nominee withdraws or is disqualified</h>
 
 Under the Proposal, we did not address what would be expected of a company if a nominating shareholder or group or nominee withdraws or is disqualified after the company has provided notice to the nominating shareholder or group of its intent to include the nominee in the company’s proxy materials. One commenter asked for guidance on how to handle such situations. <sup>471</sup> Another commenter stated that it opposed allowing a nominating shareholder group to change its composition to correct an identified deficiency, such as a failure of the group tomeet the requisite ownership threshold. <sup>472</sup> Two commenters believed that if any member of a nominating shareholder group becomes ineligible due to a failure to own the requisite number of shares, then the entire group and its nominee also should be ineligible to use Rule 14a-11. <sup>473</sup> On the other hand, one commenter recommended that a nominating shareholder group should be allowed to change its composition to correct an identified deficiency, such as the failure of the group to meet the requisite threshold. <sup>474</sup> The commenter also addressed a situation in which a nominating shareholder group qualifies to use Rule 14a-11, provides the necessary notice, submits its nominees, but then becomes disqualified before the meeting at which its nominees would have been put to a shareholder vote. The commenter stated that while it “generally believe[s] that the nominating shareowner should have a short window within which to add a shareowner who would meet all eligibility requirements, a lapse that cannot be cured in that fashion should be remedied by going to the ‘second’ candidate(s).”<sup>472</sup> See letter from ABA. <sup>473</sup> See letters from CFA Institute; Verizon. <sup>474</sup> See letter from CII. <sup>475</sup> See Instruction 2 to Rule 14a-11(g) and proposed Rule 14a-11(f)(6). Consistent with the Proposal, under our final rules, neither the composition of the nominating shareholder group nor the shareholder nominee may be changed as a means to correct a deficiency identified in the company’s notice to the nominating shareholder or nominating shareholder group – those matters must remain as they were described in the notice to the company. <sup>475</sup> We believe that to allow otherwise could serve to undermine the purpose of the notice deadline provided for in the rule. Thus, a nominating shareholder or group should be sure that it and its nominees meet the requirements of the rule – including the ownership and holding period requirements – before it files its Schedule 14N, as a nominating shareholder orgroup will not be permitted to add or substitute another shareholder or nominee in order to satisfy the requirements. <sup>476</sup>
 
@@ -908,7 +702,7 @@ We believe that these requirements are appropriate in order to give effect to th
 
 However, in order to address practical considerations, Rule 14a-11(e)(2) provides that once a company has commenced printing its proxy materials it will not be required to include a substitute nominee or nominees. We believe that at that point in the process it would be too difficult and costly for a company to change course to include a new nominee or nominees. If a nominating shareholder or group or nominee withdraws or is disqualified after the company has commenced printing its proxy materials, the company may determine whether it wishes to print (and furnish) additional materials and a proxy card, delete the disqualified or withdrawn nominee, or instead provide disclosure through additional soliciting materials informing shareholders about the change. <sup>486</sup>
 
-<h>4. Notice on Schedule 14N</h>
+<h>8. Notice on Schedule 14N</h>
 
 <h>a. Proposed notice requirements</h>
 
@@ -1014,7 +808,7 @@ As was proposed, <sup>552</sup> the Schedule 14N may be signed either by each pe
 
 The Schedule 14N, as filed with the Commission, as well as any amendments to the Schedule 14N, will be subject to the liability provisions of Exchange Act Rule 14a-9 pursuant to new paragraph (c) to the rule. <sup>553</sup>
 
-<h>5. Requirements for a Company That Receives a Notice from a Nominating Shareholder or Group</h>
+<h>9. Requirements for a Company That Receives a Notice from a Nominating Shareholder or Group</h>
 
 <h>a. Procedure if company plans to include Rule 14a-11 nominee</h>
 
@@ -1196,7 +990,10 @@ See new Rule 14a-4(b)(2)(iv). We anticipate that companies would continue to be 
 
 Under the Proposal, inclusion of a shareholder nominee in the company’s proxy materials would not require the company to file a preliminary proxy statement provided that the company was otherwise qualified to file directly in definitive form. In this regard, the Proposal made clear that inclusion of a shareholder nominee would not be deemed a solicitation in opposition. <sup>610</sup> We did not receive a significant amount of comment on this aspect of the rule, although two commenters agreed that inclusion of a Rule 14a-11 shareholder nominee should not require the company to file preliminary proxy materials. <sup>611</sup> We are adopting this provision largely as proposed. As adopted, a company would not be required to file a preliminary proxy statement in connection with a nomination made pursuant to Rule 14a-11, an applicable state or foreign law provision, or a company’s governing documents. <sup>612</sup>
 
-<h>6. Application of the Other Proxy Rules to Solicitations by the Nominating Shareholder or Groupa.	Rule 14a-2(b)(7)</h>
+<h>10. Application of the Other Proxy Rules to Solicitations by the Nominating Shareholder or Groupa.</h>	
+<h>a. Rule 14a-2(b)(7)</h>
+<h>b. Rule 14a-2(b)(8)</h>
+
 
 As noted in the Proposing Release, we anticipate that shareholders may engage in communications with other shareholders in an effort to form a nominating shareholder group to aggregate their holdings to meet the applicable minimum ownership threshold to nominate a director. While consistent with the purpose of Rule 14a-11, such communications would be deemed solicitations under the proxy rules. Accordingly, we proposed an exemption from theproxy rules for written communications made in connection with using proposed Rule 14a-11 <sup>613</sup> that are limited in content and filed with the Commission. <sup>614</sup> As noted in the Proposal, we believed this limited exemption would facilitate shareholders’ use of proposed Rule 14a-11 and remove concerns shareholders seeking to use the rule may have regarding certain communications with other shareholders regarding their intent to submit a nomination pursuant to the rule.
 
@@ -1431,6 +1228,9 @@ A registered investment company that is a series company also must disclose the 
 Exchange Act Rule 14a-5 requires registrants to disclose in a proxy statement the deadlines for submitting shareholder proposals and matters submitted pursuant to advance notice bylaws. We are amending Rule 14a-5 to also require companies to disclose the deadline for submitting nominees for inclusion in the company’s proxy materials for the company’s next annual meeting of shareholders. This provision will apply with respect to inclusion of nominations in a company’s proxy materials pursuant to Rule 14a-11, an applicable state or foreign law provision, or a company’s governing documents. <sup>714</sup> We believe that it is necessary to conform the existing requirements in Rule 14a-5, consistent with the proposal to give adequate notice to shareholders about their ability to submit a nominee or nominees for inclusion in a company’s proxy materials pursuant to Rule 14a-11. The change should help to avoid any potential confusion regarding the date by which shareholders seeking to have a nominee included in a company’s proxy materials would need to submit a Schedule 14N pursuant to Rule 14a-11therein is inaccurate. See discussion in footnote 280.or Rule 14a-18.
 
 <h>2. Beneficial Ownership Reporting Requirements</h>
+<h>3. Exchange Act Section 16</h>
+<h>4. Nominating Shareholder or Group Status as Affiliates of the Company</h>
+
 
 As adopted, Rule 14a-11 requires that a nominating shareholder or group hold at least 3% of the voting power of the company’s securities entitled to be voted on the election of directors. Although unnecessary to be able to use the rule, it is possible that in aggregating shares to meet the ownership requirement, a nominating shareholder or group will trigger the reporting requirements of Regulation 13D-G, which requires that a shareholder or group that beneficially owns more than 5% of a voting class of any equity security registered pursuant to Section 12 file beneficial ownership reports. <sup>715</sup> Therefore, nominating shareholders will need to consider whether they have formed a group under Exchange Act Section 13(d)(3) and Rule 13d-5(b)(1) that is required to file beneficial ownership reports. Any person (which includes a group as defined in Rule 13d-5(b)(1)) who is directly or indirectly the beneficial owner of more than 5% of a class of equity securities registered under Exchange Act Section 12 must report that ownership by filing an Exchange Act Schedule 13D with the Commission. <sup>716</sup> There are exceptions to this requirement, however, that permit such a person to report that ownership on Schedule 13G rather than Schedule 13D. One exception permits filings on Schedule 13G for a specified list of qualified institutional investors who have acquired the securities in the ordinary course of their business and with neither the purpose nor the effect of changing or influencing control of the company. <sup>717</sup> A second exception applies to persons who beneficially own morethan 5% of a subject class of securities if they acquired the securities with neither the purpose nor the effect of changing or influencing control of the company and they are not directly or indirectly the beneficial owner of 20% or more of the subject class of securities. <sup>718</sup>
 
@@ -1456,7 +1256,7 @@ We did not propose standards for establishing the independence of the nominee fr
 
 Although we did not propose an exemption from Section 16, we requested comment on, among other things, whether a nominating shareholder group should be excluded from Section 16 and whether subjecting such groups to Section 16 would be a disincentive to using Rule 14a­with the election of that nominee, or having that nominee elected as a director be exempted from Exchange Act Section 16 reporting.v. Lehman , 368 U.S. 403 (1962); and Rattner v. Lehman , 193 F.2d 564 (2d Cir. 1952). The judicial decisions in which this theory was applied do not establish precise standards for determining when “deputization” may exist. However, the express purpose of Section 16(b) is to prevent the unfair use of information by insiders through their relationships to the issuer. Accordingly, one factor that courts may consider in determining if Section 16(b) liability applies is whether, by virtue of the “deputization” relationship, the “deputizing” entity’s transactions in issuer securities may benefit from the deputized director’s access to inside information.
 
-<h>7. A few commenters recommended that the Commission create an exemption from Section 16 for a group of shareholders that aggregated their holdings in order to submit a nominee pursuant to Rule 14a-11.737 Commenters reasoned that members of a nominating group that owns more than 10% of the shares could not reasonably be considered company “insiders.”738 These commenters noted that the group would exist for the sole purpose of nominating a candidate and, absent special facts, would have no access to inside information about the company. Thus, these commenters argued that the statutory purpose of Section 16 – the prevention of insider trading – would not be relevant to such groups. Other commenters did not support an exemption from Section 16.739 Some of these commenters further agreed that no standard should be adopted regarding application of the judicial doctrine concerning “deputized directors.”740<sup>737</sup> See letters from ICI; Schulte Roth & Zabel; ValueAct Capital. <sup>738</sup> See letters from ICI; Schulte Roth & Zabel. <sup>739</sup> See letters from ABA; Alston & Bird; CII; Seven Law Firms. <sup>740</sup> See letters from ABA; CII; Seven Law Firms. After considering the comments, we continue to believe that an exclusion from Section 16 is not appropriate for groups formed solely for the purpose of nominating a director pursuant to Rule 14a-11, soliciting in connection with the election of that nominee, or having that nominee elected as director. We also believe that it is not necessary to change the existing analysis of whether a group has formed and whether Section 16 applies. Because the ownership threshold we are adopting for Rule 14a-11 eligibility is significantly less than 10%, shareholders will be able to form groups with holdings sufficient to meet the Rule 14a-11 threshold without reaching the 10% threshold in Section 16. Thus, we do not believe that Section 16 commonly will be a deterrent to use of Rule 14a-11. As such, we believe that shareholders forming a group to submit a nominee for director pursuant to Rule 14a-11 should be analyzed in the same way asany other group for purposes of determining whether group members are 10% owners subject to Section 16. Similarly, we are not adopting standards regarding application of the “deputized director” doctrine, which will be left to existing case law and courts.4.	Nominating Shareholder or Group Status as Affiliates of the Company</h>
+7. A few commenters recommended that the Commission create an exemption from Section 16 for a group of shareholders that aggregated their holdings in order to submit a nominee pursuant to Rule 14a-11.737 Commenters reasoned that members of a nominating group that owns more than 10% of the shares could not reasonably be considered company “insiders.”738 These commenters noted that the group would exist for the sole purpose of nominating a candidate and, absent special facts, would have no access to inside information about the company. Thus, these commenters argued that the statutory purpose of Section 16 – the prevention of insider trading – would not be relevant to such groups. Other commenters did not support an exemption from Section 16.739 Some of these commenters further agreed that no standard should be adopted regarding application of the judicial doctrine concerning “deputized directors.”740<sup>737</sup> See letters from ICI; Schulte Roth & Zabel; ValueAct Capital. <sup>738</sup> See letters from ICI; Schulte Roth & Zabel. <sup>739</sup> See letters from ABA; Alston & Bird; CII; Seven Law Firms. <sup>740</sup> See letters from ABA; CII; Seven Law Firms. After considering the comments, we continue to believe that an exclusion from Section 16 is not appropriate for groups formed solely for the purpose of nominating a director pursuant to Rule 14a-11, soliciting in connection with the election of that nominee, or having that nominee elected as director. We also believe that it is not necessary to change the existing analysis of whether a group has formed and whether Section 16 applies. Because the ownership threshold we are adopting for Rule 14a-11 eligibility is significantly less than 10%, shareholders will be able to form groups with holdings sufficient to meet the Rule 14a-11 threshold without reaching the 10% threshold in Section 16. Thus, we do not believe that Section 16 commonly will be a deterrent to use of Rule 14a-11. As such, we believe that shareholders forming a group to submit a nominee for director pursuant to Rule 14a-11 should be analyzed in the same way asany other group for purposes of determining whether group members are 10% owners subject to Section 16. Similarly, we are not adopting standards regarding application of the “deputized director” doctrine, which will be left to existing case law and courts.4.	Nominating Shareholder or Group Status as Affiliates of the Company
 
 We proposed that Rule 14a-11(a) contain a safe harbor providing that a nominating shareholder would not be deemed an “affiliate” of the company under the Securities Act or the Exchange Act solely as a result of using Rule 14a-11. <sup>741</sup> Under the Proposal, this safe harbor would apply not only to the nomination of a candidate, but also where that candidate is elected, provided that the nominating shareholder or group does not have an agreement or relationship with that director otherwise than relating to the nomination. We were concerned that, without such a safe harbor, some nominating shareholders may be deterred from using Rule 14a-11.
 
@@ -1806,7 +1606,11 @@ As discussed throughout this release, we are adopting the new rules with the goa
 
 We received significant comment regarding this assertion. Many commenters agreed that the new rules may result in the benefit of more accountable, more responsive, and generally better-performing boards. <sup>908</sup> Other commenters, however, questioned whether the new rules would in fact promote board accountability, <sup>909</sup> warned of the costs of distracting and expensive election contests, <sup>910</sup> and disputed the conclusions of a study regarding the benefits enjoyed by companies with “hybrid boards” that was cited in the Proposing Release. <sup>911</sup> Commenters also
 
-<h>D. Nappier; P. Neuhauser; NJSIC; OPERS; Pax World; Pershing Square; Relational; RiskMetrics; D. Romine; Shareowners.org; Social Investment Forum; Teamsters; TIAA-CREF; Universities Superannuation; USPE; Walden. One commenter added that the benefits of the right to include shareholder director nominees in the company’s proxy materials, including enhanced shareholder value from hybrid boards and directors becoming “more alert to their duties,” are “less easy to quantify.” See letter from P. Neuhauser.challenged the basis for any suggestions in the Proposing Release that the recent economic crisis was somehow linked to the inability of shareholders to include their director nominees in the company’s proxy materials, pointing out that we have contemplated similar regulatory efforts several times before the recent crisis occurred. <sup>912</sup></h>
+<h>c. Factors Affecting Scope of the New Rules</h>
+<h>d. Benefits</h>
+
+
+D. Nappier; P. Neuhauser; NJSIC; OPERS; Pax World; Pershing Square; Relational; RiskMetrics; D. Romine; Shareowners.org; Social Investment Forum; Teamsters; TIAA-CREF; Universities Superannuation; USPE; Walden. One commenter added that the benefits of the right to include shareholder director nominees in the company’s proxy materials, including enhanced shareholder value from hybrid boards and directors becoming “more alert to their duties,” are “less easy to quantify.” See letter from P. Neuhauser.challenged the basis for any suggestions in the Proposing Release that the recent economic crisis was somehow linked to the inability of shareholders to include their director nominees in the company’s proxy materials, pointing out that we have contemplated similar regulatory efforts several times before the recent crisis occurred. <sup>912</sup>
 
 The comments reflect the sharp divide on the question of whether facilitating shareholders’ ability to exercise their rights to nominate and elect directors would lead to the benefit of improved board and company performance. We have considered these comments carefully and appreciate both the fact that the empirical evidence may appear mixed and the potential for negative effects due to management distraction and discord on the board that someobjectives of successful dissidents were often short-term in nature” and “suggests that companies with dissidents on their board perform better than their peers over a one-year period, but that they perform worse over a three-year period.” See letter from Simpson Thacher. The other commenter stated that “the only conclusion that could fairly be drawn from the data is that some companies perform better, and many perform worse, under such circumstances” and “of the companies with dissident directors studied for three years after the contest period, share performance averaged just 0.7%, which is 6.6% less than peer companies.”<sup>912</sup>
 

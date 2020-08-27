@@ -1,581 +1,3 @@
-https://www.sec.gov/rules/final/2012/34-66868.pdf
-
-I.0.0.0 Background
-
-II.0.0.0 Definitions of “Swap Dealer” and “Security-Based Swap Dealer”
-
-	II.A.0.0 General Considerations for the Dealer Analysis
-
-		II.A.1.0 Proposed approach
-
-			II.A.1.a “Swap dealer” activity
-
-			II.A.1.b “Security-based swap dealer” activity
-
-			II.A.1.c Additional principles common to both definitions
-
-		II.A.2.0 Commenters’ views
-
-			II.A.2.a “Hold themselves out” and “commonly known in the trade” tests
-
-			II.A.2.b Market making
-
-			II.A.2.c Exception for activities not part of a “regular business”
-
-			II.A.2.d Other dealer issues
-
-			II.A.2.e Application of Exchange Act “dealer-trader” distinction
-
-			II.A.2.e Application to particular swap markets
-
-			II.A.2.f Suggested exclusions from the dealer definitions
-
-			II.A.2.g Cost-benefit issues and hedging deterrence
-
-		II.A.3.0 Final rules and interpretation – general principles
-
-		II.A.4.0 Final rules and interpretation – definition of “swap dealer”
-
-			II.A.4.a Use of the dealer-trader distinction
-
-			II.A.4.b Indicia of holding oneself out as a dealer in swaps or being commonly known in the trade as a dealer in swaps
-
-			II.A.4.c Market making
-
-			II.A.4.d Exception for activities not part of “a regular business”
-
-			II.A.4.e Interim final rule excluding swaps entered into for hedging physical positions
-
-			II.A.4.f Swaps entered into by persons registered as floor traders
-
-			II.A.4.g Additional interpretive issues relating to the “swap dealer” definition
-
-		II.A.5.0 Final rules and interpretation – definition of “security-based swap dealer”
-
-			II.A.5.a General reliance on the dealer-trader distinction
-
-			II.A.5.b Principles for applying the dealer-trader distinction to security-based swap activity In light of the statutory security-based swap dealer definition, statutory provisions applicable to security-based swap dealers and market characteristics addressed above, the
-
-			II.A.5.c Additional interpretive issues
-
-		II.A.6.0 Requests for exclusions from the dealer definitions
-
-	II.B.0.0 “Swap Dealer” Exclusion for Swaps in Connection with Originating a Loan
-
-		II.B.1.0 Proposed approach
-
-	II.C.0.0 Application of Dealer Definitions to Legal Persons and to Inter-Affiliate Swaps and Security-Based Swaps
-
-		II.C.1.0 Proposed approach and commenters’ views
-
-		II.C.2.0 Final interpretation and rule
-
-			II.C.2.a Application to legal persons
-
-			II.C.2.b Application to inter-affiliate swaps and security-based swaps
-
-			II.C.2.c Application to cooperatives
-
-	II.D.0.0 De Minimis Exception
-
-		II.D.1.0 Proposed approach
-
-		II.D.2.0 Commenters’ views
-
-			II.D.2.a Basis for the exception
-
-			II.D.2.b Significance of “customer” language
-
-			II.D.2.c Proposed tests and thresholds
-
-			II.D.2.d Additional issues
-
-		II.D.3.0 Final rules – general principles for implementing the de minimis exception
-
-			II.D.3.a Balancing regulatory goals and burdens
-
-			II.D.3.b Specific factors implementing the de minimis exception
-
-			II.D.3.c Significance of statutory “customer” language
-
-			II.D.3.d Focus on “dealing” activity
-
-			II.D.3.e Alternative approaches we are not following
-
-		II.D.4.0 Final rules – de minimis exception to swap dealer definition
-
-			II.D.4.a Overview of the final rule
-
-			II.D.4.b Dealing activity involving special entities
-
-			II.D.4.c Phase-in procedure
-
-			II.D.4.d CFTC staff report
-
-		II.D.5.0 Final rules – de minimis exception to “security-based swap dealer” definition
-
-			II.D.5.a Overview of the final rule
-
-			II.D.5.b Interests associated with a de minimis exception
-
-			II.D.5.c Balancing reflected in the final rules – credit default swaps that constitute security-based swaps
-
-			II.D.5.d Balancing reflected in the final rules – other types of security-based swaps
-
-			II.D.5.e Dealing activity involving special entities
-
-			II.D.5.f Future revisions to the rule
-
-		II.D.6.0 Registration period for entities that exceed the de minimis factors
-
-	II.E.0.0 Limited Purpose Designation as a Dealer
-
-		II.E.1.0 Proposed approach
-
-		II.E.2.0 Commenters’ views
-
-			II.E.2.a Presumption of full designation
-
-			II.E.2.b Potential types of limited designations
-
-			II.E.2.c Applications for limited designations
-
-			II.E.2.d Application of regulatory requirements to limited dealers
-
-			II.E.2.e Miscellaneous issues
-
-		II.E.3.0 Final rules and general principles
-
-			II.E.3.a Default presumption of full designation
-
-			II.E.3.b Demonstration of compliance with dealer requirements
-
-III.0.0.0 Amendments to the Definition of Eligible Contract Participant
-
-	III.A.0.0 Background
-
-	III.B.0.0 Commodity Pool Look-Through for Retail Forex Transactions
-
-		III.B.1.0 Statutory Provisions
-
-		III.B.2.0 Proposed Approach
-
-		III.B.3.0 Commenters’ views
-
-		III.B.4.0 Final rule
-
-	III.C.0.0 ECP Status for Commodity Pools under Clause (A)(v) vs. under Clause (A)(iv) of the ECP Definition
-
-		III.C.1.0 Proposed Approach
-
-		III.C.2.0 Commenters’ views
-
-		III.C.3.0 Final rule
-
-	III.D.0.0 Dealers and Major Participants as ECPs
-
-		III.D.1.0 Proposed Approach
-
-		III.D.2.0 Commenters’ views
-
-		III.D.3.0 Final rule
-
-	III.E.0.0 Government Entities: Incorrect Cross-Reference
-
-		III.E.1.0 Description of the Issue
-
-		III.E.2.0 Commenters’ views
-
-		III.E.3.0 Interpretive Guidance
-
-	III.F.0.0 Qualification as an ECP with respect to swaps used to hedge or mitigate commercial risk in connection with the conduct of an entity’s business
-
-		III.F.1.0 Proposing Release
-
-		III.F.2.0 Commenters’ views
-
-		III.F.3.0 Final rules and interpretation
-
-	III.G.0.0 ECP Status for Forex Pools Operated by Registered CPOs or CPOs Exempt from Registration under Certain Conditions
-
-		III.G.1.0 Description of the Issue and Commenters’ Views
-
-		III.G.2.0 Final Rule
-
-IV.0.0.0 Definitions of “Major Swap Participant” and “Major Security-Based Swap Participant”
-
-	IV.A.0.0 “Major” Categories of Swaps and Security-Based Swaps
-
-		IV.A.1.0 Proposed approach
-
-		IV.A.2.0 Commenters’ views
-
-		IV.A.3.0 Final rules
-
-	IV.B.0.0 “Substantial Position”
-
-		IV.B.1.0 Proposed approach
-
-		IV.B.2.0 Commenters’ views
-
-			IV.B.2.a Basis for regulating major participants and alternative approaches for identifying “substantial positions”
-
-			IV.B.2.b Levels of proposed “substantial position” thresholds
-
-			IV.B.2.c Current uncollateralized exposure test
-
-			IV.B.2.d Potential future exposure test
-
-			IV.B.2.e Cost concerns
-
-			IV.B.2.f Additional issues
-
-		IV.B.3.0 Final rules
-
-			IV.B.3.a Guiding principles
-
-			IV.B.3.b Current uncollateralized exposure test
-
-			IV.B.3.c Potential future exposure analysis
-
-			IV.B.3.d Thresholds
-
-			IV.B.3.e Additional issues
-
-	IV.C.0.0 “Hedging or Mitigating Commercial Risk”
-
-		IV.C.1.0 Proposed approach
-
-			IV.C.1.a General availability of the proposed exclusion
-
-			IV.C.1.b Proposed definition under the CEA exception
-
-			IV.C.1.c Proposed definition under the Exchange Act exception
-
-		IV.C.2.0 Commenters’ views
-
-			IV.C.2.a In general
-
-			IV.C.2.b Availability of exclusion to financial entities
-
-			IV.C.2.c Hedging risks of affiliates and third parties
-
-			IV.C.2.d Hedge effectiveness and documentation
-
-			IV.C.2.e Swaps that hedge positions held for speculative, investment or trading purposes Many commenters took the view that swaps or security-based swaps used to hedge
-
-		IV.C.3.0 Final rules – general availability of the exclusions
-
-			IV.C.3.a Availability to financial entities
-
-			IV.C.3.b Availability to non-profit and governmental entities
-
-			IV.C.3.c Hedges of “financial” or “balance sheet” risks
-
-			IV.C.3.d Hedging on behalf of an affiliate
-
-		IV.C.4.0 Final rules – “major swap participant” definition under the CEA
-
-			IV.C.4.a In general
-
-			IV.C.4.b Swaps that hedge positions held for speculation, investment, or trading
-
-			IV.C.4.c “Economically appropriate” standard
-
-		IV.C.5.0 Final rules – “major security-based swap participant” definition under the Exchange Act
-
-			IV.C.5.a “Economically appropriate” standard
-
-			IV.C.5.b Treatment of speculative or trading positions
-
-			IV.C.5.c Treatment of positions that hedge other swap or security-based swap positions
-
-			IV.C.5.d Procedural conditions
-
-	IV.D.0.0 Exclusion for Positions Held by Certain Plans Defined Under ERISA
-
-		IV.D.1.0 Proposed approach
-
-		IV.D.2.0 Commenters’ views
-
-		IV.D.3.0 Final rules
-
-			IV.D.3.a Types of excluded hedging activities
-
-			IV.D.3.b Availability of exclusion
-
-	IV.E.0.0 “Substantial Counterparty Exposure”
-
-		IV.E.1.0 Proposed approach
-
-		IV.E.2.0 Commenters’ views
-
-			IV.E.2.a General comments
-
-			IV.E.2.b Lack of exclusion for hedging positions
-
-		IV.E.3.0 Final rules
-
-	IV.F.0.0 “Highly Leveraged” and “Financial Entity”
-
-		IV.F.1.0 Proposed approach
-
-			IV.F.1.a “Financial entity”
-
-			IV.F.1.b “Highly leveraged”
-
-		IV.F.2.0 Commenters’ views
-
-			IV.F.2.a “Financial entity”
-
-			IV.F.2.b “Highly leveraged”
-
-		IV.F.3.0 Final rules
-
-			IV.F.3.a “Financial entity”
-
-			IV.F.3.b “Highly leveraged”
-
-	IV.G.0.0 Application to Inter-Affiliate Swaps and Security-Based Swaps
-
-		IV.G.1.0 Proposed approach and commenters’ views
-
-		IV.G.2.0 Final rule
-
-	IV.H.0.0 Application to Positions of Affiliated Entities and to Guarantees
-
-		IV.H.1.0 Proposed approach
-
-		IV.H.2.0 Commenters’ views
-
-		IV.H.3.0 Final interpretation
-
-I.0.0.0 Application to Managed Accounts
-
-		I.H.1.0 Proposed approach
-
-		I.H.2.0 Commenters’ views
-
-		I.H.3.0 Final interpretation
-
-	I.J.0.0 Requests for Exclusion of Certain Entities from the Major Participant Definitions
-
-		I.J.1.0 Proposed approach
-
-		I.J.2.0 Commenters’ views
-
-		I.J.3.0 Final rules
-
-			I.J.3.a Entities that maintain legacy portfolios
-
-			I.J.3.b Other domestic entities
-
-			I.J.3.c Foreign entities
-
-	I.K.0.0 Financing Subsidiary Exclusion from Major Swap Participant Definition
-
-		I.K.1.0 Proposal
-
-		I.K.2.0 Commenters’ views
-
-		I.K.3.0 Final rules
-
-	I.L.0.0 Implementation Standard, Re-evaluation Period and Minimum Period of Status
-
-		I.L.1.0 Proposed approach
-
-		I.L.2.0 Commenters’ views
-
-		I.L.3.0 Final rules
-
-			I.L.3.a Timing
-
-			I.L.3.b Re-evaluation period
-
-			I.L.3.c Minimum period of status
-
-	I.M.0.0 Calculation safe harbor
-
-		I.M.1.0 Proposed approach and commenters’ views
-
-		I.M.2.0 Final rule
-
-	I.N.0.0 Limited Designation as a Major Swap Participant or Major Security-Based Swap Participant
-
-		I.N.1.0 Proposed approach
-
-		I.N.2.0 Commenters’ views
-
-		I.N.3.0 Final rules and general principles applicable to limited major participant designations Consistent with the proposal, the final rules retain the presumption that a person that
-
-V.0.0.0 Commission Staff Reports
-
-	V.A.0.0 Objectives of the CFTC Staff Report
-
-	V.B.0.0 Objectives of the SEC Staff Report
-
-	V.C.0.0 Descriptive Analytics in the SEC Report
-
-	V.D.0.0 Additional Analyses in the SEC Staff Report
-
-VI.0.0.0 Effective Date and Implementation
-
-	VI.A.0.0 CEA Rules
-
-	VI.B.0.0 Exchange Act Rules
-
-VII.0.0.0 Administrative Law Matters – CEA Revisions (Definitions of “Swap Dealer” and “Major Swap Participant, ” and Amendments to Definition of “Eligible Contract Participant”)
-
-	VII.A.0.0 Regulatory Flexibility Act
-
-	VII.B.0.0 Paperwork Reduction Act
-
-	VII.C.0.0 Cost Benefit Considerations
-
-		VII.C.1.0 Introduction
-
-		VII.C.2.0 General cost and benefit considerations
-
-		VII.C.3.0 Comments on the discussion of costs and benefits in the Proposing Release
-
-		VII.C.4.0 Costs and benefits of the rules further defining “swap dealer”
-
-			VII.C.4.a Indicia of holding oneself out as a dealer in swaps or being commonly known in the trade as a dealer in swaps
-
-			VII.C.4.b Making a market in swaps
-
-			VII.C.4.c Regularly entering into swaps with counterparties as an ordinary course of business The final rule incorporates the statutory provisions that the term swap dealer includes a
-
-			VII.C.4.d The dealer-trader distinction
-
-			VII.C.4.e Limited designation as a swap dealer
-
-			VII.C.4.f De minimis exception
-
-			VII.C.4.g Exclusion of swaps entered into by IDIs in connection with the origination of loans
-
-			VII.C.4.h Inter-Affiliate Swaps
-
-			VII.C.4.i Exclusions of swaps entered into for hedging physical positions
-
-			VII.C.4.j Exclusions of certain swaps entered into by floor traders
-
-			VII.C.4.k Exclusions for particular types of entities
-
-			VII.C.4.l Other comments on the rule further defining the term “swap dealer”
-
-			VII.C.4.m Costs of applying the rules further defining the term “swap dealer”
-
-		VII.C.5.0 Costs and benefits of the rules further defining “major swap participant”
-
-			VII.C.5.a Background
-
-			VII.C.5.b Costs of applying the rules further defining the term “major swap participant”
-
-			VII.C.5.c Major swap participant thresholds
-
-			VII.C.5.d Difficulty in applying the major swap participant calculations
-
-			VII.C.5.e Exclusions for particular types of entities
-
-			VII.C.5.f CEA Section 15(a) Discussion
-
-		VII.C.6.0 Costs and benefits of the rules relating to the definition of “eligible contract participant”
-
-			VII.C.6.a Background
-
-			VII.C.6.b Summary of comments
-
-			VII.C.6.c Response to comments and consideration of costs and benefits in the final rule
-
-			VII.C.6.d CEA Section 15(a) Discussion
-
-VIII.0.0.0 Administrative Law Matters – Exchange Act Revisions (Definitions of “Security- Based Swap Dealer” and “Major Security-Based Swap Participant”)
-
-		VIII.C.1.0 Overview
-
-		VIII.C.2.0 Programmatic costs and benefits associated with these definitions’ scope
-
-			VIII.C.2.a Programmatic costs
-
-			VIII.C.2.b Programmatic benefits
-
-			VIII.C.2.c The relation between these rules and the programmatic costs and benefits
-
-			VIII.C.2.d Analysis of the effect of specific rules on programmatic costs and benefits
-
-	VIII.A.0.0 Dealer definition
-
-	VIII.B.0.0 De minimis exception to the dealer definition
-
-	VIII.C.0.0 “Substantial position” and “substantial counterparty exposure” definitions
-
-	VIII.A.0.0 Limited purpose dealer and major participant designations
-
-	VIII.B.0.0 Inter-affiliate exclusions from dealer and major participant definitions
-
-	VIII.C.0.0 Commercial risk hedging exclusion
-
-	VIII.D.0.0 “Financial entity” definition
-
-	VIII.E.0.0 “Highly leveraged” definition
-
-	VIII.F.0.0 “Major” categories of security-based swaps
-
-	VIII.G.0.0 Registration period
-
-	VIII.H.0.0 Calculation safe harbor
-
-	VIII.I.0.0 Interpretation related to guarantees
-
-	VIII.J.0.0 Other interpretations
-
-		VIII.J.3.0 Analysis of Assessment Costs
-
-			VIII.J.3.a Assessment costs associated with the “security-based swap dealer” definition
-
-	VIII.A.0.0 Overview
-
-	VIII.B.0.0 Assessment costs associated with the final rules and interpretations
-
-	VIII.A.0.0 Limited designation of dealers
-
-	VIII.B.0.0 Exclusion of inter-affiliate security-based swaps
-
-	VIII.C.0.0 Timing issues connected to the de minimis exception
-
-			VIII.C.3.b Assessment costs associated with the “major security-based swap participant” definition
-
-	VIII.A.0.0 Overview of “substantial position” and “substantial counterparty exposure” definitions Exchange Act rule 3a67-3 defines the term “substantial position” for purposes of the first
-
-	VIII.B.0.0 Assessment costs associated with the final rules defining “substantial position” and “substantial counterparty exposure”
-
-	VIII.A.0.0 “Major” categories of security-based swaps
-
-	VIII.B.0.0 Definition of “hedging or mitigating commercial risk”
-
-	VIII.C.0.0 Definitions of “financial entity” and “highly leveraged”
-
-	VIII.D.0.0 Limited designations of major participants
-
-	VIII.E.0.0 Exclusion of inter-affiliate security-based swaps
-
-	VIII.F.0.0 Timing requirements, reevaluation period and termination of status
-
-			VIII.F.3.a Competitive impacts
-
-			VIII.F.3.b Efficiency and capital formation
-
-	VIII.A.0.0 Paperwork Reduction Act Analysis
-
-	VIII.B.0.0 Regulatory Flexibility Act Certification
-
-IX.0.0.0 Statutory Basis and Text of the Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 COMMODITY FUTURES TRADING COMMISSION 17 CFR PART <sup>1</sup>
 
 RIN 3038-AD06
@@ -1084,7 +506,7 @@ It also is necessary to use the dealer-trader distinction to interpret the secur
 
 As a whole, the relevant statutory provisions suggest that we should apply the dealer-trader distinction to interpret the security-based swap dealer definition in a way that identifies those persons for which regulation is warranted either: (i) due to the nature of their interactions withcounterparties ; <sup>260</sup> or (ii) to promote market stability and transparency, in light of the role those persons occupy within the security-based swap markets. <sup>261</sup>
 
-<h>b. Principles for applying the dealer-trader distinction to security-based swap activity In light of the statutory security-based swap dealer definition, statutory provisions applicable to security-based swap dealers and market characteristics addressed above, the</h>
+<h>b. Principles for applying the dealer-trader distinction to security-based swap activity</h> In light of the statutory security-based swap dealer definition, statutory provisions applicable to security-based swap dealers and market characteristics addressed above, the
 
 Commissions believe that the factors set forth below are relevant for identifying security-based swap dealers and for distinguishing those dealers from other market participants. This guidance seeks to address commenter requests that we further clarify the scope of the security-based swap dealer definition, and the Commissions believe that these factors provide appropriate guidance without being inflexible or allowing the opportunity for evasion that may accompany a bright- line test. At the same time, the determination of whether a person is acting as a security-based swap dealer ultimately depends on the relevant facts and circumstances. In light of the overallcontext in which a person’s activity occurs, the absence of one or more of these factors does not necessitate the conclusion that a person is not a security-based swap dealer. <sup>262</sup>
 
@@ -1142,7 +564,9 @@ The statutory definition of the term “swap dealer” excludes an insured depos
 
 This exclusion does not appear in the definition of theterm “security-based swap dealer.”
 
-Proposed CFTC Regulation § 1.3(ggg)(5) would implement this statutory exclusion by providing that an IDI’s swaps with a customer in connection with originating a loan to that customer are disregarded in determining if the IDI is a swap dealer. In order to prevent evasion, the proposed rule further provided that the statutory exclusion does not apply where the purpose of the swap is not linked to the financial terms of the loan; the IDI enters into a “sham” loan; or the purported “loan” is actually a synthetic loan such as a loan credit default swap or loan total return swap.1.	Commenters’ views
+Proposed CFTC Regulation § 1.3(ggg)(5) would implement this statutory exclusion by providing that an IDI’s swaps with a customer in connection with originating a loan to that customer are disregarded in determining if the IDI is a swap dealer. In order to prevent evasion, the proposed rule further provided that the statutory exclusion does not apply where the purpose of the swap is not linked to the financial terms of the loan; the IDI enters into a “sham” loan; or the purported “loan” is actually a synthetic loan such as a loan credit default swap or loan total return swap.1.	
+
+<h>2. Commenters’ views</h>
 
 Nearly all the commenters on this issue were IDIs seeking a broad i n terpretation of the exclusion. The commenters addressed four primary issues: (i) the type of swaps that should be covered by the exclusion; (ii) the time period during which parties would be required to enter into the swap in order for the swap to be considered to be “in connection with originating a
 
@@ -1166,7 +590,9 @@ Some commenters said that other types of transactions also should be treated as 
 
 Fourth, with respect to the types of financial institutions that are eligible for the loan origination exclusion, three commenters said that IDIs, for purposes of this exclusion, encompass more than banks or savings associations with federally-insured deposits. The Farm Credit Council said the exclusion should be extended to Farm Credit System institutions because one of these institutions enters into interest rate swaps with borrowing customers identical in function tothose offered by commercial banks and savings associations in connection with loans, and the institutions are subject to similar regulatory requirements and covered by a similar insurance regim e . <sup>314</sup> Another commenter said that the exclusion should be extended to other regulated financial institutions, such as insurers, so as not to create an unlevel playing field. <sup>315</sup> And the Federal Home Loan Banks said that the exclusion should be available to them because they are subject to similar regulatory oversight and capital standards and engage in a similar function of extending credit as do commercial banks and savings associations. <sup>316</sup> In addition, some commenters said the exclusion should be broadly construed as a general matter, to encourage competition in the swap market between smaller and larger banks and to increase borrowers’ choice among potential swap providers . <sup>317</sup>
 
-Two commenters asked for clarification of the following technical points in the proposed rule: (i) whether a swap would be covered by the exclusion even if it does not hedge all the risks under the loan, (ii) whether a swap that is within the exclusion could continue to be treated as covered by the exclusion by an IDI if the IDI transfers the loan, and (iii) whether an IDI shouldcount swaps covered by the exclusion in determining if its dealing activity is above the de minimis thresholds. <sup>318</sup> Another commenter asked whether an IDI with swaps that are covered by the exclusion could be a swap dealer based on other dealing activity. <sup>319</sup> And others asked whether the exclusion would cover swaps used by an IDI to hedge its risks arising from a loan ( i.e. , a swap which the IDI enters into with a party other than the loan borrower). <sup>320</sup>3.	Final rule
+Two commenters asked for clarification of the following technical points in the proposed rule: (i) whether a swap would be covered by the exclusion even if it does not hedge all the risks under the loan, (ii) whether a swap that is within the exclusion could continue to be treated as covered by the exclusion by an IDI if the IDI transfers the loan, and (iii) whether an IDI shouldcount swaps covered by the exclusion in determining if its dealing activity is above the de minimis thresholds. <sup>318</sup> Another commenter asked whether an IDI with swaps that are covered by the exclusion could be a swap dealer based on other dealing activity. <sup>319</sup> And others asked whether the exclusion would cover swaps used by an IDI to hedge its risks arising from a loan ( i.e. , a swap which the IDI enters into with a party other than the loan borrower). <sup>320</sup>3.
+
+<h>3. Final rule</h>
 
 The CFTC believes t h at the extent of this exclusion should be determined by the language of the statutory definition, which relates to an IDI that “offers to enter into a swap with a customer in connection with originating a loan with that customer.” The expansive interpretation of the exclusion advanced by some commenters, however, would read the statute to exclude almost any swap that an IDI enters into with a loan customer. That is not the exclusion that was enacted. Instead, we interpret the statutory phrase “enter into a swap with a customer in connection with originating a loan with that customer” to mean that the swap is directly connected to the IDI’s process of originating the loan to the customer.
 
@@ -1200,7 +626,7 @@ It provides that theexclusion may be claimed by a person that meets the followin
 
 An IDI that enters into swaps that do not meet these conditions, and thus do not qualify for the statutory exclusion, is not necessarily required to register as a swap dealer. Rather, the IDI would apply the statutory definition and the provisions of the rule (taking into account the applicable interpretive guidance set forth in this Adopting Release), solely with respect to its swaps that are not subject to the IDI exclusion, in order to determine whether it is engaged in swap dealing activity that exceeds the de minimis threshold.
 
-<h>C. Application of Dealer Definitions to Legal Persons and to Inter-Affiliate Swaps and Security-Based Swaps</h>
+C. Application of Dealer Definitions to Legal Persons and to Inter-Affiliate Swaps and Security-Based Swaps
 
 <h>1. Proposed approach and commenters’ views</h>
 
@@ -3106,7 +2532,7 @@ One commenter recommended that persons that exceed the first major participant t
 
 Another suggested a similar approach when a major participant’s swaps areconcentrated in one major category. <sup>1222</sup> Two commenters suggested that limited major participant designations should not be confined to the proposed major swap categories. <sup>1223</sup>
 
-<h>3. Final rules and general principles applicable to limited major participant designations Consistent with the proposal, the final rules retain the presumption that a person thatmeets one of the major participant definitions will be deemed to be a major participant in connection with all categories of swaps or security-based swaps. <sup>1224</sup> As discussed in the Proposing Release, a person may apply for a limited designation when it submits a registrationapplication, or later. <sup>1225</sup></h>
+<h>3. Final rules and general principles applicable to limited major participant designations</h> Consistent with the proposal, the final rules retain the presumption that a person thatmeets one of the major participant definitions will be deemed to be a major participant in connection with all categories of swaps or security-based swaps. <sup>1224</sup> As discussed in the Proposing Release, a person may apply for a limited designation when it submits a registrationapplication, or later. <sup>1225</sup>
 
 The final rules also contain one change from the proposal, in that theprovisions of the final rules related to limited major participant designation do not refer to the major participant’s activities in connection with swaps or security-based swaps, in contrast to the proposal, because the relevant statutory provisions do not refer to limited designations related to activities.
 
@@ -3834,7 +3260,7 @@ Core rules that implicate programmatic costs and benefits
 
 The core definitional terms with respect to establishing the scope of the dealer and major participant definitions are those relating to: (i) the core dealer definition, (ii) the dealer deminimis exception, and (iii) the definitions of “substantial position” and “substantial counterparty exposure” within the major participant definition.
 
-<h>A. Dealer definition</h>
+A. Dealer definition
 
 Exchange Act rule 3a71-1 defines “security-based swap dealer” and thus plays a central role in determining the scope of the Title VII regulatory regime going forward. Based on the available data regarding activity in the market for single-name credit default swaps, including the application of various criteria that may be indicative of dealing activity in that market, and taking into account the availability of the de minimis exception to the dealer definition, we estimate that 50 or fewer entities ultimately may have to register with the SEC as security-based swap dealer s . <sup>1457</sup> This is consistent with the estimate that accompanied the proposal. <sup>1458</sup>
 
@@ -3850,7 +3276,7 @@ Commenters did not contradict this estimate. To the extent that the actual numbe
 
 In adopting the final rules and providing interpretive guidance that adapts our traditional dealer-trader analysis for the security-based swap market, we have sought to capture those entities whose security-based swap activity is warranted due to the nature of their interactions with counterparties, or is warranted to promote market stability and transparency. In this respect, we have sought to limit the costs imposed by regulation under Title VII to those entities whose regulation would serve the transparency, customer protection, and market stability purposes of the statute while not imposing those costs on entities whose regulation may not produce sufficient benefit in terms of those purposes. The core dealer analysis that we have adopted here focuses on activity that characterizes dealers, as the statutory text requires, and does so while drawing on a well-established approach used in an analogous securities dealer context by a wide range of financial intermediaries. <sup>1460</sup>
 
-<h>B. De minimis exception to the dealer definition</h>
+B. De minimis exception to the dealer definition
 
 Exchange Act rule 3a71-2 implements the de minimis exception to the dealer definition. This rule will directly affect the scope of the dealer definition by excepting certain entities that otherwise would be encompassed by the dealer definition but whose security-based swap dealing activities fall below a specified notional threshold. As above, we believe that the application of the final rule implementing the de minimis exception, in combination with application of thedealer-trader distinction, reasonably may be expected to result in 50 or fewer entities ultimately registering with the SEC as security-based swap dealers. <sup>1461</sup>
 
@@ -3868,7 +3294,7 @@ The final rule implementing the de minimis exception also sets forth a lower not
 
 The final rule implementing the de minimis exception further provides that security- based swap activities of affiliates under common control with an entity should be considered when determining whether the entity can avail itself of the de minimis exception. That is intended to avoid evasion of the dealer registration requirement; thus, while a contrary approachmight be expected to reduce the number of registered dealers, such an approach would not be consistent with the purposes of Title VII. <sup>1470</sup>
 
-<h>C. “Substantial position” and “substantial counterparty exposure” definitions</h>
+C. “Substantial position” and “substantial counterparty exposure” definitions
 
 Exchange Act rules 3a67-3 and 3a67-5 define “substantial position” and “substantial counterparty exposure,” which constitute key terms within the major participant definition. The rules defining these thresholds – including the use of current exposure and potential future exposure tests, the specific features of those tests, and the thresholds associated with those tests <sup>1471</sup> – can be expected to directly influence the overall number of persons who may fall with the major participant definition.
 
@@ -3886,7 +3312,7 @@ By potentially capturing more or fewer major participants, such alternatives wou
 
 Rules that may be expected to have a lesser effect on programmatic costs and benefits Several of the final rules may be expected to have relatively smaller effects on the scopeof the major participant and dealer definitions because they are likely to affect relatively fewer entities. By extension, they will also have a smaller effect on the programmatic costs and benefits arising from these definitions.
 
-<h>A. Limited purpose dealer and major participant designations</h>
+A. Limited purpose dealer and major participant designations
 
 Exchange Act rules 3a67-1 and 3a71-1 retain the presumption that a person that is encompassed within the major participant or dealer definitions will be deemed to be a dealer or major participant with respect to all of its security-based swap activities or positions, unless the SEC exercises its authority to limit the person’s designation as a dealer to specified categories of swaps or security-based swaps, or to specified activities. This presumption may affect programmatic costs in at least two ways.
 
@@ -3900,7 +3326,7 @@ Notwithstanding these effects, we believe that the presumption against limited p
 
 We note that the available data does not indicate how many, or which, entities may have business models that conceivably could make limited purposed designations appropriate ( e.g. , large positions in one major category of security-based swaps accompanied by minor positions in the other). <sup>1485</sup>
 
-<h>B. Inter-affiliate exclusions from dealer and major participant definitions</h>
+B. Inter-affiliate exclusions from dealer and major participant definitions
 
 Exchange Act rules 3a67-3 and 3a71-1 respectively exclude inter-affiliate security-based swaps from the calculation of substantial position and substantial counterparty position thresholds under the major participant definition, and from the de minimis calculation under the dealer definition. The inter-affiliate exclusion from the major participant and dealer definitions has the potential to affect the scope of these definitions for those entities that engage in inter- affiliate transactions by leading some entities not to meet the major participant or dealer deminimis thresholds when they otherwise would have met those thresholds (or by allowing certain centralized hedging facilities to look only at their market-facing activities in conducting the dealer-trader analysis). The exclusion or inclusion of certain inter-affiliate transactions thus may have some impact on the programmatic costs and benefits associated with dealer and major participant regulation.
 
@@ -3910,7 +3336,7 @@ Some commenters suggested lower levels of control (such as common control)that m
 
 We also note that the data upon which the staff assessment of credit default swap transactions and positions is based excludes certain inter-affiliate credit default swap transactions. As a result, estimates of market concentration and the distribution of dealing activity or credit default swap positions derived from this data should reflect to some extent the effect of the inter-affiliate exclusions we are adopting in this rule.
 
-<h>C. Commercial risk hedging exclusion</h>
+C. Commercial risk hedging exclusion
 
 Exchange Act rule 3a67-4 defines “hedging or mitigating commercial risk” as that term is used in the major participant definition. The scope of this definition has the potential to determine whether certain market participants will be major participants by virtue of the first statutory major participant test, and will therefore affect the scope of the programmatic costs and benefits associated with major participant regulation. In application, this effect may be limited in light of the fact that we estimate that, as discussed above, only five or fewer entities – perhaps as few as zero – may have to register as major security-based swap participants.
 
@@ -3918,13 +3344,13 @@ The final rule adopts an “economically appropriate” standard for determining
 
 We also concluded that broadening the exclusion as somecommenters suggested could largely exclude security-based swap positions from the first major participant test. This would produce a result that we believe to be contrary to the purposes of that part of the statutory definition, which envisions that entities might be required to register as major participants by virtue of their security-based swap positions.
 
-<h>D. “Financial entity” definition</h>
+D. “Financial entity” definition
 
 Exchange Act rule 3a67-6 defines “financial entity” for purposes of the third test of the major participant definition, which applies to certain highly leveraged non-bank financial entities and does not prevent them from excluding commercial risk hedging positions when conducting the substantial position analysis (in contrast to the first test within the major participant definition, which permits exclusion of those hedging positions).
 
 Although the scope of the financial entity definition has the potential to affect the number of persons who are captured by the third test of the statutory major participant definition (and thus, by extension, the programmatic costs and benefits associated with major participantregulation), we believe that as a practical matter such an effect would be minimal. This is based on our view that persons that have security-based swap positions large enough and risky enough to potentially lead to major participant status to be financial in nature and thus would likely fall within any reasonable interpretation of the term “financial entity,” <sup>1488</sup> thus making such entities potentially subject to the third major participant test (to the extent that such entities are subject to bank capital requirements).
 
-<h>E. “Highly leveraged” definition</h>
+E. “Highly leveraged” definition
 
 Exchange Act rule 3a67-7 defines “highly leveraged” for purposes of the third prong of the major participant definition, which applies to certain non-banks as described above. In adopting the final rule, we have considered alternative approaches suggested by commenters. For example, a number of commenters favored the use of a 15 to 1 leverage ratio, which may be expected to reduce the number of persons who are deemed to be “highly leveraged” and thus subject to the third test. Conversely, some commenters favored a ratio that is lower than the one found in the final rule, which may be expected to increase the number of entities deemed to be highly leveraged. <sup>1489</sup>
 
@@ -3932,7 +3358,7 @@ The final rule defines “highly leveraged” as a leverage ratio of 12 to 1 or 
 
 As with the financial entity definition in rule 3a67-6, as a practical matter we do not believe that expanding or narrowing the leverage ratio within any reasonable definition of “highly leveraged” for purposes of the third major participant test will have a significant impact on the programmatic costs and benefits of major participant regulation. In part, this is because we believe that in many circumstances the sales of credit protection cannot reasonably be interpreted to constitute the hedging of commercial risk, <sup>1491</sup> meaning that such positions in any event may be expected to be considered as part of the analysis of the first major participant test. The programmatic impact of this definition further is mitigated by the fact that we believe that there will be relatively few entities whose security-based swap positions would cause them to be major participants.
 
-<h>F. “Major” categories of security-based swaps</h>
+F. “Major” categories of security-based swaps
 
 Exchange Act rule 3a67-2 defines “major” categories of security-based swaps, a term that plays a role in the two statutory major participant tests that turn upon the presence of a substantial position in a “major” category of security-based swaps. The final rule retains the proposal’s division of those instruments into debt-based and other categories. As discussed above, these major categories are broadly consistent with market usage and statistics, and webelieve that it is reasonable for entities undertaking this analysis to use these categories in calculating whether they have a substantial position. <sup>1492</sup>
 
@@ -3942,17 +3368,17 @@ The relationship between the major security-based swapcategories as we have defi
 
 The available data suggests that the debt-based major category ( i.e. , credit default swaps) accounts for the vast majority of security-based swap positions. <sup>1494</sup> Absent an approach that breaks single-name credit default swaps in to multiple “major” categories – which itself would not appear to be justified based on current information – this suggests that this categorization as a practical matter will not have a significant effect on the programmatic costs and benefits of major participant regulation. <sup>1495</sup>
 
-<h>G. Registration period</h>
+G. Registration period
 
 Exchange Act rules 3a67-8 and 3a71-2 establish periods for registration as a dealer and major participant, as well as periods for revaluating or terminating one’s status as a registered entity. As such, these provisions may affect the length of time that particular entities may be deemed to be major participants or dealers, and hence subject to the requirements applicable to those entities. However, any effect of delaying or accelerating dealer or major participant status on the programmatic costs and benefits associated with major participant or dealer status likely will be negligible compared to the overall programmatic costs and benefits associated with major participant or dealer regulation.
 
-<h>H. Calculation safe harbor</h>
+H. Calculation safe harbor
 
 Exchange Act rule 3a67-9 establishes a calculation safe harbor for the major participant threshold tests. We do not believe that this safe harbor changes the scope of the major participant definition, as it should not exclude from the major participant definition any entity that would otherwise fall within the definition if that entity performed the substantial positioncalculations. <sup>1496</sup>
 
 Accordingly, we do not believe that the safe harbor would have a materialeffect on the programmatic costs and benefits associated with major participant regulation.
 
-<h>I. Interpretation related to guaranteesmajor categories and that the subtraction of narrow-based index CDS exposures in the calculation of substantial exposure would, given their relatively small market volume, have little effect on whether most entities meet the substantial exposure threshold. Thus, we believe that the decision to classify all debt- based security-based swaps in a single category will likely have minimal effect, if any, on any entity’s status as a major participant, as compared to dividing debt-based security-based swaps into two categories.</h>
+I. Interpretation related to guaranteesmajor categories and that the subtraction of narrow-based index CDS exposures in the calculation of substantial exposure would, given their relatively small market volume, have little effect on whether most entities meet the substantial exposure threshold. Thus, we believe that the decision to classify all debt- based security-based swaps in a single category will likely have minimal effect, if any, on any entity’s status as a major participant, as compared to dividing debt-based security-based swaps into two categories.
 
 In adopting these final rules, we also have finalized an interpretation regarding when a person will have security-based swap positions attributed to it by virtue of having guaranteed the positions of another party. In general, we have clarified that an entity’s security-based swap positions need not be attributed to its parent unless the counterparty has recourse to the parent.
 
@@ -3962,7 +3388,7 @@ We recognize that attributing security-based swap positions to the entity guaran
 
 We do not currently possess data relating to the existence of guarantees of the security- based swap positions of other parties and thus cannot reasonably estimate the number of additional entities that may be brought within the ambit of major participant regulation by virtue of this interpretation. However, we note that, to the extent that guarantees of another entity’s security-based swap positions creates the level of exposure—and corresponding risk to the market and to counterparties—that warrants regulation under Title VII, it would appearinconsistent with the purposes of the statute not to subject that entity to major participant regulation.
 
-<h>J. Other interpretations</h>
+J. Other interpretations
 
 Finally, in this release we also have provided a number of additional interpretations and discussions in connection with the dealer and major participant definitions. These include, among others: the rejection of requests for entity-specific exclusions from the dealer and major participant definitions; <sup>1498</sup> interpretations regarding the application of the ERISA exclusion from the first major participant test, <sup>1499</sup> and interpretations regarding the application of the major participant analysis to managed accounts. <sup>1500</sup> In theory, each of these interpretations potentiallyhas a programmatic impact. <sup>1501</sup>
 
@@ -3978,7 +3404,7 @@ As detailed below, we have considered these assessment costs in adoptingdefiniti
 
 Core dealer analysis and de minimis exception
 
-<h>A. Overview</h>
+A. Overview
 
 Exchange Act rule 3a71-1 in part restates the s tatutory definition of “security-based swap dealer” to consolidate the definition and related interpretations for market participants’ ease of reference. In conjunction with these final rules the SEC has set forth interpretations to provide additional guidance to implement the statutory approach of capturing persons that engage in certain security-based swap activities while excluding persons that do not engage in thoseactivities as part of a “regular business.” <sup>1503</sup>
 
@@ -3988,7 +3414,7 @@ Exchange Act rule 3a71-2 specifies when a person that otherwise would be a secur
 
 In application, the assessment costs associated with the core dealer test and de minimisexception are linked.
 
-<h>B. Assessment costs associated with the final rules and interpretations</h>
+B. Assessment costs associated with the final rules and interpretations
 
 We recognize that certain participants in the security-based swap market may incur costs in connection with the facts-and-circumstances analysis of whether they are security-based swap
 
@@ -4022,13 +3448,13 @@ For the reasons discussed above we believe that the approach we are adopting in 
 
 Additional issues related to the d ealer analysis
 
-<h>A. Limited designation of dealers</h>
+A. Limited designation of dealers
 
 Exchange Act rule 3a71-1(c) implements the portion of the “security-based swap dealer” definition that provides for limited purpose registration of dealers. The rule provides for a presumption that a person that acts as a security-based swap dealer is a dealer with regard to all of its security-based swaps or security-based swap activities, unless the SEC limits its designation. While we recognize that permitting persons to more broadly take advantage of limited dealer designations potentially would lower the cumulative costs that individual dealers otherwise would incur to determine whether to seek a limited designation, <sup>1516</sup> after carefulconsideration of commenter concerns we have determined that it is appropriate to adopt a presumption against limited designation. <sup>1517</sup>
 
 Certain persons who satisfy the dealer definition may incur costs in determining whether to seek a limited designation. We believe that such costs would affect no more than the 166 entities that potentially may be expected to engage in the dealer analysis, <sup>1518</sup> and expect these costs to be included in the estimated costs of seeking outside legal counsel described above.
 
-<h>B. Exclusion of inter-affiliate security-based swaps</h>
+B. Exclusion of inter-affiliate security-based swaps
 
 Exchange Act rule 3a71-1 also provides that security-based swaps between majority- owned affiliates will be excluded for purposes of the dealer analysis. After consideration of commenter views, we are adopting this standard, rather than potential alternatives such as a common control test, because we believe that it is appropriate, in light of the goals of Title VII, that the dealer definition not capture entities by virtue of security-based swap transactions with affiliated entities that have a sufficient alignment of economic interests to avoid raising systemic
 
@@ -4038,7 +3464,7 @@ Moreover, we note that a majority-ownership test should, given its objective nat
 
 Some market entities may need to incur costs in connection with determining whether particular security-based swap positions may be excluded from the dealer analysis by virtue of the inter-affiliate exclusion. Such costs potentially could be incurred by any of the approximately 166 entities that we believe may engage in the dealer analysis. The costs specifically associated with that assessment may vary depending on factors including the extent to which those entities engage in inter-affiliate security-based swaps, but we expect these costs to be included in the estimated costs of seeking outside legal counsel described above.
 
-<h>C. Timing issues connected to the de minimis exception</h>
+C. Timing issues connected to the de minimis exception
 
 In response to commenter concerns, Exchange Act rule 3a71-2 specifies that an entity that no longer may rely on the de minimis exception, because its dealing activity has exceeded the exception’s thresholds, has two months to submit a completed application to register as adealer. <sup>1520</sup>
 
@@ -4110,7 +3536,7 @@ The other alternatives within the safe harbor would also entail monthly calculat
 
 A dditional issues related to the major participant analysis
 
-<h>A. “Major” categories of security-based swaps</h>
+A. “Major” categories of security-based swaps
 
 Exchange Act rule 3a67-2 sets forth two “major” categories of security-based swaps for purposes of the first and third tests of the major participant definitions – one consisting of debt- based security-based swaps and the other consisting of other security-based swaps (including equity swaps). These categories are consistent with our understanding of the ways in whichthe extent that an entity determines that performing the safe harbor analysis is more expensive, it would likely choose to perform the less-costly major participant analysis. As such, the upper bound of costs associated with the safe harbor is not likely to exceed our estimates of the costs associated with the full major participant analysis, and should in fact be considerably lower.
 
@@ -4120,7 +3546,7 @@ We note that our analysis of the safe harbor in connection with the “major sec
 
 The consistency of the rule with current market practices should help mitigate any assessment costs incurred by market participants. Moreover, we do not expect that market participants will be required to incur costs to determine the major category with respect to a large majority of their security-based swap positions, given that the vast majority of security-based swaps likely fall within the debt-based security-based swap major category. Also, in adopting the final rules we also have provided additional guidance related to the categorization of certain types of instruments in response to commenter concerns. Nonetheless, given the fact-specific nature of any such assessment, we recognize that some entities may seek the opinion of legal counsel as to how specific security-based swap transactions should be categorized for purposes of this rule (such as legal costs associated with having counsel analyze a particular security- based swap to determine its status under these rules, to the extent that certain types of security- based swaps with complex, novel or bespoke structures are not readily categorized within one of the two identified major categories). We expect that these costs would be included in the estimated costs of seeking outside legal counsel in connection with the major participant analysis, as described above. <sup>1547</sup>
 
-<h>B. Definition of “hedging or mitigating commercial risk”</h>
+B. Definition of “hedging or mitigating commercial risk”
 
 Exchange Act rule 3a67-4 defines the term “hedging or mitigating commercial risk” for purposes of the exclusion from the first major participant test. Among other aspects, this rule makes use of an “economically appropriate” standard, and sets forth exclusions for security- based swap positions that have a speculative or trading purpose.
 
@@ -4130,7 +3556,7 @@ Some market participants may be expected to incur costs in connection with deter
 
 Any suchcosts of analyzing the status of particular security-based swaps as a hedge of commercial riskto its substantial position calculations, which we discuss in further detail above. See part VIII.A.3.b.i. B , supra .would reflect the unique character of individual positions and the business purpose associated with the position. Such costs may be particularly relevant for security-based swaps of a more complex nature, or for security-based swaps that introduce some degree of basis risk in connection with the hedge. Because of the facts-and-circumstances nature of this analysis, <sup>1551</sup> we believe that some entities may seek the opinion of legal counsel as to whether certain transactions qualify for the commercial hedging exclusion at the time they conduct their initial analysis, and these costs would likely be encompassed within the estimated costs of legal services related to the major participant definition. <sup>1552</sup>
 
-<h>C. Definitions of “financial entity” and “highly leveraged”</h>
+C. Definitions of “financial entity” and “highly leveraged”
 
 Exchange Act rule 3a67-6 defines the term “financial entity” for purposes of the third major participant test. This definition is largely consistent with the statutory “financial entity” definition used in Title VII’s exception from mandatory clearing for commercial end-users. <sup>1553</sup> However, in response to commenter concerns, the final rules exclude centralized hedging facilities from the “financial entity” definition (in a way that itself is consistent with that Title
 
@@ -4146,7 +3572,7 @@ We recognize that the unavailability of an alternative method of calculation for
 
 We believe, however, that a uniform approach todefining “highly leveraged” is appropriate here given that the large insurance firms that are most likely to meet the major participant definition would be expected already to use GAAP in preparing their financial statements. This should mitigate any additional costs arising from the absence of an alternative calculation method for insurers.
 
-<h>D. Limited designations of major participants</h>
+D. Limited designations of major participants
 
 Exchange Act rule 3a67-1 in part implements the portion of the “major security-based swap participant” definition that provides for limited purpose registration of major participants. The rule sets forth a presumption that a person that acts as a major security-based swap participant in general will be deemed to be a major participant with regard to all of its security- based swaps, unless the SEC limits its designation.
 
@@ -4158,7 +3584,7 @@ Certain persons who satisfy the major participant definition may incur costs in 
 
 These costs could,however, vary significantly depending on the structure or other characteristics of an entity’s business.
 
-<h>E. Exclusion of inter-affiliate security-based swaps</h>
+E. Exclusion of inter-affiliate security-based swaps
 
 Exchange Act rule 3a67-3 provides that security-based swap transactions between majority-owned affiliates will be excluded for purposes of the substantial position test. <sup>1561</sup> We have concluded that majority ownership represents an alignment of interests appropriate tojustify an inter-affiliate exclusion. <sup>1562</sup>
 
@@ -4168,11 +3594,13 @@ Some market entities may incur costs in connection with determining whether part
 
 We believe that any costs arising out of such an analysis would be encompassedwithin the $30,000 estimated for legal services related to the major participant definition as a whole.
 
-<h>F. Timing requirements, reevaluation period and termination of status</h>
+F. Timing requirements, reevaluation period and termination of status
 
 Exchange Act rule 3a67-8 specifies the time at which an entity that satisfies the major participant tests would be deemed to be a “major security-based swap participant,” and also addresses the time at which an entity’s status as a major security-based swap participant would be terminated. In adopting this rule we have considered alternatives that would lead to slower entry and faster exit from major participant status, and we believe that the approach that we are adopting provides a reasonable amount of time for registration based on the proposed registration process, will appropriately help to avoid applying major participant requirements to entities that meet the major participant criteria for only a short time due to unusual activity, and will avoid the prospect of persons moving in and out of major participant status overly frequently. <sup>1564</sup>
 
-Persons falling within the major participant definitions will incur costs in connection with the registration process, <sup>1565</sup> and it is possible that alternative timing approaches could allow such persons to register at a more deliberate pace, potentially reducing the associated costs. <sup>1566</sup> Such cost differences may affect the up-to-twelve entities that we believe reasonably may have to engage in the major participant calculations. Moreover, altering the timing requirements may not significantly decrease costs associated with registration because in all cases we would expect the same preparatory actions to be taken, and we believe that the final rules provide sufficient time for entities to perform the activities necessary for compliance. <sup>1567</sup>4. Consideration of Burden on Competition, and Promotion of Efficiency, Competition and Capital Formation
+Persons falling within the major participant definitions will incur costs in connection with the registration process, <sup>1565</sup> and it is possible that alternative timing approaches could allow such persons to register at a more deliberate pace, potentially reducing the associated costs. <sup>1566</sup> Such cost differences may affect the up-to-twelve entities that we believe reasonably may have to engage in the major participant calculations. Moreover, altering the timing requirements may not significantly decrease costs associated with registration because in all cases we would expect the same preparatory actions to be taken, and we believe that the final rules provide sufficient time for entities to perform the activities necessary for compliance. <sup>1567</sup>
+
+<h>4. Consideration of Burden on Competition, and Promotion of Efficiency, Competition and Capital Formation</h>
 
 Section 3(f) of the Exchange Act requires the SEC, whenever it engages in rulemaking and is required to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action would promote efficiency, competition, and capital formation. <sup>1568</sup> In addition, section 23(a)(2) of the Exchange Act <sup>1569</sup> requires the SEC, when adopting rules under the Exchange Act, to consider the impact such rules would have on competition. Section 23(a)(2) of the Exchange Act also prohibits the SEC from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.
 

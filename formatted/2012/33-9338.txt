@@ -1,387 +1,3 @@
-https://www.sec.gov/rules/final/2012/33-9338.pdf
-
-I.0.0.0 Background
-
-II.0.0.0 Scope of Definitions of Swap and Security-Based Swap
-
-	II.A.0.0 Introduction
-
-	II.B.0.0 Rules and Interpretations Regarding Certain Transactions outside the Scope of the Definitions of the Terms “Swap” and “Security-Based Swap”
-
-		II.B.1.0 Insurance Products
-
-			II.B.1.a Types of Insurance Products
-
-	II.C.0.0 Goodrich, Jr., Managing Director—Legal Department, Deutsche Bank AG on the ANPR, dated Sept. 20, 2010 (noting that financial guaranty policies require the incurrence of loss for payment, whereas CDS do not).
-
-			II.C.1.b Providers of Insurance Products
-
-			II.C.1.c Grandfather Provision for Existing Insurance Transactions
-
-			II.C.1.d Alternative Tests
-
-			II.C.1.a “Safe Harbor”
-
-			II.C.1.b Applicability of Insurance Exclusion to Security-Based Swaps Four commenters expressed concerns that the proposed rules were unclear in their
-
-			II.C.1.c Guarantees
-
-		II.C.2.0 The Forward Contract Exclusion
-
-			II.C.2.a Forward Contracts in Nonfinancial Commodities
-
-	II.A.0.0 Consistent Interpretation
-
-	II.B.0.0 Brent Interpretation
-
-	II.C.0.0 Withdrawal of the Energy Exemption
-
-	II.D.0.0 Book-out Documentation
-
-	II.E.0.0 Minimum Contract Size and Other Contextual Factors
-
-			II.E.2.b Commodity Options and Commodity Options Embedded in Forward Contracts
-
-		II.E.1.0 may be used to adjust the forward contract price,331 but do not undermine the overall nature of the contract as a forward contract;
-
-		II.E.2.0 do not target the delivery term, so that the predominant feature of the contract is actual delivery; and
-
-		II.E.3.0 cannot be severed and marketed separately from the overall forward contract in which they are embedded.332
-
-		II.E.1.0 the embedded optionality does not undermine the overall nature of the agreement, contract, or transaction as a forward contract;
-
-		II.E.2.0 the predominant feature of the agreement, contract, or transaction is actual delivery;
-
-		II.E.3.0 the embedded optionality cannot be severed and marketed separately from the overall agreement, contract, or transaction in which it is embedded;337
-
-		II.E.4.0 the seller of a nonfinancial commodity underlying the agreement, contract, or transaction with embedded volumetric optionality intends, at the time it enters into the agreement, contract, or transaction to deliver the underlying nonfinancial commodity if the optionality is exercised;
-
-		II.E.5.0 the buyer of a nonfinancial commodity underlying the agreement, contract or transaction with embedded volumetric optionality intends, at the time it enters into the agreement, contract, or transaction, to take delivery of the underlying nonfinancial commodity if it exercises the embedded volumetric optionality;
-
-		II.E.6.0 both parties are commercial parties;338 and
-
-		II.E.7.0 the exercise or non-exercise of the embedded volumetric optionality is based primarily on physical factors,339 or regulatory requirements,340 that are outside the control of the parties and are influencing demand for, or supply of, the nonfinancial commodity.341
-
-		II.E.1.0 Are the elements set forth in the interpretation to distinguish forwards with embedded volumetric optionality from commodity options appropriate? Why or why not?
-
-		II.E.2.0 Are there additional elements that would be appropriate? Please describe and provide support for why such elements would serve to distinguish forwards with embedded volumetric optionality from commodity options.
-
-		II.E.3.0 Is the seventh element that, to ensure that an agreement, contract, or transaction with embedded volumetric optionality is a forward and not an option, the volumetric optionality is based primarily on physical factors, or regulatory requirements, that are outside the control of the parties and are influencing demand for, or supply of, the nonfinancial commodity, necessary and appropriate? Why or why not? Is the statement of this element sufficiently clear and unambiguous? If not, what adjustments would be appropriate?
-
-		II.E.4.0 Are there circumstances where volumetric optionality is based on other factors?
-
-		II.E.5.0 Does the interpretation provide sufficient guidance as to whether agreements, contracts, or transactions with embedded volumetric optionality permitting a nominal amount, or no amount, of a nonfinancial commodity to be delivered are forwards or options, viewing the agreements, contracts, or transactions as a whole, if they satisfy the seven elements of the interpretation? Why or why not? Does this interpretation encourage evasion, or do the seven elements sufficiently distinguish forwards from agreements, contracts, and transactions that may evade commodity options regulation?
-
-		II.E.6.0 Is the interpretation sufficiently clear with respect to capacity contracts, transmission (or transportation) services agreements, peaking supply contracts, or tolling agreements? Why or why not? Do capacity contracts, transmission (or transportation) services agreements, peaking supply contracts, or tolling agreements generally have features that satisfy
-
-		II.E.7.0 Do the agreements, contracts, and transactions listed in question no. 6 above have embedded optionality in the first instance? Based on descriptions by commenters, it appears that they may have a binding obligation for delivery, but have no set amount specified for delivery. Instead, delivery (including the possibility of nominal or zero delivery) is determined by the terms and conditions contained within the agreement, contract, or transaction (including, for example, the satisfaction of a condition precedent to delivery, such as a commodity price or temperature reaching a level specified in the agreement, contract, or transaction). That is, the variation in delivery is not driven by the exercise of embedded optionality by the parties. Do the agreements, contracts, and transactions listed in question no. 6 exhibit these kinds of characteristics? If so, should the CFTC consider them in some manner other than its forward interpretation? Why or why not?
-
-			II.E.7.c Security Forwards402
-
-	II.C.0.0 Final Rules and Interpretations Regarding Certain Transactions Within the Scope of the Definitions of the Terms “Swap” and “Security-Based Swap”
-
-		II.C.1.0 In General
-
-		II.C.2.0 Foreign Exchange Products
-
-			II.C.2.a Foreign Exchange Products Subject to the Secretary’s Swap Determination: Foreign Exchange Forwards and Foreign Exchange Swaps
-
-	II.A.0.0 an exchange of 2 different currencies on a specific date at a fixed rate that is agreed upon on the inception of the contract covering the exchange; and
-
-	II.B.0.0 a reverse exchange of the 2 currencies described in subparagraph (A) at a later date and at a fixed rate that is agreed upon on the inception of the contract covering the exchange.”510
-
-			II.B.2.b Foreign Exchange Products Not Subject to the Secretary’s Swap Determination
-
-			II.B.2.c Interpretation Regarding Foreign Exchange Spot Transactions The CEA generally does not confer regulatory jurisdiction on the CFTC with respect to
-
-			II.B.2.d Retail Foreign Currency Options
-
-		II.B.3.0 Forward Rate Agreements
-
-		II.B.4.0 Combinations and Permutations of, or Options on, Swaps and Security- Based Swaps
-
-		II.B.5.0 Contracts for Differences
-
-	II.D.0.0 Certain Interpretive Issues
-
-		II.D.1.0 Agreements, Contracts, or Transactions That May Be Called, or Documented Using Form Contracts Typically Used for, Swaps or Security-Based Swaps
-
-III.0.0.0 The Relationship between the Swap Definition and the Security-Based Swap Definition
-
-	III.A.0.0 Introduction
-
-	III.B.0.0 Title VII Instruments Based on Interest Rates, Other Monetary Rates, and Yields
-
-		III.B.1.0 Title VII Instruments Based on Interest Rates or Other Monetary Rates that are Swaps
-
-		III.B.2.0 Title VII Instruments Based on Yields
-
-		III.B.3.0 Title VII Instruments Based on Government Debt Obligations The Commissions provided an interpretation in the Proposing Release regarding
-
-	III.C.0.0 Total Return Swaps
-
-	III.D.0.0 Security-Based Swaps Based on a Single Security or Loan and Single-Name Credit Default Swaps
-
-	III.E.0.0 Title VII Instruments Based on Futures Contracts
-
-	III.F.0.0 Use of Certain Terms and Conditions in Title VII Instruments
-
-	III.G.0.0 The Term “Narrow-Based Security Index” in the Security-Based Swap Definition
-
-		III.G.1.0 Introduction
-
-		III.G.2.0 Applicability of the Statutory Narrow-Based Security Index Definition and Past Guidance of the Commissions to Title VII Instruments
-
-		III.G.3.0 Narrow-Based Security Index Criteria for Index Credit Default Swaps
-
-			III.G.3.a In General
-
-			III.G.3.b Rules Regarding the Definitions of “Issuers of Securities in a Narrow-Based Security Index” and “Narrow-Based Security Index” for Index Credit Default Swaps
-
-		III.G.4.0 Security Indexes
-
-		III.G.5.0 Evaluation of Title VII Instruments on Security Indexes That Move from Broad-Based to Narrow-Based or Narrow-Based to Broad-Based
-
-			III.G.5.a In General
-
-			III.G.5.b Title VII Instruments on Security Indexes Traded on Designated Contract Markets, Swap Execution Facilities, Foreign Boards of Trade, Security-Based Swap Execution Facilities, and National Securities Exchanges
-
-	III.H.0.0 Method of Settlement of Index CDS
-
-	III.I.0.0 Security-Based Swaps as Securities under the Exchange Act and Securities Act
-
-IV.0.0.0 Mixed Swaps
-
-	IV.A.0.0 Scope of the Category of Mixed Swap
-
-	IV.B.0.0 Regulation of Mixed Swaps
-
-		IV.B.1.0 Introduction
-
-		IV.B.2.0 Bilateral Uncleared Mixed Swaps Entered Into by Dually-Registered Dealers or Major Participants
-
-		IV.B.3.0 Regulatory Treatment for Other Mixed Swaps
-
-V.0.0.0 Security-Based Swap Agreements
-
-	V.A.0.0 Introduction
-
-	V.B.0.0 Swaps that are Security-Based Swap Agreements
-
-	V.C.0.0 Books and Records Requirements for Security-Based Swap Agreements
-
-VI.0.0.0 Process for Requesting Interpretations of the Characterization of a Title VII Instrument
-
-VII.0.0.0 Anti-Evasion
-
-	VII.A.0.0 CFTC Anti-Evasion Rules
-
-		VII.A.1.0 CFTC’s Anti-Evasion Authority
-
-			VII.A.1.a Statutory Basis for the Anti-Evasion Rules
-
-		VII.A.2.0 Final Rules
-
-			VII.A.2.a Rule 1.3(xxx)(6)
-
-			VII.A.2.b Rule 1.6
-
-			VII.A.2.c Interpretation of the Final Rules
-
-		VII.A.3.0 Interpretation Contained in the Proposing Release
-
-			VII.A.3.a Business Purpose Test
-
-			VII.A.3.b Fraud, Deceit or Unlawful Activity
-
-	VII.B.0.0 SEC Position Regarding Anti-Evasion Rules
-
-VIII.0.0.0 Miscellaneous Issues
-
-	VIII.A.0.0 Distinguishing Futures and Options from Swaps
-
-	VIII.B.0.0 Transactions Entered Into by Foreign Central Banks, Foreign Sovereigns, International Financial Institutions, and Similar Entities
-
-	VIII.C.0.0 Definition of the Terms “Swap” and “Security-Based Swap” as used in the Securities Act
-
-IX.0.0.0 Effective Date and Implementation
-
-X.0.0.0 Administrative Law Matters – CEA Revisions
-
-	X.A.0.0 Paperwork Reduction Act
-
-		X.A.1.0 Introduction
-
-		X.A.2.0 Rules 1.8 and 1.9
-
-			X.A.2.a Information Provided by Reporting Entities
-
-			X.A.2.b Information Collection Comments
-
-		X.A.3.0 Book-Out Confirmation
-
-	X.B.0.0 Regulatory Flexibility Act
-
-	X.C.0.0 Costs and Benefits Considerations
-
-		X.C.2.0 efficiency, competitiveness, and financial integrity of markets; (3) price discovery; (4) sound risk management practices; and (5) other public interest considerations. The CFTC considers the costs and benefits resulting from its discretionary determinations with respect to the Section 15(a) factors. The CFTC also considers, qualitatively, costs and benefits relative to the status quo, that is, the pre-Dodd Frank Act regulatory regime, for historical context to help inform the reader.
-
-		X.C.1.0 Introduction
-
-		X.C.2.0 Costs and Benefits of the Definitions--In General
-
-			X.C.2.a Costs
-
-			X.C.2.b Benefits
-
-			X.C.2.c Comments and Consideration of Alternatives
-
-		X.C.3.0 Costs and Benefits of Rules and Interpretations Regarding Insurance
-
-			X.C.3.a Costs
-
-			X.C.3.b Benefits
-
-			X.C.3.c Comments and Consideration of Alternatives
-
-		X.C.1.0 The insurance contract must be issued by an insurance company and subject to state insurance regulation;
-
-		X.C.2.0 The insurance contract must be the type of contract issued by insurance companies;
-
-		X.C.3.0 The insurance contract must not be of a type that the CFTC and SEC determine to regulate.1136
-
-		X.C.4.0 Costs and Benefits of the Withdrawing the Energy Exemption and Interpretation Regarding the Forward Contract Exclusion from the Swap Definition
-
-			X.C.4.a Costs
-
-			X.C.4.b Benefits
-
-			X.C.4.c Comments and Consideration of Alternatives
-
-		X.C.5.0 Loan Participations
-
-		X.C.6.0 Interpretation Regarding Commercial/Consumer Transactions The Commissions are stating that certain customary consumer and commercial
-
-			X.C.6.a Costs
-
-			X.C.6.b Benefits
-
-			X.C.6.c Comments and Consideration of Alternatives
-
-		X.C.7.0 Residential Exchange Program (“REP”)
-
-		X.C.8.0 Costs and Benefits of Rule Regarding Foreign Exchange Products and Forward Rate Agreements
-
-			X.C.8.a Costs
-
-			X.C.8.b Benefits
-
-			X.C.8.c Comments and Consideration of Alternatives
-
-		X.C.9.0 Costs and Benefits of Rule Regarding Title VII Instruments on Futures on Foreign Sovereign Debt under Exchange Act Rule 3a12-8
-
-		X.C.10.0 Costs and Benefits of Rules and Interpretations Regarding Title VII Instruments where the Underlying Reference is a Security Index
-
-			X.C.10.a Costs
-
-			X.C.10.b Benefits
-
-			X.C.10.c Comments and Consideration of Alternatives
-
-		X.C.11.0 Costs and Benefits of Processes to Determine Whether a Title VII Instrument is a Swap, Security-Based Swap, or Mixed Swap, and to Determine Regulatory Treatment for Mixed Swaps
-
-			X.C.11.a Costs
-
-			X.C.11.b Benefits
-
-			X.C.11.c Comments and Consideration of Alternatives
-
-		X.C.12.0 Costs and Benefits of SBSA Books and Records, and Data, Requirements CFTC rule 1.7 under the CEA would clarify that there would not be books and records or
-
-		X.C.13.0 Costs and Benefits of the Anti-Evasion Rules and Interpretation
-
-			X.C.13.a Costs
-
-			X.C.13.b Benefits
-
-			X.C.13.c Comments and Consideration of Alternatives
-
-		X.C.1.0 Protection of market participants and the public
-
-		X.C.2.0 Efficiency, competitiveness, and the financial integrity of markets
-
-		X.C.3.0 Price discovery
-
-		X.C.4.0 Sound risk management practices
-
-XI.0.0.0 Administrative Law Matters – Exchange Act Revisions
-
-	XI.A.0.0 Economic Analysis
-
-		XI.A.1.0 Overview
-
-		XI.A.2.0 Economic Analysis Considerations
-
-		XI.A.3.0 Programmatic Benefits and Costs
-
-			XI.A.3.a Title VII Registration of Entities Involved in Security-Based Swaps
-
-			XI.A.3.b Business Conduct Standards, Compliance, Operation, and Governance
-
-			XI.A.3.c Clearing, Trade Execution, Reporting and Processing
-
-			XI.A.3.d Investor Protection Provisions of Title VII and the Application of the Federal Securities Laws
-
-		XI.A.4.0 Costs and Benefits Associated with Specific Rules
-
-			XI.A.4.a Insurance Safe Harbor and Grandfather for Insurance Products (Rules 3a69-1 under the Exchange Act)
-
-			XI.A.4.b Narrow-Based Security Index Rules (Rules 3a68-1a, 3a68-1b, and 3a68-3(a) under the Exchange Act)
-
-			XI.A.4.c Swaps on Certain Futures Contracts on Foreign Sovereign Debt (Rule 3a68-5 Under the Exchange Act)
-
-			XI.A.4.d Tolerance and Grace Period for Swaps and Security-Based Swaps Traded on Regulated Trading Platforms (Rule 3a68-3 under the Exchange Act)
-
-			XI.A.4.e Request for Interpretation Process (Rule 3a68-2 Under the Exchange Act)
-
-			XI.A.4.f Definition of Swap (Rule 3a69-2 Under the Exchange Act)
-
-			XI.A.4.g Mixed Swaps (Rule 3a68-4 under the Exchange Act)
-
-			XI.A.4.h Books and Records Requirement for SBSAs (Rule 3a69-3 under the Exchange Act)
-
-		XI.A.5.0 Effects on Competition, Efficiency and Capital Formation
-
-			XI.A.5.a The Status of Products
-
-			XI.A.5.b Jurisdictional Divide Impacts
-
-	XI.B.0.0 Paperwork Reduction Act
-
-		XI.B.1.0 Background
-
-		XI.B.2.0 Summary of Collection of Information Under Rules 3a68-2and 3a68-4(c) Under the Exchange Act
-
-		XI.B.3.0 Reasons for and Use of Information
-
-		XI.B.4.0 Respondents
-
-		XI.B.5.0 Paperwork Reduction Act Burden Estimates
-
-			XI.B.5.a Rule 3a68-2 Under the Exchange Act
-
-			XI.B.5.b Rule 3a68-4(c) Under the Exchange Act
-
-	XI.C.0.0 Regulatory Flexibility Act Certification
-
-		XI.C.4.0 for insurance carriers and entities engaged in related activities, entities with $7 million or less in annual receipts;1440 and (5) for funds, trusts, and other financial vehicles, entities with $7 million or less in annual receipts.1441
-
-XII.0.0.0 Statutory Basis and Rule Text List of Subjects
-
-
-
-<END TABLE OF CONTENTS>
-
 COMMODITY FUTURES TRADING COMMISSION 17 CFR Part 1
 
 RIN 3038-AD46
@@ -522,7 +138,7 @@ Commissions continue to believe that lack of trading separately from the insured
 
 Fourth, the final rules provide that in the case of financial guaranty insurance policies, also known as bond insurance or bond wraps, any acceleration of payment under the policy must be at the sole discretion of the provider of the financial guaranty insurance policy in order to satisfy the Product Test. <sup>58</sup> Although such products can be economically similar to products such as CDS, they have certain key characteristics that distinguish them from swaps and security- based swaps. <sup>59</sup> For example, under a financial guaranty policy, the insurer typically is required to make timely payment of any shortfalls in the payment of scheduled interest to the holders of the underlying guaranteed obligation. Also, for particular bonds that are covered by a financial guaranty policy, the indenture, related documentation, and/or the financial guaranty policy will provide that a default in payment of principal or interest on the underlying bond will not result in acceleration of the obligation of the insurer to make payment of the full amount of principal on the underlying guaranteed obligation unless the insurer, in its sole discretion, opts to make payment of principal prior to the final scheduled maturity date of the underlying guaranteed
 
-<h>C. Goodrich, Jr., Managing Director—Legal Department, Deutsche Bank AG on the ANPR, dated Sept. 20, 2010 (noting that financial guaranty policies require the incurrence of loss for payment, whereas CDS do not).obligation. Conversely, under a CDS, a protection seller frequently is required to make payment of the relevant settlement amount to the protection buyer upon demand by the protection buyer after any credit event involving the issuer. <sup>60</sup></h>
+C. Goodrich, Jr., Managing Director—Legal Department, Deutsche Bank AG on the ANPR, dated Sept. 20, 2010 (noting that financial guaranty policies require the incurrence of loss for payment, whereas CDS do not).obligation. Conversely, under a CDS, a protection seller frequently is required to make payment of the relevant settlement amount to the protection buyer upon demand by the protection buyer after any credit event involving the issuer. <sup>60</sup>
 
 As noted in the Proposing Release, the Commissions do not believe that financial guaranty policies, in general, should be regulated as swaps or security-based swaps. However, because of the close economic similarity of financial guaranty insurance policies guaranteeing payment on debt securities to CDS, in addition to the criteria noted above with respect to insurance generally, the final rules require that, in order to satisfy the Product Test, financial guaranty policies also must satisfy the requirement that they not permit the beneficiary of the policy to accelerate the payment of any principal due on the debt securities. This requirement further distinguishes financial guaranty policies from CDS because, as discussed above, the latter generally requires payment of the relevant settlement amount on the CDS after demand by the protection buyer.
 
@@ -784,7 +400,7 @@ The CFTC provided an interpretation in the Proposing Release regarding the forwa
 
 Forward Exclusion from the Swap and Future Delivery Definitions
 
-<h>A. Consistent Interpretation</h>
+A. Consistent Interpretation
 
 The wording of the forward contract exclusion from the swap definition with respect to nonfinancial commodities is similar, but not identical, to the forward exclusion from the definition of the term “future delivery” that applies to futures contracts, which excludes “any sale of any cash commodity for deferred shipment or delivery.” <sup>209</sup>
 
@@ -800,7 +416,7 @@ As noted in the Proposing Release, because a forward contract is a commercial me
 
 L. Rep. (CCH) ¶ 29,636 (CFTC Nov. 25, 2003); In re Competitive Strategies for Agric., Ltd. , [2003-2004 Transfer Binder] Comm. Fut. L. Rep. (CCH) ¶ 29,635 (CFTC Nov. 25, 2003). Courts have expressed this view as well. See , e.g. , Salomon Forex, Inc. v. Tauber , 8 F.3d 966, 971 (4th Cir. 1993) (“[C]ash forwards are generally individually negotiated sales . . . in which actual delivery of the commodity is anticipated, but is deferred for reasons of commercial convenience or necessity.”); CFTC v. Int’l Fin. Serv. (N.Y.) , 323 F. Supp. 2d 482, 495 (S.D.N.Y. 2004). See also CFTC v. Co Petro Mktg. Grp., Inc., 680 F.2d 573, 579-580 (9th Cir. 1982) ; CFTC v. Noble Metals Int’l, Inc. , 67 F.3d 766, 772-773 (9 th Cir. 1995; CFTC v. Am. Metal Exch. Corp. , 693 F. Supp. 168, 192 (D.N.J. 1988); CFTC v. Morgan, Harris & Scott, Ltd. , 484 F. Supp. 669, 675 (S.D.N.Y. 1979) (forward contract exclusion does not apply to speculative transactions in which delivery obligations can be extinguished under the terms of the contract or avoided for reasons other than commercial convenience or necessity).analysis of whether a particular contract is a forward contract. <sup>214</sup> In assessing the parties’ expectations or intent regarding delivery, the CFTC consistently has applied a “facts and circumstances” test. <sup>215</sup> Therefore, the CFTC reads the “intended to be physically settled” language in the swap definition with respect to nonfinancial commodities to reflect a directive that intent to deliver a physical commodity be a part of the analysis of whether a given contract is a forward contract or a swap, just as it is a part of the CFTC’s analysis of whether a given contract is a forward contract or a futures contract.
 
-<h>B. Brent Interpretation</h>
+B. Brent Interpretation
 
 In this interpretation, the CFTC is restating, with certain clarifications in response to commenters, its interpretation from the Proposing Release that the principles underlying the CFTC’s “Brent Interpretation” regarding book-outs developed in connection with the forward exclusion from futures apply to the forward exclusion from the swap definition as well. Book- out transactions meeting the requirements specified in the Brent Interpretation that are effectuated through a subsequent, separately negotiated agreement qualify for the safe harbor under the forward exclusions.
 
@@ -832,7 +448,7 @@ In sum, the CFTC is interpreting the term “commercial” in the context of the
 
 In addition, the CFTC is expanding the Brent Interpretation, which applied only to oil, to all nonfinancial commodities, as proposed. <sup>225</sup> As a result, book-outs are permissible (where the conditions of the Brent Interpretation are satisfied) for all nonfinancial commodities with respectto the exclusions from the definition of the term “swap” and the definition of the term “future delivery” under the CEA. <sup>226</sup>
 
-<h>C. Withdrawal of the Energy Exemption</h>
+C. Withdrawal of the Energy Exemption
 
 Because the CFTC has expanded the Brent Interpretation to nonfinancial commodities in this final interpretation, the CFTC also has determined to withdraw the Energy Exemption as proposed. In response to comments received, the CFTC is clarifying that certain alternative delivery procedures discussed in the Energy Exemption <sup>227</sup> will not disqualify a transaction from the Brent Interpretation safe harbor.
 
@@ -846,11 +462,11 @@ The CFTC also has determined that, notwithstanding the withdrawal of the Energy 
 
 The Energy Exemption also discussed a number of methods by which parties to energy contracts settle their obligations, including: the seller’s passage of title and the buyer’s payment and acceptance of the underlying commodity; taking delivery of the commodity in some instances and in others instead passing title to another intermediate purchaser in a chain; and physically exchanging (i.e., delivering) one quality, grade or type of physical commodity for another quality, grade or type of physical commodity. <sup>234</sup> The CFTC clarifies that these settlement methods generally <sup>235</sup> are not inconsistent with the Brent Interpretation. <sup>236</sup>
 
-<h>D. Book-out Documentation</h>
+D. Book-out Documentation
 
 The CFTC has taken into consideration comments regarding the documentation of book- outs. <sup>237</sup> Under the Brent Interpretation, what is relevant is that the book out occur through a subsequent, separately negotiated agreement. While the CFTC is sensitive to existing recordkeeping practices for book-outs, in order to prevent abuse of the safe harbor, the CFTC clarifies that in the event of an oral agreement, such agreement must be followed in a commercially reasonable timeframe by a confirmation in some type of written or electronic form.
 
-<h>E. Minimum Contract Size and Other Contextual Factors</h>
+E. Minimum Contract Size and Other Contextual Factors
 
 In the Proposing Release, the CFTC requested comment about potentially imposing additional conditions (such as, for example, a minimum contract size) in order for a transaction to qualify as a forward contract under the Brent Interpretation with respect to the future delivery<sup>237</sup>made in cash. Thus, a physical exchange of one quality, grade or type of physical commodity for another quality, grade, or type of physical commodity does not affect the characterization of the transaction as a spot or forward transaction. As for the sellers passing title and buyers, instead of taking delivery of the commodity, passing title to another intermediate purchaser in a chain, this is consistent with the description of Brent transactions in the Brent Interpretation, provided that, as set forth therein, delivery is required and “the delivery obligations create substantial economic risk of a commercial nature to the parties required to make or take delivery . . . includ[ing, without limitation,] demurrage, damage, theft or deterioration.” That description was based on the industry delivery structure as it existed prior to the Brent Interpretation . To the extent other industries are similarly structured for commercial reasons, the delivery-by-title-and-related-bill- of-lading-transfer delivery method would be able to rely on the Brent Interpretation if it otherwise satisfied the terms thereof. However, to the extent persons seek to establish such a delivery structure for new products and markets ( e.g. , not actually delivering the commodity to most of the participants in a chain), that could, depending on the applicable facts and circumstances, be viewed as outside the Brent Interpretation safe harbor or evasion. The CFTC expects that the limitation of counterparties eligible to rely on the Brent Interpretation to those with a commercial purpose for entering into the transaction should limit the development of such markets to those with commercial reasons for such a delivery structure.
 
@@ -980,31 +596,31 @@ In Wright , the CFTC stated that it traditionally has engaged in a two-step anal
 
 As was stated in the Proposing Release, these same principles can be applied with respect to theput or the hedge-to-arrive contract] was traded separately from the other. We hold that in these circumstances, no freestanding option came into being . . . .” Id. at *7.forward contract exclusion from the swap definition for nonfinancial commodities in the Dodd- Frank Act, too. <sup>329</sup> Utilizing these principles, the CFTC is providing a final interpretation that a forward contract that contains an embedded commodity option or options <sup>330</sup> will be considered an excluded nonfinancial commodity forward contract (and not a swap) if the embeddedoption(s):
 
-<h>1. may be used to adjust the forward contract price,331 but do not undermine the overall nature of the contract as a forward contract;</h>
+1. may be used to adjust the forward contract price,331 but do not undermine the overall nature of the contract as a forward contract;
 
-<h>2. do not target the delivery term, so that the predominant feature of the contract is actual delivery; and</h>
+2. do not target the delivery term, so that the predominant feature of the contract is actual delivery; and
 
-<h>3. cannot be severed and marketed separately from the overall forward contract in which they are embedded.332</h>
+3. cannot be severed and marketed separately from the overall forward contract in which they are embedded.332
 
 In evaluating whether an agreement, contract, or transaction qualifies for the forward contract exclusions from the swap definition for nonfinancial commodities, the CFTC will look to the specific facts and circumstances of the transaction as a whole to evaluate whether any embedded optionality operates on the price or delivery term of the contract, and whether an embeddedcommodity option is marketed or traded separately from the underlying contract. <sup>333</sup> Such an approach will help assure that commodity options that should be regulated as swaps do not circumvent the protections established in the Dodd-Frank Act through the forward contract exclusion for nonfinancial commodities instead.
 
 The CFTC also is providing an interpretation, in response to commenters, <sup>334</sup> with respect to forwards with embedded volumetric optionality. <sup>335</sup> Several commenters asserted that agreements, contracts, and transactions that contain embedded “volumetric options,” and that otherwise satisfy the terms of the forward exclusions, should qualify as excluded forwards, notwithstanding their embedded optionality. <sup>336</sup> The CFTC believes that agreements, contracts,and transactions with embedded volumetric optionality may satisfy the forward exclusions from the swap and future delivery definitions under certain circumstances. Accordingly, the CFTC is providing an interpretation that an agreement, contract, or transaction falls within the forward exclusion from the swap and future delivery definitions, notwithstanding that it contains embedded volumetric optionality, when:
 
-<h>1. the embedded optionality does not undermine the overall nature of the agreement, contract, or transaction as a forward contract;</h>
+1. the embedded optionality does not undermine the overall nature of the agreement, contract, or transaction as a forward contract;
 
-<h>2. the predominant feature of the agreement, contract, or transaction is actual delivery;</h>
+2. the predominant feature of the agreement, contract, or transaction is actual delivery;
 
-<h>3. the embedded optionality cannot be severed and marketed separately from the overall agreement, contract, or transaction in which it is embedded;337</h>
+3. the embedded optionality cannot be severed and marketed separately from the overall agreement, contract, or transaction in which it is embedded;337
 
-<h>4. the seller of a nonfinancial commodity underlying the agreement, contract, or transaction with embedded volumetric optionality intends, at the time it enters into the agreement, contract, or transaction to deliver the underlying nonfinancial commodity if the optionality is exercised;</h>
+4. the seller of a nonfinancial commodity underlying the agreement, contract, or transaction with embedded volumetric optionality intends, at the time it enters into the agreement, contract, or transaction to deliver the underlying nonfinancial commodity if the optionality is exercised;
 
-<h>5. the buyer of a nonfinancial commodity underlying the agreement, contract or transaction with embedded volumetric optionality intends, at the time it enters into the agreement, contract, or transaction, to take delivery of the underlying nonfinancial commodity if it exercises the embedded volumetric optionality;</h>
+5. the buyer of a nonfinancial commodity underlying the agreement, contract or transaction with embedded volumetric optionality intends, at the time it enters into the agreement, contract, or transaction, to take delivery of the underlying nonfinancial commodity if it exercises the embedded volumetric optionality;
 
-<h>6. both parties are commercial parties;338 and<sup>337</sup></h>
+6. both parties are commercial parties;338 and<sup>337</sup>
 
 When a forward contract includes an embedded option that is severable from the forward contract, the forward can remain subject to the forward contract exclusion, if the parties document the severance of the embedded option component and the resulting transactions, i.e. a forward and an option. Such an option would be subject to the CFTC’s regulations applicable to commodity options.
 
-<h>7. the exercise or non-exercise of the embedded volumetric optionality is based primarily on physical factors,339 or regulatory requirements,340 that are outside the control of the parties and are influencing demand for, or supply of, the nonfinancial commodity.341</h>
+7. the exercise or non-exercise of the embedded volumetric optionality is based primarily on physical factors,339 or regulatory requirements,340 that are outside the control of the parties and are influencing demand for, or supply of, the nonfinancial commodity.341
 
 The first two elements of the interpretation for embedded volumetric optionality, which mirror the CFTC’s historical embedded option interpretation discussed above, have been modified to reflect that embedded volumetric optionality relates to delivery rather than price. As noted above, the predominant feature of a forward contract is a binding, albeit deferred, delivery obligation. It is essential that any embedded option in a forward contract as to volume must not undermine a forward contract’s overall purpose. <sup>342</sup> The CFTC recognizes that the nature of commercial operations are such that supply and demand requirements cannot always be accurately predicted and that forward contracts that allow for some optionality as to the amount of a nonfinancial commodity actually delivered offer a great deal of value to commercial participants. Where an agreement, contract, or transaction requires delivery of a non-nominal volume of a nonfinancial commodity, even if an embedded volumetric option is exercised, the CFTC believes that the predominant feature of the contract, notwithstanding the embedded volumetric optionality, is actual delivery. This is the case in many forward contracts that have an embedded option that allows a party to buy or sell an additional amount of a commodity beyond the fixed amount called for in the underlying forward contract. For instance, a forward contract could call for the delivery of 10,000 bushels of wheat and include an option for an additional 5,000 bushels of wheat. <sup>343</sup>entered into. The CFTC cautions market participants that, to the extent a party relies on the forward exclusion from the swap or future delivery definitions, notwithstanding that there is volumetric optionality, if that volumetric optionality is inconsistent with the seventh element of the interpretation, the agreement, contract or transaction may be an option.
 
@@ -1056,21 +672,21 @@ Request for Comment
 
 The CFTC’s interpretation regarding forwards with volumetric options is an interpretation of the CFTC and may be relied upon by market participants. However, the CFTC believes that it would benefit from public comment about its interpretation, and therefore requests public comment on all aspects of its interpretation regarding forwards with embedded volumetric options, <sup>374</sup> and on the following questions:
 
-<h>1. Are the elements set forth in the interpretation to distinguish forwards with embedded volumetric optionality from commodity options appropriate? Why or why not?§ 32.3(d)) until December 31, 2012. This extension will afford the CFTC an opportunity to review and evaluate the comments received on both the interpretation above regarding embedded volumetric optionality, and the modified trade option exemption, in order to determine whether any changes thereto are appropriate.</h>
+1. Are the elements set forth in the interpretation to distinguish forwards with embedded volumetric optionality from commodity options appropriate? Why or why not?§ 32.3(d)) until December 31, 2012. This extension will afford the CFTC an opportunity to review and evaluate the comments received on both the interpretation above regarding embedded volumetric optionality, and the modified trade option exemption, in order to determine whether any changes thereto are appropriate.
 
-<h>2. Are there additional elements that would be appropriate? Please describe and provide support for why such elements would serve to distinguish forwards with embedded volumetric optionality from commodity options.</h>
+2. Are there additional elements that would be appropriate? Please describe and provide support for why such elements would serve to distinguish forwards with embedded volumetric optionality from commodity options.
 
-<h>3. Is the seventh element that, to ensure that an agreement, contract, or transaction with embedded volumetric optionality is a forward and not an option, the volumetric optionality is based primarily on physical factors, or regulatory requirements, that are outside the control of the parties and are influencing demand for, or supply of, the nonfinancial commodity, necessary and appropriate? Why or why not? Is the statement of this element sufficiently clear and unambiguous? If not, what adjustments would be appropriate?</h>
+3. Is the seventh element that, to ensure that an agreement, contract, or transaction with embedded volumetric optionality is a forward and not an option, the volumetric optionality is based primarily on physical factors, or regulatory requirements, that are outside the control of the parties and are influencing demand for, or supply of, the nonfinancial commodity, necessary and appropriate? Why or why not? Is the statement of this element sufficiently clear and unambiguous? If not, what adjustments would be appropriate?
 
-<h>4. Are there circumstances where volumetric optionality is based on other factors?</h>
+4. Are there circumstances where volumetric optionality is based on other factors?
 
 Please describe. Would such factors, if made a part of the interpretation, serve to distinguish forwards with embedded volumetric optionality from commodity options? If so, how?
 
-<h>5. Does the interpretation provide sufficient guidance as to whether agreements, contracts, or transactions with embedded volumetric optionality permitting a nominal amount, or no amount, of a nonfinancial commodity to be delivered are forwards or options, viewing the agreements, contracts, or transactions as a whole, if they satisfy the seven elements of the interpretation? Why or why not? Does this interpretation encourage evasion, or do the seven elements sufficiently distinguish forwards from agreements, contracts, and transactions that may evade commodity options regulation?</h>
+5. Does the interpretation provide sufficient guidance as to whether agreements, contracts, or transactions with embedded volumetric optionality permitting a nominal amount, or no amount, of a nonfinancial commodity to be delivered are forwards or options, viewing the agreements, contracts, or transactions as a whole, if they satisfy the seven elements of the interpretation? Why or why not? Does this interpretation encourage evasion, or do the seven elements sufficiently distinguish forwards from agreements, contracts, and transactions that may evade commodity options regulation?
 
-<h>6. Is the interpretation sufficiently clear with respect to capacity contracts, transmission (or transportation) services agreements, peaking supply contracts, or tolling agreements? Why or why not? Do capacity contracts, transmission (or transportation) services agreements, peaking supply contracts, or tolling agreements generally have features that satisfythe forwards with volumetric options interpretation included in this release? If so, which ones? If not, why not? Could these types of agreements, contracts, and transactions qualify for the forward exclusions under other parts of the interpretation set forth above? Are there material differences in the structure, operation, or economic effect of these types of agreements, contracts, and transactions as compared to full requirements contracts that are relevant to whether such agreements, contracts, and transactions are options under the CEA? Please explain. If so, what are the material differences?</h>
+6. Is the interpretation sufficiently clear with respect to capacity contracts, transmission (or transportation) services agreements, peaking supply contracts, or tolling agreements? Why or why not? Do capacity contracts, transmission (or transportation) services agreements, peaking supply contracts, or tolling agreements generally have features that satisfythe forwards with volumetric options interpretation included in this release? If so, which ones? If not, why not? Could these types of agreements, contracts, and transactions qualify for the forward exclusions under other parts of the interpretation set forth above? Are there material differences in the structure, operation, or economic effect of these types of agreements, contracts, and transactions as compared to full requirements contracts that are relevant to whether such agreements, contracts, and transactions are options under the CEA? Please explain. If so, what are the material differences?
 
-<h>7. Do the agreements, contracts, and transactions listed in question no. 6 above have embedded optionality in the first instance? Based on descriptions by commenters, it appears that they may have a binding obligation for delivery, but have no set amount specified for delivery. Instead, delivery (including the possibility of nominal or zero delivery) is determined by the terms and conditions contained within the agreement, contract, or transaction (including, for example, the satisfaction of a condition precedent to delivery, such as a commodity price or temperature reaching a level specified in the agreement, contract, or transaction). That is, the variation in delivery is not driven by the exercise of embedded optionality by the parties. Do the agreements, contracts, and transactions listed in question no. 6 exhibit these kinds of characteristics? If so, should the CFTC consider them in some manner other than its forward interpretation? Why or why not?</h>
+7. Do the agreements, contracts, and transactions listed in question no. 6 above have embedded optionality in the first instance? Based on descriptions by commenters, it appears that they may have a binding obligation for delivery, but have no set amount specified for delivery. Instead, delivery (including the possibility of nominal or zero delivery) is determined by the terms and conditions contained within the agreement, contract, or transaction (including, for example, the satisfaction of a condition precedent to delivery, such as a commodity price or temperature reaching a level specified in the agreement, contract, or transaction). That is, the variation in delivery is not driven by the exercise of embedded optionality by the parties. Do the agreements, contracts, and transactions listed in question no. 6 exhibit these kinds of characteristics? If so, should the CFTC consider them in some manner other than its forward interpretation? Why or why not?
 
 Certain Physical Commercial Agreements, Contracts or Transactions
 
@@ -1254,9 +870,9 @@ The CEA, as amended by the Dodd-Frank Act, provides that “foreign exchange for
 
 See section 1a(47)(B) of the CEA, 7 U.S.C. 1a(47)(B).promulgated by the CFTC pursuant to section 721(c) of the Dodd-Frank Act. <sup>508</sup> A foreign exchange forward is defined in the CEA as “a transaction that solely involves the exchange of two different currencies on a specific future date at a fixed rate agreed upon on the inception of the contract covering the exchange.” <sup>509</sup> A foreign exchange swap, in turn, is defined as:“a transaction that solely involves—
 
-<h>A. an exchange of 2 different currencies on a specific date at a fixed rate that is agreed upon on the inception of the contract covering the exchange; and</h>
+A. an exchange of 2 different currencies on a specific date at a fixed rate that is agreed upon on the inception of the contract covering the exchange; and
 
-<h>B. a reverse exchange of the 2 currencies described in subparagraph (A) at a later date and at a fixed rate that is agreed upon on the inception of the contract covering the exchange.”510</h>
+B. a reverse exchange of the 2 currencies described in subparagraph (A) at a later date and at a fixed rate that is agreed upon on the inception of the contract covering the exchange.”510
 
 Under the Dodd-Frank Act, if foreign exchange forwards or foreign exchange swaps are no longer considered swaps due to a determination by the Secretary, nevertheless, certain provisions of the CEA added by the Dodd-Frank Act would continue to apply to such transactions. <sup>511</sup> Specifically, those transactions still would be subject to certain requirements forreporting swaps, and swap dealers and major swap participants engaging in such transactions still would be subject to certain business conduct standards. <sup>512</sup>
 
@@ -1402,7 +1018,9 @@ Comments
 
 The Commissions requested comment regarding what agreements, contracts, or transactions that are not swaps or security-based swaps are documented using industry standard form agreements that are typically used for swaps and security-based swaps, and asked for examples thereof and details regarding their documentation, including why industry standard form agreements typically used for swaps and security-based swaps are used. One commenter stated its view that documentation can be a relevant factor in determining whether an agreement, contract or transaction is a swap or security-based swap. <sup>606</sup> The Commissions are persuaded by the commenter and are modifying the interpretation to clarify that in determining whether an<sup>606</sup>
 
-See IECA Letter. This commenter noted that “[e]ven though swaps are commonly documented on the ISDA Master Agreements without annexes, physical transactions under such agreements with power or natural gas annexes are not swaps because they are physically settled forward contracts that are exempt under 1a47(B)”). Id.agreement, contract or transaction is a swap or security-based swap, documentation may be a relevant (but not dispositive) factor.2.	Transactions in Regional Transmission Organizations and Independent System Operators
+See IECA Letter. This commenter noted that “[e]ven though swaps are commonly documented on the ISDA Master Agreements without annexes, physical transactions under such agreements with power or natural gas annexes are not swaps because they are physically settled forward contracts that are exempt under 1a47(B)”). Id.agreement, contract or transaction is a swap or security-based swap, documentation may be a relevant (but not dispositive) factor.2.	
+
+<h>2. Transactions in Regional Transmission Organizations and Independent System Operators</h>
 
 The CFTC declines to address the status of transactions in Regional Transmission Organizations (“RTOs”) and Independent System Operators (“ISOs”), including financial transmission rights (“FTRs”) and ancillary services, within this joint definitional rulemaking.
 
@@ -2380,7 +1998,7 @@ Accordingly, for the reasons stated in the proposal and the foregoing discussion
 
 Section 15(a) of the CEA requires the CFTC to consider the costs and benefits of its actions before promulgating a regulation or issuing certain orders under the CEA. <sup>1097</sup> Section 15(a) further specifies that the costs and benefits shall be evaluated in light of the following five broad areas of market and public concern: (1) protection of market participants and the public;
 
-<h>2. efficiency, competitiveness, and financial integrity of markets; (3) price discovery; (4) sound risk management practices; and (5) other public interest considerations. The CFTC considers the costs and benefits resulting from its discretionary determinations with respect to the Section 15(a) factors. The CFTC also considers, qualitatively, costs and benefits relative to the status quo, that is, the pre-Dodd Frank Act regulatory regime, for historical context to help inform the reader.</h>
+2. efficiency, competitiveness, and financial integrity of markets; (3) price discovery; (4) sound risk management practices; and (5) other public interest considerations. The CFTC considers the costs and benefits resulting from its discretionary determinations with respect to the Section 15(a) factors. The CFTC also considers, qualitatively, costs and benefits relative to the status quo, that is, the pre-Dodd Frank Act regulatory regime, for historical context to help inform the reader.
 
 In the Proposing Release, the CFTC assessed the costs and benefits of the proposed rules in general, followed by assessments of the costs and benefits of each of the rules, taking into account the considerations described above. The CFTC also requested comment on these assessments, and a number of comments were received. In this Adopting Release, the CFTC will again assess the costs and benefits of the rules in general followed by the individual rules in this rulemaking, for each case taking into account the above considerations and the commentsreceived. These costs and benefits, to the extent identified and, where possible, quantified have helped to inform the decisions of and the actions taken by the CFTC that are described throughout this release.
 

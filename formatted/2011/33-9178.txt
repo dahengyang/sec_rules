@@ -1,197 +1,3 @@
-https://www.sec.gov/rules/final/2011/33-9178.pdf
-
-I.0.0.0 BACKGROUND AND SUMMARY
-
-II.0.0.0 DISCUSSION OF THE AMENDMENTS
-
-	II.A.0.0 Shareholder Approval of Executive Compensation 1. Rule 14a-21(a)
-
-			II.A..a Proposed Rule
-
-			II.A..b Comments on the Proposed Rule
-
-			II.A..c Final Rule
-
-		II.A.2.0 Item 24 to Schedule 14A
-
-			II.A.2.a Proposed Amendments
-
-			II.A.2.b Comments on the Proposed Amendments
-
-			II.A.2.c Final Rule
-
-		II.A.3.0 Amendments to Item 402(b) of Regulation S-K
-
-			II.A.3.a Proposed Amendments
-
-			II.A.3.b Comments on the Proposed Amendments
-
-			II.A.3.c Final Rule
-
-		II.A.20.0 This reflects that the vote required pursuant to the EESA and Rule 14a-20 is effectively the same vote that would be required under Section 14A(a)(1).
-
-	II.B.0.0 Shareholder Approval of the Frequency of Shareholder Votes on Executive Compensation
-
-			II.B.20.a Proposed Rule
-
-			II.B.20.b Comments on the Proposed Rule
-
-			II.B.20.c Final Rule
-
-		II.B.1.0 Item 24 of Schedule 14A
-
-			II.B.1.a Proposed Amendments
-
-			II.B.1.b Comments on the Proposed Amendments
-
-			II.B.1.c Final Rule
-
-		II.B.2.0 Amendment to Rule 14a-4
-
-			II.B.2.a Proposed Amendments
-
-			II.B.2.b Comments on the Proposed Amendments
-
-			II.B.2.c Final Rule
-
-		II.B.3.0 Amendment to Rule 14a-8
-
-			II.B.3.a Proposed Amendments
-
-			II.B.3.b Comments on the Proposed Amendments
-
-			II.B.3.c Final Rule
-
-		II.B.4.0 Amendment to Form 8-K
-
-			II.B.4.a Proposed Amendments
-
-			II.B.4.b Comments on the Proposed Amendments
-
-			II.B.4.c Final Rule
-
-		II.B.5.0 Effect of Shareholder Vote
-
-	II.C.0.0 Issues Relating to Both Shareholder Votes Required by Section 14A(a)
-
-		II.C.1.0 Amendments to Rule 14a-6
-
-			II.C.1.a Proposed Amendments
-
-			II.C.1.b Comments on the Proposed Amendments
-
-			II.C.1.c Final Rule
-
-		II.C.2.0 Broker Discretionary Voting
-
-		II.C.3.0 Relationship to Shareholder Votes on Executive Compensation for TARP Companies
-
-	II.D.0.0 Disclosure of Golden Parachute Arrangements and Shareholder Approval of Golden Parachute Arrangements
-
-		II.D.1.0 General
-
-		II.D.2.0 Item 402(t) of Regulation S-K
-
-			II.D.2.a Proposed Amendments
-
-			II.D.2.b Comments on the Proposed Amendments
-
-			II.D.2.c Final Rule
-
-		II.D.1.0 below.
-
-		II.D.3.0 Amendments to Schedule 14A, Schedule 14C, Schedule 14D-9, Schedule 13E-3, Schedule TO, and Item 1011 of Regulation M-A
-
-			II.D.3.a Proposed Amendments
-
-			II.D.3.b Comments on the Proposed Amendments
-
-			II.D.3.c Final Rule
-
-			II.D.3.a Proposed Rule
-
-			II.D.3.b Comments on the Proposed Amendments
-
-			II.D.3.c Final Rule
-
-	II.E.0.0 Treatment of Smaller Reporting Companies
-
-	II.F.0.0 Transition Matters
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-	III.A.0.0 Background
-
-		III.A.1.0 “Regulation 14A and Schedule 14A” (OMB Control No. 3235-0059);
-
-		III.A.2.0 “Regulation 14C and Schedule 14C” (OMB Control No. 3235-0057);
-
-		III.A.3.0 “Form 8-K” (OMB Control No. 3235-0060);
-
-		III.A.5.0 “Regulation S-K” (OMB Control No. 3235-0071);
-
-		III.A.6.0 “Schedule 14D-9” (OMB Control No. 3235-0102);
-
-		III.A.7.0 “Schedule 13E-3” (OMB Control No. 3235-0007);
-
-		III.A.8.0 “Schedule TO” (OMB Control No. 3235-0515);
-
-		III.A.9.0 “Form S-1” (OMB Control No. 3235-0065);
-
-		III.A.10.0 “Form S-4” (OMB Control No. 3235-0324);
-
-		III.A.12.0 “Form F-4” (OMB Control No. 3235-0325); and
-
-		III.A.13.0 “Form N-2” (OMB Control No. 3235-0026).
-
-	III.B.0.0 Summary of the Final Rules
-
-	III.C.0.0 Summary of Comment Letters and Revisions to Proposals
-
-	III.D.0.0 Revisions to PRA Reporting and Cost Burden Estimates
-
-		III.D.1.0 Annual Meeting Proxy Statements
-
-		III.D.2.0 Exchange Act Current Reports
-
-		III.D.3.0 Securities Act Registration Statements and Exchange Act Registration Statements
-
-		III.D.4.0 Merger Proxies, Tender Offer Documents and Schedule 13E-3
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Introduction
-
-	IV.B.0.0 Comments on the Cost-Benefit Analysis
-
-	IV.C.0.0 Benefits
-
-	IV.D.0.0 Costs
-
-V.0.0.0 CONSIDERATION OF IMPACT ON THE ECONOMY, BURDEN ON COMPETITION, AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	VI.A.0.0 Reasons for, and Objectives of, the Proposed Action
-
-	VI.B.0.0 Legal Basis
-
-	VI.C.0.0 Significant Issues Raised by Public Comments
-
-	VI.D.0.0 Small Entities Subject to the Final Amendments
-
-	VI.E.0.0 Reporting, Recordkeeping, and other Compliance Requirements
-
-	VI.F.0.0 Duplicative, Overlapping, or Conflicting Federal Rules
-
-	VI.G.0.0 Significant Alternatives
-
-VII.0.0.0 STATUTORY AUTHORITY AND TEXT OF THE AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 229, 240 and 249
 
 [Release Nos. 33-9178; 34-63768; File No. S7-31-10] RIN 3235-AK68
@@ -510,11 +316,13 @@ Although we have added issuer consideration of the most recent say-on-pay vote t
 
 Because companies with outstanding indebtedness under the TARP will continue to have an annual say-on-pay vote until they repay all such indebtedness, these votes should be addressed by issuers in CD&A as well. To reflect our treatment of companies subject to EESA with outstanding obligations under TARP, we have also modified the amendment to Item 402(b)(1) as adopted to address issuer consideration of the results of the most recent shareholder advisory vote on executive compensation required by Section 14A or Rule 14a-
 
-<h>20. This reflects that the vote required pursuant to the EESA and Rule 14a-20 is effectively the same vote that would be required under Section 14A(a)(1).</h>
+20. This reflects that the vote required pursuant to the EESA and Rule 14a-20 is effectively the same vote that would be required under Section 14A(a)(1).
 
 Smaller reporting companies are subject to scaled disclosure requirements in Item 402 of Regulation S-K and are not required to include a CD&A. We are not adding a specific requirement for smaller reporting companies to provide disclosure about how previous votes pursuant to Section 14A affected compensation policies and decisions because we believe such information would not be as valuable outside the context of a complete CD&A covering the full range of matters required to be addressed by Item 402(b). However, we note that pursuant to Item 402(o) of Regulation S-K, <sup>102</sup> smaller reporting companies are required to provide a narrative description of any material factors necessary to an understanding of the information disclosed in the Summary Compensation Table. Ifconsideration of prior say-on-pay votes is such a factor for a particular issuer, disclosure would be required pursuant to Item 402(o).
 
-<h>B. Shareholder Approval of the Frequency of Shareholder Votes on Executive Compensation1. Rule 14a-21(b)</h>
+<h>B. Shareholder Approval of the Frequency of Shareholder Votes on Executive Compensation</h>
+
+<h>1. Rule 14a-21(b)</h>
 
 We proposed Rule 14a-21(b) pursuant to which issuers would be required, not less frequently than once every six years, to provide a separate shareholder advisory vote in proxy statements to determine the frequency of the shareholder vote on the compensation of executives required by Section 14A(a)(1). We are adopting this amendment substantially as proposed with slight modifications in response to comments.
 
@@ -534,7 +342,7 @@ After reviewing and considering the comments, we are adopting Rule 14a-21(b) as 
 
 Rule 14a-21(b) will also clarify that the separate shareholder vote on the frequency of shareholder votes on executive compensation will be required only in a proxy statement for an annual or other meeting of shareholders at which directors will be elected and that such vote is required only once every six calendar years. Under Rule 14a-21(b), issuers will be required to provide the separate shareholder vote on the frequency of the say-on-pay vote for the first annual or other such meeting of shareholders occurring on or after January 21, 2011. After reviewing the comment letters, we continue to believe that the say-on-pay vote and the frequency vote should be required of newly public companies in the proxy statement for such company’s first annual meeting after the initial public offering. This will give shareholders the opportunity to express a view on these matters while the company is in the process of establishing policies that will apply as a public company and could benefit from understanding its shareholders’ point of view.
 
-<h>1. Item 24 of Schedule 14A</h>
+<h>2. Item 24 of Schedule 14A</h>
 
 In order to implement the requirements of Section 14A(a), we proposed new Item 24 to Schedule 14A, to briefly explain the general effect of the frequency vote, such as whether the vote is non-binding. We are adopting this amendment to Schedule 14A as proposed with a modification.
 
@@ -552,7 +360,7 @@ After reviewing and considering the comments, we are adopting Item 24 of Schedul
 
 After reviewing comments, we are also adding a requirement to Item 24 for issuers to provide disclosure of the current frequency of say-on-pay votes and when the next scheduled say-on-pay vote will occur, <sup>119</sup> in their proxy materials. We believe this will provide useful information to shareholders about upcoming say-on-pay and frequency shareholder advisory votes.
 
-<h>2. Amendment to Rule 14a-4</h>
+<h>3. Amendment to Rule 14a-4</h>
 
 In order to implement the requirements of Section 14A(a)(2), we also proposed amendments to Rule 14a-4. After considering comments, we are adopting the amendments to Rule 14a-4 as proposed, with slight modification.
 
@@ -574,7 +382,7 @@ After considering the comments, we are adopting the rule substantially as propos
 
 In response to comment, we note that issuers may vote uninstructed proxy cards in accordance with management’s recommendation for the frequency vote only if the issuer follows the existing requirements of Rule 14a-4 to (1) include a recommendation for the frequency of say-on-pay votes in the proxy statement, (2) permit abstention on the proxy card, and (3) include language regarding how uninstructed shares will be voted in bold on the proxy card.
 
-<h>3. Amendment to Rule 14a-8</h>
+<h>4. Amendment to Rule 14a-8</h>
 
 In connection with implementing the requirements of Section 14A(a)(2), we also proposed a note to Rule 14a-8(i)(10) relating to shareholder proposals. After considering the comments, we are adopting the amendment to Rule 14a-8 with some modifications.
 
@@ -612,7 +420,7 @@ We also believe that a shareholder proposal that would provide an advisory vote 
 
 We are also modifying the note slightly. To avoid confusion, we are removing the requirement that an issuer must provide “a vote on frequency at least as often as required by Section 14A(a)(2).” We believe this language is not necessary as issuers are already required to comply with Section 14A(a)(2) in any event. In addition, we are removing the language “as substantially implemented” from the note to avoid confusion.
 
-<h>4. Amendment to Form 8-K</h>
+<h>5. Amendment to Form 8-K</h>
 
 We also proposed amendments to Form 10-Q and Form 10-K to require additional disclosure regarding the issuer’s decision to adopt a policy on the frequency of say-on-pay votes following a shareholder advisory vote on frequency. After considering the comments, we are not adopting amendments to Form 10-Q and Form 10-K. Instead, we are adopting a new Form 8-K Item to require disclosure of the issuer’s decision on the frequency of say-on- pay votes.
 
@@ -638,7 +446,7 @@ We believe the time period specified for filing the amended Item 5.07 Form 8-K s
 
 In addition, in response to comment, <sup>171</sup> we are adopting a technical amendment to Item 5.07(b) of Form 8-K to facilitate reporting of shareholder votes on frequency. Item5.07 of Form 8-K generally requires an issuer to “state the number of votes cast for, against, or withheld, as well as the number of abstentions and broker non-votes as to each such matter….” The amendments we adopt today will clarify that, with respect to the vote on the frequency of say-on-pay votes, the issuer will be required to disclose the number of votes cast for each of 1 year, 2, years, and 3 years, as well as the number of abstentions. <sup>172</sup>
 
-<h>5. Effect of Shareholder Vote</h>
+<h>6. Effect of Shareholder Vote</h>
 
 Although the language in Section 951 of the Act indicates that the separate resolution subject to shareholder vote is “to determine” the frequency of the shareholder vote on executive compensation, in light of new Section 14A(c) of the Exchange Act, we continue to believe this shareholder vote, and all shareholder votes required by Section 951 of the Act, are intended to be non-binding on the issuer or the issuer’s board of directors. New Section 14A(c) states that the shareholder votes referred to in Section 14A(a) and Section 14A(b) (which includes all votes under Section 951 of the Act) “shall not be binding on the issuer or the board of directors of an issuer.” <sup>173</sup> Though we received a comment letter asserting that the shareholder vote on frequency is binding, <sup>174</sup> in our view the plain language of Exchange Act Section 14A(c) indicates that this vote is advisory. Accordingly, we are adopting new
 
@@ -770,7 +578,7 @@ Item 402(t), like Item 402(j), <sup>247</sup> does not require separate disclosu
 
 Under the final rule, where Item 402(t) disclosure is included in an annual meeting proxy statement, <sup>249</sup> the price per share amount will be calculated based on the closing market price per share of the issuer’s securities on the last business day of the issuer’s last completed
 
-<h>1. below.fiscal year, as proposed, <sup>250</sup> consistent with quantification standards used in Item 402(j). However, in response to comments, we have modified how the issuer stock price will be measured for calculating dollar amounts for the tabular disclosure required by Item 402(t) in connection with a transactional filing. In a proxy statement soliciting shareholder approval of a merger or similar transaction or a filing made with respect to a similar transaction, Item 402(t)’s tabular quantification of dollar amounts based on issuer stock price will be based on the consideration per share, if such value is a fixed dollar amount, or otherwise on the average closing price per share over the first five business days following the first public announcement of the transaction. <sup>251</sup></h>
+1. below.fiscal year, as proposed, <sup>250</sup> consistent with quantification standards used in Item 402(j). However, in response to comments, we have modified how the issuer stock price will be measured for calculating dollar amounts for the tabular disclosure required by Item 402(t) in connection with a transactional filing. In a proxy statement soliciting shareholder approval of a merger or similar transaction or a filing made with respect to a similar transaction, Item 402(t)’s tabular quantification of dollar amounts based on issuer stock price will be based on the consideration per share, if such value is a fixed dollar amount, or otherwise on the average closing price per share over the first five business days following the first public announcement of the transaction. <sup>251</sup>
 
 Individuals Subject to Item 402(t) Disclosure
 
@@ -852,6 +660,7 @@ We believe that the other examples of changes cited by commentators, including c
 
 Consistent with the proposal, issuers providing for a shareholder vote on new arrangements or revised terms will need to provide two separate tables under Item 402(t) of Regulation S-K in merger proxy statements. <sup>281</sup> One table will disclose all golden parachute compensation, including both arrangements and amounts previously disclosed and subject to a say-on-pay vote under Section 14A(a)(1) and Rule 14a-21(a) and the new arrangements or revised terms. The second table will disclose only the new arrangements or revised terms subject to the vote, so that shareholders can clearly see what is subject to the shareholder vote under Section 14A(b)(2) and Rule 14a-21(c). Similarly, in cases where Item 402(t) requires disclosure of arrangements between an acquiring company and the named executive officers of the soliciting target company, issuers will need to clarify whether these agreements areincluded in the shareholder advisory vote by providing a separate table of all agreements and understandings subject to the shareholder advisory vote required by Section 14A(b)(2) and Rule 14a-21(c), if different from the full scope of golden parachute compensation subject to Item 402(t) disclosure. <sup>282</sup>
 
+<h>4. Rule 14a-21(c)</h>
 <h>E. Treatment of Smaller Reporting Companies</h>
 
 Section 951 of the Act establishes a new Section 14A(e) of the Exchange Act, which provides that we may, by rule or order, exempt an issuer or class of issuers from the requirements of Section 14A(a) and (b). In determining whether to make an exemption under this subsection, we are directed to take into account, among other considerations, whether the requirements of Sections 14A(a) and 14A(b) disproportionately burden small issuers.

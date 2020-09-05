@@ -1,43 +1,3 @@
-https://www.sec.gov/rules/final/2018/34-83506.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Final Amendments
-
-	II.A.0.0 Changes to Conform to the Improvement Act
-
-	II.B.0.0 Amendments to Certain Procedural Provisions
-
-	II.C.0.0 Revisions to Fee Provisions
-
-	II.D.0.0 Elimination of Certain Provisions
-
-	II.E.0.0 Structure of the Final Rule
-
-III.0.0.0 Public Comments
-
-	III.A.0.0 Section 200.80(g)(2)(iv) (Definition of educational institution)
-
-	III.B.0.0 Section 200.80(g)(2)(v) (Definition of noncommercial scientific institution)
-
-	III.C.0.0 Section 200.80(g)(2)(vi) (Definition of representative of the news media or news media requester)
-
-IV.0.0.0 Other Matters
-
-V.0.0.0 Economic Analysis
-
-		V.C.2.0 records will be withheld under the exemptions in 5 U.S.C. 552(b) only if Commission staff reasonably foresees that disclosure would harm an interest protected by the applicable exemption or disclosure is prohibited by law; (3) FOIA requesters may seek assistance from the Office of FOIA Services’ FOIA Public Liaisons and will be advised that they have the right to seek dispute resolution services from the Office of Government Information Services if their request is denied; and (4) the Office of FOIA Services is required to waive fees, in certain circumstances, if it does not comply with the time limits under the FOIA. The Commission believes that these changes will have minimal impact on FOIA requesters because they largely codify the Commission’s existing practices. To the extent the amendments result in these practices being followed more consistently, they could benefit the public by increasing the amount of information available, making more information available in an electronic format, and ensuring that requesters know of their right to seek alternative dispute resolution. The Commission also believes that the public could benefit from the increased transparency regarding these practices. The Commission does not expect these amendments to result in additional costs to any member of the public.
-
-VI.0.0.0 Regulatory Flexibility Act Certification
-
-VII.0.0.0 Paperwork Reduction Act
-
-VIII.0.0.0 Statutory Authority and Text of Rule Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>200</sup>
@@ -136,7 +96,7 @@ As explained in the proposal and discussed further below, the Commission believe
 
 The amendments to the Commission’s FOIA regulations fall into four categories. First, as discussed in more detail above, the Commission is amending its regulations to conform the regulations to the Improvement Act. Consistent with the Improvement Act, the amended rule provides: (1) records required to be made available pursuant to the FOIA will be made available in electronic format;
 
-<h>2. records will be withheld under the exemptions in 5 U.S.C. 552(b) only if Commission staff reasonably foresees that disclosure would harm an interest protected by the applicable exemption or disclosure is prohibited by law; (3) FOIA requesters may seek assistance from the Office of FOIA Services’ FOIA Public Liaisons and will be advised that they have the right to seek dispute resolution services from the Office of Government Information Services if their request is denied; and (4) the Office of FOIA Services is required to waive fees, in certain circumstances, if it does not comply with the time limits under the FOIA. The Commission believes that these changes will have minimal impact on FOIA requesters because they largely codify the Commission’s existing practices. To the extent the amendments result in these practices being followed more consistently, they could benefit the public by increasing the amount of information available, making more information available in an electronic format, and ensuring that requesters know of their right to seek alternative dispute resolution. The Commission also believes that the public could benefit from the increased transparency regarding these practices. The Commission does not expect these amendments to result in additional costs to any member of the public.</h>
+2. records will be withheld under the exemptions in 5 U.S.C. 552(b) only if Commission staff reasonably foresees that disclosure would harm an interest protected by the applicable exemption or disclosure is prohibited by law; (3) FOIA requesters may seek assistance from the Office of FOIA Services’ FOIA Public Liaisons and will be advised that they have the right to seek dispute resolution services from the Office of Government Information Services if their request is denied; and (4) the Office of FOIA Services is required to waive fees, in certain circumstances, if it does not comply with the time limits under the FOIA. The Commission believes that these changes will have minimal impact on FOIA requesters because they largely codify the Commission’s existing practices. To the extent the amendments result in these practices being followed more consistently, they could benefit the public by increasing the amount of information available, making more information available in an electronic format, and ensuring that requesters know of their right to seek alternative dispute resolution. The Commission also believes that the public could benefit from the increased transparency regarding these practices. The Commission does not expect these amendments to result in additional costs to any member of the public.
 
 Second, the final rule will amend several procedural provisions within the Commission’s FOIA regulations, which will better reflect and improve existing practice. Most of these changes codify existing Office of FOIA Services practice, including: (1) adding to the regulation additional methods for submitting FOIA requests and administrative appeals; (2) clarifying the existing procedures for submitting requests for records about oneself or another individual; (3) clarifying the existing procedures for submitting a proper FOIA request and seeking clarification of a request; (4) clarifying existingprocedures for submitting an administrative appeal; and (5) clarifying the existing practice that limits administrative appeals to written filings (i.e., there is no opportunity for personal appearance, oral argument, or hearing on appeal). The Commission does not expect these changes to result in additional costs to any member of the public. The Commission also expects that there would be some benefit to FOIA requesters from the increased transparency regarding these practices.
 

@@ -1,325 +1,3 @@
-https://www.sec.gov/rules/final/2018/33-10532.pdf
-
-I.0.0.0 Introduction and Background
-
-	I.A.0.0 Scope of Amendments
-
-		I.A.1.0 Issuers with Offerings Registered Under the Securities Act and Classes of Securities Registered Under the Exchange Act
-
-		I.A.2.0 Issuers Offering Securities under Regulation A
-
-		I.A.3.0 Issuers Regulated under the Investment Company Act
-
-		I.A.4.0 Other Entities
-
-	I.B.0.0 Comments on Objective and Scope of the Proposing Release
-
-	I.C.0.0 FASB-Related Considerations
-
-		I.C.1.0 Role of the FASB
-
-		I.C.2.0 Interaction of Commission Disclosure Requirements and U.S. GAAP
-
-			I.C.2.a Overview
-
-			I.C.2.b Comments on Interaction of Commission Disclosure Requirements and U.S. GAAP
-
-			I.C.2.c Final Amendments
-
-		I.C.3.0 Current FASB Projects Concerning the Application of U.S. GAAP
-
-	I.D.0.0 Disclosure Location Considerations
-
-			I.D.3.a Overview
-
-			I.D.3.b Comments on Disclosure Location Considerations
-
-			I.D.3.c Final Amendments
-
-II.0.0.0 Redundant or Duplicative Requirements
-
-	II.A.0.0 Background
-
-	II.B.0.0 Redundant or Duplicative Disclosure Requirements with U.S. GAAP
-
-		II.B.1.0 Foreign Currencies
-
-		II.B.2.0 Other
-
-	II.C.0.0 Redundant or Duplicative Disclosure Requirements with Other Commission Requirements
-
-		II.C.1.0 Proposed Amendments
-
-		II.C.2.0 Comments on Proposed Amendments
-
-		II.C.3.0 Final Amendments
-
-III.0.0.0 Overlapping Requirements
-
-	III.A.0.0 Background
-
-	III.B.0.0 Overlapping Requirements - Proposed Deletions
-
-		III.B.1.0 Overlapping Disclosure Requirements with U.S. GAAP
-
-			III.B.1.a Repurchase and Reverse Repurchase Agreements
-
-		III.B.1.0 Proposed Amendments
-
-			III.B.1.a Balance Sheet Presentation
-
-			III.B.1.b Disaggregated Disclosures
-
-			III.B.1.c Collateral Policy
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.b Derivative Accounting Policies
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.1.0 derivative financial instruments, as defined under U.S. GAAP, and (2) derivative commodity instruments such as commodity futures, swaps, and options that are permitted to be settled in cash or with another financial instrument, to the extent such instruments are not within the definition of derivative financial instruments. For both types of instruments, Regulation S-X requires, where material, disclosure of the accounting policies; the criteria required to be met for each accounting method used; the accounting method used if those criteria are not met; the method used to account for terminations of derivatives designated as hedges or derivatives used to affect the terms, fair values, or cash flows of a designated item; the method used to account for derivatives when the designated item matures, is sold, is extinguished, or is terminated; and how the derivative instruments are reported in the financial statements.
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.c Research and Development Activities
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.d Warrants, Rights, and Convertible Instruments
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.e Equity Compensation Plans
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.f Ratio of Earnings to Fixed Charges
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.g Other
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-		III.B.2.0 Other Overlapping Disclosure Requirements
-
-		III.B.3.0 Overlapping Disclosure Requirements with Both U.S. GAAP and Other Commission Disclosure Requirements
-
-			III.B.3.a Interim Financial Statements – Pro Forma Business Combination Information
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.b Interim Financial Statements – Dispositions by SRCs and Tier 2 Regulation A Issuers
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.c Segments
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.d Geographic Areas
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.e Seasonality
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-			III.B.3.f Other
-
-	III.C.0.0 Overlapping Requirements – Proposed Integrations
-
-		III.C.1.0 Foreign Currency Restrictions
-
-			III.C.1.a Proposed Amendments
-
-			III.C.1.b Comments on Proposed Amendments
-
-			III.C.1.c Final Amendments
-
-		III.C.2.0 Restrictions on Dividends and Related Items
-
-		III.C.3.0 Geographic Areas
-
-	III.D.0.0 Overlapping Requirements – FASB Referrals
-
-		III.D.1.0 Discount on Shares
-
-		III.D.2.0 Income Tax Disclosures
-
-		III.D.3.0 Major Customers
-
-		III.D.4.0 Legal Proceedings
-
-		III.D.5.0 Other
-
-IV.0.0.0 Outdated Requirements
-
-	IV.A.0.0 Background
-
-	IV.B.0.0 Disclosure requirements outdated due to passage of time
-
-	IV.C.0.0 Disclosure requirements outdated due to changes in the regulatory, business, or technological environment
-
-		IV.C.1.0 Market Price Disclosure
-
-			IV.C.1.a Proposed Amendments
-
-			IV.C.1.b Comments on Proposed Amendments
-
-			IV.C.1.c Final Amendments
-
-		IV.C.2.0 Other
-
-V.0.0.0 Superseded Requirements
-
-	V.A.0.0 Background
-
-	V.B.0.0 Disclosure Requirements Superseded by U.S. GAAP
-
-		V.B.1.0 Gains or Loss on Sale of Properties by REITS
-
-		V.B.2.0 Consolidation
-
-			V.B.2.a Proposed Amendments
-
-			V.B.2.b Comments on Proposed Amendments
-
-			V.B.2.c Final Amendments
-
-		V.B.3.0 Development Stage Companies
-
-		V.B.4.0 Insurance Companies
-
-			V.B.4.a Proposed Amendments
-
-			V.B.4.b Comments on Proposed Amendments
-
-			V.B.4.c Final Amendments
-
-		V.B.5.0 Extraordinary Items
-
-			V.B.5.a Proposed Amendments
-
-			V.B.5.b Comments on Proposed Amendments
-
-			V.B.5.c Final Amendments
-
-		V.B.6.0 Other
-
-	V.C.0.0 Disclosure Requirements Superseded by Other Commission Requirements
-
-		V.C.1.0 Auditing Standards
-
-			V.C.1.a Proposed Amendments
-
-			V.C.1.b Comments on Proposed Amendments
-
-			V.C.1.c Final Amendments
-
-		V.C.2.0 Other
-
-	V.D.0.0 Non-Existent or Incorrect References and Typographical Errors
-
-VI.0.0.0 Other Matters
-
-VII.0.0.0 Economic Analysis
-
-	VII.A.0.0 Baseline and Affected Parties
-
-	VII.B.0.0 Anticipated Benefits and Costs
-
-		VII.B.1.0 Redundant or Duplicative Requirements
-
-		VII.B.2.0 Overlapping Requirements
-
-			VII.B.2.a Deletion of Commission Disclosure Requirements
-
-			VII.B.2.b Integration of Commission Disclosure Requirements
-
-			VII.B.2.c FASB Referral of Commission Disclosure Requirements
-
-		VII.B.3.0 Outdated Requirements
-
-		VII.B.4.0 Superseded Requirements
-
-	VII.C.0.0 Anticipated Effects on Efficiency, Competition, and Capital Formation
-
-	VII.D.0.0 Alternatives
-
-VIII.0.0.0 Paperwork Reduction Act
-
-	VIII.A.0.0 Background
-
-	VIII.B.0.0 Summary of the Final Amendments
-
-	VIII.C.0.0 Summary of Comment Letters and Revisions to Proposals
-
-	VIII.D.0.0 Burden and Cost Estimates
-
-IX.0.0.0 Final Regulatory Flexibility Act Analysis
-
-	IX.A.0.0 Need for, and Objectives of, the Amendments
-
-	IX.B.0.0 Significant Issues Raised by Public Comments
-
-	IX.C.0.0 Small Entities Subject to the Amendments
-
-	IX.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-	IX.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-X.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 Corrected to Conform to Federal Register Version
 
 8011-01p
@@ -478,8 +156,6 @@ Some commenters opposed eliminating any bright line thresholds in Commission dis
 
 We are adopting the majority of the proposed amendments that were identified with Disclosure Location – Prominence Considerations or Financial Statement Considerations because (a) commenters were supportive of the amendment and did not express concern with the relocation of the disclosure; or (b) the overlapping U.S. GAAP disclosure requirements, identified in the Proposing Release, are already subject to audit and ICFR requirements. <sup>90</sup> We also are amending one disclosure requirement identified with Bright Line Disclosure Thresholds Considerations relating to restrictions on dividends as proposed. <sup>91</sup> We are not adopting other
 
-III.B.1.c Research and Development Activities ; Section III.B.1.d Warrants, Rights, and Convertible Instruments ; Section III.C.2 R estrictions on Dividends and Related Items ; Section III.C.3 Geographic Areas ; Section III.D.3 Major Customers ; Section III.D.5 Products and Services ; and Section V.B.2 Dividends Per Share in Interim Financial Statements. We are not adopting any requirements to disclose forward-looking information in a registrant’s financial statements.proposed amendments due to concern about the relocation of the disclosure and possible loss of forward-looking and voluntary information. In addition, we are referring some of the disclosure requirements with Disclosure Location or Bright Line Disclosure Threshold Considerations to the FASB for potential incorporation into U.S. GAAP.
-
 <h>II. Redundant or Duplicative Requirements</h>
 
 <h>A. Background</h>
@@ -536,17 +212,17 @@ The Proposing Release identified several disclosure requirements that the Commis
 
 <h>a. Repurchase and Reverse Repurchase Agreements</h>
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Since the requirements in Regulation S-X governing repurchase and reverse repurchase agreements were adopted in 1986, the FASB has amended the U.S. GAAP requirements for the accounting and disclosures for repurchase agreements and similar transactions, <sup>122</sup> which has resulted in overlapping disclosure requirements. We discuss these overlapping requirements and the proposed amendments below.
 
-<h>a. Balance Sheet Presentation</h>
+a. Balance Sheet Presentation
 
 Regulation S-X <sup>123</sup> and U.S. GAAP <sup>124</sup> both require separate presentation of repurchase liabilities associated with repurchase agreements on the face of the balance sheet. <sup>125</sup> Regulation
 
 S-X, unlike U.S. GAAP, sets forth a 10 percent threshold for separate presentation. <sup>126</sup> The Commission proposed to delete the requirement for separate presentation in Rule 4-08(m)(1)(i) and the related 10 percent threshold and noted the Bright Line Disclosure Threshold Considerations. The Commission also proposed to retain the requirement to include accrued interest payables in the separately presented liability amounts.
 
-<h>b. Disaggregated Disclosures</h>
+b. Disaggregated Disclosures
 
 While Regulation S-X <sup>127</sup> and U.S. GAAP <sup>128</sup> both require disaggregated disclosures about repurchase agreements, they differ in the form and content of the disaggregated disclosures.
 
@@ -560,13 +236,13 @@ Third, Regulation S-X requires disaggregated disclosures of the market value of 
 
 Based on the foregoing, the Commission proposed to delete Rule 4-08(m)(1)(ii), with the exception of the requirement in Rule 4-08(m)(1)(ii)(A)(ii) to disclose the interest rate on repurchase liabilities, which the Commission would retain. Regulation S-X, unlike U.S. GAAP, sets forth a 10 percent threshold for the disaggregated disclosures; <sup>137</sup> therefore, the proposed amendments give rise to Bright Line Disclosure Threshold Considerations.
 
-<h>c. Collateral Policy</h>
+c. Collateral Policy
 
 The Commission proposed to delete the requirement in Regulation S-X <sup>138</sup> to disclose an issuer’s policy with regard to taking possession of assets purchased under reverse repurchase agreements because U.S. GAAP requires disclosure of the issuer’s policy for requiring collateral or other security. <sup>139</sup> Although U.S. GAAP is not as specific as Regulation S-X about takingpossession of collateral, the Commission believed Regulation S-X requires disclosures that are encompassed by the disclosures that result from compliance with U.S. GAAP.
 
 Regulation S-X, unlike U.S. GAAP, requires these disclosures when the aggregate carrying amount of reverse repurchase agreements exceeds 10 percent of total assets. As such, the proposed amendment gives rise to Bright Line Disclosure Threshold Considerations.
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Commenters were split on the proposals related to the requirements for repurchase and reverse repurchase agreements. A number of commenters expressed support for the proposed amendments except for the elimination of the collateral policy disclosure requirement. <sup>140</sup> These commenters agreed that the U.S. GAAP disclosures provide reasonably similar information for the balance sheet presentation and disaggregated disclosure requirements. Certain commenters were not supportive of the deletion of the collateral policy disclosure requirements <sup>141</sup> and recommended referring the requirement to the FASB for potential incorporation into U.S. GAAP. <sup>142</sup> These commenters stated that the disclosure provides useful information to understanding the credit risk associated with the transactions in which the issuer does not take possession of the collateral.
 
@@ -574,19 +250,19 @@ Several other commenters opposed the proposed amendments, expressing concern tha
 
 Additionally, while one commenter explicitly supported the elimination of the 10 percent threshold in Rule 4-08(m)(1)(ii), <sup>147</sup> other commenters expressed concerns, indicating that the removal could result in less disclosure of information that is material to investors. <sup>148</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 In light of the comments about the importance of the information, we are retaining the Regulation S-X disclosure requirements related to repurchase and reverse repurchase agreements and referring these requirements to the FASB for potential incorporation into U.S. GAAP.
 
-<h>b. Derivative Accounting Policies</h>
+b. Derivative Accounting Policies
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Fund, Sunlight Foundation and Zevin Asset Management, LLC (Oct. 31, 2016) (“As You Sow, et. al”); CalPERS; and CII.
 
 Regulation S-X <sup>149</sup> and U.S. GAAP <sup>150</sup> both require disclosure in the notes to the financial statements of accounting policies for certain derivative instruments. Regulation S-X applies to:
 
-<h>1. derivative financial instruments, as defined under U.S. GAAP, and (2) derivative commodity instruments such as commodity futures, swaps, and options that are permitted to be settled in cash or with another financial instrument, to the extent such instruments are not within the definition of derivative financial instruments. For both types of instruments, Regulation S-X requires, where material, disclosure of the accounting policies; the criteria required to be met for each accounting method used; the accounting method used if those criteria are not met; the method used to account for terminations of derivatives designated as hedges or derivatives used to affect the terms, fair values, or cash flows of a designated item; the method used to account for derivatives when the designated item matures, is sold, is extinguished, or is terminated; and how the derivative instruments are reported in the financial statements.</h>
+1. derivative financial instruments, as defined under U.S. GAAP, and (2) derivative commodity instruments such as commodity futures, swaps, and options that are permitted to be settled in cash or with another financial instrument, to the extent such instruments are not within the definition of derivative financial instruments. For both types of instruments, Regulation S-X requires, where material, disclosure of the accounting policies; the criteria required to be met for each accounting method used; the accounting method used if those criteria are not met; the method used to account for terminations of derivatives designated as hedges or derivatives used to affect the terms, fair values, or cash flows of a designated item; the method used to account for derivatives when the designated item matures, is sold, is extinguished, or is terminated; and how the derivative instruments are reported in the financial statements.
 
 U.S. GAAP requires disclosure of accounting principles and methods that materially affect the financial statements, including those involving a selection from existing acceptable alternatives, and important judgments about the appropriateness of the principles. <sup>151</sup> In the Proposing Release, the Commission stated that it believes these U.S. GAAP principles call for reasonably similar information as the corresponding requirements in Regulation S-X, as they require disclosure of the accounting method applied to each aspect of a material derivative transaction from inception to termination.
 
@@ -594,7 +270,7 @@ In addition, for derivative financial instruments, as defined under U.S. GAAP, U
 
 Based on the foregoing, the Commission proposed to delete Rule 4-08(n) and Note 2(b) to Rule 8-01.
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 While several commenters <sup>155</sup> supported the proposed deletion of the Regulation S-X requirements related to derivative accounting policies, two commenters <sup>156</sup> expressed concern.
 
@@ -602,13 +278,13 @@ One of these commenters, <sup>157</sup> while supportive of deleting the disclos
 
 U.S. GAAP. The other commenter stated that the Commission should increase instead of decrease disclosures related to derivatives. <sup>159</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 We are eliminating most of the requirements in Rule 4-08(n) as proposed. However, after additional consideration, we are not eliminating the requirement to disclose where in the statement of cash flows the effect of derivative financial instruments is reported. <sup>160</sup> U.S. GAAP does not have a similar disclosure requirement. <sup>161</sup> We also are referring the statement of cash flows disclosure requirement to the FASB for potential incorporation into U.S. GAAP. We continue to believe that the U.S. GAAP disclosure requirements and related principles <sup>162</sup> call for information that is reasonably similar to the information called for by the disclosure requirements in Regulation S-X and that some of the additional disclosure requirements in Rule 4-08(n) are no longer applicable. Finally, we are sharing the comment letters that request reviewof the disclosures for derivatives and accounting for written options with the FASB because these considerations are beyond the scope of this rulemaking. <sup>163</sup>
 
-<h>c. Research and Development Activities</h>
+c. Research and Development Activities
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Regulation S-K requires disclosures, if material, of the amount spent on research and development activities for all years presented. <sup>164</sup> The Commission proposed to delete this requirement because, although Regulation S-K uses terms that differ from U.S. GAAP, <sup>165</sup> U.S. GAAP requires reasonably similar disclosures.
 
@@ -616,13 +292,9 @@ First, Regulation S-K refers to the “amount spent,” while U.S. GAAP refers t
 
 Regulation S-K also uses the term “company-sponsored,” but U.S. GAAP does not.
 
-However, the Regulation S-K Adopting Release specified that the amount of company-sponsored research and development expenses to be disclosed should be determined in accordance with
+However, the Regulation S-K Adopting Release specified that the amount of company-sponsored research and development expenses to be disclosed should be determined in accordance with U.S. GAAP, suggesting no difference in scope was intended. <sup>167</sup>
 
-U.S. GAAP, suggesting no difference in scope was intended. <sup>167</sup>
-
-In addition, Regulation S-K refers to “customer-sponsored” research and development activities, while U.S. GAAP refers to “research and development performed on behalf of others.”and to determine whether changes to U.S. GAAP are needed. The items raised by commenters here is an external source of data available for the FASB’s consideration when evaluating potential improvements to
-
-U.S. GAAP.
+In addition, Regulation S-K refers to “customer-sponsored” research and development activities, while U.S. GAAP refers to “research and development performed on behalf of others.”and to determine whether changes to U.S. GAAP are needed. The items raised by commenters here is an external source of data available for the FASB’s consideration when evaluating potential improvements to U.S. GAAP.
 
 Because U.S. GAAP refers to all other parties, which is broader than customers, the disclosures required by U.S. GAAP would encompass those required by Regulation S-K.
 
@@ -634,13 +306,13 @@ Form 1-A also requires Regulation A issuers to disclose, if material, the amount
 
 Accordingly, the Commission proposed to delete Item 101(c)(1)(xi) of Regulation S-K and Item 101(h)(4)(x) of Regulation S-K, Item 5.C of Form 20-F, and Item 7(a)(1)(iii) of Form 1-A. The Proposing Release noted Disclosure Location – Prominence Considerations, because these disclosures are located in the business description section of the filing, while the corresponding U.S. GAAP and IFRS disclosures are in the notes to the financial statements.
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Most commenters were supportive of the proposed amendments. <sup>172</sup> Additionally, a commenter recommended that the Commission consider feedback from preparers and users, including feedback provided in response to the S-K Concept Release, that issuers may be less willing to voluntarily supplement the required disclosures in the notes to the financial statements with forward-looking information because note disclosures are not subject to the safe harbor under the PSLRA. This commenter indicated some registrants do voluntarily provide qualitative disclosures about research and development activities and the loss of this information may be material to a user’s understanding of the registrant’s financial statements. <sup>173</sup> Another commenter recommended also rescinding the requirement to disclose a description of a foreign private issuer’s research and development policies for the last three years in Item 5.C of Form 20-F orclarifying whether this disclosure requirement relates to accounting policies or research and development activities. <sup>174</sup>
 
 One commenter did not support the deletion of Item 101(c)(1)(xi) and Item 101(h)(4)(x) of Regulation S-K, indicating that these disclosures, along with other disclosures required by Item 101, are necessary in assessing and understanding a company’s ability to create long-term value for shareholders. <sup>175</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 We are adopting the amendments as proposed. We do not believe eliminating these requirements regarding amounts spent on research and development activities will affect the assessment and understanding of a company’s ability to create long-term value for shareholders, as this information will remain in the notes to the financial statements. In addition, disclosure of trend information related to research and development activities and expenses, where material, is required by Item 303 of Regulation S-K, <sup>176</sup> and we expect registrants to continue to provide such disclosures as necessary. Further, the proposed amendments do not preclude registrants from continuing to provide voluntary disclosures as part of the description of their business or elsewhere outside the financial statements.
 
@@ -648,27 +320,25 @@ We are not eliminating the requirement to disclose a description of a foreign pr
 
 This requirement was initially adopted as part of the description of business disclosure, and it is intended to cover research and development activity rather than an accounting policy. <sup>177</sup>
 
-<h>d. Warrants, Rights, and Convertible Instruments</h>
+d. Warrants, Rights, and Convertible Instruments
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Item 201(a)(2)(i) of Regulation S-K requires disclosure on Form S-1 or Form 10 of the amount of common equity subject to outstanding options, warrants, or convertible securities, when the class of common equity has no established United States public trading market. U.S. GAAP more broadly requires disclosure of the terms of significant contracts to issue additional shares, the number of shares authorized for certain equity awards, <sup>178</sup> and, in the calculation of diluted earnings per share, the weighted-average incremental shares that would be issued from the assumed exercise or conversion of options, warrants, and convertible securities. <sup>179</sup> As such, the Commission proposed to delete Item 201(a)(2)(i) of Regulation S-K.
 
 The Proposing Release explained that the proposed amendments give rise to Disclosure Location – Prominence Considerations because Item 201(a)(2)(i) disclosures are located with related information about the potential dilution of equity for which there is no established United States public trading market, while the U.S. GAAP disclosures are in the notes to the financial statements.815-40-50-5.
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Most commenters were supportive of the proposed amendments. <sup>180</sup> One commenter opposed the amendments, stating that these requirements should not be eliminated because U.S. GAAP does not explicitly require the same information and the disclosure requirements in Regulation S-K are more “straightforward.” <sup>181</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
-We are eliminating Item 201(a)(2)(i) of Regulation S-K as proposed. We believe U.S. GAAP elicits reasonably similar information to that required by the disclosure requirement in Regulation S-K, and in some cases, would elicit information for a broader array of potentially dilutive arrangements. For example, disclosure of the existence of contingently issuable shares is not an explicit requirement in Item 201(a)(2)(i), though it is explicitly contemplated by the
+We are eliminating Item 201(a)(2)(i) of Regulation S-K as proposed. We believe U.S. GAAP elicits reasonably similar information to that required by the disclosure requirement in Regulation S-K, and in some cases, would elicit information for a broader array of potentially dilutive arrangements. For example, disclosure of the existence of contingently issuable shares is not an explicit requirement in Item 201(a)(2)(i), though it is explicitly contemplated by the U.S. GAAP requirement. <sup>182</sup>
 
-U.S. GAAP requirement. <sup>182</sup>
+e. Equity Compensation Plans
 
-<h>e. Equity Compensation Plans</h>
-
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Regulation S-K prescribes the form and content for the disclosure of existing equity compensation plans where equity securities are authorized for issuance. <sup>183</sup> This information is currently required in Part III of Form 10-K, Item 11 of Form S-1, Item 9 of Form 10, and Item 10of Schedule 14A. <sup>184</sup> In 2004, the FASB issued SFAS No. 123 (revised 2004), Share-Based Payment (“SFAS No. 123R”) , which resulted in disclosures that overlap with Item 201(d). <sup>185</sup>
 
@@ -682,17 +352,17 @@ Because the exchanges <sup>191</sup> on which the majority of domestic issuers, 
 
 Based on the foregoing, the Commission proposed to delete Item 201(d) and the references to it in Part III of Form 10-K and Item 10(c) of Schedule 14A. These proposed amendments would not affect the disclosures related to new plans or modifications of existing plans subject to shareholder action. <sup>193</sup> Because disclosures required by Item 201(d) are located with related information about the issuer’s common equity and related stockholder matters, while the corresponding disclosures are in the notes to the financial statements, the proposed amendments give rise to Disclosure Location – Prominence Considerations. In particular, as a result of the proposed amendments, Item 201(d) disclosures would no longer be provided in Schedule 14A <sup>194</sup> alongside information on equity compensation plans subject to security holder action. Instead, investors would obtain that information from the notes to theand Nasdaq Proposed Rule Changes and Nasdaq Amendment No. 1 and Notice of Filing and Order Granting Accelerated Approval to NYSE Amendments No. 1 and 2 and Nasdaq Amendments No. 2 and 3 Thereto Relating to Equity Compensation Plans , Release No. 34-48108 (June 30, 2003) [68 FR 39995 (Jul. 3, 2003)]. See also New York Stock Exchange, Listed Company Manual § 303A.08; Nasdaq Listing Rule 5635(c) and IM-5635-1; American Stock Exchange Rulemaking Re: Shareholder Approval of Stock Option Plans and Other Equity Compensation Arrangements , Release No. 34-48610 (Oct. 9, 2003) [68 FR 59650 (Oct. 16, 2003)]; and NYSE MKT Company Guide § 711.financial statements in the separate Form 10-K filing. With the proposed amendments, issuers may also be less willing to voluntarily supplement the required disclosures in the notes to the financial statements with forward-looking information because note disclosures are not subject to the safe harbor under the PSLRA.
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Some commenters <sup>195</sup> supported the proposed amendments, but a number of commenters <sup>196</sup> opposed eliminating certain Item 201(d) disclosure requirements. Some commenters expressed concern that the proposed amendments would eliminate the requirement to disclose the number of shares available for future issuance, <sup>197</sup> which they stated is material to shareholders. <sup>198</sup> Other commenters <sup>199</sup> opposed deleting the requirement to disclose the formula for calculating the number of securities available for issuance under the equity compensation plan. <sup>200</sup> These commenters indicated that such disclosure is not likely to occur without further clarification of how the general disclosure principle in U.S. GAAP applies to the calculation, and recommended we refer this item to the FASB for potential incorporation into U.S. GAAP. Additionally, some commenters opposed the deletion of the disaggregation disclosure requirement. <sup>201</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 After further consideration, we are retaining the equity compensation plans disclosure requirements and are referring them to the FASB for potential incorporation into U.S. GAAP. We recognize the concerns expressed by commenters that U.S. GAAP does not explicitly require certain information, such as the formula for calculating the number of securities available for issuance under the plan. This information may be material to investors in making informed decisions about the scope of an issuer’s equity compensation program and the potential dilutive effect, both economically and in voting power, of awards authorized for issuance under all equity compensation plans.
 
-<h>f. Ratio of Earnings to Fixed Charges</h>
+f. Ratio of Earnings to Fixed Charges
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Regulation S-K requires issuers that register debt securities to disclose the historical and pro forma ratios of earnings to fixed charges. <sup>202</sup> Regulation S-K also requires issuers that register preference equity securities to disclose the historical and pro forma ratio of combined fixed charges and preference dividends to earnings (collectively, “ratio of earnings to fixed charges”). <sup>203</sup> Regulation S-K further requires the filing of an exhibit setting forth the computation of any ratio of earnings to fixed charges. <sup>204</sup> Similarly, Instruction 7 to “Instructions as to Exhibits” of Form 20-F requires foreign private issuers to disclose how any ratio of earnings to fixed charges presented in the filing was calculated. U.S. GAAP and IFRS require disclosure of many of the components commonly used in this ratio (e.g., income, interest
 
@@ -704,27 +374,27 @@ Moreover, while debt agreements may contain fixed charge coverage covenants, <su
 
 Based on these considerations, the Commission proposed to remove the requirement to disclose the ratio of earning to fixed charges by deleting Item 503(d) and Item 601(b)(12). <sup>212</sup> The Commission also proposed to delete Instruction 7 to “Instructions as to Exhibits” of Form 20-F.
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Commenters were supportive of the proposed amendments. <sup>213</sup> One of these commenters indicated that, in its experience, the ratio of earnings to fixed charges is generally not used by investors or other users of financial statements, and debt covenant financial requirements may already be disclosed where material <sup>214</sup> and vary significantly from company to company. <sup>215</sup> Another commenter, while supportive of the proposed amendments, recommended that the Commission obtain feedback from investors about the continued utility of the pro forma ratio disclosure, as information on a pro forma basis may not be as readily available. <sup>216</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 We are adopting the amendments as proposed, including the elimination of the pro forma ratio. Although one commenter suggested that pro forma information may be less readily available, we note that information about the offering’s effect on fixed charges, such as the interest rate, maturities, and amount of proceeds used to discharge indebtedness, is currently required by Item 504 of Regulation S-K. <sup>217</sup>
 
-<h>g. Other</h>
+g. Other
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 The table below describes each of the remaining disclosure requirements that are overlapping with U.S. GAAP and the proposed amendments. <sup>218</sup>
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Commenters supported these proposed amendments. <sup>227</sup> In addition, commenters identified another overlapping requirement in Regulation S-X for Registered Investment
 
 Companies. <sup>228</sup> The commenters noted that Rule 6-09.3 of Regulation S-X requires separate disclosure of distributions paid to shareholders from (a) Investment income – net; (b) realized gain from investment transactions – net; and (c) other sources, while U.S. GAAP requires distributions paid to be disclosed as a single line item. <sup>229</sup> These commenters recommended amending Regulation S-X to align it with the requirements in U.S. GAAP.
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 We are adopting all of the amendments described in the table above as proposed. We are also amending Rule 6-09.3 of Regulation S-X, as suggested by commenters and similar to the amendments to Rule 6.04-17, to require presentation of the total, rather than the components, of distributions to shareholders, except for tax return of capital distributions . U.S. GAAP requires similar presentation of information as the Regulation S-X requirements, and the incremental requirement to separately present certain components is not useful to investors because of the unique tax status of registered investment companies.
 
@@ -738,9 +408,9 @@ Commenters supported the proposed amendments. <sup>235</sup> We are adopting all
 
 The Proposing Release identified several Commission disclosure requirements that overlap with both U.S. GAAP and other Commission disclosure requirements.
 
-<h>a. Interim Financial Statements – Pro Forma Business Combination Information</h>
+a. Interim Financial Statements – Pro Forma Business Combination Information
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Regulation S-X <sup>236</sup> and U.S. GAAP <sup>237</sup> both require supplemental pro forma information about business combinations in the notes to interim financial statements. These disclosure requirements differ in two ways: (1) scope and (2) the line items required to be disclosed.
 
@@ -758,17 +428,17 @@ In proposing these amendments, the Commission noted that Item 9.01 of Form 8-K m
 
 Based on the foregoing, the Commission proposed to eliminate the requirements for pro forma financial information in interim filings for business combinations in Rule 8-03(b)(4) and Rule 10-01(b)(4).
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Several commenters supported the proposal to eliminate pro forma business combination financial information in interim filings. <sup>245</sup> However, other commenters opposed eliminating these requirements, expressing concern over the level of disclosure about merger and acquisition activities. <sup>246</sup> One commenter stated that frequent financial reporting about mergers, such as pro forma results on an interim basis, results in the issuer more timely identifying and disclosing problems related to a merger. <sup>247</sup> Another commenter recommended the disclosure requirements be improved rather than deleted because they provide a window into merger and acquisition activities. <sup>248</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 We are deleting the requirement for pro forma financial information in interim filings for business combinations in Rule 8-03(b)(4) and Rule 10-01(b)(4) as proposed. We continue to believe that U.S. GAAP, and Item 9.01 of Form 8-K for SRCs and non-SRCs, result inreasonably similar disclosures as the corresponding requirements we are deleting. We also believe the elimination of these requirements will not result in less frequent financial reporting about mergers and their impact on issuers because U.S. GAAP will continue to require disclosure of such activities in interim periods as well as year-end. <sup>249</sup>
 
-<h>b. Interim Financial Statements – Dispositions by SRCs and Tier 2 Regulation A Issuers</h>
+b. Interim Financial Statements – Dispositions by SRCs and Tier 2 Regulation A Issuers
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 For significant dispositions, Regulation S-X requires SRCs and Regulation A issuers in a Tier 2 offering that report under U.S. GAAP to disclose in the notes to the financial statements pro forma information. The pro forma disclosure requirements for dispositions for these issuers are the same as described above for significant business combinations. <sup>250</sup>
 
@@ -786,17 +456,17 @@ In addition, Rule 8-03(b)(4) requires SRCs and Regulation A issuers in a Tier 2 
 
 Accordingly, the Commission proposed to delete the pro forma disclosure requirements in Rule 8-03(b)(4).
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Commenters <sup>257</sup> indicated that the requirement in Item 9.01 of Form 8-K <sup>258</sup> to provide pro forma financial information pursuant to Rule 8-05 does not sufficiently substitute for the pro forma disclosure requirement for significant dispositions in Rule 8-03(b)(4) for SRCs because Item 9.01 of Form 8-K only refers to significant acquisitions and does not reference dispositions. Several of these commenters were nevertheless supportive of the proposed deletion because, in their observation, a number of issuers provide pro forma information for significant dispositions under Item 9.01 of Form 8-K despite there not being an explicit requirement. <sup>259</sup> Some commenters recommended that the Commission amend Article 8 to encompass significant dispositions. <sup>260</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 After further consideration, we are retaining the pro forma disposition disclosure requirement in Rule 8-03(b)(4). We believe the views expressed by commenters about Item9.01(b) of Form 8-K and its reference to the pro forma requirements for significant acquisitions in Article 8 of Regulation S-X <sup>261</sup> warrant additional analysis and consideration.
 
-<h>c. Segments</h>
+c. Segments
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Item 101(b) of Regulation S-K requires disclosure of segment financial information, restatement of prior periods when reportable segments change, and discussion of interim segment performance that may not be indicative of current or future operations. U.S. GAAP <sup>262</sup> and Item 303(b) of Regulation S-K <sup>263</sup> require similar disclosures. Moreover, Item 101(b) explicitly permits issuers to cross-reference between the notes to the financial statements and the description of business to avoid duplicative disclosures about segments. The Commission, therefore, proposed to delete Item 101(b).
 
@@ -804,17 +474,17 @@ Regulation A issuers are similarly required to cross-reference to their segment 
 
 Because the disclosure required by Item 101(b) of Regulation S-K and Item 7(b) of Form 1-A (or the cross-reference to the notes to the financial statements) are located in the businessdescription section of the filing, while the corresponding U.S. GAAP disclosures are in the notes to the financial statements, the Commission noted in the Proposing Release that the proposed elimination gives rise to Disclosure Location – Prominence Considerations.
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Most commenters supported the proposed amendments. <sup>265</sup> One of these commenters <sup>266</sup> observed that another disclosure requirement, <sup>267</sup> which requires segment disclosures for each year an audited financial statement is provided, also overlaps with U.S. GAAP. <sup>268</sup> One commenter opposed the proposed amendments, stating that the segment disclosures in Item 101(b) of Regulation S-K, along with other disclosures required by Item 101, are necessary in assessing and understanding a company’s ability to create long-term value for shareholders. <sup>269</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 We are eliminating the requirements in Item 101(b) of Regulation S-K and Item 7(b) of Form 1-A as proposed. While this will remove the requirement to provide financial information about segments in the business description section, these disclosures will continue to be available in the notes to the financial statements. Accordingly, we do not believe eliminating the requirement will affect the assessment and understanding of a company’s ability to create long- term value for shareholders. Additionally, we are eliminating Rule 3-03(e) of Regulation S-X, as suggested by a commenter, because it is also redundant with U.S. GAAP. <sup>270</sup> Further, U.S. GAAP requirements are broader than Rule 3-03(e) because U.S. GAAP requires segmentdisclosures for all periods for which a statement of income is provided, including unaudited interim periods, while Rule 3-03(e) requires the disclosure for each year for which an audited statement of income is provided.
 
-<h>d. Geographic Areas</h>
+d. Geographic Areas
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Regulation S-K <sup>271</sup> requires disclosure of financial information by geographic area. U.S. GAAP requires similar disclosures. <sup>272</sup> Item 101(d)(2) explicitly permits issuers to cross- reference between the notes to the financial statements and the description of business to avoid duplicative disclosures about geographic areas. The Commission, therefore, proposed to delete Item 101(d)(1) and Item 101(d)(2).
 
@@ -822,17 +492,17 @@ Further, Item 101(d)(3) of Regulation S-K requires disclosures of any risks asso
 
 In addition, Item 303(a) of Regulation S-K requires disclosure of trends and uncertainties by segment, if appropriate to an understanding of the issuer as a whole, which would include disclosure of a segment’s dependence on foreign operations. The Commission, therefore, proposed to delete Item 101(d)(3).
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Most commenters <sup>273</sup> were supportive of the proposed amendment, while a few commenters <sup>274</sup> opposed it. One commenter stated that the geographic area disclosures, along with other disclosures required by Item 101, are necessary in assessing and understanding a company’s ability to create long-term value for shareholders. <sup>275</sup> Another commenter expressed concern that the Commission is proposing to reduce information about the geographic segments of a business when geographic factors are growing in importance (i.e., foreign tax consideration). <sup>276</sup> This commenter further suggested that the Commission should simultaneously add explicit references to geographic factors in the required discussions of business risk and trends, if Items 101(d)(l)-(3) are eliminated.
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 We are eliminating the requirements in Item 101(d) as proposed. We believe that U.S. GAAP requires reasonably similar disclosures and note that Item 101(d)(2) explicitly permits issuers to cross-reference between the notes to the financial statements and the description of business to avoid duplicative disclosures about geographic areas. Further, we are amending, as proposed, Item 303(a) of Regulation S-K to add an explicit reference to “geographic areas.” <sup>277</sup> We believe this requirement, along with the disclosures required under Item 503(c) of Regulation S-K, will provide the disclosure necessary to understand the risks associated with geographic factors and to assess a company’s ability to create long-term value for shareholders.
 
-<h>e. Seasonality</h>
+e. Seasonality
 
-<h>1. Proposed Amendments</h>
+1. Proposed Amendments
 
 Regulation S-K <sup>278</sup> and U.S. GAAP <sup>279</sup> both require disclosures about seasonality in interim periods. Item 101(c)(1)(v) of Regulation S-K requires annual seasonality disclosure. Seasonality, by definition, relates to variations within annual periods, so the effects of seasonality are not evident in annual financial statements. The Proposing Release stated that interim seasonality disclosures required under U.S. GAAP seem more useful to investors than annual seasonality disclosures.
 
@@ -844,17 +514,17 @@ U.S. GAAP are in MD&A and the notes to the financial statements, the proposed am
 
 The Commission also proposed to delete Instruction 5 to Item 303(b) of Regulation S-K because it requires disclosures that convey reasonably similar information to the disclosures that result from compliance with U.S. GAAP. <sup>281</sup> The proposed deletion of Instruction 5 to Item 303(b) gives rise to Disclosure Location – Prominence Considerations because U.S. GAAP requires seasonality disclosures in the financial statements, whereas Instruction 5 requires disclosure in MD&A.
 
-<h>2. Comments on Proposed Amendments</h>
+2. Comments on Proposed Amendments
 
 Most commenters supported the proposed amendments. <sup>282</sup> Some of these commenters also provided their views on the Disclosure Location Considerations. <sup>283</sup> For example, one commenter, who supported both proposed amendments, indicated that U.S. GAAP requires disclosure about seasonality when the interim financial statements reflect material seasonal variations, but it does not require disclosure when an issuer expects interim financial results to become seasonal or an issuer expects the seasonal financial results to change significantly in the future. <sup>284</sup> Another commenter recommended that the Commission consider feedback from preparers and users about the potential for registrants to reduce any voluntary information about seasonality that may currently be provided that is subject to the safe harbor provisions of the PSLRA. <sup>285</sup>
 
 One commenter opposed the proposed amendments indicating that these disclosures, along with other disclosures required by Item 101, are necessary in assessing and understanding a company’s ability to create long-term value for shareholders. <sup>286</sup>
 
-<h>3. Final Amendments</h>
+3. Final Amendments
 
 We are adopting as proposed the elimination of Instruction 5 to Item 303(b). We continue to believe that U.S. GAAP in combination with the remainder of Item 303 requires disclosures in interim reports that convey reasonably similar information to the disclosures required by Instruction 5 to Item 303(b). We also believe that, even without this instruction, the requirements in Item 303 elicit disclosure of forward-looking information in interim reports to the extent that the effects of seasonality may become material. <sup>287</sup> However, we are retaining the seasonality disclosure requirements in annual reports in Item 101(c)(1)(v), due to a concern about potential loss of information in the fourth quarter about the extent to which the business of an issuer or its segment(s) is or may be seasonal because U.S. GAAP may not elicit this disclosure. <sup>288</sup>
 
-<h>f. Other</h>
+f. Other
 
 The table below describes each of the remaining disclosure requirements that are overlapping with both U.S. GAAP and other Commission disclosure requirements. The related proposed amendments to delete those overlapping Commission disclosure requirements are also discussed below. <sup>289</sup>
 
@@ -1636,7 +1306,7 @@ Finally, with respect to use of performance rather than design standards, the am
 
 89 See, e.g. letters from CAQ; CGCIV; The Clearing House Association L.L.C. (Oct. 28, 2016) (“Clearing House”); Davis; FEI; and USCC.
 
-90 The proposed amendments that give rise to Disclosure Location Prominence or Financial Statement Considerations include those discussed in the following sections of the Proposing Release: Section III.B.2 REIT Disclosures – Status as a REIT; Section III.B.3.f Insurance Companies – Reinsurance Transactions, Interim Financial Statements – Material Events Subsequent to the End of the Most Recent Fiscal Year; Section III.B.3.c Segments; Section III.B.3.d Geographic Areas; Section III.B.3.e Seasonality; Section
+90 The proposed amendments that give rise to Disclosure Location Prominence or Financial Statement Considerations include those discussed in the following sections of the Proposing Release: Section III.B.2 REIT Disclosures – Status as a REIT; Section III.B.3.f Insurance Companies – Reinsurance Transactions, Interim Financial Statements – Material Events Subsequent to the End of the Most Recent Fiscal Year; Section III.B.3.c Segments; Section III.B.3.d Geographic Areas; Section III.B.3.e Seasonality; Section III.B.1.c Research and Development Activities ; Section III.B.1.d Warrants, Rights, and Convertible Instruments ; Section III.C.2 R estrictions on Dividends and Related Items ; Section III.C.3 Geographic Areas ; Section III.D.3 Major Customers ; Section III.D.5 Products and Services ; and Section V.B.2 Dividends Per Share in Interim Financial Statements. We are not adopting any requirements to disclose forward-looking information in a registrant’s financial statements.proposed amendments due to concern about the relocation of the disclosure and possible loss of forward-looking and voluntary information. In addition, we are referring some of the disclosure requirements with Disclosure Location or Bright Line Disclosure Threshold Considerations to the FASB for potential incorporation into U.S. GAAP.
 
 91 See discussion in Section III.C.2 below.
 

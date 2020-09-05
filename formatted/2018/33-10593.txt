@@ -1,117 +1,3 @@
-https://www.sec.gov/rules/final/2018/33-10593.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 BACKGROUND
-
-III.0.0.0 DISCUSSION OF THE AMENDMENTS
-
-	III.A.0.0 and III.I. The Commission also has clarified how transactions in securities futures should be reported. Commission Guidance on the Application of Certain Provisions of the Securities Act of 1933, the Securities Exchange Act of 1934, and Rules thereunder to Trading in Security Futures Products, Release No. 33-8107 (June 21, 2002) [67 FR 43234 (Jun. 27, 2002)] at Q. 13.
-
-	III.A.0.0 Scope of the Disclosure Requirement
-
-		III.A.1.0 Proposed Amendments
-
-		III.A.2.0 Comments on the Proposed Amendments
-
-		III.A.3.0 Final Amendments
-
-	III.B.0.0 Defining the Term “Equity Securities”
-
-		III.B.1.0 Proposed Amendments
-
-		III.B.2.0 Comments on the Proposed Amendments
-
-		III.B.3.0 Final Amendments
-
-	III.C.0.0 Employees and Directors Subject to the Disclosure Requirement
-
-		III.C.1.0 Proposed Amendments
-
-		III.C.2.0 Comments on the Proposed Amendments
-
-		III.C.3.0 Final Amendments
-
-	III.D.0.0 Implementation
-
-		III.D.1.0 Manner and Location of Disclosure
-
-		III.D.1.0 Proposed Amendments
-
-		III.D.2.0 Comments on Proposed Amendments
-
-		III.D.3.0 Final Amendments
-
-		III.D.2.0 Disclosure on Schedule 14C
-
-		III.D.1.0 Proposed Amendments
-
-		III.D.2.0 Comments on Proposed Amendments
-
-		III.D.3.0 Final Amendments
-
-		III.D.3.0 Relationship to Existing CD&A Obligations
-
-			III.D.3.a Proposed Amendments
-
-			III.D.3.b Comments on Proposed Amendments
-
-			III.D.3.c Final Amendments
-
-		III.D.4.0 Issuers Subject to the Amendments
-
-			III.D.4.a Proposed Amendments
-
-			III.D.4.b Comments on Proposed Amendments
-
-			III.D.4.c Final Amendments
-
-IV.0.0.0 OTHER MATTERS
-
-V.0.0.0 COMPLIANCE DATES
-
-VI.0.0.0 ECONOMIC ANALYSIS
-
-	VI.A.0.0 Background
-
-	VI.B.0.0 Baseline and Affected Parties
-
-		VI.B.1.0 Effects of the Item 407(i) Disclosure Requirements
-
-			VI.B.1.a Benefits
-
-			VI.B.1.b Costs
-
-			VI.B.1.c Exclusion of Listed Closed-End Funds
-
-			VI.B.1.d Disclosure in Schedule 14C
-
-			VI.B.1.e Compliance Dates
-
-		VI.B.2.0 Efficiency, Competition, and Capital Formation
-
-		VI.B.3.0 Reasonable Alternatives
-
-VII.0.0.0 PAPERWORK REDUCTION ACT
-
-	VII.A.0.0 Background
-
-		VII.A.1.0 “Regulation 14A and Schedule 14A” (OMB Control No. 3235-0059);
-
-		VII.A.2.0 “Regulation 14C and Schedule 14C” (OMB Control No. 3235-0057); and
-
-		VII.A.3.0 “Regulation S-K” (OMB Control No. 3235-0071).
-
-	VII.B.0.0 Summary of Information Collections
-
-	VII.C.0.0 Burden and Cost Estimates Related to the Amendments
-
-VIII.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 229 AND 240
@@ -392,7 +278,7 @@ The amendments as adopted require disclosure of any company practices or policie
 
 <h>1. Manner and Location of Disclosure</h>
 
-<h>1. Proposed Amendments</h>
+<h>a. Proposed Amendments</h>
 
 Section 14(j) calls for disclosure in any proxy or consent solicitation material for an annual meeting of the shareholders. Shareholder annual meetings are typically the venue in which directors are elected. <sup>94</sup> We proposed to implement Section 14(j) by amending Items 7 and 22 of Schedule 14A to require the new Item 407(i) information if action is to be taken with respect to the election of directors. Although the language of Section 14(j) refers to disclosure in any proxy or consent solicitation material for an annual meeting of the company’s shareholders, this language, construed strictly, could result in the disclosure appearing in different instances than we currently require other corporate governance related disclosure. In particular, under our current rules, if a company solicits proxies <sup>95</sup> with respect to the election of directors, its proxy statement must include specified corporate governance information required by Item 407 of Regulation S-K, whether or not the election takes placeat an annual meeting. <sup>96</sup> The proposal reflected the view that Item 407(i) disclosure similarly would be relevant information for shareholders evaluating a company’s corporate governance practices in the context of director elections.
 
@@ -400,13 +286,13 @@ The proposal did not call for Item 407(i) disclosure to be included in Securitie
 
 In addition to including the new disclosure requirement, the Commission proposed to amend Item 7 of Schedule 14A to streamline its current provisions by more succinctly cross- referencing disclosure Items.
 
-<h>2. Comments on Proposed Amendments</h>
+<h>b. Comments on Proposed Amendments
 
 Most commenters supported requiring the new Item 407(i) disclosure only in proxy or consent solicitation material and information statements with respect to the election of directors. <sup>99</sup> Two of these commenters stated that the new Item 407(i) disclosure would not be relevant to investors in Securities Act or Exchange Act registration statements or annualreports. <sup>100</sup> In contrast, one commenter stated that the new Item 407(i) disclosure also should be required in annual reports to capture companies that are not holding annual meetings. <sup>101</sup>
 
 One commenter expressed support for the proposal to streamline Item 7, and stated that it would facilitate compliance with the new item. <sup>102</sup>
 
-<h>3. Final Amendments</h>
+<h>c. Final Amendments</h>
 
 We are adopting the amendments to Item 7 of Schedule 14A as proposed. By providing the disclosure in a proxy statement when action is to be taken with respect to the election of directors, shareholders will be able to consider the new disclosure at the same time they are considering the company’s other corporate governance disclosures and voting for directors. <sup>103</sup> The disclosure will provide additional information on whether the company has practices or policies affecting the alignment of incentives for employees and directors of the company whose securities they hold. We believe that this disclosure is most relevant when providing information about the election of directors. This will be the case whether shareholders are voting for directors at an annual or special meeting of shareholders, or in connection with an action authorized by written consent. <sup>104</sup>
 
@@ -416,7 +302,7 @@ In addition, we are amending Item 7 of Schedule 14A to streamline its current pr
 
 <h>2. Disclosure on Schedule 14C</h>
 
-<h>1. Proposed Amendments</h>
+<h>a. Proposed Amendments</h>
 
 Exchange Act Section 14(c) applies to companies not soliciting proxies or consents from some or all holders of a class of securities registered under Exchange Act Section 12 entitled to vote at a meeting or authorize a corporate action by execution of a written consent. <sup>107</sup> It creates disclosure obligations for a company that chooses not to, or otherwise does not, solicit proxies, consents, or other authorizations from some or all of its security holders entitled to vote. Section 14(j) expressly calls for proxy or consent solicitation materials for an annual meeting of the shareholders of the issuer to include the required
 
@@ -424,11 +310,11 @@ S. 1642, Hearings before a Subcommittee of the Committee on Banking and Currency
 
 The Commission did not propose to exclude the new Item 407(i) disclosure from Schedule 14C. <sup>110</sup>
 
-<h>2. Comments on Proposed Amendments</h>
+<h>b. Comments on Proposed Amendments</h>
 
 One commenter supported the inclusion of new Item 407(i) disclosure in Schedule 14C, noting that the Item 407(i) disclosure differs in type and nature from the disclosurescurrently excludable. <sup>111</sup> The commenter indicated that the proposed approach was appropriate because it would maintain consistency in the corporate governance disclosure provided in proxy statements and information statements with respect to the election of directors. No commenters opposed the proposed approach.
 
-<h>3. Final Amendments</h>
+<h>c. Final Amendments</h>
 
 As proposed, the final amendments do not exclude Item 407(i) disclosure from Schedule 14C. Applying the disclosure obligation to Schedule 14C filings will have the effect of applying the new Item 407(i) requirement to companies that do not solicit proxies from any or all security holders but are otherwise authorized by security holders to take an action with respect to the election of directors. Consistent with the views of one commenter, we believe that doing so is appropriate to retain consistency in the corporate governance disclosure provided in proxy statements and information statements with respect to the election of directors.
 
@@ -474,7 +360,7 @@ A few commenters addressed registered investment companies and none specifically
 
 The amendments will apply to the categories of issuers proposed, except with respect to listed closed-end funds, which we are exempting from the Item 407(i) disclosure requirement. In making these determinations, we have been guided by what we understand to be the statutory purpose behind Section 14(j), namely, to provide transparency to shareholders, if action is to be taken with respect to the election of directors, about whether a company’s employees or directors may engage in transactions that mitigate or avoid the incentive alignment associated with equity ownership.
 
-In vestment Companies
+<h>i. Investment Companies</h>
 
 In a change from the proposal, after considering the comments received, we have determined not to apply the new Item 407(i) disclosure requirement to listed closed-endfunds, <sup>138</sup> but it will apply to BDCs. We believe that this approach is consistent with the Commission’s treatment of BDCs regarding executive compensation disclosure requirements, <sup>139</sup> and no commenter suggested that BDCs should be excluded.
 
@@ -488,7 +374,7 @@ The Commission has considered, in the context of compensation and corporate gove
 
 We are persuaded by commenters that listed closed-end funds are more similar to open-end funds in this context and it is not necessary to apply the hedging disclosure requirements to listed closed-end funds. Accordingly, we find it is in the public interest and consistent with the protection of investors to exclude listed closed-end funds from the Item 407(i) disclosure requirements.
 
-E merging Growth Companies and Smaller Reporting Companies
+<h>ii. Emerging Growth Companies and Smaller Reporting Companies</h>
 
 As adopted, the amendments do not exempt EGCs or SRCs from the new disclosure requirement. We believe that information about potential alignment of shareholder interests with those of employees and directors would be relevant to shareholders of an EGC or an SRC. Moreover, given the change in the disclosure requirement to focus on a company’sexisting practices or policies, we do not expect the new disclosure to impose a significant compliance burden on companies.
 
@@ -498,7 +384,7 @@ As discussed in Section VI below, in addition to direct costs, companies subject
 
 As noted below, <sup>152</sup> in order to give companies adequate time to implement the new disclosures, we are providing a transition period. Companies that are not SRCs or EGCs are required to comply with Item 407(i) in proxy and information statements with respect to the election of directors during fiscal years beginning on or after July 1, 2019. We believe that providing a delayed compliance date for SRCs and EGCs will benefit those companies by allowing them to observe how other larger and more established companies implement Item 407(i). Accordingly, to assist SRCs and EGCs in preparing to implement Item 407(i), we are requiring them to comply with Item 407(i) in proxy and information statements with respect to the election of directors during fiscal years beginning on or after July 1, 2020.
 
-F oreign Private Issuers
+<h>iii. Foreign Private Issuers</h>
 
 As noted above, Section 14(j) calls for disclosure in any proxy or consent solicitation material for an annual meeting of the shareholders of the issuer. Because securities registered by a FPI are not subject to the proxy statement requirements of Exchange Act Section 14, <sup>153</sup> under the amendments, FPIs are not required to provide the new Item 407(i) disclosure.
 
@@ -546,7 +432,7 @@ In another report, 93 of the largest 100 companies (93%) that have equity securi
 
 An analysis of 2017 data indicated that 98% of a random subset of S&P 500 companies and 71% of a random subset of S&P SmallCap 600 companies disclosed hedging policies for named executive officers. In the Proposing Release, an analysis of 2012 data indicated that 67% of S&P 500 companies and 29% of a random subset of S&P SmallCap 600 companies disclosed hedging policies for named executive officers. See Proposing Release, at 8498. We cannot identify the causes of increased incidence of hedging policy disclosure among large companies with certainty and note that estimates based on samples of companies may contain noise, although differences in estimates are not likely to be biased because samples are drawn randomly. The increase in the rate of hedging policy disclosure over this time period may be partly due to the anticipation of a future requirement to provide hedging disclosures as a result of the Dodd-Frank Act and the Proposing Release, as well as due to demand from shareholders and other market participants. See also Section VI.B below,
 
-Discussion of Economic Effects
+<h>C. Discussion of Economic Effects<h>
 
 To help inform our analysis of the potential benefits and costs of disclosure of practices or policies regarding hedging to shareholders, we consider the potential ways in which hedging by employees and directors may affect shareholder value. However, as discussed in Section III above, these amendments relate only to disclosure of hedging practices or policies and should not be construed as suggesting that companies should have a practice or policy regarding hedging, or a particular type of practice or policy.
 

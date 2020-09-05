@@ -590,7 +590,9 @@ Aggregate average yearly change in external cost: $24,612 + $24,945 = $49,557.1.
 
 XBRL requirements for funds will require 182,472 hours of in-house personnel time and$9,951,090 in the cost of services of outside professionals . <sup>312</sup> We estimate that in the first three years under the amendments, the aggregate average yearly burden of XBRL requirements for funds will decrease to 178,803 hours of in-house personnel time <sup>313</sup> and the aggregate average yearly cost of services of outside professionals will increase to$10,000,647, <sup>314</sup> which represents a decrease of 3,669 hours of in-house personnel tim e <sup>315</sup> and an increase of $49,557 in the cost of services of outside professionals, <sup>316</sup> or a decrease of 0.33 hours of in-house personnel time per file r <sup>317</sup> and an increase of $4.43 in the cost of services of outside professionals per filer . <sup>318</sup>
 
-We are submitting these revised burden estimates to OMB for review in accordance with the PRA and its implementing regulations. <sup>319</sup>2. Regulation S-K and Regulation S-T
+We are submitting these revised burden estimates to OMB for review in accordance with the PRA and its implementing regulations. <sup>319</sup>
+
+<h>2. Regulation S-K and Regulation S-T</h>
 
 Regulation S-K (OMB Control No. 3235-0071) specifies information that must be provided in filings under both the Securities Act and the Exchange Act. Regulation S-T (OMB Control No. 3235-0424) specifies the requirements that govern the electronic submission of documents. The amendments will revise rules under Regulations S-K and S-T. Any changes in the paperwork burden arising from these amendments, however,will be reflected in the Interactive Data collection of information and the Mutual Fund Interactive Data collection of information. The rules in Regulations S-K and S-T do not impose any separate burden. We assign one burden hour each to Regulations S-K and S- T for administrative convenience to reflect the fact that these regulations do not impose any direct burden on filers. <sup>320</sup>
 

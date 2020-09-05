@@ -1,131 +1,3 @@
-https://www.sec.gov/rules/final/2018/33-10580.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Scope of Rule 139b
-
-		II.A.1.0 Definition of “Covered Investment Fund Research Report”
-
-		II.A.2.0 Definition of “Research Report”
-
-		II.A.3.0 Definition of “Covered Investment Fund”
-
-		II.A.4.0 Non-Exclusivity of Safe Harbor
-
-	II.B.0.0 Conditions for the Safe Harbor
-
-		II.B.1.0 Issuer-Specific Research Reports
-
-			II.B.1.a Reporting History and Timeliness Requirements
-
-			II.B.1.b Market Following Requirement
-
-			II.B.1.c Regular-Course-of-Business Requirement
-
-		II.B.2.0 Industry Research Reports
-
-			II.B.2.a Reporting Requirement
-
-			II.B.2.b Regular-Course-of-Business Requirement
-
-			II.B.2.c Content Requirements for Industry Research Reports
-
-			II.B.2.d Presentation Requirement for Industry Research Reports
-
-	II.C.0.0 Presentation of Performance Information in Research Reports about Registered Investment Companies
-
-	II.D.0.0 Role of Self-Regulatory Organizations
-
-		II.D.1.0 SRO Content Standards and Filing Requirements for Covered Investment Fund Research Reports
-
-		II.D.2.0 SRO Limitations
-
-	II.E.0.0 Conforming and Technical Amendments
-
-III.0.0.0 ECONOMIC ANALYSIS
-
-	III.A.0.0 Introduction
-
-	III.B.0.0 Baseline
-
-		III.B.1.0 Market Structure and Market Participants
-
-			III.B.1.a Covered Investment Funds
-
-			III.B.1.b Broker-Dealers
-
-			III.B.1.c Research on Covered Investment Funds
-
-		III.B.2.0 Regulatory Structure
-
-			III.B.2.a Legal and Regulatory Framework Applicable to Statements Included in Covered Investment Fund Research Reports
-
-			III.B.2.b Filing Requirements
-
-	III.C.0.0 Costs and Benefits
-
-		III.C.1.0 FAIR Act Statutory Mandate
-
-			III.C.1.a Benefits
-
-			III.C.1.b Costs
-
-		III.C.2.0 Rule 139b
-
-			III.C.2.a Affiliate Exclusion
-
-			III.C.2.b Regular-Course-of-Business Requirement
-
-			III.C.2.c Reporting History and Minimum Market Value Requirements for Issuers appearing in Issuer-specific Research Reports
-
-			III.C.2.d Reporting Requirement for Issuers Appearing in Industry Reports
-
-			III.C.2.e Content and Presentation Requirements for Industry Research Reports
-
-			III.C.2.f Presentation of Performance Information
-
-		III.C.3.0 Rule 24b-4
-
-		III.C.4.0 Amendments to Rule 101 of Regulation M and Form 12b-25
-
-		III.C.5.0 Effects on Efficiency, Competition, and Capital Formation
-
-		III.C.6.0 Alternatives Considered
-
-			III.C.6.a Conditions on Issuers Appearing in Issuer-Specific Research Reports
-
-			III.C.6.b Conditions on Issuers Appearing in Industry Research Reports
-
-		III.C.1.0 Applying uniform conditions on issuers appearing in issuer-specific and industry research reports
-
-		III.C.2.0 Allowing affiliates to appear in comprehensive list of recommended issuers
-
-			III.C.2.c Approach to Regular-Course-of-Business Requirement
-
-			III.C.2.d Presentation of Performance Information
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-V.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	V.A.0.0 Need for, and Objectives of, the Rules and Rule Amendments
-
-	V.B.0.0 Significant Issues Raised by Public Comments
-
-	V.C.0.0 Small Entities Subject to the Rules
-
-	V.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	V.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VI.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 230, 242, 249, and 270
@@ -746,7 +618,7 @@ Consequently, we do not consider higher minimum public market value thresholds.
 
 <h>b. Conditions on Issuers Appearing in Industry Research Reports</h>
 
-<h>1. Applying uniform conditions on issuers appearing in issuer-specific and industry research reports</h>
+1. Applying uniform conditions on issuers appearing in issuer-specific and industry research reports
 
 With respect to conditions affecting the availability of the safe harbor for industry research reports, we considered applying to industry research reports the same requirements as would apply to issuer-specific research reports. As with the restrictions on issuer-specific research reports, similarly restricting industry research reports could help ensure that funds included in research reports are well-followed, and could restrict the availability of the safe harbor in situations where we expect the information environment to be most limited: for new funds and for funds with niche markets.
 
@@ -756,11 +628,11 @@ This would reasonably prevent an issuer-specific research report about the new e
 
 In the context of covered investment funds, a similar rationale would not apply as broadly. Rule 139b content requirements for industry research reports would reference covered investment fund issuers of the same “type or investment focus,” rather than the issuers’ “industry or sub-industry” ( i.e. , a broad category of similar businesses). <sup>394</sup> Although it is clear that an industry research report about some covered investment fund types ( e.g. , emerging growth bonds) may have reasons to include a discussion of issuers that may not be eligible for inclusion in issuer-specific research reports ( e.g. , best-performing new fund), it is not clear that such reasons would rise to the level of requiring the discussion of such issuers. Unlike the effects of an operating company issuer on its “industry,” the effects of a covered investment fund issuer on its fund “type” is very limited.
 
-<h>2. Allowing affiliates to appear in comprehensive list of recommended issuers</h>
+2. Allowing affiliates to appear in comprehensive list of recommended issuers
 
 We considered providing that a comprehensive list of recommended issuers may include issuers that are affiliates of the broker-dealer that is publishing or distributing the research report under certain circumstances, including: if affiliates were identified; if disclosure about the affiliated issuers were limited; or if any performance information included in a list that includesaffiliated issuers were presented in accordance with rule 482. <sup>395</sup> Generally, we believe that including such provisions would benefit broker-dealers that play a significant role both as investment advisers to, and as distributors of, covered investment funds. However, as discussed above, we believe that broker-dealers publishing or distributing research reports about affiliated funds would have the potential for the most significant conflicts of interest. <sup>396</sup> Moreover, permitting affiliated funds to be included in such comprehensive lists could result in confusion: broker-dealers would be able to offer recommendations for affiliated funds in industry research reports, but there would be no safe harbor enabling them to publish or distribute issuer-specific research reports (which could provide the basis for such recommendations) as a result of the affiliate exclusion.
 
-<h>c. Approach to Regular-Course-of-Business Requirement</h>
+c. Approach to Regular-Course-of-Business Requirement
 
 As discussed in section III.C.2.b, in principle we expect a regular-course-of-business requirement to reduce opportunities for the safe harbor to be used in ways that lead to investor confusion. However, we also believe that in the context of covered investment funds, establishing whether a report is published in the “regular course of business” could present more challenges than in the rule 139 context of research reports about the securities of operating companies. <sup>397</sup> Thus, we requested comment on and have considered various alternativeapproaches to the regular-course-of-business requirements. <sup>398</sup> Specifically, we have considered that this requirement be defined more specifically to address, for example, circumstances in which a broker-dealer has not previously published or distributed research reports. <sup>399</sup> For example, we considered whether rule 139b should provide a “start-up” period to allowbroker-dealers to establish a regular course of business of publishing research reports. <sup>400</sup> We have also considered requiring that the regular-course-of-business requirement incorporate more specific requirements regarding the persons preparing such reports ( e.g. , that they must be employed by a broker-dealer to prepare such research in the regular course of his or her duties). <sup>401</sup>
 
@@ -770,7 +642,7 @@ Such investments increase the reputational costs associated with the publication
 
 In rule 139b, we have chosen not to incorporate these more specific alternative approaches to the regular-course–of-business requirement. While we note the potential benefits of such approaches in enhancing the value that covered investment fund research reports may provide investors, we also understand that these more specific alternatives may restrict the flow of relevant information to investors.
 
-<h>d. Presentation of Performance Information</h>
+d. Presentation of Performance Information
 
 As discussed above, we have chosen to incorporate rule 482 and Form N-2 requirements on the presentation of performance information in final rule 139b. <sup>404</sup> We also considered the alternatives of including rule 156 guidance factors (or a subset thereof), requirements relating to disclosure of nonrecurring fees, and requirements on the timeliness of performance data. <sup>405</sup> We also considered a requirement in rule 139b to incorporate general narrative disclosure into a research report about a registered investment company, aimed at reducing potential investor confusion. <sup>406</sup> For example, we could have required such research reports to incorporate a legend stating that the document is a research report and is not subject to the Commission’s regulationsapplicable to sales and advertising. We also could have required such a research report to incorporate similar disclosure without requiring that it be structured as a legend (which would require the disclosure of similar concepts but would not require any particular wording). <sup>407</sup>
 

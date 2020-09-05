@@ -1,291 +1,3 @@
-https://www.sec.gov/rules/final/2018/34-84875.pdf
-
-I.0.0.0 Executive Summary of Rule 610T
-
-II.0.0.0 Discussion of Rule 610T
-
-	II.A.0.0 Focus on Exchange Pricing Models and the Effects They Can Cause
-
-		II.A.1.0 Exchange Fee Models and Regulatory Framework
-
-		II.A.2.0 Impact of Exchange Fee Models
-
-		II.A.3.0 Focus on Exchange Fee Models
-
-		II.A.4.0 Non-Exchange Trading Centers
-
-		II.A.5.0 Options Exchanges
-
-	II.B.0.0 Securities
-
-		II.B.1.0 The Share Price Threshold of Pilot Securities
-
-		II.B.2.0 The Duration of Pilot Securities
-
-		II.B.3.0 Selecting Pilot Securities From All NMS Stocks
-
-			II.B.3.a Market Capitalization and Liquidity
-
-			II.B.3.b The Inclusion of ETPs
-
-			II.B.3.c The Inclusion of Canadian Interlisted Stocks
-
-			II.B.3.d The Inclusion of Other Types of NMS Stocks
-
-		II.B.4.0 The Ability of Issuers to Opt Out of the Pilot
-
-	II.C.0.0 Pilot Design
-
-		II.C.1.0 Need for a Pilot
-
-		II.C.2.0 Pilot Design
-
-		II.C.3.0 No Overlap with Tick Size Pilot
-
-		II.C.4.0 Stratified Selection of Pilot Securities
-
-		II.C.5.0 Number of NMS Stocks Included in Each Test Group
-
-		II.C.6.0 Reduction to the Pilot Size
-
-		II.C.7.0 Fee Cap Test Groups
-
-			II.C.7.a Fee Cap Level
-
-			II.C.7.b Applicability to Depth-of-Book and Non-Displayed Liquidity
-
-			II.C.7.c Prohibiting Rebates and Linked Pricing in Test Groups 1 and 2
-
-			II.C.7.d No-Rebate Test Group
-
-			II.C.7.e Prohibiting Rebates
-
-			II.C.7.f Application to Depth-of-Book and Non-Displayed Liquidity
-
-			II.C.7.g Maintaining Rule 610(c) Access Fee Cap
-
-			II.C.7.h Prohibiting Linked Pricing
-
-			II.C.7.i Linked Pricing Market Maker Exception
-
-		II.C.8.0 Control Group
-
-		II.C.9.0 Alternative Designs
-
-			II.C.9.a Include a Trade-At Requirement
-
-			II.C.9.b No Fee Cap Test Group
-
-			II.C.9.c Basis Point Pricing
-
-			II.C.9.d Higher Fee Caps and Fees Based on Tick Size
-
-			II.C.9.e Order Protection Rule
-
-			II.C.9.f Other Ideas for Additional Test Groups and Related Questions
-
-			II.C.9.g Gradual Reduction of Current Fee Cap Across All Stocks
-
-		II.C.291.0 Id.
-
-		II.C.292.0 Id.
-
-			II.C.292.h $0.0010 Access Fee
-
-		II.C.10.0 Metrics to Assess the Pilot
-
-		II.C.1.0 To what extent do access fees and rebates impact routing decisions for liquidity-taking orders? Are orders to take liquidity more likely to be routed to an exchange (compared to an off-exchange venue or ATS) in a lower access fee environment than they are currently? To what extent are impacts or changes in routing decisions driven by potential
-
-		II.C.2.0 To what extent do access fees and rebates impact routing decisions for liquidity-supplying orders? Are orders to provide liquidity less likely to be routed to an exchange (compared to an off-exchange venue or ATS) in a lower rebate environment than they are currently? To what extent do impacts or changes in order routing appear to be driven by potential conflicts of interest caused by rebates rather than other factors such as execution quality (e.g., fill-rates, time to fill, capturing
-
-		II.C.3.0 What impact does a reduction or elimination in rebates have on the NBBO, including spread width and the depth of interest displayed at the NBBO? To what extent does a potential decrease in depth of interest at the NBBO result in lower fill rates or smaller fill sizes for investor orders? Are natural investors better able to obtain queue priority in exchange order books, and are they more frequently able to capture the quoted spread when posting passively (e.g., buy on the bid
-
-		II.C.4.0 Are there common characteristics for securities (e.g., average daily
-
-		II.C.5.0 Are there common characteristics for securities where a reduction or elimination of rebates does not impact quoted spread? If so, what are those common characteristics (e.g., average daily trading volume,
-
-		II.C.6.0 Are there common characteristics for securities (e.g., average daily
-
-		II.C.7.0 How can we best understand the effects of rebates provided on inverted venues (where rebates are paid to takers of liquidity)?
-
-		II.C.8.0 What impact do lower access fees and rebates have on the amount of displayed and non-displayed liquidity on exchanges?
-
-		II.C.9.0 In the absence of rebates, do competition and market forces operate to produce a market equilibrium (within the current regulatory structure) that constrains transaction fees to levels at or below today’s current access fee cap? What do such market forces, and any resultant equilibrium pricing, tell us about the need to impose a cap on access fees? Does the Pilot provide any data that suggests, in the absence of rebates, an access fee cap would still be necessary as long as Rule 611
-
-		II.C.10.0 What is the impact of a lower fee cap on trading volumes on each exchange? What is the impact of a lower fee cap on other measures of liquidity on each exchange? How should we understand the difference between volume and liquidity?
-
-		II.C.11.0 What is the impact of lower rebates on the ability of smaller exchanges to attract liquidity-supplying orders?
-
-	II.D.0.0 Timing and Duration
-
-		II.D.1.0 Disclosure Initiatives and the Pilot
-
-		II.D.2.0 Automatic Sunset at Year One
-
-		II.D.3.0 Pre- and Post-Pilot Periods
-
-		II.D.4.0 Early Termination
-
-		II.D.5.0 Inclusion of a Phase-In Period
-
-	II.E.0.0 Data
-
-		II.E.1.0 Pilot Securities Exchange Lists and Pilot Securities Change Lists
-
-		II.E.2.0 Exchange Transaction Fee Summary
-
-		II.E.3.0 Order Routing Data
-
-			II.E.3.a Held and Not-Held Orders
-
-			II.E.3.b Principal Order Flow and Order Capacity
-
-			II.E.3.c Order Designation
-
-			II.E.3.d Broker Routing Data
-
-			II.E.3.e Directed Orders
-
-			II.E.3.f Utilizing the Consolidated Audit Trail
-
-			II.E.3.g Anonymization and Public Availability
-
-	II.F.0.0 Implementation
-
-	II.G.0.0 The Commission’s Authority to Conduct the Pilot
-
-III.0.0.0 Paperwork Reduction Act
-
-	III.A.0.0 Summary of Collection of Information
-
-	III.B.0.0 Proposed Use of Information
-
-	III.C.0.0 Respondents
-
-	III.D.0.0 Total Initial and Annual Reporting and Recordkeeping Burdens
-
-		III.D.1.0 Pilot Securities Exchange Lists and Pilot Securities Change Lists
-
-		III.D.2.0 Exchange Transaction Fee Summaries
-
-		III.D.3.0 Order Routing Datasets
-
-	III.E.0.0 Collection of Information is Mandatory
-
-	III.F.0.0 Confidentiality of Responses to Collection of Information
-
-	III.G.0.0 Retention Period for Recordkeeping Requirements
-
-IV.0.0.0 Economic Analysis
-
-	IV.A.0.0 Background and Market Failures
-
-		IV.A.1.0 Market Failure at the Broker-Dealer Level
-
-		IV.A.2.0 Market Failure at the Exchange Level
-
-	IV.B.0.0 Baseline
-
-		IV.B.1.0 Current Information Baseline
-
-			IV.B.1.a Limitations of Existing Studies
-
-			IV.B.1.b Limitations of Existing and Anticipated Data
-
-			IV.B.1.c The Potential to Study the Causal Link between Fees, Rebates, and Conflicts of Interest Absent a Pilot
-
-		IV.B.2.0 Current Market Environment
-
-			IV.B.2.a Market for Trading Services
-
-			IV.B.2.b Market for Liquidity Provision
-
-			IV.B.2.c Market for Broker-Dealer Services
-
-			IV.B.2.d Market for Assets Under Management
-
-			IV.B.2.e Transaction-based Fees and Rebates
-
-	IV.C.0.0 Analysis of Benefits and Costs of Transaction Fee Pilot
-
-		IV.C.1.0 Benefits of Transaction Fee Pilot
-
-			IV.C.1.a Benefits of More Informed Policy Decisions
-
-		IV.C.1.0 Representative Results
-
-		IV.C.2.0 Expansion of Readily Available Data
-
-		IV.C.3.0 Causality
-
-			IV.C.3.b Other Benefits of the Transaction Fee Pilot
-
-		IV.C.2.0 Costs of the Pilot
-
-			IV.C.2.a Exchange Compliance Costs of the Pilot
-
-			IV.C.2.b Other Costs Associated with the Pilot
-
-		IV.C.1.0 Direct Impact of Fees and Rebates on Quoted Spreads
-
-		IV.C.2.0 Potential Reduction in Liquidity Provision
-
-		IV.C.3.0 Conflicts of Interest
-
-		IV.C.4.0 Cost Estimates
-
-	IV.D.0.0 Impact on Efficiency, Competition, and Capital Formation
-
-		IV.D.1.0 Efficiency
-
-		IV.D.2.0 Competition
-
-			IV.D.2.a Competition Between Exchanges and Off-Exchange Trading Venues
-
-			IV.D.2.b Competition Between Exchanges
-
-			IV.D.2.c Competition Between Broker-Dealers
-
-			IV.D.2.d Competition Between Issuers
-
-			IV.D.2.e Competition Between ETPs
-
-	IV.E.0.0 Alternatives
-
-		IV.E.1.0 Propose Rulemaking Without Conducting a Pilot
-
-		IV.E.2.0 Expand Transaction Fee Pilot to Include Non-Exchange Trading Centers
-
-		IV.E.3.0 Trade-At Test Group
-
-		IV.E.4.0 Alternative Pilot
-
-		IV.E.5.0 Adjustments to the Transaction Fee Pilot Structure
-
-			IV.E.5.a Length of the Core Pilot
-
-			IV.E.5.b Length of Pre- and Post-Pilot Periods
-
-			IV.E.5.c Zero Access Fee Test Group
-
-			IV.E.5.d Alternative Test Groups
-
-			IV.E.5.e Non-displayed Liquidity and Depth of Book
-
-			IV.E.5.f Linked Pricing
-
-			IV.E.5.g Execution Quality Data
-
-			IV.E.5.h Excluding or Rotating Securities
-
-V.0.0.0 Regulatory Flexibility Analysis
-
-VI.0.0.0 Statutory Authority and Text of the Rule Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION
@@ -908,12 +620,6 @@ One commenter suggested that, rather than conducting the Pilot, the Commission s
 
 The Commission has considered this alternative but believes that the Pilot is a preferable approach because it will permit researchers to conduct differences-in-differences analysis over a much shorter time frame. By establishing stratified treatment groups and simultaneously testing different changes in the same variable, the Pilot will reduce the impact of events (economic, natural, political, etc.) across time and thereby is more conducive to an apples-to-apples comparison of the various treatment groups to one another. Pursuing a simultaneous and linear gradual reduction, such as that proposed by the commenter, could require greatly extending the Pilot’s duration depending on the number of fee cap levels to be tested. More importantly, this proposed alternative would not provide the Commission with the opportunity to directly observe the impact of rebates on order routing behavior, execution quality, and market quality because it would not necessarily include a prohibition on rebates and therefore having a no-rebate bucket will be substantially more informative. Lastly, as the Commission believes that a Control Group is necessary to ensure the usefulness of the Pilot’s data, pursuing the proposed structure would
 
-<h>291. Id.</h>
-
-<h>292. Id.impact more NMS stocks than the Pilot (as 50% of stocks would be included in the Test Group and 50% in the control group).</h>
-
-<h>h. $0.0010 Access Fee</h>
-
 One commenter recommended that rather than pursuing the Pilot, the Commission should instead amend Rule 610(c) to reduce the access fee cap to $0.0010 and also “conduct an abbreviated study of the effects of eliminating rebates similar to the criteria of Pilot Test Group Three.” <sup>293</sup> This commenter stated that “there is broad recognition” that the access fee cap should be reduced and the Pilot will “be lengthy, complex and costly” but “will not yield a different conclusion.” <sup>294</sup> The commenter stated that reducing the access fee cap to $0.0010 would be calibrated with present-day trading and execution costs, would better ensure displayed prices reflect the actual economic costs of an execution, and would allow exchanges to continue maintain their current net capture rates, while also choosing to offer rebates to incentivize liquidity provision if they chose to do so. <sup>295</sup>
 
 The Commission believes that its revised Pilot design responds to this commenter’s core recommendation, though the Commission is instituting a $0.0010 fee cap as part of the Pilot and not as an amendment to Rule 610(c). The Commission continues to believe that a Pilot is necessary to provide data to objectively evaluate the effect of exchange fees and rebates.
@@ -938,27 +644,27 @@ Furthermore, it is worth noting that the data collected pursuant to Rule 610T is
 
 In response to commenters’ requests for additional insight into the types of questions that the Commission hopes the Pilot will be able to answer, the Commission believes that the order routing datasets, as well as other data that is already readily accessible to researchers, should facilitate analysis of the impact of the Pilot through a broad spectrum of metrics. In particular, the Commission will consider, and encourages others to consider, the following questions in contemplating the impact of changes to fees and rebates across the exchanges. These questions include, but are not limited to:
 
-<h>1. To what extent do access fees and rebates impact routing decisions for liquidity-taking orders? Are orders to take liquidity more likely to be routed to an exchange (compared to an off-exchange venue or ATS) in a lower access fee environment than they are currently? To what extent are impacts or changes in routing decisions driven by potentialconflicts of interest created by transaction fees and rebates rather than other factors such as fill rates and execution quality?</h>
+1. To what extent do access fees and rebates impact routing decisions for liquidity-taking orders? Are orders to take liquidity more likely to be routed to an exchange (compared to an off-exchange venue or ATS) in a lower access fee environment than they are currently? To what extent are impacts or changes in routing decisions driven by potentialconflicts of interest created by transaction fees and rebates rather than other factors such as fill rates and execution quality?
 
-<h>2. To what extent do access fees and rebates impact routing decisions for liquidity-supplying orders? Are orders to provide liquidity less likely to be routed to an exchange (compared to an off-exchange venue or ATS) in a lower rebate environment than they are currently? To what extent do impacts or changes in order routing appear to be driven by potential conflicts of interest caused by rebates rather than other factors such as execution quality (e.g., fill-rates, time to fill, capturingthe quoted spread, adverse selection, or reversion)?</h>
+2. To what extent do access fees and rebates impact routing decisions for liquidity-supplying orders? Are orders to provide liquidity less likely to be routed to an exchange (compared to an off-exchange venue or ATS) in a lower rebate environment than they are currently? To what extent do impacts or changes in order routing appear to be driven by potential conflicts of interest caused by rebates rather than other factors such as execution quality (e.g., fill-rates, time to fill, capturingthe quoted spread, adverse selection, or reversion)?
 
-<h>3. What impact does a reduction or elimination in rebates have on the NBBO, including spread width and the depth of interest displayed at the NBBO? To what extent does a potential decrease in depth of interest at the NBBO result in lower fill rates or smaller fill sizes for investor orders? Are natural investors better able to obtain queue priority in exchange order books, and are they more frequently able to capture the quoted spread when posting passively (e.g., buy on the bidand sell on the offer)?</h>
+3. What impact does a reduction or elimination in rebates have on the NBBO, including spread width and the depth of interest displayed at the NBBO? To what extent does a potential decrease in depth of interest at the NBBO result in lower fill rates or smaller fill sizes for investor orders? Are natural investors better able to obtain queue priority in exchange order books, and are they more frequently able to capture the quoted spread when posting passively (e.g., buy on the bidand sell on the offer)?
 
-<h>4. Are there common characteristics for securities (e.g., average dailytrading volume, price, or market capitalization) where a reduction or elimination of rebates begins to impact quoted spread? If so, what are those common characteristics and at what level do reduced rebates begin to have an impact on quoted spread? To what extent does achange in quoted spread affect transaction costs for investor orders? If quoted spread widens in a security, to what extent is the potential spread cost offset by the reduction in the transaction fees paid, or a change in the ability to capture the quoted spread?</h>
+4. Are there common characteristics for securities (e.g., average dailytrading volume, price, or market capitalization) where a reduction or elimination of rebates begins to impact quoted spread? If so, what are those common characteristics and at what level do reduced rebates begin to have an impact on quoted spread? To what extent does achange in quoted spread affect transaction costs for investor orders? If quoted spread widens in a security, to what extent is the potential spread cost offset by the reduction in the transaction fees paid, or a change in the ability to capture the quoted spread?
 
-<h>5. Are there common characteristics for securities where a reduction or elimination of rebates does not impact quoted spread? If so, what are those common characteristics (e.g., average daily trading volume,price, or market capitalization)?</h>
+5. Are there common characteristics for securities where a reduction or elimination of rebates does not impact quoted spread? If so, what are those common characteristics (e.g., average daily trading volume,price, or market capitalization)?
 
-<h>6. Are there common characteristics for securities (e.g., average dailytrading volume, price, or market capitalization) where a reduction or elimination of rebates begins to impact effective spread?</h>
+6. Are there common characteristics for securities (e.g., average dailytrading volume, price, or market capitalization) where a reduction or elimination of rebates begins to impact effective spread?
 
-<h>7. How can we best understand the effects of rebates provided on inverted venues (where rebates are paid to takers of liquidity)?</h>
+7. How can we best understand the effects of rebates provided on inverted venues (where rebates are paid to takers of liquidity)?
 
-<h>8. What impact do lower access fees and rebates have on the amount of displayed and non-displayed liquidity on exchanges?</h>
+8. What impact do lower access fees and rebates have on the amount of displayed and non-displayed liquidity on exchanges?
 
-<h>9. In the absence of rebates, do competition and market forces operate to produce a market equilibrium (within the current regulatory structure) that constrains transaction fees to levels at or below today’s current access fee cap? What do such market forces, and any resultant equilibrium pricing, tell us about the need to impose a cap on access fees? Does the Pilot provide any data that suggests, in the absence of rebates, an access fee cap would still be necessary as long as Rule 611of Regulation NMS continues to impose order protection requirements on exchanges with protected quotes?</h>
+9. In the absence of rebates, do competition and market forces operate to produce a market equilibrium (within the current regulatory structure) that constrains transaction fees to levels at or below today’s current access fee cap? What do such market forces, and any resultant equilibrium pricing, tell us about the need to impose a cap on access fees? Does the Pilot provide any data that suggests, in the absence of rebates, an access fee cap would still be necessary as long as Rule 611of Regulation NMS continues to impose order protection requirements on exchanges with protected quotes?
 
-<h>10. What is the impact of a lower fee cap on trading volumes on each exchange? What is the impact of a lower fee cap on other measures of liquidity on each exchange? How should we understand the difference between volume and liquidity?</h>
+10. What is the impact of a lower fee cap on trading volumes on each exchange? What is the impact of a lower fee cap on other measures of liquidity on each exchange? How should we understand the difference between volume and liquidity?
 
-<h>11. What is the impact of lower rebates on the ability of smaller exchanges to attract liquidity-supplying orders?</h>
+11. What is the impact of lower rebates on the ability of smaller exchanges to attract liquidity-supplying orders?
 
 By providing a mechanism that is uniquely capable of facilitating an empirical review of these and similar questions, the Pilot is an essential tool that can further the understanding of an important component of equities market structure. While other market structure issues also might benefit from a pilot, exchange transaction fees currently are a prime focus for empirical study, as evidenced by, among other things, the EMSAC’s recommendation to the Commission and the number and nature of comments the Commission received on its proposal. Ultimately, the Commission desires to use the Pilot’s results to help assess whether (and, if so, in which types of NMS stocks) rebates have a positive impact on execution and market quality, or whether they have no or little effect or a negative effect.
 
@@ -2867,6 +2573,10 @@ With regard to a national securities exchange, the Commission’s definition of 
 289 See Birch Bay Letter, at 2.
 
 290 Morgan Stanley Letter, at 2.
+
+291. Id.
+
+292. Id.impact more NMS stocks than the Pilot (as 50% of stocks would be included in the Test Group and 50% in the control group).
 
 293 See Goldman Sachs Letter, at 1-4.
 

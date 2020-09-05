@@ -1,283 +1,3 @@
-https://www.sec.gov/rules/final/2018/34-84528.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Overview of Adopted Rule Amendments
-
-III.0.0.0 Amendments to Rule 600, Rule 605, and Rule 606
-
-	III.A.0.0 Customer-Specific Order Handling Reports
-
-		III.A.1.0 Applicability of Customer-Specific Disclosures in Rule 606(b)
-
-			III.A.1.a Proposal
-
-			III.A.1.b Final Rule and Response to Comments
-
-		III.A.2.0 Definition of Actionable Indication of Interest
-
-			III.A.2.a Proposal
-
-			III.A.2.b Final Rule and Response to Comments
-
-		III.A.3.0 Scope of Broker-Dealer’s Obligation Under Rule 606(b)(3)
-
-			III.A.3.a Broker-Dealer Required to Provide Report on its Order Handling to Customer Placing Order with the Broker-Dealer
-
-			III.A.3.b Smaller Orders Derived from the Order Submitted to the Broker- Dealer (i.e., Child Orders)
-
-		III.A.4.0 Timing and Frequency Requirements for Customer-Specific Order Handling Report
-
-			III.A.4.a Proposal
-
-			III.A.4.b Final Rule and Response to Comments
-
-		III.A.5.0 Format of Customer-Specific Order Handling Reports
-
-			III.A.5.a Breakdown by Order Routing Strategy Category at Each Venue
-
-			III.A.5.b Segregation of Directed Orders and Non-Directed Orders
-
-			III.A.5.c XML Format and Standardization
-
-		III.A.6.0 Rule 606(b)(3) Report Content
-
-			III.A.6.a Information on the Customer’s Order Flow With the Reporting Broker-Dealer
-
-			III.A.6.b Information For Each Venue to Which the Broker-Dealer Routed Orders For the Customer
-
-		III.A.7.0 Rule 606(c) Quarterly Aggregated Public Report of Rule 606(b)(3) Information
-
-			III.A.7.a Proposal
-
-			III.A.7.b Final Rule and Response to Comments
-
-	III.B.0.0 Public Order Routing Report Under Rule 606(a)
-
-		III.B.1.0 Orders Covered By Rule 606(a) Public Disclosures
-
-			III.B.1.a Proposal
-
-			III.B.1.b Final Rule and Response to Comments
-
-		III.B.2.0 Marketable Limit Orders and Non-Marketable Limit Orders
-
-			III.B.2.a Proposal
-
-			III.B.2.b Final Rule and Response to Comments
-
-		III.B.3.0 Payment for Order Flow Disclosures – Rules 606(a)(1)(iii) and (iv)
-
-			III.B.3.a Proposal
-
-			III.B.3.b Final Rule and Response to Comments
-
-		III.B.4.0 Format of Public Order Routing Report
-
-			III.B.4.a Proposal
-
-			III.B.4.b Final Rule and Response to Comments
-
-		III.B.5.0 Division of Rule 606(a) Report’s Section on NMS Stocks by S&P 500 Index and Other NMS Stocks
-
-			III.B.5.a Proposal
-
-			III.B.5.b Final Rule and Response to Comments
-
-		III.B.6.0 Calendar Month Breakdown
-
-			III.B.6.a Proposal
-
-			III.B.6.b Final Rule and Response to Comments
-
-		III.B.7.0 Execution Metrics
-
-	III.C.0.0 Amendment to Disclosure of Order Execution Information
-
-IV.0.0.0 Paperwork Reduction Act
-
-	IV.A.0.0 Summary of Collection of Information
-
-		IV.A.1.0 Customer-Specific Disclosures Under Rule 606(b)(3)
-
-		IV.A.2.0 Amendment to Current Public and Customer-Specific Disclosures
-
-		IV.A.3.0 Amendment to Current Disclosures under Rule 605
-
-	IV.B.0.0 Use of Information
-
-		IV.B.1.0 Customer-Specific Disclosures Under Rule 606(b)(3)
-
-		IV.B.2.0 Amendment to Current Public and Customer-Specific Disclosures
-
-		IV.B.3.0 Amendment to Current Disclosures under Rule 605
-
-	IV.C.0.0 Respondents
-
-		IV.C.1.0 Initial Estimate
-
-		IV.C.2.0 Estimate for Adopted Rule [Amendments to 605 and 606]
-
-	IV.D.0.0 Total Initial and Annual Reporting and Recordkeeping Burdens
-
-		IV.D.1.0 Customer-Specific Disclosures Under Rule 606(b)(3)
-
-			IV.D.1.a Initial Reporting and Recordkeeping Burden
-
-			IV.D.1.b Annual Reporting and Recordkeeping Burden
-
-		IV.D.2.0 Proposed Public Aggregated Report on Orders Subject to the Customer-Specific Disclosures Under Rule 606(b) Not Adopted
-
-		IV.D.3.0 Proposed Requirement to Document Methodologies for Categorizing Order Routing Strategies Not Adopted
-
-		IV.D.4.0 Amendment to Current Public and Customer-Specific Disclosures
-
-			IV.D.4.a Initial Reporting and Recordkeeping Burden
-
-			IV.D.4.b Annual Reporting and Recordkeeping Burden
-
-		IV.D.5.0 Revisions to Compliance Manuals
-
-		IV.D.6.0 Amendment to Disclosures under Rule 605
-
-	IV.E.0.0 Collection of Information is Mandatory
-
-	IV.F.0.0 Confidentiality of Responses to Collection of Information
-
-	IV.G.0.0 Retention Period for Recordkeeping Requirements
-
-V.0.0.0 Economic Analysis
-
-	V.A.0.0 Introduction
-
-	V.B.0.0 Baseline
-
-		V.B.1.0 Current $200,000 Threshold
-
-		V.B.2.0 Current Reporting for NMS Stock Orders of $200,000 and Above
-
-		V.B.3.0 Publication Period for Reports Required by Rules 605 and 606
-
-		V.B.4.0 Available Information on Conflicts of Interest
-
-		V.B.5.0 Available Information on Execution Quality
-
-		V.B.6.0 Format of Current Reports
-
-		V.B.7.0 Quality of Broker-Dealer Routing Practices for Not Held NMS Stock Orders
-
-		V.B.8.0 Use of Actionable IOIs
-
-		V.B.9.0 Competition, Efficiency, and Capital Formation
-
-	V.C.0.0 Costs and Benefits
-
-		V.C.1.0 Customer-Specific Order Handling Disclosures
-
-			V.C.1.a Scope of Customer-Specific Order Handling Disclosure in Rule 606(b)(1) and 606(b)(3), and the De Minimis Exceptions in Rules 606(b)(4) and (b)(5)
-
-		V.C.1.0 Not Held Orders/Rule 606(b)(3)
-
-		V.C.2.0 De minimis Exceptions and Rule 606(b)(1)
-
-		V.C.3.0 Comparison to the Proposal
-
-		V.C.1.0 Compliance Costs
-
-		V.C.2.0 Influence of De Minimis Exceptions on Compliance Costs
-
-		V.C.3.0 Other Costs
-
-			V.C.3.b Customer Requests for Information on Customer-Specific Handling Under Adopting Rule 606(b)(3)
-
-		V.C.1.0 Execution Quality Benefits
-
-		V.C.2.0 Benefits of Enhanced, Standardized Report
-
-		V.C.3.0 Additional Benefits
-
-		V.C.1.0 The Potential for Less Information
-
-		V.C.2.0 Skewed Routing Practices
-
-		V.C.3.0 Compliance Costs
-
-		V.C.4.0 Other Potential Costs
-
-		V.C.2.0 Public Order Handling Report
-
-			V.C.2.a Orders Subject to Rule 606(a) Public Disclosures
-
-		V.C.2.0 One commenter noted its belief that the vast majority of orders entered by institutional customers are with not-held instructions and the vast majority of orders entered by retail investors have held instructions. See STA Letter at 4.
-
-			V.C.2.b Marketable Limit Orders and Non-Marketable Limit Order
-
-			V.C.2.c Net Payment for Order Flow and Transaction Fees and Rebates by Specific Venue
-
-			V.C.2.d Discussion of Arrangement Terms with a Specified Venue
-
-			V.C.2.e Additional Amendments to Rule 606(a)(1) Disclosures
-
-		V.C.1.0 Benefits
-
-		V.C.2.0 Costs
-
-			V.C.2.f Compliance Costs for Rule 606(a)(1) Order Routing Reports
-
-		V.C.3.0 Disclosure of Order Execution Information
-
-			V.C.3.a Benefits
-
-			V.C.3.b Costs
-
-		V.C.4.0 Structured Format of Reports
-
-		V.C.5.0 Other Definitions in Adopted Amendments to Rule 600
-
-			V.C.5.a Definition of Non-Marketable Limit Order in Adopted Rule 600(b)(54)
-
-			V.C.5.b Definitions of “Orders Providing Liquidity” and “Orders Removing Liquidity” in Adopted Rule 600(b)(58) and (59)
-
-	V.D.0.0 Alternatives Considered
-
-		V.D.1.0 Alternative Scope for the Customer-Specific Reports
-
-		V.D.2.0 Scope of Broker-Dealer’s Obligation Under Rule 606(b)(3)
-
-		V.D.3.0 Public Availability of Aggregated Rule 606(b)(3) Order Handling Information
-
-		V.D.4.0 Automatic Provision of Customer-Specific Not Held Order Handling Report (Adopted Rule 606(b)(3))
-
-		V.D.5.0 Submission to the Commission of Not Held NMS Stock Order Handling Reports (Adopted Rule 606(b)(3))
-
-		V.D.6.0 Categories of NMS Stocks for Rule 606(a)
-
-		V.D.7.0 Disclosure of Additional Information about Not Held NMS Stock Order Routing and Execution
-
-		V.D.8.0 Order Handling Reports at the Stock Level (Adopted Rule 606(b)(3))
-
-		V.D.9.0 Alternative to Three-Year Posting Period (Adopted Amendments to Rules 605(a)(2) and 606(a)(1))
-
-	V.E.0.0 Economic Effects and Effects on Efficiency, Competition, and Capital Formation
-
-		V.E.1.0 Effects of Adopting Amendments on Efficiency and Competition
-
-			V.E.1.a Amendments to Public Disclosures for Orders Covered By Rule 606(a) and 606(b)(1)
-
-			V.E.1.b Amendments to Disclosures for Orders Covered By 606(b)(1)
-
-			V.E.1.c Adopted Rules for Disclosures for Not Held NMS Stock Orders
-
-		V.E.2.0 Effects of Adopting Amendments on Capital Formation
-
-VI.0.0.0 Regulatory Flexibility Certification
-
-VII.0.0.0 Statutory Authority and Text of the Proposed Rule Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 240 and 242
@@ -1310,9 +1030,9 @@ Many, but not all, of the costs of the adopted amendments to Rules 600, 605, and
 
 <h>a. Scope of Customer-Specific Order Handling Disclosure in Rule 606(b)(1) and 606(b)(3), and the De Minimis Exceptions in Rules 606(b)(4) and (b)(5)</h>
 
-B enefits
+Benefits
 
-<h>1. Not Held Orders/Rule 606(b)(3)</h>
+1. Not Held Orders/Rule 606(b)(3)
 
 The Commission believes that the adopted approach to Rule 606(b)(3), <sup>639</sup> based on the distinction between not held and held orders, targets the Rule 606(b)(3) reports to the investors most likely to benefit from them and to the orders in which the reports would be most meaningful. Because of the discretion afforded in the handling of not held orders, the complexity in which not held orders are handled, and the customer-specific nature of instructions for handling not held orders, <sup>640</sup> the granular level of information the Rule 606(b)(3) reports provide for not held orders will be beneficial. Commenters further indicated that retail investor orders are generally held and institutional investor orders are generally not held. <sup>641</sup> The Commission also recognizes that broker-dealers have routing discretion on held orders.
 
@@ -1322,7 +1042,7 @@ In light of the comments received suggesting the order type approach, the Commis
 
 Consistent with commenters, the Commission believes that the adopted approach will facilitate identification of orders by broker-dealers that is consistent with many of the broker- dealers’ current practices, which in turn could promote the accuracy of order handling information of not held orders and help ensure the benefits to customers that receive the reports. As noted by multiple commenters, broker-dealers and other market participants are familiar with the held and not held order type classifications, classifying orders as held or not held would be consistent with current industry practice, and the terms held and not held are common terms of usage in the securities markets. <sup>645</sup> Indeed, as pointed out by commenters, broker-dealers already must mark orders that they execute as held or not held, these order classifications are commonly recognized in the FIX Protocol and utilized in OATS technical specifications, the Commission’s definition of “covered order” in Rule 600(b)(15) already relies on these order classifications, and broker-dealers already characterize orders on a held or not held basis to comply with Rule 605’s covered order requirement and other rules such as FINRA’s Manning rule (FINRA Rule 5320).
 
-<h>2. De minimis Exceptions and Rule 606(b)(1)</h>
+2. De minimis Exceptions and Rule 606(b)(1)
 
 The Commission is adopting Rules 606(b)(4) and Rule 606(b)(5) de minimis exceptions from Rule 606(b)(3)’s requirements, which except a broker-dealer from the Rule 606(b)(3) requirements at the firm level or the customer level. <sup>646</sup>
 
@@ -1346,7 +1066,7 @@ The Commission also acknowledges that adopted Rule 606(b)(5)’s customer-level 
 
 The Commission also analyzed how the benefits of Rule 606(b)(1) compare to the scope of rules prior to today’s amendments. The Commission believes that amended Rule 606(b)(1) reports are targeting the appropriate orders resulting in the reports being available to those mostly likely to benefit from them. Under the scope of public order handling reports prior to the amendments, customer orders with a market value of less than $200,000 were included in the public order routing reports and broker-dealers would need to prepare Rule 606(b)(1) reports of such orders upon request. In addition, broker-dealers would need to prepare 606(b)(1) reports for orders having a market value of at least $200,000 upon requests under the scope of previously existing reporting requirements. The amended Rule 606(b)(1) requires a broker- dealer, upon customer request, to provide the disclosures set forth in Rule 606(b)(1) for orders in NMS stock that are submitted on a held basis, and for orders in NMS stock that are submitted on a not held basis and for which the broker-dealer is not required to provide the customer a report under Rule 606(b)(3) pursuant to the de minimis exceptions. As discussed in Section III. A. 1. b. vi. , whereas the Rule 606(b)(3) disclosures are designed primarily for institutionalcustomers, the Rule 606(b)(1) disclosures that cover held NMS stock orders are more retail customer-focused and thus better aligned with the type of customer most likely to submit held NMS stock orders. The staff’s supplemental analysis found that about 25% of shares and about 33% of not held orders in the sample would have received 606(b)(1) reports under the requirements prior to today’s amendments but will receive Rule 606(b)(3) reports. As discussed in Sec tion V .C .1 .a. i ,1 ., Rule 606(b)(3) reports are more likely to benefit these customers submitting not held orders than Rule 606(b)(1) reports are. A staff’s supplemental analysis also showed that about close to 41% of total shares and about 66% of total numbers of orders in the sample would be eligible for the disclosures required by Rule 606(b)(1). As discussed above, because customers sending held orders may have a different level of sophistication to understand the benefits of the 606(b)(1) reports and may have less of a need for the detail and granularity in customer-specific reports, these customers may not frequently request the Rule 606(b)(1) reports. However, as broker-dealers are required to provide Rule 606(b)(1) reports on customers’ requests, Rule 606(b)(1) could provide an option to these customers to request additional information if they believe that they would benefit from doing so. As a result, the amended Rule 606(b)(1) could keep the same benefits for such customers by providing them the opportunity to better compare and monitor broker-dealers’ order routing practices, which could promote better execution quality of held orders and competition among broker-dealers.
 
-<h>3. Comparison to the Proposal</h>
+3. Comparison to the Proposal
 
 The Commission also believes that the benefits of the amended scope are greater than the potential benefits of the Proposal, which would have required standardized customer-specific reports on orders of at least $200,000. <sup>655</sup> As discussed below, the Commission believes that theproposed scope, reflected by the proposed definition of institutional order, excluded many institutional orders whereas the adopted scope better targets those likely to benefit from the standardized Rule 606(b)(3) customer-specific reports, provides for more accurate identification of the orders to be included and includes a more comprehensive set of orders in the Rule 606(b)(3) reports.
 
@@ -1364,11 +1084,11 @@ Under the adopted approach, these orders will receive the Rule 606(b)(3) reports
 
 The Commission acknowledges that the benefits to customers that place held orders with at least $200,000 in market value could be lower under the adopted rule than under the proposed rule. Specifically, held orders having a market value of at least $200,000 will not be included in the standardized customer-specific reports under adopted Rule 606(b)(3), whereas they would have been included under the Proposal. The staff’s supplemental analysis found that among orders having a market value of at least $200,000, close to 23% of total shares and about 36% of the total number of orders in the sample will not receive Rule 606(b)(3) reports under the adopted rule, whereas these orders would have been included in the customer-specific reports under the proposed $200,000 threshold. Thus, some customers that send held orders of a market value of at least $200,000 will not benefit from the order handling transparency under Rule 606(b)(3). However, a customer could request the disclosures set forth in Rule 606(b)(1) for these orders, which would maintain the status quo. Also, customers could switch to sending not held orders from held orders in order to receive the benefits of the Rule 606(b)(3) reports, which could result in a worse execution quality for these orders, assuming customers currently optimize their decision on when to request that an order be handled as not held. However, the Commission recognizes that if the benefits of including large held orders in the standardized customer-specific report under adopted Rule 606(b)(3) outweigh the execution quality cost of requesting not held handling of such orders, the customer could submit such orders as not held.
 
-C osts
+Costs
 
 As discussed in detail below, the Commission recognizes that the scope of orders eligible for the Rule 606(b)(3) reports influences the compliance and other costs of the adoptedamendments. First, broker-dealers will incur costs to ensure the Rule 606(b)(3) reports cover the required orders and to implement the de minimis exceptions set forth in Rule 606(b)(4) and Rule 606(b)(5). The Commission believes the compliance costs associated with identifying not held orders are lower than the compliance costs associated with the proposed $200,000 threshold. In addition, the Commission believes that the two de minimis exceptions will reduce the costs to broker-dealer of producing the customer-specific reports of Rule 606(b)(3), but acknowledges that broker-dealers might incur costs in producing the customer-specific reports in Rule 606(b)(1) for the orders that, due to the de minimis exceptions, are not eligible for the customer- specific reports of Rule 606(b)(3). Further, the Commission acknowledges additional costs that will originate from the uncertainty created by the de minimis exceptions and from potential behavior changes of broker-dealers and customers. The Commission quantifies the costs where possible and provides qualitative discussion when quantifying costs and benefits is not feasible. Many, but not all, of the costs of the adopted amendments to Rules 600, 605, and 606 involve a collection of information, and these costs and burdens are discussed in the Paperwork Reduction Act Section above, with those estimates being used in the economic analysis below. <sup>660</sup>
 
-<h>1. Compliance Costs</h>
+1. Compliance Costs
 
 The requirement for customer-specific order handling disclosure under Rule 606(b)(3) based on not held or held orders will create compliance costs, as broker-dealers will need to prepare the customer-specific reports for not held orders required by Rule 606(b)(3). <sup>661</sup> Theestimates of the related compliance costs are encompassed in the cost estimates discussed in Sec tion V. C .1 .b .ii .3 . The adopted approach will create compliance costs for broker-dealers to implement a process to identify not held orders for inclusion in Rule 606(b)(3) reports and for the processing time to screen order data for not held orders when generating the reports. <sup>662</sup> However, the Commission believes that the adopted approach is targeted to moderate compliance burdens. In particular, as discussed in Section V .C .1 .a .i , multiple commenters stated that broker-dealers are already familiar with the held and not held order type classifications and orders are already marked as held or not held. <sup>663</sup> Therefore, classifying orders as held or not held would not create other additional implementation or ongoing costs for broker-dealers.
 
@@ -1382,7 +1102,7 @@ Additionally, as discussed above, broker-dealers that receive an insignificant a
 
 To the extent that some orders are unpriced, under the proposed rule broker-dealers would have needed to estimate the current market price of NMS stocks when the orders were received to identify the value of the orders for comparison to the $200,000 threshold in the Proposal. This would require broker-dealers to create systems to estimate the value of unpriced orders. Under the adopted rule, however, consistent with the Commission’s analysis immediately above, broker-dealers would not incur such compliance costs because orders are currently identified as held or not held.
 
-<h>2. Influence of De Minimis Exceptions on Compliance Costs</h>
+2. Influence of De Minimis Exceptions on Compliance Costs
 
 The Commission believes that the two de minimis exceptions to the adopted rule will further limit the scale of compliance costs on certain broker-dealers to provide Rule 606(b)(3) reports. Specifically, the Commission believes that adopted Rule 606(b)(4), which provides for a firm-level de minimis exception for broker-dealers, will limit the costs to broker-dealers that rarely handle not held NMS stock order flow. Absent a firm-level de minimis threshold, every broker-dealer that handles not held orders, regardless of its customer base and core business, would be subjected to compliance costs to create the systems and processes to generate and deliver the Rule 606(b)(3) reports. The supplemental staff analysis found that among the 342 broker-dealers that receive not held orders from customers in the sample data, about 8% (28 broker-dealers) would qualify for the firm-level de minimis exception from Rule 606(b)(3)’s requirements. Accordingly, the firm-level de minimis exception in Rule 606(b)(4) would result in approximately 8% of broker-dealers not incurring the compliance costs associated with the standardized customer-specific order handling reports required by Rule 606(b)(3). As discussed in Section V .C .1 .a. i .2 ., the number of orders that will be excluded under the de minimis exception would be minimal compared to the current reporting requirement and to the proposal. The minimal amount of not held orders excluded under the firm-level de minimis exception suggests that there would be only limited benefits of Rule 606(b)(3) in circumstances where broker-dealers handle a minimal amount of not held orders, and that the resulting benefits of customer-specific order handling disclosures required by Rule 606(b)(3) may not be as great as intended.
 
@@ -1394,7 +1114,7 @@ The Commission acknowledges that the two de minimis exceptions may create uncert
 
 Further, as discussed above, the Commission acknowledges that the customer-level de minimis exception under Rule 606(b)(5) may result in certain customers with seasonality in their trading volume exceeding the threshold during certain months and not during others. As discussed above, to the extent that such customers receive net benefits from receiving new customer-specific reports under the requirement of Rule 606(b)(3) and that such customers have flexibility in their trading activities, <sup>666</sup> customers could be willing to incur the costs to alter trading behavior to receive the Rule 606(b)(3) reports more frequently during the year. Because customers’ trading activity can be affected by future market conditions or unexpected events in the financial markets, it could be difficult for customers to predict at the time they are placing an order, whether that order could be in the standardized customer-specific reports.
 
-<h>3. Other Costs</h>
+3. Other Costs
 
 The Commission also acknowledges that the firm-level de minimis exception in adopted Rule 606(b)(4) could incentivize broker-dealers to keep their not held trading volume below the 5% threshold. As discussed above, there are a small number of broker-dealers with not held orders slightly below or above the 5% de minimis threshold. Specifically, according to Table 1, for 8 broker-dealers, not held orders account for between 5% and 10% of orders received by that broker-dealer. To avoid the compliance costs, broker-dealers could discourage customers from using not held orders so as not to exceed the 5% threshold and therefore not to be subject to the obligations of providing the new disclosures upon request. Under this scenario, customers sending not held orders to these broker-dealers may not receive the benefit of the disclosure ofcustomer-specific order handling practices required by Rule 606(b)(3) and could face additional execution costs if they suboptimally submit held orders relative to today. However, the Commission notes that for business reasons, some firms might choose to provide the new customer-specific order handling disclosures to its customers, regardless of the de minimis exception, limiting the costs of such incentives on investors. Further, customers that value the Rule 606(b)(3) reports could be willing to incur the cost of switching to the broker-dealers that do not receive or use the firm-level exception in order to ensure receipt of the customer-specific reports. As a result, the threat of losing customers could dampen the broker-dealers’ incentives to encourage their customers to use held orders.
 
@@ -1402,13 +1122,13 @@ The Commission also acknowledges that the customer-level de minimis threshold un
 
 However, some firms may choose to provide the new customer-specific order handling disclosures to its customers, regardless of the de minimis exceptions for business reasons, and the expectation of these reports could mitigate customers’ incentives.
 
-<h>b. Customer Requests for Information on Customer-Specific Handling Under Adopting Rule 606(b)(3)</h>
+b. Customer Requests for Information on Customer-Specific Handling Under Adopting Rule 606(b)(3)
 
-B enefits
+Benefits
 
 The required customer-specific order handling disclosures being adopted under Rule 606(b)(3) will provide transparency about order routing and execution quality for not held orders placed by customers. <sup>667</sup>
 
-<h>1. Execution Quality Benefits</h>
+1. Execution Quality Benefits
 
 The Commission believes that Rule 606(b)(3) will benefit customers, because broker- dealers will have an additional incentive to improve their order routing decisions for customers submitting orders on a not held basis, who could also use the reports required by the amendments to Rule 606 to compare routing and execution quality among broker-dealers, which could lead to better execution quality for not held orders. As a result, Rule 606(b)(3), as adopted, could lead to more transparent order routing practices and execution quality disclosures, which could enhance competition in the market for brokerage services. The disclosures in Rule 606(b)(3) will provide customers that submit not held orders, including investment fund managers, standardized information regarding their broker-dealers’ order routing practices and execution quality. To the extent that the reports required by Rule 606(b)(3) increase the transparency of order routing and execution quality for customers’ not held orders, broker-dealers will be better able to compete along the execution quality dimensions provided in the reports, such as the fill rate, percentage of shares executed at the midpoint and priced at the near or far side of the quote, and average time between order entry and execution or cancellation for orders posted to the limit order book, in addition to commissions and other considerations on which they currently compete.
 
@@ -1416,7 +1136,7 @@ The Commission believes that amended Rule 606(b)(3) could affect competition bet
 
 As a result, as several commenters stated, the information on execution quality could better enable customers placing orders on a not held basis to evaluate the impact that routing decisions have on the quality of their order executions and could provide information regarding broker- dealers’ potential conflicts of interest. <sup>668</sup> The Commission believes that the amended Rule 606(b)(3) will promote better order handling practices among broker-dealers, therefore potentially promoting competition between trading centers and ultimately incentivizing broker- dealers to improve execution quality of not held orders.
 
-<h>2. Benefits of Enhanced, Standardized Report</h>
+2. Benefits of Enhanced, Standardized Report
 
 As adopted, Rule 606(b)(3) will address the concerns that current customer reports are not standardized. As discussed in the Proposing Release, <sup>669</sup> some customers currently request and receive reports about order routing and execution quality of their orders from their broker-dealers. However, these reports are not standardized and, as a result, it may be difficult to compare broker-dealers on the basis of those reports. In addition, the availability, detail, and quality of such reports likely differ across customers, e.g. , it might be the case that customersplacing a greater volume of not held orders have easier access to such reports compared to customers with a smaller volume of not held orders. Moreover, the information provided by a broker-dealer may vary over time without any standardized or required content for the reports. As adopted, Rule 606(b)(3) could address both of these concerns as the reports will be standardized for all broker-dealers and all customers placing not held orders (subject to two de minimis exceptions) making comparisons easier and analysis more useful. Furthermore, every customer placing orders on a not held basis will be able to receive reports upon request from their broker-dealer.
 
@@ -1438,7 +1158,7 @@ Commission acknowledges that such identification may discourage such institution
 
 The Commission also recognizes that, relative to proposed Rule 606(b)(3), this modification could result in customers receiving fewer details in their reports. While customers could have used such details to better compare their broker-dealers, the Commission does not believe that the identities of particular customers placing not held orders would significantly influence customers’ decisions. Therefore, this modification does not significantly reduce benefits compared to the Proposal.
 
-<h>3. Additional Benefits</h>
+3. Additional Benefits
 
 An additional benefit of Rule 606(b)(3), and specifically the benefit of having the standardized customer-specific order handling information available upon request, is that customers placing orders on a not held basis could combine the order handling information with existing TCA or enhance their TCA. As noted above, customers sending not held orders often work with independent third-party vendors to perform TCA as a means of evaluating the cost and quality of brokerage services. Customers sending not held orders can also conduct their own TCA in-house. TCA, whether conducted in-house or by a third-party, generally analyzes data on the parent orders, but typically cannot analyze data on the child orders because of the lack ofstandardization of the current ad hoc order handling information.	As a consequence, existing TCA typically does not incorporate information on how many child orders exist, a broker- dealer’s order routing strategy of not held orders, or cost, routing, and execution quality for individual child orders. The disclosures required by adopted Rule 606(b)(3) will close this informational gap, so that customers will have more information on how broker-dealers handle and execute parent and child not held orders.
 
@@ -1448,23 +1168,23 @@ Rule 606(b)(3) also requires the customer-specific order handling report to be d
 
 The Rule 606(b)(3) reports also require the broker-dealer to disclose, among other things, information on not held order execution. <sup>678</sup> This information will be relevant to a customer assessing its broker-dealer’s execution of its directed orders, including a customer interested in validating that its broker-dealer is routing its directed not held orders consistent with the customer’s instructions. These enhanced disclosures will better enable customers to analyze not held order routing and execution quality provided by broker-dealers, which will allow customers to more efficiently monitor, evaluate, and select broker-dealers. In addition, customers and broker-dealers will be able to evaluate execution quality of not held orders on different trading centers more efficiently. Therefore, the Commission believes that customers will benefit from the enhanced transparency in Rule 606(b)(3) reports.
 
-Finally, Rule 606(b)(1) and Rule 606(b)(3) will require reports to be made available using an XML schema and associated PDF renderer published on the Commission’s website. <sup>679</sup> The benefits, as well as the costs associated with this requirement, are discussed in Section V. C .4 .
+Finally, Rule 606(b)(1) and Rule 606(b)(3) will require reports to be made available using an XML schema and associated PDF renderer published on the Commission’s website. <sup>679</sup> The benefits, as well as the costs associated with this requirement, are discussed in Section V.C.4.
 
-C osts
+Costs
 
 The required customer-specific order handling disclosures being adopted under Rule 606(b)(3) will require broker-dealers to provide, upon request, standardized reports on not held order handling, which include more detailed information on broker-dealers’ order routingpractices. These requirements will result in initial and ongoing compliance and reporting costs to broker-dealers. These costs are quantified in Sec tion V. C. 1. b. ii .3 . Additionally, the customer- specific order handling disclosure requirement under Rule 606(b)(3) could alter the information content of the report if broker-dealers already provide more information than is required by the adopted amendment or broker-dealers try to disguise order routing behavior to avoid customers’ monitoring.
 
-<h>1. The Potential for Less Information</h>
+1. The Potential for Less Information
 
 As discussed above, some customers currently request reports about the handling of their not held orders from their broker-dealers and those reports may be less or more detailed and provide different, and potentially less or potentially more, information than Rule 606(b)(3) will require. If broker-dealers currently provide more detailed or additional information to customers, reporting requirements under Rule 606(b)(3) could impose a cost on such customers if the broker-dealers stop providing the more detailed or additional information and instead provide only the data required for customer-specific order handling by Rule 606(b)(3). The Commission believes that this scenario is not very likely because, following Rule 606(b)(3)’s implementation, customers could still request additional information or customized reports from their broker-dealers and broker-dealers are likely to satisfy such requests, to the extent they currently do, to retain their customers. As discussed above, the willingness of broker-dealers to provide such customized reports to customers and the level of detail in such a report might depend on the business relationship between the broker-dealer and the customer. Customers that send or may send a large number of orders to broker-dealers might be able to get customized reports that they can more easily compare than customers that send fewer orders; and those reports might be more detailed, compared to reports that customers that send fewer ordersreceive. While Rule 606(b)(3) reduces this discrepancy, in that all customers will be able torequest the standardized reports required by Rule 606(b)(3), the Commission recognizes that, to the extent large customers placing orders on a not held basis are able to receive customized reports that provide information not contained in the required reports, those large customers placing not held orders will continue to have an advantage over smaller customers placing not held orders who are not able to receive the same reports.
 
-<h>2. Skewed Routing Practices</h>
+2. Skewed Routing Practices
 
 In addition, the greater transparency provided as a result of Rule 606(b)(3) might lead broker-dealers to change how they handle not held orders. Given that broker-dealers will be aware of the metrics to be used a priori, they might route not held orders in a manner that promotes a positive reflection on their respective services but that may be suboptimal for their customers. Any changes to broker-dealers’ order routing decisions resulting from the Commission’s adoption of Rule 606(b)(3) may be intended to benefit customers placing not held orders, but if broker-dealers and customers focus exclusively on the metrics in the reports required by Rule 606(b)(3), the order routing decisions could also be viewed as suboptimal for some customers.
 
 For example, if a broker-dealer routes not held orders so that the orders execute at lower cost with a higher fill rate, shorter duration, and more price improvement than the broker- dealer’s competitors, in order to achieve these objectives she might route the majority of non- marketable limit order shares to the trading center offering the highest rebate. A customer placing not held orders that reviews the order handling report might suspect that the broker- dealer acted in its self-interest by selecting the highest rebate venue in order to maximize rebates when, in fact, the broker-dealer made the decision on the basis of other variables, which might not be completely reflected in the amended reports. Under the amendments to Rule 606, thebroker-dealer may be concerned about the perception of acting on a conflict of interest, when thebroker-dealer is in fact acting in the customers’ interests. As a result, a broker-dealer may be incentivized to route fewer non- marketable limit order shares to the trading center offering the highest rebate, even if this imposes additional costs on the broker-dealer’s customers, in an effort to ensure that a customer does not misconstrue the intent behind the broker-dealer’s routing decisions. Such a potential outcome could reduce the intensity of competition between broker- dealers on the dimension of execution quality.
 
-<h>3. Compliance Costs</h>
+3. Compliance Costs
 
 The disclosure requirements of Rule 606(b)(3) will also impose compliance costs, as the required disclosures could entail some reprogramming by broker-dealers that execute or route orders subject to the customer-specific disclosures required by Rule 606(b)(3). A broker-dealer would have to program its systems to filter their order data by a condition using a held or a not held indicator, subject to two de minimis exceptions. In addition to reprogramming, receiving and processing customer requests, as well as preparing and transmitting the data to customers on request, will impose costs.
 
@@ -1484,7 +1204,7 @@ The Commission believes that it is reasonable to estimate that one third of the 
 
 Therefore Commission estimates the total initial burden for all 292 broker-dealers to program their systems to comply with Rule 606(b)(1) as 2,913 hours <sup>686</sup> and $975,000. <sup>687</sup>
 
-<h>4. Other Potential Costs</h>
+4. Other Potential Costs
 
 Further, as a result of adopting Rule 606(b)(3), broker-dealers that route not held NMS stock orders will likely reevaluate their best execution methodologies to take into account the availability of new statistics and other information that may be relevant to their decision making. This may impose a cost only to the extent that broker-dealers choose to build the required statistics into their best execution methodologies. In addition, they may choose to do so only if the benefits justify the costs.
 
@@ -1500,9 +1220,9 @@ Rule 606(a) requires each broker-dealer to make publicly available quarterly rep
 
 The benefits and costs of each of these amendments are discussed below. Wherever possible, we quantify cost estimates for a given amendment. For the remaining amendments concerning non-directed orders in NMS stocks that are submitted on a held basis, we provide total quantitative cost estimates for these amendments in Sec tion V .C .2 .f .
 
-<h>a. Orders Subject to Rule 606(a) Public Disclosures</h>
+a. Orders Subject to Rule 606(a) Public Disclosures
 
-B enefits
+Benefits
 
 As adopted, Rule 606(a) applies to NMS stock orders of any size that are submitted on a held basis. Rule 606(a) also continues to apply to any order (whether held or not held) for an NMS security that is an option contract with a market value less than $50,000, as the Commission did not propose, and is not adopting, any modifications to Rule 606’s coverage of option orders. <sup>692</sup> Specifically, Rule 606(a)(1), as amended, states that every broker-dealer must make publicly available for each calendar quarter a report on its routing of non-directed orders in NMS stocks that are submitted on a held basis and in non-directed orders that are customer orders in NMS securities that are option contracts during that quarter broker down by calendar month. As noted above, <sup>693</sup> the Commission is adopting a modified definition of the term “non- directed order” that no longer includes a dollar-value limitation on NMS stock orders, <sup>694</sup> but continues to exclude orders from a broker-dealer. <sup>695</sup>
 
@@ -1514,13 +1234,13 @@ The staff analysis also found that among the orders of less than $200,000, about
 
 The Commission believes that, compared to the scope of public order handling reports prior to the amendments, Rule 606(a)(1), as amended, could make the public order routing reports more informative and therefore could improve the value of the public order routing reports. To the extent that broker-dealers generally handle not held orders differently from heldorders, and to the extent that typically institutional customers use not held orders, <sup>697</sup> the information pertinent to understanding broker-dealers’ order handling practices for not held orders is not the same as for held orders. Moreover, as discussed above, the staff analysis showed that orders received from institutional accounts are more likely to be not held orders than orders received from individual accounts, suggesting that the amended public reports would target customers distinct from institutional investors. As discussed in Section V. C .1 .a. i, commenters suggested that the held and not held order type classifications would be effective proxies for distinguishing institutional investor orders and retail investor orders because retail investor orders are generally held to the market and institutional investor orders are generally not held to the market. <sup>698</sup> Moreover, as discussed in Section V .C .1 .a .i , because broker-dealers have discretion on time and price for not held orders and do not on held orders, customers placing held orders would have a different level of sophistication than customers that typically place not held orders. In addition, to the extent that the previously existing public order routing reports were in aggregate forms and therefore the customer could not distinguish the order routing practices of held orders from not held orders, replacing public order routing reports with customer-specific reports for not held orders could provide different scopes of benefits of order routing disclosure to the customers. As previously discussed, customers sending not held orders may have a different preference on order routing and a different level of sophistication in understanding the price, time, and other discretion embedded in not held orders. As a result, the amended rule may better serve customers that do not require an understanding of the price, time, and other
 
-<h>2. One commenter noted its belief that the vast majority of orders entered by institutional customers are with not-held instructions and the vast majority of orders entered by retail investors have held instructions. See STA Letter at 4.discretion embedded in not held orders and therefore would allow these customers to better understand the reports and more efficiently monitor, evaluate, and select broker-dealers.</h>
+2. One commenter noted its belief that the vast majority of orders entered by institutional customers are with not-held instructions and the vast majority of orders entered by retail investors have held instructions. See STA Letter at 4.discretion embedded in not held orders and therefore would allow these customers to better understand the reports and more efficiently monitor, evaluate, and select broker-dealers.
 
 Additionally, the amended 606(a) could provide more effective order routing reports for customers and inform customers of different scopes of disclosure that could address the extent of discretion that the broker-dealers exercise in order handling. Therefore, the Commission believes that relative to the baseline and the proposed definition of retail orders, the amendment to Rule 606(a) could make the public order routing reports more informative, and may better target the information needed by investors that typically use held orders, thus making available more useful public order routing reports to customers and increasing the benefits from improved public order routing reports. With more targeted information, the Commission believes that customers will be able to better compare and monitor broker-dealers’ order routing practices, which will promote competition among broker-dealers and improve the benefits of public information on order routing of held orders.
 
 The Commission believes that the amended rule will enhance benefits for customers sending held orders having a market value of at least $200,000 relative to the baseline and the proposed definition of retail orders. As discussed above, to the extent that the majority of orders from individual accounts are held orders, customers sending held orders of at least $200,000 will receive information from public order routing reports that better reflect held orders under the amended rule. Because the amended rule includes held orders of all sizes, the public order routing reports will include all relevant orders and therefore customers could use the reports to compare and monitor broker-dealers order routing practices. As a result, customers sending held orders of at least $200,000 could use the information from the public order routing reports in assessing broker-dealers’ order routing practices, which could promote better execution qualityand competition among broker-dealers. In addition, from the disclosures set forth in Rule 606(b)(1), customers sending held orders of at least $200,000 in market value will continue to receive the same information from the pre-existing customer-specific order routing disclosure rule, in addition to the information from the public order routing reports.
 
-C osts
+Costs
 
 Amended Rule 606(a) will create compliance costs, as broker-dealers will need to distinguish held orders from all customer orders they receive and prepare public order routing reports regarding these held orders and prepare reports, subject to the de minimis exceptions in Rules 606(b)(4) and (b)(5). The related compliance costs are discussed in Sec tion V. C .2 .f. The costs related to Rules 606(b)(4) and (b)(5) are discussed in Section V .C .1 .a .ii .
 
@@ -1534,21 +1254,21 @@ Furthermore, as discussed in Section V.C.1.a.i., because broker-dealers are alre
 
 The Commission also believes amended Rule 606(a) would not impose substantial costs on the customers whose orders would have been included in public order routing reports under the baseline and the proposed definition of retail orders but will not be included in the reportsunder the amendment. The staff’s supplemental analysis found that among the orders of less than $200,000 in market value, about 45% of total shares and about 33% of the total number of orders in the sample of 120 NMS stocks will not be included in aggregated public order routing reports under the adoption, whereas these orders would have been included in the public routing reports under the baseline and the proposed definition of retail orders. Thus, customers that send not held orders of less than $200,000 in market value would not receive the benefit from the enhanced order handling transparency provided in the public order routing reports under the amended Rule 606(a). Instead, the orders that were included in the public routing reports under the baseline and the proposed definition of retail orders and are not included under the amended rule are subject to Rule 606(b)(3) and therefore would be included in the customer-specific reports required by Rule 606(b)(3). As discussed above, customers placing not held orders likely have a different level of sophistication in understanding the price and time discretion embedded in not held orders. Moreover, the enhanced Rule 606(b)(3) reports will be very detailed and of more value to those likely to make special requests of their broker-dealers, such as those who use not held orders. As a result, under the amendment, customers placing not held orders of less than$200,000 in market value would receive reports that target their needs and sophistication. Moreover, as discussed above, to the extent that the amendment to Rule 606(a) could better target the public order routing to the needs of investors that typically use held orders, the amended would not affect customers typically placing not held orders. Therefore, even though a customer’s not held orders are not included in the public routing reports, the customer would receive Rule 606(b)(3) reports and therefore would receive the benefit of increased transparency from the customer-specific order handling disclosure required by Rule 606(b)(3).
 
-<h>b. Marketable Limit Orders and Non-Marketable Limit Order</h>
+b. Marketable Limit Orders and Non-Marketable Limit Order
 
-B enefits
+Benefits
 
 The Commission believes that the amendments to Rule 606(a) that require broker-dealers to differentiate marketable and non-marketable limit orders will create an opportunity for more detailed analysis.
 
 In particular, the amendments could allow the public, including customers placing orders subject to Rule 606(a)(1), to better understand the potential conflicts of interest broker-dealers face when routing such orders, <sup>701</sup> which could incentivize broker-dealers to better manage these and other potential conflicts of interest, which may result in improved order routing decisions and execution quality for orders. <sup>702</sup> In addition, if the amended disclosure results in broker- dealers improving their order routing for orders subject to Rule 606(a)(1), which, in turn, may change which trading centers the broker-dealers route such orders to, the amended disclosure could further promote competition among trading centers. <sup>703</sup> In addition, adopting this new disclosure may lead to innovation by existing trading centers and may attract new entrants and the formation of new trading centers. <sup>704</sup>
 
-C osts
+Costs
 
 As adopted, the amendments to Rule 606(a) requiring broker-dealers to differentiate between marketable and non-marketable limit orders will impose costs on broker-dealers. Specifically, broker-dealers will incur new compliance and reporting costs if they do not currently break down marketable and non-marketable limit orders and will need to break out this information in their internal systems. The estimates for compliance costs are contained in the estimates for the costs of producing the reports discussed in Sec tion V. C. 2. f . One commenter indicated that the amendment will require broker-dealers to obtain a searchable, historical store of all NMS quotes to be integrated into the reporting system, so that marketability of orders can be determined. <sup>705</sup> The Commission believes that whether to use a historical store of quotes depends on how broker-dealers capture marketable and non-marketable limit orders as required by the public order handling reports prior to today’s amendments. Some broker-dealers already have to break down marketable and non-marketable for Rule 605 reports. To do so, some of these broker-dealers capture quotes in real-time and some broker-dealers match orders up with quotes later. Only the latter approach requires setting up an historical store of quotes for broker- dealers and broker-dealers likely will select the system with lesser costs to them. The Commission expects that any broker-dealers that are not already separating marketable and non- marketable orders for Rule 605 reports, will also likely manage costs by selecting the system with lesser costs to them and, therefore, would not necessarily need to set up an historical store of quotes. The Commission estimated the costs associated specifically with implementation ofencourage broker-dealers to route for better execution quality, they may lead to innovation on trading centers.systems to allow the marketability of orders to be determined to comply with the requirement that the Rule 606(a)(1). The estimates for the costs of producing the reports discussed in Section IV. D. 4. a. ii. contain the estimates for the compliance costs that consider the two most likely approaches discussed above.
 
-<h>c. Net Payment for Order Flow and Transaction Fees and Rebates by Specific Venue</h>
+c. Net Payment for Order Flow and Transaction Fees and Rebates by Specific Venue
 
-B enefits
+Benefits
 
 As discussed above in Sec tion V. C .2 .b .i ., the information required by Rule 606(a)(1)(iii) could also allow the public, including customers placing orders covered by Rule 606(a)(1), to better understand the potential conflicts of interest broker-dealers face when routing such orders which could incentivize broker-dealers to better manage these and other potential conflicts of interest, which may result in improved order routing decisions and execution quality for orders. <sup>706</sup>
 
@@ -1560,7 +1280,7 @@ Commenters in general indicated that information on any payment for order flow, 
 
 Some commenters raised concerns that enhanced reporting requirements under Rule 606(a)(1)(iii) will generate extensive information and may undermine the Commission’s transparency goals. Specifically, some commenters stated that the Commission’s transparency goals may be limited because the disclosure presents too much information and could create more confusion than provide clarity to retail investors. <sup>711</sup> In addition, one commenter stated that the additional information may not help customers better evaluate broker-dealers and may not promote competition among broker-dealers unless investors are educated on the interpretation of the information on the reports. <sup>712</sup> The Commission continues to believe that retail customers will benefit from the increased transparency and information being made available under the new Rule 606(a)(1)(iii). The Commission believes that to the extent a customer does not understand these disclosures, the customer could ask their broker-dealer for a better explanation of the arrangement, which may help mitigate some commenters’ concerns that transparency goals may be limited because of too much information. Additionally, to the extent retail investors would like more information regarding these disclosures, they could seek such information from all available resources.
 
-C osts
+Costs
 
 Adopted Rule 606(a)(1)(iii) will impose initial compliance costs on broker-dealers in creating a new process to complete the reports and increase ongoing costs related to incorporating additional information into the reports. The estimates for the compliance costs are contained in the estimates for the costs of producing the reports discussed in Sec tion V .C .2 .f .
 
@@ -1570,9 +1290,9 @@ Increased transparency Rule 606(a)(1)(iii) about net payment for order flow and 
 
 Broker-dealers might do this if they perceive the potential costs from increased public scrutiny to be relatively high compared to a broker-dealer’s benefit from such relationships. This could lead to lower payments received from such relationships. The affected broker-dealers might offset these lower revenues or higher costs by increasing brokerage commissions or other fees for customers.
 
-<h>d. Discussion of Arrangement Terms with a Specified Venue</h>
+d. Discussion of Arrangement Terms with a Specified Venue
 
-B enefits
+Benefits
 
 The Commission believes that the additional information provided by Rule 606(a)(1)(iv) will help ensure consistent, accurate, and comprehensive disclosure of terms of payment for order flow and profit-sharing relationships that influence broker-dealer order routing decisions. This will make the public reports required by amended Rule 606(a) more useful to customers and the public, and the benefits of the description required by Rule 606(a)(1)(iv) are similar to the benefits of the disclosures of the net payment for order flow and transaction fees and rebates by Specified Venue required by Rule 606(a)(1)(iii) and discussed in Sec tion V .C .2.c .i .
 
@@ -1582,19 +1302,19 @@ The Commission agrees with comments that stated that the disclosure of any agree
 
 Some commenters indicated that voluminous information may limit the transparency benefits for customers because it may not be easy to find or use the information to assess and compare broker-dealers. <sup>717</sup> As discussed in Section V .C .2.c .i ., the Commission believes that the requirements would provide information that would not be overly voluminous or difficult to comprehend for customers, in particular retail customers. Additionally, the requirements in Rule 606(a)(1)(iv) are already substantially improving transparency compared to the reporting practices prior to these amendments. Therefore, the Commission believes that the reporting requirement under the adopted Rule 606(a)(1)(iv), as adopted, will make the public reports required by amended Rule 606(a) more useful to customers and the public, and the benefits of the description required by Rule 606(a)(1)(iv) are similar to the benefits of the disclosures by Rule 606(a)(1)(iii) that are discussed in Section V. C .2.c .i .
 
-C osts
+Costs
 
 The Commission recognizes that the amendments to Rule 606(a)(1)(iv) will impose initial and ongoing compliance costs on broker-dealers. As discussed in Section IV. D. 4. b. ii. , the Commission estimates the total initial paperwork cost for complying with Rule 606(a)(1)(iv), as adopted, to be 2,920 hours, resulting in a cost of $986,960. <sup>718</sup> In addition, as discussed in Section IV. D. 4. b. ii, the Commission estimates the total annual paperwork cost for complying with Rule 606(a)(1)(iv), as adopted, to be 4,380 hours, resulting in a cost of $1,093,540. <sup>719</sup>
 
 More detailed disclosure about payment for order flow arrangements and profit-sharing relationships might impose other costs to customers that submit orders covered by Rule 606(a)(1) if it leads broker-dealers to decrease the amount of internalization used in the execution of market and marketable limit orders and to alter such arrangements and relationships. Broker-dealers have a variety of choices for order routing and execution, and the venue that a broker-dealer chooses may have a tangible effect on the execution quality of an order. Broker-dealers face conflicts of interest when routing orders, such as affiliations with trading centers, receipt of payment for order flow or receipt of payment from any profit-sharing relationship, and liquidity rebates. Similar to the discussion in Section V.C.2.c.ii., increased transparency from adopted Rule 606(a)(1)(iv) about payment for order flow arrangements and profit-sharing relationships could lead to subsequent scrutiny by customers and the public might lead broker-dealers to decrease the degree to which they internalize orders and route orders to high-rebate or low-fee exchanges to avoid the perception of conflicts of interest. If broker- dealers were to perceive the potential costs from increased transparency resulting from theenhanced disclosures to be relatively high compared to the benefit from sending orders to internalizers, then these orders might be more likely to be routed to trading centers other than internalizers, such as exchanges or alternative trading systems, regardless of potential execution quality differences such as relatively less price improvement, or they might be more likely to be routed to other lower rebate or higher fee venues, regardless of the potential execution quality differences. In addition, if broker-dealers were to reduce the order flow sent to internalizers who pay for it, the broker-dealers would receive less payment for such order flow and might pass the lost payments on to their customers by raising brokerage commissions or other fees. Similarly, if broker-dealers were to route such orders to trading centers with lower rebates and higher fees, they might pass the reduction in rebate revenue and increase in fee costs on to their customers by raising brokerage commissions or other fees.
 
-<h>e. Additional Amendments to Rule 606(a)(1) Disclosures</h>
+e. Additional Amendments to Rule 606(a)(1) Disclosures
 
 In addition to the amendments discussed above, the Commission is adopting other amendments to Rule 606(a)(1) reports. <sup>720</sup> The benefits and costs of these additional amendments are discussed below.
 
-R eplacement of Division of Rule 606(a)(1) Reports by Listing Market Division by S&P 500 Index and Other NMS Stocks
+Replacement of Division of Rule 606(a)(1) Reports by Listing Market Division by S&P 500 Index and Other NMS Stocks
 
-<h>1. Benefits</h>
+1. Benefits
 
 The Commission believes that S&P 500 inclusion is an important determinant of execution quality and, therefore, is important for order routing strategies. In particular, a Commission staff analysis finds that the amendment to divide the Rule 606(a)(1) order routing reports required by securities included in the S&P 500 Index and other NMS stocks could provide customers with relevant information on how their orders are routed. Because the S&P500 index is correlated with certain liquidity and trading characteristics (which are a determinant of execution quality), <sup>721</sup> the reports under the amendment could more meaningfully reflect how broker-dealer routing varies with trading characteristics than do the public order handling reports prior to today’s amendments. <sup>722</sup>
 
@@ -1616,7 +1336,7 @@ Upon examination, Table 2 shows that the ranking of the market centers by effect
 
 Commenters suggested removing the requirement that the report be divided by listing market and separating reports by S&P 500 and non-S&P 500 stocks because the division basedon the S&P 500 index could give retail customers more meaningful data, as S&P 500 stocks have the largest market capitalization and have significant retail customer interest. Commenters mentioned that S&P 500 stocks, therefore, could have a different correlated execution quality level than lower volume issuances, providing useful information to retail customers. <sup>731</sup> Therefore, the staff’s analysis indicates that reporting divided by the S&P 500 index and other NMS securities, as in the adopted amendment, could provide relevant information about execution quality to customers and the public.
 
-<h>2. Costs</h>
+2. Costs
 
 The amendment to Rule 606(a)(1), as adopted, will result in initial compliance costs to prepare separate disclosures and ongoing costs to adjust reporting when the constituents of the S&P 500 change. The Commission acknowledges that the S&P 500 index is a proprietary index, which is accessible via a fee-based subscription. The Commission also notes that the list of S&P 500 index stocks is readily available on the internet on many free websites and thus obtaining the constituents of the index should be at a minimal cost to broker-dealers. Moreover, as discussed in Section III.B.5.b., many data dissemination services obtain this information from the S&P and redistribute this information as part of data packages consumed by broker-dealers as a part of the broker-dealers normal course of business. Thus, the Commission believes that there will be few or no additional data costs to broker-dealers resulting from this requirement.
 
@@ -1646,7 +1366,7 @@ On the basis of the staff’s analysis, the Commission recognizes that replacing
 
 The Commission recognizes that because the amendments change which orders are covered by Rule 606(a)(1), the analysis does not directly provide evidence of the costs of eliminating the listing information from the report, but rather provides an indication of potential costs. The public order handling reports will cover a different set of orders than are covered inthe Rule 605 data, and the Rule 605 data do not have information to distinguish orders covered by Rule 606(a)(1) from orders covered by Rule 606(b)(3). Therefore, Commission staff cannot conduct a separate analysis for orders covered by Rule 606(a)(1). The Commission believes, however, that it can reasonably assume that execution quality for orders covered by Rule 606(a)(1) is sufficiently correlated with the execution quality for orders covered by Rule 606(b)(3) for the analysis to provide informative results because exchanges have few mechanisms that would treat the orders differently.
 
-O ther Amendments to Reporting
+Other Amendments to Reporting
 
 The Commission believes that the amendments to Rule 606(a)(1) to require quarterly public order routing reports to be broken down by calendar month will allow customers to better assess whether their broker-dealers’ routing decisions are affected by changes in fee structures and the extent to which such changes affect execution quality. Multiple commenters stated that disclosing the information contained in the public routing reports by calendar month could enable customers to better assess and monitor broker-dealers’ routing decisions. <sup>737</sup> This adopted amendment will, however, require an initial cost to change the process for completing the reports. The Commission believes this cost to be small because broker-dealers typically process data daily and reporting the data broken down by month will be a change only in the aggregation of the data, from quarterly to monthly.
 
@@ -1656,7 +1376,7 @@ Finally, the Commission is amending Rules 605(a)(2) and 606(a)(1), as adopted, t
 
 Regarding the requirement to make the reports available for three years, the Commission believes that, once the report is posted, maintaining the reports on the website will not pose any additional burden on broker-dealers, and thus any additional costs to maintain the report on the website will be negligible. <sup>741</sup> In addition, the adopted amendment could impede third-party vendors that aggregate the time series of 605 and 606 reports because customers may find third-party services less useful, particularly for the three years that the reports are publicly available. As a contrast, the customers of third-party vendors could avoid costs associated with third-party sources because under the adopted amendment, customers could directly access the information for the three-year period.
 
-<h>f. Compliance Costs for Rule 606(a)(1) Order Routing Reports</h>
+f. Compliance Costs for Rule 606(a)(1) Order Routing Reports
 
 As discussed in more detail in Section IV. D. 4. , the Commission estimates the costs to comply with the amendments to Rule 606(a) that require broker-dealers to distinguish between marketable and non-marketable limit orders and with adopted Rule 606(a)(1)(iii) that requires disclosure of net payment for order flow and transaction fees and rebates by Specified Venue are as follows.
 
@@ -1682,11 +1402,11 @@ As discussed in Section IV .5 ., the amendments being adopted today add several 
 
 The adopted amendment to Rule 605(a)(2) requires market centers to keep reports required pursuant to Rule 605(a)(1) posted on a website that is free and readily accessible to the public for a period of three years from the initial date of posting on thewebsite.
 
-<h>a. Benefits</h>
+a. Benefits
 
 Similar to the analogous requirements in Rules 606(a), as adopted, described above, the Commission believes that requiring the previous three years of past order execution information to be available to customers and the public generally should be useful to those seeking to analyze historical order execution information at various market centers. This will allow broker-dealers to compare different market centers more easily, market centers to compare themselves to other market centers more easily, and third-party vendors to provide their services on the basis of the data more easily. Several commenters stated that the adopted amendment to Rule 605(a)(2) could better enable investors to evaluate the impact that routing decisions have on the quality of their order executions and provide information regarding broker-dealers’ potential conflicts of interest. <sup>760</sup>
 
-<h>b. Costs</h>
+b. Costs
 
 As discussed in Section V.C.2.e. above, the Commission believes that the costs to market centers for making the order execution reports readily accessible to the public for a period of three years from the date of initial publication are negligible. In addition, specifying a minimum length of time for making the Rule 605 reports available may make the data owned by third-partyvendors aggregating the time series of 605 reports less useful because, for three years, the data will be publicly available and more easily accessible.
 
@@ -1712,11 +1432,11 @@ Therefore, the Commission believes that the use of the XML/PDF format will enabl
 
 <h>5. Other Definitions in Adopted Amendments to Rule 600</h>
 
-<h>a. Definition of Non-Marketable Limit Order in Adopted Rule 600(b)(54)</h>
+a. Definition of Non-Marketable Limit Order in Adopted Rule 600(b)(54)
 
 The Commission believes that the amendments to Rule 600(b)(54) will help ensure consistent and correct interpretation and application of the adopting amendments to Rule 606(a)(1) for retail orders. The Commission also believes that there are no costs associated with adopting Rule 600(b)(54), because it is a definition that is widely used by market participants.
 
-<h>b. Definitions of “Orders Providing Liquidity” and “Orders Removing Liquidity” in Adopted Rule 600(b)(58) and (59)</h>
+b. Definitions of “Orders Providing Liquidity” and “Orders Removing Liquidity” in Adopted Rule 600(b)(58) and (59)
 
 The Commission believes that Rules 600(b)(58) and (59), as adopted, will help ensure consistent and correct interpretation and application of Rule 606(b)(3), as adopted, for institutional orders. The Commission also believes that there are no costs associated with adopted Rules 600(b)(58) and (59) because the Commission understands that the two definitions are widely used by market participants.
 

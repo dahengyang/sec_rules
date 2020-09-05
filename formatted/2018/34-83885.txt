@@ -1,125 +1,3 @@
-https://www.sec.gov/rules/final/2018/34-83885.pdf
-
-I.0.0.0 Executive Summary
-
-II.0.0.0 Background
-
-III.0.0.0 Description of the Amendments to Rule 15c2-12
-
-	III.A.0.0 Introduction
-
-		III.A.1.0 Incurrence of a Financial Obligation of the Obligated Person, If Material, or Agreement to Covenants, Events of Default, Remedies, Priority Rights, or Other Similar Terms of a Financial Obligation of the Obligated Person, Any of Which Affect Security Holders, If Material
-
-			III.A.1.c stated that the broad scope of the proposed definition of the term “financial obligation” would make materiality determinations challenging and burdensome;and (d) requested guidance on how to make materiality determinations in connection with the incurrence of a series of related financial obligations. Each of these categories of comments is discussed below.
-
-			III.A.1.a Use of Materiality Standard
-
-			III.A.1.b Guidance
-
-			III.A.1.c Burden of Materiality Determinations
-
-			III.A.1.d Materiality and a Series of Related Financial Obligations
-
-		III.A.2.0 “Financial Obligation”
-
-		III.A.3.0 Default, Event of Acceleration, Termination Event, Modification of Terms, or Other Similar Events Under the Terms of a Financial Obligation of the Obligated Person, Any of Which Reflect Financial Difficulties
-
-	III.B.0.0 Technical Amendment
-
-	III.C.0.0 Compliance Date and Transition
-
-IV.0.0.0 Paperwork Reduction Act
-
-	IV.A.0.0 Summary of Collection of Information
-
-		IV.A.1.0 Collection of Information Prior to Amendments
-
-		IV.A.2.0 Proposed Amendments to Rule 15c2-12
-
-		IV.A.2.0 default, event of acceleration, termination event, modification of terms, or other similar events under the terms of a financial obligation of the obligated person, any of which reflect financial difficulties.
-
-		IV.A.3.0 Adopted Amendments to Rule 15c2-12
-
-	IV.B.0.0 Use of Information
-
-	IV.C.0.0 Respondents
-
-	IV.D.0.0 Total Annual Reporting and Recordkeeping Burden
-
-		IV.D.1.0 Dealers
-
-			IV.D.1.a Estimates in Proposing Release
-
-			IV.D.1.b Comments Received
-
-			IV.D.1.c Revised Estimates of Burden
-
-		IV.D.2.0 Issuers
-
-		IV.D.3.0 MSRB
-
-		IV.D.4.0 Total Burden for Dealers Effecting Transactions in the Secondary Market
-
-		IV.D.5.0 Annual Aggregate Burden for Amendments to Rule 15c2-12
-
-	IV.E.0.0 Total Annual Cost
-
-		IV.E.1.0 Dealers and the MSRB
-
-		IV.E.286.0 Id.
-
-		IV.E.287.0 Id.
-
-		IV.E.2.0 Issuers
-
-	IV.F.0.0 Retention Period of Recordkeeping Requirements
-
-	IV.G.0.0 Collection of Information is Mandatory
-
-	IV.H.0.0 Responses to Collection of Information Will Not Be Kept Confidential
-
-V.0.0.0 Economic Analysis
-
-	V.A.0.0 Introduction
-
-	V.B.0.0 Economic Baseline
-
-		V.B.1.0 The Current Municipal Securities Market
-
-		V.B.3.0 MSRB Rules
-
-		V.B.4.0 GASB Statement No. 88
-
-		V.B.5.0 Federal Tax Law Changes
-
-		V.B.6.0 Existing State of Efficiency, Competition, and Capital Formation
-
-	V.C.0.0 Benefits, Costs and Effects on Efficiency, Competition, and Capital Formation
-
-		V.C.1.0 Anticipated Benefits of Rule 15c2-12 Amendments
-
-		V.C.2.0 Anticipated Costs of the Rule 15c2-12 Amendments
-
-		V.C.3.0 Effects on Efficiency, Competition, and Capital Formation
-
-	V.D.0.0 Alternative Approaches
-
-		V.D.1.0 Voluntary Disclosures
-
-		V.D.2.0 Alternative Timeline
-
-		V.D.3.0 Relief for Small Issuers and Obligated Persons
-
-		V.D.4.0 Adopt as Proposed, the Broader Definition of Financial Obligation
-
-VI.0.0.0 Regulatory Flexibility Certification
-
-VII.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version.
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
@@ -366,13 +244,11 @@ The Commission also recognizes the efforts of the MSRB, the Financial Industry R
 
 The Commission is adopting as proposed new paragraph (b)(5)(i)(C)( <sup>15</sup> ) to the Rule, which requires that a Participating Underwriter in an Offering must reasonably determine that the obligated person has undertaken, in a continuing disclosure agreement, to provide to the MSRB, within ten business days, notice of the incurrence of a financial obligation of theobligated person, if material, or agreement to covenants, events of default, remedies, priority rights, or other similar terms of a financial obligation of the obligated person, any of which affect security holders, if material.
 
-Materiality
+<h>a. Materiality</h>
 
-Commenters raised a number of concerns related to the materiality qualifier contained in proposed new paragraph (b)(5)(i)(C)( <sup>15</sup> ). Specifically, commenters (a) questioned the Commission’s approach to the materiality qualifier in the proposed amendments; <sup>53</sup> (b) asked the Commission to provide guidance on how to determine the materiality of a financial obligation; <sup>54</sup>
+Commenters raised a number of concerns related to the materiality qualifier contained in proposed new paragraph (b)(5)(i)(C)( <sup>15</sup> ). Specifically, commenters (a) questioned the Commission’s approach to the materiality qualifier in the proposed amendments; <sup>53</sup> (b) asked the Commission to provide guidance on how to determine the materiality of a financial obligation; <sup>54</sup> (c) stated that the broad scope of the proposed definition of the term “financial obligation” would make materiality determinations challenging and burdensome;and (d) requested guidance on how to make materiality determinations in connection with the incurrence of a series of related financial obligations. Each of these categories of comments is discussed below.</h>
 
-<h>c. stated that the broad scope of the proposed definition of the term “financial obligation” would make materiality determinations challenging and burdensome;and (d) requested guidance on how to make materiality determinations in connection with the incurrence of a series of related financial obligations. Each of these categories of comments is discussed below.</h>
-
-<h>a. Use of Materiality Standard</h>
+<h>i. Use of Materiality Standard</h>
 
 Several commenters addressed the Commission’s use of a materiality standard in proposed paragraph (b)(5)(i)(C)( <sup>15</sup> ). <sup>57</sup> Some commenters, for example, suggested that the Commission eliminate the materiality qualifier to promote more robust disclosure of financial obligations, <sup>58</sup> while other commenters recommended that the Commission provide mechanical tests for determining when a financial obligation needs to be disclosed. <sup>59</sup>
 
@@ -382,7 +258,7 @@ The Commission continues to believe that including a materiality qualifier in th
 
 Separately, some commenters suggested that the amendments include a mechanical test for materiality. In 1994, the Commission proposed amendments to Rule 15c2-12 that would have used a mechanical test to identify any “significant obligor” with respect to an issue of municipal securities and require that both the final official statement and the annual financial information provided on an ongoing basis pursuant to the continuing disclosure agreementinclude disclosure with respect to any significant obligor. <sup>64</sup> In response to a number of comments, the Commission adopted amendments to Rule 15c2-12 that eliminated the requirement to provide information about specific “significant obligors” in both the final official statement and on an ongoing basis. Instead, the Commission adopted an approach that leaves to the parties (including the issuer and the underwriter) the determination of whose financial information is material to the offering and required to be included in both the final official statement and provided on an ongoing basis as part of the annual financial information. <sup>65</sup> The 1994 Adopting Release stated that the standard set forth in the defined term “final official statement” provided flexibility that many commenters asserted is necessary in determining the content and scope of the disclosed financial information and operating data, given the diversity among types of issuers, types of issues, and sources of repayment.” <sup>66</sup> The Commission believes this same need for flexibility applies to assessments of financial obligations and the materiality qualifier allows for consideration of diverse sets of factors. Therefore, the Commission does not believe that it would be appropriate to provide a mechanical test for determining the materiality of a financial obligation. Rather, the Commission continues to believe that materialitydeterminations should be based on whether the information would be important to the total mix of information made available to the reasonable investor . <sup>67</sup>
 
-<h>b. Guidance</h>
+<h>ii. Guidance</h>
 
 Numerous commenters asked the Commission to provide guidance on how to determine the materiality of a financial obligation, stating that without such guidance, issuers, obligated persons, and dealers would not interpret materiality uniformly. <sup>68</sup> Commenters pointed to the challenges faced by issuers and obligated persons when determining materiality in connection with their participation in the Municipalities Continuing Disclosure Cooperation Initiative (“MCDC Initiative”) <sup>69</sup> as indicative of the lack of clarity that exists with respect to evaluating materiality. <sup>70</sup> In particular, commenters stated that the MCDC Initiative failed to produce clear guidance on materiality, resulting in additional market confusion about what constitutesmateriality. <sup>71</sup> They also stated that following the MCDC Initiative, and absent Commission guidance, Participating Underwriters have been conservatively applying materiality determinations to limit potential liability and requiring issuers and obligated persons to disclose potentially non-material information to EMMA. <sup>72</sup>
 
@@ -396,7 +272,7 @@ Since 2010, paragraphs (b)(5)(i)(C)( <sup>2</sup> ), ( <sup>7</sup> ), ( <sup>8<
 
 Furthermore, this type of analysis is frequently conducted under the securities laws, whereby materiality is determined by reference to whether there is a substantial likelihood that a reasonable security holder would consider the information important in deciding whether to buy or sell a security. See Basic, Inc. v. Levinson , 485 U.S. 224 (1988).to the market about their financial obligations, some issuers and obligated persons may have differing opinions with respect to whether a piece of information would be considered important to a reasonable investor when making an investment decision. Regardless of these potential differences of opinion, the Commission does not believe it is necessary to provide additional guidance at this time. Issuers and obligated persons have the benefit of experience with making materiality determinations under the federal securities laws generally and the Rule specifically. Furthermore, even absent uniformity, the amendments, as discussed throughout this Release, will result in increased timely disclosure in the municipal securities market of important information regarding the financial obligations of issuers and obligated persons. Additionally, the changes made to the proposed definition of financial obligation should also alleviate commenter concerns about assessing the materiality of each financial obligation incurred by issuers and obligated persons. Forms and guidance that the industry may develop in this area could also assist issuers and obligated persons in evaluating which financial obligations should be disclosed pursuant to their continuing disclosure agreements.
 
-<h>c. Burden of Materiality Determinations</h>
+<h>iii. Burden of Materiality Determinations</h>
 
 Many commenters stated that materiality determinations would pose challenges given the broad scope of the proposed definition of “financial obligation.” <sup>78</sup> Commenters argued that ten business days was not enough time to disclose material financial obligations. <sup>79</sup> Some commenters stated that without Commission guidance, issuers or obligated persons would likely utilize outside counsel in order to make materiality determinations. <sup>80</sup> Commenters stated that toavoid the time and expense of reviewing all of their financial obligations for materiality, and to avoid being second guessed by dealers in the future, they might disclose all financial obligations, flooding EMMA with potentially immaterial information of limited value to investors . <sup>81</sup> Commenters also stated that they might seek to avoid the cost, effort, and potential liability associated with summarizing key terms of a transaction by posting entire financing agreements to EMMA. <sup>82</sup>
 
@@ -404,17 +280,17 @@ The Commission acknowledges that there will be costs incurred by issuers, obliga
 
 With respect to commenter concerns about the burdens of summarizing the terms of material financial obligations, issuers and obligated persons could consider amending existing disclosure policies and procedures to address the process for evaluating the disclosure of material financial obligations. Amended policies and procedures, in addition to industry practices that may develop, could help issuers and obligated persons streamline the process of disclosing material financial obligations to EMMA, and ease time and cost burdens associated with identifying, assessing, and disclosing material financial obligations.
 
-<h>d. Materiality and a Series of Related Financial Obligations</h>
+<h>iv. Materiality and a Series of Related Financial Obligations</h>
 
 Commenters asked whether a series of related financial obligations could be considered material due to their aggregate par amount, though none of the constituent obligations would be material on its own. <sup>83</sup> Materiality is determined upon the incurrence of each distinct financialobligation, taking into account all relevant facts and circumstances. <sup>84</sup> For example, if the issuer or obligated person enters into a series of transactions that, though related, <sup>85</sup> are incurred at different points in time for legitimate business purposes – e.g. , to satisfy the necessary conditionsfor the debt to be considered tax-exempt under provisions of the Internal Revenue Code of 1986, as amended (“IRC”) – the issuer or obligated person would need to assess the materiality of each transaction at the time it was incurred.
 
 When an issuer or obligated person is considering whether a series of related transactions is a single incurrence or has been incurred at different points in time for legitimate business purposes for determining materiality under the amendments, such issuer or obligated person must consider all relevant facts and circumstances. An example of the type of facts and circumstances that could indicate that a series of related transactions were incurred separately for legitimate business purposes would be if the series of financial obligations satisfy the requirements set forth in the U.S. Department of Treasury regulations and guidance governing what constitutes a single issue of municipal securities under the IRC. <sup>86</sup> The Commission%20%20Advanced%20Topics%20in%20Arbitrage.pdf (IRS educational materials provided to the public containing the conditions under which separate bond series are considered to be a single issue for arbitrage purposes, stating: “[IRC] Regulations §1.150- 1(c)(1) provides that the term issue means two or more bonds that meet all of the following requirements: (i) sold at substantially the same time (less than 15 days apart),(ii) sold pursuant to the same plan of financing, and (iii) reasonably expected to be paid from the same source of funds. For example, bonds sold to finance a single facility or related facilities are considered part of the same financing plan, but short-term bonds to finance working capital and long-term bonds to finance capital projects would not becautions issuers and obligated persons against entering into a series of transactions with a purpose of evading potential disclosure obligations established by paragraphs (b)(5)(i)(C)( <sup>15</sup> ) and ( <sup>16</sup> ) of the Rule in a manner that is inconsistent with the purposes of the Rule. <sup>87</sup>
 
-Incurrence of a Financial Obligation
+<h>b. Incurrence of a Financial Obligation<h>
 
 Some commenters recommended that the Commission provide guidance on the meaning of “incurrence.” <sup>88</sup> The Commission believes that a financial obligation generally should be considered to be incurred when it is enforceable against an issuer or obligated person. <sup>89</sup> Disclosure of a material financial obligation at such time would provide investors with important information about the current financial condition and potential liabilities of the issuer or obligated person, including potential impacts to the issuer’s or obligated person’s liquidity and overall creditworthiness. For example, if an issuer or obligated person enters into an agreement providing for a material drawdown bond, <sup>90</sup> or such agreement contains material terms that affectconsidered part of the same plan. Certificates of participation in a lease and general obligation bonds secured by tax revenues would not be considered part of the same plan”).security holders, the issuer or obligated person generally should provide notice at the time the terms of the obligation are legally enforceable against the issuer or obligated person, instead of each time a draw is made. <sup>91</sup>
 
-Form of Event Notice
+<h>c. Form of Event Notice</h>
 
 Commenters observed that the Commission did not prescribe the form of a notice made pursuant to new paragraph (b)(5)(i)(C)( <sup>15</sup> ) <sup>92</sup> and some recommended that the Commission dictate the form and content of disclosures made under the new provision. <sup>93</sup> One commenter, though, stated that the Commission should avoid being too prescriptive with respect to the form and content of a material event notice submitted under paragraph (b)(5)(i)(C)( <sup>15</sup> ) of the Rule. <sup>94</sup> Other commenters expressed concern about what they described as the potential negative impact
 
@@ -440,7 +316,7 @@ For a description of commenter arguments that the term “financial obligation�
 
 Commission believes that this definition strikes the appropriate balance between benefits to investors and other market participants and costs of compliance with the Rule. <sup>117</sup>
 
-Debt Obligation
+<h>a. Debt Obligation</h>
 
 As proposed, the term “debt obligation” was intended to capture the short-term and long- term debt obligations of an issuer or obligated person under the terms of an indenture, loan agreement, or similar contract that will be repaid over time. <sup>118</sup> As examples, the Commission stated that a direct purchase of municipal securities by an investor and a direct loan by a bank would be debt obligations of an issuer or obligated person. <sup>119</sup>
 
@@ -470,7 +346,7 @@ As adopted, the term “debt obligation” includes short-term and long-term deb
 
 With respect to leases that do not operate as vehicles to borrow money, the Commission agrees with commenters that the burden of assessing their materiality and disclosing such leases within ten business days would not justify the benefit of such disclosures. While the Commission continues to believe that lease arrangements that are not vehicles to borrow money might be relevant to the general financial condition of an issuer or obligated person, the Commission also believes that such lease arrangements do not warrant inclusion in the Commission’s definition of “financial obligation” because they generally do not representcompeting debt of the issuer or obligated person. <sup>143</sup> Accordingly, at this time, the Commission does not believe that such leases raise the same concerns regarding timely disclosure of their incurrence as leases entered into as a vehicle to borrow money. <sup>144</sup>
 
-Derivative Instrument Entered into in Connection with, or Pledged as Security or a Source of Payment for, an Existing or Planned Debt Obligation
+<h>b. Derivative Instrument Entered into in Connection with, or Pledged as Security or a Source of Payment for, an Existing or Planned Debt Obligation</h>
 
 As proposed, the term “derivative instrument” was intended to capture any swap, security-based swap, futures contract, forward contract, option, any combination of the foregoing, or any similar instrument to which an issuer or obligated person is a counterparty. <sup>145</sup> The Commission stated that though issuers and obligated persons may not use each type of derivative instrument listed, the proposed list was sufficiently broad to cover the use of derivative instruments that may develop in the future. <sup>146</sup> As discussed below, many commenters
 
@@ -490,7 +366,7 @@ Accordingly, without the future incurrence of a debt obligation, the forward sta
 
 Factors relevant to whether an issuer’s or obligated person’s debt obligation is “planned” might include, but are not be limited to, whether: (1) the documents evidencing the relevant derivative instrument explicitly or implicitly assume a future debt obligation; (2) the legislative body of the issuer or obligated person has taken any preliminary ( e.g. , preliminary resolution) orfinal ( e.g. , authorizing resolution) action to authorize the related future debt obligation; or (3) theissuer or obligated person has hired any professionals ( e.g. , municipal advisor, bond counsel, rateconsultant) to assist or advise the issuer or obligated person on matters related to the future debt obligation. Determinations by issuers and obligated persons of whether a derivative instrument contemplates a future debt obligation should prioritize substance over form. In addition, whether a debt obligation is “planned” is based on an objective assessment of the facts and circumstances prevailing at the time of incurrence of the derivative instrument, and is not a bright-line test.that time, assume market risk ( e.g. , interest rate fluctuations) and counterparty risk ( e.g. , counterparty liquidity).
 
-Guarantee of a Debt Obligation or a Derivative Entered into in Connection with, or Pledged as Security or a Source of Payment for, an Existing or Planned Debt Obligation
+<h>c. Guarantee of a Debt Obligation or a Derivative Entered into in Connection with, or Pledged as Security or a Source of Payment for, an Existing or Planned Debt Obligation</h>
 
 As proposed, the term “guarantee” was intended to capture a contingent financial obligation of the issuer or obligated person to secure obligations of a third-party or obligations of the issuer or obligated person. <sup>156</sup> Several commenters requested further clarification or asked that the Commission better define the scope of the term “guarantee.” <sup>157</sup> In response, the Commission is revising the definition of “financial obligation” with respect to guarantees and clarifying the scope of guarantees that, if material, would be subject to disclosure under the Rule.
 
@@ -500,7 +376,7 @@ The Commission continues to believe that the guidance provided in the Proposing 
 
 A guarantee of a debt obligation or a derivative instrument entered into in connection with, or pledged as security or a source of payment for, an existing or planned debt obligation could raise two disclosures under the Rule – one for the guarantor and one for the beneficiary of the guarantee. Specifically, if an issuer or obligated person incurs a material guarantee, such guarantee would be subject to disclosure under the Rule, as amended. For an issuer or obligated person that is the beneficiary of a guarantee provided in connection with a debt obligation or aderivative instrument entered into in connection with, or pledged as security or a source of payment for, an existing or planned debt obligation, the Commission believes that, generally, such beneficiary issuer or obligated person should assess whether such guarantee is a material term of the underlying debt obligation or derivative instrument and, if so (and if the underlying debt obligation or derivative instrument is material), disclose the existence of such guarantee under the Rule.
 
-Monetary Obligation Resulting from a Judicial, Administrative, or Arbitration Proceeding
+<h>d. Monetary Obligation Resulting from a Judicial, Administrative, or Arbitration Proceeding</h>
 
 As proposed, the term “monetary obligation resulting from a judicial, administrative, or arbitration proceeding” was included in the definition of “financial obligation” because the Commission believed that the requirement to pay such an obligation could adversely impact an issuer’s or obligated person’s overall creditworthiness and liquidity, and adversely affect security holders. <sup>161</sup> Commenters who addressed this issue were almost uniformly opposed to the inclusion of this term in the definition of “financial obligation.” <sup>162</sup> A common sentiment among commenters was that monetary obligations resulting from a judicial, administrative, or arbitration proceeding are of a fundamentally different character than the other categories included within the definition of financial obligation, and therefore are ill-suited to being subject to the same set of regulatory language and materiality and financial difficulties determinations. <sup>163</sup>
 
@@ -510,7 +386,7 @@ The Commission is revising the definition of the term “financial obligation”
 
 Accordingly, at this time, the Commission does not believe that monetary obligations resulting from judicial, administrative, or arbitration proceedings raise the same concerns regarding ready and prompt access to information about their existence as the other types of obligations included in the adopted definition of financial obligation. Therefore, the Commission is removing the term “monetary obligation resulting from a judicial, administrative, or arbitration proceeding” from the term “financial obligation.”
 
-Exclusion of Municipal Securities as to Which a Final Official Statement has been Provided to the MSRB Consistent with Rule 15c2-12 from Definition of “Financial Obligation”
+<h>e. Exclusion of Municipal Securities as to Which a Final Official Statement has been Provided to the MSRB Consistent with Rule 15c2-12 from Definition of “Financial Obligation”</h>
 
 As proposed and adopted, the term financial obligation does not include municipal securities as to which a final official statement has been provided to the MSRB consistent with Rule 15c2-12. <sup>168</sup> In response to the proposed exclusion, some commenters suggested that the Commission should revise the language so the exclusion would apply when the Rule requires afinal official statement to be provided to the MSRB rather than when the final official statement has actually been provided to the MSRB by an underwriter. <sup>169</sup> According to commenters, such a revision would allow an issuer or obligated person to utilize the exclusion even when an underwriter fails to submit the final official statement to the MSRB. <sup>170</sup> The Commission declines to adopt the recommended revision. The Commission continues to believe that the exclusion as proposed is consistent with the current regulatory framework in which an underwriter is responsible for delivering the final official statement to the MSRB. Moreover, this framework establishes appropriate incentives for all involved parties to ensure that the final official statement is, in fact, provided to the MSRB, and helps ensure the relevant information is made available to investors.
 
@@ -522,29 +398,29 @@ The Commission is adopting as proposed the amendment to add new paragraph (b)(5)
 
 As the Commission stated in the Proposing Release, although the occurrence of the events listed in paragraph (b)(5)(i)(C)( <sup>16</sup> ) may not be common in the municipal market, they can significantly and adversely impact the value of an issuer’s or obligated person’s outstanding municipal securities. <sup>174</sup> The Commission also believes the amendments would facilitate investor access to important information in a timely manner and help to enhance transparency in the municipal securities market and enhance investor protection.
 
-Default
+<h>a. Default</h>
 
 Two commenters recommended that “default” be revised to “event of default,” arguing that “default” was vague while “event of default” is usually defined in transaction documents. <sup>175</sup> Because an “event of default” is often specifically defined in transaction documents, it would be more narrowly applied than “default.” As described in the Proposing Release, a default could be a monetary default, where an issuer or obligated person fails to pay principal, interest, or other funds due, or a non-payment related default, where an issuer or obligated person fails to comply with specified covenants. <sup>176</sup> Typically, if a monetary default occurs, or a non-payment related default is not cured within a specified period, such default becomes an “event of default” and the trustee or counterparty to the financial obligation may exercise legally available rights and remedies for enforcement, including an event of acceleration. The Commission believes that there are defaults that may reflect financial difficulties even if they do not qualify as “events ofdefaults” under transaction documents. This may constitute important information related to an issuer’s or obligated person’s material financial obligations that could impact an issuer’s or obligated person’s liquidity, overall creditworthiness, or an existing security holder’s rights.
 
 Accordingly, the Commission believes the concept of “default” should be retained as proposed.
 
-Modification of Terms
+<h>b. Modification of Terms</h>
 
 One commenter proposed revising “modification of terms” to “modification of material terms” <sup>177</sup> and another commenter recommended adding “including written or verbal waivers” after “modification of terms.” <sup>178</sup> The Commission believes both revisions are unnecessary. A modification of terms would be reported under a continuing disclosure agreement only if the modification “reflect[s] financial difficulties of the issuer or obligated person.” This qualifier is included to help target the disclosure of information relevant to investors in making an assessment of the current financial condition of the issuer or obligated person. Accordingly, because the modification of terms already is subject to a qualifier, the Commission believes there is no need to also include a materiality qualifier. Additionally, “modification of terms” is broad, and as such, a written or verbal waiver of a deal provision would be a modification of the terms of an agreement because such waivers are a departure from what was agreed to under the terms of the agreement. Consequently, the Commission is adopting the concept of “modification of terms” without any changes. <sup>179</sup>
 
-Other Similar Events
+<h>c. Other Similar Events</h>
 
 One commenter stated that the “other similar events” language was too vague <sup>180</sup> and another recommended that the Commission remove it from the rule text. <sup>181</sup> The Commission continues to believe that the term should be retained in the rule text to ensure that paragraph (b)(5)(i)(C)( <sup>16</sup> ) covers not only defaults, events of acceleration, termination events, or modifications of terms that reflect financial difficulties of the issuer or obligated person, but also events arising under the terms of a financial obligation that similarly reflect financial difficulties of the issuer or obligated person. As stated in the Proposing Release, in order to be subject to disclosure under the Rule, the term “other similar events under the terms of a financial obligation of the obligated person reflecting financial difficulties” must necessarily share similar characteristics with one of the preceding listed events (a default, event of acceleration, termination event, or modification of terms). <sup>182</sup> The Commission is adopting “other similar event” as proposed to address the disclosure of the occurrence of events that, although not specifically set forth in the rule text, are still relevant to investors and other market participants in making an assessment of the current financial condition of the issuer or obligated person.
 
 Such events may have potential adverse impacts on the issuer’s or obligated person’s liquidity and overall creditworthiness, or affect security holders.
 
-Reflect Financial Difficulties
+<h>d. Reflect Financial Difficulties</h>
 
 Some commenters argued that “reflect financial difficulties” was vague and encouraged the Commission to provide additional guidance to prevent a flood of event notices to EMMA. <sup>183</sup> One commenter suggested alternative language that would narrow the events reported under paragraph (b)(5)(i)(C)( <sup>16</sup> ). <sup>184</sup> Some commenters, with the goal of prompting more disclosure to the market, encouraged the Commission to remove the reflects financial difficulties qualifier, stating that it would limit the disclosure of the occurrence of events unrelated to financial difficulties, such as legislative dysfunction, but were nonetheless important to investors. <sup>185</sup>
 
 The Commission continues to believe that the “reflect financial difficulties” qualifier is appropriate. The Commission believes that the term is not vague, as the concept of “reflecting financial difficulties” has been used in paragraphs (b)(5)(i)(C)( <sup>3</sup> ) and ( <sup>4</sup> ) since the 1994 amendments to Rule 15c2-12, and, as such, market participants should be familiar with the concept as it relates to the operation of Rule 15c2-12. <sup>186</sup> Furthermore, the Commission also believes that additional guidance on the term would be difficult to provide, due to the diversity of issuers and obligated persons as well as the financial conditions affecting them. Accordingly, the Commission believes that “reflect financial difficulties” is an appropriate qualifier to help target the disclosures to result in information relevant to investors in making an assessment of thecurrent financial condition of the issuer or obligated person. Removing “reflect financial difficulties” could result in overly broad disclosures of event occurrences that would not necessarily be relevant or important to investors’ decisions, for instance, by not reflecting on the creditworthiness of an issuer or obligated person. <sup>187</sup> Moreover, the narrowed definition of “financial obligation,” as adopted, will limit the number of financial obligations that issuers and obligated persons will need to evaluate when considering whether a disclosure is required under paragraph (b)(5)(i)(C)( <sup>16</sup> ) and thereby reduce the burden on issuers, obligated persons, and dealers.
 
-Scope of Financial Obligations Subject to Paragraph (b)(5)(i)(C)(16)
+<h>e. Scope of Financial Obligations Subject to Paragraph (b)(5)(i)(C)(16)</h>
 
 Some commenters stated their belief that paragraph (b)(5)(i)(C)( <sup>16</sup> ) applies to all of an issuer’s or obligated person’s currently outstanding financial obligations as opposed to just those incurred after the effective date of the amendments. <sup>188</sup> Another commenter recommended limiting this event to only those financial obligations that had been previously disclosed under paragraph (b)(5)(i)(C)( <sup>15</sup> ). <sup>189</sup>
 
@@ -590,7 +466,7 @@ Under paragraph (b)(5)(i)(C) of Rule 15c2-12, dealers acting as Participating Un
 
 Under the proposed amendments, the Commission proposed to add two additional event notices that a dealer acting as a Participating Underwriter in an Offering must reasonably determine that an issuer or an obligated person has undertaken, in a written agreement or contract for the benefit of holders of municipal securities, to provide to the MSRB. Specifically, the proposed amendments would have amended the list of events for which notice is to be provided to include the following added two additional events as paragraphs (b)(5)(i)(C)( <sup>15</sup> ) and ( <sup>16</sup> ) of Rule 15c2-12: (1) incurrence of a financial obligation of the obligated person, if material, or agreement to covenants, events of default, remedies, priority rights, or other similar terms of a financial obligation of the obligated person, any of which affect security holders, if material; and
 
-<h>2. default, event of acceleration, termination event, modification of terms, or other similar events under the terms of a financial obligation of the obligated person, any of which reflect financial difficulties.</h>
+2. default, event of acceleration, termination event, modification of terms, or other similar events under the terms of a financial obligation of the obligated person, any of which reflect financial difficulties.
 
 For purposes of the proposed amendments, the Commission proposed to define the term “financial obligation” to mean a (i) debt obligation; (ii) lease; (iii) guarantee; (iv) derivative instrument; or (v) monetary obligation resulting from a judicial, administrative, or arbitration proceeding. As proposed to be defined, the term financial obligation did not include municipal securities as to which a final official statement has been provided to the Municipal Securities Rulemaking Board consistent with Rule 15c2-12.
 
@@ -618,9 +494,9 @@ In the Proposing Release, consistent with prior estimates, the Commission estima
 
 Under the Rule prior to these amendments, the Commission has estimated that the total annual burden on all 250 dealers is 22,500 hours (90 hours per dealer per year). This estimate is the sum of two separate burdens: (1) 2,500 hours per year for 250 dealers (10 hours per dealerper year) to reasonably determine that the issuer or obligated person has undertaken, in a written agreement or contract, for the benefit of holders of such municipal securities, to provide continuing disclosure documents to the MSRB, and (2) 20,000 hours per year for 250 dealers (80 hours per dealer per year) serving as Participating Underwriters to determine whether issuers or obligated persons have failed to comply, in all material respects, with any previous undertakings in a written contract or agreement specified in paragraph (b)(5)(i) of the Rule.
 
-Amendments to Events to be Disclosed under a Continuing Disclosure Agreement
+<h>a. Amendments to Events to be Disclosed under a Continuing Disclosure Agreement</h>
 
-<h>a. Estimates in Proposing Release</h>
+<h>i. Estimates in Proposing Release</h>
 
 In the Proposing Release, the Commission stated it did not expect the proposed amendments to increase the annual hourly burden for dealers to reasonably determine that the issuer or obligated person has undertaken, in a written agreement or contract, for the benefit of holders of such municipal securities, to provide continuing disclosure documents to the MSRB. Thus, the Commission estimated that pursuant to the Rule as proposed to be amended, 250 dealers would continue to incur 2,500 hours per year (10 hours per year per dealer) to make this determination.
 
@@ -628,7 +504,7 @@ However, because the proposed amendments would add two events notices to paragra
 
 Therefore, in the Proposing Release, the Commission estimated that the total annual burden of dealers acting as a Participating Underwriter in an Offering would increase by 2,500 hours to 25,000 hours annually (100 hours per dealer per year). <sup>212</sup>
 
-<h>b. Comments Received</h>
+<h>ii. Comments Received</h>
 
 The Commission received no comments on its estimate that dealers would continue to incur a burden of 2,500 hours per year (10 hours per dealer per year) to reasonably determine that the issuer or obligated person has undertaken, in a written agreement or contract, for the benefit of holders of municipal securities, to provide continuing disclosure documents to the MSRB. However, as discussed in further detail below, the Commission is revising its method for calculating the PRA burden on dealers. Accordingly, this estimate is being changed to reflect the new calculation method.
 
@@ -636,7 +512,7 @@ The Commission received several comments on its estimate that the amendments, by
 
 Commenters also criticized the Commission’s prior estimate, predating the proposed amendments, that dealers would incur a burden of 20,000 hours per year (80 hours per dealer per year) to determine whether issuers or obligated persons have failed to comply, in all material respects, with any previous undertakings in a written contract or agreement specified in paragraph (b)(5)(i) of the Rule. <sup>217</sup> These commenters contended that, irrespective of the increased burden from the proposed amendments, the Commission’s prior estimates of this burden on dealers were also far too low. <sup>218</sup> One commenter argued that the Commission’s prior PRA estimates “greatly underestimated the compliance burdens of the existing Rule,” and, noting that the Commission used its prior PRA estimates as the starting point for its new burden estimates, criticized the Commission for its “reliance on inapposite, faulty prior estimates.” <sup>219</sup> That commenter also argued that “as a result of subsequent Commission actions, its prior estimates are no longer indicative.” <sup>220</sup> That commenter further discussed prior Commissionestimates of PRA burdens attributable to Rule 15c2-12, arguing that the prior estimates had contained “gross inaccuracies” that had not been sufficiently addressed. <sup>221</sup>
 
-<h>c. Revised Estimates of Burden</h>
+<h>iii. Revised Estimates of Burden</h>
 
 The Commission has considered the comments received and in response is revising its method to calculate the PRA burden for dealers under Rule 15c2-12. In doing so, the Commission is also revising (1) its estimate that dealers would continue to incur a burden of 2,500 hours per year (10 hours per dealer per year), to reasonably determine that the issuer or obligated person has undertaken, in a written agreement or contract, for the benefit of holders of municipal securities, to provide continuing disclosure documents to the MSRB; (2) its estimate that the amendments would increase the burden on dealers by 2,500 hours (10 hours per dealer per year), to determine whether issuers or obligated persons have failed to comply, in all material respects, with any previous undertakings in a written contract or agreement specified in paragraph (b)(5)(i) of the Rule; and (3) its prior estimates under the Rule, predating the proposed amendments, that the total annual burden for dealers to determine whether issuers or obligated persons have failed to comply, in all material respects, with any previous undertakings in a written contract or agreement specified in paragraph (b)(5)(i) of the Rule was 20,000 hours (80 hours per dealer per year).
 
@@ -658,7 +534,7 @@ Accordingly, under the Commission’s revised estimates, the total annual burden
 
 Commission believes, on balance, that 126,337 hours (on average approximately 505 hours per dealer per year), is a reasonable estimate for the time needed for dealers acting as Participating Underwriters in Offerings to comply with their obligations under Rule 15c2-12.
 
-One-Time Paperwork Burden
+<h>b. One-Time Paperwork Burden</h>
 
 In the Proposing Release, the Commission estimated that each dealer acting as a Participating Underwriter in an Offering would incur a one-time paperwork burden to have its internal compliance attorney prepare and issue a notice advising its employees about the proposed revisions to Rule 15c2-12, including any updates to policies and procedures affected by the proposed amendments. <sup>239</sup> Based on prior estimates for similar amendments, the Commission estimated that it would take each dealer’s internal compliance attorney approximately 30 minutes to prepare and issue a notice describing the dealer’s obligations in light of the Proposed Amendments, for a total one-time, first-year burden of 125 hours for the entire dealer community. <sup>240</sup> The Commission also stated that it believed the task of preparing and issuing a notice advising the dealer’s employees about the proposed amendments is consistent with the type of compliance work that a dealer typically handles internally.
 
@@ -666,7 +542,7 @@ One commenter expressed concern that the Commission’s estimate of the one-time
 
 Accordingly, the Commission estimates that the 250 dealers acting as a Participating Underwriter in Offerings would incur a one-time burden of five hours each, for a total one-time, first year burden of 1,250 hours for all dealers.
 
-Total Burden for Dealers
+<h>c. Total Burden for Dealers</h>
 
 Under the amendments to Rule 15c2-12 as adopted, the total burden on all dealers would be 127,587 hours for the first year <sup>244</sup> and 126,337 hours for each subsequent year. <sup>245</sup> Table 1 below briefly summarizes the Commission’s PRA burden estimates for dealers in the 2015 PRA Notice (the Commission’s most recent estimates prior to these amendments), the Proposing Release, and the Adopting Release.
 
@@ -678,17 +554,17 @@ The amendments, as adopted, result in a paperwork burden on issuers of municipal
 
 Under the Rule prior to these amendments and in the Proposing Release, the Commission estimated that 20,000 issuers of municipal securities annually submit to the MSRB approximately 62,596 annual filings, 73,480 event notices, and 7,063 failure to file notices. <sup>247</sup> The number of issuers was based on information received from the MSRB in 2015 regarding the number of issuers affected by continuing disclosure agreements. In response to the Proposing Release, the Commission received a comment stating that the true number of issuers affected by Rule 15c2-12 was 34,696, or the number of filings on EMMA in 2016 listed under the category of “audited financial statements or CAFRs.” <sup>248</sup> However, the Commission believes that category likely overstates the number of issuers affected by continuing disclosure agreements because a large number of those filings may not reflect distinct issuers filing separate audited financial statements. Many of the documents filed under that category are supplemental documents, or multiple years of audited financial statements filed by a single issuer all in one year. Instead, based on recent data provided by the MSRB staff to the Commission staff in conjunction withthis rulemaking, the Commission believes that an appropriate revised estimate is that 28,000 issuers are affected by continuing disclosure requirements under Rule 15c2-12. <sup>249</sup>
 
-Amendments to Event Notice Provisions of the Rule
+<h>a. Amendments to Event Notice Provisions of the Rule</h>
 
 The Commission proposes to modify paragraph (b)(5)(i)(C) of the Rule, which presently requires a dealer acting as a Participating Underwriter in an Offering to reasonably determine that an issuer or obligated person has entered into a continuing disclosure agreement that, among other things, contemplates the submission of an event notice to the MSRB in an electronic format upon the occurrence of any events set forth in the Rule. The Rule prior to these amendments contained fourteen such events. The adopted amendments to this paragraph of the Rule add two new event disclosure items: new paragraph (b)(5)(i)(C)( <sup>15</sup> ) contains a new disclosure event in the case of the incurrence of a financial obligation of the obligated person, if material, or agreement to covenants, events of default, remedies, priority rights, or other similar terms of a financial obligation of the obligated person, any of which affect security holders, if material; and new paragraph (b)(5)(i)(C)( <sup>16</sup> ) requires the disclosure of a default, event of acceleration, termination event, modification of terms, or other similar events under the terms of a financial obligation of the obligated person, any of which reflect financial difficulties. The Commission believes that the adopted amendments to paragraph (b)(5)(i)(C) of the Rule will increase the current annual paperwork burden for issuers because they will result in an increase in the number of event notices to be prepared and submitted.
 
-Total Burden on Issuers for Amendments to Event Notices
+<h>b. Total Burden on Issuers for Amendments to Event Notices</h>
 
 Under the Rule prior to these amendments, the Commission estimates that issuers prepare and submit annually: (1) 73,480 event notices, with each notice taking approximately two hours to prepare and submit; (2) 62,596 annual filings, with each filing taking approximately seven hours to prepare and submit; and (3) 7,063 failure to file notices, with each notice taking approximately two hours to prepare and submit. <sup>250</sup> Accordingly, under the estimate prior to these amendments, issuers would incur a total annual burden of 599,258 hours. <sup>251</sup>
 
 In the Proposing Release, the Commission estimated that the amendments to the Rule would result in an increase to the annual total burden of issuers. Specifically, the Commission estimated that the proposed amendment in paragraph (b)(5)(i)(C)( <sup>15</sup> ) of the Rule would increase the total number of event notices submitted by issuers annually by approximately 2,100 notices, and that the proposed amendment in paragraph (b)(5)(i)(C)( <sup>16</sup> ) would increase the total number of event notices submitted by issuers annually by approximately 100 notices. The Commission also estimated that the time required for an issuer to prepare and submit the proposed two additional types of event notices to the MSRB in an electronic format, including time to actively monitor the need for filing, would continue to be approximately two hours per filing, because the two proposed types of event notices would require substantially the same amount of time to prepare as those prepared for existing events. Accordingly, the Commission estimated that the increase in number of event notices would result in an increase of 4,400 hours in the annualpaperwork burden for issuers to submit event notices, with a total annual paperwork burden for issuers to submit event notices of approximately 151,360 hours (146,960 hours + 4,400 hours), and a total annual burden on issuers of 603,658 hours. <sup>252</sup>
 
-Comments Related to Estimated Paperwork Burden on Issuers
+<h>c. Comments Related to Estimated Paperwork Burden on Issuers</h>
 
 The Commission received several comments relating to the estimates of the Paperwork Reduction Act burden on issuers. <sup>253</sup> Commenters expressed concern that the Commission’s estimates understated the burden of the proposed amendments on issuers because, in large part, the Commission failed to account for the overly broad definition of “financial obligation.” One commenter criticized the term financial obligation for requiring “information that is both superfluous to investors and costly for issuers to present,” further stating that “leases, for example, are transactions that take place many times per year in many jurisdictions and are commonly related to the ongoing operations of a government.” <sup>254</sup> Another commenter stated that issuers “enter into a staggering number of leases and other financial obligations, as defined in the Proposed Amendments, in the ordinary course of providing important services to the public.” <sup>255</sup> And another commenter stated that the definition of financial obligation couldcapture routine items such as equipment lease programs and short-term maintenance contracts. <sup>256</sup> Commenters also criticized the inclusion of “monetary obligation resulting from a judicial, administrative, or arbitration proceeding,” stating that issuers could be subject to potentially hundreds of such obligations annually and that monitoring for such obligations would be expensive and time-consuming. <sup>257</sup> Many commenters stated that, as defined, “financial obligations” incurred by the issuer would be managed across dozens of departments and that “significant expense and effort” would be required to train employees across these departments and create “a system of coordination and review that would enable the [issuer] to comply” with the proposed amendments. <sup>258</sup>
 
@@ -700,7 +576,7 @@ In response to comments, the Commission is revising, from two hours to four hour
 
 However, the Commission is not changing its estimate that the amendments to the Rule will result in 2,200 additional event notices filed annually, raising the total number of event notices prepared by issuers annually to approximately 75,680. The Commission believes this estimate remains appropriate because of the substantial narrowing of the definition of financial obligation from the definition proposed in Proposing Release. <sup>272</sup> The adopted definition offinancial obligation removes or extensively limits the definitions, such as the modifications regarding leases, derivatives, and judicial obligations that commenters cited as the most burdensome. The adopted definition of financial obligation is tailored to apply only to debt, debt-like, and debt-related obligations. The adopted definition narrows the number of transactions for which issuers and obligated persons will need to monitor, evaluate, review, or file notices. The Commission believes this change will reduce the burdens of the adopted amendments as compared to the proposed amendments. In particular, the narrowing of“financial obligation” to focus on instruments that compete with a security holder’s interests, as a security holder <sup>273</sup> will dramatically limit the need for issuers to centralize reporting and analysis for staff across multiple departments. <sup>274</sup> Moreover, as discussed in Section III.A.1.i, the Commission has provided examples intended to assist issuers in determining materiality under the Rule, addressing another issue commenters believed added to the burden of compliance with the Rule.estimated, in light of a lack of data to quantify a reduction in filings resulting from the narrowed scope of the amendments, and to provide an estimate for the paperwork burden that would not be under-inclusive, the Commission has elected to retain the proposed estimate at this time.
 
-Total Burden for Issuers
+<h>d. Total Burden for Issuers</h>
 
 Under the amendments to Rule 15c2-12 as adopted, the total burden on issuers to submit continuing disclosure documents would be 755,018 hours. <sup>275</sup> Table 2 below briefly summarizes the Commission’s PRA burden estimates for issuers in the 2015 PRA Notice (the Commission’s most recent estimates prior to these amendments), the Proposing Release, and the Adopting Release.
 
@@ -733,10 +609,6 @@ The Commission estimates that the ongoing annual aggregate information collectio
 In the Proposing Release, the Commission stated that it did not expect dealers to incur any additional external costs associated with the proposed amendments to the Rule because the proposed amendments do not change the obligation of dealers under the Rule to reasonably determine that the issuer or obligated person has undertaken, in a written agreement or contract, for the benefit of holders of such municipal securities, to provide continuing disclosuredocuments to the MSRB, and to determine whether the issuer or obligated person has failed to comply with such undertakings in all material respects. <sup>285</sup> To the extent that dealers would incur a one-time burden of preparing and issuing a notice advising the dealer’s employees about the amendments, the Commission believed that the work would be consistent with the type of compliance work that a dealer typically handles internally, and that the dealer would not incur any additional external costs. <sup>286</sup> The Commission received no comments on this estimate and continues to believe that this estimate is appropriate.
 
 Also in the Proposing Release, the Commission stated that it did not expect the MSRB to incur any additional external costs associated with the proposed amendments to the Rule. The Commission believed that the MSRB would not incur additional external costs specifically associated with modifying the indexing system to accommodate the amendments to the Rule because the MSRB would implement those changes internally. The Commission received no comments on this estimate. After consultation of the Commission staff with MSRB staff, the Commission continues to believe that this estimate is appropriate. Additionally, in the Proposing Release, the Commission estimated that the MSRB expends $10,000 annually in hardware and software costs for the MSRB’s EMMA system. <sup>287</sup> After consultation of the Commission staff with MSRB staff, the Commission now estimates that the MSRB expends $520,000 annually in hardware and software costs for the MSRB’s EMMA system. <sup>288</sup>
-
-<h>286. Id.</h>
-
-<h>287. Id.</h>
 
 Under the amendments to Rule 15c2-12 as adopted, the total external costs to dealers would be zero and the total external costs to the MSRB would be $520,000 annually. Table 4 below summarizes the Commission’s PRA external cost estimates for dealers and the MSRB in the 2015 PRA Notice (the Commission’s most recent estimates prior to these amendments), the Proposing Release, and the Adopting Release.
 
@@ -880,7 +752,7 @@ At the same time, the Commission continues to recognize that the amendments will
 
 <h>1. Anticipated Benefits of Rule 15c2-12 Amendments</h>
 
-Benefits to Investors
+<h>a. Benefits to Investors</h>
 
 The Commission believes that these amendments may yield several benefits to municipal securities investors. First, the amendments will facilitate investors’ access to more timely and informative disclosures about an issuer’s or obligated person’s financial obligations, and thereby assist them in making more informed investment decisions when trading in the secondary market.
 
@@ -898,7 +770,7 @@ Consequently, pursuant to the amendments, municipal securities investors and oth
 
 Second, more timely and informative disclosures may reduce the information disadvantage investors have relative to other more informed parties such as issuers, obligated persons, counterparties, and lenders, and enhance their protection. As discussed above and in the Proposing Release, for example, a bank loan agreement could alter the debt payment priority structure of the issuer’s or obligated person’s outstanding securities, or give the lender a lien on assets or revenues that also secure the repayment of an issuer’s or obligated person’s outstanding municipal securities, diluting existing security holders’ claims and adversely affecting their contractual rights. However, under the Rule prior to these amendments, existing security holders may not learn about such events and may therefore be unable to take any actions they might have taken had they been informed, such as exiting their position. More timely and informative disclosure of the events covered in the amendments should promote a fairer information environment that allows current investors to monitor whether their contractual rights have been negatively impacted by undisclosed financial obligations and take appropriate actions.
 
-Benefits to Issuers or Obligated Persons
+<h>b. Benefits to Issuers or Obligated Persons</h>
 
 In the Proposing Release, the Commission discussed that the amendments would benefit issuers and obligated persons because greater transparency regarding an issuer’s or obligated person’s financial obligations might lead to a decrease in borrowing costs, particularly the costs associated with their public debt. One comment the Commission received urged the Commission to further study borrowing costs, because the commenter asserted that the Commission “does not genuinely address systemic increased borrowing costs that may resultrefund outstanding bonds, which may incentivize some issuers to use complex strategies and derivative products to refund outstanding bond issues. See supra note 309 and accompanying text. These derivatives entered into in connection with a debt obligation would be disclosed under the amendments, and keep investors and other market participants informed about the credit risk associated with the derivatives.from this rule.” <sup>364</sup> The Commission discussed the potential for increased borrowing costs in its proposal for amendments to Rule 15c2-12. <sup>365</sup>
 
@@ -912,13 +784,13 @@ For additional reference to borrowing costs in corporate securities markets, see
 
 Overall, the Commission believes that the amendments could benefit issuers and obligated persons by reducing the cost of both publicly issued and privately placed debt including direct placements and other financial obligations. The Commission also recognizes that borrowing costs could increase in some cases as a result of the amendments, which would constitute a cost to issuers and obligated persons. More discussion on the cost and overall impact of the amendments will be provided in a later section. <sup>373</sup>
 
-Benefits to Rating Agencies and Municipal Analysts
+<h>c. Benefits to Rating Agencies and Municipal Analysts</h>
 
 The Commission continues to believe that the amendments will help rating agencies and municipal analysts gain access to more updated information about the issuer’s and obligated person’s credit and financial position at a lower cost. As discussed in the Proposing Release, rating agencies and municipal analysts have stated on a number of occasions that direct placements can have credit implications for ratings on an issuer’s or obligated person’s outstanding municipal securities. <sup>374</sup> Rating agencies must expend resources to collect information about financial obligations including direct placements to provide more accurate ratings. One rating agency stated that it would suspend or withdraw ratings if issuers or obligated persons do not provide such notification in a timely manner. <sup>375</sup> The process for suspending or withdrawing ratings could also be costly for a rating agency. <sup>376</sup> The amendments may reduce the need for rating agencies or analysts to separately implement a process to gain more timely access to the information regarding issuers’ and obligated persons’ financial obligations. Therefore, under the amendments, rating agencies and municipal analysts may have access to information they need to produce more accurate credit ratings and analyses at a lower cost. A portion of any cost savings may be passed through to investors and represent a benefit to them depending on how much they rely on rating agencies for information.
 
 <h>2. Anticipated Costs of the Rule 15c2-12 Amendments</h>
 
-Costs to Issuers and Obligated Persons
+<h>a. Costs to Issuers and Obligated Persons</h>
 
 The Commission expects that, under the amendments, issuers and obligated persons will experience an increase in administrative costs from undertaking in their continuing disclosure agreements to produce the additional event notices. As discussed above, <sup>377</sup> an advantage of a direct placement versus a public offering of municipal securities is the lower costs because, among other things, there is no requirement to prepare a public offering document for the borrowing transaction. Under the amendments, Participating Underwriters in Offerings will be required to reasonably determine that issuers or obligated persons have undertaken in a continuing disclosure agreement to submit event notices to the MSRB within ten business days of the events. Issuers and obligated persons providing notices in a manner consistent with the amendments will incur a cost to do so.
 
@@ -946,7 +818,7 @@ Similarly, the amendments may also have a differential impact on borrowing costs
 
 Finally, recent changes to federal tax laws <sup>394</sup> may also impact the borrowing costs of issuers and obligated persons in ways that complicate assessment of the likely impacts of the amendments on borrowing costs in the future when certain data ( e.g. , bond yields) become available. As discussed above, <sup>395</sup> on one hand, because the new law caps the state and local tax deduction allowed to be taken on an individual federal income tax return, the law may increase the demand for tax-free investments such as municipal bonds, driving up bond prices and driving down yields. <sup>396</sup> On the other hand, as also discussed above, a decline in the federal corporate income tax rate may increase the interest rates on issuers’ or obligated persons’ direct placements because of the diminished relative benefit for the municipal tax exemption as well as certain gross-up provisions being triggered. <sup>397</sup> Because the impacts from the tax law changes and the amendments are likely to overlap, it may not be possible to disentangle the two.
 
-Costs to Dealers
+<h>b. Costs to Dealers</h>
 
 Pursuant to Rule 15c2-12, a dealer acting as a Participating Underwriter in an Offering has an existing obligation to contract to receive the final official statement. <sup>398</sup> The final official statement includes, among other things, a description of any instances in the previous five years in which the issuer or obligated person failed to comply, in all material respects, with any previous undertakings in a written contract or agreement to provide certain continuingdisclosures. <sup>399</sup> Dealers acting as Participating Underwriters in an Offering also have an existing obligation under Rule 15c2-12 to reasonably determine that an issuer or obligated person has undertaken in its continuing disclosure agreement, for the benefit of holders of the municipal securities, to provide notice to the MSRB of specified events. In addition, dealers are prohibited under Rule 15c2-12 from recommending the purchase or sale of municipal securities unless they have procedures in place that provide reasonable assurance that they will promptly receive event notices and failure to file notices with respect to the recommended securities. Dealers typically use EMMA or other third party vendors to satisfy this existing obligation.
 
@@ -954,13 +826,13 @@ As a practical matter, dealers’ obligations under the Rule 15c2-12 amendments 
 
 As discussed in Section IV.D.1, the Commission is revising its estimate of the one-time and annual burden on dealers. <sup>400</sup> Meanwhile, the Commission continues to believe that dealers would not incur any additional external costs and that the task of preparing and issuing a notice advising the dealer’s employees about the amendments is consistent with the type of compliance work that a dealer typically handles internally. <sup>401</sup> Based on the new estimates, as a result of theamendments, dealers would incur an annual internal compliance cost of $5,366,880 for the first year, and $4,916,880 in subsequent years. <sup>402</sup>
 
-Costs to Lenders
+<h>c. Costs to Lenders</h>
 
 Under the amendments, lenders may incur costs stemming from the disclosure about financial obligations and the terms of the agreements creating such obligations. As discussed above and in the Proposing Release, lenders may enjoy certain priority rights in these financial arrangements which may not be publicly disclosed or reflected in the price of the issuer’s or obligated person’s outstanding municipal securities. However, as discussed above, while the increased level of disclosure may reduce lenders’ information advantage over other investors, it does not eliminate this advantage because private lenders such as banks actively engage in information gathering and monitoring of borrowers and thus develop proprietary information during the lending relationship. Disclosure is also unlikely to alter the lender’s senior status in the debt priority queue. To the extent that the benefits from a previously undisclosed financial arrangement are reduced by the increased disclosure, lenders will incur a cost, but such a cost translates into benefits to investors, because the benefit originally accrued to lenders at the expense of investors in municipal securities.
 
 In addition, since the amendments may decrease the costs incurred by issuers and obligated persons in connection with the issuance of public debt and increase the demand for public issuance, lenders may experience reduced investment opportunities, or may have to$5,366,880. Subsequent annual costs: 13,658 hours (annual increased hourly burden on dealers due to the amendments) x $360 (average hourly cost of internal compliance attorney) = $4,916,880.decrease loan rates in order to stay competitive, either of which could generate a cost to them. However, the Commission does not believe the amendments will significantly alter the composition of the existing municipal debt market. While some issuers and obligated persons, seeing the cost of public debt decrease, may have incentives to increase public issuance, issuers and obligated persons that are heavily reliant on direct placements may see the increase in disclosure as more costly than the benefit from the reduced cost of public debt, and therefore choose to use private debt exclusively. For reasons similar to those discussed above, the Commission is unable to quantify the amendments’ impact on lenders because of the lack of data on loan characteristics and lending relationships.
 
-Costs to the MSRB
+<h>d. Costs to the MSRB</h>
 
 The Rule 15c2-12 amendments will increase the type of event notices submitted to the MSRB which may result in the MSRB incurring costs associated with such additional notices. As discussed in Section IV.D.3, after further discussion with the MSRB, the Commission is revising its burden estimate for the MSRB to implement the necessary modifications to EMMA. <sup>403</sup> According to the MSRB, the total estimated one-time cost to the MSRB of updating EMMA would be $91,358. <sup>404</sup>
 
@@ -1593,6 +1465,10 @@ The Commission certified, under section 605(b) of the Regulatory Flexibility Act
 284 126,337 hours (total estimated annual burden for dealers) + 755,018 hours (total estimated annual burden for issuers) + 19,500 hours (total estimated annual burden for MSRB) = 900,855 hours. The initial first-year burden would be 903,805 hours: 127,587 hours (total estimated burden for dealers in first year) + 755,018 hours (total estimated burden for issuers in first year) + 21,200 hours (total estimated burden for MSRB in the first year) = 903,805 hours.
 
 285 See Proposing Release, supra note 82 FR at 13946.
+
+286 Id.
+
+287 Id.
 
 288 According to the MSRB, its estimated annual cost has changed to $520,000 after a change in the method of calculation used by the MSRB to estimate annual cost. This estimate corresponds to the estimated annual cost in hardware and software costs to operate the continuing disclosure service for the MSRB’s EMMA system.
 

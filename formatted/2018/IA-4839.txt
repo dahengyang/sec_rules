@@ -1,33 +1,3 @@
-https://www.sec.gov/rules/final/2018/ia-4839.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Amendment to Rule 203(l)-1
-
-	II.B.0.0 Amendment to Rule 203(m)-1
-
-III.0.0.0 EFFECTIVE DATE
-
-IV.0.0.0 ECONOMIC ANALYSIS
-
-	IV.A.0.0 Introduction and Economic Justification
-
-	IV.B.0.0 Costs and Benefits
-
-	IV.C.0.0 Efficiency, Competition, and Capital Formation
-
-V.0.0.0 PAPERWORK REDUCTION ACT ANALYSIS
-
-VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>275</sup>

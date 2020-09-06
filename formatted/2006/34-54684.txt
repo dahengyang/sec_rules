@@ -1,91 +1,3 @@
-https://www.sec.gov/rules/final/2006/34-54684.pdf
-
-I.0.0.0 BACKGROUND
-
-	I.A.0.0 Introduction and summary
-
-	I.B.0.0 History of the best-price rule and the reasons for today’s amendments
-
-	I.C.0.0 Overview of the proposed amendments
-
-II.0.0.0 AMENDMENTS TO THE BEST-PRICE RULE
-
-	II.A.0.0 Amendments to the basic standard in Exchange Act Rules 13e-4(f)(8)(ii) and 14d-10(a)(2)
-
-		II.A.1.0 Discussion
-
-		II.A.2.0 Comments regarding the proposed amendments to the basic standard in Exchange Act Rules 13e-4(f)(8)(ii) and 14d-10(a)(2)
-
-	II.B.0.0 Exemption for consideration offered and paid pursuant to compensatory arrangements
-
-		II.B.1.0 Discussion
-
-		II.B.2.0 Comments regarding the compensatory arrangement exemption
-
-			II.B.2.a Parties to the arrangement
-
-			II.B.2.b Types of arrangements covered by the exemption
-
-			II.B.2.c Additional requirements of the exemption
-
-	II.C.0.0 Arrangements approved by independent directors
-
-		II.C.1.0 Discussion
-
-		II.C.2.0 Comments regarding the safe harbor
-
-			II.C.2.a The committee approval required
-
-			II.C.2.b Determining independence
-
-			II.C.2.c Procedural aspects of the approval of arrangements
-
-			II.C.2.d Challenges to the applicability of the safe harbor
-
-			II.C.2.e Application of the safe harbor to the issuer best-price rule
-
-III.0.0.0 PAPERWORK REDUCTION ACT
-
-IV.0.0.0 COST-BENEFIT ANALYSIS
-
-	IV.A.0.0 Background
-
-	IV.B.0.0 Benefits
-
-	IV.C.0.0 Costs
-
-	IV.D.0.0 Small business issuers
-
-V.0.0.0 CONSIDERATION OF BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	VI.A.0.0 Reasons for the proposed amendments
-
-	VI.B.0.0 Significant issues raised by public comment
-
-	VI.C.0.0 Small entities subject to the proposed rules
-
-	VI.D.0.0 Reporting, recordkeeping and other compliance requirements
-
-	VI.E.0.0 Agency action to minimize effect on small entities
-
-		VI.E.1.0 Establishing different compliance or reporting requirements or timetables that take into account the resources of small entities;
-
-		VI.E.2.0 The clarification, consolidation, or simplification of the compliance or reporting requirements for small entities;
-
-		VI.E.3.0 The use of performance rather than design standards; and
-
-		VI.E.4.0 An exemption for small entities from coverage of the best-price rule, or any part thereof, for small entities.
-
-VII.0.0.0 STATUTORY BASIS
-
-VIII.0.0.0 TEXT OF THE RULES AND AMENDMENTS List of Subjects
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 200 and <sup>240</sup>
 
 [RELEASE NOS. 34-54684; IC-27542; File No. S7-11-05] RIN 3235-AJ50
@@ -402,13 +314,13 @@ Both the exemption and the safe harbor, however, are optional provisions and ser
 
 The Regulatory Flexibility Act directs us to consider significant alternatives that would accomplish the stated objectives while minimizing any significant adverse impact on small entities or organizations. In connection with the proposals, we considered the following alternatives:
 
-<h>1. Establishing different compliance or reporting requirements or timetables that take into account the resources of small entities;</h>
+1. Establishing different compliance or reporting requirements or timetables that take into account the resources of small entities;
 
-<h>2. The clarification, consolidation, or simplification of the compliance or reporting requirements for small entities;</h>
+2. The clarification, consolidation, or simplification of the compliance or reporting requirements for small entities;
 
-<h>3. The use of performance rather than design standards; and</h>
+3. The use of performance rather than design standards; and
 
-<h>4. An exemption for small entities from coverage of the best-price rule, or any part thereof, for small entities.</h>
+4. An exemption for small entities from coverage of the best-price rule, or any part thereof, for small entities.
 
 We have considered a variety of reforms to achieve our regulatory objectives.
 

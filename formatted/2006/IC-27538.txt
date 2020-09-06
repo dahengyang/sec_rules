@@ -1,43 +1,3 @@
-https://www.sec.gov/rules/final/2006/ic-27538.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Rule 2a-46
-
-			II.A..a the greatest number of equity securities of such company, including securities convertible into or exchangeable for such securities, and (b) the greatest amount of certain debt securities of such company held by the BDC at any time during the period when such company was an eligible portfolio company; and (2) is one of the twenty largest holders of record of the company’s outstanding voting securities. Rule 55a-1 is appropriate in the public interest and consistent with the protection of investors and the purposes and policies fairly intended by the policy and provisions of the Act.
-
-III.0.0.0 COST-BENEFIT ANALYSIS
-
-	III.A.0.0 Benefits
-
-			III.A..b of that rule (which, as noted previously, is being reproposed).
-
-	III.B.0.0 Costs
-
-IV.0.0.0 CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-V.0.0.0 PAPERWORK REDUCTION ACT
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Reasons and Objectives of the New Rules
-
-	VI.B.0.0 Significant Issues Raised by Public Comment
-
-	VI.C.0.0 Small Entities Subject to the Rule
-
-	VI.D.0.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-	VI.E.0.0 Commission Action to Minimize Adverse Impact on Small Entities
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 270
 
 [Release No. IC-27538; File No. S7-37-04] RIN 3235-AJ31
@@ -150,11 +110,9 @@ We note that OTCBB and Pink Sheets companies also include a few large companies 
 
 Commenters, however, argued that a company that may meet the lowest initial quantitative listing of any Exchange may nevertheless not have access to the public capital markets. <sup>26</sup> These comments have persuaded us not to adopt this approach.
 
-B.	Rule 55a-1
+<h>B. Rule 55a-1</h>
 
-Proposed Rule 55a-1, which virtually all commenters supported, is adopted. <sup>27</sup> As adopted, Rule 55a-1 permits a BDC to include in its 70 percent basket follow-on investments in a company that met the definition of eligible portfolio company under Rule 2a-46 at the time of the BDC’s initial investment(s) in the company, but subsequently would not meet the definition of eligible portfolio company because the company no longer meets the requirements of that rule ( i.e. , following the BDC’s initialinvestment(s) in the company, the company listed its securities on an Exchange), subject to certain conditions. These conditions permit a BDC to make a follow-on investment only if the BDC, at the time of the follow-on investment: (1) owns at least 50 percent of
-
-<h>a. the greatest number of equity securities of such company, including securities convertible into or exchangeable for such securities, and (b) the greatest amount of certain debt securities of such company held by the BDC at any time during the period when such company was an eligible portfolio company; and (2) is one of the twenty largest holders of record of the company’s outstanding voting securities. Rule 55a-1 is appropriate in the public interest and consistent with the protection of investors and the purposes and policies fairly intended by the policy and provisions of the Act.</h>
+Proposed Rule 55a-1, which virtually all commenters supported, is adopted. <sup>27</sup> As adopted, Rule 55a-1 permits a BDC to include in its 70 percent basket follow-on investments in a company that met the definition of eligible portfolio company under Rule 2a-46 at the time of the BDC’s initial investment(s) in the company, but subsequently would not meet the definition of eligible portfolio company because the company no longer meets the requirements of that rule (i.e. , following the BDC’s initialinvestment(s) in the company, the company listed its securities on an Exchange), subject to certain conditions. These conditions permit a BDC to make a follow-on investment only if the BDC, at the time of the follow-on investment: (1) owns at least 50 percent of (a). the greatest number of equity securities of such company, including securities convertible into or exchangeable for such securities, and (b) the greatest amount of certain debt securities of such company held by the BDC at any time during the period when such company was an eligible portfolio company; and (2) is one of the twenty largest holders of record of the company’s outstanding voting securities. Rule 55a-1 is appropriate in the public interest and consistent with the protection of investors and the purposes and policies fairly intended by the policy and provisions of the Act.
 
 <h>III. COST-BENEFIT ANALYSIS</h>
 
@@ -170,9 +128,7 @@ The Commission is reproposing Rule 2a-46(b) to address this concern. See supra n
 
 Rule 2a-46 defines an eligible portfolio company to include all private companies and those public companies whose securities are not listed on an Exchange. The Commission’s Office of Economic Analysis (“OEA”) estimates that, as of June 2006, there were a total number of 6,041 domestic operating companies with securities that were traded on the OTCBB and through Pink Sheets, and therefore would qualify as eligible portfolio companies under the rule. OEA reached this conclusion by first calculating the number of companies whose securities are trading on the OTCBB (3,295 companies) and through Pink Sheets (4,794 companies), and then removing from these figures estimates of all foreign companies, investment companies and companies that are excluded from the definition of investment company by Section 3(c) of the Investment Company Act ( e.g. , REITS, banks, insurance companies) because both Section 2(a)(46) of the Investment Company Act and Rule 2a-46 exclude these types of companies from the definition of eligible portfolio company (a deduction of 776 companies from OTCBB and 1,273 companies from Pink Sheets). OEA thus concluded that, as of June 2006, there were a total of 6,041 domestic operating companies (2,519 OTCBB companies and 3,522 Pink Sheets companies) that would qualify as eligible portfolio companies. OEA estimates that these 6,041 companies represent approximately 61.4 percent (6,041/9,845 <sup>31</sup> ) of all public domestic operating companies that could qualify as eligible portfolio companies under Rule 2a-46.
 
-In the Proposing Release, we explained that OEA estimated that 60 percent of public domestic operating companies do not have securities that trade on an Exchange, and thus would meet the definition of eligible portfolio company under proposed Rule 2a-46(a). We further explained that even more public companies should qualify aseligible portfolio companies by virtue of meeting the requirements of proposed paragraph
-
-<h>b. of that rule (which, as noted previously, is being reproposed).</h>
+In the Proposing Release, we explained that OEA estimated that 60 percent of public domestic operating companies do not have securities that trade on an Exchange, and thus would meet the definition of eligible portfolio company under proposed Rule 2a-46(a). We further explained that even more public companies should qualify aseligible portfolio companies by virtue of meeting the requirements of proposed paragraph b. of that rule (which, as noted previously, is being reproposed).
 
 We note that one commenter argued that the Commission calculated incorrectly the number of companies that the proposed rule would benefit and wrote that the proposal would benefit even fewer companies than the Commission estimated. The commenter argued that proposed Rule 2a-46(a) (which we are adopting today as Rule 2a-46) would capture only 52.4 percent of public companies. <sup>33</sup>
 

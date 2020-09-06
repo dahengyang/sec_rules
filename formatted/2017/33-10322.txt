@@ -1,67 +1,3 @@
-1157
-
-https://www.sec.gov/rules/final/2017/33-10322.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Discussion of the Final Amendments
-
-	II.A.0.0 Hyperlinking to Exhibits
-
-		II.A.1.0 Proposed Amendments
-
-		II.A.2.0 Comments on the Proposed Rule
-
-		II.A.3.0 Final Rule
-
-	II.B.0.0 HTML Format for Registration Statements and Reports
-
-		II.B.1.0 Proposed Rules
-
-		II.B.2.0 Comments on the Proposed Rules
-
-		II.B.3.0 Final Rule
-
-III.0.0.0 Other Matters
-
-IV.0.0.0 Economic Analysis
-
-	IV.A.0.0 Baseline
-
-	IV.B.0.0 Potential Economic Effects
-
-		IV.B.1.0 how many registration statements and reports a registrant files that require an exhibit index; and (2) how many exhibits in the exhibit index of these registration statements and reports are either filed with the filing or incorporated by reference and would be subject to the hyperlinking requirement.
-
-	IV.C.0.0 Alternatives
-
-V.0.0.0 Paperwork Reduction Act
-
-	V.A.0.0 Background
-
-	V.B.0.0 Summary of the Final Amendments
-
-	V.C.0.0 Summary of Comment Letters and Revisions to Proposals
-
-	V.D.0.0 Revisions to the Burden and Cost Estimates Burden
-
-VI.0.0.0 Final Regulatory Flexibility Act Analysis
-
-	VI.A.0.0 Need for the Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comments
-
-	VI.C.0.0 Small Entities Subject to the Final Rules
-
-	VI.D.0.0 Reporting, Recordkeeping, and other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR PARTS 229, 232, 239 and 249
 
 [RELEASE NOS. 33-10322; 34-80132; FILE NO. S7-19-16] RIN 3235-AL95
@@ -238,7 +174,7 @@ To the extent that hyperlinks ease the navigation process for investors and othe
 
 As a result of the amendments, both HTML and ASCII registrants will incur compliance costs to include hyperlinks in their exhibit indexes. The cost of inserting a hyperlink to an exhibit incorporated by reference would likely be greater than the cost of inserting a link to an exhibit filed with the document. While the average cost itself of inserting a hyperlink is minimal, <sup>88</sup> the total hyperlinking costs for registrants would be a function of two main factors:
 
-<h>1. how many registration statements and reports a registrant files that require an exhibit index; and (2) how many exhibits in the exhibit index of these registration statements and reports are either filed with the filing or incorporated by reference and would be subject to the hyperlinking requirement.</h>
+1. how many registration statements and reports a registrant files that require an exhibit index; and (2) how many exhibits in the exhibit index of these registration statements and reports are either filed with the filing or incorporated by reference and would be subject to the hyperlinking requirement.
 
 For filers reporting in HTML, our baseline analysis indicates that few filers currently include fully hyperlinked exhibit indexes in registration statements and reports. Our analysis of a random sample of registration statements and reports filed between October 1, 2015 and September 30, 2016 indicates that approximately 8% of HTML filers included at least a partially hyperlinked exhibit index in their filings. For these HTML filers, the cost of fully hyperlinking their exhibit indexes could be less than for those HTML filers that have not previously hyperlinked their exhibit indexes.
 

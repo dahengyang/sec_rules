@@ -1,89 +1,3 @@
-https://www.sec.gov/rules/final/2013/34-70072.pdf
-
-I.0.0.0 Summary of Amendments
-
-II.0.0.0 Baseline and Incremental Economic Effects
-
-III.0.0.0 Alternatives
-
-			III...c Requirement to Deduct the Amount by which a Fidelity Bond Exceeds SRO Limits
-
-			III...d Broker-Dealer Solvency Requirement
-
-			III...e Amendment to Rule Governing Restrictions of Withdrawals of Capital
-
-			III...f Amendment to Rule 15c3-1 Appendix A
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 General Issues Raised by Public Comments
-
-	VI.B.0.0 Amendments to the Customer Protection Rule
-
-		VI.B.1.0 Need for and Objectives of the Rule Amendments
-
-		VI.B.2.0 Significant Issues Raised by Public Comment
-
-		VI.B.3.0 Small Entities Subject to the Rule
-
-		VI.B.4.0 Reporting, Recordkeeping, and other Compliance Requirements
-
-		VI.B.5.0 Agency Action to Minimize Effect on Small Entities
-
-	VI.C.0.0 Holding Futures Positions in a Securities Portfolio Margining Account
-
-		VI.C.1.0 Need for and Objectives of the Amendments
-
-		VI.C.2.0 Significant Issues Raised by Public Comments
-
-		VI.C.3.0 Small Entities Subject to the Rules
-
-		VI.C.4.0 Reporting, Recordkeeping, and other Compliance Requirements
-
-		VI.C.5.0 Agency Action to Minimize Effect on Small Entities
-
-	VI.D.0.0 Securities Lending and Borrowing and Repurchase/Reverse Repurchase Transactions
-
-		VI.D.1.0 Need for and Objectives of the Amendments
-
-		VI.D.2.0 Significant Issues Raised by Public Comments
-
-		VI.D.3.0 Small Entities Subject to the Rule
-
-		VI.D.4.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-		VI.D.5.0 Agency Action to Minimize Effect on Small Entities
-
-	VI.E.0.0 Documentation of Risk Management Procedures
-
-		VI.E.1.0 Need for and Objectives of the Amendments
-
-		VI.E.2.0 Significant Issues Raised by Public Comments
-
-		VI.E.3.0 Small Entities Subject to the Rule
-
-		VI.E.4.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-		VI.E.5.0 Agency Action to Minimize Effect on Small Entities
-
-	VI.F.0.0 Amendments to the Net Capital Rule
-
-		VI.F.1.0 Need for and Objectives of the Amendments
-
-		VI.F.2.0 Significant Issues Raised by Public Comments
-
-		VI.F.3.0 Small Entities Subject to the Rule
-
-		VI.F.4.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-		VI.F.5.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
 
 Release No. 34-70072; File No. S7-08-07 RIN 3235-AJ85
@@ -100,59 +14,25 @@ SUPPLEMENTARY INFORMATION:
 
 Table of Contents
 
-B ACKGROUND
+<h>I. BACKGROUND</h>
 
-The Commission is adopting amendments to the broker-dealer net capital rule (Rule 15c3-1), <sup>1</sup> customer protection rule (Rule 15c3-3), <sup>2</sup> books and records rules (Rules 17a-3 and 17a-4), and notification rule (Rule 17a-11). <sup>3</sup> The Commission proposed these rule changes on March 9, 2007. <sup>4</sup> The Commission re-opened the public comment period on May 3, 2012. <sup>5</sup> The Commission received a total of 97 comment letters on the proposed amendments. <sup>6</sup> Sixty comment letters were received prior to the re-opening of
+The Commission is adopting amendments to the broker-dealer net capital rule (Rule 15c3-1), <sup>1</sup> customer protection rule (Rule 15c3-3), <sup>2</sup> books and records rules (Rules 17a-3 and 17a-4), and notification rule (Rule 17a-11). <sup>3</sup> The Commission proposed these rule changes on March 9, 2007. <sup>4</sup> The Commission re-opened the public comment period on May 3, 2012. <sup>5</sup> The Commission received a total of 97 comment letters on the proposed amendments. <sup>6</sup> Sixty comment letters were received prior to the re-opening of the comment period, and 37 were received after it. The Commission carefully considered all of the comment letters, and as discussed in detail below, modified the amendments in certain respects in light of the comments received. In addition, the Commission has determined to defer consideration of action at this time with respect to certain of the proposed amendments.
 
-2007 from Steven R. Gerbel, Chicago Capital Management LP (“ Chicago Capital Letter ”); letter dated May 17, 2007 from Jeffrey L. Kiss, Principal, PackerKiss Securities, Inc. (“ PackerKiss Letter ”); letter dated May 17, 2007 from Josephine Wang, General Counsel, SIPC (“ SIPC Letter ”); letter dated May 18, 2007 from Kimberly Taylor, Managing Director and Clearing House President, Chicago Mercantile Exchange Inc. (“ CME Letter ”); letter dated May 18, 2007 from Diane V. Esheleman, Executive Vice President, JP Morgan Chase Bank, N.A. (“ JP Morgan Letter ”); letter dated May 21, 2007 from Faith Colish, Carter Ledyard Milburn LLP (“ Colish Letter ”); letter dated May 23, 2007 from Charles R. Manzoni, Jr., General Counsel, FAF Advisors, Inc. (“ FAF Advisors Letter ”); letter dated May 27, 2007 from Joyce Glenn (“ Glenn Letter ”); letter dated May 28, 2007 from William Bare (“ Bare Letter ”); letter dated May 29, 2007 from Robert Keenan, CEO, St. Bernard Financial Services, Inc. (“ St. Bernard Financial Services Letter ”); letter dated May 31, 2007 from John C. Melton, Sr., Executive Vice President, Coastal Securities (“ Coastal Letter ”); letter dated June 3, 2007 from Anonymous (“ Anonymous Letter ”); letter dated June 5, 2007 from Kelly S. McEntire, Executor, Retired State Administrator/Executor of Janus Capital Investments (“ McEntire Letter ”); letter dated June 13, 2007 from Bruce Bent, Chairman, The Reserve (“ Reserve Letter ”); letter dated June 14, 2007 from Amal El Said, Accounting and Regulatory, Abbey National (“ Abbey National Letter ”); letter dated June 14, 2007 from Frank A. Perrone, Senior Vice President, Brown Brothers Harriman & Co. (“ Brown Brothers Harriman Letter ”); letter dated June 15, 2007 from James J. Angel, Ph.D., CFA, Associate Professor of Finance, McDonough School of Business, Georgetown University (“ Angel Letter ”); letter dated June 15, 2007 from Matthew M. Hughey, Chief Financial Officer, First Clearing, LLC (“ First Clearing Letter ”); letter dated June 15, 2007 from Marshall J. Levinson, Senior Managing Director, Bear, Stearns & Co. Inc., Chair, SIFMA Capital Committee (“ SIFMA 2 Letter ”); letter dated June 15, 2007 from Christopher Williams, Director and Senior Counsel, and Barbara Brooks, Principal Financial Officer, Dresdner Kleinwort (“ Dresdner Kleinwort Letter ”); letter dated June 18, 2007 from Michael Dworkin (“ Dworkin Letter ”); letter dated June 18, 2007 from Keith Weller, Executive Director and Senior Associate General Counsel, UBS Global Asset Management (Americas) Inc. (“ UBS Letter ”); letter dated June 18, 2007 from Marcelo Riffaud, Managing Director, Legal Department, Deutsche Bank Securities Inc. (“ Deutsche Bank Securities Letter ”); letter dated June 18, 2007 from Jill Gross and Rahat Sarmast, Pace Investor Rights Project (“ Pace Letter ”); letter dated June 18, 2007 from Robert E. Putney, III, Director and Senior Counsel, BlackRock, Inc. (“ BlackRock Letter ”); letter dated June 18, 2007 from James S. Keller, Chief Regulatory, the PNC Financial Services Group, Inc. (“ PNC Letter ”); letter dated June 18, 2007 from Sarah A. Miller, General Counsel, American ABA Securities Association (“ ABASA Letter ”); letter dated June 18, 2007 from David Hirschmann, Executive Vice President, National Chamber Foundation of U.S. Chamber of Commerce (“ National Chamber Foundation Letter ”); letter dated June 18, 2007 from Michael W. Fields, Chief Fixed Income Officers, American Beacon Advisors (“ American Beacon Letter ”); letter dated June 18, 2007 from David Lonergan, Head of U.S. Cash Management, Barclays Global Investors (“ Barclays Letter ”); letter dated June 18, 2007 from Howard Spindel, Senior Managing Directors, Integrated Management Solutions (“ Integrated Management Letter ”); letter dated June 18, 2007 from Jane G. Heinrichs, Associate Counsel, Investment Company Institute (“ ICI Letter ”); letter dated June 18, 2007 from Jeffrey P. Neubert, CEO, Clearinghouse Association L.L.C. (“ Clearing House Letter ”); letter dated June 19, 2007 from James T. McHale, Associate General Counsel, E*Trade Brokerage Holdings, Inc. (“ E*Trade Letter ”); letter dated June 25, 2007 from Cliff Verron, Managing Director, Deputy Chief Financial Officers and John Ramsay, Managing Director, Deputy General Counsel, Citigroup Global Markets Inc. (“ Citigroup Letter ”); letter dated June 25, <sup>2007</sup>
+<h>II. AMENDMENTS</h>
 
-from AMEX, CBOE, ISE, OCC, and NYSE/ARCA (“ AMEX Letter ”); letter dated July 3, 2007 from Keith F. Higgins, Chair, Committee on Federal Regulation of Securities, American Bar Association (“ American Bar Association Letter ”); letter dated July 23, 2007 from Charles S. Morrison, Senior Vice President and Money Market Group Leader, Fidelity Management & Research Company, and John Valenti, Vice President, National Financial Securities LLC (“ Fidelity/NFS Letter ”); letter dated August 6, 2007 from Stuart Kaswell, Dechert LLP, on behalf of Federated Investors, Inc. (“ Federated 2 Letter ”); letter dated October 9, 2007 from Stuart Kaswell, Dechert LLP on behalf of Federated Investors, Inc. (“ Federated 3 Letter ”); letter dated November 16, 2007 from Marshall J. Levinson, Chair, Capital Committee, SIFMA (“ SIFMA 3 Letter ”); letter dated January 7, 2008 from Stuart J. Kaswell, Dechert LLP, on behalf of Federated Investors, Inc. (“ Federated 4 Letter ”); letter dated August 7, 2008 from Stuart J. Kaswell, Bryan Cave LLP, on behalf of Federated Investors, Inc. (“ Federated 5 Letter ”); letter dated November 10, 2008 from Lee A. Pickard, Pickard & Djinis LLP on behalf of Federated Investors (“ Federated 6 Letter ”); letter dated November 25, 2008 from Lee A. Pickard, Pickard & Djinis LLP on behalf of Federated Investors (“ Federated 7 Letter ”); letter dated December 18, 2008 from Lee A. Pickard, Pickard & Djinis LLP on behalf of Federated Investors (“ Federated 8 Letter ”); letter dated July 28, 2009 from Richard J. McDonald, Chief Regulatory Counsel, Susquehanna International Group LLP (“ SIG Letter ”); letter dated June 8, 2010 from The Honorable Gregory W. Meeks (“ Meeks Letter ”); letter dated October 14, 2011 from The Honorable Gregory W. Meeks (“ Meeks 2 Letter ”); letter dated May 5, 2012 from Edward P. Cernocky (“ Cernocky Letter ”); letter dated May 11, 2012 from Chris Barnard (“ Barnard Letter ”); letter dated May 15, 2012 from Helen
+<h>A. Amendments to the Customer Protection Rule</h>
 
-M. Saarinen (“ Saarinen Letter ”); letter dated May 18, 2012 from Laura H. Hearne (“ Hearne Letter ”); letter dated May 24, 2012 from Dick Fuld (“ Fuld Letter ”); letter dated May 30, 2012 from Bruce J. Womack (“ Womack Letter ”); letter dated June 1, 2012 from Lee A. Pickard, Pickard & Djinis LLP, on behalf of Federated Investors (“ Federated 9 Letter ”); letter dated June 4, 2012 from Michael Scillia, Director, National Investment Banking Association (“ NIBA Letter ”); letter dated June 7, 2012 from Anthony Fitzgerald (“ Fitzgerald Letter ”); letter dated June 7, 2012 from Tom Vincent, Senior V.P., Corporate Governance and Wealth Management Compliance, BOK Financial Corporation (“ BOK Letter ”); letter dated June 8, 2012 from Denise Dolphin (“ Dolphin Letter ”); letter dated June 8, 2012 from Colin W. McKechnie, Managing Director, JP Morgan Chase Bank, N. A (“ JP Morgan 2 Letter ”); letter dated June 8, 2012 from William A. Jacobson, Associate Clinical Professor, Cornell Law School, and Director, Cornell Securities Law Clinic, Ithaca, New York (“ Cornell Letter ”); letter dated June 8, 2012 from Ryan K. Bakhtiari, Aidikoff, Uhl & Bakhtiari, on behalf of the Public Investors Arbitration Bar Association (“ PIABA Letter ”); letter dated June 8, 2012 from Kenneth E. Bentsen, Jr., Executive Vice President, Public Policy and Advocacy, SIFMA (“ SIFMA 4 Letter ”); letter dated June 8, 2012 from Sarah A. Miller, Chief Executive Officer, Institute of International Bankers (“ IIB Letter ”); letter dated June 8, 2012 from James T. McHale, Global Head of Compliance, E*TRADE Financial Corporation (“ E*Trade 2 Letter ”); letter dated June 11, 2012 from Steve M. Brewer, Sr., ASG Securities, LLC, Houston, Texas (“ ASG Securities Letter ”); letter dated June 25, 2012 from Gene L. Finn (“ Finn Letter ”); letter dated June 26, 2012 from Cindy Walsh (“ Walsh Letter ”); letter dated July 12, 2012 from Michael Scillia, Director, National Investment Banking Association (“ NIBA 2 Letter ”); letter dated July 18, 2012 from Gene L. Finn (“ Finn 2 Letter ”); letter dated July 30, 2012 from David Waddell (“ Waddell Letter ”); letter dated August 6, 2012 from Gene Finn (“ Finn 3 Letter ”); letter dated August 15, 2012 from Echeal R. Sigan (“ Sigan Letter ”); letter dated August 26, 2012 from Mark Irwin (“ Irwin Letter ”); letter dated September 17, 2012 from Gene L. Finn (“ Finn 4 Letter ”); letter dated September 27, 2012 from Jeff
+<h>1. Background</h>
 
-S. Clark (“ Clark Letter ”); letter dated September 28, 2012 from Robert LaPlante, M.P.A.
+The Commission adopted Rule 15c3-3 in 1972 in response to a congressional directive to strengthen the financial responsibility requirements for broker-dealers that hold securities and cash for customers. <sup>7</sup> In particular, Rule 15c3-3 is designed “to give more specific protection to customer funds and securities, in effect forbidding brokers and dealers from using customer assets to finance any part of their businesses unrelated to servicing securities customers; e.g. , a firm is virtually precluded from using customer funds to buy securities for its own account.” <sup>8</sup> To meet this objective, Rule 15c3-3 requires a broker-dealer that maintains custody of customer securities and cash (a “carrying broker-dealer”) to take two primary steps to safeguard these assets. The steps are designed to protect customers <sup>9</sup> by segregating their securities and cash from the broker-dealer’s proprietary business activities. If the broker-dealer fails financially, the securities and cash should be readily available to be returned to the customers. In addition, if the failed broker-dealer is liquidated in a formal proceeding under the Securities Investor Protection Act of 1970 (“SIPA”), the securities and cash would be isolated and readily identifiable as “customer property” and, consequently, available to be distributed to customers ahead of other creditors. <sup>10</sup>
 
-the comment period, and 37 were received after it. The Commission carefully considered all of the comment letters, and as discussed in detail below, modified the amendments in certain respects in light of the comments received. In addition, the Commission has determined to defer consideration of action at this time with respect to certain of the proposed amendments.
+The first step required by Rule 15c3-3 is that a carrying broker-dealer must maintain physical possession or control over customers’ fully paid and excess margin securities. <sup>11</sup> Physical possession or control means the broker-dealer must hold these securities in one of several locations specified in Rule 15c3-3 and free of liens or any other interest that could be exercised by a third party to secure an obligation of the broker-dealer. <sup>12</sup> Permissible locations include a bank, as defined in section 3(a)(6) of the Exchange Act, and a clearing agency. <sup>13</sup>
 
-A MENDMENTS
+The second step is that a carrying broker-dealer must maintain a reserve of cash or qualified securities in an account at a bank that is at least equal in value to the net cash owed to customers, including cash obtained from the use of customer securities. <sup>14</sup> The account must be titled “Special Reserve Bank Account for the Exclusive Benefit of Customers.” <sup>15</sup> The amount of net cash owed to customers is computed pursuant to a formula set forth in Exhibit A to Rule 15c3-3. <sup>16</sup> Under the customer reserve formula, the broker-dealer adds up customer credit items ( e.g. , cash in customer securities accounts and cash obtained through the use of customer margin securities) and then subtracts from that amount customer debit items ( e.g. , margin loans). <sup>17</sup> If credit items exceed debit items, the net amount must be on deposit in the customer reserve account in the form of cash and/or qualified securities. <sup>18</sup> A broker-dealer cannot make a withdrawal from the customer reserve account until the next computation and even then only if the computation shows that the reserve requirement has decreased. <sup>19</sup> The broker-dealer must make a deposit into the customer reserve account if the computation shows an increase in the reserve requirement.
 
-A mendments to the Customer Protection Rule
+In addition, the customer reserve formula permits the broker-dealer to offset customer credit items only with customer debit items. <sup>20</sup> This means the broker-dealer can use customer cash to facilitate customer transactions such as financing customer margin loans and borrowing securities to make deliveries of securities that customers have sold short. <sup>21</sup> Broker-dealer margin rules require securities customers to maintain a minimum level of equity in their securities accounts. <sup>22</sup> In addition to protecting the broker-dealer from the consequences of a customer default, this equity serves to over- collateralize the customers’ obligations to the broker-dealer and thereby protect customers whose cash was used to facilitate the broker-dealer’s financing of securities purchases and short sales by other customers. For example, if the broker-dealer fails, the customer debits, because they generally are over-collateralized, should be attractive assets for another broker-dealer to purchase or, if not purchased by another broker-dealer, they should be able to be liquidated to a net positive equity. <sup>23</sup> The proceeds of the debits sale or liquidation can be used to repay the customer cash used to finance the customer obligations. This cash plus the funds and/or qualified securities held in the customer reserve account should equal or exceed the total amount of customer credit items ( i.e. , the total amount owed by the broker-dealer to its customers). <sup>24</sup>
 
-Ba ckground
-
-The Commission adopted Rule 15c3-3 in 1972 in response to a congressional directive to strengthen the financial responsibility requirements for broker-dealers that hold securities and cash for customers. <sup>7</sup> In particular, Rule 15c3-3 is designed “to give more specific protection to customer funds and securities, in effect forbidding brokers and dealers from using customer assets to finance any part of their businesses unrelated to servicing securities customers; e.g. , a firm is virtually precluded from using customer funds to buy securities for its own account.” <sup>8</sup> To meet this objective, Rule 15c3-3 requires a broker-dealer that maintains custody of customer securities and cash (a
-
-(“ LaPlante Letter ”); letter dated October 19, 2012 from Rick Louderbough (“ Louderbough Letter ”); letter dated October 24, 2012 from Paul L. Matecki, Senior Vice President, General Counsel, Raymond James Financial, Inc. (“ Raymond James 2 Letter ”); letter dated October 25, 2012 from Eric Gamble, Ph.D. (“ Gamble Letter ”); letter dated November 1, 2012 from Percy R. Moorman, Esq. (“ Moorman Letter ”); letter dated January 4, 2013 from Marquis Wilkins (“ Wilkins Letter ”); letter dated January 5, 2013 from Anonymous SEC Fan (“ Anonymous SEC Letter ”); letter dated January 24, 2013 from Robert Fournier (“ Fournier Letter ”); and letter dated January 28, 2013 from Scott E. Shjefte (“ Shjefte Letter ”). Comment letters and specific comments outside the scope of this rulemaking are not addressed in this release.
-
-“carrying broker-dealer”) to take two primary steps to safeguard these assets. The steps are designed to protect customers <sup>9</sup> by segregating their securities and cash from the broker-dealer’s proprietary business activities. If the broker-dealer fails financially, the securities and cash should be readily available to be returned to the customers. In addition, if the failed broker-dealer is liquidated in a formal proceeding under the Securities Investor Protection Act of 1970 (“SIPA”), the securities and cash would be isolated and readily identifiable as “customer property” and, consequently, available to be distributed to customers ahead of other creditors. <sup>10</sup>
-
-The first step required by Rule 15c3-3 is that a carrying broker-dealer must maintain physical possession or control over customers’ fully paid and excess margin securities. <sup>11</sup> Physical possession or control means the broker-dealer must hold these
-
-securities in one of several locations specified in Rule 15c3-3 and free of liens or any other interest that could be exercised by a third party to secure an obligation of the broker-dealer. <sup>12</sup> Permissible locations include a bank, as defined in section 3(a)(6) of the Exchange Act, and a clearing agency. <sup>13</sup>
-
-The second step is that a carrying broker-dealer must maintain a reserve of cash or qualified securities in an account at a bank that is at least equal in value to the net cash owed to customers, including cash obtained from the use of customer securities. <sup>14</sup> The account must be titled “Special Reserve Bank Account for the Exclusive Benefit of Customers.” <sup>15</sup> The amount of net cash owed to customers is computed pursuant to a formula set forth in Exhibit A to Rule 15c3-3. <sup>16</sup> Under the customer reserve formula, the broker-dealer adds up customer credit items ( e.g. , cash in customer securities accounts
-
-and cash obtained through the use of customer margin securities) and then subtracts from that amount customer debit items ( e.g. , margin loans). <sup>17</sup> If credit items exceed debit
-
-items, the net amount must be on deposit in the customer reserve account in the form of
-
-(a)(4) of Rule 15c3-3 which the broker-dealer identifies as not constituting margin securities. 17 CFR 240.15c3-3(a)(5). As discussed in section II.F. of this release, the Commission is adopting technical amendments to the definitions of the terms fully paid securities and margin securities under Rule 15c3-3. See paragraphs (a)(3) and (4) of Rule 15c3-3, as adopted.
-
-cash and/or qualified securities. <sup>18</sup> A broker-dealer cannot make a withdrawal from the customer reserve account until the next computation and even then only if the computation shows that the reserve requirement has decreased. <sup>19</sup> The broker-dealer must make a deposit into the customer reserve account if the computation shows an increase in the reserve requirement.
-
-In addition, the customer reserve formula permits the broker-dealer to offset customer credit items only with customer debit items. <sup>20</sup> This means the broker-dealer can use customer cash to facilitate customer transactions such as financing customer margin loans and borrowing securities to make deliveries of securities that customers have sold short. <sup>21</sup> Broker-dealer margin rules require securities customers to maintain a
-
-activities such as investing in securities. The goal is to put the carrying broker-dealer in a position to be able to readily meet its cash obligations to customers by requiring the firm to make deposits of cash and/or qualified securities into the customer reserve account in the amount of the net cash owed to customers. Capital, Margin, and Segregation Requirements for Security-Based Swap Dealers and Major Security-Based Swap Participants and Capital Requirements for Broker-Dealers , Exchange Act Release No.
-
-68071 (Oct. 18, 2012), 77 FR 70213, 70277 n.671 (Nov. 23, 2012).
-
-$100 to finance a security purchase of customer B. The $100 the broker-dealer owes customer A is a credit in the formula and the $100 customer B owes the broker-dealer is a debit in the formula. Therefore, under the customer reserve formula there would be no requirement to maintain cash and/or U.S. government securities in the customer reserve account. However, if the broker-dealer did not use the $100 held in customer A’s account for this purpose, there would be no offsetting debit and, consequently, the
-
-broker-dealer would need to have on deposit in the customer reserve account cash and/or qualified securities in an amount at least equal to $100.
-
-minimum level of equity in their securities accounts. <sup>22</sup> In addition to protecting the broker-dealer from the consequences of a customer default, this equity serves to over- collateralize the customers’ obligations to the broker-dealer and thereby protect customers whose cash was used to facilitate the broker-dealer’s financing of securities purchases and short sales by other customers. For example, if the broker-dealer fails, the customer debits, because they generally are over-collateralized, should be attractive assets for another broker-dealer to purchase or, if not purchased by another broker-dealer, they should be able to be liquidated to a net positive equity. <sup>23</sup> The proceeds of the debits sale or liquidation can be used to repay the customer cash used to finance the customer obligations. This cash plus the funds and/or qualified securities held in the customer reserve account should equal or exceed the total amount of customer credit items ( i.e. , the total amount owed by the broker-dealer to its customers). <sup>24</sup>
-
-P roprietary Accounts of Broker-Dealers
+<h>2. Proprietary Accounts of Broker-Dealers</h>
 
 A carrying broker-dealer may carry accounts that hold proprietary securities and cash of other broker-dealers (“PAB accounts”). As noted above, broker-dealers are not within the definition of customer for purposes of Rule 15c3-3. <sup>25</sup> Accordingly, a carrying
 
@@ -188,7 +68,7 @@ Commission staff to withdraw the PAIB Letter as of the effective date of these r
 
 amendments.
 
-D efinition of “PAB account” under Rule 15c3-3(a)(16)
+<h>a. Definition of “PAB account” under Rule 15c3-3(a)(16)</h>
 
 The Commission proposed, among other things, to add paragraph (a)(16) to Rule 15c3-3 that would have defined the term PAB account as “a proprietary securities
 
@@ -236,7 +116,7 @@ simplifies the final rule, while continuing to provide a means for these account
 
 dealer (which includes a foreign broker or dealer, or a foreign bank acting as a broker or dealer) other than a delivery-versus-payment account or a receipt-versus-payment account.” <sup>53</sup> The definition of PAB Account does not include accounts that have been subordinated to the claims of a carrying broker-dealer’s creditors. <sup>54</sup>
 
-W ritten Permission to Use PAB Account Securities
+<h>b. Written Permission to Use PAB Account Securities</h>
 
 Because PAB account holders are not customers for purposes of Rule 15c3-3, a carrying broker-dealer is not required to maintain possession or control of their non- margin securities. Consequently, it has been a long-standing industry practice for carrying broker-dealers to use these PAB securities in their business activities. Under the final rule, a carrying broker-dealer that uses these PAB securities will need to include the market value of the securities as a credit in the formula when performing the PAB reserve computation. Thus, the amount that the carrying broker-dealer must maintain in its PAB reserve account will increase by the amount of these credits because there would be no corresponding debit item. <sup>55</sup>
 
@@ -258,13 +138,13 @@ holder could seek to move the account to another carrying broker-dealer or negot
 
 Finally, the Commission has modified proposed paragraph (b)(5) to clarify in the final rule that a broker-dealer is affirmatively required to maintain possession and control of non-margin securities unless the broker-dealer has provided written notice to the PAB account holder. <sup>60</sup> As modified, paragraph (b)(5) reads: “A broker or dealer is required to obtain and thereafter maintain the physical possession or control of securities carried for a PAB account, unless the broker or dealer has provided written notice to the account holder that the securities may be used in the ordinary course of its securities business, and has provided an opportunity for the account holder to object.” <sup>61</sup>
 
-P AB Reserve Bank Accounts
+<h>c. PAB Reserve Bank Accounts</h>
 
 The Commission proposed amendments to paragraph (e) of Rule 15c3-3 to require a carrying broker with PAB accounts to establish and maintain a PAB reserve account for PAB accounts, perform a separate PAB reserve computation for PAB accounts, and maintain cash or qualified securities in the PAB reserve account in an amount equal to the PAB reserve requirement. <sup>62</sup> The Commission also proposed amendments to paragraph (f) of Rule 15c3-3 to require carrying broker-dealers with PAB accounts to notify the bank about the status of the PAB reserve account and obtain an agreement and notification from the bank that the PAB reserve account will be maintained for the benefit of the PAB account holders. <sup>63</sup> The Commission is adopting
 
 these amendments to paragraphs (e) and (f) of Rule 15c3-3 substantially as proposed, with some technical modifications suggested by one commenter, including making terminology consistent throughout the paragraphs. <sup>64</sup> In addition, the Commission is adopting substantially as proposed the amendments to paragraph (g) of Rule 15c3-3 which specifies when the carrying broker-dealer can make withdrawals from a PAB reserve account. <sup>65</sup> Finally, the Commission is adopting, as proposed, new paragraph (e)(4) to Rule 15c3-3, which allows a carrying broker-dealer to use credits related to PAB accounts to finance Rule 15c3-3 customer debits, but does not allow a carrying broker- dealer to use Rule 15c3-3 customer credits to finance PAB debits.
 
-O ther PAB Issues Raised by Commenters
+<h>d. Other PAB Issues Raised by Commenters</h>
 
 In addition to specific comments on the proposed rule language, one commenter had other interpretive questions and comments about the proposed PAB requirements. <sup>66</sup> The commenter requested that the Commission clarify whether PAB account holders must obtain from their carrying broker-dealers a written agreement to perform the calculation as required by the PAIB Letter . <sup>67</sup> Under the amendments, there is no
 
@@ -282,7 +162,7 @@ in accordance with the customer reserve formula or the total aggregate debit ite
 
 standard in computing their minimum net capital requirement. Specifically, the net capital rule requires broker-dealers using the alternative standard to maintain net capital of at least the greater of $250,000 or 2% of aggregate debit items. <sup>72</sup> Including PAB aggregate debit items in this computation would significantly increase net capital requirements for broker-dealers that use the alternative method. The intended purpose of this rule change is to address the inconsistencies between Rule 15c3-3 and SIPA – not to increase net capital requirements. Consequently, the requirements in Rules 15c3-1, 15c3- 1d, and 17a-11 that refer to aggregate debit items continue to be based only on aggregate debit items computed in accordance with the customer reserve computation, and do not include aggregate debit items computed in accordance with the PAB reserve computation. <sup>73</sup>
 
-A mendment to Rule 15c3-1(c)(2)(iv)(E) Related to PAB Accounts
+<h>e. Amendment to Rule 15c3-1(c)(2)(iv)(E) Related to PAB Accounts</h>
 
 Finally, the Commission proposed an amendment to Rule 15c3-1 <sup>74</sup> that would have required a broker-dealer, when calculating net capital, to deduct from net worth cash and securities held in a securities account at another broker-dealer if the other broker- dealer does not treat the account, and the assets therein, in compliance with the applicable
 
@@ -294,7 +174,7 @@ failure of a carrying broker-dealer to comply with the PAB requirements in Rule 
 
 Instead, the Commission has adopted amendments to Rule 15c3-1 providing that a broker-dealer need not deduct cash and securities held in a securities account at a carrying broker-dealer except where the account has been subordinated to the claims of creditors of the carrying broker-dealer. <sup>80</sup> This provision is intended to prevent broker- dealers from including assets in their net capital that may not be readily available to be returned because they would not be subject to the PAB account provisions discussed above. Accordingly, the amendments to paragraph (c)(2)(iv)(E) of Rule 15c3-1 are consistent with the exclusions from the definition of PAB account in paragraph (a)(16) of Rule 15c3-3. <sup>81</sup>
 
-Ba nks Where Special Reserve Deposits May Be Held
+<h>3. Banks Where Special Reserve Deposits May Be Held</h>
 
 As amended, paragraph (e) of Rule 15c3-3 requires a broker-dealer to deposit cash or qualified securities into the customer or PAB reserve account, <sup>82</sup> which must be maintained at a bank. <sup>83</sup> While cash deposits at a bank are fungible and may be used by the bank in its lending and investment activities, paragraph (f) of Rule 15c3-3 requires that a broker-dealer obtain a written contract from the bank wherein the bank agrees not to re-lend or hypothecate securities deposited into the reserve account. <sup>84</sup> This means the bank cannot use the securities in its business, which provides a measure of protection by requiring that the securities will be available to the broker-dealer if the bank falls into
 
@@ -364,7 +244,7 @@ U.S. branch of a foreign bank.
 
 For these reasons, the Commission is adopting the final rule to exclude, when determining whether a broker-dealer maintains the minimum deposits required under paragraph (e) of Rule 15c3-3, cash deposited with an affiliated bank as well as cash deposited with an unaffiliated bank “to the extent that the amount of the deposit exceeds 15% of the bank’s equity capital as reported by the bank in its most recent Call Report or any successor form the bank is required to file by its appropriate Federal banking agency (as defined by section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)).” <sup>134</sup> As discussed above, the Commission is deleting from the final rule the provision that would have excluded the amount of cash on deposit that exceeds 50% of the broker-dealer’s excess net capital.
 
-A llocation of Customers’ Fully Paid and Excess Margin Securities to Short Positions
+<h>4. Allocation of Customers’ Fully Paid and Excess Margin Securities to Short Positions</h>
 
 Paragraph (d) of Rule 15c3-3 currently sets forth steps a broker-dealer must take to retrieve securities from non-control locations if there is a shortfall in the fully paid or
 
@@ -402,9 +282,9 @@ such person’s participation has been distributed, including all other securiti
 
 “Green Shoe”). <sup>153</sup> The Commission agrees with the commenter that there should be consistency between the final rule and Regulation M. <sup>154</sup> Consequently, the Commission has added a sentence to the final rule to clarify that the 30 calendar day period with respect to a syndicate short position established in connection with an offering does not begin to run until the underwriter’s participation in the distribution is complete as determined pursuant to Rule 100(b) of Regulation M. <sup>155</sup> Finally, the Commission is adopting the revision to paragraph (n) as proposed to permit broker-dealers to apply to their designated examining authority (“DEA”) for extensions of time related to paragraph (d)(4). <sup>156</sup>
 
-I mportation of Rule 15c3-2 Requirements into Rule 15c3-3 and Treatment of Free Credit Balances
+<h>5. Importation of Rule 15c3-2 Requirements into Rule 15c3-3 and Treatment of Free Credit Balances</h>
 
-I mportation of Rule 15c3-2
+<h>a. I mportation of Rule 15c3-2</h>
 
 Rule 15c3-2 requires a broker-dealer holding free credit balances to provide its customers (defined as any person other than a broker-dealer) at least once every three
 
@@ -418,7 +298,7 @@ The Commission is adopting the amendments substantially as proposed – deleting
 
 informing the customer of the amount due to the customer by the broker or dealer on the date of the statement, and that the funds are payable on demand of the customer.” <sup>162</sup>
 
-T reatment of Free Credit Balances
+<h>b. Treatment of Free Credit Balances</h>
 
 Free credit balances are funds payable by a broker-dealer to its customers on demand. <sup>163</sup> They may result from cash deposited by the customer to purchase securities, proceeds from the sale of securities or other assets held in the customer’s account, or earnings from dividends and interest on securities and other assets held in the customer’s account. Broker-dealers may, among other things, pay interest to customers on their free credit balances or offer to routinely transfer (“sweep”) them to a money market fund or bank account. On occasion, broker-dealers have changed the product to which a customer’s free credit balances are swept – in recent years, most frequently from a money market fund to an interest bearing bank account. Because of differences in these two types of products, including the type of protection afforded the customer in the event of insolvency, there may be investment consequences to the customer when changing from one product to the other. The money market shares – as securities – would receive up to
 
@@ -444,7 +324,7 @@ The Commission is adopting paragraph (j)(2) of Rule 15c3-3 with certain technica
 
 not convert, invest, or transfer to another account or institution, credit balances held in a customer’s account except as provided in paragraphs (j)(2)(i) and (ii) of this section.” <sup>173</sup>
 
-T reatment of Free Credit Balances Outside of a Sweep Program
+Treatment of Free Credit Balances Outside of a Sweep Program
 
 As proposed, paragraph (j)(2)(i) of Rule 15c3-3 would have permitted a broker- dealer to convert, invest or otherwise transfer to another account or institution free credit balances held in a customer’s account only upon a specific order, authorization, or draft from the customer, and only in the manner, and under the terms and conditions, specified in the order, authorization, or draft. <sup>174</sup> This catchall provision would have applied to any use or transfer of customer free credit balances outside the context of a sweep program.
 
@@ -456,7 +336,7 @@ Finally, one commenter stated that both regulators and firms need the flexibilit
 
 may make withdrawals under paragraph (g) of Rule 15c3-3. <sup>181</sup> In light of the risks that could arise to customer funds, the Commission does not believe it would be appropriate at this time to expand a firm’s ability to make additional withdrawals from its reserve account.
 
-T reatment of Free Credit Balances in a Sweep Program
+Treatment of Free Credit Balances in a Sweep Program
 
 The second and third set of conditions in the proposed rules addressed using or transferring free credit balances in the context of a sweep program. <sup>182</sup> In particular, the Commission proposed four conditions with respect to using or transferring free credit balances in a sweep program. A broker-dealer would have been required to meet: (1) all four conditions with respect to free credit balances in new accounts; <sup>183</sup> and (2) the second, third, and fourth conditions with respect to free credit balances in existing accounts. <sup>184</sup> The four conditions were:
 
@@ -570,7 +450,7 @@ the new terms and conditions of the Sweep Program or product or the new product,
 
 a notice that contains a description of the options available to the customer if the customer does not wish to accept the new terms and conditions or product. <sup>220</sup> This is intended to give customers sufficient opportunity to make an informed decision in connection with a Sweep Program.
 
-“ Proprietary Accounts” under the Commodity Exchange Act
+<h>6. “Proprietary Accounts” under the Commodity Exchange Act</h>
 
 Some broker-dealers also are registered as futures commission merchants under the Commodity Exchange Act (“CEA”). These firms carry both securities and commodities accounts for customers. The definition of free credit balances in paragraph
 
@@ -618,7 +498,7 @@ under the CEA.” <sup>233</sup> The Commission agrees there may be additional a
 
 are designed to clarify the specific question raised with respect to the treatment of funds in proprietary commodities accounts under the CEA and, consequently, the suggestions by the commenter are beyond the scope of this rulemaking.
 
-Ex pansion of the Definition of “Qualified Securities” to Include Certain Money Market Funds
+<h>7. Expansion of the Definition of “Qualified Securities” to Include Certain Money Market Funds</h>
 
 A broker-dealer is limited to depositing cash or qualified securities into the bank account it maintains to meet its customer (and now PAB account) reserve deposit requirements under Rule 15c3-3. Paragraph (a)(6) of Rule 15c3-3 defines qualified
 
@@ -646,7 +526,7 @@ Commerce Letter ; ABASA Letter ; UBS Letter ; Fidelity/NFS Letter ; Barnard Lett
 
 have consequences for the customer protection objective of the reserve account requirement in Rule 15c3-3.
 
-Ho lding Futures Positions in a Securities Portfolio Margin Account
+<h>B. Holding Futures Positions in a Securities Portfolio Margin Account</h>
 
 Under SRO portfolio margin rules (“portfolio margin rules”), <sup>243</sup> a broker-dealer can combine securities and futures positions in a portfolio margin securities account to compute margin requirements based on the net market risk of all positions in the account. <sup>244</sup> Until the passage of the Dodd-Frank Act, however, SIPA only protected customer claims for securities and cash, and specifically excluded from protection futures contracts that are not also securities. This fact created a potential ambiguity as to how futures positions in a portfolio margin securities account would be treated in a SIPA liquidation. Consequently, the Commission proposed amendments to Rule 15c3-3 to accommodate the holding of futures positions in a securities account that is margined on a portfolio basis. <sup>245</sup>
 
@@ -726,7 +606,7 @@ margin required and on deposit at a derivatives clearing organization part of th
 
 Finally, one commenter suggested changes to Commission rules beyond those in the proposing release. This commenter urged the Commission to consider amending Rules 8c-1, 15c2-1, and 15c3-3 to provide that their provisions could be waived by customers that are entitled to engage in derivative transactions in a portfolio margin account, provided the customer agrees in writing to waive SIPA protection. <sup>268</sup> According to the commenter, a customer executing such a waiver would not be entitled to the protections under SIPA for customers and would be deemed a general creditor of the broker-dealer with respect to claims arising from their portfolio margin accounts. At this time, the Commission does not believe it would be appropriate to amend the rules as recommended by the commenter because such changes are beyond the scope of this rulemaking.
 
-A mendments With Respect to Securities Lending and Borrowing and Repurchase/Reverse Repurchase Transactions
+<h>C. Amendments With Respect to Securities Lending and Borrowing and Repurchase/Reverse Repurchase Transactions</h>
 
 In the proposing release, the Commission noted two concerns about stock lending that arose from the failure of the registered broker-dealer MJK Clearing, Inc. (“MJK”); <sup>269</sup> namely: (1) that broker-dealers with principal liability in a stock loan transaction may purport to be acting in an agency capacity and, consequently, not taking appropriate capital charges; and (2) that broker-dealers that historically have not been active in stock
 
@@ -764,7 +644,7 @@ A commenter asked the Commission to clarify that the new reporting provision of 
 
 include transactions for which it does not have principal liability in determining whether the notification threshold has been triggered.
 
-D ocumentation of Risk Management Procedures
+<h>D. Documentation of Risk Management Procedures</h>
 
 It is important for broker-dealers to document the controls they establish for managing the material risk exposures that arise from their business activities. For example, a broker-dealer active in securities lending is exposed to a variety of risks, including market risk, <sup>289</sup> credit risk, <sup>290</sup> and liquidity risk. <sup>291</sup> Other broker-dealer activities give rise to these risks as well, including managing a repo book, dealing in OTC derivatives, trading proprietary positions, and lending on margin. A well-documented system of internal controls designed to manage material risk exposures reflects the determination of a firm’s management as to how its business activities should be conducted in light of such exposures. It also enables management to better identify, analyze, and manage the risks inherent in the firm’s business activities with a view to preventing material losses and to review whether the firm’s activities are being conducted in a manner that is consistent with such procedures and controls as well as in accordance with the Federal securities laws. Risk management controls are particularly important for the largest broker-dealers, which generally engage in a wide range of highly complex activities across many different markets and geographical locations.
 
@@ -796,7 +676,7 @@ with the retention period for many of the records required to be preserved under
 
 Finally, one commenter noted that the proposed amendment does not impose any requirements beyond those applicable under Rule 15c3-4. <sup>313</sup> Accordingly, the commenter urged the Commission to create an exception from the proposed amendment to Rule 17a-3 for a broker-dealer that is effectively subject to Rule 15c3-4. With the modifications to the final rule to include only market, credit, and liquidity risk, a broker- dealer subject to the conditions of Rule 15c3-4 would already comply with this amendment given that these risks are included in the risks a broker-dealer would be required to address under Rule 15c3-4. Therefore, an exception from the rule is unnecessary.
 
-A mendments to the Net Capital Rule
+<h>E. Amendments to the Net Capital Rule</h>
 
 Under Rule 15c3-1, broker-dealers are required to maintain, at all times, a minimum amount of net capital. <sup>314</sup> The capital standard in Rule 15c3-1 is a net liquid assets test. This standard is designed to allow a broker-dealer the flexibility to engage in activities that are part of conducting a securities business ( e.g. , taking securities into
 
@@ -816,7 +696,7 @@ is to take prescribed percentage deductions (“standardized haircuts”) from t
 
 Alternative Net Capital or “ANC” broker-dealers and a type of limited purpose broker- dealer that deals solely in OTC derivatives (“OTC derivative dealers”) are permitted, with Commission approval, to, among other things, use internal models as the basis for taking market risk charges as an alternative approach in lieu of the standardized haircuts for classes of positions for which they have been approved to use models. <sup>328</sup> Rule 15c3-1 imposes substantially higher minimum capital requirements for ANC broker-dealers and OTC derivatives dealers, as compared to other types of broker-dealers, because, among other reasons, the use of internal models to compute net capital can substantially reduce the deductions for securities and money market positions as compared with the standardized haircuts. <sup>329</sup>
 
-Re quirement to Deduct From Net Worth Certain Liabilities or Expenses Assumed By Third Parties
+<h>1. Requirement to Deduct From Net Worth Certain Liabilities or Expenses Assumed By Third Parties</h>
 
 In the proposing release, the Commission expressed concern that some broker- dealers may be excluding from their calculations of net worth certain liabilities that relate directly to expenses or debts incurred by the broker-dealer. <sup>330</sup> The accounting
 
@@ -850,7 +730,7 @@ considered a liability for net capital purposes unless the broker-dealer can dem
 
 with today’s amendment.
 
-R equirement to Subtract From Net Worth Certain Non- Permanent Capital Contributions
+<h>2. Requirement to Subtract From Net Worth Certain Non- Permanent Capital Contributions</h>
 
 In the proposing release, the Commission noted its concern that broker-dealers may be receiving capital contributions from investors that are subsequently withdrawn after a short period of time (often less than a year). <sup>348</sup> In some cases, the capital may be contributed under an agreement giving the investor the option to withdraw it at the investor’s discretion. In the past, the Commission has emphasized that capital contributions to broker-dealers should not be temporary, <sup>349</sup> and the Commission staff has
 
@@ -904,7 +784,7 @@ In summary, the Commission is adding paragraph (c)(2)(i)(G) to Rule 15c3-1 to re
 
 withdraw the capital; or ( <sup>2</sup> ) [t]hat is intended to be withdrawn within a period of one year of contribution.” <sup>377</sup> The final rule further provides that “[a]ny withdrawal of capital made within one year of its contribution is deemed to have been intended to be withdrawn within a period of one year, unless the withdrawal has been approved in writing by the Examining Authority for the broker or dealer.” <sup>378</sup>
 
-R equirement to Deduct the Amount by which a Fidelity Bond Deductible Exceeds SRO Limits
+<h>3. Requirement to Deduct the Amount by which a Fidelity Bond Deductible Exceeds SRO Limits</h>
 
 Under SRO rules, certain broker-dealers that do business with the public or that are required to become members of SIPC must comply with mandatory fidelity bonding requirements. <sup>379</sup> SRO rules typically permit a broker-dealer to have a deductible provision included in the bond; however, such rules provide that the deductible may not exceed certain amounts. With regard to firms that maintain deductible amounts over the maximum amount specified, several SRO rules provide that the broker-dealer must deduct this excess amount from its net worth when calculating net capital under Rule
 
@@ -924,7 +804,7 @@ For these reasons, the Commission is adopting paragraph (c)(2)(xiv) to Rule
 
 the construction of the SRO rules may change over time, the Commission is making the cross-reference to the SRO rules more general. <sup>389</sup>
 
-B roker-Dealer Solvency Requirement
+<h>4. Broker-Dealer Solvency Requirement</h>
 
 The Commission is adopting an amendment to paragraph (a) of Rule 15c3-1 to require a broker-dealer to cease conducting a securities business if certain insolvency events were to occur. Specifically, as adopted, amended paragraph (a) of Rule 15c3-1 provides that a broker-dealer must not be insolvent as that term is defined in new paragraph (c)(16) of the rule. <sup>390</sup> By making solvency a requirement of Rule 15c3-1, this amendment will require an insolvent <sup>391</sup> broker-dealer to cease conducting a securities business pursuant to section 15(c)(3) of the Exchange Act, which generally prohibits a broker-dealer from effecting any transaction in, or inducing or attempting to induce the purchase or sale of, any security in contravention of the Commission’s financial responsibility rules (which include Rule 15c3-1). <sup>392</sup>
 
@@ -960,7 +840,7 @@ The Commission also is adopting an amendment to the first sentence of paragraph 
 
 must provide immediate notice to the Commission, the firm’s DEA and, if applicable, the CFTC. One commenter specifically favored this amendment. <sup>412</sup> This notice will assist regulators in taking steps to protect the insolvent firm’s customers, including, if appropriate, notifying SIPC of the need to commence a SIPA proceeding. The Commission is adopting the amendment to paragraph (b)(1) of Rule 17a-11, with one technical modification. <sup>413</sup>
 
-A mendment to Rule Governing Orders Restricting Withdrawal of Capital from a Broker-Dealer
+<h>5. Amendment to Rule Governing Orders Restricting Withdrawal of Capital from a Broker-Dealer</h>
 
 Paragraph (e) of Rule 15c3-1, which places certain conditions on a broker-dealer when withdrawing capital, <sup>414</sup> also allows the Commission to issue an order temporarily restricting a broker-dealer from withdrawing capital or making loans or advances to
 
@@ -990,23 +870,23 @@ With respect to the suggestion that the Commission clarify in paragraph (e)(3)(i
 
 temporarily restricting advances and loans (in addition to withdrawals), under the existing rule, a broker-dealer may request a hearing if the Commission has issued an order temporarily restricting advances and loans by a broker-dealer, in addition to withdrawals, and the Commission is therefore adopting the amendment to paragraph (e)(3)(ii), as proposed. <sup>430</sup>
 
-A djusted Net Capital Requirements
+<h>6. Adjusted Net Capital Requirements</h>
 
-A mendment to Appendix A of Rule 15c3-1
+<h>a. Amendment to Appendix A of Rule 15c3-1</h>
 
 The Commission is adopting an amendment to Appendix A of Rule 15c3-1, which permits broker-dealers to employ theoretical option pricing models to calculate haircuts for listed options and related positions that hedge those options. <sup>431</sup> The amendment makes permanent a temporary amendment the Commission originally adopted in 1997. <sup>432</sup> The temporary amendment expired on September 1, 1997, unless it was otherwise extended by the Commission. <sup>433</sup> The Commission staff subsequently issued a no-action letter on January 13, 2000, which stated that the staff would not recommend enforcement action if broker-dealers continued to rely on the temporary amendment. <sup>434</sup>
 
 The temporary amendment decreased the range of pricing inputs to the approved option pricing models, which effectively reduced the haircuts applied by the carrying firm with respect to non-clearing option specialist and market maker accounts. <sup>435</sup> The temporary amendment, which applied only to these types of accounts, was limited to major market foreign currencies and diversified indexes. Even during periods of substantial volatility, there have been no significant increases in the number of deficits in non-clearing option specialist and market-maker accounts, nor did the lower capital charges under paragraph (b)(1)(iv) result in excessive leverage. Consequently, this amendment appropriately aligns the net capital requirements of affected firms with the risks Rule 15c3-1 seeks to mitigate. The Commission received one comment letter regarding this aspect of the proposing release. The commenter concurred with the Commission’s conclusions as to the effect of the temporary amendment and supported the proposal to make it permanent. <sup>436</sup> Accordingly, the Commission is amending paragraph (b)(1)(iv) of Appendix A to Rule 15c3-1, as proposed, to make the temporary amendment permanent. <sup>437</sup>
 
-M oney Market Funds
+<h>b. Money Market Funds</h>
 
-C larification
+Clarification
 
 The Commission is adopting an amendment to paragraph (c)(2)(vi)(D)( <sup>1</sup> ) of Rule
 
 15c3-1 to clarify that a money market fund, for the purposes of paragraph (c)(2)(vi)(D)( <sup>1</sup> ), is a fund described in Rule 2a-7 under the Investment Company Act of 1940 (“Rule 2a-7”). <sup>438</sup> The Commission did not receive any comments on this proposal and is adopting it, as proposed.
 
-P roposed Haircut Reduction from 2% to 1%
+Proposed Haircut Reduction from 2% to 1%
 
 The Commission proposed an amendment to reduce the “haircut” that broker- dealers apply under Rule 15c3-1 for money market funds. <sup>439</sup> In 1982, the Commission adopted a 2% haircut requirement for redeemable securities of money market funds. <sup>440</sup> In 1991, the Commission adopted certain amendments to Rule 2a-7 that strengthened the risk-limiting investment restrictions for money market funds. <sup>441</sup> Based on the enhancements to Rule 2a-7, the Commission proposed to amend paragraph (c)(2)(vi)(D)( <sup>1</sup> ) of Rule 15c3-1 to reduce the haircut on such funds from 2% to 1% in
 
@@ -1026,7 +906,7 @@ As discussed above in section II.E.6.ii. of this release, the Commission recentl
 
 the potential impact of any money market fund reforms it may adopt and whether any such impact would have consequences for the net liquid asset standard of Rule 15c3-1.
 
-A ggregate Debit Items Charge
+Aggregate Debit Items Charge
 
 The Commission proposed amendments to Rule 15c3-1 that would have eliminated a reduction to aggregate debit items that certain broker-dealers must take
 
@@ -1034,7 +914,7 @@ when computing their reserve requirements under Rule 15c3-3. <sup>455</sup> Unde
 
 The Commission received four comment letters regarding these amendments and all were supportive. <sup>458</sup> However, recent market turmoil has highlighted the importance of maintaining adequate amounts of funds and qualified securities in the customer reserve account under Rule 15c3-3 to protect customers. Consequently, it would be imprudent to lower the debit reduction requirement for broker-dealers using the alternative standard at this time (especially given the fact that this standard is primarily used by firms with a substantial customer business). Therefore, the Commission has determined to defer consideration of action on this amendment at this time.
 
-T echnical Amendments
+<h>F. Technical Amendments</h>
 
 The Commission proposed a number of technical amendments to these rules, including changes to the definitions of fully paid securities , margin securities , and bank in Rule 15c3-3. <sup>459</sup> These proposed technical amendments were not designed to substantively change the meanings of these defined terms but, rather, to amend out-of- date citations and remove text that the Commission believed to be superfluous or redundant.
 
@@ -1066,7 +946,7 @@ paragraph (a)(7) of Rule 15c3-3. The Commission, however, has modified the langu
 
 The Commission also has amended other provisions of Rule 15c3-3 to make the rule gender neutral. Finally, the Commission has replaced the word “shall” throughout the rule, as amended, with clearer words, such as “will” or “must.” This change will not change either the nature or substance of the affected rule provisions.
 
-R ESPONSES TO SPECIFIC REQUESTS FOR COMMENT
+<h>III. RESPONSES TO SPECIFIC REQUESTS FOR COMMENT</h>
 
 In the proposing release, the Commission requested comment on certain specific matters, in addition to the proposed rule amendments. <sup>463</sup> These matters included: (1) a proposal to reduce the Rule 17a-11 notice requirement for broker-dealers that carry over
 
@@ -1082,7 +962,7 @@ The Commission also received seven comments in response to the solicitation of c
 
 The Commission will consider the comments received in developing any proposals should the Commission decide to take further action in any of these areas.
 
-P APERWORK REDUCTION ACT
+<h>IV. PAPERWORK REDUCTION ACT</h>
 
 Certain provisions of the amendments contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>475</sup> The Commission published a notice requesting comment on the collection of information requirements in the proposing release <sup>476</sup> and submitted the amendments to the Office of Management and Budget (“OMB”) for review in accordance with the PRA. <sup>477</sup> An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The amended rules – Rule 15c3-1, Rule 15c3-3, Rule 17a-3, Rule 17a-4 and Rule 17a-11 – contain currently approved collections of information under, respectively, OMB control numbers 3235-0200, 3235-0078, 3235-0033, 3235-0279 and 3235-0085.
 
@@ -1094,7 +974,7 @@ reports were from 2004 year end data. See Amendments to Financial Responsibility
 
 they relate to the overall impact of the amendments, rather than to the specific collections of information discussed below. Consequently, the Commission addresses the commenter’s concerns that directly relate to the collections of information below, and the indirect burdens and costs in the Economic Analysis in section V. of this release.
 
-Su mmary of the Collection of Information Requirements
+<h>A. Summary of the Collection of Information Requirements</h>
 
 The rule amendments contain recordkeeping and disclosure requirements that are subject to the PRA. In summary, the amendments may require a broker-dealer, under certain circumstances, to: (1) disclose the principals and obtain certain agreements from the principals in a securities lending transaction where it performs settlement services if it is to be considered an agent (as opposed to a principal) for the purposes of the net capital rule; <sup>483</sup> (2) obtain permission in writing from its DEA to withdraw capital within one year of contribution; <sup>484</sup> (3) enter into a subordination agreement with an account holder in order to exclude such account holder from the definition of PAB account ; <sup>485</sup> (4) provide
 
@@ -1102,7 +982,7 @@ written notice to PAB account holders that their securities may be used in the o
 
 for a loan to the broker-dealer by the bank, and shall be subject to no right, charge, security interest, lien, or claim of any kind in favor of the bank or any person claiming through the bank; <sup>489</sup> (8) develop adequate procedures to ensure a customer for whom a free credit balance is carried is sent a written statement regarding the customer’s free credit balances, including information regarding the amount due to the customer and that the funds are payable on demand, prior to using funds arising from free credit balances in the broker-dealer’s operations; <sup>490</sup> (9) obtain the written affirmative consent of a new customer before including the customer’s free credit balances in a Sweep Program, as well as provide certain disclosures and notices to all customers with regard to the broker- dealer’s Sweep Program; <sup>491</sup> (10) make and maintain records documenting its credit, market, and liquidity risk management controls to assist the broker-dealer in analyzing the risks associated with its business activities; <sup>492</sup> (11) provide notice to the Commission and other regulatory authorities if the broker-dealer becomes insolvent; <sup>493</sup> and (12) provide notice to the Commission and other regulatory authorities if the broker-dealer’s securities borrowed and loaned or securities repurchase/reverse repurchase activity reaches a certain threshold or, alternatively, report monthly its securities borrowed and loan or securities repurchase/reverse repurchase activity to its DEA in a form acceptable to its DEA. <sup>494</sup>
 
-U se of Information
+<h>B. Use of Information</h>
 
 The Commission, its staff, and SROs will use the information collected under the amendments to Rule 15c3-1 and Rule 15c3-3 to determine whether the broker-dealer is in compliance with each rule and to help fulfill their oversight responsibilities. The collections of information would also help to ensure that broker-dealers are meeting their obligations under the rule amendments and have any required policies and procedures in place.
 
@@ -1118,7 +998,7 @@ The Commission, its staff, and SROs will use the information collected under the
 
 The Commission, its staff, and SROs will use the information collected under the amendments to Rule 17a-11 to identify a broker-dealer experiencing financial difficulty. This information will assist the Commission and other regulators in promptly taking appropriate steps to protect customers, creditors, and counterparties. In particular, a notice of insolvency will assist regulators in responding more quickly to protect customers of a failing institution. The notices and reports with respect to securities lending and repos will assist regulators in identifying broker-dealers that are active in these transactions or suddenly take on large positions and thereby assist in monitoring systemic risk.
 
-R espondents
+<h>C. Respondents</h>
 
 The final estimates of respondents below have been updated to reflect more recent information. <sup>495</sup> The amendment to Rule 15c3-1 requiring a broker-dealer to make disclosures to, and obtain certain agreements from, securities lending principals will apply only to those firms that participate in the settlement of securities lending transactions as agents. The Commission estimates that approximately 122 broker-dealers will be affected by this requirement. <sup>496</sup> This estimate has been updated from the estimate of 170 broker-dealers in the proposing release. <sup>497</sup> No comments were received on this estimate.
 
@@ -1140,9 +1020,9 @@ One amendment to Rule 17a-11 will require a broker-dealer to provide the Commiss
 
 broker-dealer to provide notice to the Commission if its securities borrowed or loaned, or its securities repurchase or reverse repurchase activity reaches a certain threshold or, alternatively, provide monthly reports to its DEA about such activities. This amendment will only affect a limited number of firms per year. The Commission estimates that approximately one broker-dealer <sup>505</sup> will provide notice and six broker-dealers <sup>506</sup> will opt to send the monthly reports in a given year.
 
-To tal Annual Reporting and Recordkeeping Burden
+<h>D. Total Annual Reporting and Recordkeeping Burden</h>
 
-S ecurities Lending Agreements and Disclosures
+<h>1. Securities Lending Agreements and Disclosures</h>
 
 The amendments to paragraph (c)(2)(iv)(B) of Rule 15c3-1 will require a broker- dealer to make disclosures to, and obtain certain agreements from, securities lending principals in situations where the firm participates in the settlement of a securities lending transaction but wants to be deemed an agent for purposes of Rule 15c3-1. <sup>507</sup> The Commission has adopted the final rule substantially as proposed, and consequently, there were no changes to the final rule amendments that would affect the Commission’s PRA
 
@@ -1156,7 +1036,7 @@ No comments were received on this estimate and the Commission believes 5% contin
 
 updating their standard agreement template. <sup>511</sup> Therefore, the Commission estimates that the total one-time burden to broker-dealers as a result of this requirement will be approximately 120 hours. <sup>512</sup>
 
-D EA Permission to Withdraw Capital within One Year of Contribution
+<h>2. DEA Permission to Withdraw Capital within One Year of Contribution</h>
 
 The amendment to paragraph (c)(2)(i)(G)( <sup>2</sup> ) of Rule 15c3-1 will require that a
 
@@ -1164,7 +1044,7 @@ broker-dealer treat as a liability any capital contribution that is intended to 
 
 The Commission estimates that 90 broker-dealers will seek to obtain permission from their DEA in writing to withdraw capital within one year of its contribution, and that it will take a broker-dealer approximately one hour to prepare and submit the request to its DEA to withdraw capital. <sup>514</sup> Therefore, the Commission estimates that the total annual hour burden with respect to the rule amendment will be approximately 90 hours. <sup>515</sup>
 
-W ritten Subordination Agreements under Rule 15c3-3
+<h>3. Written Subordination Agreements under Rule 15c3-3</h>
 
 As discussed above in section II.A.2. of this release, in response to comments, the final rule amendment adopted by the Commission excludes from the definition of PAB
 
@@ -1174,7 +1054,7 @@ In light of comments received <sup>518</sup> and based on staff experience, the 
 
 development of subordination agreements. <sup>521</sup> Therefore, the Commission estimates that the total one-time hour burden resulting from this requirement will be 13,420 hours. <sup>522</sup>
 
-P AB Reserve Bank Account Recordkeeping Requirements
+<h>4. PAB Reserve Bank Account Recordkeeping Requirements</h>
 
 The amendments to Rules 15c3-3 and 15c3-3a require carrying broker-dealers to:
 
@@ -1214,7 +1094,7 @@ The amendment requiring a PAB reserve computation also will produce an annual bu
 
 dealer will spend, on average, approximately 2.5 hours to complete the PAB reserve computation in order to make a record of such computation under Rule 15c3-3 as a result of the amendment. <sup>541</sup> Therefore, consistent with the hour burden estimates in the proposing release, the Commission estimates that the total annual burden to broker- dealers from this requirement will be approximately 9,215 hours. <sup>542</sup>
 
-A dequate Procedures Required under Paragraph (j)(1) of Rule 15c3-3
+<h>5. Adequate Procedures Required under Paragraph (j)(1) of Rule 15c3-3</h>
 
 The Commission proposed importing requirements in Rule 15c3-2 into Rule 15c3-3 and eliminating Rule 15c3-2 as a stand-alone rule in the Code of Federal Regulations, and adopting new paragraph (j)(1) to Rule 15c3-3, which includes a condition that a broker-dealer must establish adequate procedures that will impose a paperwork burden if a broker-dealer wishes to accept or use any free credit balance for the account of any customer of the broker-dealer. The Commission is adopting this amendment substantially as proposed, which provides, “[a] broker or dealer must not
 
@@ -1226,7 +1106,7 @@ together with or as part of the customer’s statement of account, whenever sent
 
 The requirement that broker-dealers establish adequate procedures with regard to free credit balances will result in one-time and annual hours burdens for broker-dealers subject to the requirements of new paragraph (j)(1) to Rule 15c3-3. Based on FOCUS Report data, the Commission estimates that 189 broker-dealers carry free credit balances. Most firms may already have such procedures in place with regard to the requirements of the rule, because these provisions are being imported from current Rule 15c3-2, which is being eliminated as a result of these amendments. Therefore, the Commission estimates that a broker-dealer will spend approximately 25 additional hours reviewing and updating its procedures to ensure it is in compliance with new paragraph (j)(1) to Rule 15c3-3 and approximately 10 additional hours per year reviewing and updating its procedures, for a total one-time and annual hour burden of 4,725 hours <sup>544</sup> and 1,890 hours, <sup>545</sup> respectively. <sup>546</sup>
 
-T reatment of Free Credit Balances
+<h>6. Treatment of Free Credit Balances</h>
 
 New paragraph (j)(2) to Rule 15c3-3 will require a broker-dealer to obtain the written affirmative consent of a new customer before including a customer’s free credit balances in a Sweep Program, as well as to provide certain disclosures and notices to all customers with regard to the broker-dealer’s Sweep Program.
 
@@ -1242,7 +1122,7 @@ As for the annual hour burden, the Commission estimates, consistent with its est
 
 broker-dealer customer accounts per year. Based on FOCUS Report data, the Commission estimates there are approximately 110,493,215 customer accounts and, consequently, 5% of the accounts (5,524,661 accounts per year) will be impacted. <sup>555</sup> Based on staff experience with similar requirements under the existing PRA collection for Rule 17a-3, the Commission further estimates that a broker-dealer will spend, on average, four minutes <sup>556</sup> of employee resources to process a written affirmative consent for new customers, as well as disclosures required under paragraph (j) to Rule 15c3-3. Therefore, the Commission estimates that the annual burden to broker-dealers arising from the requirement will be approximately 368,311 hours. <sup>557</sup>
 
-D ocumentation of Risk Management Procedures
+<h>7. Documentation of Risk Management Procedures</h>
 
 The amendments to Rules 17a-3 and 17a-4 will require certain large broker- dealers to make and keep current a record documenting credit, market, and liquidity risk management controls established and maintained by the broker-dealer to assist it in analyzing and managing the risks associated with its business activities. The amendment only will apply to broker-dealers that have more than (1) $1,000,000 in aggregate credit items as computed under the customer reserve formula of Rule 15c3-3, or (2)
 
@@ -1274,7 +1154,7 @@ See also Capital, Margin, and Segregation Requirements for Security-Based Swap D
 
 Because the final rule amendment requires a broker-dealer to document its liquidity, credit, and market risk management controls, if it has established such controls, these broker-dealers may incur one-time startup costs to hire outside counsel to review the documented controls to ensure the broker-dealer is meeting the requirements of the rule. Based on staff experience with similar reviews, the Commission estimates that these broker-dealers would incur $2,000 in legal costs, <sup>569</sup> or $980,000, <sup>570</sup> in the aggregate, initial one-time burden to review and comment on the documented risk management controls. <sup>571</sup>
 
-N otice Requirements
+<h>8. Notice Requirements</h>
 
 The amendment to Rule 17a-11 requiring notice when a broker-dealer becomes subject to certain insolvency events will result in irregular filings from a small number of broker-dealers. As noted above, SIPC’s 2012 annual report indicates that the average annual number of broker-dealers which have become subject to a liquidation proceeding under SIPA over the last ten years is two. Accordingly, the Commission estimates that approximately two insolvency notices will be sent per year and that a broker-dealer will spend, on average, approximately ten minutes of employee resources to prepare and send the notice. <sup>572</sup> The Commission did not receive any comments on its estimates from the
 
@@ -1288,7 +1168,7 @@ Therefore, the Commission estimates that the total annual burden to broker-deale
 
 Based on FOCUS Report data, as of December 31, 2011, and staff experience, the Commission estimates that, annually, six broker-dealers will submit the monthly stock loan/borrow report. <sup>576</sup> Based on staff experience, the Commission estimates each firm will spend, on average, approximately 100 hours of employee resources updating its systems to generate the information required in the monthly report. Therefore, the Commission estimates that the total one-time burden to broker-dealers arising from this requirement will be approximately 600 hours. <sup>577</sup> With respect to the annual hour burden, the Commission estimates each firm will spend, on average, approximately one hour per month (or twelve hours per year) of employee resources to prepare and send the report or to prepare the information for the FOCUS report (as required by the firm’s DEA, if applicable). Therefore, the Commission estimates the total annual burden arising from this amendment will be approximately 72 hours. <sup>578</sup>
 
-C ollection of Information Is Mandatory
+<h>E. Collection of Information Is Mandatory</h>
 
 These recordkeeping and notice requirements are mandatory with the exception of: (1) the option for a broker-dealer to report monthly its securities lending activities to its DEA in lieu of filing the notice required under paragraph (c)(5) of Rule 17a-11; (2) the option for a broker-dealer to request written approval from its DEA in order to withdraw capital that has been contributed within one year under paragraph (c)(2)(i)(G)( <sup>2</sup> ) of Rule
 
@@ -1296,7 +1176,7 @@ to incur postage costs as a result of this amendment because most broker-dealers
 
 15c3-1; and (3) the option of a carrying broker-dealer to enter into a subordination agreement with an account holder in order to exclude such account holder’s account from being treated as a PAB account under paragraph (a)(16) of Rule 15c3-3.
 
-C onfidentiality
+<h>F. Confidentiality</h>
 
 Some of the information the Commission expects to receive may be confidential information. The information collected under the amendments to Rules 15c3-1, 15c3-3, 17a-3, and 17a-4 would be stored by the broker-dealers and made available to the Commission, Commission staff, and SROs, as required in connection with examinations, investigations, and enforcement proceedings. The information collected under the amendments to Rule 17a-11 would be generated from the internal records of the broker- dealers. It would be provided to the Commission, its staff, and SROs but not on a regular basis (except for the optional monthly reports).
 
@@ -1308,7 +1188,7 @@ U.S.C. 552(b)(8).
 
 their free credit balances under new paragraph (j)(2) to Rule 15c3-3. To the extent these standard notices and disclosures are made available to the Commission, they may not be kept confidential.
 
-R ecord Retention Period
+<h>G. Record Retention Period</h>
 
 One amendment to Rule 15c3-1 will require broker-dealers to make disclosures to principals and obtain agreements from principals with respect to securities lending transactions where the broker-dealer acts as agent. In addition, the amendment to Rule 15c3-3 to define the term PAB account will require carrying broker-dealers to enter into
 
@@ -1322,9 +1202,9 @@ The amendments to Rules 17a-3 and 17a-4 require broker-dealers to document credi
 
 The amendments to Rule 17a-11 will require broker-dealers to provide notice or report monthly to the Commission and other regulatory authorities under certain circumstances. These notices and reports will constitute communications relating to a broker-dealer’s “business as such” and, therefore, will need to be retained for three years. <sup>584</sup>
 
-E CONOMIC ANALYSIS
+<h>V. ECONOMIC ANALYSIS</h>
 
-I ntroduction
+<h>A. Introduction</h>
 
 The Commission is sensitive to the costs and benefits of its rules. When engaging in rulemaking that requires the Commission to consider or determine whether an action is necessary or appropriate in the public interest, section 3(f) of the Exchange Act requires that the Commission consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. <sup>585</sup> In addition, section 23(a)(2) of the Exchange Act requires the Commission to consider the effects on
 
@@ -1344,7 +1224,7 @@ However, the inability to quantify these costs and benefits does not mean that t
 
 As discussed throughout this release, in part in response to comments, the Commission has modified the proposed rules to reduce compliance burdens where consistent with investor protection. In addition, where commenters identified additional costs, the Commission has revised its economic analysis of the final rules to take these costs into account. Finally, the Commission has considered all comment letters received related to the impact of the proposed amendments on efficiency, competition, and capital formation, and responds to these comments in the sections below discussing individual rule amendments.
 
-E conomic Baseline
+<h>B. Economic Baseline</h>
 
 The regulatory changes adopted today amend requirements that apply to broker- dealers registered with the Commission. The discussion below includes the approximate numbers of broker-dealers that will be affected by today’s amendments and a description of the economic baseline against which the costs and benefits, as well as the impact on efficiency, competition, and capital formation, of today’s amendments are measured.
 
@@ -1380,7 +1260,7 @@ As discussed above in section II.D. of this release, Rule 17a-3 and 17a-4 – th
 
 The specific requirements as well as the benefits and costs of each amendment and how broker-dealers will be affected are discussed in more detail in the sections below.
 
-D iscussion of General Comments Received
+<h>C. Discussion of General Comments Received</h>
 
 As stated above, in the proposing release, the Commission requested comment on estimates and views regarding the costs and benefits for particular types of market
 
@@ -1414,7 +1294,7 @@ The Commission estimates that a broker-dealer likely will hire outside counsel t
 
 $2,000 to $30,000 <sup>630</sup> per broker-dealer. <sup>631</sup>
 
-E conomic Analysis of the Amendments and Alternatives
+<h>D. Economic Analysis of the Amendments and Alternatives</h>
 
 This section discusses costs and benefits of the rule amendments for the affected parties against the economic baseline identified above, both in terms of each of the specific changes from the baseline and in terms of the overall impact. In considering costs, benefits, and overall impact, this discussion addresses comments received, modifications made to the proposed amendments, and reasonable alternatives, where applicable.
 
@@ -1424,11 +1304,13 @@ legal services by outside counsel). See also Further Definition of “Swap Deale
 
 be accompanied by regulatory benefits that may reduce the risk of market failure and thus promote market efficiency and capital formation.
 
-A mendments to the Customer Protection Rule
+<h>1. Amendments to the Customer Protection Rule</h>
 
-E conomic Analysis
+<h>a. Economic Analysis</h>
 
-P roprietary Accounts of Broker-Dealers (I).	Summary of Amendments
+P roprietary Accounts of Broker-Dealers 
+
+(I). Summary of Amendments
 
 Today’s amendments to Rules 15c3-3 and 15c3-3a require carrying broker-
 
@@ -1792,9 +1674,9 @@ economic analysis, as well as in the discussion of the rule amendments above. Am
 
 with regard to cost burdens should be marginal. In sum, the costs of compliance resulting from the requirements in the amendments to Rule 15c3-3 should not impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act in light of the benefits discussed above.
 
-Ho lding Futures Positions in a Securities Portfolio Margining Account
+<h>b. Holding Futures Positions in a Securities Portfolio Margining Account</h>
 
-E conomic Analysis
+<h>a. Economic Analysis</h>
 
 As discussed in section II.B. of this release, the Commission is adopting amendments to Rule 15c3-3 to accommodate futures positions in a securities account that is margined on a portfolio basis. The amendments revise the definition of free credit balances and other credit balances in paragraphs (a)(8) and (a)(9) of Rule 15c3-3, respectively, by expanding these definitions to include funds in a portfolio margin account relating to certain futures and futures options positions. Consequently, as part of free credit balances and other credit balances, these funds will be included as a credit item on the credit side of the customer reserve formula. The Commission is also adopting, as proposed, an amendment to Rule 15c3-3a Item 14 that permits a broker- dealer to include as a debit item, on the debit side of the customer reserve formula, the amount of customer margin required and on deposit at a derivatives clearing organization related to futures positions carried in a portfolio margin account.
 
@@ -1836,7 +1718,7 @@ particular, the Commission requested comment on additional costs to broker-deale
 
 The Commission also requested comment on whether these proposals would impose costs on other market participants, including broker-dealer customers. Commenters were asked to identify the metrics and sources of any empirical data that supported their costs estimates. The Commission did not receive any comments in response to these requests.
 
-C onsideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+<h>b. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation</h>
 
 The final rule amendments to Rule 15c3-3 to accommodate futures positions in a securities account margined on a portfolio basis <sup>767</sup> should complement the Congressional amendments and provide additional protections to portfolio margin customers through the strengthened reserve requirements of Rule 15c3-3. These additional protections may reduce the risk of loss of collateral to securities customers, promote participation in the securities markets, and enhance competition and price discovery. Moreover, these additional protections may make portfolio margining more attractive to investors.
 
@@ -1846,9 +1728,9 @@ positions involving securities and futures products, which in turn reduces the c
 
 While today’s amendments promote efficiency within the securities markets, the increased costs associated with the rule amendments may impose a burden on competition among broker-dealers. However, the Commission is of the opinion that these costs are justified by the significant benefits described in this economic analysis. In sum, the costs of compliance resulting from the requirements in the portfolio margining amendments to Rule 15c3-3 should not impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act in light of the benefits discussed above.
 
-A mendments With Respect to Securities Lending and Borrowing and Repurchase/Reverse Repurchase Transactions
+<h>3. Amendments With Respect to Securities Lending and Borrowing and Repurchase/Reverse Repurchase Transactions</h>
 
-E conomic Analysis
+<h>a. Economic Analysis</h>
 
 The Commission is adopting amendments to Rules 15c3-1 and 17a-11 to strengthen the financial responsibility of broker-dealers engaging in a securities lending business. First, the amendment to subparagraph (c)(2)(iv)(B) of Rule 15c3-1 clarifies that broker-dealers providing securities lending and borrowing settlement services are deemed, for purposes of the rule, to be acting as principals and are subject to applicable capital deductions. Under the amendment, these deductions could be avoided if a broker- dealer takes certain steps to disclaim principal liability. Second, the amendment to
 
@@ -1900,7 +1782,7 @@ $52,416. See Amendments to Financial Responsibility Rules , 72 FR at 12884.
 
 supported their cost estimates. The Commission did not receive any comments in response to these requests.
 
-C onsideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+<h>b. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation</h>
 
 As described above, the amendment to subparagraph (c)(2)(iv)(B) of Rule 15c3-1 and new paragraph (c)(5) of Rule 17a-11 are designed to address two areas of concern that emerged from the Commission’s experience with the failure of MJK. <sup>783</sup> First, broker-dealers with principal liability in a stock loan transaction may be deemed to be acting in an agency capacity and therefore not taking appropriate capital charges.
 
@@ -1910,9 +1792,9 @@ Overall, the amendments to Rule 15c3-1 and Rule 17a-11 will help enhance the mon
 
 collapse of the broker-dealer. <sup>784</sup> This will strengthen the securities markets and make them more attractive to investors, thereby enhancing efficiency and capital formation. Moreover, the language in the final rule that provides each DEA with the flexibility to prescribe how the monthly reports are to be made may enhance efficiencies for broker- dealers by providing the ability for a DEA to tailor the reporting requirements. Finally, the costs of compliance with the amendments to Rules 15c3-1 and 17a-11 should not impose a burden on competition not necessary or appropriate in the furtherance of the purposes of the Exchange Act in light of the benefits discussed above.
 
-D ocumentation of Risk Management Procedures
+<h>4. Documentation of Risk Management Procedures</h>
 
-E conomic Analysis
+<h>a. Economic Analysis</h>
 
 As discussed in section II.D. of this release, the Commission is adopting new paragraph (a)(23) to Rule 17a-3 to require certain broker-dealers to make and keep current a record documenting the credit, market, and liquidity risk management controls established and maintained by certain broker-dealers to assist them in analyzing and managing the risks associated with their business activities, including, for example, securities lending and repo transactions, OTC derivative transactions, proprietary trading, and margin lending. <sup>785</sup> The amendment will apply only to broker-dealers that have more than $1,000,000 in aggregate credit items as computed under the customer reserve formula of Rule 15c3-3, or $20,000,000 in capital including debt subordinated in accordance with Appendix D to Rule 15c3-1.
 
@@ -1942,19 +1824,19 @@ $12,803,700. Broker-dealers are also expected to incur one-time outside counsel 
 
 $980,000 for a total one-time cost of $13,783,700. See section IV.D.7. of this release.
 
-C onsideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+<h>b. Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation</h>
 
 The amendments to Rules 17a-3 and 17a-4 require firms to document their market, credit, and liquidity risk management controls. The amendments will help strengthen broker-dealer internal controls. Documenting internal controls will encourage enhanced consideration of, and thus a firmer grasp upon, the risks attendant to a broker- dealer’s business activities. This is designed to reduce the risks inherent to the business of operating as a broker-dealer. The final approach the Commission has taken with these rule amendments – encouraging effective internal controls while preserving flexibility – will enhance a broker-dealer’s financial soundness and, consequently, may help to reduce the likelihood of broker-dealer failures with possible positive effects on investor participation, competition, and capital formation. The amendments may also increase efficiencies in broker-dealer examinations through the ready availability of records for examiners.
 
 Finally, the Rule 17a-3 and 17a-4 amendments are not expected to place a burden on competition for small non-carrying broker-dealers because such firms would not be subject to these amendments. <sup>791</sup> As discussed above, there will be some incremental costs to compliance related to these amendments for carrying broker-dealers but the costs of compliance should not impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act and in light of the benefits discussed above.
 
-A mendments to the Net Capital Rule
+<h>5. Amendments to the Net Capital Rule</h>
 
-E conomic Analysis
+<h>a. Economic Analysis</h>
 
-Re quirement to Deduct From Net Worth Certain Liabilities or Expenses Assumed By Third Parties
+Requirement to Deduct From Net Worth Certain Liabilities or Expenses Assumed By Third Parties
 
-Su mmary of Amendments
+Summary of Amendments
 
 The amendments to Rule 15c3-1 add a new paragraph (c)(2)(i)(F) requiring a broker-dealer to adjust its net worth when calculating net capital by including any liabilities that are assumed by a third party if the broker-dealer cannot demonstrate that the third party has the resources, independent of the broker-dealer’s income and assets, to pay the liabilities. This amendment is intended to assist investors and regulators by requiring broker-dealers to provide a more accurate picture of their financial condition.
 
@@ -2006,9 +1888,7 @@ In response to comments, <sup>813</sup> the Commission does not expect broker-de
 
 Re quirement to Subtract From Net Worth Certain Non-Permanent Capital Contributions
 
-<END HEADER>
-
-<h>I. Summary of Amendments</h>
+I. Summary of Amendments
 
 As discussed in section II.E.2. of this release, the amendment adds paragraph (c)(2)(i)(G) to Rule 15c3-1, requiring a broker-dealer to treat as a liability any capital that is contributed under an agreement giving the investor the option to withdraw it. The rule,as adopted, also requires that a broker-dealer treat as a liability any capital contribution that is withdrawn within a year of its contribution unless the broker-dealer receives permission in writing from its DEA. <sup>819</sup> The amendment to Rule 15c3-1 is intended to assist investors and regulators by requiring broker-dealers to provide a more accurate picture of their financial condition. This amendment will help regulators react more quickly if a broker-dealer experiences financial difficulty and benefits customers of a troubled broker-dealer as well as its counterparties.
 
@@ -2016,7 +1896,7 @@ The Commission requested comment on available metrics to quantify these benefits
 
 The Commission did not receive any comments in response to these requests.
 
-<h>II. Baseline and Incremental Economic Effects</h>
+II. Baseline and Incremental Economic Effects
 
 As discussed in section II.E.2. of this release, the baseline of this rule amendment is current Rule 15c3-1 and existing guidance and interpretations. The Commission estimates that the amendments requiring broker-dealers to treat certain capital contributions as liabilities should not result in significant incremental benefits and costs, as compared to the baseline. Because of existing Commission and staff guidanceregarding the permanency of capital, <sup>820</sup> broker-dealers typically do not enter into agreements permitting an owner to withdraw capital at any time. To the extent some firms may have engaged in this practice, they may need to raise capital to meet the rule requirement.
 
@@ -2032,7 +1912,7 @@ One commenter stated that the Commission’s estimate of a gross cost of capital
 
 In response to comments, <sup>831</sup> the Commission is revising this estimate in the final rule to an estimated cost of capital of approximately 12%, which is determined as the average cost of equity capital of broker-dealers using the CAPM. The overall estimated cost of capital is not incremental to the amendment discussed above regarding third party liabilities. The estimated cost of capital would be 12% for a broker-dealer seeking additional equity capital. Therefore, with regard to the treatment of temporary capital contributions, the Commission estimates the amendment will result in an annual cost of approximately $12.0 million, <sup>832</sup> which is an increased estimate relative to the proposing release. For the broker-dealers to whom this increased estimate applies, and who may not be complying with the rule amendments, the Commission expects that there would be greater costs imposed. However, the Commission expects that the benefits outlined above would also accrue to the customers of these broker-dealers. <sup>833</sup>
 
-<h>III. Alternatives</h>
+III. Alternatives
 
 The Commission considered all comments discussed above and the alternative of not adopting the rule, and decided to adopt the amendments substantially as proposed. In response to commenters’ concerns about the impact on capital and the $100 million estimate, <sup>834</sup> as discussed above, the final rule amendment is a codification of existing Commission staff guidance, <sup>835</sup> and thus should not represent a change for broker-dealers with respect to capital withdrawals. Moreover, with respect to commenters’ concerns about obtaining capital, <sup>836</sup> the rule does not prohibit an investor from withdrawing capitalat any time. Rather, it prohibits a broker-dealer from treating temporary cash infusions as capital for purposes of the net capital rule. Finally, the final rule amendment provides a mechanism for a broker-dealer to apply to its DEA to make a withdrawal within one year of the capital contribution without triggering the deduction under certain circumstances.
 
@@ -2042,7 +1922,7 @@ Further, the final rule amendments relating to temporary capital contributions h
 
 While owners of most broker-dealers have the option of withdrawing capital, most owners likely do not have agreements that provide the option of withdrawing capital at any time. <sup>840</sup> Paragraph (e) of Rule 15c3-1 contains mechanisms to permit a broker- dealer to make capital withdrawals for specified purposes. <sup>841</sup> If there is a specific need for a broker-dealer to seek permission to make a capital withdrawal within one year of contribution, the final rule already provides a mechanism for the broker-dealer to seek permission in writing from its DEA to make such a withdrawal. <sup>842</sup> Based on the discussion above, the Commission believes the final cost estimates are appropriate. <sup>843</sup>
 
-<h>c. Requirement to Deduct the Amount by which a Fidelity Bond Exceeds SRO Limits</h>
+c. Requirement to Deduct the Amount by which a Fidelity Bond Exceeds SRO Limits
 
 As discussed in section II.E.3. of this release, this amendment requires broker- dealers to deduct from net capital, with regard to fidelity bonding requirements prescribed by a broker-dealer’s examining authority, the excess of any deductible amount over the amount permitted by SRO rules.
 
@@ -2056,7 +1936,7 @@ This amendment will also codify in a Commission rule capital charges that broker
 
 The Commission received one comment opposing the fidelity bond amendment, stating that FINRA Rule 4360 and the Commission’s amendment would result in a de facto increase in minimum net capital requirements for some broker-dealers. <sup>848</sup> Any increase in net capital cited by the commenter would result from existing SRO rules. <sup>849</sup> Stated differently, broker-dealers that are members of an SRO with such a fidelity bonding rule must already account for the deduction in complying with the net capital requirements of SROs and nothing in the Commission’s amendment to paragraph (c)(2)(xiv) of Rule 15c3-1 would alter this status quo. Consequently, while there is currently no deduction required under the baseline of current Rule 15c3-1 relating to fidelity bond deductibles, because SRO rules currently require this deduction, the adoption of this amendment under Rule 15c3-1 should not impose any additional costs on broker-dealers that they are not already incurring under existing SRO rules.
 
-<h>d. Broker-Dealer Solvency Requirement</h>
+d. Broker-Dealer Solvency Requirement
 
 As discussed in section II.E.4., the amendment to paragraph (a) of Rule 15c3-1 states that no broker-dealer shall be “insolvent” as that term is defined under paragraph (c)(16) of the rule. The companion amendment to paragraph (b)(1) of Rule 17a-11 requires insolvent broker-dealers to provide notice to regulatory authorities.
 
@@ -2074,7 +1954,7 @@ In addition, one commenter objected to the amendments as unnecessary, citing the
 
 As noted above, the Commission requested comment on this cost estimate. In particular, the Commission requested comment on whether there would be costs to broker-dealers as a consequence of the proposal. The Commission also requested comment on whether this proposal would impose costs on other market participants, including broker-dealer customers. Commenters were asked to identify the metrics and sources of any empirical data that supported their costs estimates. The Commission did not receive any comments in response to these requests.
 
-<h>e. Amendment to Rule Governing Restrictions of Withdrawals of Capital</h>
+e. Amendment to Rule Governing Restrictions of Withdrawals of Capital
 
 As discussed in section II.E.5. of this release, paragraph (e) of Rule 15c3-1, which places certain conditions on a broker-dealer when withdrawing capital, <sup>855</sup> also allows the Commission to issue an order temporarily restricting a broker-dealer from withdrawing capital or making loans or advances to stockholders, insiders, and affiliates under certain circumstances. <sup>856</sup> The rule, however, limits such orders to withdrawals, advances, or loans that, when aggregated with all other withdrawals, advances, or loans on a net basis during a 30 calendar day period, exceed 30% of the firm’s excess net capital. <sup>857</sup>
 
@@ -2092,7 +1972,7 @@ Therefore, the Commission modified the amendment, as adopted, to add language to
 
 In summary, the Commission does not believe that the deletion of the 30% threshold will affect the competitiveness or unduly restrict the ongoing business operations of small broker-dealers as compared to larger firms. All broker-dealers remain subject to the other notice and withdrawal limitations on equity capital set forth in paragraphs (e)(1) and (e)(2) of Rule 15c3-1, which are not the subject of this rule amendment.
 
-<h>f. Amendment to Rule 15c3-1 Appendix A</h>
+f. Amendment to Rule 15c3-1 Appendix A
 
 As discussed in section II.E.6.i. of this release, the amendment to paragraph (b)(1)(vi) of Rule 15c3-1a will make permanent the reduced net capital requirements that apply to listed option positions in major market foreign currencies and high-capitalization and non-high-capitalization diversified indexes in non-clearing option specialist and market maker accounts. This change will benefit the broker-dealers that have been calculating charges under a temporary amendment the Commission originally adopted in 1997. <sup>866</sup> The temporary amendment expired on September 1, 1997, subject to extension. <sup>867</sup> The Commission staff subsequently issued a no-action letter on January 13, 2000, which stated that the staff would not recommend enforcement action if broker-12, 1997).dealers continued to rely on the temporary amendment. <sup>868</sup> The Commission considered whether to keep the amendment temporary but determined that making the temporary amendment permanent, as proposed, was the more appropriate alternative because it creates certainty for broker-dealers relying on the rule.
 
@@ -2102,7 +1982,7 @@ The Commission requested comment on available metrics to quantify the benefits i
 
 Commenters were asked to identify the metrics and sources of any empirical data that support their cost estimates. The Commission did not receive any comments in response to these requests.
 
-C onsideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
+Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
 
 Rule 15c3-1 is designed to help ensure that a broker-dealer holds at all times liquid assets sufficient to pay its non-subordinated liabilities and retain a “cushion” of liquid assets used to pay customers without delay in the event that the broker-dealer fails. For example, a broker-dealer that inappropriately excludes certain liabilities when
 
@@ -2348,7 +2228,7 @@ The amendments use performance standards and do not dictate for entities of any 
 
 5 Amendments to Financial Responsibility Rules for Broker-Dealers, Exchange Act Release No. 66910 (May 3, 2012), 77 FR 27150 (May 9, 2012).
 
-6 Comments on the amendments are available at 07/s70807.shtml. See also letter dated April 22, 2007 from Peter G. Crane, President, Crane Data LLC (“Crane Data Letter”); letter dated April 22, 2007 from David Michael Bishop (“Bishop Letter”); letter dated April 27, 2007 from Ted Beer, Broker/Dealer Principal (“Beer Letter”); letter dated April 28, 2007 from Ted Beer, Broker/Dealer Principal (“Beer 2 Letter”); letter dated April 29, 2007 from R.A. Lowenstein, FinOps Compliance Consultant (“Lowenstein Letter”); letter dated April 29, 2007 from G. Kirk Ellis (“Ellis Letter”); letter dated May 1, 2007 from Stuart J. Kaswell and David J. Harris, Dechert LLP on behalf of Federated Investors (“Federated Letter”); letter dated May 2, 2007 from Daniel R. Levene, President, small NASD broker-dealer (“Levene Letter”); letter dated May 4, 2007 from Gerard J. Quinn, Vice President and Associate General Counsel, SIFMA (“SIFMA Letter”); letter dated May 7, 2007 from Michael Bell, President and CEO, Curian Clearing, LLC (“Curian Clearing Letter”); letter dated May 10, 2007 from Richard B. Franz II, Senior Vice-President, Treasurer and Chief Financial Officer, Raymond James & Associates (“Raymond James Letter”); letter dated May 16,
+6 Comments on the amendments are available at 07/s70807.shtml. See also letter dated April 22, 2007 from Peter G. Crane, President, Crane Data LLC (“Crane Data Letter”); letter dated April 22, 2007 from David Michael Bishop (“Bishop Letter”); letter dated April 27, 2007 from Ted Beer, Broker/Dealer Principal (“Beer Letter”); letter dated April 28, 2007 from Ted Beer, Broker/Dealer Principal (“Beer 2 Letter”); letter dated April 29, 2007 from R.A. Lowenstein, FinOps Compliance Consultant (“Lowenstein Letter”); letter dated April 29, 2007 from G. Kirk Ellis (“Ellis Letter”); letter dated May 1, 2007 from Stuart J. Kaswell and David J. Harris, Dechert LLP on behalf of Federated Investors (“Federated Letter”); letter dated May 2, 2007 from Daniel R. Levene, President, small NASD broker-dealer (“Levene Letter”); letter dated May 4, 2007 from Gerard J. Quinn, Vice President and Associate General Counsel, SIFMA (“SIFMA Letter”); letter dated May 7, 2007 from Michael Bell, President and CEO, Curian Clearing, LLC (“Curian Clearing Letter”); letter dated May 10, 2007 from Richard B. Franz II, Senior Vice-President, Treasurer and Chief Financial Officer, Raymond James & Associates (“Raymond James Letter”); letter dated May 16, 2007 from Steven R. Gerbel, Chicago Capital Management LP (“ Chicago Capital Letter ”); letter dated May 17, 2007 from Jeffrey L. Kiss, Principal, PackerKiss Securities, Inc. (“ PackerKiss Letter ”); letter dated May 17, 2007 from Josephine Wang, General Counsel, SIPC (“ SIPC Letter ”); letter dated May 18, 2007 from Kimberly Taylor, Managing Director and Clearing House President, Chicago Mercantile Exchange Inc. (“ CME Letter ”); letter dated May 18, 2007 from Diane V. Esheleman, Executive Vice President, JP Morgan Chase Bank, N.A. (“ JP Morgan Letter ”); letter dated May 21, 2007 from Faith Colish, Carter Ledyard Milburn LLP (“ Colish Letter ”); letter dated May 23, 2007 from Charles R. Manzoni, Jr., General Counsel, FAF Advisors, Inc. (“ FAF Advisors Letter ”); letter dated May 27, 2007 from Joyce Glenn (“ Glenn Letter ”); letter dated May 28, 2007 from William Bare (“ Bare Letter ”); letter dated May 29, 2007 from Robert Keenan, CEO, St. Bernard Financial Services, Inc. (“ St. Bernard Financial Services Letter ”); letter dated May 31, 2007 from John C. Melton, Sr., Executive Vice President, Coastal Securities (“ Coastal Letter ”); letter dated June 3, 2007 from Anonymous (“ Anonymous Letter ”); letter dated June 5, 2007 from Kelly S. McEntire, Executor, Retired State Administrator/Executor of Janus Capital Investments (“ McEntire Letter ”); letter dated June 13, 2007 from Bruce Bent, Chairman, The Reserve (“ Reserve Letter ”); letter dated June 14, 2007 from Amal El Said, Accounting and Regulatory, Abbey National (“ Abbey National Letter ”); letter dated June 14, 2007 from Frank A. Perrone, Senior Vice President, Brown Brothers Harriman & Co. (“ Brown Brothers Harriman Letter ”); letter dated June 15, 2007 from James J. Angel, Ph.D., CFA, Associate Professor of Finance, McDonough School of Business, Georgetown University (“ Angel Letter ”); letter dated June 15, 2007 from Matthew M. Hughey, Chief Financial Officer, First Clearing, LLC (“ First Clearing Letter ”); letter dated June 15, 2007 from Marshall J. Levinson, Senior Managing Director, Bear, Stearns & Co. Inc., Chair, SIFMA Capital Committee (“ SIFMA 2 Letter ”); letter dated June 15, 2007 from Christopher Williams, Director and Senior Counsel, and Barbara Brooks, Principal Financial Officer, Dresdner Kleinwort (“ Dresdner Kleinwort Letter ”); letter dated June 18, 2007 from Michael Dworkin (“ Dworkin Letter ”); letter dated June 18, 2007 from Keith Weller, Executive Director and Senior Associate General Counsel, UBS Global Asset Management (Americas) Inc. (“ UBS Letter ”); letter dated June 18, 2007 from Marcelo Riffaud, Managing Director, Legal Department, Deutsche Bank Securities Inc. (“ Deutsche Bank Securities Letter ”); letter dated June 18, 2007 from Jill Gross and Rahat Sarmast, Pace Investor Rights Project (“ Pace Letter ”); letter dated June 18, 2007 from Robert E. Putney, III, Director and Senior Counsel, BlackRock, Inc. (“ BlackRock Letter ”); letter dated June 18, 2007 from James S. Keller, Chief Regulatory, the PNC Financial Services Group, Inc. (“ PNC Letter ”); letter dated June 18, 2007 from Sarah A. Miller, General Counsel, American ABA Securities Association (“ ABASA Letter ”); letter dated June 18, 2007 from David Hirschmann, Executive Vice President, National Chamber Foundation of U.S. Chamber of Commerce (“ National Chamber Foundation Letter ”); letter dated June 18, 2007 from Michael W. Fields, Chief Fixed Income Officers, American Beacon Advisors (“ American Beacon Letter ”); letter dated June 18, 2007 from David Lonergan, Head of U.S. Cash Management, Barclays Global Investors (“ Barclays Letter ”); letter dated June 18, 2007 from Howard Spindel, Senior Managing Directors, Integrated Management Solutions (“ Integrated Management Letter ”); letter dated June 18, 2007 from Jane G. Heinrichs, Associate Counsel, Investment Company Institute (“ ICI Letter ”); letter dated June 18, 2007 from Jeffrey P. Neubert, CEO, Clearinghouse Association L.L.C. (“ Clearing House Letter ”); letter dated June 19, 2007 from James T. McHale, Associate General Counsel, E*Trade Brokerage Holdings, Inc. (“ E*Trade Letter ”); letter dated June 25, 2007 from Cliff Verron, Managing Director, Deputy Chief Financial Officers and John Ramsay, Managing Director, Deputy General Counsel, Citigroup Global Markets Inc. (“ Citigroup Letter ”); letter dated June 25, 2007 from AMEX, CBOE, ISE, OCC, and NYSE/ARCA (“ AMEX Letter ”); letter dated July 3, 2007 from Keith F. Higgins, Chair, Committee on Federal Regulation of Securities, American Bar Association (“ American Bar Association Letter ”); letter dated July 23, 2007 from Charles S. Morrison, Senior Vice President and Money Market Group Leader, Fidelity Management & Research Company, and John Valenti, Vice President, National Financial Securities LLC (“ Fidelity/NFS Letter ”); letter dated August 6, 2007 from Stuart Kaswell, Dechert LLP, on behalf of Federated Investors, Inc. (“ Federated 2 Letter ”); letter dated October 9, 2007 from Stuart Kaswell, Dechert LLP on behalf of Federated Investors, Inc. (“ Federated 3 Letter ”); letter dated November 16, 2007 from Marshall J. Levinson, Chair, Capital Committee, SIFMA (“ SIFMA 3 Letter ”); letter dated January 7, 2008 from Stuart J. Kaswell, Dechert LLP, on behalf of Federated Investors, Inc. (“ Federated 4 Letter ”); letter dated August 7, 2008 from Stuart J. Kaswell, Bryan Cave LLP, on behalf of Federated Investors, Inc. (“ Federated 5 Letter ”); letter dated November 10, 2008 from Lee A. Pickard, Pickard & Djinis LLP on behalf of Federated Investors (“ Federated 6 Letter ”); letter dated November 25, 2008 from Lee A. Pickard, Pickard & Djinis LLP on behalf of Federated Investors (“ Federated 7 Letter ”); letter dated December 18, 2008 from Lee A. Pickard, Pickard & Djinis LLP on behalf of Federated Investors (“ Federated 8 Letter ”); letter dated July 28, 2009 from Richard J. McDonald, Chief Regulatory Counsel, Susquehanna International Group LLP (“ SIG Letter ”); letter dated June 8, 2010 from The Honorable Gregory W. Meeks (“ Meeks Letter ”); letter dated October 14, 2011 from The Honorable Gregory W. Meeks (“ Meeks 2 Letter ”); letter dated May 5, 2012 from Edward P. Cernocky (“ Cernocky Letter ”); letter dated May 11, 2012 from Chris Barnard (“ Barnard Letter ”); letter dated May 15, 2012 from Helen M. Saarinen (“ Saarinen Letter ”); letter dated May 18, 2012 from Laura H. Hearne (“ Hearne Letter ”); letter dated May 24, 2012 from Dick Fuld (“ Fuld Letter ”); letter dated May 30, 2012 from Bruce J. Womack (“ Womack Letter ”); letter dated June 1, 2012 from Lee A. Pickard, Pickard & Djinis LLP, on behalf of Federated Investors (“ Federated 9 Letter ”); letter dated June 4, 2012 from Michael Scillia, Director, National Investment Banking Association (“ NIBA Letter ”); letter dated June 7, 2012 from Anthony Fitzgerald (“ Fitzgerald Letter ”); letter dated June 7, 2012 from Tom Vincent, Senior V.P., Corporate Governance and Wealth Management Compliance, BOK Financial Corporation (“ BOK Letter ”); letter dated June 8, 2012 from Denise Dolphin (“ Dolphin Letter ”); letter dated June 8, 2012 from Colin W. McKechnie, Managing Director, JP Morgan Chase Bank, N. A (“ JP Morgan 2 Letter ”); letter dated June 8, 2012 from William A. Jacobson, Associate Clinical Professor, Cornell Law School, and Director, Cornell Securities Law Clinic, Ithaca, New York (“ Cornell Letter ”); letter dated June 8, 2012 from Ryan K. Bakhtiari, Aidikoff, Uhl & Bakhtiari, on behalf of the Public Investors Arbitration Bar Association (“ PIABA Letter ”); letter dated June 8, 2012 from Kenneth E. Bentsen, Jr., Executive Vice President, Public Policy and Advocacy, SIFMA (“ SIFMA 4 Letter ”); letter dated June 8, 2012 from Sarah A. Miller, Chief Executive Officer, Institute of International Bankers (“ IIB Letter ”); letter dated June 8, 2012 from James T. McHale, Global Head of Compliance, E*TRADE Financial Corporation (“ E*Trade 2 Letter ”); letter dated June 11, 2012 from Steve M. Brewer, Sr., ASG Securities, LLC, Houston, Texas (“ ASG Securities Letter ”); letter dated June 25, 2012 from Gene L. Finn (“ Finn Letter ”); letter dated June 26, 2012 from Cindy Walsh (“ Walsh Letter ”); letter dated July 12, 2012 from Michael Scillia, Director, National Investment Banking Association (“ NIBA 2 Letter ”); letter dated July 18, 2012 from Gene L. Finn (“ Finn 2 Letter ”); letter dated July 30, 2012 from David Waddell (“ Waddell Letter ”); letter dated August 6, 2012 from Gene Finn (“ Finn 3 Letter ”); letter dated August 15, 2012 from Echeal R. Sigan (“ Sigan Letter ”); letter dated August 26, 2012 from Mark Irwin (“ Irwin Letter ”); letter dated September 17, 2012 from Gene L. Finn (“ Finn 4 Letter ”); letter dated September 27, 2012 from Jeff S. Clark (“ Clark Letter ”); letter dated September 28, 2012 from Robert LaPlante, M.P.A. (“ LaPlante Letter ”); letter dated October 19, 2012 from Rick Louderbough (“ Louderbough Letter ”); letter dated October 24, 2012 from Paul L. Matecki, Senior Vice President, General Counsel, Raymond James Financial, Inc. (“ Raymond James 2 Letter ”); letter dated October 25, 2012 from Eric Gamble, Ph.D. (“ Gamble Letter ”); letter dated November 1, 2012 from Percy R. Moorman, Esq. (“ Moorman Letter ”); letter dated January 4, 2013 from Marquis Wilkins (“ Wilkins Letter ”); letter dated January 5, 2013 from Anonymous SEC Fan (“ Anonymous SEC Letter ”); letter dated January 24, 2013 from Robert Fournier (“ Fournier Letter ”); and letter dated January 28, 2013 from Scott E. Shjefte (“ Shjefte Letter ”). Comment letters and specific comments outside the scope of this rulemaking are not addressed in this release.
 
 7 See Broker-dealers; Maintenance of Certain Basic Reserves, Exchange Act Release No. 9856 (Nov. 10, 1972), 37 FR 25224 (Nov. 29, 1972).
 
@@ -2358,7 +2238,7 @@ The amendments use performance standards and do not dictate for entities of any 
 
 10 See 15 U.S.C. 78aaa et seq.
 
-11 See 17 CFR 240.15c3-3(b) and (d). The term fully paid securities includes all securities carried for the account of a customer in a special cash account as defined in Regulation T promulgated by the Board of Governors of the Federal Reserve System, as well as margin equity securities within the meaning of Regulation T which are carried for the account of a customer in a general account or any special account under Regulation T during any period when section 8 of Regulation T (12 CFR 220.8) specifies that margin equity securities shall have no loan value in a general account or special convertible debt security account, and all such margin equity securities in such account if they are fully paid: provided, however, that the term fully paid securities shall not apply to any securities which are purchased in transactions for which the customer has not made full payment. 17 CFR 240.15c3-3(a)(3). The term margin securities means those securities carried for the account of a customer in a general account as defined in Regulation T, as well as securities carried in any special account other than the securities referred to in paragraph (a)(3) of Rule 15c3-3. 17 CFR 240.15c3-3(a)(4). The term excess margin securities means those securities referred to in paragraph (a)(4) of Rule 15c3-3 carried for the account of a customer having a market value in excess of 140 percent of the total of the debit balances in the customer’s account or accounts encompassed by paragraph
+11 See 17 CFR 240.15c3-3(b) and (d). The term fully paid securities includes all securities carried for the account of a customer in a special cash account as defined in Regulation T promulgated by the Board of Governors of the Federal Reserve System, as well as margin equity securities within the meaning of Regulation T which are carried for the account of a customer in a general account or any special account under Regulation T during any period when section 8 of Regulation T (12 CFR 220.8) specifies that margin equity securities shall have no loan value in a general account or special convertible debt security account, and all such margin equity securities in such account if they are fully paid: provided, however, that the term fully paid securities shall not apply to any securities which are purchased in transactions for which the customer has not made full payment. 17 CFR 240.15c3-3(a)(3). The term margin securities means those securities carried for the account of a customer in a general account as defined in Regulation T, as well as securities carried in any special account other than the securities referred to in paragraph (a)(3) of Rule 15c3-3. 17 CFR 240.15c3-3(a)(4). The term excess margin securities means those securities referred to in paragraph (a)(4) of Rule 15c3-3 carried for the account of a customer having a market value in excess of 140 percent of the total of the debit balances in the customer’s account or accounts encompassed by paragraph (a)(4) of Rule 15c3-3 which the broker-dealer identifies as not constituting margin securities. 17 CFR 240.15c3-3(a)(5). As discussed in section II.F. of this release, the Commission is adopting technical amendments to the definitions of the terms fully paid securities and margin securities under Rule 15c3-3. See paragraphs (a)(3) and (4) of Rule 15c3-3, as adopted.
 
 12 See 17 CFR 240.15c3-3(c). Customer securities held by the carrying broker-dealer are not assets of the firm. Rather, the carrying broker-dealer holds them in a custodial capacity and the possession and control requirement is designed to ensure that the carrying broker-dealer treats them in a manner that allows for their prompt return.
 
@@ -2372,13 +2252,13 @@ The amendments use performance standards and do not dictate for entities of any 
 
 17 Id.
 
-18 17 CFR 240.15c3-3(e). Customer cash is a balance sheet item of the carrying broker- dealer (i.e., the amount of cash received from a customer increases the amount of the carrying broker-dealer’s assets and creates a corresponding liability to the customer). The customer reserve formula is designed to isolate these broker-dealer assets so that an amount equal to the net liabilities to customers is held as a reserve in the form of cash or qualified securities. The requirement to establish this reserve is designed to effectively prevent the carrying broker-dealer from using customer funds for proprietary business
+18 17 CFR 240.15c3-3(e). Customer cash is a balance sheet item of the carrying broker- dealer (i.e., the amount of cash received from a customer increases the amount of the carrying broker-dealer’s assets and creates a corresponding liability to the customer). The customer reserve formula is designed to isolate these broker-dealer assets so that an amount equal to the net liabilities to customers is held as a reserve in the form of cash or qualified securities. The requirement to establish this reserve is designed to effectively prevent the carrying broker-dealer from using customer funds for proprietary business activities such as investing in securities. The goal is to put the carrying broker-dealer in a position to be able to readily meet its cash obligations to customers by requiring the firm to make deposits of cash and/or qualified securities into the customer reserve account in the amount of the net cash owed to customers. Capital, Margin, and Segregation Requirements for Security-Based Swap Dealers and Major Security-Based Swap Participants and Capital Requirements for Broker-Dealers , Exchange Act Release No. 68071 (Oct. 18, 2012), 77 FR 70213, 70277 n.671 (Nov. 23, 2012).
 
-19 See 17 CFR 240.15c3-3(e). Under paragraph (e), broker-dealers are generally required to perform the customer reserve computation as of the close of business on the last business day of the week. Broker-dealers from time to time may perform a mid-week computation if it would permit them to make a withdrawal. 17 CFR 240.15c3-3(g).
+19 See 17 CFR 240.15c3-3(e). Under paragraph (e), broker-dealers are generally required to perform the customer reserve computation as of the close of business on the last business day of the week. Broker-dealers from time to time may perform a mid-week computation if it would permit them to make a withdrawal. 17 CFR 240.15c3-3(g). 
 
 20 See 17 CFR 240.15c3-3a.
 
-21 For example, if a broker-dealer holds $100 for customer A, the broker-dealer can use that
+21 For example, if a broker-dealer holds $100 for customer A, the broker-dealer can use that $100 to finance a security purchase of customer B. The $100 the broker-dealer owes customer A is a credit in the formula and the $100 customer B owes the broker-dealer is a debit in the formula. Therefore, under the customer reserve formula there would be no requirement to maintain cash and/or U.S. government securities in the customer reserve account. However, if the broker-dealer did not use the $100 held in customer A’s account for this purpose, there would be no offsetting debit and, consequently, the broker-dealer would need to have on deposit in the customer reserve account cash and/or qualified securities in an amount at least equal to $100.
 
 22 Broker-dealers are subject to margin requirements in Regulation T promulgated by the Federal Reserve (see 12 CFR 220.1, et seq.), in rules promulgated by the self-regulatory organizations (“SROs”) (see, e.g., FINRA Rules 4210–4240), and with respect to security futures, in rules jointly promulgated by the Commission and the CFTC (see 17 CFR 242.400–406).
 

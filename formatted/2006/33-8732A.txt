@@ -1,231 +1,3 @@
-https://www.sec.gov/rules/final/2006/33-8732a.pdf
-
-I.0.0.0 Background and Overview
-
-II.0.0.0 Executive and Director Compensation Disclosure
-
-	II.A.0.0 Options Disclosure
-
-		II.A.1.0 Background
-
-		II.A.2.0 Required Option Disclosures
-
-			II.A.2.a Tabular Disclosures
-
-			II.A.2.b Compensation Discussion and Analysis
-
-	II.B.0.0 Compensation Discussion and Analysis
-
-		II.B.1.0 Intent and Operation of the Compensation Discussion and Analysis
-
-		II.B.2.0 Instructions to Compensation Discussion and Analysis
-
-		II.B.3.0 “Filed” Status of Compensation Discussion and Analysis and the “Furnished” Compensation Committee Report
-
-		II.B.4.0 Retention of the Performance Graph
-
-	II.C.0.0 Compensation Tables
-
-		II.C.1.0 compensation with respect to the last fiscal year (and the two preceding fiscal years), as reflected in a revised Summary Compensation Table that presents compensation paid currently or deferred (including options, restricted stock and similar grants) and compensation consisting of current earnings or awards that are part of a plan, and as supplemented by one table providing back-up information for certain data in the Summary Compensation Table;
-
-		II.C.2.0 holdings of equity-based interests that relate to compensation or are potential sources of future compensation, focusing on compensation-related equity- based interests that were awarded in prior yearsand are “at risk,” as well as recent realization on these interests, such as through vesting of restricted stock or the exercise of options and similar instruments;and
-
-		II.C.3.0 retirement and other post-employment compensation, including retirement and deferred compensation plans, other retirement benefits and other post- employment benefits, such as those payable in the event of a change in control.
-
-		II.C.1.0 Compensation to Named Executive Officers in the Last Three Completed Fiscal Years -- The Summary Compensation Table and Related Disclosure
-
-			II.C.1.a Total Compensation Column
-
-			II.C.1.b Salary and Bonus Columns
-
-			II.C.1.c Plan-Based Awards
-
-			II.C.1.d Change in Pension Value and Nonqualified Deferred Compensation Earnings Column
-
-			II.C.1.e All Other Compensation Column
-
-			II.C.1.f Captions and Table Layout
-
-		II.C.2.0 Supplemental Grants of Plan-Based Awards Table
-
-		II.C.3.0 Narrative Disclosure to Summary Compensation Table and Grants of Plan-Based Awards Table
-
-			II.C.3.a Narrative Description of Additional Material Factors
-
-			II.C.3.b Request for Additional Comment on Compensation Disclosure for up to Three Additional Employees
-
-		II.C.4.0 Exercises and Holdings of Previously Awarded Equity
-
-			II.C.4.a Outstanding Equity Awards at Fiscal Year-End Table
-
-			II.C.4.b Option Exercises and Stock Vested Table
-
-			II.C.4.c and (e) of this table. Finally, we have reformatted the columns to make the presentation of stock and option awards consistent with the presentation in other tables.
-
-		II.C.5.0 Post-Employment Compensation
-
-			II.C.5.a Pension Benefits Table
-
-			II.C.5.b Nonqualified Deferred Compensation Table
-
-			II.C.5.c Other Potential Post-Employment Payments
-
-		II.C.6.0 Officers Covered
-
-			II.C.6.a Named Executive Officers
-
-			II.C.6.b Identification of Most Highly Compensated Executive Officers; Dollar Threshold for Disclosure
-
-		II.C.7.0 Interplay of Items 402 and 404
-
-		II.C.8.0 Other Changes
-
-		II.C.9.0 Compensation of Directors
-
-	II.D.0.0 Treatment of Specific Types of Issuers
-
-		II.D.1.0 Small Business Issuers
-
-		II.D.2.0 Foreign Private Issuers
-
-		II.D.1.0 of Form 20-F, with more detailed information provided if otherwise made publicly available.	We proposed to continue this treatment of these issuers and clarify that the treatment of foreign private issuers under Item 402 parallels that under Form 20-F. Commenters supported this approach, stating that it showed appropriate deference to a foreign private issuer’s home country requirements. We are adopting these requirements as proposed.
-
-		II.D.3.0 Business Development Companies
-
-	II.E.0.0 Conforming Amendments
-
-III.0.0.0 Revisions to Form 8-K and the Periodic Report Exhibit Requirements
-
-	III.A.0.0 Items 1.01 and 5.02 of Form 8-K
-
-		III.A.1.0 Item 1.01- Entry into a Material Definitive Agreement
-
-		III.A.2.0 Item 5.02 - Departure of Directors or Certain Officers; Election of Directors; Appointment of Certain Officers; Compensatory Arrangements of Certain Officers
-
-	III.B.0.0 Extension of Limited Safe Harbor under Section 10(b) and Rule 10b-5 to Item 5.02(e) of Form 8-K and Exclusion of Item 5.02(e) from Form S-3 Eligibility Requirements
-
-	III.C.0.0 General Instruction D to Form 8-K
-
-	III.D.0.0 Foreign Private Issuers
-
-IV.0.0.0 Beneficial Ownership Disclosure
-
-V.0.0.0 Certain Relationships and Related Transactions Disclosure
-
-	V.A.0.0 Transactions with Related Persons
-
-		V.A.1.0 Broad Principle for Disclosure
-
-			V.A.1.a Indebtedness
-
-			V.A.1.c of Item 404 into paragraph (a) of Item 404, the rule proposals would have changed the situations in which indebtedness disclosure is necessary by requiring disclosure of indebtedness transactions with regard to all related persons covered by the related person transaction disclosure requirement, including significant shareholders. Some commenters questioned whether disclosure of indebtedness of significant shareholders would be useful to investors and whether companies would have access to the information necessary to provide this disclosure. In response to these comments, the amendments do not require disclosure of indebtedness transactions of significant shareholders (or their immediate family members). Another result of integrating the
-
-			V.A.1.b Definitions
-
-		V.A.2.0 Disclosure Requirements
-
-		V.A.3.0 Exceptions
-
-	V.B.0.0 Procedures for Approval of Related Person Transactions
-
-	V.C.0.0 Promoters and Control Persons
-
-	V.D.0.0 Corporate Governance Disclosure
-
-	V.E.0.0 Treatment of Specific Types of Issuers
-
-		V.E.1.0 Small Business Issuers
-
-		V.E.2.0 Foreign Private Issuers
-
-		V.E.3.0 Registered Investment Companies
-
-	V.F.0.0 Conforming Amendments
-
-		V.F.1.0 Regulation Blackout Trading Restriction
-
-		V.F.2.0 Rule 16b-3 Non-Employee Director Definition
-
-		V.F.3.0 Other Conforming Amendments
-
-VI.0.0.0 Plain English Disclosure
-
-VII.0.0.0 Transition
-
-VIII.0.0.0 Paperwork Reduction Act
-
-	VIII.A.0.0 Background
-
-		VIII.A.1.0 “Regulation S-B” (OMB Control No. 3235-0417);
-
-		VIII.A.2.0 “Regulation S-K” (OMB Control No. 3235-0071);
-
-		VIII.A.3.0 “Form SB-2” (OMB Control No. 3235-0418);
-
-		VIII.A.4.0 “Form S-1” (OMB Control No. 3235-0065);
-
-		VIII.A.5.0 “Form S-4” (OMB Control Number 3235-0324);
-
-		VIII.A.6.0 “Form S-11” (OMB Control Number 3235-0067);
-
-		VIII.A.7.0 “Regulation 14A and Schedule 14A” (OMB Control Number 3235-0059);
-
-		VIII.A.8.0 “Regulation 14C and Schedule 14C” (OMB Control Number 3235-0057);
-
-		VIII.A.12.0 “Form 10-KSB” (OMB Control No. 3235-0420);
-
-		VIII.A.13.0 “Form 8-K” (OMB Control No. 3235-0060); and
-
-		VIII.A.14.0 “Form N-2” (OMB Control No. 3235-0026).
-
-	VIII.B.0.0 Summary of Information Collections
-
-	VIII.C.0.0 Summary of Comment Letters and Revisions to Proposals
-
-	VIII.D.0.0 Revisions to Paperwork Reduction Act Burden Estimates
-
-		VIII.D.1.0 Securities Act Registration Statements, Exchange Act Registration Statements, Exchange Act Annual Reports, Proxy Statements and Information Statements
-
-		VIII.D.2.0 Exchange Act Current Reports
-
-IX.0.0.0 Cost-Benefit Analysis
-
-	IX.A.0.0 Background
-
-	IX.B.0.0 Summary of Amendments
-
-	IX.C.0.0 Benefits
-
-	IX.D.0.0 Costs
-
-X.0.0.0 Consideration of Burden on Competition and Promotion of Efficiency, Competition and Capital Formation
-
-XI.0.0.0 Final Regulatory Flexibility Act Analysis
-
-	XI.A.0.0 Need for the Rules and Amendments
-
-	XI.B.0.0 Significant Issues Raised by Public Comment
-
-	XI.C.0.0 Small Entities Subject to the Rules and Amendments
-
-	XI.D.0.0 Reporting, Recordkeeping and Other Compliance Requirements
-
-	XI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-		XI.E.1.0 establishing different compliance or reporting requirements which take into account the resources available to smaller entities;
-
-		XI.E.2.0 the clarification, consolidation or simplification of disclosure for small entities;
-
-		XI.E.3.0 use of performance standards rather than design standards; and
-
-		XI.E.4.0 exempting smaller entities from coverage of the disclosure requirements, or any part thereof.
-
-XII.0.0.0 Statutory Authority and Text of the Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 Conforming Version (To Conform to Release Published in the Federal Register)
 
 SECURITIES AND EXCHANGE COMMISSION
@@ -692,11 +464,11 @@ However, we remain of the view that the Performance Graph should not be presente
 
 To enhance the benefits of the tabular approach to eliciting compensation disclosure, <sup>117</sup> we proposed to reorganize and streamline the tables to provide a clearer and more logical picture of total compensation and its elements for named executive officers. We are adopting reorganized compensation tables and related narrative disclosure that cover three broad categories:addition to total return may be included in the graph only so long as the compensation committee (or persons performing equivalent functions or the entire board if there is no such committee) provided a description of the link between the measure and the level of compensation in the Board Compensation Committee Report on Executive Compensation. As a result, companies may include other performance measures, such as return on average common shareholders’ equity, so long as the meaning of any such measures is clear from the Performance Graph and any related legend or other disclosure.(e) of Regulation S-T [17 CFR 232.304(d) and (e)], and we make technical revisions to those rules to correctly reference Item 22(b)(7)(ii) of Form N-1A and to eliminate the references to “prospectuses.”
 
-<h>1. compensation with respect to the last fiscal year (and the two preceding fiscal years), as reflected in a revised Summary Compensation Table that presents compensation paid currently or deferred (including options, restricted stock and similar grants) and compensation consisting of current earnings or awards that are part of a plan, and as supplemented by one table providing back-up information for certain data in the Summary Compensation Table;</h>
+1. compensation with respect to the last fiscal year (and the two preceding fiscal years), as reflected in a revised Summary Compensation Table that presents compensation paid currently or deferred (including options, restricted stock and similar grants) and compensation consisting of current earnings or awards that are part of a plan, and as supplemented by one table providing back-up information for certain data in the Summary Compensation Table;
 
-<h>2. holdings of equity-based interests that relate to compensation or are potential sources of future compensation, focusing on compensation-related equity- based interests that were awarded in prior yearsand are “at risk,” as well as recent realization on these interests, such as through vesting of restricted stock or the exercise of options and similar instruments;and</h>
+2. holdings of equity-based interests that relate to compensation or are potential sources of future compensation, focusing on compensation-related equity- based interests that were awarded in prior yearsand are “at risk,” as well as recent realization on these interests, such as through vesting of restricted stock or the exercise of options and similar instruments;and
 
-<h>3. retirement and other post-employment compensation, including retirement and deferred compensation plans, other retirement benefits and other post- employment benefits, such as those payable in the event of a change in control.</h>
+3. retirement and other post-employment compensation, including retirement and deferred compensation plans, other retirement benefits and other post- employment benefits, such as those payable in the event of a change in control.
 
 II.C.4.a. Information regarding realization on holdings of equity-based interests will be required in the Option Exercises and Stock Vested Table discussed below in Section II.C.4.b.
 
@@ -984,7 +756,7 @@ OPTION EXERCISES AND STOCK VESTED
 
 We proposed that this table include the grant date fair value of these instruments that would have been disclosed in the Summary Compensation Table for the year in which they were awarded. We proposed this column to eliminate the possible impact of double disclosure by showing amounts previously disclosed. We have adopted the table without the grant date fair value column in response to commenters’ concerns that this column would confuse investors and increase the potential for double counting. <sup>289</sup> As described in the preceding section, in response to comment that transfers of awards for value also are realization events, amounts realized upon such transfers must be included in columnsthat table it also includes the vesting of restricted stock and similar instruments. Commentators have noted a need for comparable disclosure of restricted stock vesting.
 
-<h>c. and (e) of this table. Finally, we have reformatted the columns to make the presentation of stock and option awards consistent with the presentation in other tables.</h>
+c. and (e) of this table. Finally, we have reformatted the columns to make the presentation of stock and option awards consistent with the presentation in other tables.
 
 <h>5. Post-Employment Compensation</h>
 
@@ -1112,7 +884,7 @@ Small business issuers will be required to provide information in the Summary Co
 
 Prior to today’s amendments, a foreign private issuer was deemed to comply with Item 402 of Regulation S-K if it provided the information required by Items 6.B. and
 
-<h>1. of Form 20-F, with more detailed information provided if otherwise made publicly available.	We proposed to continue this treatment of these issuers and clarify that the treatment of foreign private issuers under Item 402 parallels that under Form 20-F. Commenters supported this approach, stating that it showed appropriate deference to a foreign private issuer’s home country requirements. We are adopting these requirements as proposed.</h>
+1. of Form 20-F, with more detailed information provided if otherwise made publicly available.	We proposed to continue this treatment of these issuers and clarify that the treatment of foreign private issuers under Item 402 parallels that under Form 20-F. Commenters supported this approach, stating that it showed appropriate deference to a foreign private issuer’s home country requirements. We are adopting these requirements as proposed.
 
 <h>3. Business Development Companies</h>
 
@@ -1240,9 +1012,7 @@ Finally, the rule changes include as proposed a technical modification. Prior to
 
 Section 402 of the Sarbanes-Oxley Act prohibits most personal loans by acompany to its officers and directors. <sup>426</sup> This development raises the issue of whether disclosure of indebtedness of the sort required under our rules prior to the amendments should be maintained. We believe that the approach to disclosure of indebtedness involving related persons that we adopt today is appropriate because of the scope of the direct and indirect interests covered by our disclosure requirements, because related persons include persons not covered by the prohibitions, and because there are certain exceptions to the prohibitions. We have, however, eliminated the distinction between indebtedness and other types of related person transactions.
 
-As a result of integrating what had been required to be disclosed under paragraph
-
-<h>c. of Item 404 into paragraph (a) of Item 404, the rule proposals would have changed the situations in which indebtedness disclosure is necessary by requiring disclosure of indebtedness transactions with regard to all related persons covered by the related person transaction disclosure requirement, including significant shareholders. Some commenters questioned whether disclosure of indebtedness of significant shareholders would be useful to investors and whether companies would have access to the information necessary to provide this disclosure. In response to these comments, the amendments do not require disclosure of indebtedness transactions of significant shareholders (or their immediate family members). Another result of integrating thedisclosure requirements that had been specified in paragraph (c) of Item 404 into paragraph (a) of Item 404, is that the rule changes set a $120,000 threshold and require disclosure if there is a direct or indirect material interest in an indebtedness transaction, while prior to these amendments Item 404(c) required disclosure of all indebtedness exceeding $60,000. <sup>430</sup> For example, under amended Item 404(a) disclosure is required if an executive officer had a material indirect interest in an indebtedness transaction (exceeding $120,000) between the company and another entity due to that executive officer’s ownership interest in the other entity. Disclosure of material indirect interests of related persons in transactions involving the company will be required by Item 404(a) as amended, just as it was prior to adoption of these amendments. We believe that disclosure requirements for indebtedness and for other related person transactions should be congruent. In particular, we believe that loans by companies other than financial institutions should be treated like any other related person transactions; however, as discussed below, <sup>431</sup> we address certain ordinary course loans by financial institutions in an instruction to Item 404(a).</h>
+As a result of integrating what had been required to be disclosed under paragraph c. of Item 404 into paragraph (a) of Item 404, the rule proposals would have changed the situations in which indebtedness disclosure is necessary by requiring disclosure of indebtedness transactions with regard to all related persons covered by the related person transaction disclosure requirement, including significant shareholders. Some commenters questioned whether disclosure of indebtedness of significant shareholders would be useful to investors and whether companies would have access to the information necessary to provide this disclosure. In response to these comments, the amendments do not require disclosure of indebtedness transactions of significant shareholders (or their immediate family members). Another result of integrating thedisclosure requirements that had been specified in paragraph (c) of Item 404 into paragraph (a) of Item 404, is that the rule changes set a $120,000 threshold and require disclosure if there is a direct or indirect material interest in an indebtedness transaction, while prior to these amendments Item 404(c) required disclosure of all indebtedness exceeding $60,000. <sup>430</sup> For example, under amended Item 404(a) disclosure is required if an executive officer had a material indirect interest in an indebtedness transaction (exceeding $120,000) between the company and another entity due to that executive officer’s ownership interest in the other entity. Disclosure of material indirect interests of related persons in transactions involving the company will be required by Item 404(a) as amended, just as it was prior to adoption of these amendments. We believe that disclosure requirements for indebtedness and for other related person transactions should be congruent. In particular, we believe that loans by companies other than financial institutions should be treated like any other related person transactions; however, as discussed below, <sup>431</sup> we address certain ordinary course loans by financial institutions in an instruction to Item 404(a).
 
 <h>b. Definitions</h>
 
@@ -1438,27 +1208,27 @@ This transition approach will result in phased-in implementation of the amended 
 
 The new rules and amendments contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995. <sup>548</sup> We published a notice requesting comment on the collection of information requirements in the Proposing Release, and we submitted these requirements to the Office of Management and Budget for review in accordance with the Paperwork Reduction Act. <sup>549</sup> The titles for the collection of information are: <sup>550</sup>
 
-<h>1. “Regulation S-B” (OMB Control No. 3235-0417);</h>
+1. “Regulation S-B” (OMB Control No. 3235-0417);
 
-<h>2. “Regulation S-K” (OMB Control No. 3235-0071);</h>
+2. “Regulation S-K” (OMB Control No. 3235-0071);
 
-<h>3. “Form SB-2” (OMB Control No. 3235-0418);</h>
+3. “Form SB-2” (OMB Control No. 3235-0418);
 
-<h>4. “Form S-1” (OMB Control No. 3235-0065);</h>
+4. “Form S-1” (OMB Control No. 3235-0065);
 
-<h>5. “Form S-4” (OMB Control Number 3235-0324);</h>
+5. “Form S-4” (OMB Control Number 3235-0324);
 
-<h>6. “Form S-11” (OMB Control Number 3235-0067);</h>
+6. “Form S-11” (OMB Control Number 3235-0067);
 
-<h>7. “Regulation 14A and Schedule 14A” (OMB Control Number 3235-0059);</h>
+7. “Regulation 14A and Schedule 14A” (OMB Control Number 3235-0059);
 
-<h>8. “Regulation 14C and Schedule 14C” (OMB Control Number 3235-0057);(9) “Form 10” (OMB Control No. 3235-0064);(10) “Form 10-SB” (OMB Control No. 3235-0419);(11) “Form 10-K” (OMB Control No. 3235-0063);</h>
+8. “Regulation 14C and Schedule 14C” (OMB Control Number 3235-0057);(9) “Form 10” (OMB Control No. 3235-0064);(10) “Form 10-SB” (OMB Control No. 3235-0419);(11) “Form 10-K” (OMB Control No. 3235-0063);
 
-<h>12. “Form 10-KSB” (OMB Control No. 3235-0420);</h>
+12. “Form 10-KSB” (OMB Control No. 3235-0420);
 
-<h>13. “Form 8-K” (OMB Control No. 3235-0060); and</h>
+13. “Form 8-K” (OMB Control No. 3235-0060); and
 
-<h>14. “Form N-2” (OMB Control No. 3235-0026).</h>
+14. “Form N-2” (OMB Control No. 3235-0026).
 
 We adopted all of the existing regulations and forms pursuant to the Securities Act and the Exchange Act. In addition, we adopted Form N-2 pursuant to the Investment Company Act. These regulations and forms set forth the disclosure requirements for annual <sup>551</sup> and current reports, registration statements, proxy statements and information statements that are prepared by issuers to provide investors with the information they need to make informed investment decisions in registered offerings and in secondary market transactions, as well as informed voting decisions in the case of proxy statements.
 

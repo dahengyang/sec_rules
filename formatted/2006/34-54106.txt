@@ -1,62 +1,6 @@
-https://www.sec.gov/rules/final/2006/34-54106.pdf
+COMMODITY FUTURES TRADING COMMISSION 
 
-I.0.0.0 Introduction
-
-	I.A.0.0 Background
-
-	I.B.0.0 Overview of Adopted Rules
-
-		I.B.1.0 CEA Rule 41.21 and Exchange Act Rule 6h-2
-
-		I.B.2.0 CEA Rule 41.15 and Exchange Act Rule 3a55-4
-
-II.0.0.0 Discussion of Final Rules
-
-	II.A.0.0 Modification of the Statutory Listing Standards Requirements for Security Futures Products
-
-	II.B.0.0 Rules Excluding Certain Debt Securities Indexes from the Definition of Narrow-Based Security Index
-
-		II.B.1.0 Index composed solely of debt securities
-
-		II.B.2.0 Number and weighting of index components
-
-		II.B.3.0 Issuer or security eligibility criteria
-
-		II.B.4.0 Minimum principal amount outstanding
-
-		II.B.1.0 meet the original $250,000,000 threshold; or (2) meet the following two-part test: (a) the security has a remaining principal amount outstanding of $200,000,000; and (b) the issuer of the security has outstanding securities that are notes, bonds, debentures, or evidences of indebtedness having a total remaining principal amount of at least $1
-
-		II.B.5.0 De minimis exception
-
-		II.B.6.0 Indexes that Include Exempted Securities
-
-	II.C.0.0 Tolerance Period
-
-III.0.0.0 Listing Standards for Security Futures on Debt Securities
-
-III.0.0.0 Paperwork Reduction Act CFTC:
-
-IV.0.0.0 Costs and Benefits of Final Rules CFTC:
-
-		IV.C.3.0 price discovery; (4) sound risk management practices; and (5) other public interest considerations. The CFTC may, in its discretion, give greater weight to any one of the five enumerated areas of concern and may, in its discretion, determine that,
-
-	IV.A.0.0 Benefits
-
-	IV.B.0.0 Costs
-
-V.0.0.0 Consideration of Burden on Competition, and Promotion of Efficiency, Competition, and Capital Formation
-
-VI.0.0.0 Regulatory Flexibility Act Certifications CFTC:
-
-VII.0.0.0 Statutory Authority
-
-VIII.0.0.0 Text of Adopted Rules List of Subjects
-
-
-
-<END TABLE OF CONTENTS>
-
-COMMODITY FUTURES TRADING COMMISSION 17 CFR Part <sup>41</sup>
+17 CFR Part 41
 
 RIN 3038 AB86
 
@@ -194,7 +138,7 @@ The Commissions intend the $250,000,000 threshold to be a proxy for the statutor
 
 The Commissions are addressing the CBOT's comment in the final rules by adopting an alternate test for municipal securities. A municipal security could either:
 
-<h>1. meet the original $250,000,000 threshold; or (2) meet the following two-part test: (a) the security has a remaining principal amount outstanding of $200,000,000; and (b) the issuer of the security has outstanding securities that are notes, bonds, debentures, or evidences of indebtedness having a total remaining principal amount of at least $1billion. <sup>46</sup> As discussed above, the Commissions believe that issuers with $1 billion or more in outstanding debt are likely to be followed in the market, and that information about such issuers is more likely to be publicly available. <sup>47</sup> Providing an alternate lower threshold for principal amount outstanding should provide some flexibility in constructing indexes that include municipal securities by expanding the number of municipal securities issues that could be eligible. At the same time, the alternate$200,000,000 threshold is designed to reduce the likelihood that the market for a security is not highly illiquid and thus more readily susceptible to manipulation. <sup>48</sup> Furthermore, the requirement that the issuer of the security have total debt outstanding of at least$1 billion increases the likelihood that information about the issuer and its securities will be publicly available. The availability of such information should reduce the likelihood that the issuer's securities – including those with a minimum principal amount outstanding of $200,000,000 – would be readily susceptible to manipulation.</h>
+1. meet the original $250,000,000 threshold; or (2) meet the following two-part test: (a) the security has a remaining principal amount outstanding of $200,000,000; and (b) the issuer of the security has outstanding securities that are notes, bonds, debentures, or evidences of indebtedness having a total remaining principal amount of at least $1billion. <sup>46</sup> As discussed above, the Commissions believe that issuers with $1 billion or more in outstanding debt are likely to be followed in the market, and that information about such issuers is more likely to be publicly available. <sup>47</sup> Providing an alternate lower threshold for principal amount outstanding should provide some flexibility in constructing indexes that include municipal securities by expanding the number of municipal securities issues that could be eligible. At the same time, the alternate$200,000,000 threshold is designed to reduce the likelihood that the market for a security is not highly illiquid and thus more readily susceptible to manipulation. <sup>48</sup> Furthermore, the requirement that the issuer of the security have total debt outstanding of at least$1 billion increases the likelihood that information about the issuer and its securities will be publicly available. The availability of such information should reduce the likelihood that the issuer's securities – including those with a minimum principal amount outstanding of $200,000,000 – would be readily susceptible to manipulation.
 
 <h>5. De minimis exception</h>
 
@@ -230,7 +174,9 @@ As noted above, the Exchange Act and the CEA require that the listing standards 
 
 Instead, the Exchange Act contemplates that exchanges proposing to list and trade security futures products must file proposed rule changes that include listing standards that, among other things, are consistent with this standard. <sup>67</sup> Currently, the only debt securities on which options trade are U.S. Treasury securities. <sup>68</sup> The SEC, however, recently published for comment a proposed rule change by the Chicago Board Options Exchange to list options on certain corporate debt securities. <sup>69</sup> The SEC would welcome comments from the CME and others on the CBOE's proposal, particularly as it relates to comparable listing standards for security futures on debt securities.
 
-<h>III. Paperwork Reduction Act CFTC:</h>
+<h>III. Paperwork Reduction Act</h>
+
+CFTC:
 
 The Paperwork Reduction Act of 1995 ("PRA"), <sup>70</sup> imposes certain requirements on federal agencies (including the CFTC) in connection with their conducting or sponsoring any collection of information as defined by the PRA. The rule and rule amendment do not require a new collection of information on the part of any entities.
 
@@ -238,11 +184,13 @@ SEC:
 
 The PRA does not apply because new Exchange Act Rules 3a55-4 and 6h-2 do not impose any new "collection of information" requirements within the meaning under the PRA.
 
-<h>IV. Costs and Benefits of Final Rules CFTC:</h>
+<h>IV. Costs and Benefits of Final Rules</h>
+
+CFTC:
 
 Section 15(a) of the CEA <sup>71</sup> requires the CFTC to consider the costs and benefits of its actions before issuing new regulations under the CEA. By its terms, Section 15(a) does not require the CFTC to quantify the costs and benefits of new regulations or to determine whether the benefits of the regulations outweigh their costs. Rather, Section 15(a) requires the CFTC to "consider the cost and benefits" of the subject rules in light of five broad areas of market and public concern: (1) protection of market participants and the public; (2) efficiency, competitiveness, and financial integrity of futures markets;
 
-<h>3. price discovery; (4) sound risk management practices; and (5) other public interest considerations. The CFTC may, in its discretion, give greater weight to any one of the five enumerated areas of concern and may, in its discretion, determine that,notwithstanding its costs, a particular rule is necessary or appropriate to protect the public interest or to effectuate any of the provisions or to accomplish any of the purposes of the CEA.</h>
+3. price discovery; (4) sound risk management practices; and (5) other public interest considerations. The CFTC may, in its discretion, give greater weight to any one of the five enumerated areas of concern and may, in its discretion, determine that,notwithstanding its costs, a particular rule is necessary or appropriate to protect the public interest or to effectuate any of the provisions or to accomplish any of the purposes of the CEA.
 
 The rule and rule amendment will foster the protection of market participants and the public by establishing criteria for futures on broad-based debt securities indexes that will reduce the likelihood that these products would be readily susceptible to manipulation. The statutory listing standards for security futures provide for similar protection of market participants with regard to security futures on narrow-based debt securities indexes and individual debt securities that will be made available for listing and trading pursuant to the final rules.
 

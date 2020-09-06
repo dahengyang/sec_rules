@@ -1,71 +1,3 @@
-https://www.sec.gov/rules/final/2006/34-54864.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 BACKGROUND
-
-	II.A.0.0 Transfer Agent Forms
-
-	II.B.0.0 Electronic Filing of Transfer Agent Forms
-
-III.0.0.0 AMENDMENTS
-
-	III.B.0.0 Amendments to Regulation S-T
-
-		III.B.1.0 Rule 101(a), Mandated Electronic Submissions
-
-		III.B.2.0 Rule 104, Unofficial PDF Copies Included in an Electronic Submission
-
-		III.B.3.0 Rule 201, Temporary Hardship Exemption
-
-	III.C.0.0 Miscellaneous Amendments
-
-		III.C.1.0 Revision to Rule 17Ac2-1
-
-		III.C.2.0 Deletion of Paragraph (c) in Rule 17Ac2-2
-
-		III.C.3.0 Reference to 17A(c)(3)(C) in Rule 17Ac3-1
-
-	III.D.0.0 Amendments to Form TA-1, Form TA-2, and Form TA-W
-
-		III.D.1.0 Amendments to All Forms and Instructions
-
-		III.D.2.0 Amendments to Form TA-1 and Instructions
-
-		III.D.3.0 Amendments to Form TA-2 and Instructions
-
-		III.D.4.0 Amendments to Form TA-W and Instructions
-
-		III.D.5.0 Amendment to Form ID
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-V.0.0.0 COSTS AND BENEFITS OF THE PROPOSED RULEMAKING
-
-	V.A.0.0 Benefits
-
-	V.B.0.0 Costs
-
-VI.0.0.0 CONSIDERATION OF THE BURDEN ON COMPETITION, PROMOTION OF EFFICIENCY, AND CAPITAL FORMATION
-
-VII.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VII.A.0.0 Need for the Amendments
-
-	VII.B.0.0 Significant Issues Raised by Public Comment
-
-	VII.C.0.0 Small Entities Subject to the Amendments
-
-	VII.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VII.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VIII.0.0.0 STATUTORY BASIS AND TEXT OF THE AMENDMENTS
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 232, 239, 240, 249, 249b, 269, and 274
 
 [Release No. 34-54864; File No. S7-14-06] RIN 3235-AJ68
@@ -132,7 +64,7 @@ Register ]. Accordingly, registered transfer agents should be prepared to file t
 
 The amendments make the following changes to Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1, Regulation S-T, and to Form TA-1, Form TA-2, and Form TA-W and the instructions to the forms as well as to Form ID.
 
-A. Changes to Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 to Require Electronic Filing
+<h>A. Changes to Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 to Require Electronic Filing</h>
 
 The amendments add a paragraph to each of Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 to require electronic filing of Form TA-1, Form TA-2, and Form TA-W, respectively, on the Commission’s EDGAR system. The amendments require transfer agents to file their forms according to the instructions on the forms and in the EDGAR Filer Manual. Although the amendments to Rules 17Ac2-1, 17Ac2-2, and 17Ac3-1 mandate electronic filing, transfer agents will still be able to apply for a hardship exemption under Rule 202 of Regulation S-T which would allow them to continue to file the forms in paper format. The Commission will review each application on a case by case basis and in its discretion may grant an exemption if the transfer agent is able to show that electronic filing is unduly burdensome and that granting the exemption would benefit the public interest and protection of investors. Because transfer agents cannot rely on receiving a hardshipexemption, we recommend that all transfer agents review the system requirements and EDGAR Filer Manual and be prepared to submit the forms on EDGAR.
 

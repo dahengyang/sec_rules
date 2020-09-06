@@ -1,135 +1,3 @@
-Test by Zheng 
-
-https://www.sec.gov/rules/final/2017/34-80295.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Background
-
-	II.A.0.0 Statutory Framework
-
-	II.B.0.0 Regulatory Framework
-
-	II.C.0.0 Overview of Market Participants Affected by the Settlement Cycle
-
-		II.C.1.0 FMUs
-
-			II.C.1.a CCP
-
-			II.C.1.b CSDs
-
-			II.C.1.c Matching/ETC Providers – Exempt Clearing Agencies
-
-		II.C.2.0 Market Participants – Investors, Broker-Dealers, and Custodia ns
-
-III.0.0.0 Discussion of Ame ndme nt to Exchange Act Rule 15c6-1
-
-	III.A.0.0 Amendment to Rule 15c6-1
-
-		III.A.1.0 Reduction in Risk to CCPs in the Clearance and Settlement Process In the T+2 Proposing Release, the Commission noted its preliminary belief that
-
-		III.A.2.0 Reduction in Risk to CCP Members
-
-		III.A.3.0 Benefits to Other Market Participants from a Shortened Settlement Cycle
-
-			III.A.3.a Introducing Broker-Dealers
-
-			III.A.3.b Institutional Investors
-
-			III.A.3.c Retail Investors
-
-		III.A.4.0 Cross-Border Harmonization
-
-		III.A.5.0 Reduction in Systemic Risk
-
-		III.A.6.0 Leveraging and Advancement of Existing Technology, Operations, and Market Infrastructure
-
-	III.B.0.0 Paragraphs (b), (c), and (d) of Rule 15c6-1
-
-	III.C.0.0 Impact on Other Commission Rules and Guidance; Relevant No-Action and Exemptive Relief
-
-		III.C.1.0 Regulation SHO
-
-		III.C.2.0 Financial Responsibility Rules under the Exchange Act
-
-		III.C.3.0 Exchange Act Rule 10b-10
-
-		III.C.4.0 Prime-Broker No-Action Letter
-
-		III.C.5.0 Prospectus Delivery
-
-	III.D.0.0 Exemptive Orders Excluding Certain Products from the Requirements of Rule 15c6-1(a)
-
-IV.0.0.0 Compliance Date
-
-V.0.0.0 Furthe r Re ductions in the Se ttlement Cycle
-
-		V.D.1.0 and 2, a few commenters urged the Commission to adopt a T+1 or shorter standard
-
-VI.0.0.0 Economic Analysis
-
-	VI.A.0.0 Background
-
-	VI.B.0.0 Baseline
-
-		VI.B.1.0 Central Counterparties
-
-		VI.B.2.0 Market Participants – Investors, Broker-Dealers, and Custodia ns
-
-		VI.B.3.0 Investment Companies
-
-		VI.B.4.0 The Current Market for Clearance and Settlement Services
-
-	VI.C.0.0 Analysis of Benefits, Costs, and Impact on Efficiency, Competition, and Capital Formation
-
-		VI.C.1.0 Benefits
-
-		VI.C.2.0 Costs
-
-		VI.C.3.0 Economic Implications through Other Commission Rules
-
-		VI.C.4.0 Effect on Efficiency, Competition, and Capital Formation
-
-		VI.C.5.0 Quantification of Direct and Indirect Effects of a T+2 Settlement Cycle Prior to the T+2 Proposing Release, industry groups released cost estimates for
-
-			VI.C.5.a Industry Estimates of Costs and Benefits
-
-			VI.C.5.b Commission Estimates of Costs
-
-		VI.C.1.0 FMUs – CCPs and CSDs
-
-		VI.C.2.0 Matching/ETC Providers – Exempt Clearing Agencies
-
-		VI.C.3.0 Market Participants – Investors, Broker-Dealers, and Custodians
-
-		VI.C.4.0 Indirect Costs
-
-		VI.C.5.0 Industry-Wide Costs
-
-	VI.D.0.0 Consideration of Alternatives
-
-		VI.D.1.0 Shift to a T+1 Standard Settlement Cycle
-
-		VI.D.2.0 Straight-Through Processing Requirement
-
-VII.0.0.0 Final Regulatory Fle xibility Analysis
-
-	VII.A.0.0 Need for the Rule
-
-	VII.B.0.0 Summary of Significant Issues Raised by Public Comment
-
-	VII.C.0.0 Description and Estimation of Number of Small Entities Subject to the Rule Paragraph (c) of Rule 0-10 under the Exchange Act provides that, for purposes of
-
-	VII.D.0.0 Projected Reporting, Recordkeeping, or Other Compliance Requirements
-
-	VII.E.0.0 Description of Commission Actions to Minimize Effect on Small Entities
-
-VIII.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
@@ -574,11 +442,11 @@ The Commission received two comment letters referencing certain regulations of t
 
 Therefore, the Commission believes that September 5, <sup>2017</sup> is an appropriate compliance date by which the transition to a T+2 standard settlement cycle should be completed. The Commission believes that a compliance date of September 5, 2017 provides sufficient time for broker-dealers, clearing agencies, SROs and other market participants, including retail investors, <sup>224</sup> to plan for, implement, promulgate new rules, and test changes to systems, operations, policies, and procedures.
 
-<h>V. Furthe r Re ductions in the Se ttlement Cycle</h>
+<h>V. Further Reductions in the Settlement Cycle</h>
 
 In the T+2 Proposing Release, the Commission requested comment on whether additional reductions in the settlement cycle could be achieved. <sup>225</sup> As also discussed in Parts III.A.3.c and
 
-<h>1. and 2, a few commenters urged the Commission to adopt a T+1 or shorter standardsettlement cycle citing benefits similar to those of a T+2 standard settlement cycle, but greater in magnitude. <sup>226</sup> One commenter asserted that the Commission should move without undue delay toward a T+1 standard based on STP. <sup>227</sup> Another commenter noted the proposed rule change did not go far enough to treat all investors equally and thought the settlement cycle should be <sup>24</sup> hours as a maximum timeframe and one hour at a minimum. <sup>228</sup> Another commenter stated that it was time to implement “instantaneous” settlement of trades, noting that the practical impact ofbelieves that a compliance date of September 5, <sup>2017</sup> will provide retail investors with time to become informed – either directly or through their broker-dealers – of the change to a T+2 standard settlement cycle and determine what changes to their own processes and behaviors may be necessary to participate in the market under a shorter settlement cycle.longer settlement cycles is that if he is “actively trading,” the commenter would not have access to the proceeds of a transaction until it settled and therefore had to keep funds “un-invested” at all times. <sup>229</sup> As discussed in further detail in Part VI.D.1, several commenters argued against a move to a settlement cycle shorter than T+2, citing the industry coordination challenges, higher investment costs, and the longer time needed to recoup the investment. <sup>230</sup></h>
+1. and 2, a few commenters urged the Commission to adopt a T+1 or shorter standardsettlement cycle citing benefits similar to those of a T+2 standard settlement cycle, but greater in magnitude. <sup>226</sup> One commenter asserted that the Commission should move without undue delay toward a T+1 standard based on STP. <sup>227</sup> Another commenter noted the proposed rule change did not go far enough to treat all investors equally and thought the settlement cycle should be <sup>24</sup> hours as a maximum timeframe and one hour at a minimum. <sup>228</sup> Another commenter stated that it was time to implement “instantaneous” settlement of trades, noting that the practical impact ofbelieves that a compliance date of September 5, <sup>2017</sup> will provide retail investors with time to become informed – either directly or through their broker-dealers – of the change to a T+2 standard settlement cycle and determine what changes to their own processes and behaviors may be necessary to participate in the market under a shorter settlement cycle.longer settlement cycles is that if he is “actively trading,” the commenter would not have access to the proceeds of a transaction until it settled and therefore had to keep funds “un-invested” at all times. <sup>229</sup> As discussed in further detail in Part VI.D.1, several commenters argued against a move to a settlement cycle shorter than T+2, citing the industry coordination challenges, higher investment costs, and the longer time needed to recoup the investment. <sup>230</sup>
 
 The Commission believes at this time that a successful transition to a settlement cycle shorter than T+2 would require comparatively larger investments by market participants to adopt new systems and processes. <sup>231</sup> However, the Commission notes that a move to a T+1 standard settlement cycle could have similar qualitative benefits of market, credit, and liquidity risk reduction for market participants as a move to a T+2 standard settlement cycle. Accordingly, the staff of the Commission will undertake to submit a report to the Commission no later than three years from the compliance date of Rule 15c6-1(a) as amended herein. This report will include, but not be limited to an examination of:the impact of today’s amendment to Rule 15c6-1(a) to establish a T+2 standard settlement cycle on market participants, including investors;the potential impacts associated with movement to a shorter settlement cycle beyond T+2;the identification of technological and operational improvements that can be used to facilitate a movement to a shorter settlement cycle; andcross-market impacts (including international developments) related to the shortening of the settlement cycle to T+2.
 
@@ -798,17 +666,17 @@ As noted by several commenters, many market participants work with third-party s
 
 In the following section, the Commission examines several categories of market participants and estimates the compliance costs for each category. The Commissionacknowledges that many entities are already undertaking activities to support a migration to a T+2 settlement cycle in anticipation of the amendment. However, to the extent that the costs of these activities have already been incurred, the Commission considers these as sunk costs and therefore does not include them in the analysis below.
 
-<h>1. FMUs – CCPs and CSDs</h>
+1. FMUs – CCPs and CSDs
 
 NSCC and DTC systems and operations will require adjustment to support a T+2 standard settlement cycle. According to the T+2 Playbook and the ISC White Paper, regulation- dependent planning, implementation, testing, and migration activities associated with thetransition to a T+2 settlement cycle could last up to five quarters. <sup>338</sup> In the T+2 Proposingsettlement cycle, and those costs are already sunk.
 
 Release, the Commission initially estimated that these activities will impose a one-time compliance cost of $10.9 million <sup>339</sup> for DTC and NSCC each. The SIFMA survey stated that DTCC reported their estimated costs to be $10 million each, $6 million for the build outnecessary for the test environment and $4 million for T+2 system modifications. <sup>340</sup> These self- reported costs do not significantly differ from the Commission’s nor the BCG Study’spreliminary estimate.
 
-<h>2. Matching/ETC Providers – Exempt Clearing Agencies</h>
+2. Matching/ETC Providers – Exempt Clearing Agencies
 
 Matching/ETC Providers may need to adapt their trade processing systems to comply with a T+2 settlement cycle. This may include actions such as updating reference data, configuring trade match systems, and configuring trade affirmation systems to affirm trades by 12:00 p.m. on T+1. Matching/ETC Providers will also need to conduct testing and assess post- migration activities. In response to the SIFMA survey, Matching/ETC providers indicated an average cost of $315,000 each. Given that two out of the three Matching/ETC providers responded to the survey, the Commission believes that the survey responses support a lower bound of the per-entity cost estimate to $315,000. However, the Commission acknowledges that some Matching/ETC providers may have a higher or lower costs than others based on thevolume of transactions that they process as well as the extent to which the ETC provider has already made the necessary investments for a T+2 settlement cycle. Thus, the Commission continues to believe that the $10.9 million per entity estimate cost is a reasonable upper boundon the per-entity cost estimate for Matching/ETC Providers. The Commission expects that Matching/ETC providers will incur minimal ongoing costs after the initial transition to a T+2settlement cycle because the Commission believes that the majority of the costs of migration to a T+2 settlement cycle entail behavioral changes of market participants and pre-migration testing.
 
-<h>3. Market Participants – Investors, Broker-Dealers, and Custodians</h>
+3. Market Participants – Investors, Broker-Dealers, and Custodians
 
 The overall compliance costs that a market participant incurs in connection with the amendment to Rule 15c6-1(a) will depend on the extent to which it is directly involved in functions related to clearance and settlement, asset servicing, and other activities. For example, retail investors may bear few (if any) direct costs in a transition to a T+2 standard settlementcycle, because their respective broker-dealer handles the back-office functions of each transaction. However, as is discussed below, this does not imply that retail investors will not face indirect costs from the transition, such as those passed through from broker-dealers or banks.
 
@@ -828,13 +696,13 @@ Assuming all clearing and introducing broker-dealers must educate retail custome
 
 Custodian banks will need to update their asset servicing functions to comply with a shorter settlement cycle. In the T+2 Proposing Release, the Commission preliminarily estimated that custodian banks would incur an initial compliance cost of $1.16 million per custodianbank. <sup>349</sup> The SIFMA survey estimated that the average cost for each custodian bank would be approximately $782,000, which the Commission uses as a lower bound estimate for the average cost. In addition, the Commission expects custodian banks to incur minimal ongoing compliance costs after the initial transition because most of the costs will stem from pre-migration updates and testing.
 
-<h>4. Indirect Costs</h>
+4. Indirect Costs
 
 In estimating these implementation costs, we note that market participants who bear the direct costs of the actions they undertake to comply with Rule 15c6-1 may pass these costs on to their customers. For example, retail and institutiona l investors might not directly bear the cost of all of the necessary upgrades for a T+2 settlement cycle, but might indirectly bear these costs as their broker-dealers might increase their fees to amortize the costs of updates among their customers. The Commission is unable to quantify the overall magnitude of the indirect costs that retail and institutiona l investors may bear, because it will depend on the market power of each broker-dealer, and its willingness to pass on the costs of migration to a T+2 standard settlementcycle to their customers. However, the Commission believes that in situations where broker-+ 1,497 broker-dealers reporting as introducing but not self-clearing) = $50,490,000.dealers have little or no competition, broker-dealers may at most pass on the entire cost of the initial investment to their customers. As discussed above, this could be as high as $4.72 million for broker-dealers that serve institutiona l investors, and $8.6 million for broker-dealers that serve retail investors. However, in situations where broker-dealers face heavy competition for customers, broker-dealers may bear the costs of the initial investment entirely, and avoid passing on these costs to their customers.
 
 As noted in Part VI.A above, the ability of market participants to pass implementation costs on to customers likely depends on their relative bargaining power. For example, CCPs, like many other utilities, exhibit many of the characteristics of natural monopolies and, as a result, may have market power, particularly relative to broker-dealers who submit trades forclearing. This means that they may be able to share implementation costs they directly face related to shortening the settlement cycle with broker-dealers through higher clearing fees. Conversely, if institutional investors have market power relative to broker-dealers, broker- dealers may not be in a position to impose indirect costs on them.
 
-<h>5. Industry-Wide Costs</h>
+5. Industry-Wide Costs
 
 To estimate the aggregate, industry-wide cost of a transition to a T+2 standard settlement cycle, the Commission takes its per-entity estimates and multiplies them by its estimate of therespective number of entities. The Commission estimates that there are 965 buy-side firms, 186broker-dealers, and 53 custodian banks. <sup>350</sup> Additiona lly, as noted in Part III.C.1.c above, thereare three Matching/ETC Providers, and 1,683 broker-dealers that will incur investor education costs. One way to establish a total industry initial compliance cost estimate would be to multiply each estimated per-entity cost by the respective number of entities and sum these values, which would result in an estimate of $4.0 billion. <sup>351</sup> The Commission, however, believes that this estimate is likely to overstate the true initial cost of transition to a T+2 settlement cycle for a number of reasons, and thus uses this value as an upper bound for our cost estimates. First, the Commission’s per-entity estimates do not account for the heterogeneity in market participant size, which may have a significant impact on the costs that market participants face. While the SIFMA survey and the BCG Study included both estimates of the number of entities in different size categories as well as estimates of costs that an entity in each size category is likely to incur, it did not provide sufficient underlying information to allow the Commission to estimate the relationship between market participant size and compliance cost and thus the Commissioncannot produce comparable estimates.
 

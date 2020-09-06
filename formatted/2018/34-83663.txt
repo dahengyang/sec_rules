@@ -1,379 +1,3 @@
-https://www.sec.gov/rules/final/2018/34-83663.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Background
-
-	II.A.0.0 Role of ATSs in the Current Equity Market Structure
-
-		II.A.1.0 Significant Source of Liquidity for NMS Stocks
-
-		II.A.2.0 Operational Complexity; Conflict of Interests
-
-	II.B.0.0 Exemption for Alternative Trading Systems
-
-	II.C.0.0 Conditions to the ATS Exemption; Confidential Notice Regime
-
-	II.D.0.0 Concerns Regarding the Lack of Operational Transparency
-
-III.0.0.0 Heightened Regulatory Requirements for NMS Stock ATSs
-
-	III.A.0.0 Exchange Act Rule 3a1-1(a) Exemption: New Conditions for NMS Stock ATSs
-
-		III.A.1.0 Comments on the Rule 304 Requirements; Effectiveness
-
-			III.A.1.a Comments on Form ATS-N Requirement
-
-			III.A.1.b Comments on Effects on ATSs Relative to National Securities Exchanges
-
-			III.A.1.c Comments on Effectiveness Requirement
-
-		III.A.2.0 Comments on Extending Rule 304 to Non-NMS Stock ATSs
-
-	III.B.0.0 Amendments to Existing Regulation ATS Rules for NMS Stock ATSs
-
-		III.B.1.0 Rule 300(k): Definition of NMS Stock ATS
-
-		III.B.2.0 Rule 301(a): Exemption from Compliance with Regulation ATS
-
-		III.B.3.0 Rule 301(a)(5): Exemptions from Certain Requirements of Regulation ATS Pursuant to Application to the Commission
-
-		III.B.4.0 Rule 301(b)(2): Form ATS Reporting Requirements No Longer Apply to NMS Stock ATSs
-
-		III.B.5.0 Rule 301(b)(9): Form ATS-R Quarterly Reports
-
-		III.B.6.0 Rule 303: Recordkeeping Requirements for Form ATS-N
-
-		III.B.7.0 Comments Recommending Changes to Other Existing Regulation ATS Rules
-
-IV.0.0.0 Form ATS-N Filing Process; Effectiveness Review
-
-	IV.A.0.0 Initial Form ATS-N
-
-		IV.A.1.0 Rule 304(a)(1)(i): Filing and Effectiveness Requirement
-
-		IV.A.2.0 Rule 304(a)(1)(ii): Commission Review Period
-
-		IV.A.3.0 Rule 304(a)(1)(iii): Effectiveness; Ineffectiveness Determination
-
-			IV.A.3.a Comments on the Standard of Review to Accept Filings of Form ATS-N
-
-			IV.A.3.b Comments on the Review for Declarations of Ineffectiveness
-
-			IV.A.3.c Effectiveness, Ineffectiveness Process
-
-			IV.A.3.d Effectiveness; Ineffectiveness Determinations under Rule 301(a)(1)(iii)
-
-		IV.A.4.0 Rule 304(a)(1)(iv): Transition for Legacy NMS Stock ATSs
-
-			IV.A.4.a Rule 304(a)(1)(iv)(A): Initial Filing Requirements
-
-			IV.A.4.b Rule 304(a)(1)(iv)(B): Commission Review Period; Ineffectiveness Determination
-
-			IV.A.4.c Rule 304(a)(1)(iv)(C): Amendments to Initial Form ATS-N
-
-	IV.B.0.0 Rule 304(a)(2): Form ATS-N Amendments
-
-		IV.B.1.0 Rule 304(a)(2)(i): Filing Requirements
-
-			IV.B.1.a Material Changes
-
-	IV.D.0.0 to require an NMS Stock ATS to amend its Form ATS-N no later than seven calendar days after a change to the information required to be disclosed in Part III, Items 24 and 25 on Form ATS-N by an NMS Stock ATS (“order display and fair access amendments”). We believe that requiring NMS Stock ATSs to disclose changes to the information required to be disclosed in Part III, Items 24 and 25 of adopted Form ATS-N no later than seven calendar days from such changes will provide sufficient time for NMS Stock ATSs to comply with the requirement, while providing market participants with timely notice.
-
-			IV.D.1.b Updating Amendments
-
-			IV.D.1.c Correcting Amendments
-
-		IV.D.2.0 Rule 304(a)(2)(ii): Commission Review Period; Ineffectiveness Determination
-
-	IV.C.0.0 Rule 304(a)(3): Notice of Cessation
-
-	IV.D.0.0 Rule 304(a)(4): Suspension, Limitation, or Revocation of the Exemption from the Definition of Exchange
-
-	IV.E.0.0 Rule 304(b): Public Disclosure of Form ATS-N and Related Commission Orders
-
-		IV.E.1.0 Rule 304(b)(1): Form ATS-N “Report”
-
-		IV.E.2.0 Rule 304(b)(2): Making Public Form ATS-N Filings and Commission Orders.
-
-			IV.E.2.a Public Disclosure of Effective Initial Form ATS-N, As Amended
-
-			IV.E.2.b Public Disclosure of Orders of an Ineffective Initial Form ATS-N
-
-			IV.E.2.c Public Disclosure of Form ATS-N Amendments
-
-			IV.E.2.d Public Disclosure of Orders of Ineffective Form ATS-N Amendment
-
-			IV.E.2.e Public Disclosure of Notices of Cessation
-
-			IV.E.2.f Public Disclosure of Each Order Suspending, Limiting, or Revoking the Rule 3a1-1(a)(2) Exemption
-
-		IV.E.3.0 Rule 304(b)(3): Disclosure of Form ATS-N on the NMS Stock ATS’s Website
-
-V.0.0.0 Form ATS-N Disclosures
-
-	V.A.0.0 Form ATS-N Disclosure Requirements and Definitions
-
-		V.A.1.0 Rule 304(c): Disclosure Requirements
-
-		V.A.2.0 Terminology
-
-			V.A.2.a Definitions for Form ATS-N
-
-			V.A.2.b Comments on the Definition of “Subscriber”
-
-	V.B.0.0 Cover Page and Part I of Form ATS-N: Identifying Information
-
-		V.B.1.0 Cover Page
-
-		V.B.2.0 Part I of Form ATS-N: Identifying Information
-
-			V.B.2.a Part I: Identifying Information
-
-			V.B.2.b Comments on Proposed Exhibit 1
-
-			V.B.2.c ATS Governance Structure and Compliance Programs and Controls
-
-	V.C.0.0 Part II of Form ATS-N: ATS-Related Activities of the Broker-Dealer Operator and Affiliates
-
-		V.C.1.0 Broker-Dealer Operator and its Affiliate Trading Activities on the NMS Stock ATS
-
-			V.C.1.a Proposed Requests and Response to Comments
-
-			V.C.1.b Adopted Part II, Item 1 and 2 of Form ATS-N; ATS- Related Trading Activities of the Broker-Dealer Operator and its Affiliates
-
-		V.C.2.0 Order Interaction with Broker-Dealer Operator; Affiliates
-
-		V.C.3.0 Arrangements with Trading Centers
-
-		V.C.4.0 Other Products and Services
-
-		V.C.5.0 Activities of Service Providers
-
-			V.C.5.a Shared Employees
-
-			V.C.5.b Third-Party Service Providers
-
-		V.C.6.0 Protection of Confidential Trading Information
-
-		V.C.7.0 Differences in Availability of Services, Functionalities, or Procedures
-
-		V.C.8.0 Other Recommendations from Commenters
-
-	V.D.0.0 Part III Form ATS-N: Manner of ATS Operations
-
-		V.D.1.0 Types of ATS Subscribers
-
-		V.D.2.0 Eligibility for ATS Services
-
-		V.D.3.0 Exclusion from ATS Services
-
-		V.D.4.0 Hours of Operations
-
-		V.D.5.0 Means of Entry
-
-		V.D.6.0 Connectivity and Co-location
-
-		V.D.7.0 Order Types and Attributes
-
-		V.D.8.0 Order Sizes
-
-		V.D.9.0 Conditional Order and Indications of Interest
-
-		V.D.10.0 Opening and Reopening
-
-		V.D.11.0 Trading Services, Facilities and Rules
-
-		V.D.16.0 See Regulation ATS Adopting Release, supra note at 70849. The Commission emphasized in the Regulation ATS Adopting Release that the mere interpositioning of a designated counterparty as riskless principal for settlement purposes after the purchasing and selling counterparties to a trade have been matched would not, by itself, mean that the system does not have multiple buyers and sellers. See id.
-
-		V.D.1.0 Liquidity Providers
-
-		V.D.2.0 Segmentation; Notice
-
-		V.D.3.0 Counter-Party Selection
-
-		V.D.20.0 As discussed in Part III, Item 3 of adopted Form ATS-N above, any procedures related to counter-party selection would be responsive to this item (Part III, Item 14 of adopted Form ATS-N).
-
-		V.D.1.0 Display
-
-		V.D.2.0 Routing
-
-		V.D.3.0 Closing
-
-		V.D.4.0 Trading Outside of Regular Trading Hours
-
-		V.D.5.0 Fees
-
-		V.D.6.0 Suspension of Trading
-
-		V.D.7.0 Trade Reporting
-
-		V.D.8.0 Clearance and Settlement
-
-		V.D.9.0 Market Data
-
-		V.D.10.0 Order Display and Execution Access
-
-		V.D.11.0 Fair Access
-
-		V.D.12.0 Aggregate Platform-Wide Data; Trading Statistics
-
-			V.D.12.a Disseminated Aggregated Platform-Wide Data
-
-			V.D.12.b Other Standardized Statistical Disclosures
-
-VI.0.0.0 Amendments to Rule 301(b)(10) and Rule 303(a)(1) for Written Safeguards and Written Procedures to Protect Confidential Trading Information
-
-VII.0.0.0 EDGAR Filing Requirements; Structured Data
-
-VIII.0.0.0 Effective Date and Compliance Date
-
-IX.0.0.0 Paperwork Reduction Act
-
-	IX.A.0.0 Summary of Collection of Information
-
-		IX.A.1.0 Requirements Relating to Rule 301(b)(10) and 303(a)(1) of Regulation ATS
-
-		IX.A.2.0 Requirements Relating to Rules 301(b)(2)(viii) and 304 of Regulation ATS, including Form ATS-N
-
-	IX.B.0.0 Proposed Use of Information
-
-		IX.B.1.0 Amendments to Rule 301(b)(10) and 303(a)(1) of Regulation ATS
-
-		IX.B.2.0 Rules 301(b)(2)(viii), 304 of Regulation ATS, Including Form ATS-N, and 301(b)(9)
-
-	IX.C.0.0 Respondents
-
-	IX.D.0.0 Total Initial and Annual Reporting and Recordkeeping Burdens
-
-		IX.D.1.0 Rules 301(b)(10) and 303(a)(1)(v) of Regulation ATS
-
-			IX.D.1.a Baseline Measurements
-
-			IX.D.1.b Burdens
-
-		IX.D.2.0 Rules 301(b)(2)(viii) and 304 of Regulation ATS, including Form ATS-N
-
-			IX.D.2.a Baseline Measurements
-
-			IX.D.2.b Burdens
-
-			IX.D.2.a Part I
-
-			IX.D.2.b Part II
-
-			IX.D.2.c Part III
-
-			IX.D.2.a Initial Form ATS-N
-
-			IX.D.2.b Form ATS-N Amendments
-
-			IX.D.2.c Notice of Cessation on Form ATS- N
-
-	IX.E.0.0 Collection of Information is Mandatory
-
-	IX.F.0.0 Confidentiality of Responses to Collection of Information
-
-	IX.G.0.0 Retention Period for Recordkeeping Requirements
-
-X.0.0.0 Economic Analysis
-
-	X.A.0.0 Background
-
-	X.B.0.0 Baseline
-
-		X.B.1.0 Current NMS Stock ATSs
-
-		X.B.2.0 Current Reporting Requirements For NMS Stock ATSs
-
-		X.B.3.0 Lack of Standardized Public Disclosure
-
-		X.B.4.0 NMS Stock ATS Treatment of Subscriber Confidential Trading Information
-
-		X.B.5.0 Competition
-
-			X.B.5.a Competition Between NMS Stock ATSs And Registered National Securities Exchanges
-
-			X.B.5.b Competition Among NMS Stock ATSs
-
-			X.B.5.c Competition Between Broker-Dealers That Operate NMS Stock ATSs And Broker-Dealers That Do Not Operate NMS Stock ATSs
-
-		X.B.6.0 Effect of NMS Stock ATSs on the Current Market for NMS Stock Execution Services
-
-			X.B.6.a Trading Costs
-
-			X.B.6.b Price Discovery
-
-			X.B.6.c Market Efficiency
-
-	X.C.0.0 Economic Effects and Effects on Efficiency, Competition, and Capital Formation
-
-		X.C.1.0 Economic Effects of Enhanced Filing Requirements of Form ATS-N
-
-			X.C.1.a Benefits
-
-			X.C.1.b Costs
-
-		X.C.2.0 Economic Effects of Public Disclosure of Form ATS-N
-
-			X.C.2.a Benefits
-
-			X.C.2.b Costs
-
-		X.C.3.0 Economic Effects of Written Safeguards and Written Procedures to Protect Subscribers’ Confidential Trading Information, and Recordkeeping Requirements
-
-			X.C.3.a Benefits
-
-			X.C.3.b Costs
-
-		X.C.4.0 Impact on Efficiency, Competition, and Capital Formation
-
-			X.C.4.a Competition
-
-			X.C.4.a Enhanced Filing Requirements of Form ATS-N
-
-			X.C.4.b Implementation and Ongoing Compliance Costs
-
-			X.C.4.c Public Disclosure of Form ATS-N
-
-			X.C.4.b Efficiency
-
-			X.C.4.c Capital Formation
-
-	X.D.0.0 Reasonable Alternatives
-
-		X.D.1.0 Require NMS Stock ATSs to Publicly Disclose Current Form ATS
-
-		X.D.2.0 Require Form ATS-N But Deem Information Confidential
-
-		X.D.3.0 Require NMS Stock ATSs to Publicly Disclose Form ATS-N But Not Declare Form ATS-N Ineffective
-
-		X.D.4.0 Initiate Differing Levels of Public Disclosure Depending on NMS Stock ATS Characteristics
-
-		X.D.5.0 Require NMS Stock ATSs to Register as National Securities Exchanges and Become SROs
-
-		X.D.6.0 Discontinue Quarterly Volume Reports on Form ATS-R
-
-		X.D.7.0 Require NMS Stock ATSs to Operate as Limited Purpose Entities
-
-		X.D.8.0 Prohibit Broker-Dealer Operators and Affiliates from Trading on the NMS Stock ATS
-
-		X.D.9.0 Lower the Fair Access Threshold for NMS Stock ATSs
-
-		X.D.10.0 Requirements to Disclose Aggregate Platform-Wide Order Flow and Execution Statistics to all Subscribers
-
-		X.D.11.0 Specify Alternative Structured Formats for Form ATS-N
-
-		X.D.12.0 Specify Other Filings Methods for Form ATS-N
-
-XI.0.0.0 Regulatory Flexibility Act Certification
-
-XII.0.0.0 Statutory Authority and Text of Amendments
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 232, 240, 242, and 249
@@ -1324,7 +948,7 @@ In the Proposal, we stated that if an NMS Stock ATS triggers the Rule 301(b)(3)(
 
 Under Rule 304(a)(i)(2)(A), an NMS Stock ATS is required to file a material amendment at least 30 calendar days prior to the date of implementation of a material change. We continue to believe that it generally would be a material change to the operations of an NMS Stock ATS ifthe ATS were to exceed the order display and execution access threshold or become subject to the order display and execution access requirements under Rule 301(b)(3). Likewise, we continue to believe that it generally would be a material change to the operations of an NMS Stock ATS if the ATS were to exceed the fair access threshold or become subject to the order display and execution access requirements under Rule 301(b)(5). We recognize, however, that an NMS Stock ATS may not be able to comply with the 30-calendar day advance notice period for material amendments because the ATS may not be able to foresee when it will exceed the order display and execution access or fair access volume thresholds. To provide market participants with information about when an NMS Stock ATS becomes subject to, or no longer is subject to, the order display and execution access and fair access requirements, while not placing an undue burden on the NMS Stock ATS, we are adding to Rule 304(a)(2)(i) new subparagraph
 
-<h>D. to require an NMS Stock ATS to amend its Form ATS-N no later than seven calendar days after a change to the information required to be disclosed in Part III, Items 24 and 25 on Form ATS-N by an NMS Stock ATS (“order display and fair access amendments”). We believe that requiring NMS Stock ATSs to disclose changes to the information required to be disclosed in Part III, Items 24 and 25 of adopted Form ATS-N no later than seven calendar days from such changes will provide sufficient time for NMS Stock ATSs to comply with the requirement, while providing market participants with timely notice.</h>
+D. to require an NMS Stock ATS to amend its Form ATS-N no later than seven calendar days after a change to the information required to be disclosed in Part III, Items 24 and 25 on Form ATS-N by an NMS Stock ATS (“order display and fair access amendments”). We believe that requiring NMS Stock ATSs to disclose changes to the information required to be disclosed in Part III, Items 24 and 25 of adopted Form ATS-N no later than seven calendar days from such changes will provide sufficient time for NMS Stock ATSs to comply with the requirement, while providing market participants with timely notice.
 
 <h>b. Updating Amendments</h>
 
@@ -2058,9 +1682,7 @@ Part IV, Item 7 of proposed Form ATS-N would have required disclosures regarding
 
 Regulation ATS Adopting Release and restated in the Proposal, <sup>925</sup> we explained that an ATS brings together orders when orders entered into the system for a given security have the opportunity to interact with other orders entered into the system for the same security. <sup>926</sup> An ATS can bring together orders through various methods. For instance, a system brings together orders if it displays, or otherwise represents, trading interests entered on the system, such as a consolidated quote screen, to system users. <sup>927</sup> A system also brings together orders if it receives subscribers’ orders centrally for future processing and execution, such as part of a limit order matching book that allows subscribers to display buy and sell orders in particular securities and to obtain execution against matching orders contemporaneously entered or stored in the system. <sup>928</sup> As explained above, to qualify for the Rule 3a1-1(a)(2) exemption from the statutory definition of “exchange,” an ATS must, among other things, bring together the orders of multiple buyers and sellers . <sup>929</sup>
 
-As discussed in the Proposal, ATSs that trade NMS stocks may offer subscribers various types of trading mechanisms. <sup>930</sup> For example, many ATSs bring together multiple buyers and sellers using limit order matching systems. Other ATSs use crossing mechanisms that allow participants to enter unpriced orders to buy and sell securities, with the ATS’s system crossing
-
-<h>16. See Regulation ATS Adopting Release, supra note at 70849. The Commission emphasized in the Regulation ATS Adopting Release that the mere interpositioning of a designated counterparty as riskless principal for settlement purposes after the purchasing and selling counterparties to a trade have been matched would not, by itself, mean that the system does not have multiple buyers and sellers. See id.orders at specified times at a price derived from another market. <sup>931</sup> Some ATSs use an auction mechanism that matches multiple buyers and sellers by first pausing execution in a certain security for a set amount of time, during which the ATS’s system seeks out and/or concentrates liquidity for the auction; after the trading pause, orders will execute at either a single auction price or according to the priority rules for the auction’s execution. Furthermore, some ATSs use a blotter scraping functionality, which may inform the ATS’s system about the orders placed on a participant’s order management system, but not yet entered into the ATS; the ATS or broker- dealer operator oftentimes can automatically generate those orders and enter them into the ATS on behalf of the subscriber, in accordance with the relevant terms and conditions, when certain contra-side trading interest exists in the ATS.</h>
+As discussed in the Proposal, ATSs that trade NMS stocks may offer subscribers various types of trading mechanisms. <sup>930</sup> For example, many ATSs bring together multiple buyers and sellers using limit order matching systems. Other ATSs use crossing mechanisms that allow participants to enter unpriced orders to buy and sell securities, with the ATS’s system crossing orders at specified times at a price derived from another market. <sup>931</sup> Some ATSs use an auction mechanism that matches multiple buyers and sellers by first pausing execution in a certain security for a set amount of time, during which the ATS’s system seeks out and/or concentrates liquidity for the auction; after the trading pause, orders will execute at either a single auction price or according to the priority rules for the auction’s execution. Furthermore, some ATSs use a blotter scraping functionality, which may inform the ATS’s system about the orders placed on a participant’s order management system, but not yet entered into the ATS; the ATS or broker- dealer operator oftentimes can automatically generate those orders and enter them into the ATS on behalf of the subscriber, in accordance with the relevant terms and conditions, when certain contra-side trading interest exists in the ATS.
 
 We continue to believe that it would be useful to market participants to be availed information about the trading facilities, functionalities, and mechanisms offered by an NMS Stock ATS to evaluate whether the operations of the NMS Stock ATS comports with their trading and investment strategies. Part III, Item 11(a) of adopted Form ATS-N is consistent with Part IV, Item 7(a) of proposed Form ATS-N; however, we are limiting the request to require NMS Stock ATSs to provide only a summary of the structure of the NMS Stock ATS marketplace. <sup>932</sup> The summary is designed to provide market participants with a brief overview of the type of market the ATS operates, such as a limit order book, auction market, or crossing system, in a more concise manner. This Item requires more detailed responses when explaining the means and facilities for bringing together the orders of multiple buyers and sellers on the
 
@@ -2132,9 +1754,7 @@ Finally, we are requiring under Part III, Item 13(d) of adopted Form ATS-N that 
 
 <h>3. Counter-Party Selection</h>
 
-Part IV, Item 5(c) of proposed Form ATS-N would have required disclosures regarding order preferencing. The Commission did not receive specific comment on Part IV, Item 5(c) of proposed Form ATS-N. <sup>977</sup> We are adopting Part IV, Item 5(c) as Part III, Item 14 (“Counter- Party Selection”) of adopted Form ATS-N and adding examples of counter-party selection in a parenthetical in the Item. Market participants have an interest in knowing whether – and how – they may designate their orders or trading interest to interact or avoid interacting with specific orders, trading interest, or persons on an NMS Stock ATS. For instance, the disclosures required
-
-<h>20. As discussed in Part III, Item 3 of adopted Form ATS-N above, any procedures related to counter-party selection would be responsive to this item (Part III, Item 14 of adopted Form ATS-N).under this Item would allow a market participant to know whether it could designate an order submitted to the NMS Stock ATS to interact with specific orders resting in the NMS Stock ATS.</h>
+Part IV, Item 5(c) of proposed Form ATS-N would have required disclosures regarding order preferencing. The Commission did not receive specific comment on Part IV, Item 5(c) of proposed Form ATS-N. <sup>977</sup> We are adopting Part IV, Item 5(c) as Part III, Item 14 (“Counter- Party Selection”) of adopted Form ATS-N and adding examples of counter-party selection in a parenthetical in the Item. Market participants have an interest in knowing whether – and how – they may designate their orders or trading interest to interact or avoid interacting with specific orders, trading interest, or persons on an NMS Stock ATS. For instance, the disclosures required under this Item would allow a market participant to know whether it could designate an order submitted to the NMS Stock ATS to interact with specific orders resting in the NMS Stock ATS.
 
 <h>1. Display</h>
 
@@ -2460,15 +2080,15 @@ We recognize that Rules 301(b)(2)(viii) and 304 of Regulation ATS, including For
 
 Form ATS does not require some form of the disclosure). Section IX.D.2.b.ii aggregates these new burdens and the additional burdens above the current Form ATS baseline that will be imposed by Form ATS-N.
 
-A nalysis of Estimated Additional Burden for Form ATS-N
+Analysis of Estimated Additional Burden for Form ATS-N
 
-<h>a. Part I</h>
+a. Part I
 
 In the Proposal, we estimated that preparing Parts I and II for a Form ATS-N would add0.5 hours to the current baseline for an NMS Stock ATS to prepare an initial operation report on(October 8, 2004).current Form ATS. <sup>1139</sup> Part I of adopted Form ATS-N contains substantially the same information as Parts I and II of proposed Form ATS-N. However, adopted Form ATS-N does not include several proposed disclosure requirements and contains several new requests.
 
 Overall, we estimate that the burden for Part I of adopted Form ATS-N will be the same as that which was estimated for proposed Form ATS-N. Accordingly, we estimate that Part I of adopted Form ATS-N will add an additional 0.5 hours above the baseline of current Form ATS.
 
-<h>b. Part II</h>
+b. Part II
 
 As explained above, Part II, Items 1 and 2 contain disclosure requests about the broker- dealer operator’s and affiliates’, respectively, trading activity on the NMS Stock ATS. For Part II, Item 1(a), to the extent that the broker-dealer operator is not permitted to enter or direct orders and trading interest to the NMS Stock ATS, the NMS Stock ATS would only be required to check “no.” In addition, to the extent the broker-dealer operator enters or directs the entry of orders and trading interest into the NMS Stock ATS, but such orders and trading interest is treated the same as trading interest from other subscribers and persons, Part II, Item 1(b) would require that the NMS Stock ATS check “no.”
 
@@ -2530,7 +2150,7 @@ Item 7 of adopted Form ATS-N is similar to Part III, Item 10 of proposed Form AT
 
 Part II, Item 7(d) reduces the level of detail from that which was proposed and the other requests from proposed Part III, Item 10 are unchanged in adopted Form ATS-N, we estimate that the burden for Part II, Item 7 of adopted Form ATS-N is less than that which was proposed by 0.5 hours. In the Proposal, we estimated that Part III, Item 10 would add 2 hours to the baseline for an NMS Stock ATS to complete this item. <sup>1172</sup> Accordingly, we estimate that, on average, preparing Part II, Item 7 for a Form ATS-N would add 1.5 hours above the current baseline for an initial operation report on current Form ATS. This would result in an aggregate initial burden of 61.5 hours above the current baseline for all NMS Stock ATSs to complete Item 7 of Part II of Form ATS-N. <sup>1173</sup>
 
-<h>c. Part III</h>
+c. Part III
 
 Part III, Item 1 of adopted Form ATS-N is based on Part IV, Item 1(c) of proposed Form ATS-N, although certain information from the proposed item is not required to be disclosed in this item. Specifically, the requirement to describe any criteria for distinguishing among types of subscribers, classes of subscribers, or other persons is being removed from the item because such information is covered under Part III, Item 13 of adopted Form ATS-N on “Segmentation; Notice.” <sup>1174</sup> Moreover, the required information on whether the NMS Stock ATS accepts non- broker-dealers as subscribers to the ATS is being converted to a “yes” or “no” question and placed in Part III, Item 2 of adopted Form ATS-N.
 
@@ -2630,17 +2250,15 @@ ATS), the NMS Stock ATS would not have been in operation for at least four month
 
 Triggering the 5% threshold, a precondition necessary to require completion of Part III, Items 24 and 25 of Form ATS-N, currently occurs, and we estimate would continue to occur, very infrequently. Based on the review of Form ATS and Form ATS-R disclosures by the Commission and its staff, we estimate that 1 NMS Stock ATS would have to complete Item 24, and 2 NMS Stock ATSs would have to complete Item 25 in any given year. Accordingly, we estimate that the disclosures that would be required under Part III, Items 24 and 25 of adopted Form ATS-N would result in an aggregate initial burden of 15 hours above the current baseline. <sup>1225</sup>
 
-Part III, Item 26 of adopted Form ATS-N corresponds with of Part IV, Item 16 of proposed Form ATS-N. An NMS Stock ATS will not be required to develop or publish any new statistics for purposes of making the required disclosures under Item 26. It is only be required to make the disclosures for statistics it already otherwise publishes or provides in the course of its operations. Thus, NMS Stock ATSs that do not publish or otherwise provide aggregateplatform-wide market quality statistics, other than those currently required under Rule 605 of Regulation NMS, would not incur any additional burden due to the adopted disclosure request under Item 26. For NMS Stock ATSs that do publish or provide such statistics, Item 26 imposes an additional burden above the baseline because current Form ATS does not require the disclosure of market quality statistics. In the Proposal, we estimated that preparing Part IV, Item 16 of proposed Form ATS-N would add 7 hours to the current baseline for an initial operation report on current Form ATS. <sup>1226</sup> Part III, Item 26 of adopted Form ATS-N is substantially the same as Part IV, Item 16 of proposed Form ATS-N. Therefore, as adopted, we still estimate that preparing Part III, Item 26 will add 7 hours to the current baseline for an initial operation report on current Form ATS. This will result in an aggregate initial burden of 287 hours above thecurrent baseline for all NMS Stock ATSs to complete Part III, Item 26 of adopted Form ATS-
+Part III, Item 26 of adopted Form ATS-N corresponds with of Part IV, Item 16 of proposed Form ATS-N. An NMS Stock ATS will not be required to develop or publish any new statistics for purposes of making the required disclosures under Item 26. It is only be required to make the disclosures for statistics it already otherwise publishes or provides in the course of its operations. Thus, NMS Stock ATSs that do not publish or otherwise provide aggregateplatform-wide market quality statistics, other than those currently required under Rule 605 of Regulation NMS, would not incur any additional burden due to the adopted disclosure request under Item 26. For NMS Stock ATSs that do publish or provide such statistics, Item 26 imposes an additional burden above the baseline because current Form ATS does not require the disclosure of market quality statistics. In the Proposal, we estimated that preparing Part IV, Item 16 of proposed Form ATS-N would add 7 hours to the current baseline for an initial operation report on current Form ATS. <sup>1226</sup> Part III, Item 26 of adopted Form ATS-N is substantially the same as Part IV, Item 16 of proposed Form ATS-N. Therefore, as adopted, we still estimate that preparing Part III, Item 26 will add 7 hours to the current baseline for an initial operation report on current Form ATS. This will result in an aggregate initial burden of 287 hours above thecurrent baseline for all NMS Stock ATSs to complete Part III, Item 26 of adopted Form ATS-N. <sup>1227</sup>
 
-N. <sup>1227</sup>
+Estimated Burden above the Current Baseline for an Initial Form ATS-N, Form ATS-N Amendment, and Notice of Cessation on Form ATS-N
 
-E stimated Burden above the Current Baseline for an Initial Form ATS-N, Form ATS-N Amendment, and Notice of Cessation on Form ATS-N
-
-<h>a. Initial Form ATS-N</h>
+a. Initial Form ATS-N
 
 Based on the above analysis, we estimate that an initial Form ATS-N will, on average, require approximately 107.4 burden hours above the baseline for an initial operation report on current Form ATS. This results in an estimated 127.4 hours in total, including the currentbaseline . <sup>1228</sup> ATSs that trade NMS stocks vary in terms of their structure, the manner in which they operate, and the depth and extent of their disclosures on Form ATS. Consequently, we believe that the estimated hour burden regarding Form ATS-N will likely vary among NMS Stock ATSs, depending on such factors as the extent of their current disclosures on Form ATS, the complexity and structure of their system, and the extent of their other broker-dealer or affiliate activities.
 
-<h>b. Form ATS-N Amendments</h>
+b. Form ATS-N Amendments
 
 As previously noted, we estimate that ATSs that trade NMS stocks submit <sup>2</sup> amendments on Form ATS, on average, each year. <sup>1229</sup> In the Proposal we estimated that the 46 respondents would file 3 Form ATS-N amendments each year, for an estimated total of 138 Form ATS-N amendments. <sup>1230</sup>
 
@@ -2652,13 +2270,13 @@ With respect to Form ATS-N amendments, one commenter expresses concern that due 
 
 Therefore, we continue to believe that the requirements for Form ATS-N amendments will add 3 hours above the current baseline of 6 hours for amendments to Form ATS, as set forth in the Proposal. We estimate that the 41 respondents will file 3 Form ATS-N amendments eachyear, for a total of <sup>123</sup> Form ATS-N amendments. <sup>1239</sup> In addition, an NMS Stock ATS must provide a brief summary of the amendment at the top of Form ATS- N . <sup>1240</sup> As proposed, an NMS Stock ATS would have been required to submit two redlines – Exhibit 3A to show changes to Part III of proposed Form ATS-N and Exhibit 4A to show changes to Part IV of proposed Form ATS-
 
-N. We estimated that the requirement would create an additional burden of 0.5 hours to draft the summary and create the redline(s). <sup>1241</sup> Adopted Form ATS-N requires NMS Stock ATSs to submit as Exhibit 3 one marked document that indicates changes to “yes” or “no” answers or additions to or deletions to both Part I, Parts II, and III. We believe that requiring a single marked document rather than two separate documents will reduce the filing burden on ATSs, and that requiring a marked document for changes to Part I would impose minimal burden, and therefore we estimate that this requirement would add an additional burden of 0.4 hours to draft the summary and prepare the marked documents showing the amendments the NMS Stock ATS is making. <sup>1242</sup> This would result in a total estimated hourly burden, including the baseline, of 9.4 hours for a Form ATS-N amendmen t , <sup>1243</sup> and an aggregate annual burden on all NMS Stock ATSs of 1,156.2 hours. <sup>1244</sup>
+N. We estimated that the requirement would create an additional burden of 0.5 hours to draft the summary and create the redline(s). <sup>1241</sup> Adopted Form ATS-N requires NMS Stock ATSs to submit as Exhibit 3 one marked document that indicates changes to “yes” or “no” answers or additions to or deletions to both Part I, Parts II, and III. We believe that requiring a single marked document rather than two separate documents will reduce the filing burden on ATSs, and that requiring a marked document for changes to Part I would impose minimal burden, and therefore we estimate that this requirement would add an additional burden of 0.4 hours to draft the summary and prepare the marked documents showing the amendments the NMS Stock ATS is making. <sup>1242</sup> This would result in a total estimated hourly burden, including the baseline, of 9.4 hours for a Form ATS-N amendment , <sup>1243</sup> and an aggregate annual burden on all NMS Stock ATSs of 1,156.2 hours. <sup>1244</sup>
 
 Under the Proposal, a Legacy NMS Stock ATS would have continued to operate pursuant to its existing Form ATS initial operation report pending our review of the Legacy NMS Stock ATS’s filed Form ATS-N and would have been required to continue filing amendments on Form
 
 ATS to provide notice of changes to the operations of its system. <sup>1245</sup> Adopted Rule 304(a)(1)(iv)(C) requires a Legacy NMS Stock ATS to amend its Form ATS-N to notify the Commission of operational changes during the review period. <sup>1246</sup> We believe that if a Legacy NMS Stock ATS had been required to file amendments to Form ATS during the Commission review period, the Legacy NMS Stock ATS would have also complied with the requirements of Rule 304 by amending its Form ATS-N to reflect such changes disclosed in such Form ATS amendments. During the Commission review period, the Legacy NMS Stock ATS would have, therefore, submitted amendments to both Form ATS and Form ATS-N. Although we are now requiring that a Legacy NMS Stock ATS amend its Form ATS-N during the review period rather than its Form ATS, this requirement does not change our estimates of the aggregate burden hours for filing amendments. Although a Legacy NMS Stock ATS will be required to amend Form ATS-N, which requires greater detail and a larger number of disclosures than Form ATS, the Legacy NMS Stock ATS will no longer need to file a Form ATS amendment during the review period and a Form ATS-N amendment to reflect changes disclosed in such Form ATS-N amendments.
 
-<h>c. Notice of Cessation on Form ATS- N</h>
+c. Notice of Cessation on Form ATS-N
 
 From January 2014 through March 2018, an average of 9 ATSs that trade NMS stocks ceased operations each year. <sup>1247</sup> Although it is unclear how many NMS Stock ATSs might cease operations each year going forward, for purposes of providing a PRA burden estimate, we are estimating that this average would generally remain the same for NMS Stock ATSs using Form
 
@@ -2666,7 +2284,7 @@ ATS-N because economic conditions, business reasons, and other factors may cause
 
 Accordingly, we estimate that the average compliance burden for each respondent will be 2 hours. <sup>1249</sup> This will result in an aggregate annual burden of 18 hours for all NMS Stock ATSs that choose to cease operations and submit a cessation of operation report on Form ATS-N. <sup>1250</sup>
 
-A TSs that Trade Both NMS and Non-NMS Stocks
+ATSs that Trade Both NMS and Non-NMS Stocks
 
 ATSs that trade both NMS stocks and non-NMS stocks would incur: (1) the above baseline burdens related to filing a Form ATS-N and Form ATS-N amendments; <sup>1251</sup> (2) the additional burden of filing a new Form ATS to only disclose information related to non-NMS stock trading activity on the ATS; <sup>1252</sup> and (3) the burden of completing and filing two Forms ATS-R. We received no comment on the estimated burden set forth in the Proposal for ATSs to separately file a Form ATS for its non-NMS stock trading activity and Form ATS-N for its NMSstock trading activity. <sup>1253</sup> We continue to believe that the average estimated burden set forth in the Proposal is a reasonable estimate of the additional burden. Accordingly, we estimate that the total hourly burden for an ATS to separately file a Form ATS for its non-NMS stock trading activity and Form ATS-N for its NMS stock trading activity will be 20 burden hours to amend its initial operation report on Form ATS for its non-NMS stock trading activity and 127.4 burden hours to file its initial Form ATS-N. The estimated hour burden related to the initial operation report submission on Form ATS for non-NMS stock trading activity may be less than the estimated 20 burden hours, as, to the extent the NMS Stock ATS in question is currently operating, the description of its non-NMS stock trading activity should already be contained in its existing Form ATS. <sup>1254</sup> As previously noted, there are currently 10 ATSs that trade, or have indicated that they expect to trade, in Exhibit B to their Form ATS, both NMS stocks and non- NMS stocks on the ATS. Consequently, we estimate that the aggregate initial burden on ATSs to file these separate forms would be 1,774 hours, and the aggregate annual burden for filing amendments to both forms would be 402 hours . <sup>1255</sup>
 
@@ -2674,7 +2292,7 @@ We estimate that the total burden for completing and filing two Forms ATS-R woul
 
 ATS-R. <sup>1257</sup> We believe that ATSs required to file two Forms ATS-R will incur an additional burden above the baseline because they would be required to divide their trading statistics between two forms and file each form separately. We do not believe that those ATSs will incur any additional burden to collect the required information because they currently assemble that information when preparing their current Form ATS-R filings. As previously noted, there are currently 10 ATSs that trade, or have indicated that they expect to trade in Exhibit B to their Form ATS, both NMS stocks and non-NMS stocks on the ATS; those ATSs would be required to file a pair of Forms ATS-R four times annually. Consequently, we estimate that the aggregate annual burden of filing two Forms ATS-R for those ATS that effect transactions in both NMS stocks and non-NMS stocks would be 180 hours . <sup>1258</sup>
 
-A ccess to EDGAR
+Access to EDGAR
 
 The Proposal contemplated the use of an online filing system, the EFFS, but the adopted amendments to Regulation ATS will require NMS Stock ATSs to submit certain Form ATS-N filings through the Commission’s EDGAR system. Based on the widespread use and availability of the Internet, we believe that filing Form ATS-N in an electronic format will be a less burdensome and more efficient filing process for NMS Stock ATSs and the Commission, as it is likely to be less expensive and cumbersome than mailing and filing paper forms to the Commission. <sup>1259</sup>
 
@@ -2682,7 +2300,7 @@ For a Form ATS-N filer to gain access to make filings on the EDGAR system, the f
 
 Rule 304(b)(3) will require each NMS Stock ATS to make public via posting on the NMS Stock ATS’s website, a direct URL hyperlink to the Commission’s website that contains the documents enumerated in Rule 304(b)(2). We estimate that each NMS Stock ATS will incur an initial, one-time burden to program and configure its website to post the required direct URL hyperlink pursuant to Rule 304(b)(3). We estimate that this initial, one-time burden would be approximately 2 hours, in part because many broker-dealer operators currently maintain a website for their NMS Stock ATSs. <sup>1262</sup> This is unchanged from the estimate set forth in the Proposal. <sup>1263</sup> We estimate that the aggregate initial, one-time burden will be approximately 82 hours. <sup>1264</sup>
 
-R ecordkeeping Requirements
+Recordkeeping Requirements
 
 Because NMS Stock ATSs that solely trade NMS stocks will file Form ATS-N in lieu of Form ATS, we believe that the amendment to Rule 303(a)(2)(ii) will not result in any burden for those ATSs that are not already accounted for under the current baseline burden estimate for Rule <sup>303</sup> . <sup>1265</sup> The estimated burden under amended Rule 303(a)(2)(ii) for each ATS is the same as in the Proposal. <sup>1266</sup> For the 10 ATSs that transact in, or have indicated in Exhibit B to their Forms ATS that they expect to trade both NMS stock and non-NMS stock on their respective ATSs, we estimate that the burden above the current baseline estimate for preserving recordsrelating to compliance with the amendment to Rule 303(a)(ii) will be, consistent with the estimate in the proposing release, approximately 3 hours annually per ATS for a total annual burden above the current baseline burden estimate of 30 hours for all respondents. <sup>1267</sup> Accordingly, we are modifying the PRA burden estimate for Rule 303 to account for the increased burden on ATSs that trade both NMS stock and non-NMS stock.
 
@@ -3012,7 +2630,7 @@ Commenters did not provide any additional information or analysis that would all
 
 The subsections below discuss how various elements of the adopted amendments could potentially affect the barriers to entry for new entities seeking to act as ATSs and the decision of Legacy NMS Stock ATSs to continue or cease operating as ATSs in the market for NMS stock execution services, including: the enhanced filing requirements of Form ATS-N, the implementation and ongoing compliance costs associated with the adopted amendments, and the public disclosure of previously non-public information required on Form ATS-N.
 
-<h>a. Enhanced Filing Requirements of Form ATS-N</h>
+a. Enhanced Filing Requirements of Form ATS-N
 
 The filing requirements of Form ATS-N will impose costs on NMS Stock ATSs. An ineffectiveness declaration would impose costs on an NMS Stock ATS—such as costs from having to cease operations, roll back a change in operations, or delay the start of operations—and could impose costs on the overall market for NMS stock execution services resulting from a potential reduction in competition or the removal of a sole provider of a niche service within the market. The adopted amendments to Regulation ATS might beget uncertainty as to whether an NMS Stock ATS’s Form ATS-N will be declared ineffective. <sup>1469</sup> Greater uncertainty surrounding this process might act as a deterrent for potential ATSs wishing to effecttransactions in NMS stocks, which could raise barriers for potential new entrants to the market for NMS stock execution services.
 
@@ -3022,13 +2640,13 @@ The Commission could also declare amendments to an effective Form ATS-N ineffect
 
 The adopted amendments might also potentially raise the barriers to entry for new entities seeking to act as ATSs in the market for NMS stock execution service by delaying the start of operations for new NMS Stock ATSs. Currently, to comply with Regulation ATS, an entity seeking to operate as an ATS must, among other things, file an initial operation report with the Commission on Form ATS at least 20 days before commencing operations. <sup>1473</sup> Under the adopted amendments, an entity seeking to operate as an ATS in the market for NMS stock execution services could not commence operations until its initial Form ATS-N became effective, which could occur 120 calendar days after initially filing Form ATS-N with the Commission or at the end of the extended Commission review period. <sup>1474</sup> Additionally, the disclosures required by Form ATS-N would be more comprehensive and require significantly more detail than those required on current Form ATS, which in turn could also delay the start of operations for new NMS Stock ATSs.
 
-<h>b. Implementation and Ongoing Compliance Costs</h>
+b. Implementation and Ongoing Compliance Costs
 
 As explained above, NMS Stock ATSs will incur both implementation and ongoing costs to meet the regulatory requirements under Rule 304. <sup>1475</sup> On the margin, if these costs outweigh the benefits of operating an NMS Stock ATS, they could act as a deterrent for potential ATSs wishing to effect transactions in NMS stocks or cause some Legacy NMS Stock ATSs to cease operating as an ATS. However, we do not believe that the implementation and ongoing costs are significant enough to make this a likely possibility.
 
 The implementation and ongoing costs associated with filing Form ATS-N could also differentially affect small and large NMS Stock ATSs. As Table 1 shows, there is a significant degree of difference in the size of NMS Stock ATSs, when measured by dollar or share volume. We believe that the estimated implementation cost is a fixed cost that would be roughly similar across NMS Stock ATSs, regardless of their dollar volume size; this implies that implementation costs will represent a larger fraction of revenue generated on a small NMS Stock ATS relative to that percentage on a large NMS Stock ATS. If the costs associated with filing Form ATS-N become disproportionately greater for smaller volume NMS Stock ATSs, some of these Legacy NMS Stock ATSs might be more likely to cease operating as ATSs. However, if the NMS Stock ATSs that decide to cease operating as ATSs due to this fixed implementation cost only transact small dollar (or share) volume, there may not be a large impact on the overall competitive structure for remaining NMS Stock ATSs. Moreover, the order flow that was being traded on these small NMS Stock ATSs might be absorbed and redistributed amongst these larger remaining NMS Stock ATSs. On the other hand, if the implementation costs cause a small NMS Stock ATS that is the sole provider of a niche service to cease operating as an ATS, it couldaffect market participants by requiring them to seek execution on other NMS stock trading venues that do not minimize their trading costs to the same extent. <sup>1476</sup>
 
-<h>c. Public Disclosure of Form ATS-N</h>
+c. Public Disclosure of Form ATS-N
 
 Once an NMS Stock ATS’s initial Form ATS-N has become effective, the information disclosed on Form ATS-N will be made available to the broader investing public. <sup>1477</sup> Updating and correcting amendments to Form ATS-N, as well as the cover page of material amendments, would be made public upon filing and the entirety of material amendments to Form ATS-N would be made public following the expiration of the review period. <sup>1478</sup>
 
@@ -5044,7 +4662,7 @@ Consequently, for these reasons, for purposes of the RFA, we certify that the am
 
 928 See id.
 
-929 See id. In the Regulation ATS Adopting Release, systems in which there is only a single seller, such as systems that permit issuers to sell their own securities to investors, would not be included within Rule 3b-
+929 See id. In the Regulation ATS Adopting Release, systems in which there is only a single seller, such as systems that permit issuers to sell their own securities to investors, would not be included within Rule 3b-16. See Regulation ATS Adopting Release, supra note at 70849. The Commission emphasized in the Regulation ATS Adopting Release that the mere interpositioning of a designated counterparty as riskless principal for settlement purposes after the purchasing and selling counterparties to a trade have been matched would not, by itself, mean that the system does not have multiple buyers and sellers. See id.
 
 930 See Proposal, supra note at 81073.
 
@@ -5140,7 +4758,7 @@ Consequently, for these reasons, for purposes of the RFA, we certify that the am
 
 976 Thus, if an NMS Stock ATS has established automated and empirical tests for segmenting subscribers into different categories—which would require the ATS to respond “yes” to Item III, 13(a) of adopted Form ATS-N and to explain how the segmentation procedures are applied—but allows any kind of override of those automated and empirical tests (such as an ad hoc determination by a member of the ATS’s staff), the NMS Stock ATS would have to respond “no” to Item III, 13(b) (“Are the segmentation procedures the same for all subscribers and the broker- dealer operator?”) and explain any differences in how its segmentation procedures are applied.
 
-977 One commenter states that it is unclear whether Part IV, Item 1(e) of proposed Form ATS-N requests disclosure of instances where a subscriber requests not to interact with certain counterparties. See SIFMA Letter at
+977 One commenter states that it is unclear whether Part IV, Item 1(e) of proposed Form ATS-N requests disclosure of instances where a subscriber requests not to interact with certain counterparties. See SIFMA Letter at 20. As discussed in Part III, Item 3 of adopted Form ATS-N above, any procedures related to counter-party selection would be responsive to this item (Part III, Item 14 of adopted Form ATS-N).
 
 978 See Proposal, supra note at 81072.
 

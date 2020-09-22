@@ -1,75 +1,3 @@
-https://www.sec.gov/rules/final/ia-2256.htm
-
-	I.0.0.0: I. BACKGROUND
-
-	II.0.0.0: II. DISCUSSION
-
-		II.A.0.0: A. Standards of Conduct and Compliance with Laws
-
-		II.B.0.0: B. Protection of Material Nonpublic Information
-
-		II.C.0.0: C. Personal Securities Trading
-
-			II.C.1.0: 1. Personal Trading Procedures
-
-			II.C.2.0: 2. "Access Persons" Subject to the Reporting Requirements
-
-			II.C.3.0: 3. Initial and Annual Holdings Reports
-
-			II.C.4.0: 4. Quarterly Transaction Reports
-
-			II.C.5.0: 5. Exceptions From Reporting Requirements
-
-			II.C.6.0: 6. Reportable Securities
-
-		II.D.0.0: D. Initial Public Offerings and Private Placements
-
-		II.E.0.0: E. Reporting Violations
-
-		II.F.0.0: F. Educating Employees About the Code of Ethics
-
-		II.G.0.0: G. Adviser Review and Enforcement
-
-		II.H.0.0: H. Recordkeeping
-
-		II.I.0.0: I. Amendment to Form ADV
-
-	III.0.0.0: III. EFFECTIVE DATE
-
-	IV.0.0.0: IV. COST-BENEFIT ANALYSIS
-
-		IV.A.0.0: A. Benefits
-
-		IV.B.0.0: B. Costs
-
-	V.0.0.0: V. EFFECTS ON COMPETITION, EFFICIENCY AND CAPITAL FORMATION
-
-	VI.0.0.0: VI. PAPERWORK REDUCTION ACT
-
-		VI.A.0.0: A. Rule 204A-1
-
-		VI.B.0.0: B. Rule 204-2
-
-		VI.C.0.0: C. Form ADV
-
-	VII.0.0.0: VII. FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-		VII.A.0.0: A. Need for the Rule and Amendments
-
-		VII.B.0.0: B. Significant Issues Raised by Public Comment
-
-		VII.C.0.0: C. Small Entities Subject to Rule
-
-		VII.D.0.0: D. Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-		VII.E.0.0: E. Agency Action to Minimize Effect on Small Entities
-
-	VIII.0.0.0: VIII. STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 270, 275 and 279 [Release Nos. IA-2256, IC-26492; File No. S7-04-04] RIN 3235-AJ08 Investment Adviser Codes of Ethics 
 
  AGENCY: Securities and Exchange Commission.
@@ -84,27 +12,31 @@ SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 270, 275 and 279 [Release Nos. I
 
  SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission ("Commission" or "SEC") is adopting (i) rule 204A-1 [17 CFR 275.204A-1] under the Investment Advisers Act of 1940 [15 U.S.C. 80b] ("Advisers Act" or "Act"); (ii) amendments to rule 204-2 [17 CFR 275.204-2] and Form ADV [17 CFR 279.1] under the Advisers Act; and (iii) amendments to rule 17j-1 [17 CFR 270.17j-1] under the Investment Company Act of 1940 [15 U.S.C. 80a] ("Company Act").<sup> 1 </sup>
 
-<END HEADER>
-
-<h>EXECUTIVE SUMMARY </h>
-
 The Commission is adopting new rule 204A-1 under the Advisers Act to require registered investment advisers to adopt codes of ethics. The rule requires an adviser's code of ethics to set forth standards of conduct and require compliance with federal securities laws. Codes of ethics must also address personal trading: they must require advisers' personnel to report their personal securities holdings and transactions, including those in affiliated mutual funds, and must require personnel to obtain pre-approval of certain investments. The Commission is amending the Advisers Act recordkeeping rule to require advisers to keep copies of their codes of ethics and records relating to the code. The Commission is also amending the client disclosure requirements under Part II of Form ADV to require advisers to describe their codes of ethics to clients.
 
- I. BACKGROUND 
+<END HEADER>
+
+<h> I. BACKGROUND </h>
 
 In January of this year, we proposed to require every adviser registered with us to adopt and enforce a written code of ethics applicable to its supervised persons.<sup> 2 </sup> Our proposal was designed to prevent fraud by reinforcing fiduciary principles that must govern the conduct of advisory firms and their personnel. The proposal was part of a package of regulatory initiatives with which we have responded to a number of recent enforcement actions against advisers or their personnel alleging violations of their fiduciary obligations to clients, including mutual fund clients.<sup> 3 </sup> 
 
 Advisers' codes would be required to contain provisions reminding employees of their obligations to clients as well as provisions requiring reporting of personal securities transactions and holdings. In order to ensure that advisers' employees are made aware of their firms' standards, advisers would have to obtain (and keep) a written acknowledgement from each supervised person confirming that he or she received a copy of the code of ethics and any amendments. While the code of ethics would have to contain certain minimum provisions, our proposal left advisers with substantial flexibility to design individualized codes that would best fit the structure, size and nature of their advisory businesses.
 
-We received 44 comment letters in response to our proposal. Most commenters supported requiring advisers to have written codes of ethics, and supported the flexibility that our proposal offered. Today, we are adopting new rule 204A-1 with certain changes that respond to commenters' recommendations.<h>II. DISCUSSIONA. Standards of Conduct and Compliance with Laws </h><h>A. Standards of Conduct and Compliance with Laws </h>
+We received 44 comment letters in response to our proposal. Most commenters supported requiring advisers to have written codes of ethics, and supported the flexibility that our proposal offered. Today, we are adopting new rule 204A-1 with certain changes that respond to commenters' recommendations.
+
+<h>II. DISCUSSIONA. Standards of Conduct and Compliance with Laws </h><h>A. Standards of Conduct and Compliance with Laws </h>
 
 Rule 204A-1 requires each adviser's code of ethics to set forth a standard of business conduct that the adviser requires of all its supervised persons.<sup> 4 </sup> The rule does not require the adviser to adopt a particular standard, but the standard chosen must reflect the adviser's fiduciary obligations and those of its supervised persons, and must require compliance with the federal securities laws.<sup> 5 </sup> 
 
 This provision, which we are adopting as proposed, establishes only a minimum requirement. Advisers are free to set higher standards for their employees, such as those established by professional or trade groups.<sup> 6 </sup> Of course, any other code adopted for use must meet the minimum requirements of the rule, or be supplemented to meet the minimum requirements.<sup> 7 </sup>
 
-We urge advisers to take great care and thought in preparing their codes of ethics, which should be more than a compliance manual. Rather, a code of ethics should set out ideals for ethical conduct premised on fundamental principals of openness, integrity, honesty and trust. A good code of ethics should effectively convey to employees the value the advisory firm places on ethical conduct, and should challenge employees to live up not only to the letter of the law, but also to the ideals of the organization.<sup> 8 </sup><h>B. Protection of Material Nonpublic Information </h>
+We urge advisers to take great care and thought in preparing their codes of ethics, which should be more than a compliance manual. Rather, a code of ethics should set out ideals for ethical conduct premised on fundamental principals of openness, integrity, honesty and trust. A good code of ethics should effectively convey to employees the value the advisory firm places on ethical conduct, and should challenge employees to live up not only to the letter of the law, but also to the ideals of the organization.<sup> 8 </sup>
 
-We proposed to require codes of ethics to prevent access to material nonpublic information about the adviser's securities recommendations, and client securities holdings and transactions by individuals who do not need the information to perform their duties.<sup> 9 </sup> Commenters supported our objective of controlling access to information as a first line of defense against misuse, but noted that it may be impractical to segregate employees, particularly in smaller firms that have limited office space. We are not requiring this provision in the code of ethics, but remind advisers that they must maintain and enforce policies and procedures to prevent the misuse of material nonpublic information,<sup> 10 </sup> which we believe includes misuse of material nonpublic information about the adviser's securities recommendations, and client securities holdings and transactions.<sup> 11 </sup> Advisers' duty of care also requires that they safeguard this sensitive information.<sup> 12 </sup> Advisers should carefully consider how to control dissemination of sensitive information both within their organizations and outside them.<h>C. Personal Securities Trading </h>
+<h>B. Protection of Material Nonpublic Information </h>
+
+We proposed to require codes of ethics to prevent access to material nonpublic information about the adviser's securities recommendations, and client securities holdings and transactions by individuals who do not need the information to perform their duties.<sup> 9 </sup> Commenters supported our objective of controlling access to information as a first line of defense against misuse, but noted that it may be impractical to segregate employees, particularly in smaller firms that have limited office space. We are not requiring this provision in the code of ethics, but remind advisers that they must maintain and enforce policies and procedures to prevent the misuse of material nonpublic information,<sup> 10 </sup> which we believe includes misuse of material nonpublic information about the adviser's securities recommendations, and client securities holdings and transactions.<sup> 11 </sup> Advisers' duty of care also requires that they safeguard this sensitive information.<sup> 12 </sup> Advisers should carefully consider how to control dissemination of sensitive information both within their organizations and outside them.
+
+<h>C. Personal Securities Trading </h>
 
 Each adviser's code of ethics must require an adviser's "access persons" to periodically report their personal securities transactions and holdings to the adviser's chief compliance officer or other designated persons.<sup> 13 </sup> The code of ethics must also require the adviser to review those reports.<sup> 14 </sup> Reviewing these reports will allow advisers as well as the Commission's examination staff to identify improper trades or patterns of trading by access persons. The reports are modeled largely on those required by rule 17j-1 under the Company Act.<sup> 15 </sup><h>1. Personal Trading Procedures </h>
 
@@ -128,7 +60,9 @@ Requirements to trade only through certain brokers, or limitations on the number
 
 Requirements to provide the adviser with duplicate trade confirmations and account statements.
 
-Procedures for assigning new securities analyses to employees whose personal holdings do not present apparent conflicts of interest.<sup> 22 </sup><h>2. "Access Persons" Subject to the Reporting Requirements </h>
+Procedures for assigning new securities analyses to employees whose personal holdings do not present apparent conflicts of interest.<sup> 22 </sup>
+
+<h>2. "Access Persons" Subject to the Reporting Requirements </h>
 
 Under rule 204A-1, the adviser's code must require certain supervised persons, called "access persons," to report their personal securities transactions and holdings.<sup> 23 </sup> An access person is a supervised person who has access to nonpublic information regarding clients' purchase or sale of securities, is involved in making securities recommendations to clients or who has access to such recommendations that are nonpublic.<sup> 24 </sup> A supervised person who has access to nonpublic information regarding the portfolio holdings of affiliated mutual funds is also an access person.<sup> 25 </sup> 
 
@@ -136,13 +70,19 @@ We are adopting the definition of "access person" as proposed. Some commenters s
 
 Access persons will include portfolio management personnel and, in some organizations, client service representatives who communicate investment advice to clients. These employees have information about investment recommendations whose effect may not yet be felt in the marketplace; as such, they may be in a position to take advantage of their inside knowledge. Administrative, technical, and clerical personnel may also be access persons if their functions or duties give them access to nonpublic information. Organizations in which employees have broad responsibilities, and where information barriers are few, may see a larger percentage of their staff subject to the reporting requirements. In contrast, organizations that keep strict controls on sensitive information may have fewer access persons.<sup> 28 </sup> 
 
-In many advisory firms, directors, officers and partners will also be access persons. Rule 204A-1, as proposed, contains a presumption that, if the firm's primary business is providing investment advice, then all of its directors, officers and partners are access persons.<sup> 29 </sup> Commenters supported this approach rather than rule 17j-1's special rules and revenue-based test for advisory firms "primarily engaged" in a business other than advising funds or advisory clients.<sup> 30 </sup><h>3. Initial and Annual Holdings Reports </h>
+In many advisory firms, directors, officers and partners will also be access persons. Rule 204A-1, as proposed, contains a presumption that, if the firm's primary business is providing investment advice, then all of its directors, officers and partners are access persons.<sup> 29 </sup> Commenters supported this approach rather than rule 17j-1's special rules and revenue-based test for advisory firms "primarily engaged" in a business other than advising funds or advisory clients.<sup> 30 </sup>
 
-The code of ethics must require a complete report of each access person's securities holdings, at the time the person becomes an access person and at least once a year thereafter.<sup> 31 </sup> Commenters supported these reporting requirements, which are similar to those required by rule 17j-1.<sup> 32 </sup> The holdings reports must be current as of a date not more than 45 days prior to the individual becoming an access person (initial report) or the date the report is submitted (annual report). We had proposed to require initial holdings reports to be current as of the date the individual becomes an access person, and annual reports to be current within 30 days prior to submission, but many commenters told us these requirements were not flexible enough to allow access persons to use brokerage statements as the basis of their reports.<sup> 33 </sup><h>4. Quarterly Transaction Reports </h>
+<h>3. Initial and Annual Holdings Reports </h>
+
+The code of ethics must require a complete report of each access person's securities holdings, at the time the person becomes an access person and at least once a year thereafter.<sup> 31 </sup> Commenters supported these reporting requirements, which are similar to those required by rule 17j-1.<sup> 32 </sup> The holdings reports must be current as of a date not more than 45 days prior to the individual becoming an access person (initial report) or the date the report is submitted (annual report). We had proposed to require initial holdings reports to be current as of the date the individual becomes an access person, and annual reports to be current within 30 days prior to submission, but many commenters told us these requirements were not flexible enough to allow access persons to use brokerage statements as the basis of their reports.<sup> 33 </sup>
+
+<h>4. Quarterly Transaction Reports </h>
 
 The code of ethics must require quarterly reports of all personal securities transactions by access persons, which are due no later than 30 days after the close of the calendar quarter.<sup> 34 </sup> The code of ethics may excuse access persons from submitting transaction reports that would duplicate information contained in trade confirmations or account statements that the adviser holds in its records, provided the adviser has received those confirmations or statements not later than 30 days after the close of the calendar quarter in which the transaction takes place.<sup> 35 </sup> 
 
-We have not adopted a requirement we proposed that would have required access persons that had no personal securities transactions during the quarter to submit a report confirming the absence of transactions. Commenters argued that reports confirming absence of transactions were unnecessary and burdensome, particularly when the adviser was relying on transaction records received from the access person's broker-dealer during the course of the quarter.<h>5. Exceptions From Reporting Requirements </h>
+We have not adopted a requirement we proposed that would have required access persons that had no personal securities transactions during the quarter to submit a report confirming the absence of transactions. Commenters argued that reports confirming absence of transactions were unnecessary and burdensome, particularly when the adviser was relying on transaction records received from the access person's broker-dealer during the course of the quarter.
+
+<h>5. Exceptions From Reporting Requirements </h>
 
 Rule 204A-1 permits three exceptions to personal securities reporting. No reports are required: 
 

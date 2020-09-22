@@ -596,7 +596,7 @@ The Commission also is making technical amendments to paragraph (m)(1) of Rule 1
 
 The amendments to Rule 17a-5 that the Commission is adopting today will permit carrying broker-dealers that either also are registered as investment advisers or maintain client assets of an affiliated investment adviser and are subject to the internal control report requirement in Rule 206(4)-2 to satisfy that requirement with a report prepared by the broker- dealer’s independent public accountant based on an examination of certain of the broker-dealer’s statements in the compliance report.
 
-<h>2.	Rule 206(4)-2</h>
+<h>2. Rule 206(4)-2</h>
 
 provides that a registered investment adviser is prohibited from maintaining custody of client funds or securities unless a “qualified custodian” maintains those funds and securities: (1) in a separate account for each client under that client’s name; or (2) in accounts that contain only the investment adviser’s clients’ funds and securities, under the investment adviser’s name as agent or trustee for the clients. <sup>473</sup> Under Rule 206(4)-2, only banks, certain savings associations, registered broker-dealers, FCMs, and certain foreign financial institutions may act as qualified custodians. <sup>474</sup>
 

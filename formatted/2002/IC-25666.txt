@@ -62,11 +62,13 @@ Investment Company Mergers
 
  SUPPLEMENTARY INFORMATION: The Commission today is adopting amendments to rule 17a-8 [17CFR 270.17a-8] under the Investment Company Act of 1940 [15 U.S.C. 80a] ("Investment Company Act" or "Act").
 
+EXECUTIVE SUMMARY 
+
+The Commission is adopting amendments to rule 17a-8 under the Investment Company Act, the rule that permits mergers of registered investment companies ("funds") with certain of their affiliated persons.<SUP> 1 </SUP> The amendments expand the availability of the rule in two ways: first, the rule permits funds to merge with other affiliated funds without regard to the reason for their affiliation; and second, the rule permits funds to merge with unregistered bank common trust funds, bank collective trust funds, and unregistered insurance company separate accounts. The amendments subject the exemption to certain additional conditions designed to protect investors. 
+
 <END HEADER>
 
-<h>EXECUTIVE SUMMARY </h>
-
-The Commission is adopting amendments to rule 17a-8 under the Investment Company Act, the rule that permits mergers of registered investment companies ("funds") with certain of their affiliated persons.<SUP> 1 </SUP> The amendments expand the availability of the rule in two ways: first, the rule permits funds to merge with other affiliated funds without regard to the reason for their affiliation; and second, the rule permits funds to merge with unregistered bank common trust funds, bank collective trust funds, and unregistered insurance company separate accounts. The amendments subject the exemption to certain additional conditions designed to protect investors. I. DISCUSSION 
+<h>I. DISCUSSION </h>
 
 Section 17 of the Investment Company Act prohibits certain transactions between funds<SUP> 2 </SUP> and their affiliated person s<SUP> 3 </SUP> unless the Commission issues an order after finding that (i)the terms of the proposed transaction are reasonable and fair and do not involve overreaching on the part of any person concerned, (ii)the proposed transaction is consistent with the policy of each fund, and (iii)the proposed transaction is consistent with the general purposes of the Act.<SUP> 4 </SUP> This section operates to prohibit mergers<SUP> 5 </SUP> of investment companies that are affiliated persons of each other, which typically include funds that are in the same fund complex.<SUP> 6 </SUP> Since 1980, our rule 17a-8 has permitted mergers of funds that are affiliated solely because they have common investment advisers, officers and/or directors.<SUP> 7 </SUP> We have considered other fund mergers on a case-by-case basis, and since 1980 we have issued more than 150 orders granting exemptions for fund mergers that did not qualify for relief under rule 17a-8.<SUP> 8 </SUP> 
 

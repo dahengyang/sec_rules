@@ -52,15 +52,15 @@ Offer and Sale of Securities to Canadian Tax-Deferred Retirement Savings Account
 
  SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission ("Commission") today is adopting rule 237 [17 CFR 230.237] under the Securities Act of 1933 [15 U.S.C. 77a-aa] (the "Securities Act"), rule 7d-2 [17 CFR 270.7d-2] under the Investment Company Act of 1940 [15 U.S.C. 80a] (the "Investment Company Act"), and amendments to rule 12g3-2 under the Securities Exchange Act of 1934 [15 U.S.C. 78a-mm] (the "Exchange Act").
 
-<END HEADER>
-
-<h>Executive Summary </h>
+Executive Summary 
 
 In Canada, individuals can invest a portion of their earnings in tax-deferred retirement savings accounts ("Canadian retirement accounts"), which operate in a manner similar to Individual Retirement Accounts ("IRAs") in the United States. Individuals who have established Canadian retirement accounts and later moved to the United States ("Canadian/U.S. Participants" or "participants") have been unable to make changes in their retirement accounts because the changes would involve the sale of unregistered securities and investment companies ("funds") in violation of U.S. securities laws. 
 
 The Commission is adopting two rules that are designed to enable Canadian/U.S. Participants to manage the assets in their Canadian retirement accounts. The new rules: (i)permit securities of foreign issuers, including securities of foreign funds, to be offered to Canadian/U.S. Participants and sold to their Canadian retirement accounts without being registered under the Securities Act or the Exchange Act, and (ii)permit foreign funds to offer securities to Canadian/U.S. Participants and sell securities to their Canadian retirement accounts without registering as investment companies under the Investment Company Act. The offer and sale of these securities, however, will remain fully subject to the antifraud provisions of the U.S. securities laws. The Commission also is issuing an order exempting Canadian broker-dealers that maintain these retirement accounts for Canadian/U.S. Participants, from the registration requirements and certain related provisions of the Exchange Act.
 
- I. Discussion 
+<END HEADER>
+
+<h>I. Discussion</h>
 
 The Commission has received complaints from many Canadian/U.S. Participants that the application of the U.S. securities laws to their retirement accounts has left them unable to manage their investments in those accounts. In response, we proposed rules last year to provide relief from the registration requirements of the federal securities laws for offers of securities to participants in Canadian retirement accounts, and sales to their accounts.<SUP> 1 </SUP> We received 35 comment letters on the proposed rules, all of which supported the proposal.<SUP> 2 </SUP> Today we are adopting the rules substantially as proposed, with modifications that reflect a number of technical changes suggested by commenters. <sup> 3 </sup><h>A. Rule 237 Under the Securities Act <SUP> 4 </SUP> </h>
 

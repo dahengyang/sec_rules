@@ -120,9 +120,7 @@ FOR FURTHER INFORMATION CONTACT: Catherine M. Saadeh, Staff Attorney, or Cynthia
 
 SUPPLEMENTARY INFORMATION: The Commission is adopting new rules 203A-1, 203A-2, 203A-3, 203A-4, 203A-5, 222-1, and 222-2 [17 CFR 275.203A-1, 275.203A-2, 275.203A-3, 275.203A-4, 275.203A-5, 275.222-1, and 275.222-2], and amendments to rules 203(b)(3)-1, 204-1, 204-2, 205-3, 206(3)-2, 206(4)-1, 206(4)-2, 206(4)-3, and 206(4)-4 [17 CFR 275.203(b)(3)-1, 275.204-1, 275.204-2, 275.205- 3, 275.206(3)-2, 275.206(4)-1, 275.206(4)-2, 275.206(4)-3, and 275.206(4)-4], and Form ADV [17 CFR 279.1] under the Investment Advisers Act of 1940 [15 USC 80b-1] (the "Advisers Act" or the "Act"). The Commission is rescinding Form ADV-S [17 CFR 279.3] under the Advisers Act.
 
-<END HEADER>
-
-<h>EXECUTIVE SUMMARY</h>
+EXECUTIVE SUMMARY
 
 The Commission is adopting rules and rule amendments to implement certain provisions of the Investment Advisers Supervision Coordination Act. The Coordination Act amended the Advisers Act to, among other things, reallocate the responsibilities for regulating investment advisers ("investment advisers" or "advisers") between the Commission and the securities regulatory authorities of the states. Generally, the Coordination Act provides for Commission regulation of advisers with $25 million or more of assets under management, and state regulation of advisers with less than $25 million of assets under management. The rules and rule amendments:
 
@@ -138,7 +136,9 @@ The Commission is adopting rules and rule amendments to implement certain provis
 
 -- Clarify how advisers should count clients for purposes of both the new national de minimis exemption from state regulation and the federal de minimis exemption from Commission registration.
 
-I. BACKGROUND
+<END HEADER>
+
+<h>I. BACKGROUND</h>
 
 On October 11, 1996, President Clinton signed into law the National Securities Markets Improvement Act of 1996 ("1996 Act").<sup> 1 </sup> Title III of the 1996 Act, the Coordination Act, makes several amendments to the Advisers Act. The most significant of these amendments reallocates federal and state responsibilities for the regulation of the approximately 23,350 investment advisers currently registered with the Commission.<sup> 2 </sup> These amendments will become effective on July 8, 1997.<sup> 3 </sup>
 

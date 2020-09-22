@@ -62,23 +62,19 @@ Comments sent by hard copy should be submitted in triplicate to Jonathan G. Katz
 
  Supplementary Information: The Securities and Exchange Commission ("Commission") is adopting new rule 30b1-4 [17 CFR 270.30b1-4] and new Form N-PX [17 CFR 274.130] under the Investment Company Act of 1940 [15 U.S.C. 80a-1 et seq. ] ("Investment Company Act"); amendments to Forms N-1A [17 CFR 239.15A; 274.11A], N-2 [17 CFR 239.14; 274.11a-1], and N-3 [17 CFR 239.17a; 17 CFR 274.11b], the registration forms used by management investment companies to register under the Investment Company Act and to offer their securities under the Securities Act of 1933 [15 U.S.C. 77a et seq. ] ("Securities Act"); and amendments to Form N-CSR [17 CFR 249.331; 17 CFR 274.128],<sup> 2 </sup> the form to be used by registered management investment companies to file certified shareholder reports with the Commission under the Sarbanes-Oxley Act of 2002.<sup> 3 </sup>
 
-<END HEADER>
-
-<h>Executive Summary </h>
+Executive Summary
 
 We are adopting rule and form amendments that:
 
- 
-
 Require a management investment company registered under the Investment Company Act of 1940 ("fund") to disclose in its registration statement (and, in the case of a closed-end fund, Form N-CSR) the policies and procedures that it uses to determine how to vote proxies relating to portfolio securities; and
 
-Require a fund to file with the Commission and to make available to its shareholders, either on its website or upon request, its record of how it voted proxies relating to portfolio securities. A fund will be required to disclose in its annual and semi-annual reports to shareholders and in its registration statement the methods by which shareholders may obtain information about proxy voting.<sup> 4 </sup>
-
- 
+Require a fund to file with the Commission and to make available to its shareholders, either on its website or upon request, its record of how it voted proxies relating to portfolio securities. A fund will be required to disclose in its annual and semi-annual reports to shareholders and in its registration statement the methods by which shareholders may obtain information about proxy voting.<sup> 4 </sup> 
 
 In a companion release, we are also adopting a new rule and rule amendments under the Investment Advisers Act of 1940 that will require a registered investment adviser that exercises voting authority over client proxies to adopt policies and procedures reasonably designed to ensure that the adviser votes proxies in the best interests of clients, to disclose to clients information about those policies and procedures, to disclose to clients how they may obtain information on how the adviser voted their proxies, and to maintain certain records relating to proxy voting.<sup> 5 </sup>
 
- I. Introduction and Background 
+<END HEADER>
+
+<h>I. Introduction and Background</h>
 
 As of September 2002, mutual funds<sup> 6 </sup> held $2.0 trillion in publicly traded U.S. corporate equity, representing approximately 18% of all publicly traded U.S. corporate equity.<sup> 7 </sup> This represents a dramatic increase from only 7.4% at the end of 1992.<sup> 8 </sup> Millions of individual American investors, in turn, hold shares of equity mutual funds, relying on these funds -- and the value of the corporate securities in which they invest -- to fund their retirements, their childrens' educations, and their other basic financial needs.<sup> 9 </sup> Yet, despite the enormous influence of mutual funds in the capital markets and their huge impact on the financial fortunes of American investors, funds have been reluctant to disclose how they exercise their proxy voting power with respect to portfolio securities.<sup> 10 </sup> We believe that the time has come to increase the transparency of proxy voting by mutual funds. This increased transparency will enable fund shareholders to monitor their funds' involvement in the governance activities of portfolio companies, which may have a dramatic impact on shareholder value.
 

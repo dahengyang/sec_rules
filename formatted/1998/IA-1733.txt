@@ -92,17 +92,17 @@ APPENDIX B: SCHEDULE G TO FORM ADV
 
 APPENDIX C: ILLUSTRATIONS OF ACCOMMODATION CLIENT PROVISION
 
-<END HEADER>
-
-<h>EXECUTIVE SUMMARY</h>
+EXECUTIVE SUMMARY
 
  Section 203A of the Advisers Act generally prohibits an investment adviser from registering with the Commission unless it has more than $25 million of assets under management or is an adviser to a registered investment company. The Commission is adopting amendments to rule 203A-2 under the Advisers Act to exempt from the prohibition on Commission registration those advisers that are required to register as investment advisers in 30 or more states.
 
  Section 203A preempts most state regulatory requirements for Commission-registered investment advisers and their supervised persons except for certain "investment adviser representatives." The Commission is adopting amendments to rule 203A-3 under the Advisers Act to revise the definition of investment adviser representative. Under the amended definition, supervised persons of Commission-registered investment advisers are investment adviser representatives (and therefore subject to state qualification requirements) if they have more than five clients who are natural persons and more than ten percent of their clients are natural persons.
 
- Under section 203A, the Commission retains regulatory authority for an investment adviser with a principal office and place of business in a state that does not have an investment adviser statute. The Commission is adopting amendments to Schedule I to Form ADV to reflect that Colorado and Iowa have recently enacted investment adviser statutes.
+Under section 203A, the Commission retains regulatory authority for an investment adviser with a principal office and place of business in a state that does not have an investment adviser statute. The Commission is adopting amendments to Schedule I to Form ADV to reflect that Colorado and Iowa have recently enacted investment adviser statutes.
 
- I. BACKGROUND
+<END HEADER>
+
+<h>I. BACKGROUND</h>
 
  Two years ago, Congress enacted the National Securities Markets Improvement Act of 1996 ("1996 Act"). <sup> 1 </sup> Title III of the 1996 Act, the Investment Advisers Supervision Coordination Act ("Coordination Act"), amended the Advisers Act to, among other things, reallocate federal and state responsibilities for regulation of investment advisers by limiting federal registration and preempting certain state laws. Under section 203A(a) of the Advisers Act, <sup> 2 </sup> an investment adviser that is regulated or required to be regulated as an investment adviser in the state in which it maintains its principal office and place of business is prohibited from registering with the Commission unless the investment adviser (i) has at least $25 million of assets under management, or (ii) is an investment adviser to an investment company registered under the Investment Company Act of 1940 ("Investment Company Act"). <sup> 3 </sup> Section 203A(b) of the Advisers Act generally preempts state regulatory requirements with respect to Commission-registered investment advisers and their supervised persons, except for certain of their investment adviser representatives. <sup> 4 </sup> 
 
@@ -111,8 +111,6 @@ APPENDIX C: ILLUSTRATIONS OF ACCOMMODATION CLIENT PROVISION
  On November 13, 1997, the Commission issued a release proposing (1) amendments to rule 203A-2 to exempt multi-state investment advisers from the prohibition on Commission registration; (2) two alternative amendments to rule 203A-3 to revise the definition of investment adviser representative; and (3) other amendments to clarify certain implementing rules ("Proposing Release"). <sup> 8 </sup> The proposed amendments to rule 203A-2 would allow an investment adviser that does not have $25 million of assets under management but has a national or multi-state practice that requires it to register as an investment adviser in 30 or more states to register with the Commission. The proposed amendments to rule 203A-3 would correct an anomaly in the current rule and allow supervised persons who provide services to a small number of institutions to have accommodation clients without being subject to state qualification requirements.
 
  In response to the proposals, the Commission received 12 comment letters from professional and trade organizations, investment advisers, the North American Securities Administrators Association, Inc. ("NASAA"), <sup> 9 </sup> and two state securities administrators. Most commenters supported the proposals.<h>II. DISCUSSIONA. Multi-State Investment Adviser Exemption from Prohibition on Registration with the Commission</h><h>A. Multi-State Investment Adviser Exemption from Prohibition on Registration with the Commission</h>
-
- 
 
  As discussed above, section 203A limits registration with the Commission, in most cases, to investment advisers with at least $25 million of assets under management and preempts state adviser regulation of these investment advisers. <sup> 10 </sup> The $25 million threshold was designed to allocate regulatory responsibility to the Commission for larger investment advisers, whose activities are likely to affect national markets, and to relieve these larger advisers of the burdens associated with multiple state regulations. <sup> 11 </sup> Congress recognized, however, that some investment advisers with less than $25 million of assets under management may have national businesses for which multiple state registration would be burdensome. <sup> 12 </sup> To reduce the burden on these advisers, the Commission was given authority in section 203A(c) of the Advisers Act to exempt investment advisers, by rule or order, from the prohibition on Commission registration if the prohibition would be "unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes" of section 203A. <sup> 13 </sup> 
 

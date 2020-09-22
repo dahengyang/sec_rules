@@ -70,13 +70,13 @@ Securities And Exchange Commission 17 CFR Parts 275 and 279 [Release No. IA-2176
 
  Supplementary Information: The Commission is adopting amendments to rule 206(4)-2 [17 CFR 275.206(4)-2]<sup> 1 </sup> under the Investment Advisers Act of 1940 [15 U.S.C. 80b] (the "Advisers Act" or "Act") and to Part 1A, Item 9 and Part II, Item 14 of Form ADV [17 CFR 279.1].
 
-<END HEADER>
-
-<h>Executive Summary </h>
+Executive Summary
 
 The Commission is amending rule 206(4)-2, the custody rule under the Advisers Act, to reflect modern custodial practices and clarify circumstances under which an adviser has custody of client assets. The amendments require advisers that have custody to maintain client funds and securities with a broker-dealer, bank, or other "qualified custodian." If the qualified custodian sends account statements directly to an adviser's clients, the adviser is relieved from sending its own account statements and from undergoing an annual surprise examination. The amendments also add a definition of "custody" to the rule and illustrate circumstances under which an adviser has custody of client funds or securities. Finally, the amendments remove the Form ADV requirement that advisers with custody include an audited balance sheet in their disclosure brochure to clients.
 
- I. Background 
+<END HEADER>
+
+<h>I. Background</h> 
 
 Rule 206(4)-2 regulates the custody practices of advisers registered under the Advisers Act. The rule requires advisers that have custody of client securities or funds to implement a set of controls designed to protect those client assets from being lost, misused, misappropriated or subject to the advisers' financial reverses. 
 

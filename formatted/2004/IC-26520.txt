@@ -1,57 +1,3 @@
-https://www.sec.gov/rules/final/ic-26520.htm
-
-	I.0.0.0: I.BACKGROUND
-
-	II.0.0.0: II.THE ROLE OF INDEPENDENT DIRECTORS
-
-		II.A.0.0: A. Managing Conflicts of Interest
-
-		II.B.0.0: B. Approving the Advisory Contract and Advisory Fees
-
-		II.C.0.0: C. Selecting and Nominating Candidates for Independent Directors
-
-	III.0.0.0: III.DISCUSSION OF NEW RULES
-
-		III.A.0.0: A. Board Composition
-
-		III.B.0.0: B. Independent Chairman of the Board
-
-		III.C.0.0: C. Annual Self-Assessment
-
-		III.D.0.0: D. Separate Sessions
-
-		III.E.0.0: E. Independent Director Staff
-
-		III.F.0.0: F. Recordkeeping for Approval of Advisory Contracts
-
-	IV.0.0.0: IV.EFFECTIVE DATE; COMPLIANCE DATE
-
-	V.0.0.0: V.PAPERWORK REDUCTION ACT
-
-	VI.0.0.0: VI.COST-BENEFIT ANALYSIS
-
-		VI.A.0.0: A. Benefits
-
-		VI.B.0.0: B. Costs
-
-	VII.0.0.0: VII.FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-		VII.A.0.0: A. Reasons for and Objectives of the Amendments
-
-		VII.B.0.0: B. Significant Issues Raised by Public Comment
-
-		VII.C.0.0: C. Small Entities Subject to the Amendments
-
-		VII.D.0.0: D. Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-		VII.E.0.0: E. Agency Action to Minimize the Effect on Small Entities
-
-	VIII.0.0.0: VIII.CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 270 [Release No. IC-26520; File No. S7-03-04] RIN 3235-AJ05 Investment Company Governance 
 
  AGENCY: Securities and Exchange Commission.
@@ -70,7 +16,7 @@ SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 270 [Release No. IC-26520; File N
 
 <END HEADER>
 
-<h>I.BACKGROUND </h>
+<h>I. BACKGROUND </h>
 
 In January 2004, the Commission proposed amendments to improve the governance standards of investment companies ( i.e., funds).<sup> 2 </sup> These amendments provide for greater independence of fund boards in the case of funds that rely upon certain exemptive rules that allow funds to engage in transactions that would otherwise be prohibited under the Investment Company Act and that present conflicts of interest between the fund and its management company. These amendments expand upon the fund governance amendments we adopted in 2001, which require that any fund that relies upon those exemptive rules must have a governance structure that provides, among other things, for a board that has a majority of independent directors.<sup> 3 </sup> In light of recent developments, we now believe that the 2001 amendments do not go far enough in addressing the need for independent fund boards.<sup> 4 </sup> 
 
@@ -82,7 +28,9 @@ We proposed to amend ten commonly used exemptive rules under the Investment Comp
 
 The proposal engendered a substantial amount of interest. We received nearly 200 comments from fund investors, management companies, independent directors to mutual funds, as well as members of Congress. We also received several comments from organizations that had a more general interest in corporate governance issues. Most commenters supported our efforts to strengthen fund governance, but many were divided on some of our proposals. Some commenters believed the proposed amendments did not go far enough; others recommended certain modifications. 
 
-We recognize that these amendments might not have prevented all of the abuses that were uncovered in the enforcement actions discussed above. Nevertheless, if funds are to engage in the transactions permitted by the Exemptive Rules<sup> 12 </sup> and effectively manage the conflicts of interest inherent in those transactions, greater board independence is needed. We are adopting them substantially as proposed.<h>II.THE ROLE OF INDEPENDENT DIRECTORS </h>
+We recognize that these amendments might not have prevented all of the abuses that were uncovered in the enforcement actions discussed above. Nevertheless, if funds are to engage in the transactions permitted by the Exemptive Rules<sup> 12 </sup> and effectively manage the conflicts of interest inherent in those transactions, greater board independence is needed. We are adopting them substantially as proposed.
+
+<h>II. THE ROLE OF INDEPENDENT DIRECTORS </h>
 
 Before we discuss the rules we are today adopting, we wish to take this opportunity to make some observations about the role of fund directors and, in particular, independent directors.<h>A. Managing Conflicts of Interest </h>
 
@@ -98,7 +46,9 @@ Section 15(c) also provides that the directors of a fund have a duty to request 
 
 We reiterate our statement in the Proposing Release that fund shareholders stand to benefit substantially when the process of negotiation between fund independent directors and investment advisers leads to lower fees.<sup> 19 </sup> We reaffirm the views we expressed in a statement accompanying a recently settled enforcement proceeding, that the best way to ensure that funds obtain fair and reasonable fees is through a marketplace of vigorous, independent and diligent mutual fund boards, coupled with fully informed investors who are armed with complete, easy-to-digest disclosure about the fees paid and the services rendered.<sup> 20 </sup> We have recently adopted and proposed new disclosure requirements designed to provide fund investors with this information.<sup> 21 </sup><h>C. Selecting and Nominating Candidates for Independent Directors </h>
 
-The incumbent independent directors of most funds have the responsibility to select and nominate new independent directors.<sup> 22 </sup> The Investment Company Act provides minimum criteria for persons to qualify as independent directors, and independent directors who satisfy those criteria meet the requirements of the Act.<sup> 23 </sup> We urge independent directors to look beyond those requirements and examine whether a candidate’s personal or business relationships suggest that the candidate will not aggressively represent the interests of fund investors. Persons who have served as executives of the fund adviser or who are close family members of employees of the fund, its adviser or principal underwriter would, in our view, be poor choices for candidates, although they may meet the minimum statutory requirements.<sup> 24 </sup> We recognize that “legal” independence does not equate with “real” independence. We therefore encourage independent directors, in selecting and nominating other independent directors, to identify individuals who have the background, experience, and independent judgment to represent the interests of fund investors.<sup> 25 </sup><h>III.DISCUSSION OF NEW RULES </h>
+The incumbent independent directors of most funds have the responsibility to select and nominate new independent directors.<sup> 22 </sup> The Investment Company Act provides minimum criteria for persons to qualify as independent directors, and independent directors who satisfy those criteria meet the requirements of the Act.<sup> 23 </sup> We urge independent directors to look beyond those requirements and examine whether a candidate’s personal or business relationships suggest that the candidate will not aggressively represent the interests of fund investors. Persons who have served as executives of the fund adviser or who are close family members of employees of the fund, its adviser or principal underwriter would, in our view, be poor choices for candidates, although they may meet the minimum statutory requirements.<sup> 24 </sup> We recognize that “legal” independence does not equate with “real” independence. We therefore encourage independent directors, in selecting and nominating other independent directors, to identify individuals who have the background, experience, and independent judgment to represent the interests of fund investors.<sup> 25 </sup>
+
+<h>III. DISCUSSION OF NEW RULES </h>
 
 We are amending the ten Exemptive Rules under the Act<sup> 26 </sup> to require that any fund that relies upon any of those rules<sup> 27 </sup> satisfy the fund governance standards set forth in rule 0-1(a)(7): (i)at least 75 percent of the directors of the fund must be independent directors or, if the fund board has only three directors, all but one of the directors must be independent directors; (ii)the chairman of the board must be an independent director; (iii)the board must perform a self-assessment at least once annually; (iv)the independent directors must meet separately at least once a quarter; and (v)the independent directors must be affirmatively authorized to hire their own staff.<sup> 28 </sup> We are also amending rule 31a-2 as proposed, to require that a fund retain copies of written materials that the board considers when approving the fund’s advisory contract.<sup> 29 </sup><h>A. Board Composition </h>
 
@@ -162,17 +112,23 @@ Finally, we are amending rule 31a-2, the fund recordkeeping rule, to require tha
 
  
 
-The recordkeeping amendment is designed to improve the documentation of a fund board’s basis for approving an advisory contract, which would assist our examination staff in determining whether fund directors are fulfilling their fiduciary duties when approving advisory contracts. The amendment underscores the importance of the information requests that precede the directors’ consideration of the advisory contract. Further, it may encourage independent directors to request more information, and this information may enable them to obtain more favorable terms in advisory contracts.<h>IV.EFFECTIVE DATE; COMPLIANCE DATE </h>
+The recordkeeping amendment is designed to improve the documentation of a fund board’s basis for approving an advisory contract, which would assist our examination staff in determining whether fund directors are fulfilling their fiduciary duties when approving advisory contracts. The amendment underscores the importance of the information requests that precede the directors’ consideration of the advisory contract. Further, it may encourage independent directors to request more information, and this information may enable them to obtain more favorable terms in advisory contracts.
+
+<h>IV. EFFECTIVE DATE; COMPLIANCE DATE </h>
 
 The amendments to the Exemptive Rules will become effective on September 7, 2004.
 
-After January 15, 2006: (i)persons may rely upon any of the Exemptive Rules (rules 10f-3, 12b-1, 15a-4(b)(2), 17a-7, 17a-8, 17d-1(d)(7), 17e-1, 17g-1(j), 18f-3, and 23c-3) only if they comply with all of the “fund governance standards” as defined in rule 0-1(a)(7);<sup> 71 </sup> and (ii)funds must begin to comply with the recordkeeping requirements of amended rule 31a-2.<h>V.PAPERWORK REDUCTION ACT </h>
+After January 15, 2006: (i)persons may rely upon any of the Exemptive Rules (rules 10f-3, 12b-1, 15a-4(b)(2), 17a-7, 17a-8, 17d-1(d)(7), 17e-1, 17g-1(j), 18f-3, and 23c-3) only if they comply with all of the “fund governance standards” as defined in rule 0-1(a)(7);<sup> 71 </sup> and (ii)funds must begin to comply with the recordkeeping requirements of amended rule 31a-2.
+
+<h>V. PAPERWORK REDUCTION ACT </h>
 
 As discussed in the Proposing Release, the amendment to rule 31a-2 contains a “collection of information” requirement within the meaning of the Paperwork Reduction Act of 1995<sup> 72 </sup> because the amendment to rule 31a-2 will require funds to retain copies of the written materials that boards consider in approving advisory contracts under section 15(c) of the Investment Company Act. Funds have to retain these materials for at least six years, the first two years in an easily accessible place for our examiners. This collection of information is necessary for our staff to use in its examination and oversight program. Responses provided in the context of the Commission’s examination and oversight program are generally kept confidential. The collection of information requirement is mandatory and is in the form of an amendment to a currently approved collection of information requirement, the title of which is “Rule 31a-2, ‘Records to be preserved by registered investment companies, certain majority-owned subsidiaries thereof, and other persons having transactions with registered investment companies.’” An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The approved collection of information associated with rule 31a-2 to be revised by the amendments displays control number 3235-0179. The Commission submitted the collection to the Office of Management and Budget (“OMB”) for review in accordance with 44 U.S.C. 3507(d) and 5 CFR 1320.11. OMB has approved the collection of information under control number 3235-0179 (expiring on July 31, 2007).
 
 The amendment to the collection of information requirement for rule 31a-2 is necessary for our compliance examiners to determine whether fund boards have met the requirements of section 15 of the Investment Company Act when approving investment advisory contracts. Our compliance examiners will review these materials to gauge a fund board’s fulfillment of the requirements of section 15 of the Act.
 
-As discussed above, we are adopting the amendment to rule 31a-2 and this collection of information requirement as proposed. In the Proposing Release, our staff estimated that each fund will spend a total of 0.5 hours annually and a total of $9.46 for clerical time to comply with this amendment.<sup> 73 </sup> In the Proposing Release, we solicited comments on the accuracy of these estimates. None of the comments received specifically addressed our estimates of the costs associated with the collection of information requirement.<sup> 74 </sup> Our staff continues to estimate that each fund will spend a total of 0.5 hours annually and a total of $9.46 for clerical time to comply with this amendment. Because of the increase in the number of registered funds to 5,132 funds, however, our staff estimates that the total hour burden of the collection of information requirement for all funds is 2,566 hours and a total of $48,548.72 annually to comply with this amendment.<h>VI.COST-BENEFIT ANALYSIS </h>
+As discussed above, we are adopting the amendment to rule 31a-2 and this collection of information requirement as proposed. In the Proposing Release, our staff estimated that each fund will spend a total of 0.5 hours annually and a total of $9.46 for clerical time to comply with this amendment.<sup> 73 </sup> In the Proposing Release, we solicited comments on the accuracy of these estimates. None of the comments received specifically addressed our estimates of the costs associated with the collection of information requirement.<sup> 74 </sup> Our staff continues to estimate that each fund will spend a total of 0.5 hours annually and a total of $9.46 for clerical time to comply with this amendment. Because of the increase in the number of registered funds to 5,132 funds, however, our staff estimates that the total hour burden of the collection of information requirement for all funds is 2,566 hours and a total of $48,548.72 annually to comply with this amendment.
+
+<h>VI. COST-BENEFIT ANALYSIS </h>
 
 We are sensitive to the costs and benefits imposed by our rules. As discussed in section III above, these amendments require that funds relying on any of the Exemptive Rules adopt certain governance practices that are designed to enhance the independence and effectiveness of fund boards. We also are adopting amendments to require that funds maintain materials considered by a fund board when approving an advisory contract. In the Proposing Release, we identified probable costs and benefits of each of these proposed amendments that we are adopting today, and we requested public comment on our analysis of the costs and benefits of eac h of these amendments.
 
@@ -194,7 +150,9 @@ The amendments will impose additional costs on funds that rely on an Exemptive R
 
 The amendments also require: (i)an independent director to be chairman of the board; (ii)directors to perform an evaluation of the board and its committees, at least once annually; (iii)independent directors to meet in an executive session at which no director who is an interested person of the fund is present, at least once quarterly; and (iv)independent directors to be given specific authority to hire employees and retain experts. As discussed in the Proposing Release, our staff is not aware of any out-of-pocket costs that would result from the first three items because these requirements could be satisfied at a regularly scheduled board meeting.<sup> 81 </sup> A few comments expressed concern about costs of requiring separate executive sessions at least once quarterly. However, as discussed in the Proposing Release, we expect that most funds would choose to satisfy this requirement by having directors meet at a breakout session of regularly scheduled board meetings, which would impose no additional transportation and little or no accommodation costs for the directors. Therefore, we expect that the costs of complying with this requirement would be minimal. With regard to the fourth item, our staff is not aware of any costs associated with hiring employees or retaining experts because boards typically have this authority under state law, and the rule would not require them to hire employees or retain experts.
 
-Our staff expects that the amendment to require funds to retain copies of materials considered by the board in approving advisory contracts would result in some increased recordkeeping costs. Our staff anticipates that the increased costs will be limited, however, because many if not most funds already maintain the documents that the proposed amendment would require them to keep. Even for firms that do not already maintain such records, our staff anticipates that the costs of the amendment will be limited.<sup> 82 </sup> This recordkeeping proposal merely requires the retention of documents already prepared. Further, as with other records, funds would be able to maintain the required records electronically. For purposes of the Paperwork Reduction Act, our staff estimated that each fund will spend a total of 0.5 hours of clerical time annually, at a total of $9.46, to comply with this proposal. We requested comment on the number of funds that already retain these materials, and on the costs of retaining such materials. We did not receive any comments specifically addressing this issue.<sup> 83 </sup><h>VII.FINAL REGULATORY FLEXIBILITY ANALYSIS </h>
+Our staff expects that the amendment to require funds to retain copies of materials considered by the board in approving advisory contracts would result in some increased recordkeeping costs. Our staff anticipates that the increased costs will be limited, however, because many if not most funds already maintain the documents that the proposed amendment would require them to keep. Even for firms that do not already maintain such records, our staff anticipates that the costs of the amendment will be limited.<sup> 82 </sup> This recordkeeping proposal merely requires the retention of documents already prepared. Further, as with other records, funds would be able to maintain the required records electronically. For purposes of the Paperwork Reduction Act, our staff estimated that each fund will spend a total of 0.5 hours of clerical time annually, at a total of $9.46, to comply with this proposal. We requested comment on the number of funds that already retain these materials, and on the costs of retaining such materials. We did not receive any comments specifically addressing this issue.<sup> 83 </sup>
+
+<h>VII. FINAL REGULATORY FLEXIBILITY ANALYSIS </h>
 
 This Final Regulatory Flexibility Analysis (“FRFA”) has been prepared in accordance with 5 U.S.C. 604 relating to the amendments to the Exemptive Rules and the Commission’s rules on investment company governance.An Initial Regulatory Flexibility Analysis (“IRFA”) was prepared in accordance with 5 U.S.C. 603 and was published in the Proposing Release.<sup> 84 </sup><h>A. Reasons for and Objectives of the Amendments </h>
 
@@ -208,7 +166,9 @@ A small business or small organization (collectively, “small entity”) for pu
 
 The amendments do not introduce any new mandatory reporting requirements. The amendments contain new mandatory recordkeeping requirements. Any fund, regardless of size, is required to maintain records of written materials that directors consider to approve an advisory contract. The amendments also introduce new compliance requirements for any fund that relies on an Exemptive Rule. Any fund that relies on an Exemptive Rule is required to satisfy the fund governance standards in rule0-1(a)(7), including having: (i)a board of directors whose independent directors constitute at least 75 percent of the board;<sup> 90 </sup> (ii)an independent director be chairman of the board; (iii)directors perform an evaluation of the board and its committees, at least once annually; (iv)independent directors meet in an executive session at which no director who is an interested person of the fund is present, at least once quarterly; and (v)independent directors be given specific authority to hire employees and other advisers.<h>E. Agency Action to Minimize the Effect on Small Entities </h>
 
-We are concerned about the impact of these amendments on small entities. In response to comments about the impact of the proposed 75 percent independence requirement on small fund boards, we are adopting an alternative for fund boards with only three directors.<sup> 91 </sup> Unlike fund boards composed of four or more directors, fund boards with only three directors would have to be composed of all independent directors in order to meet the 75 percent requirement or, alternatively, would have increase their board size to four directors. We are adopting an alternative to the 75 percent requirement for boards composed of three directors that would permit all but one director to be independent. With respect to the establishment of other special alternatives for small entities, we do not presently think this is feasible or necessary because these amendments are designed to strengthen the role of independent directors so that fund boards can more effectively manage conflicts of interest, monitor service providers, and protect the interests of fund shareholders. The need to strengthen the role of independent directors arises in part from problems uncovered in enforcement actions and settlements. Excepting small entities from the amendments could disadvantage fund shareholders of small entities and compromise the effectiveness of the amendments. Because we believe that small entities are as vulnerable to the problems uncovered in recent enforcement actions and settlements as large entities, shareholders of small entities are equally in need of more independent fund boards. Thus, specific measures must be undertaken by all funds, regardless of size, to increase the independence of boards to provide better oversight of service providers and compliance matters, to better manage conflicts of interest and to better protect fund shareholders.<h>VIII.CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION </h>
+We are concerned about the impact of these amendments on small entities. In response to comments about the impact of the proposed 75 percent independence requirement on small fund boards, we are adopting an alternative for fund boards with only three directors.<sup> 91 </sup> Unlike fund boards composed of four or more directors, fund boards with only three directors would have to be composed of all independent directors in order to meet the 75 percent requirement or, alternatively, would have increase their board size to four directors. We are adopting an alternative to the 75 percent requirement for boards composed of three directors that would permit all but one director to be independent. With respect to the establishment of other special alternatives for small entities, we do not presently think this is feasible or necessary because these amendments are designed to strengthen the role of independent directors so that fund boards can more effectively manage conflicts of interest, monitor service providers, and protect the interests of fund shareholders. The need to strengthen the role of independent directors arises in part from problems uncovered in enforcement actions and settlements. Excepting small entities from the amendments could disadvantage fund shareholders of small entities and compromise the effectiveness of the amendments. Because we believe that small entities are as vulnerable to the problems uncovered in recent enforcement actions and settlements as large entities, shareholders of small entities are equally in need of more independent fund boards. Thus, specific measures must be undertaken by all funds, regardless of size, to increase the independence of boards to provide better oversight of service providers and compliance matters, to better manage conflicts of interest and to better protect fund shareholders.
+
+<h>VIII. CONSIDERATION OF PROMOTION OF EFFICIENCY, COMPETITION AND CAPITAL FORMATION </h>
 
 <END MAIN TEXT>
 

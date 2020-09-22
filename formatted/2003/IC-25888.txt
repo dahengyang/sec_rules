@@ -88,13 +88,13 @@ Transactions of Investment Companies With Portfolio and Subadviser Affiliates
 
  SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission today is adopting new rule 17a-10 [17 CFR 270.17a-10] and amendments to rules 10f-3 [17 CFR 270.10f-3], 12d3-1 [17 CFR 270.12d3-1], 17a-6 [17 CFR 270.17a-6], 17d-1 [17 CFR 270.17d-1], and 17e-1 [17 CFR 270.17e-1] under the Investment Company Act of 1940 [15 U.S.C. 80a] ("Investment Company Act" or "Act").<sup> 1 </sup>
 
-<END HEADER>
-
-<h>EXECUTIVE SUMMARY </h>
+EXECUTIVE SUMMARY 
 
  The Commission is adopting one new rule and amending five current rules to permit investment companies ("funds") and certain of their affiliated persons to enter into a variety of transactions and joint arrangements without first obtaining an individual exemptive order from the Commission. Amendments to rules 17a-6 and 17d-1(d)(5) expand the circumstances in which a fund may enter into principal transactions and joint arrangements with its portfolio affiliates, and the portfolio affiliates of affiliated funds. New rule 17a-10 and the amendments to rules 10f-3, 12d3-1, and 17e-1 expand the circumstances in which a fund may engage in transactions and arrangements with persons who are affiliated persons of the fund because they provide investment advice with respect to (i) an affiliated fund, or (ii) a portion of the fund's assets that will be unaffected by the transaction. 
 
- I. DISCUSSION 
+<END HEADER>
+
+ <h>I. DISCUSSION </h>
 
 The Investment Company Act prohibits certain transactions between investment companies and their affiliated persons ("first-tier affiliates") and affiliated persons of their affiliated persons ("second-tier affiliates").<sup> 2 </sup> The Act's restrictions are designed to prevent these persons from managing the fund for their own benefit, rather than for the benefit of the fund's shareholders.<sup> 3 </sup> Affiliated persons of a fund include (i) its investment adviser and any subadvisers,<sup> 4 </sup> (ii) companies the fund controls or five percent (or more) of whose securities are held by the fund, (iii)persons who control the fund, and (iv) persons who are under common control with the fund.<sup> 5 </sup> 
 

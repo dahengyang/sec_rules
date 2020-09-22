@@ -70,15 +70,17 @@ Custody of Investment Company Assets Outside the United States
 
  FOR FURTHER INFORMATION CONTACT: Jaea F. Hahn, Attorney, Office of Regulatory Policy, at (202) 942-0690, or Thomas M.J. Kerwin, Senior Counsel, at (202) 942-0660, in the Division of Investment Management, Securities and Exchange Commission, 450 5th Street N.W., Washington D.C. 20549-0506.
 
- SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission ("Commission") today is adopting new rule 17f-7 [to be codified at 17 CFR 270.17f-7], amendments to rule 17f-5 [17 CFR 270.17f-5] and conforming amendments to rule 7d-1 [17 CFR 270.7d-1] and rule 17f-4 [17 CFR 270.17f-4] under the Investment Company Act of 1940 [15 U.S.C. 80a] (the "Investment Company Act").<SUP> 1 </SUP>
+ SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission ("Commission") today is adopting new rule 17f-7 [to be codified at 17 CFR 270.17f-7], amendments to rule 17f-5 [17 CFR 270.17f-5] and conforming amendments to rule 7d-1 [17 CFR 270.7d-1] and rule 17f-4 [17 CFR 270.17f-4] under the Investment Company Act of 1940 [15 U.S.C. 80a] (the "Investment Company Act").<SUP>1</SUP>
 
-<END HEADER>
-
-<h>EXECUTIVE SUMMARY </h>
+EXECUTIVE SUMMARY
 
 The Commission is adopting new rule 17f-7 under the Investment Company Act and amendments to rule 17f-5, the rule that governs the custody of the assets of registered management investment companies ("funds") with custodians outside the United States. The new rule and rule amendments will permit funds to maintain their assets in foreign securities depositories based on conditions that reflect the operations and role of these depositories. Depositories are systems for the central handling of securities in which transactions in securities are processed through adjustment of electronic account records rather than delivery of certificates.
 
-The rule and amendments we are adopting today establish basic standards for foreign depositories that funds may use, and generally require that a fund's contract with its global custodian obligate the custodian to analyze and monitor the custody risks of using a depository, and provide information about the risks to the fund or its adviser, as well as any information regarding material changes in the risks. Unlike amended rule 17f-5, rule 17f-7 does not contain any provisions regarding the delegation of authority under the rule. Decisions to maintain assets with a depository would be made by the fund or its adviser, based upon information provided by the global custodian. I. BACKGROUND 
+The rule and amendments we are adopting today establish basic standards for foreign depositories that funds may use, and generally require that a fund's contract with its global custodian obligate the custodian to analyze and monitor the custody risks of using a depository, and provide information about the risks to the fund or its adviser, as well as any information regarding material changes in the risks. Unlike amended rule 17f-5, rule 17f-7 does not contain any provisions regarding the delegation of authority under the rule. Decisions to maintain assets with a depository would be made by the fund or its adviser, based upon information provided by the global custodian. 
+
+<END HEADER>
+
+<h>I. BACKGROUND</h>
 
 Rule 17f-5 was adopted in 1984,<SUP> 2 </SUP> and extensively revised in 1997 ("1997 Amendments") to reflect significant developments in foreign investment by U.S. funds and the Commission's greater experience with foreign custody arrangements.<SUP> 3 </SUP> The 1997 Amendments expanded the types of foreign banks and securities depositories that may serve as custodians of fund assets, and required that the selection of a foreign custodian be based on whether the fund's assets will be subject to reasonable care if maintained with that custodian.<SUP> 4 </SUP> In 1998, as a result of difficulties experienced by funds, their advisers and bank custodians in applying the standards of rule 17f-5 to the use of foreign depositories, representatives of funds asked the Commission to delay the compliance date for the 1997 Amendments.<SUP> 5 </SUP> The Commission suspended the compliance date for most of the 1997 Amendments in May 1998.<SUP> 6 </SUP> Representatives of funds and bank custodians then submitted a proposal to further amend rule 17f-5 to change the standards by which foreign depositories are evaluated.<SUP> 7 </SUP>
 

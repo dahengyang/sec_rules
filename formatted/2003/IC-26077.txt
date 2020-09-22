@@ -76,15 +76,17 @@ Certain Research and Development Companies
 
  Supplementary Information: The Commission is adopting new rule 3a-8 [17 CFR 270.3a-8] under the Investment Company Act of 1940 [15 U.S.C. 80a] (the "Act"). <sup> 1 </sup>
 
-<END HEADER>
-
-<h>Executive Summary </h>
+Executive Summary
 
 Research and development companies ("R&D companies") often raise large amounts of capital, invest the proceeds and use the principal and return on these investments to fund their operations during their lengthy product development phase. An R&D company also may purchase a non-controlling equity stake in another company as part of a strategic alliance to conduct research and develop products jointly. Either of these activities may cause an R&D company to fall within the definition of an investment company under the Act. In 1993, a Commission order issued to ICOS Corporation, a biotechnology company, addressed how to determine the status of an R&D company under the Act (the "ICOS Order"). <sup> 2 </sup>
 
 Late last year, the Commission issued a release proposing rule 3a-8 ("Proposing Release") to update and codify the terms of the ICOS Order. <sup> 3 </sup> The proposed rule was designed to provide R&D companies with greater flexibility to raise and invest capital pending its use in research, development and other operations. The proposed rule also sought to clarify the extent to which an R&D company relying on the rule may make investments in other R&D companies pursuant to collaborative research and development arrangements. The commenters on the Proposing Release generally supported the proposed rule. Today the Commission is adopting rule 3a-8 as a nonexclusive safe harbor from investment company status for certain bona fide R&D companies. <sup> 4 </sup>
 
- I. Background<h>A. Definition of Investment Company </h>
+<END HEADER>
+
+ <h>I. Background</h>
+ 
+ <h>A. Definition of Investment Company </h>
 
 Section 3(a) of the Act has two definitions of investment company that may be relevant to R&D companies. <sup> 5 </sup> Section 3(a)(1)(A) of the Act defines an investment company as any issuer that is, holds itself out as, or proposes to be engaged primarily in the business of investing, reinvesting, or trading in securities. <sup> 6 </sup> Section 3(a)(1)(C) of the Act defines an investment company as any issuer that is engaged or proposes to engage in the business of investing, reinvesting, owning, holding, or trading in securities, and that owns or proposes to acquire investment securities having a value exceeding forty percent of the value of the company's total assets on an unconsolidated basis (exclusive of Government securities and cash items). <sup> 7 </sup> An issuer that meets the definition of investment company in section 3(a)(1)(C) of the Act nevertheless may be deemed not to be an investment company under two provisions in section 3(b) of the Act.
 

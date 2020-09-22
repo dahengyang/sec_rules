@@ -108,15 +108,15 @@ EFFECTIVE DATE: The rules become effective on June 9, 1997.
 
 FOR FURTHER INFORMATION CONTACT: David P. Mathews, Senior Counsel, Nadya B. Roytblat, Assistant Office Chief, or Kenneth J. Berman, Assistant Director, at (202) 942-0690, Office of Regulatory Policy, Division of Investment Management, Mail Stop 10-2, Securities and Exchange Commission, 450 Fifth Street, N.W., Washington, D.C. 20549. Requests for formal interpretative advice should be directed to the Office of Chief Counsel at (202) 942-0659, Division of Investment Management, Securities and Exchange Commission, 450 Fifth Street, N.W., Mail Stop 10-6, Washington, D.C. 20549. SUPPLEMENTARY INFORMATION: The Commission today is adopting rules 2a51-1, 2a51-2, 2a51-3, 3c-1, 3c-5 and 3c-6 [17 CFR 270.2a51-1, .2a51-2, .2a51-3, .3c-1, .3c-5 and .3c-6] under the Investment Company Act of 1940 [15 USC 80a] (the "Investment Company Act" or "Act").
 
-<END HEADER>
-
-<h>EXECUTIVE SUMMARY</h>
+EXECUTIVE SUMMARY
 
 The Commission is adopting rules to implement certain provisions of the National Securities Markets Improvement Act of 1996 (the "1996 Act"). The 1996 Act, among other things, added section 3(c)(7) to the Investment Company Act to create a new exclusion from regulation under the Act for privately offered investment companies that sell their securities solely to "qualified purchasers" owning or investing on a discretionary basis a specified amount of "investments" ("Section 3(c)(7) Funds"). The 1996 Act also amended section 3(c)(1) of the Investment Company Act, which excludes from regulation under the Act privately offered investment companies with 100 or fewer "beneficial owners" ("Section 3(c)(1) Funds"). Reflecting a relationship between section 3(c)(1) and new section 3(c)(7), the 1996 Act contains provisions that permit an existing Section 3(c)(1) Fund to convert into a Section 3(c)(7) Fund or invest in a Section 3(c)(7) Fund as a qualified purchaser, subject to certain requirements designed to protect the Section 3(c)(1) Fund's existing "beneficial owners."
 
 The 1996 Act requires the Commission to prescribe rules defining the terms "investments" and "beneficial owner" relevant to the new provisions by April 9, 1997. Other changes to the provisions of the Investment Company Act relating to privately offered investment companies require Commission rulemaking as well. The Commission is adopting rules under the Investment Company Act that: define the term "investments" for purposes of the qualified purchaser definition; define the term "beneficial owner" for purposes of the provisions that permit an existing Section 3(c)(1) Fund to convert into a Section 3(c)(7) Fund or to be treated as a qualified purchaser; clarify certain interpretative issues under section 3(c)(7); permit certain Section 3(c)(1) Funds to rely on the pre-1996 Act provisions of section 3(c)(1) rather than restructure their existing relationships with investors; permit knowledgeable employees of a Section 3(c)(1) Fund or a Section 3(c)(7) Fund (referred to collectively in this Release as "privately offered funds" or "funds"), and knowledgeable employees of certain affiliates of these Funds, to invest in the Funds; and address transfers of securities in a privately offered fund when the transfer was a gift or caused by divorce or death. The rules reflect modifications suggested by commenters that are designed to make the rules less complex and easier to apply, consistent with the policies underlying the Investment Company Act and the 1996 Act's provisions relating to privately offered funds.
 
-I. BACKGROUND
+<END HEADER>
+
+<h>I. BACKGROUND</h>
 
 <h>A. Statutory Exclusions for Privately Offered Funds</h>
 

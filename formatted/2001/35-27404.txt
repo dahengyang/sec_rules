@@ -28,8 +28,6 @@ https://www.sec.gov/rules/final/35-27404.htm
 
 	V.0.0.0: V. STATUTORY AUTHORITY
 
-
-
 <END TABLE OF CONTENTS>
 
 Electronic Recordkeeping by Public Utility Holding Companies 
@@ -58,15 +56,15 @@ Electronic Recordkeeping by Public Utility Holding Companies
 
 <END HEADER>
 
-<h>EXECUTIVE SUMMARY </h>
+EXECUTIVE SUMMARY
 
 Federal law requires registered public utility holding companies and their mutual or subsidiary service companies to make and keep books and records.<SUP> 2 </SUP> The recordkeeping requirements are a key part of the Commission's public utility holding company regulatory program because they allow us to monitor the operations of companies and to evaluate their compliance with federal law. The recordkeeping rule currently permits records to be preserved and maintained using storage media such as paper, magnetic tape, and microfilm. In light of the advances in information technology since the rule was promulgated in 1984 and in particular the rapid changes in technology in recent years, we believe that we should revise the standards for permissible recordkeeping media to allow the use of current electronic recordkeeping and storage resources in maintaining required records.<SUP> 3 </SUP> Moreover, because the proposed amendments do not specify the use of any particular technologies, they allow for the adoption of new technologies in the future. Finally, we are also interpreting rule 1 to be the exclusive means by which companies can comply with the recordkeeping provisions of the Electronic Signatures in Global and National Commerce Act ("Electronic Signatures Act," "Act," or "ESIGN").
 
- 
-
 Last year, Congress passed the Act to facilitate the use of electronic records and signatures in interstate and foreign commerce.<SUP> 4 </SUP> Consistent with the purpose and goals of the Electronic Signatures Act, we are amending the Holding Company Act rules to expand the circumstances under which companies may keep their records on electronic storage media. We are also updating our recordkeeping rules and amending them for clarification. The amendments are designed to update rule 1 to reflect and accommodate companies' use of modern information technology resources to maintain and index records. 
 
- I. Discussion<h>A. Amendments to Rule 1 </h>
+<h>I. Discussion</h>
+ 
+<h>A. Amendments to Rule 1 </h>
 
 The Commission is amending rule 1 to permit companies to keep their records in an electronic format. We also proposed to clarify the obligation of companies to provide copies of their records to Commission examiners, and to incorporate terminology used in electronic recordkeeping rules under the Securities Exchange Act of 1934 into rule 1.<SUP> 5 </SUP> We received six comment letters addressing the proposal.<SUP> 6 </SUP> Commenters supported the proposed amendments, and we are adopting them substantially as proposed, with a few changes in response to concerns expressed by commenters.
 

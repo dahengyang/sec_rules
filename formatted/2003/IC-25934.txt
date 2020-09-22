@@ -58,13 +58,13 @@ Custody of Investment Company Assets with a Securities Depository Securities and
 
  Supplementary Information: The Commission today is adopting amendments to rule 17f-4 [17 CFR 270.17f-4] under the Investment Company Act of 1940 [15 U.S.C. 80a] (the "Investment Company Act" or the "Act").<sup> 1 </sup>
 
-<END HEADER>
-
-<h>Executive Summary </h>
+Executive Summary 
 
 The Commission today is adopting amendments to rule 17f-4 under the Investment Company Act, the rule that permits a registered management investment company ("fund") to deposit the securities it owns in a system for the central handling of securities ("securities depository"). The custody practices and commercial law that relate to custody arrangements have changed substantially since we adopted the rule in 1978, and the amendments update and simplify rule 17f-4 to reflect these business and legal developments. The amendments permit additional types of investment companies to rely on the rule, and allow depositories to perform additional functions under the rule. The amendments also eliminate a number of specific custodial compliance requirements of rule 17f-4, and require instead that a fund's custodian, when using a depository, exercise due care in accordance with reasonable commercial standards.
 
- I. Background 
+<END HEADER>
+
+<h>I. Background</h>
 
 Section 17(f) of the Investment Company Act governs the custody of a fund's assets, including its portfolio securities.<sup> 2 </sup> This section requires a fund to maintain its securities and other investments with certain types of custodians under conditions designed to assure the safety of the fund's assets. It permits a fund to maintain its securities in a system for the central handling of securities (commonly referred to as a "securities depository"), subject to rules adopted by the Commission.<sup> 3 </sup>
 

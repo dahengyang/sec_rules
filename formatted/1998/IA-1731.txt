@@ -62,13 +62,15 @@ Exemption To Allow Investment Advisers To Charge Fees Based Upon a Share of Capi
 
  SUPPLEMENTARY INFORMATION: The Commission today is adopting amendments to rule 205-3 (17 CFR 275.205-3) under the Investment Advisers Act of 1940 (15 U.S.C. 80b) ("Advisers Act").
 
-<END HEADER>
-
-<h>Executive Summary </h>
+Executive Summary 
 
  Rule 205-3 under the Advisers Act permits investment advisers to charge performance fees to clients with at least $500,000 under the adviser's management or with a net worth of more than $1,000,000. The rule requires certain terms to be included in contracts providing for performance fees and specific disclosures to be made to clients entering into these contracts. The Commission is adopting rule amendments to eliminate the provisions of the rule that prescribe contractual terms and require specific disclosures. In addition, the amendments change the client eligibility criteria to permit the following clients to enter into performance fee arrangements with their investment advisers: (1) clients with at least $750,000 under management with the adviser or more than $1,500,000 of net worth; (2) clients who are "qualified purchasers" under section 2(a)(51)(A) of the Investment Company Act of 1940 ("Investment Company Act") ; <sup> 1 </sup> and (3) knowledgeable employees of the investment adviser.
 
- I. Background<h>A. Introduction </h>
+<END HEADER>
+
+<h>I. Background</h>
+ 
+ <h>A. Introduction </h>
 
  Section 205(a)(1) of the Advisers Act generally prohibits an investment adviser from entering into, extending, renewing, or performing any investment advisory contract that provides for compensation to the adviser based on a share of capital gains on, or capital appreciation of, the funds or any portion of the funds of the client. <sup> 2 </sup> In 1970, Congress provided an exception from the prohibition in section 205(a)(1) for advisory contracts relating to the investment of assets in excess of $1,000,000, <sup> 3 </sup> so long as an appropriate "fulcrum fee" is used. <sup> 4 </sup> This statutory exception was the only provision under which advisers could enter into performance fee contracts with so-called "high net worth" clients until 1985 when the Commission adopted rule 205-3. <sup> 5 </sup> 
 

@@ -538,7 +538,7 @@ We are adopting the proposed technical amendments to several rules under the Adv
 
 The Dodd-Frank Act amended section 203A of the Advisers Act to prohibit from SEC registration “mid-sized” advisers that generally have assets under management of between $25 million and $100 million. <sup>290</sup> Rule 203A-5 provided a temporary exemption from the prohibition on registration for mid-sized advisers to facilitate their transition to state registration. <sup>291</sup> As proposed, we are withdrawing rule 203A-5 because the transition of mid-sized advisers from SEC to state registration was completed in June 2012.
 
-<h>b.	Rule 202(a)(11)(G)-1(e)</h>
+<h>b. Rule 202(a)(11)(G)-1(e)</h>
 
 Section 409 of the Dodd-Frank Act created a new exclusion from the definition of “investment adviser” in section 202(a)(11)(G) of the Advisers Act for family offices.
 

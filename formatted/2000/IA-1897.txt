@@ -72,43 +72,31 @@ Electronic Filing by Investment Advisers; Amendments to Form ADV
 
 <END HEADER>
 
-<h>EXECUTIVE SUMMARY </h>
+EXECUTIVE SUMMARY
 
 The Commission is adopting new rules and rule amendments under the Advisers Act to require registered investment advisers to make filings with us electronically through the Investment Advisers Registration Depository (IARD). The IARD, which will be operated by NASD Regulation, Inc. (NASDR), will permit investment advisers to satisfy their filing obligations under state and federal law with a single electronic filing made over the Internet.
 
- 
-
 We are also amending Forms ADV and ADV-W to update the forms and prepare them for electronic filing. The amendments to Form ADV primarily affect Part 1 of the form. We are deferring, for later consideration, adoption of amendments to Part 2 of Form ADV and related rules.
-
- 
 
 An applicant for registration as an adviser after January 1, 2001 must submit its application electronically through the IARD using amended Form ADV. Advisers registered with the Commission must transition to electronic filing by submitting amendments to their Form ADVs through the IARD during the first four months of 2001 in accordance with a transition schedule we are today adopting. After April 2001, the Commission will no longer accept paper filings of Form ADV unless the adviser has been granted a hardship exemption. 
 
- I. DISCUSSION 
+<h>I. DISCUSSION</h>
 
 In April, the Commission proposed amendments to the filing rules under the Advisers Act as well as amendments to Forms ADV and ADV-W.<SUP> 1 </SUP> We received over 70 comments on the proposed rules.<SUP> 2 </SUP> Commenters overwhelmingly supported electronic filing by advisers. Today we are adopting those amendments, but are deferring adoption of amendments to Part 2 of Form ADV for reasons we describe below.<SUP> 3 </SUP> 
 
- 
-
- A. The Investment Adviser Registration Depository 
-
- 
+<h>A. The Investment Adviser Registration Depository</h>
 
 The Commission and the state securities authorities have created an electronic filing system, the IARD, through which investment advisers will make filings with us and the states over the Internet. NASDR is building and will operate the IARD under contracts with the Commission and the North American Securities Administrators Association (NASAA).<SUP> 4 </SUP> NASDR will be responsible for certain ministerial tasks as operator of the IARD, but will not act as a self-regulatory organization for advisers.<SUP> 5 </SUP> 
 
 The IARD will be "rolled out" in a series of releases beginning early next year. 
 
- 
-
- SEC-Registered Adviser Filings . Firms registered or applying for registration with us will use the IARD to file Forms ADV and ADV-W beginning in January 2001.<SUP> 6 </SUP> We have approved a schedule of filing fees that NASDR will charge to support operation of the system,<SUP> 7 </SUP> and are today adopting rules requiring all advisers to transition to electronic filing during the first four months of 2001.<SUP> 8 </SUP> These rules and the transition schedule are described in more detail in Section I.B of this Release. 
+SEC-Registered Adviser Filings . Firms registered or applying for registration with us will use the IARD to file Forms ADV and ADV-W beginning in January 2001.<SUP> 6 </SUP> We have approved a schedule of filing fees that NASDR will charge to support operation of the system,<SUP> 7 </SUP> and are today adopting rules requiring all advisers to transition to electronic filing during the first four months of 2001.<SUP> 8 </SUP> These rules and the transition schedule are described in more detail in Section I.B of this Release. 
 
 SEC-registered advisers will be able to make notice filings to, and submit filing and other fees to, the states through the IARD after January 1, 2001. The IARD will automatically calculate the amount of the fees due and will remit funds to the states.<SUP> 9 </SUP> SEC-registered advisers will need to fund their IARD accounts with NASDR because the IARD will not accept filings if there are insufficient funds on account to pay IARD filing fees and state fees. We discuss setting up an IARD account in Section I.B.4 of this Release. 
 
  
 
  State-Registered Adviser Filings .<SUP> 10 </SUP> In January 2001, the IARD will also be ready to accept filings of state-registered advisers. State-registered advisers will pay IARD filing fees based on the same schedule as SEC-registered advisers. We understand that all states will accept filing of Forms ADV and ADV-W through the IARD and that some states may require state-registered advisers to use the IARD. State-registered advisers that are unsure of the requirements of a state in which they are registered should contact the state securities authority. 
-
- 
 
  Public Access . The information filed through the IARD will form a database of information on advisers. Investors will be able to search the IARD database using the name of the adviser or an individual and obtain access to current information filed on Form ADV. We expect the public disclosure component of the IARD to begin operating in mid-2001. In later system releases we hope to be able to expand the search capabilities of the public access system so that investors may be able to search for an adviser that meets certain other criteria , e.g ., search for all advisers that provide financial planning services and have offices in a particular state. 
 
@@ -118,49 +106,27 @@ In the Proposing Release, we explained that we would block Internet access to so
 
  Investment Adviser Representative Filings . Advisers will also be able to use the IARD for investment adviser representative license filings and renewals and to pay fees associated with those filings. This portion of the system will not be operational until later in 2001. Because we do not separately register or license advisers' employees, we have not been involved in development or deployment of this part of the IARD. 
 
- 
-
  Part 2 of Form ADV . The IARD will, in a later system release, accept Part 2 of Form ADV. As noted above, the Commission is not now adopting amendments to Part 2. Until we adopt revisions, advisers must continue to deliver "old" Part II to prospective clients and annually offer them to clients under our brochure rule.<SUP> 14 </SUP> As proposed, we will not require advisers to submit Part II of Form ADV to us until the IARD is able to accept advisers' brochures electronically.<SUP> 15 </SUP> Under the rules we are adopting, however, Part II will be considered filed with us during this interim period.<SUP> 16 </SUP> We discuss Part II and the interim rules in Section I.C.2 of this release.<h>B. Transition to Electronic Filing </h>
-
- 
 
 The Commission is adopting, substantially as proposed, amendments to our filing rules to implement electronic filing and create a transition process for advisers currently filing with the Commission on paper. The following sections describe the revised requirements both for applicants for registration under the Advisers Act and for current registrants. Additional guidance may be found in the revised instructions to Form ADV and our web site.
 
- 
-
  1. Applicants For Registration as an Investment Adviser 
-
- 
 
 Persons applying for registration with the Commission as an investment adviser after January 1, 2001 must file Form ADV, as amended, through the IARD.<SUP> 17 </SUP> Paper filings on Form ADV will be accepted only if the person has obtained a hardship exemption, described below.<SUP> 18 </SUP>
 
- 
-
  2. Advisers Currently Registered with the Commission 
-
- 
 
 Each adviser registered with the Commission on January 1, 2001 must re-file its Form ADV with us through the IARD, using amended Form ADV, during one of the first four months of 2001.<SUP> 19 </SUP> All subsequent amendments must be made electronically, and if the adviser should withdraw its registration, Form ADV-W must be filed electronically.<SUP> 20 </SUP> 
 
 To facilitate a smooth transition to electronic filing, we have assigned each adviser registered with us to one of four groups. Members of each group must file amendments to their registration forms by the end of one of the first four months of 2001.<SUP> 21 </SUP> They must use revised Form ADV, and must file electronically through the IARD unless they have obtained a hardship exemption. We have assigned each adviser with a fiscal year ending in December to one of the first three months by reference to its SEC filing number,<SUP> 22 </SUP> which will permit those advisers to use the transitional filing to also satisfy their annual updating requirement under our rules.<SUP> 23 </SUP> We have assigned advisers having fiscal years ending in months other than December to the group that must file no later than the last day of April 2001.<SUP> 24 </SUP><h>3. Hardship Exemptions </h>
 
- 
-
 An adviser may request one of two types of hardship exemptions by submitting Form ADV-H (on paper) to NASDR.<SUP> 25 </SUP> A temporary hardship exemption permits the adviser to extend the deadline for a filing for seven business days if unexpected difficulties, such as a computer malfunction or electrical outage, prevent it from filing.<SUP> 26 </SUP> The temporary hardship exemption is available automatically upon filing Form ADV-H. A continuing hardship exemption is available only to an adviser that is a "small business" and can demonstrate that filing electronically would create an undue hardship ( e.g ., the adviser has no computer and is unable to afford a filing service).<SUP> 27 </SUP> Although advisers requesting a continuing hardship exemption will submit Form ADV-H to NASDR, the decision whether to grant an exemption will be made by the Commission.<SUP> 28 </SUP><h>4. Setting Up an IARD Account </h>
-
- 
 
 In order to file electronically, an adviser must first request and obtain access to the IARD and set up an IARD account with NASDR. This fall, we will mail each SEC-registered adviser the forms and instructions needed to set up an IARD user account with NASDR. Advisers must complete these forms, sign them, and mail them back to NASDR. NASDR will then create the adviser's IARD account for fee payments, assign the adviser a CRD number,<SUP> 29 </SUP> and issue passwords for the adviser's authorized personnel. NASDR will also provide the adviser with instructions on funding its IARD billing account; the adviser must fund its IARD billing account by check or wire transfer before it can make an electronic filing through the IARD.<SUP> 30 </SUP><h>5. Getting Help. </h>
 
- 
-
 We designed the IARD with the assistance of an advisory industry committee whose members represented different types of advisory firms. The committee helped us design the IARD to be easy for advisers to use. Under a pilot program, scheduled to begin next month, a small group of advisers will make filings through the IARD to test the system. Persons completing Form ADV on the IARD will be able to use an on-line help function that our staff will update from time to time with answers to frequently asked questions. We recognize, however, that the IARD and our rule amendments may raise questions for persons filing for the first time. Our staff and the staff of NASDR will provide assistance to advisers during this transition period. We have created a page on our web site to provide information to advisers about electronic filing.<SUP> 31 </SUP> We will use the IARD web page to post copies of forms, instructions on gaining IARD access, instructions on how to make an electronic filing, and answers to frequently asked questions about the IARD and electronic filing. We have established a hot line to answer questions,<SUP> 32 </SUP>and the NASDR will operate a help desk for advisers.<SUP> 33 </SUP> Before calling, we urge advisers and their personnel to consult the instructions to Form ADV and our web site.<h>C. Amendments to Form ADV </h>
 
- 
-
 Form ADV consists of two parts. The first part asks for information about the adviser and persons associated with the adviser, which provides us with information we need to make registration decisions and manage our regulatory and examinations program. The second part contains the requirements for a written statement that advisers must provide to prospective clients and annually offer to clients under our rules.<SUP> 34 </SUP><h>1. Part 1 of Form ADV </h>
-
- 
 
 We proposed substantial revisions to Part 1 to accommodate electronic filing, and to reflect changes in the advisory industry and the laws regulating investment advisers.<SUP> 35 </SUP> We proposed to reorganize Part 1 using simpler language, and introduce the items with brief explanations of why we need the information. We proposed substantial revisions to the schedules to Part 1, on which advisers must provide information about control persons and details about disciplinary events. Finally, we proposed to divide Part 1 further into two parts, segregating those items to which all advisers must respond (Part 1A) from those additional items to which only state-registered advisers must respond (Part 1B).<SUP> 36 </SUP> 
 
@@ -168,15 +134,9 @@ Many of the commenters on Part 1A requested technical changes or suggested that 
 
 Item 11 requires that each adviser responding affirmatively to a disciplinary question complete a Disclosure Reporting Page (DRP). Part 1A has three DRPs, one each for criminal, civil, and regulatory actions. Advisers must complete a separate DRP for each reported event; the DRPs elicit details regarding the disciplinary events in a structured format and replace current Schedules D and E. Item 11 includes an expanded list of disciplinary events that must be reported on a DRP. Advisers must now report actions of foreign courts and regulatory authorities ,<SUP> 39 </SUP> cease-and-desist orders issued by the Commission ,<SUP> 40 </SUP> and military court convictions, misdemeanor perjury convictions, and convictions for conspiracy to commit certain offenses.<SUP> 41 </SUP> Advisers must only report disciplinary events occurring within the last ten years,<SUP> 42 </SUP> and, by checking a box on the appropriate DRP, advisers can remove from their current Form ADV disciplinary events reported for advisory affiliates no longer associated with the firm.
 
- 
-
 We proposed to expand the current requirement that advisers report certain pending criminal proceedings to require disclosure of any felony charges, and certain misdemeanor charges, brought against the adviser or an advisory affiliate during the preceding ten years. Many commenters opposed this change, pointing out that it would require disclosure even when the charges were later dropped or the person acquitted. 
 
- 
-
 We have decided to require SEC-registered advisers to disclose only pending charges, as currently required by the form.<SUP> 43 </SUP><h>2. Part 2 of Form ADV </h>
-
- 
 
 As noted above, we are deferring adoption of amendments to Part 2 of Form ADV. Deferment will allow us time to fully consider the many comments we received on our proposed revisions to Part II. We have left the (old) form, Part II, in place and are also retaining the current rules on delivery of old Part II. As a result, advisers must continue to provide prospective clients with (old) Part II of Form ADV or a brochure containing at least the same required information.<SUP> 44 </SUP> Advisers also must maintain an updated copy of their (old) Part II in their files, and must provide it to the Commission staff upon request. However, we are not requiring advisers to submit these documents to us until we have acted on the Part 2 amendments and the IARD is ready to accept (new) Part 2 brochures electronically.<SUP> 45 </SUP> We will notify advisers when the IARD is ready and will provide a grace period before advisers are required to file (new) Part 2 brochures. 
 

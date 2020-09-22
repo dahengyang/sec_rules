@@ -58,13 +58,13 @@ Exemption for Certain Investment Advisers Operating Through the Internet Securit
 
  Supplementary Information: The Commission is adopting amendments to rule 203A-2 [17 CFR 275.203A-2], Form ADV [(Part 1A, Item 2)] (17 CFR 279.1) and Schedule D to Form ADV [17 CFR 279.1] under the Investment Advisers Act of 1940 .
 
-<END HEADER>
-
-<h>Executive Summary </h>
+Executive Summary
 
 Section 203A of the Investment Advisers Act of 1940 (the "Advisers Act") generally prohibits an investment adviser from registering with the Commission unless that adviser has more than $25 million of assets under management or is an adviser to a registered investment company. The Commission is adopting new rule 203A-2(f) under the Advisers Act to exempt from the prohibition on Commission registration certain investment advisers that provide advisory services through the Internet.<sup> 1 </sup> An adviser is eligible for registration under the rule if the adviser provides investment advice to all of its clients exclusively through the adviser's interactive website, except that the adviser may advise fewer than 15 clients through other means during the preceding 12 months. 
 
- I. Background 
+<END HEADER>
+
+<h> I. Background </h>
 
 The National Securities Markets Improvement Act of 1996 ("NSMIA") amended the Advisers Act to divide the responsibility for regulating investment advisers between the Commission and state securities authorities.<sup> 2 </sup> Section 203A of the Advisers Act effects this division by generally prohibiting investment advisers from registering with us unless they have at least $25 million of assets under management or advise a registered investment company, and preempting most state regulatory requirements with respect to SEC-registered advisers.<sup> 3 </sup> The $25 million threshold was designed to distinguish investment advisers with a national presence from those that are essentially local businesses.<sup> 4 </sup> Congress recognized, however, that some investment advisers should be regulated at the federal level even though they have less than $25 million of assets under management, and gave the Commission the authority in section 203A(c) of the Advisers Act to exempt investment advisers, by rule or order, from the prohibition on Commission registration in cases in which the prohibition otherwise would be "unfair, a burden on interstate commerce, or otherwise inconsistent with the purposes" of section 203A.<sup> 5 </sup> 
 

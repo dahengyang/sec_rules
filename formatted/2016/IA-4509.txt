@@ -535,19 +535,20 @@ These amendments will apply to communications circulated or distributed after th
 We are adopting the proposed technical amendments to several rules under the Advisers Act and withdrawing transition rule 203A-5 under the Advisers Act. Consistent with the proposal, we are removing transition provisions from rules where the transition process is complete. Three of the provisions were added as part of the implementation of the Dodd-Frank Act. Two of the provisions were added when we amended Form ADV and several Advisers Act rules to require advisers to electronically file their brochures with the Commission. One commenter specifically supported removal of the transition provisions. <sup>289</sup>
 
 <h>a. Rule 203A-5</h>
-<h>Rule 202(a)(11)(G)-1(e)</h>
-<h>Rule 203-1(e)</h>
-<h>Rule 203-1(b), Rule 204-1(c) and Rule 204-3(g)</h>
 
-The Dodd-Frank Act amended section 203A of the Advisers Act to prohibit from SEC registration “mid-sized” advisers that generally have assets under management of between $25 million and $100 million. <sup>290</sup> Rule 203A-5 provided a temporary exemption from the prohibition on registration for mid-sized advisers to facilitate their transition to state registration. <sup>291</sup> As proposed, we are withdrawing rule 203A-5 because the transition of mid-sized advisers from SEC to state registration was completed in June 2012.b.	Rule 202(a)(11)(G)-1(e)
+The Dodd-Frank Act amended section 203A of the Advisers Act to prohibit from SEC registration “mid-sized” advisers that generally have assets under management of between $25 million and $100 million. <sup>290</sup> Rule 203A-5 provided a temporary exemption from the prohibition on registration for mid-sized advisers to facilitate their transition to state registration. <sup>291</sup> As proposed, we are withdrawing rule 203A-5 because the transition of mid-sized advisers from SEC to state registration was completed in June 2012.
+
+<h>b.	Rule 202(a)(11)(G)-1(e)</h>
 
 Section 409 of the Dodd-Frank Act created a new exclusion from the definition of “investment adviser” in section 202(a)(11)(G) of the Advisers Act for family offices.
 
-The Commission adopted rule 202(a)(11)(G)-1 <sup>292</sup> defining a family office and provided two extended transition periods for family offices with certain charitable organization clients and family offices relying on the rescinded “private adviser” exemption. <sup>293</sup> As proposed, we are removing paragraph (e) of rule 202(a)(11)(G)-1 because subparagraph
+The Commission adopted rule 202(a)(11)(G)-1 <sup>292</sup> defining a family office and provided two extended transition periods for family offices with certain charitable organization clients and family offices relying on the rescinded “private adviser” exemption. <sup>293</sup> As proposed, we are removing paragraph (e) of rule 202(a)(11)(G)-1 because subparagraph 1. of the transition provisions provided for by it expired on December 31, 2013, and subparagraph (2) expired on March 30, 2012.
 
-<h>1. of the transition provisions provided for by it expired on December 31, 2013, and subparagraph (2) expired on March 30, 2012.c.	Rule 203-1(e)</h>
+<h>c. Rule 203-1(e)</h>
 
-Rule 203-1 outlines the procedures for advisers to register with the Commission. Paragraph (e) of the rule was added as part of the implementation of the Dodd-Frank Act and allowed companies that were relying on the rescinded “private adviser” exemption <sup>294</sup> to remain exempt from registration until March 30, 2012 under certain conditions. <sup>295</sup> As proposed, we are removing paragraph (e) from Rule 203-1 because the transition for private advisers is now complete.d.	Rule 203-1(b), Rule 204-1(c) and Rule 204-3(g)
+Rule 203-1 outlines the procedures for advisers to register with the Commission. Paragraph (e) of the rule was added as part of the implementation of the Dodd-Frank Act and allowed companies that were relying on the rescinded “private adviser” exemption <sup>294</sup> to remain exempt from registration until March 30, 2012 under certain conditions. <sup>295</sup> As proposed, we are removing paragraph (e) from Rule 203-1 because the transition for private advisers is now complete.
+
+<h>d. Rule 203-1(b), Rule 204-1(c) and Rule 204-3(g)</h>
 
 Rule 203-1 and Rule 204-1 were amended in 2010 to provide transition periods for advisers to file narrative brochures required by Part 2A of Form ADV electronicallywith the Investment Adviser Registration Depository (“IARD”). <sup>296</sup> Rule 203-1(b), entitled “transition to electronic filing,” requires investment advisers applying for registration after January 1, 2011 to file their brochures electronically unless they receive a continuing hardship exemption. <sup>297</sup> Rule 204-1(c) requires investment advisers that are required to file a brochure and had a fiscal year that ended on or after December 31, 2010 to electronically file a Part 2A brochure as part of their next annual updating amendment. As proposed, we are removing paragraph (b) from rule 203-1 and paragraph (c) from rule 204-1 because the transition to electronic filing is now complete. <sup>298</sup> We also are making a technical, conforming additional change by removing rule 204-3(g) because it refers to the transition provision in rule 204-1(c). <sup>299</sup>
 

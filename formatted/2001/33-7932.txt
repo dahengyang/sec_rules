@@ -128,9 +128,7 @@ Role of Independent Directors of Investment Companies
 
  SUPPLEMENTARY INFORMATION: The Securities and Exchange Commission (the "Commission") is adopting new rules 2a19-3 [17 CFR 270.2a19-3], 10e-1 [17 CFR 270.10e-1], and 32a-4 [17 CFR 270.32a-4] and amendments to rules 0-1 [17 CFR 270.0-1], 10f-3 [17 CFR 270.10f-3], 12b-1 [17 CFR 270.12b-1], 15a-4 [17 CFR 270.15a-4], 17a-7 [17 CFR 270.17a-7], 17a-8 [17 CFR 270.17a-8], 17d-1 [17 CFR 270.17d-1], 17e-1 [17 CFR 270.17e-1], 17g-1 [17CFR 270.17g-1], 18f-3 [17 CFR 270.18f-3], 23c-3 [17 CFR 270.23c-3], 30d-1 [17 CFR 270.30d-1], 30d-2 [17 CFR 270.30d-2], and 31a-2 [17 CFR 270.31a-2] under the Investment Company Act of 1940 [15 U.S.C. 80a] ("Investment Company Act" or "Act"); amendments to Forms N-1A [17 CFR 274.11A], N-2 [17 CFR 274.11a-1], and N-3 [17 CFR 274.11b] under the Investment Company Act and the Securities Act of 1933 [15 U.S.C. 77a-aa] ("Securities Act"); and amendments to Schedule 14A [17 CFR 240.14a-101] under the Securities Exchange Act of 1934 [15 U.S.C. 78a-mm] ("Exchange Act"). The Commission also is rescinding rule 2a19-1 under the Investment Company Act [17 CFR 270.2a19-1].
 
-<END HEADER>
-
-<h>EXECUTIVE SUMMARY </h>
+EXECUTIVE SUMMARY
 
 The Commission is adopting new rules and amendments to rules and forms to enhance the independence and effectiveness of independent directors of investment companies ("funds"). First, we are adopting amendments to require, for funds relying on certain exemptive rules, that: 
 
@@ -164,7 +162,9 @@ Finally, we are requiring that funds provide better information about directors,
 
 Together, these new rules and amendments are designed to reaffirm the important role that independent directors play in protecting fund investors, strengthen their hand in dealing with fund management, reinforce their independence, and provide investors with greater information to assess the directors' independence.
 
- I. BACKGROUND 
+<END HEADER>
+
+<h>I. BACKGROUND</h>
 
 Mutual funds are organized as corporations, trusts, or limited partnerships under state laws, and thus are owned by their shareholders, beneficiaries, or partners.<SUP> 1 </SUP> Like other types of corporations, trusts, or partnerships, a mutual fund must be operated for the benefit of its owners.<SUP> 2 </SUP> Unlike most business organizations, however, mutual funds are typically organized and operated by an investment adviser that is responsible for the day-to-day operations of the fund. In most cases, the investment adviser is separate and distinct from the fund it advises, with primary responsibility and loyalty to its own shareholders.<SUP> 3 </SUP> The "external management" of mutual funds presents inherent conflicts of interest and potential for abuses that the Investment Company Act and the Commission have addressed in different ways.<SUP> 4 </SUP>
 

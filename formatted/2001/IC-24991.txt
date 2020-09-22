@@ -62,11 +62,13 @@ Electronic Recordkeeping by Investment Companies and Investment Advisers
 
 <END HEADER>
 
-<h>EXECUTIVE SUMMARY </h>
+EXECUTIVE SUMMARY
 
 The Commission is adopting amendments to rules regarding electronic recordkeeping by registered investment companies ("funds") and registered investment advisers ("advisers"). The federal securities laws require funds, advisers, and others to make and keep books and records. The recordkeeping requirements are a key part of the Commission's regulatory program for funds and advisers, as they allow us to monitor fund and adviser operations, and to evaluate their compliance with federal securities laws. Last year, Congress passed the Electronic Signatures in Global and National Commerce Act (the "Electronic Signatures Act," "Act," or "ESIGN") to facilitate the use of electronic records and signatures in interstate and foreign commerce.<SUP> 2 </SUP> Consistent with the purposes and goals of the Electronic Signatures Act, we are adopting rule amendments that expand the circumstances under which funds and advisers may keep records on electronic storage media, and clarify and update our recordkeeping rules. We are also interpreting rules 31a-2 and 204-2 to be the exclusive means by which funds and advisers can comply with the recordkeeping provisions of the Electronic Signatures Act. 
 
- I. DISCUSSION<h>A. Amendments to Rules 31a-2 and 204-2 </h>
+<h>I. DISCUSSION</h>
+ 
+ <h>A. Amendments to Rules 31a-2 and 204-2 </h>
 
 The Commission is amending rules 31a-2 and 204-2 to permit funds and advisers to keep all of their records in an electronic format. Prior to today's amendments, rules 31a-2 and 204-2 provided that funds and advisers could keep records on electronic storage media only if the records were originally created or received in an electronic format.<SUP> 3 </SUP> The Commission's staff had issued no-action letters to conditionally permit funds and advisers to convert records into an electronic format and retain them electronically.<SUP> 4 </SUP> In March of this year we proposed rule amendments to incorporate these no-action letters into rules 31a-2 and 204-2, while eliminating many of the conditions that apply only to electronic records created from non-electronic originals. We also proposed to clarify the obligation of funds and advisers to provide copies of their records to Commission examiners, and to incorporate terminology used in electronic recordkeeping rules under the Securities Exchange Act of 1934 into rules 31a-2 and 204-2.<SUP> 5 </SUP> We received seven comment letters addressing the proposal.<SUP> 6 </SUP> Commenters supported most of the proposed amendments, and we are adopting them substantially as proposed, with a few changes in response to concerns expressed by commenters.
 

@@ -76,10 +76,6 @@ Shareholder Reports and Quarterly Portfolio Disclosure of Registered Management 
 
  SUPPLEMENTARY INFORMATION : The Securities and Exchange Commission (the "Commission") is adopting new rule 30b1-5<sup> 1 </sup> and amendments to rules 30a-2,<sup> 2 </sup> 30a-3,<sup> 3 </sup> and 30d-1<sup> 4 </sup> under the Investment Company Act of 1940<sup> 5 </sup> ("Investment Company Act"); amendments to Forms N-1A,<sup> 6 </sup> N-2,<sup> 7 </sup> and N-3<sup> 8 </sup> under the Investment Company Act and the Securities Act of 1933<sup> 9 </sup> ("Securities Act"); new Form N-Q<sup> 10 </sup> and amendments to Form N-CSR<sup> 11 </sup> under the Investment Company Act and the Securities Exchange Act of 1934<sup> 12 </sup> ("Exchange Act"); and amendments to Article 6<sup> 13 </sup> and Article 12<sup> 14 </sup> of Regulation S-X.<sup> 15 </sup>
 
-<END HEADER>
-
-<h>Executive Summary </h>
-
 We are adopting rule and form amendments<sup> 16 </sup> that:
 
 Require open-end management investment companies ("mutual funds") to disclose fund expenses borne by shareholders during the reporting period in reports to shareholders;<sup> 17 </sup>
@@ -92,15 +88,13 @@ Require reports to shareholders by funds to include a tabular or graphic present
 
 Require a fund to file its complete portfolio schedule as of the end of its first and third fiscal quarters with the Commission on new Form N-Q, which will be filed under the Investment Company Act and the Exchange Act and certified by the fund's principal executive and financial officers; and 
 
- 
-
 Require a mutual fund to include Management's Discussion of Fund Performance in its annual report to shareholders.<sup> 18 </sup>
-
- 
 
 These amendments are intended to provide better information to investors about fund costs, investments, and performance. 
 
- I. Background 
+<END HEADER>
+
+<h>I. Background</h>
 
 The Investment Company Act and rules thereunder require each fund to transmit a report to its shareholders semi-annually, within 60 days of the end of the period for which the shareholder report is made, and to file the report with the Commission no later than 10 days after it is transmitted to shareholders.<sup> 19 </sup> Shareholder reports are one of the principal means by which funds provide periodic information to their investors. Fund shareholder reports historically have served primarily as a vehicle to provide financial statements and other financial information to shareholders.<sup> 20 </sup> We believe that today's amendments and new rules will make these reports more effective vehicles for communicating information to investors. Today's amendments principally address disclosure of fund expenses and portfolio holdings, two significant areas for improvement that have been the subject of public discussion and concern.<h>A. Disclosure of Fund Expenses </h>
 

@@ -1001,5 +1001,3 @@ In Section IV, above, we discuss additional alternatives that we have considered
 241 See Section IV.C. (alternatives include (i) using a different registrant size metric in the SRC definition, (ii) revising the SRC definition using different thresholds, and (iii) reducing the number of registrants that our rules define as accelerated filers, which would expand the number of registrants eligible for the Sarbanes-Oxley Act Section 404(b) exemption).
 
 242 See Section IV.B.
-
-309 (2012); Sec. 107, Pub. L. 112-106, 126 Stat. 313 (2012), and Sec. 72001, Pub. L. 114-94,

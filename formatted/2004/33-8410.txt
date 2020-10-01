@@ -264,7 +264,11 @@ The Administrative Procedure Act generally requires that an agency publish an ad
 
 The Commission finds good cause to make the changes to Form ID effective on April 26, 2004.<sup> 52 </sup> The changes to Form ID are interrelated with other programming changes being made to EDGAR. These other programming changes must be implemented by April 26, 2004 to avoid significant system operating problems and cost overruns. Moreover, the Form ID changes are not voluminous or substantive and should not create any hardship for those who seek to access the new system.
 
-Finally, we stated in the Proposing Release that the changes would likely be effective in late April possibly without much notice, and no commenter suggested there would be any hardship associated with this time frame. In the unlikely event that an applicant experiences any unanticipated hardship caused by the shortened notice period, the Commission staff will use reasonable efforts to assist the applicant to obtain access codes on a timely basis.<h>VIII. STATUTORY BASIS </h>
+Finally, we stated in the Proposing Release that the changes would likely be effective in late April possibly without much notice, and no commenter suggested there would be any hardship associated with this time frame. In the unlikely event that an applicant experiences any unanticipated hardship caused by the shortened notice period, the Commission staff will use reasonable efforts to assist the applicant to obtain access codes on a timely basis.
+
+<h>VIII. STATUTORY BASIS </h>
+
+We are adopting the amendments to Regulation S-T and Form ID under the authority in Section 19(a)<sup>53</sup> of the Securities Act, Sections 3(b),<sup>54</sup> 13(a),<sup>55</sup> 23(a)<sup>56</sup> and 35A<sup>57</sup> of the Exchange Act, Section 20<sup>58</sup> of the Public Utility Holding Company Act, Section 319<sup>59</sup> of the Trust Indenture Act of 1939 and Sections 30<sup>60</sup> and 38<sup>61</sup> of the Investment Company Act of 1940.
 
 <END MAIN TEXT>
 

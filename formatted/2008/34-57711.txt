@@ -160,6 +160,20 @@ We have endeavored through the amendments to minimize the regulatory burden on a
 
 <END MAIN TEXT>
 
+1 17 CFR 294.331 and 274.128.
+
+2 17 CFR 294.330 and 274.101.
+
+3 15 U.S.C. 78a et seq.
+
+4 15 U.S.C. 80a-1 et seq.
+
+5 Pub. L. 110-174, 121 Stat. 2516 (2007).
+
+6 Section 4(a) of the Sudan Divestment Act [to be codified at 15 U.S.C. 80a-13(c)(1)].
+
+7 Section 4(a) of the Sudan Divestment Act [to be codified at 15 U.S.C. 80a-13(c)(2)(B)]. 
+
 8 Section 4(b) of the Sudan Divestment Act.
 
 9 Investment Company Act Release No. 28148 (Feb. 11, 2008) [73 FR 8976 (Feb. 15, 2008)] (“Proposing Release”).
@@ -182,6 +196,12 @@ We have endeavored through the amendments to minimize the regulatory burden on a
 
 18 As proposed, a registered investment company that divests securities in accordance with the Sudan Divestment Act during the period that begins on the fifth business day before the date of filing a Form N-CSR or Form N-SAR and ends on the date of filing may disclose the divestment in either that filing or an amendment thereto. The registered investment company must file the amendment not later than five business days after the date of filing the Form N-CSR or Form N-SAR. Instruction 2. to Item 6(b) of Form
 
+19 ICI letter at 2. 
+
+20 Calvert letter at 3. 
+
+21 ICI letter at 3. 
+
 22 Instruction 1. to Item 6(b) of Form N-CSR; Instructions to Item 133 of Form N-SAR.
 
 23 Instruction 3. to Item 6(b) of Form N-CSR; Instructions to Item 133 of Form N-SAR.
@@ -190,9 +210,25 @@ We have endeavored through the amendments to minimize the regulatory burden on a
 
 25 Calvert letter at 3; ICI letter at 3-4.
 
+26 Item 6(b) of Form N-CSR; Item 133 of Form N-SAR.
+
+27 5 U.S.C. 553(d)(3)
+
+28 Section 4(b) of the Sudan Divestment Act
+
+29 ICI letter at 3
+
 30 44 U.S.C. 3501 et seq.
 
 31 See Proposing Release, supra note 9, 73 FR at 8978.
+
+32 17 CFR 249.331 and 17 CFR 274.128. 
+
+33 17 CFR 249.330 and 17 CFR 274.101. 
+
+34 Section 4(b) of the Sudan Divestment Act.
+
+35 Id.
 
 36 Item 6(b) of Form N-CSR; Item 133 of Form N-SAR.
 
@@ -208,6 +244,12 @@ We have endeavored through the amendments to minimize the regulatory burden on a
 
 42 Section 4(b) of the Sudan Divestment Act.
 
+43 Instruction 2. to Item 6(b) of Form N-CSR; Instructions to Item 133 of Form N-SAR.
+
+44 See supra note 40. 
+
+45 See supra note 41.
+
 46 This cost increase is estimated by multiplying the total annual hour burden (520 hours) by the estimated hourly wage rate of $279.50 and rounding to the nearest 1,000. The estimated wage figure is based on published rates for compliance attorneys and senior programmers, modified to account for an 1800-hour work-year and multiplied by 5.35 to account for bonuses, firm size, employee benefits, and overhead, yielding effective hourly rates of $270 and $289, respectively. See Securities Industry Association, Report on Management & Professional Earnings in the Securities Industry 2007 (Sept. 2007). The estimated wage rate is further based on the estimate that attorneys and programmers would divide time equally, resulting in a weighted wage rate of $279.50 (($270 x .50) + ($289 x .50)).
 
 47 15 U.S.C. 78w(a)(2).
@@ -215,3 +257,13 @@ We have endeavored through the amendments to minimize the regulatory burden on a
 48 15 U.S.C. 80a-2(c).
 
 49 15 U.S.C. 77b(b).
+
+50 15 U.S.C. 77c(f).
+
+51 5 U.S.C. 601 et seq.
+
+52 See Proposing Release, supra note 9, 73 FR at 8981. 
+
+53 17 CFR 270.0-10.
+
+54 This estimate is based on analysis by the Division of Investment Management staff of publicly available data. 

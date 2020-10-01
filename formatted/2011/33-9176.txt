@@ -258,6 +258,16 @@ Under Section 605(b) of the Regulatory Flexibility Act, <sup>107</sup> we certif
 
 <END MAIN TEXT>
 
+1 17 CFR 229.1111.
+
+2 17 CFR 229.1100 through 17 CFR 229.1123.
+
+3 17 CFR 230.193.
+
+4 15 U.S.C. 77a et seq.
+
+5 Issuer Review of Assets in Offerings of Asset-Backed Securities, Release No. 33-9150 (Oct. 13, 2010) [75 FR 64182] (“Proposing Release”).
+
 6 See S. Rep. No. 111-176, at 133 (2010) (“Senate Report”).
 
 7 The comments on the Proposing Release are available at 10/s72610.shtml.
@@ -272,11 +282,23 @@ Under Section 605(b) of the Regulatory Flexibility Act, <sup>107</sup> we certif
 
 12 See comment letters from Center for Responsible Lending (“CRL”); Senator Levin, Permanent Subcommittee on Investigations, United States Senate Committee on Homeland Security and Governmental Affairs (“Levin”); Consumer Federation of America (“Consumer Federation”); Christopher Chuff.
 
+13 See comment letter from Consumer Federation.
+
+14 See comment letters from ABA; American Financial Services Association (“AFSA”); SIFMA. 
+
+15 See comment letter from SIFMA. Another commentator noted that the relationship between the issuer and originator is an important consideration in determining the appropriateness of a review, and suggested that in socalled “aggregator” transactions, where the issuer is unaffiliated with the originator of the assets, the review should be more fulsome. See comment letter from ABA.
+
 16 Under Securities Act Rule 191 (17 CFR 230.191), the depositor for the asset-backed securities acting solely in its capacity as depositor to the issuing entity is the “issuer” for purposes of the asset-backed securities of that issuing entity. “Depositor” means the depositor who receives or purchases and transfers or sells the pool assets to the issuing entity. See Item 1101 of Regulation AB (17 CFR 229.1101). For asset-backed securities transactions where there is not an intermediate transfer of the assets from the sponsor to the issuing entity, the term depositor refers to the sponsor. For asset-backed securities transactions where the person transferring or selling the pool assets is itself a trust, the depositor of the issuing entity is the depositor of that trust. See id. As defined in Item 1101 of Regulation AB, the “sponsor” means the person who organizes and initiates an ABS transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the issuing entity. See id.
 
 17 See Asset-Backed Securities, Release No. 33-8518 (Dec. 22, 2004) [70 FR 1506] (“2004 Regulation AB Adopting Release”) at Section III.B.3. The issuing entity is designed to be a passive entity, and in order to meet the definition of ABS issuer in Regulation AB its activities must be limited to passively owning or holding the pool of assets, issuing the ABS supported or serviced by those assets, and other activities reasonably incidental thereto.
 
 18 In the case of so-called aggregators, the sponsor acquires loans from many other unaffiliated sellers before
+
+19 15 U.S.C. 78c(a)(77). This definition was added by Section 941(a) of the Act.
+
+20 See Item 1101(c)(1) of Regulation AB [17 CFR 229.1101(c)(1)].
+
+21 See Asset-Backed Securities, Release No. 33-9117 (April 7, 2010) [75 FR 23328] (the “2010 ABS Proposing Release”). In the 2010 ABS Proposing Release we proposed requiring that the underlying transaction agreement in a transaction relying on certain Commission safe harbors for an exemption from registration under the Securities Act contain a provision requiring the issuer to provide to any initial purchaser, security holder, and designated prospective purchaser the same information as would be required in a registered transaction. In addition, the Commission solicited comment concerning whether safe harbors from registration should not be available for offerings of structured finance products and whether any restrictions should be imposed on private offerings of asset-backed securities. 
 
 22 See id. at 23394.
 
@@ -285,6 +307,30 @@ Under Section 605(b) of the Regulatory Flexibility Act, <sup>107</sup> we certif
 24 See comment letter from CRL.
 
 25 See comment letter from Consumer Federation.
+
+26 See comment letters from ASF; SIFMA.
+
+27 See comment letters from ASF; SIFMA.
+
+28 See comment letters from ASF; SIFMA.
+
+29 See comment letter from BDO USA, LLP.
+
+30 See comment letters from Clayton; CRL.
+
+31 See comment letter from Levin.
+
+32 See comment letters from ABA; Clayton; Fitch; Levin; SIFMA.
+
+33 See comment letters from Clayton; Fitch; Levin; SIFMA.
+
+34 See comment letters from Clayton; Levin.
+
+35 See comment letter from Clayton.
+
+36 See comment letter from Fitch.
+
+37 See, e.g., comment letters from ABA; American Bankers Association Securities Association (“ABASA”); Association for Financial Markets in Europe (“AFME”); Commercial Real Estate Finance Council (“CRE Finance Council”); and Mortgage Bankers Association (“MBA”).
 
 38 See comment letter from ASF.
 
@@ -314,9 +360,31 @@ Under Section 605(b) of the Regulatory Flexibility Act, <sup>107</sup> we certif
 
 51 See, e.g., comment letters from ABA; Fitch; Levin; SIFMA.
 
-52 We note that the federal securities laws currently require that disclosure in the prospectus not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements not misleading. See Securities Act Section 11 [15 U.S.C. 77k] and Securities Act Section 12 [12
+52 We note that the federal securities laws currently require that disclosure in the prospectus not contain an untrue statement of a material fact or omit to state a material fact required to be stated therein or necessary to make the statements not misleading. See Securities Act Section 11 [15 U.S.C. 77k] and Securities Act Section 12 [12 U.S.C. 77l]. See also Securities Act Section 17 [15 U.S.C. 77q], Exchange Act Section 10(b) [15 U.S.C. 78j] and Rule 10b-5 under the Exchange Act [17 CFR 240.10b-5].
 
 53 Section 7 of the Securities Act requires the consent of any person whose profession gives authority to a statement made by him, is named as having prepared or certified any part of the registration statement, or is named as having prepared or certified a report or valuation for use in connection with the registration statement.
+
+54 See comment letters from ABA; Consumer Federation.
+
+55 See comment letter from CRL.
+
+56 See comment letter from Barnard.
+
+57 See comment letter from CAQ.
+
+58 See comment letter from CAQ.
+
+59 See comment letters from ABASA; Clayton; SIFMA.
+
+60 See comment letters from Clayton; SIFMA.
+
+61 See comment letter from SIFMA.
+
+62 See comment letter from SIFMA.
+
+63 See comment letters from ABASA; Clayton; SIFMA.
+
+64 See comment letter from SIFMA. See also comment letter from Clayton (noting there is a significant risk it will refrain from accepting engagements to perform the asset review mandated by Rule 193 leading issuers to more in-house reviews, which could give rise to potential conflicts of interest).
 
 65 In this release, we refer to third parties engaged for purposes of reviewing the assets also as third-party due diligence providers.
 
@@ -324,9 +392,35 @@ Under Section 605(b) of the Regulatory Flexibility Act, <sup>107</sup> we certif
 
 67 If the findings and conclusions are attributed to a third party, that portion of the disclosure would be expertised. If the findings and conclusions are instead attributed to the issuer, that portion of disclosure would not be expertised. See Securities Act Section 11 [15 U.S.C. 77k].
 
-68 We note that this approach is comparable to the staff’s position in the context of a registrant that has engaged a third-party expert to assist in determining the fair values of certain assets or liabilities disclosed in a Securities Act registration statement. See Compliance and Disclosure Interpretations, Division of Corporation Finance, at Section 233, available at (whether a registrant that has engaged a third-party expert to assist in determining fair value must disclose the name
+68 We note that this approach is comparable to the staff’s position in the context of a registrant that has engaged a third-party expert to assist in determining the fair values of certain assets or liabilities disclosed in a Securities Act registration statement. See Compliance and Disclosure Interpretations, Division of Corporation Finance, at Section 233, available at (whether a registrant that has engaged a third-party expert to assist in determining fair value must disclose the name of the third-party expert in its registration statement and obtain the third-party’s consent under Securities Act Section 7(a) depends on whether the disclosure attributes the statement to the third-party expert). 
 
-69 If an issuer obtains the assistance of a third party to perform the review, and discloses this fact pursuant to
+69 If an issuer obtains the assistance of a third party to perform the review, and discloses this fact pursuant to Item 1111 of Regulation AB, as discussed below, this would not be using the information to market the securities provided the only information disclosed is that which is required by the rule, and the issuer does not otherwise use this fact to market the securities. Similarly, we are of the view that consent to being named as an expert would not be required of a third party hired by the issuer to assist in performing the review solely based on the fact that the issuer provides disclosure pursuant to Item 1111 of Regulation AB that the issuer hired a third party for the purpose of assisting it to perform the Rule 193 review.
+
+70 17 CFR 229.1111.
+
+71 15 U.S.C. 77g(d)(2).
+
+72 This language is intended to be consistent with the language used in Exchange Act Section 15E(s)(4)(A).
+
+73 See comment letters from Chuff; SIFMA.
+
+74 See comment letter from Fitch.
+
+75 See comment letter from SIFMA.
+
+76 See comment letter from SIFMA.
+
+77 See comment letter from SIFMA.
+
+78 See comment letter from SIFMA.
+
+79 See comment letter from CRE Finance Council.
+
+80 See comment letters from CRE Finance Council; Levin.
+
+81 See comment letter from Levin.
+
+82 See comment letter from Levin.
 
 83 See comment letter from Levin.
 
@@ -335,3 +429,45 @@ Under Section 605(b) of the Regulatory Flexibility Act, <sup>107</sup> we certif
 85 Such disclosure would be required in order to provide meaningful context to disclosure of the findings and
 
 86 See, e.g., Massachusetts AG comment letter.
+
+87 See comment letter from SIFMA.
+
+88 See, e.g., Improvements to the Asset-Backed Securitization Process, Title IX, Subtitle D of the Act; Treatment by the Federal Deposit Insurance Corporation as Conservator or Receiver of Financial Assets Transferred by an Insured Depository Institution in Connection with a Securitization or Participation After September 30, 2010, Final Rule, Federal Deposit Insurance Corporation (Sept. 27, 2010).
+
+89 See comment letter from SIFMA.
+
+90 44 U.S.C. 3501 et seq.
+
+91 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+92 The paperwork burden from Regulation S-K is imposed through the forms that are subject to the requirements in those regulations and is reflected in the analysis of those forms. To avoid a Paperwork Reduction Act inventory reflecting duplicative burdens and for administrative convenience, we assign a one-hour burden to Regulation S-K.
+
+93 We rely on two outside sources of ABS issuance data. We use the ABS issuance data from Asset-Backed Alert on the initial terms of offerings, and we supplement that data with information from Securities Data Corporation (SDC).
+
+94 This does not reflect burdens associated with the review that would be required as a result of Rule 193, which we believe does not impose a collection of information requirement for purposes of our PRA analysis.
+
+95 See 2004 Regulation AB Adopting Release.
+
+96 See, e.g., comment letter from Massachusetts AG.
+
+97 See, e.g., comment letter from Consumer Federation (observing that all members of the securitization supply change have “strong incentives…to skimp on due diligence”).
+
+98 Id.
+
+99 See comment letter from SIFMA.
+
+100 See, e.g., comment letters from ASF; Clayton; SIFMA.
+
+101 See comment letter from Fitch.
+
+102 15 U.S.C. 78w(a).
+
+103 15 U.S.C. 77b(b).
+
+104 15 U.S.C. 78c(f).
+
+105 See, e.g., David Adler, A Flat Dow for 10 Years? Why it Could Happen, BARRONS (Dec. 28, 2009).
+
+106 See comment letter from Clayton.
+
+107 5 U.S.C. 605(b).

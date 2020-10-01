@@ -1,133 +1,3 @@
-https://www.sec.gov/rules/final/34-49830.htm
-
-	I.0.0.0: I. INTRODUCTION
-
-		I.A.0.0: A. Broker-dealer requirements
-
-		I.B.0.0: B. Ultimate holding company requirements
-
-	II.0.0.0: II. PROPOSING RELEASE AND COMMENTS
-
-	III.0.0.0: III. FINAL RULE AMENDMENTS
-
-		III.A.0.0: A. General
-
-		III.B.0.0: B. Amendments to paragraphs (a) and (c) of Rule 15c3-1
-
-			III.B.1.0: 1. Minimum and early warning capital requirements
-
-			III.B.2.0: 2. Entities that have principal regulators
-
-			III.B.3.0: 3. Tentative net capital
-
-		III.C.0.0: C. Broker-dealer requirements under Appendix E
-
-			III.C.1.0: 1. Application
-
-			III.C.1.a: a. Information to be submitted by the broker-dealer
-
-			III.C.1.b: b. Confidential treatment
-
-			III.C.1.c: c. Commission review
-
-			III.C.2.0: 2. Risk management control system
-
-			III.C.3.0: 3. Computation of the deduction for market risk
-
-			III.C.3.a: a. Deductions for market risk using VaR models
-
-			III.C.3.i: i. Elimination of the VaR phase-in period
-
-			III.C.3.b: b. Deductions for specific risk
-
-			III.C.3.c: c. Deduction for market risk using scenario analysis
-
-			III.C.3.d: d. Deductions for market risk under the standard net capital rule
-
-			III.C.4.0: 4. Computation of the deduction for credit risk
-
-			III.C.4.a: a. Counterparty exposure charge
-
-			III.C.4.b: b. Concentration charge by counterparty
-
-			III.C.4.c: c. Portfolio concentration charge
-
-			III.C.5.0: 5. Qualitative and quantitative standards applicable to calculations under models
-
-			III.C.6.0: 6. Additional conditions for noncompliance with Appendices E and G, model failures, or control failures
-
-			III.C.7.0: 7. Recordkeeping
-
-		III.D.0.0: D. Ultimate holding company requirements
-
-			III.D.1.0: 1. Ultimate holding company requirements under Appendix E
-
-			III.D.1.a: a. Ultimate holding company undertaking
-
-			III.D.1.i: i. Ultimate holding company that does not have a principal regulator
-
-			III.D.1.b: b. Information to be submitted by the ultimate holding company
-
-			III.D.1.i: i. Ultimate holding company that does not have a principal regulator
-
-			III.D.2.0: 2. Ultimate holding company requirements under Appendix G
-
-			III.D.2.a: a. Calculation of allowable capital and allowances for market, credit, and operational risk by an ultimate holding company that does not have a principal regulator
-
-			III.D.2.i: i. Group-wide allowable capital calculation
-
-			III.D.2.b: b. The “aggregate” or “building block” approach to calculation of allowable capital
-
-			III.D.2.b: b. Reporting requirements for the ultimate holding company
-
-			III.D.2.c: c. Records to be made and preserved by the ultimate holding company
-
-			III.D.2.d: d. Notification requirements for the ultimate holding company
-
-		III.E.0.0: E. Amendments to Rule 15c3-4
-
-		III.F.0.0: F. Amendment to Rule 17a-4, broker-dealer record preservation requirements
-
-		III.G.0.0: G. Amendments to Rule 17a-5; broker-dealer reporting requirements
-
-		III.H.0.0: H. Amendments to Rule 17a-11; broker-dealer notification requirements
-
-		III.I.0.0: I. Amendments to Rules 17h-1T and 17h-2T
-
-	IV.0.0.0: IV. PAPERWORK REDUCTION ACT
-
-		IV.A.0.0: A. Rule 15c3-1. Net capital requirements for brokers or dealers.
-
-		IV.B.0.0: B. Rule 17a-4. Records to be preserved by certain exchange members, brokers and dealers.
-
-		IV.C.0.0: C. Rule 17a-5. Reports to be made by certain brokers and dealers.
-
-		IV.D.0.0: D. Rule 17a-11. Notification procedures for brokers and dealers.
-
-		IV.E.0.0: E. Rules 17h-1T and 17h-2T. Risk assessment recordkeeping requirements for associated persons of brokers and dealers and Risk assessment reporting requirements for brokers and dealers.
-
-		IV.F.0.0: F. Conclusion
-
-	V.0.0.0: V. COSTS AND BENEFITS OF THE RULE AMENDMENTS
-
-		V.A.0.0: A. Introduction
-
-		V.B.0.0: B. Benefits
-
-		V.C.0.0: C. Costs
-
-		V.D.0.0: D. Conclusion
-
-	VI.0.0.0: VI. BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
-
-	VII.0.0.0: VII. REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-	VIII.0.0.0: VIII. STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 Final Rule:
 
 Alternative Net Capital Requirements for Broker-Dealers That Are Part of Consolidated Supervised Entities SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 200 and 240 [Release No. 34-49830; File No. S7-21-03] 
@@ -744,17 +614,173 @@ The rule amendments are an integral part of the Commission's financial responsib
 
 The 11 broker-dealers we now expect to apply under these rules and their ultimate holding companies already have developed internal risk management control systems. Each broker-dealer, however, (and the ultimate holding company of the broker-dealer, if the ultimate holding company does not have a principal regulator) will have to take some additional steps to review and enhance its control system for purposes of the final rule amendments. This assessment is based on examinations of and discussions with the firms. We expect that the amount of time necessary to accomplish this will vary by broker-dealer. In the Proposing Release, we estimated that of the 12 broker-dealers we expected to apply under the amendments, six would spend approximately 1,000 hours and six would spend approximately 3,600 hours to modify their internal risk management control systems for purposes of the rule amendments. In addition, we estimated that each of the 12 broker-dealers would spend approximately 250 hours per year reviewing and updating its risk management control system. 
 
-We now estimate that 11 broker-dealers will apply under the final rule amendments and that, although the amount of time required to modify its internal risk management control system to comply with the final rule amendments will vary, we estimate that on average a broker-dealer (and its ultimate holding company, if applicable) will spend approximately 2,000 hours to accomplish this task. The total burden is therefore approximately 22,000 hours on a one-time basis. As in the Proposing Release, we expect that it will take an average of approximately 250 hours per year for each firm to review and update its internal risk management control system, for a total annual burden of 2,750 hours (250 * 11 = 2,750).<h>B. Rule 17a-4. Records to be preserved by certain exchange members, brokers and dealers. </h>
+We now estimate that 11 broker-dealers will apply under the final rule amendments and that, although the amount of time required to modify its internal risk management control system to comply with the final rule amendments will vary, we estimate that on average a broker-dealer (and its ultimate holding company, if applicable) will spend approximately 2,000 hours to accomplish this task. The total burden is therefore approximately 22,000 hours on a one-time basis. As in the Proposing Release, we expect that it will take an average of approximately 250 hours per year for each firm to review and update its internal risk management control system, for a total annual burden of 2,750 hours (250 * 11 = 2,750).
 
- 
+<h>B. Rule 17a-4. Records to be preserved by certain exchange members, brokers and dealers. </h> 
 
 The final rules add an amendment to Rule 17a-4, which was not contained in the proposed rule amendments. The amendment requires a broker-dealer taking advantage of the alternative capital calculation to preserve records made under paragraphs (c)(4)(vi)(D) and (E) of Appendix E. These records relate to the broker-dealer’s determination of credit ratings and credit risk weights, respectively. 
 
-Paragraph (c)(4)(vi)(E) was not contained in the proposed rule amendments. The Proposing Release, however, would have required a broker-dealer to preserve the record made pursuant to paragraph (c)(4)(vi)(D) (designated as paragraph (d)(7)(iv) in the Proposing Release). Rule 17a-4 is the broker-dealer record retention rule and it is therefore appropriate to amend Rule 17a-4 to require a broker-dealer to preserve the records made under paragraphs (c)(4)(vi)(D) and (E). We estimate that it will take an average of approximately one hour per year for the 11 broker-dealers we expect to apply under the rule amendments to comply with this record preservation requirement, for a total burden of 11 hours per year for the 11 broker-dealers.<h>C. Rule 17a-5. Reports to be made by certain brokers and dealers. </h>
+Paragraph (c)(4)(vi)(E) was not contained in the proposed rule amendments. The Proposing Release, however, would have required a broker-dealer to preserve the record made pursuant to paragraph (c)(4)(vi)(D) (designated as paragraph (d)(7)(iv) in the Proposing Release). Rule 17a-4 is the broker-dealer record retention rule and it is therefore appropriate to amend Rule 17a-4 to require a broker-dealer to preserve the records made under paragraphs (c)(4)(vi)(D) and (E). We estimate that it will take an average of approximately one hour per year for the 11 broker-dealers we expect to apply under the rule amendments to comply with this record preservation requirement, for a total burden of 11 hours per year for the 11 broker-dealers.
+
+<h>C. Rule 17a-5. Reports to be made by certain brokers and dealers. </h>
 
 The amendments to Exchange Act Rule 17a-5 require broker-dealers using Appendix E to submit monthly, quarterly, and annual reports to the Commission. The amendments are an integral part of our financial responsibility program for broker-dealers electing to use Appendix E. The information to be collected under the amendments to Rule 17a-5 are essential to the regulation of these broker-dealers and will assist us and the SROs responsible for reviewing the activities of these broker-dealers to monitor and enforce compliance with applicable Commission rules, including rules pertaining to financial responsibility. These periodic reports will also aid the Commission in evaluating the activities conducted by these broker-dealers and in anticipating, where possible, how these firms could be affected by significant economic events.
 
-In the Proposing Release, we estimated that the average amount of time necessary to prepare and file the additional monthly reports required by this amendment to Rule 17a-5 would be about 4 hours per month, or approximately 48 hours per year; that the average amount of time necessary to prepare and file the additional quarterly reports would be about 8 hours per quarter, or approximately 32 hours per year; and that the average amount of time necessary to prepare and file the additional supplemental reports with the annual audit required would be approximately 40 hours per year. The final amendments to Rule 17a-5 are similar to those proposed. We therefore estimate for the 11 broker-dealers we now expect to apply under the rule amendments that the total annual burden is approximately 1,320 hours ((48 + 32 + 40)* 11 = 1,320).<h>D. Rule 17a-11. Notification procedures for brokers and dealers. </h>
+In the Proposing Release, we estimated that the average amount of time necessary to prepare and file the additional monthly reports required by this amendment to Rule 17a-5 would be about 4 hours per month, or approximately 48 hours per year; that the average amount of time necessary to prepare and file the additional quarterly reports would be about 8 hours per quarter, or approximately 32 hours per year; and that the average amount of time necessary to prepare and file the additional supplemental reports with the annual audit required would be approximately 40 hours per year. The final amendments to Rule 17a-5 are similar to those proposed. We therefore estimate for the 11 broker-dealers we now expect to apply under the rule amendments that the total annual burden is approximately 1,320 hours ((48 + 32 + 40)* 11 = 1,320).
+
+<h>D. Rule 17a-11. Notification procedures for brokers and dealers. </h>
+
+We are revising the proposed amendments to Rule 17a-11. Exchange Act Rule 17a-11 requires that a broker-dealer provide notification of certain events to the Commission and its designated examining authority within specified time periods. The events that require Commission notification indicate that the firm may be experiencing financial or operational difficulty.
+
+The amendments to Rule 17a-11, as proposed, would have imposed additional notification requirements on broker-dealers that use the alternative method of computing net capital. Under these amendments, the broker-dealer would have notified the Commission if it became aware of certain credit rating downgrades relating to the broker-dealer or an affiliate of the broker-dealer; it received a notice of non-compliance from a regulatory authority; it became aware of a situation that may have had a material adverse effect on the ultimate holding company or on a material affiliate of the holding company; or a backtesting exception of its mathematical models occurred that required the broker-dealer to use a higher multiplication factor in the calculation of its deductions for market or credit risk.
+
+The revisions to Rule 17a-11, as adopted, amend only paragraphs (b)(2) and (h). Paragraph (b)(2) of Rule 17a-11, as adopted, requires a broker-dealer that computes its net capital under the alternative method of Appendix E to notify the Commission if its tentative net capital falls below $1 billion, the required minimum under Rule 15c3-1e(a)(7)(i). The notice must specify the broker-dealer’s net capital and tentative net capital requirements and the current amount of its net capital and tentative net capital. Paragraph (h), as adopted, notes that there is a notification provision in Rule 15c3-1e(a)(7)(ii). That provision requires a broker-dealer to notify the Commission that same day if its tentative net capital falls below $5 billion. These notification provisions are necessary for the Commission to monitor the financial position of a broker-dealer that uses the alternative method of computing net capital.
+
+Although they are of supervisory concern, the events requiring notification under the rule amendments are expected to be rare. In the Proposing Release, we based our estimate of the number of broker-dealers who might be required to file notice pursuant to the amendments on the number of Rule 17a-11 notices we received in calendar year 2002. We are now basing our estimate on year 2003 data.
+
+The Commission received approximately 841 Rule 17a-11 notices from 562 broker-dealers during calendar year 2003. At that time, there were approximately 6,800 active broker-dealers registered with the Commission, so we estimate that approximately 8% of active broker-dealers filed a Rule 17a-11 notice during calendar year 2003 (562 / 6,800 = .0826). Therefore, we estimate that, of the 11 broker-dealers we now expect to apply under the rule amendments, approximately one may be required to file notice pursuant to these amendments. In the Proposing Release, we estimated that it would take approximately one hour per year to prepare and file such a notice. As the notification requirements of the final amendments to Rule 17a-11 are similar, we have not changed that estimate.
+
+<h>E. Rules 17h-1T and 17h-2T. Risk assessment recordkeeping requirements for associated persons of brokers and dealers and Risk assessment reporting requirements for brokers and dealers.</h>
+
+Rules 17h-1T and 17h-2T require that certain broker-dealers make records of and file quarterly reports with the Commission regarding the financial condition, organization, and risk management practices of their affiliated group. The current burden estimate for Rules 17h-1T and 17h-2T is approximately 10 hours per year for each respondent. The proposed amendments to Rules 17h-1T and 17h-2T exempted a broker-dealer that used Appendix E from the rules to the extent that the ultimate holding company of the broker or dealer maintained the information pursuant to Appendix G.
+
+In the final rule amendments, only a broker-dealer with an ultimate holding company that does not have a principal regulator is exempted from Rules 17h-1T and 17h-2T. As we estimate that five broker-dealers that have holding companies that do not have a principal regulator will apply under the rule amendments, the savings will be approximately 50 hours per year.
+
+<h>F. Conclusion</h>
+
+Based on the above analysis, we estimate that the total additional PRA burden as a result of the final rule amendments is approximately 33,200 hours on a one-time basis and approximately 113,600 hours per year. We estimate that the PRA burden will be reduced by approximately 50 hours per year as a result of the rule amendments.
+
+<h>V. COSTS AND BENEFITS OF THE RULE AMENDMENTS</h>
+
+<h>A. Introduction</h>
+
+The rule amendments provide a voluntary, alternative method for computing net capital deductions for market and credit risk under the Exchange Act for certain broker-dealers that are part of an ultimate holding company that has a group-wide internal risk management control system and that consents, as a condition of the net capital treatment, to group-wide Commission supervision. The alternative net capital computation involves the use of internally developed mathematical models that the firm uses to measure risk.
+
+The Commission is sensitive to the costs and benefits that result from its rules. We have identified certain costs and benefits associated with the rule amendments.
+
+The Proposing Release solicited comments relating to the costs and benefits associated with the proposed rule amendments. We received no comments that addressed the costs and benefits of the proposal. However, we did receive comments on other aspects of the proposed amendments. The Commission is adopting rule amendments that contain various modifications to the proposed amendments. As discussed below, some of those modifications, as well as comments received on other aspects of the proposed amendments, result in changes to the costs and benefits of the rule amendments.
+
+Under proposed paragraph (a)(7) of Rule 15c3-1, a broker-dealer that maintained tentative net capital of at least $1 billion and net capital of at least $500 million could apply to the Commission for permission to use the alternative method of calculating net capital. Under paragraph (a)(7) as adopted, a broker-dealer is also required to notify the Commission if its tentative net capital falls below $5 billion. If a broker-dealer is required to provide that notice to the Commission, the Commission may impose additional regulatory conditions on either the broker-dealer or, if the ultimate holding company of the broker-dealer does not have a principal regulator, on the ultimate holding company.
+
+We noted in the Proposing Release that, based on discussions with industry representatives, we believed that 12 broker-dealers would have sufficient net capital deductions pursuant to Rule 15c3-1(c)(2)(vi) (also known as “haircuts”) to find it cost effective to use the alternative capital computation. Therefore, the cost-benefit analysis was based on the assumption that 12 broker-dealers would apply to use the alternative capital computation.
+
+According to September 30, 2003 FOCUS filings, only six registered broker-dealers reported that they had tentative net capital of at least $5 billion. Some firms, however, make certain deductions in arriving at the FOCUS tentative net capital figure (for example, relating to securities without a ready market) that would not be subtracted in the calculation of tentative net capital for purposes of the rule amendments. Based on the final rule amendments, the comments received in response to the proposal, and these facts, we now estimate that 11 broker-dealers will apply to use the alternative net capital computation.
+
+In addition, the Commission has modified the proposed rules to establish a streamlined group-wide supervisory regime for an ultimate holding company of a broker-dealer taking advantage of the rule amendments that is “an ultimate holding company that has a principal regulator” to avoid duplicative or inconsistent regulation of these entities. Of the 11 broker-dealers we now estimate will apply under the rule amendments, we estimate that six have an ultimate holding company that has a principal regulator. The streamlined supervisory regime for these holding companies reduces application requirements, internal risk management control system requirements, and examination and reporting requirements, and generally results in lower costs.
+
+The estimates are based on information from a variety of sources, including information that Commission staff receives through the risk assessment rules and meetings with and reports from member firms of the DPG and other broker-dealers and the Commission’s experience in implementing the OTC derivatives dealer rules.
+
+Some of the changes to our estimates result from use of certain updated data. The revised cost and benefit estimates are discussed below for each rule amendment.
+
+<h>B. Benefits</h>
+
+We anticipate that cost savings will result in several areas. If permitted to operate under the amendments, a broker-dealer will become subject to specifically tailored capital and other requirements. The broker-dealer will be able to compute certain of its deductions for market and credit risk using internally developed mathematical models that the firm uses to manage risk and to report risks to the Commission using internal reports that the firm already generates for risk management purposes. The incorporation of mathematical risk management techniques into the capital calculation should enable such a broker-dealer to reallocate capital from the broker-dealer to affiliates that may receive a higher return than the broker-dealer.
+
+A major benefit for the broker-dealer will be lower deductions from net capital for market and credit risk that we expect will result from the use of the alternative method. This benefit, however, is difficult to quantify. While reductions in net capital requirements will likely result from the use of the alternative method, broker-dealers typically maintain higher levels of capital than the rules require. Also, the mix of positions held by the broker-dealer may change if the regulatory cost of holding certain positions is reduced. Finally, the reduction in net capital deductions will vary significantly among broker-dealers based on the size and risk of their portfolios.
+
+We expect that firms with larger net capital deductions will realize a larger percentage reduction than firms with smaller capital deductions. In the Proposing Release, we estimated that broker-dealers taking advantage of the alternative capital computation would realize an average reduction in capital deductions of approximately 40%. We estimated that a broker-dealer could reallocate capital to fund business activities for which the rate of return would be approximately 20 basis points (0.2%) higher.
+
+According to third quarter 2003 FOCUS data, the 11 firms we expect to apply under the rule amendments could realize a total reduction in haircuts of approximately $13 billion. We estimate that they will realize a total annual benefit of approximately $26 million (.2% * $13 billion = $26 million).
+
+Firms that do business in the EU have indicated that they may need to demonstrate that they are subject to consolidated supervision at the ultimate holding company level that is “equivalent” to EU consolidated supervision. Without a demonstration of “equivalent” supervision, we understand that the affiliate institution located in the EU may either be subject to additional net capital deductions or be required to form a sub-holding company in the EU. We expect that the Commission supervision contemplated by these amendments will meet this standard. As a result, we believe these amendments will minimize duplicative regulatory burdens on firms that do not have ultimate holding companies that have a principal regulator that are active in the EU as well as in other jurisdictions that may have similar laws.
+
+Based on staff experience, we estimate that it would cost approximately $8 million per year for a firm to form and maintain a sub-holding company in the EU. Consequently, for the five broker-dealers we expect will apply under these amendments that do not have an ultimate holding company that has a principal regulator, not being required to form and maintain a sub-holding company in the EU would save the firms a total of approximately $40 million per year.
+
+Rules 17h-1T and 17h-2T require that certain broker-dealers make records of and file quarterly reports with the Commission regarding the financial condition, organization, and risk management practices of their affiliated group. The current PRA estimate for Rules 17h-1T and 17h-2T is approximately 10 hours per year for each respondent. The proposed amendments to Rules 17h-1T and 17h-2T exempted a broker-dealer that used Appendix E from the rules to the extent that the ultimate holding company of the broker or dealer maintained the information pursuant to Appendix G.
+
+In the final rule amendments, only a broker-dealer that has an ultimate holding company that does not have a principal regulator is exempted from Rules 17h-1T and 17h-2T. As we estimate that five broker-dealers will apply under the rule amendments that have ultimate holding companies that do not have a principal regulator, the savings are approximately 50 hours per year. We expect that a financial reporting manager will do this work. The staff estimates that the hourly salary of a financial reporting manager is $92 per hour.<sup>90</sup> We estimate that the total cost savings for the 5 firms will be approximately $4,600 per year (50 * $92 = $4,600).
+
+To the extent that firms electing this regulatory system improve their internal risk management control systems, we expect that the firms will realize a benefit in the form of reduced borrowing costs. This benefit will vary widely depending on the risk management practices the firms already have in place. For some firms that already have formally documented group-wide control systems, there may be no benefit.
+
+We believe that this regulatory system also will result in benefits to regulators and, as a result, to financial markets. The Commission will have access to group-wide information concerning the operation and financial condition of the broker-dealer’s ultimate holding company and affiliates. This information will help the Commission to assess whether the activities or financial condition of the ultimate holding company or affiliates may pose risks to the financial health of the broker-dealer and should therefore promote the stability of the financial markets.
+
+Also, the broker-dealer must comply with stringent requirements concerning its internal risk management control system. We expect that these requirements will reduce the risk of significant losses by the broker-dealer. The internal risk management control system requirements also should reduce the risk that the problems of one firm will spread, causing defaults by other firms and undermining securities markets as a whole.
+
+<h>C. Costs</h>
+
+Firms electing the alternative capital computation will incur various costs. In estimating the total costs associated with the amendments on the broker-dealer, we have included the costs arising from each rule amendment.
+
+As part of the application to use Appendix E, the broker-dealer and its ultimate holding company must submit various documents to the Commission. We estimate that each broker-dealer that applies to calculate its net capital under the amendments will spend approximately 1,000 hours to create and compile the various documents to be included with the application and to work with the Commission staff through the application process. The staff anticipates that this will include approximately 100 hours for an in-house attorney and 900 hours for a senior compliance staff member. The staff estimates that the hourly salary of an attorney is $82 per hour,<sup>91</sup> for a total cost for the 11 firms of approximately $90,000 ($82 * 100 * 11 = $90,200). The staff estimates that the hourly salary of a senior compliance staff person is $71 per hour,<sup>92</sup> for a total cost of approximately $703,000 ($71 * 900 * 11 = $702,900).
+
+We note that broker-dealers we expect to apply to use Appendix E already have developed the VaR models that they will use to calculate market and credit risk under the amendments and already have developed internal risk management control systems. This conclusion is based on information Commission staff receives through the risk assessment rules and meetings with and reports from the DPG and other broker-dealers and the Commission’s experience in implementing the OTC derivatives dealer rules. On the other hand, we note that the amendments contain additional requirements that broker-dealers may not yet have incorporated into their models and control systems.
+
+We estimate that a broker-dealer using Appendix E will spend approximately 5,600 hours per year to review and update the models it uses to compute market and credit risk and approximately 160 hours each quarter, or approximately 640 hours per year, to backtest the models. We believe that whether or not the ultimate holding company of a broker-dealer is an ultimate holding company that has a principal regulator, this time requirement would be the same. Consequently, we estimate that it would take approximately 69,000 hours per year ((5,600 + 640) * 11 = 68,640) to review, update, and backtest mathematical models for the 11 broker-dealers we now expect to apply under the amendments and that a financial reporting specialist will do the work. The staff estimates that the hourly salary of a financial reporting manager is $92 per hour,<sup>93</sup> for a total cost of approximately $6.3 million per year ($92 * 69,000 = $6,348,000).
+
+Under proposed Appendix G to Rule 15c3-1, the ultimate holding company of a broker-dealer using the alternative capital computation would have been required to calculate allowable capital and allowances for market, credit, and operational risk monthly on a consolidated basis, file certain monthly, quarterly, and annual reports with the Commission, make, keep current, and preserve certain records, and notify the Commission of certain events. As we noted in the Proposing Release, capital measurement, reporting, and recordkeeping conditions are necessary to allow the Commission to oversee properly a broker-dealer that uses Appendix E and to monitor the financial and operational condition of its affiliate group. In particular, the proposed reporting requirements of Appendix G are necessary to keep the Commission informed of, among other things, the financial condition, financial and operational risk exposures, backtesting results, and management controls of the ultimate holding company and affiliates of the broker-dealer and whether the ultimate holding company is in compliance with the conditions of the broker-dealer’s exemption. These reports will help the Commission to anticipate the effect on the ultimate holding company and affiliates of significant economic events and their impact on the broker-dealer.
+
+The Commission has modified the capital measurement and reporting conditions in the final rule amendments for an ultimate holding company that is an ultimate holding company that has a principal regulator. For such an ultimate holding company, there is no requirement to calculate allowable capital and allowances for market, credit, and operational risk monthly. Also, the ultimate holding company is not required to file monthly reports with the Commission. An ultimate holding company that has a principal regulator must file quarterly reports containing consolidated and consolidating financial statements, a capital measurement it provides to its principal regulator, and certain regular risk reports provided to the persons responsible for managing group-wide risk as the Commission may request. The ultimate holding company also must file an annual report consisting of audited consolidating and consolidated financial statements and a report of the ultimate holding company’s capital measurement, as provided to its principal regulator.
+
+In addition, the Commission has modified the reporting requirements in the final rule amendments for an ultimate holding company that does not have a principal regulator. The deadlines for the submission of the monthly and annual reports have been extended and certain financial information does not have to be filed with the monthly or quarterly reports if the information has not yet been made public in the holding company’s annual report on Form 10-K. These changes should not materially affect the burden estimates for the ultimate holding company that does not have a principal regulator.
+
+In the Proposing Release, based on Commission experience and discussions with industry participants, we estimated that the calculation of allowable capital and allowances for market, credit, and operational risk would require approximately 90 hours per month, or approximately 1,080 hours per year. In addition, we estimated that it would require approximately 5,600 hours per year to review and update the mathematical models the holding company uses to make these calculations. Finally, we estimated that it would require approximately 160 hours each quarter, or approximately 640 hours each year, to backtest the models.
+
+The broker-dealer and the ultimate holding company generally will use the same models to calculate risk on similar classes of products. However, we expect that the ultimate holding company will use models in its risk calculations for additional products. These additional products could include, for example, loans and loan commitments, structured financial products, or various types of derivatives business not conducted in the broker-dealer.
+
+For the five ultimate holding companies that do not have a principal regulator whose broker-dealers we expect to apply to operate under the rule amendments, our estimates from the Proposing Release have not changed. We estimate that to compute allowable capital and allowances for market, credit, and operational risk for the five ultimate holding companies would take approximately 5,400 hours (1,080 * 5 = 5,400). We expect that a senior accountant would do the work. The staff estimates that the hourly salary of a senior accountant is $55 per hour.<sup>94</sup> The total annual cost is approximately $300,000 ($55 * 5,400 = $297,000). In addition, we estimate that it would require approximately 5,600 hours per year to review and update the mathematical models used to make these calculations, or approximately 28,000 hours per year for the five ultimate holding companies, and we expect that a financial reporting manager would do the work. The staff estimates that the hourly salary of a financial reporting manager is $92 per hour.<sup>95</sup> The total annual cost is approximately $2.6 million ($92 * 28,000 = $2,576,000). Finally, we estimate that it will require approximately 640 hours per year per firm to backtest the models, or approximately 3,200 hours for the five ultimate holding companies, and we expect that a junior research analyst would do the work. The staff estimates that the hourly salary of a junior research analyst is $50 per hour,<sup>96</sup> for a total annual cost of approximately $160,000 ($50 * 3,200 = $160,000).
+
+The rule amendments do not require an ultimate holding company that has a principal regulator to compute allowable capital or allowances for market, credit, and operational risk or to review, update, and backtest its mathematical models. As a result, we conclude that there will be minimal costs, if any, to such ultimate holding companies as a result of the capital measurement requirements of the rule amendments. The ultimate holding company must provide its principal regulator with a capital measurement, and must review, update, and backtest the mathematical models it uses to derive that measurement.
+
+In the Proposing Release, we estimated that the average amount of time necessary to prepare and file the monthly reports required by Appendix G would be approximately 8 hours per month, or approximately 96 hours per year, that the average amount of time necessary to prepare and file the quarterly reports would be about 16 hours per quarter, or approximately 64 hours per year, and that the average amount of time necessary to prepare and file the annual audit reports would be approximately 200 hours per year. These estimates were described in the Proposing Release and elicited no comments. For the five broker-dealer ultimate holding companies that do not have principal regulators, our estimate for the amount of time necessary for preparing and filing the reports required under the rule amendments is unchanged. Therefore, for these firms, it will take a total of approximately 1,800 hours ((96 + 64 + 200) * 5 = 1,800) to comply with these requirements.
+
+For ultimate holding companies that have a principal regulator, the ultimate holding company must send to the Commission only the reports it has prepared for other purposes. No monthly reports are required under the rule amendments, and the quarterly and annual reports consist of reports the ultimate holding company has provided to persons in the ultimate holding company responsible for managing risk or reports the ultimate holding company provides to its principal regulator. Therefore, we expect that the time required for an ultimate holding company with a principal regulator as a result of the reporting requirements under the amendments will be minimal. We estimate that this time requirement is approximately 40 hours per year. For the six broker-dealers with ultimate holding companies that have principal regulators that we expect to apply under the rule amendments, the total time required will therefore be approximately 240 hours per year.
+
+We expect that a senior accountant will do the work necessary to comply with the reporting requirements of the rule amendments. The staff estimates that the hourly salary of a senior accountant is $55 per hour,<sup>97</sup> for a total annual cost of approximately $110,000 ((1,800 + 240) * $55 = $112,200).
+
+In the Proposing Release, we stated that we expected that any additional cost associated with the requirements of Appendix G relating to making, keeping, and preserving records would be minimal because a prudent firm that manages risk on a group-wide basis would make and preserve these records in the ordinary course of its business. We estimated that the average time required to make and preserve these records would be approximately 40 hours and that the average annual time requirement would be approximately 290 hours.
+
+As the record creation and record preservation requirements under the final rule amendments for an ultimate holding company that does not have a principal regulator have not been changed from the proposal, we estimate that for the five ultimate holding companies it would take approximately 200 hours (40 * 5 = 200) on a one-time basis and approximately 1450 hours per year (290 * 5 = 1,450) to comply with these requirements. We expect that a senior accountant would do the work. The staff estimates that the hourly salary of a senior accountant is $55 per hour,<sup>98</sup> for a total one-time cost of approximately $11,000 (200 *55 = $ 11,000) and a total annual cost of approximately $80,000 (1,450 * $55 = $79,750).
+
+The final rule amendments do not impose record creation requirements on an ultimate holding company that has a principal regulator, so there will be no costs to the ultimate holding company for record creation as a result of the rule amendments. An ultimate holding company that has a principal regulator must preserve only any application or documents and all reports and notices filed with the Commission under the rule amendments and any written responses received from the Commission. We expect that an ultimate holding company that has a principal regulator will incur minimal costs, if any, as a result of the record preservation requirements of the rule amendments because the principal regulator will already require preservation of these records.
+
+We estimated in the Proposing Release that it would require a total of approximately one hour per year for all 12 of the ultimate holding companies of the broker-dealers we expected to apply under the proposal to comply with the notification provisions of Appendix G. We have not changed that estimate for the ultimate holding companies of the 11 broker-dealers we now expect to apply under the rule amendments.<sup>99</sup> We expect that a senior compliance staff person will do the work. The staff estimates that the hourly salary of a senior compliance staff person is $71 per hour,<sup>100</sup> for a total annual cost for each of the 11 firms of approximately $71.
+
+Rule 15c3-4 requires an OTC derivatives dealer that uses Appendix F to calculate net capital to establish, document, and maintain a system of internal risk management controls. In the Proposing Release, we proposed amendments to Rule 15c3-4 to expand its coverage to broker-dealers that use Appendix E, and we proposed that the ultimate holding company of the broker-dealer agree to comply with Rule 15c3-4 with respect to an internal risk management control system for the affiliate group. The final rule amendments do not include amendments to Rule 15c3-4. However, under Rule 15c3-1(a)(7)(iii), as adopted, a broker-dealer that uses Appendix E to calculate net capital must comply with applicable provisions of Rule 15c3-4 as though it were an OTC derivatives dealer that uses Appendix F. The final rule amendments also continue to require an ultimate holding company that does not have a principal regulator to agree to comply with applicable provisions of Rule 15c3-4 with respect to an internal risk management control system for the affiliate group. Under the final rule amendments, however, an ultimate holding company that has a principal regulator is no longer required to agree to comply with Rule 15c3-4 with respect to a group-wide internal risk management control system because the principal regulator already imposes risk management control system requirements on the ultimate holding company.
+
+Rule 15c3-4 requires that in implementing its internal risk management control system policies and procedures, the broker-dealer must document its system of internal risk management controls. In particular, such a firm must document its consideration of certain issues affecting its business when designing its internal controls. The broker-dealer also must prepare and maintain written guidelines that discuss its internal risk management control system.
+
+The rule amendments are an integral part of the Commission's financial responsibility program for broker-dealers whose applications under Appendix E are approved by the Commission. The information to be collected under Exchange Act Rule 15c3-4 is essential to the regulation and oversight of major securities firms that voluntarily elect to use Appendix E. More specifically, requiring a broker-dealer that elects to use Appendix E (and the ultimate holding company of the broker-dealer, if the holding company does not have a principal regulator) to document the planning, implementation, and periodic review of its risk management controls is designed to ensure that all pertinent risk management issues are considered, that the risk management controls are implemented properly, and that they continue to address adequately the risks faced by major securities firms.
+
+The 11 broker-dealers we now expect to apply to use Appendix E and their ultimate holding companies already have developed internal risk management control systems. Each broker-dealer, however, (and the ultimate holding company of the broker-dealer, if the holding company does not have a principal regulator) must take some additional steps to review and enhance its control system for purposes of the final rule amendments. This assessment is based on examinations of and discussions with the firms. We expect that the amount of time necessary to accomplish this will vary by broker-dealer. In the Proposing Release, we estimated that of the 12 broker-dealers we expected to apply under the amendments, six would spend approximately 1,000 hours each and six would spend approximately 3,600 hours each to modify their internal risk management control system for purposes of the rule amendments. In addition, we estimated that each of the 12 broker-dealers would spend approximately 250 hours per year reviewing and updating its risk management control system.
+
+We now estimate that 11 broker-dealers will apply under the final rule amendments and that, although the amount of time required to modify its internal risk management control system to comply with paragraph (a)(7)(iii) of Rule 15c3-1 will vary, we estimate that, on average, a broker-dealer (and its holding company, if applicable) will spend approximately 2,000 hours to accomplish this task, for a total of 22,000 hours for the 11 firms. We estimate that each of the 11 broker-dealers will spend an average of approximately 250 hours per year reviewing and updating its internal risk management control system for a total for the 11 broker-dealers of 2,750 hours per year (250 * 11 = 2,750). We expect that a senior compliance staff person will do the work. The staff estimates that the hourly salary of a senior compliance staff person is $71 per hour,<sup>101</sup> for a total one-time cost of approximately $1,600,000 (22,000 * 71 = $1,562,000) and a total annual cost of approximately $195,000 (2,750 * 71 = $195,250).
+
+The information technology systems used by broker-dealers to manage risk, make and retain records, and report and calculate capital differ widely depending on the size of the firm and the types of business it engages in. Based on discussions with the firms, we believe that the 11 broker-dealers we expect to apply under the amendments have strong information technology systems. These information technology systems may be in varying stages of readiness to enable the holding company to meet the requirements of the amendments, however, so the cost of modifying their information technology systems to meet these requirements could vary significantly for the 11 firms. In the Proposing Release, we estimated that, on average, it would cost a broker-dealer an average of approximately $27.5 million to modify its systems. To take account of the fact that these firms regularly update their information technology systems for business purposes, we have lowered our estimate of the average amount that it would cost broker-dealers to modify their systems to meet the requirements of the rule amendments. We now estimate that it will cost broker-dealers an average of approximately $8 million each to modify their information technology systems to meet the requirements of the rule amendments, for a total for the 11 broker-dealers of approximately $88 million.
+
+The final rule amendments add an amendment to Rule 17a-4, which was not contained in the proposed rule amendments. The amendment requires a broker-dealer using the alternative method of computing net capital to preserve records made under paragraphs (c)(4)(vi)(D) and (E) of Appendix E. These records relate to the broker-dealer’s determination of credit ratings and credit risk weights, respectively.
+
+Paragraph (c)(4)(vi)(E) was not contained in the proposed rule amendments. The Proposing Release, however, would have required a broker-dealer to preserve the record made pursuant to paragraph (c)(4)(vi)(D) (designated as paragraph (d)(7)(iv) in the Proposing Release). Rule 17a-4 is the broker-dealer record retention rule and it is therefore appropriate to amend Rule 17a-4 to require a broker-dealer to preserve the records made under paragraphs (c)(4)(vi)(D) and (E). We estimate that it will take an average of approximately one hour per year for the 11 broker-dealers we expect to apply under the rule amendments to comply with this record preservation requirement, for a total of 11 hours per year for the 11 broker-dealers, and we expect that a senior compliance staff person will do the work. The staff estimates that the average salary for a senior compliance staff person is $71 per hour<sup>102</sup> for a total annual cost of approximately $800 ($71 * 11 = $781).
+
+The amendments to Exchange Act Rule 17a-5 require broker-dealers using Appendix E to submit monthly, quarterly, and annual reports to the Commission. The amendments are an integral part of our financial responsibility program for broker-dealers electing to use Appendix E. The information to be collected under the amendments to Rule 17a-5 are essential to the regulation of these broker-dealers and will assist us and the SROs responsible for reviewing the activities of these firms to monitor and enforce compliance with applicable Commission rules, including rules pertaining to financial responsibility. These periodic reports also will aid the Commission in evaluating the activities conducted by these broker-dealers and in anticipating, where possible, how these firms could be affected by significant economic events.
+
+In the Proposing Release, we estimated that the average amount of time necessary to prepare and file the additional monthly reports required by this amendment to Rule 17a-5 would be about 4 hours per month, or approximately 48 hours per year; that the average amount of time necessary to prepare and file the additional quarterly reports would be about 8 hours per quarter, or approximately 32 hours per year; and that the average amount of time necessary to prepare and file the additional supplemental reports with the annual audit required would be approximately 40 hours per year. The final amendments to Rule 17a-5 are similar to those proposed. We therefore estimate for the 11 broker-dealers we now expect to apply under the rule amendments that the total annual time required is approximately 1,320 hours per year ((48 + 32 + 40)* 11 = 1,320). We expect that a senior accountant would do the work. The staff estimates that the hourly salary of a senior accountant is $55 per hour,<sup>103</sup> for a total annual cost of approximately $73,000 (1,320 * $55 = $72,600).
+
+We are revising the proposed amendments to Rule 17a-11. Exchange Act Rule 17a-11 requires that a broker-dealer provide notification of certain events to the Commission and its designated examining authority within specified time periods. The events that require Commission notification indicate that the firm may be experiencing financial or operational difficulty.
+
+The amendments to Rule 17a-11, as proposed, would have imposed additional notification requirements on broker-dealers that use the alternative method of computing net capital. Under these amendments, the broker-dealer would have notified the Commission if it became aware of certain credit rating downgrades relating to the broker-dealer or an affiliate of the broker-dealer; it received a notice of non-compliance from a regulatory authority; it became aware of a situation that may have had a material adverse effect on the ultimate holding company or on an affiliate of the holding company; or a backtesting exception of its mathematical models occurred that required the broker-dealer to use a higher multiplication factor in the calculation of its deductions for market or credit risk.
+
+The revisions to Rule 17a-11, as adopted, amend only paragraphs (b)(2) and (h). Paragraph (b)(2) of Rule 17a-11, as adopted, requires a broker-dealer that computes its net capital under the alternative method of Appendix E to notify the Commission if its tentative net capital falls below $1 billion, the required minimum under Rule 15c3-1e(a)(7)(i). The notice must specify the broker-dealer’s net capital and tentative net capital requirements and the current amount of its net capital and tentative net capital. Paragraph (h), as adopted, notes that there is a notification provision in Rule 15c3-1e(a)(7)(ii). That provision requires a broker-dealer to notify the Commission that same day if its tentative net capital falls below $5 billion. These notification provisions are necessary for the Commission to monitor the financial position of a broker-dealer that uses the alternative method of computing net capital.
+
+Although they are of supervisory concern, the events requiring notification under the rule amendments are expected to be rare. In the Proposing Release, we based our estimate of the number of broker-dealers who might be required to file notice pursuant to the amendments on the number of Rule 17a-11 notices we received in calendar year 2002. We are now basing our estimate on year 2003 data.
+
+The Commission received approximately 841 Rule 17a-11 notices from 562 broker-dealers during calendar year 2003. At that time, there were approximately 6,800 active broker-dealers registered with the Commission, so we estimate that approximately 8% of active broker-dealers filed a Rule 17a-11 notice during calendar year 2003 (562 / 6,800 = .0826). Therefore, we estimate that, of the 11 broker-dealers we now expect to apply under the rule amendments, approximately one may be required to file notice pursuant to these amendments. In the Proposing Release, we estimated that it would take approximately one hour to prepare and file such a notice. As the notification requirements of the final amendments to Rule 17a-11 are similar, we estimate that it will take approximately one hour to prepare and file such a notice and that a senior compliance staff person will do the work. The staff estimates that the hourly salary of a senior compliance staff person is $71 per hour,<sup>104</sup> for a total annual cost of approximately $71.
+
+<h>D. Conclusion</h>
+
+Based on the above analysis, we estimate that the quantifiable benefits of the rule amendments are approximately $66 million per year. We estimate that the quantifiable costs of the rule amendments are approximately $10 million per year and approximately $90 million on a one-time basis.
+
+<h>VI. BURDEN ON COMPETITION AND PROMOTION OF EFFICIENCY, COMPETITION, AND CAPITAL FORMATION</h>
+
+Section 3(f) of the Exchange Act<sup>105</sup> requires us, when engaging in rulemaking that requires us to consider or determine whether an action is necessary or appropriate in the public interest or for the protection of investors, to consider whether the action will promote efficiency, competition, and capital formation. Section 23(a)(2) of the Exchange Act<sup>106</sup> requires us to consider the anticompetitive effects of any rules that we adopt under the Exchange Act. Section 23(a)(2) prohibits us from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act.
+
+The Commission believes that the amendments should promote efficiency, competition, and capital formation. The amendments are intended to reduce regulatory costs for broker-dealers by allowing very highly capitalized firms that have developed sophisticated internal risk management systems and procedures, such as mathematical risk measurement models, to use those risk management systems and procedures (with any modifications required by the amendments) for regulatory purposes. The Commission believes that it would not be cost effective for a firm that does not maintain the requisite capital levels to develop the systems and procedures required under the amendments. The amendments should provide eligible broker-dealers an opportunity to increase operational efficiency by aligning their supervisory risk assessment and their computation of certain net capital deductions more closely with the sophisticated methods the firms already use to manage their business risk and capital, while at the same time requiring that the firms maintain sufficient capital. The incorporation of mathematical risk management techniques into the calculation of net capital deductions should enable such a broker-dealer to reallocate capital from the broker-dealer to affiliates that may receive a higher return than the broker-dealer. In addition, the amendments should enhance the ability of U.S. securities firms to compete effectively in global securities markets.
+
+<h>VII. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+The Commission has certified, pursuant to section 605(b) of the Regulatory Flexibility Act,<sup>107</sup> that the amendments to Rules 15c3-1, 17a-4, 17a-5, 17a-11, 17h-1T, and 17h-2T would not have a significant economic impact on a substantial number of small entities. This certification was incorporated into the Proposing Release. We received no comments concerning the impact on small entities or the Regulatory Flexibility Act certification.
+
+<h>VIII. STATUTORY AUTHORITY</h>
+
+The Commission is amending Title 17, Chapter II of the Code of Federal Regulations pursuant to the Exchange Act (15 U.S.C. 78a et seq.) (particularly sections 15(c), 17, 23, 24(b), and 36 thereof (15 U.S.C. 78o(c), 78q(a), 78w, 78x(b), and 78mm)).
 
 <END MAIN TEXT>
 

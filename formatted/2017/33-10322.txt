@@ -485,7 +485,3 @@ The final rules use design rather than performance standards in order to promote
 105 See Exchange Act Rule 0-10(a).
 
 106 This estimate is based on a review of XBRL data, where available, submitted with Form 10-K and Form 20-F filings with fiscal periods ending between January 31, 2015 and January 31, 2016.
-
-124 Stat. 1904; Sec. 102(a)(3) Pub. L. 112-106, 126 Stat. 309; and Sec. 84001, Pub. L. 114-94,
-
-129 Stat. 1312.

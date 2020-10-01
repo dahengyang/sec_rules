@@ -1,109 +1,3 @@
-https://www.sec.gov/rules/final/33-7878.htm
-
-	I.0.0.0: I. Executive summary
-
-	II.0.0.0: II. Financial statement and Exchange Act reporting requirements for subsidiary guarantors and subsidiary issuers of guaranteed securities before today's amendments
-
-		II.A.0.0: A. Financial statement requirements before today's amendments
-
-			II.A.1.0: 1. Basis for the requirements
-
-			II.A.2.0: 2. Financial statement requirements
-
-		II.B.0.0: B. Exchange Act reporting requirements before today's amendments
-
-			II.B.1.0: 1. Basis for the requirements
-
-			II.B.2.0: 2. Exchange Act reporting requirements
-
-	III.0.0.0: III. Today's amendments to the financial statement and Exchange Act reportingrequirements for subsidiary guarantors and subsidiary issuers of guaranteed securities
-
-		III.A.0.0: A. Rule 3-10 of Regulation S-X
-
-			III.A.1.0: 1. Two-part analysis to determine whether modifiedfinancial information may be provided
-
-			III.A.1.a: a. The meaning of "100% owned"
-
-			III.A.1.i: i. Subsidiaries in corporate form
-
-			III.A.1.b: b. The meaning of "full and unconditional"
-
-			III.A.1.i: i. A guarantee is not full and unconditional when it is not operative until some time after default
-
-			III.A.2.0: 2. Rule 3-10(b) through (f)
-
-			III.A.2.a: a. Preliminary conditions to the availability of Rule 3-10(b) through (f)
-
-			III.A.2.b: b. Finance subsidiary issuer of securities guaranteed by its parent company only
-
-			III.A.2.c: c. Operating subsidiary issuer of securities guaranteed by its parent company only
-
-			III.A.2.d: d. Subsidiary issuer of securities guaranteed by its parent company and one or more other subsidiaries of that parent company
-
-			III.A.2.e: e. Single subsidiary guarantor of securities issued by its parent company
-
-			III.A.2.f: f. Multiple subsidiary guarantors of securities issued by their parent company
-
-			III.A.2.a: a. Reasons for requiring condensed consolidating
-
-			III.A.2.b: b. Comments regarding condensed consolidating
-
-			III.A.4.0: 4. Securities to which Rule 3-10 applies
-
-			III.A.4.a: a. Rule 3-10(a) requires separate financial statements for
-
-			III.A.4.b: b. Guaranteed securities for which paragraphs (b) through (f) of Rule 3-10 may provide an exception to the
-
-			III.A.4.i: i. The modified financial information permitted by paragraphs (b) through (f) is available only for guaranteed debt and debt-like securities
-
-			III.A.4.c: c. Availability of modified financial information for
-
-			III.A.5.0: 5. Recently acquired subsidiary issuers and subsidiary guarantors
-
-			III.A.6.0: 6. Definitions in Rule 3-10
-
-			III.A.7.0: 7. Instructions for condensed consolidating financial information under Rule 3-10
-
-		III.B.0.0: B. Item 310 of Regulation S-B
-
-		III.C.0.0: C. Exchange Act reporting requirements
-
-			III.C.1.0: 1. Exchange Act Rule 12h-5 -- Exemption from periodic reporting for subsidiary issuers and subsidiary guarantors where parent company periodic reports include modified financial information as permitted by paragraphs (b) through (f) of Rule 3-10
-
-			III.C.2.0: 2. Non-financial disclosure in parent company periodic reports
-
-			III.C.3.0: 3. When Rule 12h-5 becomes available or ceases to be available
-
-			III.C.4.0: 4. Meaning of the term "financial statements" in Rule 12h-5
-
-			III.C.5.0: 5. Rule 12h-5 does not require Exchange Act reporting when
-
-			III.C.6.0: 6. Application of Rule 12h-5 when the guaranteed
-
-			III.C.7.0: 7. Application of Rule 3-10 and Rule 12h-5 to foreign parent companies with domestic subsidiary issuers or domestic
-
-			III.C.7.a: a. Foreign parent companies reporting on
-
-			III.C.7.b: b. Foreign parent companies reporting on
-
-		III.D.0.0: D. Financial statements of affiliates whose securities
-
-	IV.0.0.0: IV. Phase-in of today's amendments to Rule 3-10
-
-	V.0.0.0: V. Cost-Benefit Analysis
-
-	VI.0.0.0: VI. Effects on efficiency, competition, and capital formation
-
-	VII.0.0.0: VII. Final Regulatory Flexibility Act Certification
-
-	VIII.0.0.0: VIII. Paperwork Reduction Act
-
-	IX.0.0.0: IX. Statutory Bases
-
-
-
-<END TABLE OF CONTENTS>
-
 Final Rule:
 
 Financial Statements and Periodic Reports For Related Issuers and Guarantors SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 210, 211, 228, 240 and 249 Release Nos. 33-7878; 34-43124 International Series No. 1229; FR-55; File No. S7-7-99 RIN: 3235-AH52 Financial Statements and Periodic Reports For Related Issuers and Guarantors 
@@ -720,7 +614,65 @@ To ease the transition to the amendments to Rule 3-10, we will use the following
 
  for all other reporting companies, the annual report on Form 10-K, Form 10-KSB, or Form 20-F, as applicable, for the first fiscal year ending after [effective date] must comply with amended Rule 3-10 and all Exchange Act periodic reports for subsequent periods must comply with amended Rule 3-10. 
 
-In the first registration statement or periodic report to which amended Rule 3-10 applies, the financial statements must reflect the application of amended Rule 3-10 for all periods presented.<h>V. Cost-Benefit Analysis </h>
+In the first registration statement or periodic report to which amended Rule 3-10 applies, the financial statements must reflect the application of amended Rule 3-10 for all periods presented.
+
+<h>V. Cost-Benefit Analysis </h>
+
+We are adopting financial reporting rules for related issuers and guarantors of guaranteed securities. We are also adopting an exemption from periodic reporting for subsidiary issuers and subsidiary guarantors. For the most part, today's amendments codify the positions the staff has developed through Staff Accounting Bulletin No. 53, later interpretations, and the registration statement review process. The amendments deviate from current practice in a significant way only in the following two situations:
+
+an operating subsidiary issues securities, its parent guarantees the securities, and no subsidiary guarantees the securities; and 
+
+a parent issues securities, an operating subsidiary guarantees the securities, and no other subsidiary guarantees the securities. 
+
+Under SAB 53, the staff continued to permit those subsidiaries to present summarized financial information instead of full financial statements. Under the amendments, those subsidiaries will be required to present condensed consolidating financial information instead of summarized financial information.
+
+We believe that condensed consolidating financial information is more appropriate than summarized financial information, as it more clearly distinguishes the assets, liabilities, revenues, expenses, and cash flows of the entities that are legally obligated under the indenture from those that are not.<sup>94</sup> Furthermore, condensed consolidating financial information provides the same level of detail about the financial position, results of operations, and cash flows of subsidiary issuers and subsidiary guarantors that investors are accustomed to obtaining in interim financial statements of a registrant. It also facilitates analysis of trends affecting subsidiary issuers and subsidiary guarantors and relationships among the various components of a consolidated organization.
+
+For purposes of this cost-benefit analysis, there is one quantifiable cost and one quantifiable benefit for registrants. The quantifiable cost is that of preparing condensed consolidating financial information in those situations in which they could have prepared only summarized financial information previously. The quantifiable benefit is the savings to be recognized by not having to prepare a request for relief from the reporting requirements of the Exchange Act. We estimate the total cost to be $87,000 annually. We estimate the total benefit to be $850,000 annually.<sup>95</sup>
+
+In the proposing release, we estimated the aggregate additional annual cost to each registrant that would have to switch from summarized financial information to condensed consolidating financial information to be approximately $1,000. In that release, we also stated that there were 29 registrants that had received a no-action letter in calendar year 1998 from the Division of Corporation Finance permitting them to include summarized financial information in lieu of separate financial statements. In calendar year 1999, there were 26 such registrants. Based on the 1998 numbers, we estimated the total annual cost of the amendments to be $29,000.
+
+We requested comment on our estimates. Two commenters felt that our estimates were too low.<sup>96</sup> We discuss these comments below.
+
+One commenter suggested that it would cost an average of $25,000 to prepare condensed consolidating financial information.<sup>97</sup> That commenter, however, did not provide us with an estimate of how much more it would cost to provide condensed consolidating financial information rather than summarized financial information. We have, therefore, not revised our estimates in response to this comment.
+
+One commenter felt that, for those registrants that would have to switch from summarized financial information to condensed consolidating financial information, it was unreasonable to look at their increased costs for one year instead of the number of years they would provide condensed consolidating financial information. Based on this comment, we have considered the total cost to each registrant to be $1,000 for each of the three years for which financial information is generally required.<sup>98</sup> This results in a cost to each such registrant of $3,000.
+
+Using the revised cost estimate of $3,000, the 29 registrants that received a no-action letter in calendar year 1998 from the Division of Corporation Finance permitting them to include summarized financial information in lieu of separate financial statements would have an increased cost of $87,000. The cost for the 26 registrants that were in that position based on 1999 no-action letters would be $78,000.
+
+Today's amendments benefit companies by reducing the need to prepare and submit requests for no-action letters from the Division of Corporation Finance. In the proposing release, we estimated the annual savings to registrants to be approximately $850,000.<sup>99</sup> In that release, we also discussed the manner in which we estimated those annual savings. There were no responses to our request for comment on the reasonableness of our savings estimates.
+
+In addition to the quantifiable benefit of today's amendments to registrants, we believe that there also are a significant number of unquantifiable benefits to registrants and investors, including the following:
+
+today's amendments eliminate uncertainty about which financial statements and periodic reports subsidiary issuers and subsidiary guarantors must file;
+
+today's amendments require financial information that is more helpful to an investor in the two areas where summarized financial statements are permitted today;<sup>100</sup> and
+
+because registrants are required to provide condensed consolidating financial information in all situations in which they must provide separate financial information, investors will be able to compare the financial information among all offerings and in the secondary markets.
+
+<h>VI. Effects on efficiency, competition, and capital formation</h>
+
+As required by Section 23(a) of the Exchange Act,<sup>101</sup> we considered the impact any new Exchange Act rule would have on competition. We requested comment on the proposals, but received no response to our request for comment. We believe that the amendments will not have any anti-competitive effect since the rules, to a large extent, simply codify the reporting requirements to which registrants are already subject.
+
+In addition, Section 2(b) of the Securities Act<sup>102</sup> and Section 3(f) of the Exchange Act<sup>103</sup> require us, in adopting a rule that requires a public interest finding, to consider whether the proposed rule will promote efficiency, competition and capital formation. We sought comment on how these changes would affect competition, capital formation and market efficiency, but received no response to our request for comment. We believe that the amendments will have a positive, but unquantifiable, effect on efficiency, competition, and capital formation. The use of condensed consolidating financial information will help investors assess better the repayment risk of different issuers.
+
+We find that the exemptions under Sections 7<sup>104</sup> and 28<sup>105</sup> of the Securities Act and Sections 12(h) and 36<sup>106</sup> of the Exchange Act are in the public interest and for the protection of investors.
+
+<h>VII. Final Regulatory Flexibility Act Certification</h>
+
+In connection with the rule proposals, the Chairman of the Commission certified that the proposed amendments would not, if adopted, have a significant economic impact on a substantial number of small entities. The certification, including the factual bases for the determination, was published with the proposing release in satisfaction of Section 605(b) of Regulatory Flexibility Act.<sup>107</sup> We requested comments on the certification, but received none.
+
+<h>VIII. Paperwork Reduction Act</h>
+
+We submitted to the Office of Management and Budget the proposals for review in accordance with the Paperwork Reduction Act of 1995.<sup>108</sup> The amendments will affect the inclusion of information in Securities Act registration Forms S-1, F-1, S-4 and F-4 (OMB control numbers 3235-0065, 3235-0258, 3235-0324, and 3235-0325, respectively). We estimated that the proposed rules would increase the average burden per form by approximately five minutes.<sup>109</sup> The amendments will also affect the inclusion of information in Exchange Act Forms 10, 10-SB, 10-K, 10-KSB, 10-Q, 10-QSB and 20-F (OMB control numbers 3235-0064, 3235-0063, 3235-0070 and 3235-0288).<sup>110</sup>We estimated the proposed rules would increase the average burden per form by approximately three minutes for Form 10-K, one minute for Form 10-Q, five minutes for Form 10 and one minute for Form 20-F.<sup>111</sup> We estimated the increased burden hours for each form by dividing the estimated aggregate increased burden for all forms, whether or not the filers would be required to report under Rule 3-10, by the estimated total number of filers. The burden for Regulation S-X (OMB control number 3235-0009) will remain unchanged.
+
+The amendments will not affect the retention period. The filing of financial statements, as described in this release, is mandatory. They are not kept confidential. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a correctly valid control number.
+
+No commenter responded to our request for comment with respect to these proposed changes in burden hours for each affected form.
+
+<h>IX. Statutory Bases</h>
+
+The rule amendments outlined above are proposed pursuant to Sections 7, 10,<sup>112</sup> 19(a),<sup>113</sup> and 28 of the Securities Act and Sections 3(b), 12,<sup>114</sup> 13,<sup>115</sup> 15(d),<sup>116</sup> 23,<sup>117</sup> and 36 of the Exchange Act.
 
 <END MAIN TEXT>
 

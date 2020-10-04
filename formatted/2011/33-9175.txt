@@ -528,6 +528,26 @@ One commentator did note, however, that if the proposed rules did not provide an
 
 <END MAIN TEXT>
 
+1 Pub. L. No. 111-203 (July 21, 2010).
+
+2 17 CFR 229.1104 and 17 CFR 229.1121.
+
+3 17 CFR 229.1100 through 17 CFR 229.1123.
+
+4 15 U.S.C. 77a et seq.
+
+5 17 CFR 232.101 and 17 CFR 232.314.
+
+6 17 CFR 232.10 et seq.
+
+7 17 CFR 240.15Ga-1.
+
+8 17 CFR 240.17g-7.
+
+9 17 CFR 249.1400.
+
+10 15 U.S.C. 78a et seq. 
+
 11 See Release No. 33-9148 (Oct. 4, 2010) [75 FR 6278] (the “Proposing Release”).
 
 12 See Section 943 of the Act.
@@ -578,6 +598,12 @@ One commentator did note, however, that if the proposed rules did not provide an
 
 35 Section 976 of the Act requires the Comptroller General of the United States to submit a report to Congress on the results of a study and review of the disclosure required to be made by issuers of municipal securities, including recommendations for how to improve disclosure by issuers of municipal securities no later than 24 months after the date of enactment of the Act. In addition, pursuant to Section 977 of the Act, the Comptroller General of the United States is also required to conduct a study of the municipal securities markets and report no later than 18 months after the date of enactment of the Act.
 
+36 See e.g., letters from CHFA, ICI, Muni Group, NABL, NALHFA, Nappier, and NCHSA.
+
+37 See e.g., letters from ICI, Muni Group and Scott.
+
+38 See letter from ICI. 
+
 39 See e.g., letters from Connecticut Higher Education Supplemental Loan Authority (CHESLA), CHFA, Hawkins, Delafield and Wood (Hawkins), Kutak, MHFA, NABL, and NCSHA.
 
 40 See generally letters from CHESLA CHFA, EFC, Hawkins, Kutak, MHFA, Muni Group, NABL, NCSHA, and City of New York (NYC )(noting generally that the policy concerns that led to adoption of the Act are not present in the case of municipal securities and the municipal securities markets did not experience the failures or defaults that led to the Act). See also Moody’s Investors Service, Inc., Special Report: U.S. Municipal Bond Defaults and Recoveries, 1970-2009, February, 2010 (noting that municipal issuers have a very limited default experience with only 54 defaults over the period 1970-2009). See also letter from NYC (noting that tax lien securitizations arise out of operation of law and are not originated pursuant to underwriting standards).
@@ -602,6 +628,17 @@ One commentator did note, however, that if the proposed rules did not provide an
 
 50 See SEC Press Release 2010-64, SEC Sets Field Hearings on State of Municipal Markets, Sept. 7, 2010 available on the “Spotlight on the State of the Municipal Securities Market” page of our Web site at
 
+51 Id.
+
+52 See fn. 35.
+
+53 See discussion below regarding transition period in Section III.
+
+54 Id.
+
+55 We are adopting this rule as an Exchange Act rule because of the relationship with other requirements
+under the Exchange Act and other statutory requirements we are implementing. 
+
 56 Issuing entity is defined in Item 1101(f) of Regulation AB [17 CFR 229.1101(f)] as the trust or other
 
 57 See Section 943(2) of the Act.
@@ -614,6 +651,12 @@ One commentator did note, however, that if the proposed rules did not provide an
 
 61 See letters from ICI, Levin, Metlife, and SIFMA (investor members).
 
+62 See e.g., letters from ASF, BOA, GSEs, Kutak, NABL, MHFA, and NCHSA.
+
+63 See letter from Levin.
+
+64 See e.g., letters from ABA, American Bankers Association and ABA Securities Association (ABASA), American Financial Services Association (AFSA), ASF, BOA, Commercial Real Estate Finance Council (CREFC), Financial Services Roundtable (Roundtable), SIFMA and Wells Fargo Bank (Wells) (effectively excluding investor demands upon a trustee if not provided for in the transaction agreements). See also fn. 14.
+
 65 See letter from SIFMA.
 
 66 See e.g., letters from Association of Financial Guaranty Insurers (AFGI), CFRL, Metlife, MBIA Inc. (MBIA), and SIFMA.
@@ -621,6 +664,16 @@ One commentator did note, however, that if the proposed rules did not provide an
 67 See letters from Metlife and SIFMA.
 
 68 See e.g., letters from ABA, ABASA, AFSA, ASF, BOA, Community Mortgage Banking Project
+
+69 See e.g., letters from ABA, ABASA, BOA, CREFC, GSEs, Kutak, MBA, Roundtable and Wells.
+
+70 See e.g., letters from AFSA, ASF, Metlife and SIFMA.
+
+71 See e.g., letters from ABA, ABASA, AFSA, ASF, BOA, CREFC, Roundtable, and SIFMA.
+
+72 See letter from SIFMA.
+
+73 See e.g., letters from AFGI, CFRL, CMBP, MBIA and Metlife. 
 
 74 See e.g., letters from GSEs, Kutak, and SIFMA. In addition, SIFMA noted that to the extent that an originator is no longer in existence, the securitizer should have the option of not providing the information related to such originator.
 
@@ -648,13 +701,39 @@ One commentator did note, however, that if the proposed rules did not provide an
 
 86 Rule 15Ga-1(a)(1)(iii).
 
-87 Rule 15Ga-1(a)(1)(iv). We are adding the instruction to clarify that all originators are required to be
+87 Rule 15Ga-1(a)(1)(iv). We are adding the instruction to clarify that all originators are required to be included. See generally, letters from AFGI, CFRL, CMBP, MBIA and Metlife (noting that without the disclosure requirement of the originator, it may be more difficult for investors to make fair comparisons regarding the repurchase history, including which originators are most likely to be subject to repurchase or replacement requests and which are most likely to honor such requests when made).
+
+88 See e.g., letters from Kutak, GSEs and SIFMA.
+
+89 Rule 15Ga-1(a)(1)(v).
+
+90 See letter from CMBP. 
 
 91 Rule 15Ga-1(a)(1)(vi)
 
 92 See Jody Shenn, “BNY Won’t Investigate Countrywide Mortgage Securities,” Bloomberg Business Week (Sep. 13, 2010) available at countrywide-mortgage-securities.html (noting the difficulties that investors are facing to enforce contracts with respect to repurchase demands) and Al Yoon, “NY Fed joins other investors on loan repurchase bid,” Reuters (Aug. 4, 2010) available at (noting that investors have been frustrated with trustees and servicers and are banding together to force trustees to act on repurchase requests). See also Kevin J. Buckley, “Securitization Trustee Issues,” The Journal of Structured Finance (Summer 2010) (discussing investors demands upon trustees to enforce sellers’ repurchase obligations).
 
+93 Rule 15Ga-1(a)(2). See also Section 4 of the Act.
+
+94 See also discussion in Section II.A.5.c.
+
+95 See e.g., letters from AFSA, ASF, Metlife and SIFMA.
+
+96 See e.g., letters from ABA, ABASA, AFSA, ASF, BOA, CMBP, CREFC, GSEs, Kutak, MBA, NABL, Roundtable, and Wells. 
+
 97 Rule 15Ga-1(a)(2). See e.g., letters from AFSA, ASF, BOA, CREFC, Roundtable and SIFMA.
+
+98 17 CFR 240.12b-21.
+
+99 Rule 15Ga-1(a)(1)(vii).
+
+100 See e.g., letters from ABA, ASF, BOA, CMBP, Metlife, Roundtable and SIFMA.
+
+101 Rule 15Ga-1(a)(1)(viii). See e.g., letters from BOA, Roundtable and SIFMA.
+
+102 Rule 15Ga-1(a)(1)(ix). See e.g., letters from ASF, CMBP, Metlife and SIFMA.
+
+103 See e.g., letter from SIFMA. 
 
 104 See fn. 100.
 
@@ -776,6 +855,16 @@ One commentator did note, however, that if the proposed rules did not provide an
 
 163 As explained in the Proposing Release, we intend the term “preliminary credit rating” to include any rating, any range of ratings, or any other indications of a rating used prior to the assignment of an initial credit rating for a new issuance. See generally Credit Ratings Disclosure, SEC Release No. 33–9070 (October 7, 2009) [74 FR 53086].
 
+164 We further noted that Section 932 of the Act amends Section 15E of the Exchange Act to require the Commission to adopt rules requiring NRSROs to prescribe and use a form to accompany the publication of each credit rating that discloses certain information. See Section 932 of the Act. For the purposes of Section 943 and new Rule 17g-7, such a form would clearly be a “report” and, as such, if published in connection with a rating relating to an asset-backed security, would therefore require the necessary disclosures regarding the representations, warranties and enforcement mechanisms available to investors and how they differ from the representations, warranties and enforcement mechanisms in issuances of similar securities.
+
+165 See letters from ICI and Levin.
+
+166 See letter from ICI.
+
+167 See letters from ABA and Moody’s.
+
+168 See letter from Moody’s. 
+
 169 See e.g., letters from ASF, CREFC, Fitch, Levin, MBA, Realpoint and SIFMA.
 
 170 See letter from Metlife.
@@ -811,6 +900,8 @@ One commentator did note, however, that if the proposed rules did not provide an
 185 See letter from S&P.
 
 186 See letter from Moody’s.
+
+187 17 CFR 240.17g-5(a)(3). This provision requires an NRSRO that is hired by an arranger to determine an initial credit rating for a structured finance product to take certain steps designed to allow an NRSRO that is not hired by the arranger to nonetheless determine an initial credit rating – and subsequently monitor that credit rating – for the structured finance product. See Amendments to Rules for Nationally Recognized Statistical Rating Organizations, SEC Release No. 34-61050 (November 23, 2009) [74 FR 63832]. 
 
 188 See letter from Roundtable (but noting a six month period would only be appropriate if the final rule would only require prospective information).
 
@@ -873,6 +964,10 @@ One commentator did note, however, that if the proposed rules did not provide an
 218 4 reports X 2,067 ABS offerings X 11 hours (1 hour to review disclosures + 10 hours to compare and prepare).
 
 219 See letter from Fitch.
+
+220 See discussion in Section II.A.5. 
+
+221 See discussion in Section II.A.3. 
 
 222 Rule 15Ga-1 requires a securitizer to indicate if the ABS transaction was registered and disclose the CIK number of the issuing entity of the ABS transaction, so that users may locate other information available on EDGAR.
 

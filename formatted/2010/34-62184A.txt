@@ -1036,6 +1036,18 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 46 See Proposing Release, supra note 2, 74 FR at 36835, n. 45.
 
+47 See Proposing Release, supra note 2, 74 FR at 36836.
+
+48 See supra note 28 and accompanying text.
+
+49 See supra note 14 and accompanying text.
+
+50 See supra note 38 for a description of Rule 15c2-12(c).
+
+51 See Rule 15c2-12(f)(7) for the definition of primary offering. 17 CFR 240.15c2-12(f)(7).
+
+52 See supra note 41.
+
 53 As noted in Section III.G., the compliance date of the amendments to the Rule adopted herein is December 1, 2010.
 
 54 See infra notes 111 and 112 and accompanying text, as well as the paragraph following the accompanying text.
@@ -1184,6 +1196,34 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 126 See NABL Letter at 5-6, GFOA Letter at 2-3, and Metro Water Letter at 1-2.
 
+127 See Halgren Letter, Los Angeles Letter, Portland Letter, CRRC Letter, WCRRC Letter, NFMA Letter, CHEFA Letter, NAHEFFA Letter, SIFMA Letter, Connecticut Letter, Kutak Letter, California Letter, and San Diego Letter. See also the discussion below in this section regarding commenters’ concerns about becoming aware of and submitting notices for events such as rating changes and trustee changes.
+
+128 See NABL Letter at 5-6.
+
+129 Id.
+
+130 See GFOA Letter at 2.
+
+131 Id.
+
+132 See NFMA Letter at 1-2, SIFMA Letter at 3, ICI Letter at 6-7, and Fidelity Letter at 2. Fidelity indicated in its letter that it assisted in the preparation of the ICI Letter II and expressed support for all of the statements made in the ICI Letter. See Fidelity Letter at 2.
+
+133 See ICI Letter at 6 and Fidelity Letter at 2.
+
+134 Id. 
+
+135 Id.
+
+136 Id.
+
+137 Id.
+
+138 Id.
+
+139 Id.
+
+140 See Proposing Release, supra note 2, 74 FR at 36837, n. 69. See, e.g., Elizabeth Carvlin, Trustee for Vigo County, Ind., Agency Taps Reserve Fund for Debt Service, The Bond Buyer, April 2, 2004, at 3 (reporting the filing of a material event notice regarding a draw on debt service reserve fund that occurred in February); Alison L. McConnell, Two More Deals Under Audit By TEB Office, The Bond Buyer, April 5, 2006 (event notice of tax audit filed nine months after audit was opened); Susanna Duff Barnett, IRS Answers Toxic Query; Post 1986 Radioactive Waste Debt Not Exempt, The Bond Buyer, November 2, 2004 (material event notice filed October 29, 2004 regarding IRS technical advice memorandum dated August 27, 2004 that bonds issued to finance certain radioactive solid waste facilities were taxable; related preliminary adverse determination letter was issued in January, 2002); and Michael Stanton, IRS: Utah Pool Bonds Taxable; Issuer Disputes Facts of Case, The Bond Buyer, December 8, 1997 (issuer’s receipt of August, 1997 IRS technical advice memorandum concluding certain bonds were taxable was disclosed on December 5, 1997). See also Peter J. Schmitt, Estimating Municipal Securities Continuing Disclosure Compliance: A Litmus Test Approach (available at http://www.dpcdata.com/html/about-researchpapers.html).
+
 141 See supra note 134 and accompanying text.
 
 142 See Proposing Release, supra note 2, 74 FR 36838, n. 70. See, e.g., National Federation of Municipal Analysts, Recommended Best Practices in Disclosure for General Obligation and Tax-Supported Debt (December 2001) (“Any material event notices, including those required under SEC Rule 15c2-12, should be released as soon as practicable after the information becomes available.”) (available at Peter J. Schmitt, Letter to the Editor, To the Editor: MuniFilings.com: The Once and Future Edgar?, The Bond Buyer, October 9, 2007, Commentary, Vol. 362, No. 32732, at 36 (“[F]iling issues are the sole cause of lack of transparency and disclosure availability in the industry. These filing issues include . . . late filing. ”).
@@ -1268,6 +1308,14 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 182 The Commission applied the same rationale discussed in this paragraph to determine which of the new event items that are being added to the Rule by these amendments should contain a materiality condition.
 
+183 See Kutak Letter at 3.
+
+184 See California Letter at 2, San Diego Letter at 2, and GFOA Letter at 4.
+
+185 See California Letter at 2 and San Diego Letter at 2.
+
+186 Id. 
+
 187 See Proposing Release, supra note 2, 74 FR at 36839.
 
 188 See NABL Letter at 6-7.
@@ -1320,6 +1368,12 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 212 See Portland Letter at 2 and California Letter at 3.
 
+213 See supra Section III.C.2.b.
+
+214 See ICI Letter at 8 and Fidelity Letter at 3.
+
+215 Id. 
+
 216 The fact that a security may be redeemed prior to maturity in whole, in part, or in extraordinary circumstances is essential to an investor’s investment decision about the security and is one of the facts a broker-dealer must disclose at the time of trade. See MSRB Interpretative Notice Concerning Disclosure of Call Information to Customers of Municipal Securities, MSRB, March 4, 1986.
 
 217 In the Proposing Release, the Commission proposed modifying paragraph (b)(5)(i)(C)(6) of the Rule so that continuing disclosure agreements would provide for the submission of a notice for “[a]dverse tax opinions, the issuance by the Internal Revenue Service of proposed or final determinations of taxability, Notices of Proposed Issue (IRS Form 5701-TEB) or other material notices or determinations with respect to the tax-exempt status of the securities, or other events affecting the tax-exempt status of the security.” See Proposing Release, supra note 2, 74 FR at 36868.
@@ -1370,6 +1424,24 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 240 See Proposing Release, supra note 2, 74 FR at 36842, n. 101. See, e.g., Susanna Duff Barnett, IRS Answers Toxic Query; Post 1986 Radioactive Waste Debt Not Exempt, The Bond Buyer, November 2, 2004 (material event notice filed October 29, 2004 regarding IRS technical advice memorandum dated August 27, 2004 that bonds issued to finance certain radioactive solid waste facilities were taxable; related preliminary adverse determination letter was issued in January, 2002). See also supra note 140.
 
+241 See Proposing Release, supra note 2, 74 FR at 36853, which notes that for Paperwork Reduction Act purposes, 130 event notices relating adverse tax events, including IRS determinations, are estimated to be submitted to the MSRB.
+
+242 See Kutak Letter at 5.
+
+243 See Metro Water Letter at 3 and Kutak Letter at 4-7.
+
+244 See Metro Water Letter at 3.
+
+245 See Kutak Rock Letter at 4-7.
+
+246 See ICI Letter at 2, NFMA Letter at 2 and SIFMA Letter at 3.
+
+247 See Connecticut Letter at 2.
+
+248 See SIFMA Letter at 3.
+
+249 Id. 
+
 250 P.L. 111-5, 123 Stat. 115 (2009).
 
 251 The American Recovery and Reinvestment Act of 2009 introduced three new categories of tax-advantaged taxable bonds - Build America Bonds (I.R.C. § 54AA), Qualified School Construction Bonds (I.R.C. § 54F), and Recovery Zone Economic Development Bonds (I.R.C. §§ 1400U-2). In addition, the ARRA expanded the authority to issue taxable New Clean Renewable Energy Bonds (I.R.C. § 54C), Qualified Energy Conservation Bonds (I.R.C. § 54D) and Qualified Zone Academy Bonds (I.R.C. § 54E). This followed the introduction of taxable Qualified Forestry Conservation Bonds (I.R.C.
@@ -1381,6 +1453,18 @@ Further, the Commission believes that, in the case of those issuers that do not 
 254 See, e.g., I.R.C. §§ 54A and 54AA.
 
 255 In passing the Williams Act, P.L. 90-439, in 1968, Congress recognized that regulation of tender offers was necessary for the purposes of disclosure of material information and substantive protection to investors. See Rep. No. 550, 90th Cong., 1st Sess. 3 (1967) at 1. Municipal securities, however, generally are not subject to Commission rules governing tender offers, including rules that set forth disclosure, time periods, and other requirements governing tender offers by issuers.
+
+256 See ICI Letter at 8, Fidelity Letter at 2, NFMA Letter at 2, and SIFMA Letter at 4.
+
+257 See ICI Letter at 8 and Fidelity Letter at 2.
+
+258 See NABL Letter at 7.
+
+259 Id.
+
+260 Id.
+
+261 See Connecticut Letter at 2, GFOA Letter at 4, Metro Water Letter at 2, and NABL Letter at 7. 
 
 262 In addition, two commenters recommended that the Commission provide a definition of “tender offer” for purposes of the Rule. See Kutak Letter at 4 and GFOA Letter at 4. Although the term “tender offer” has not been defined, the Commission notes that the meaning of “tender offer” for municipal securities purposes is no different from the meaning of “tender offer” for other securities subject to the tender offer provisions of the Exchange Act and related rules. See generally Rule 14d-1(g) under the Exchange Act. 17 CFR 240.14d-1(g). One of these commenters also suggested that the tender agent, rather than issuer, should submit the notice to the MSRB. See GFOA Letter at 4. The Commission notes, however, that an issuer already may negotiate to designate a tender agent to submit a tender offer notice to the MSRB on its behalf. See 17 CFR 240.15c2- 12(b)(5)(i).
 
@@ -1428,9 +1512,41 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 284 See Proposing Release, supra note 2, 74 FR at 36845.
 
+285 See CRRC Letter at 5 and WCRRC Letter.
+
+286 Id.
+
+287 See also Proposing Release, supra note 2, 74 FR at 36845. 
+
 288 See NABL Letter at 8. This commenter and several other commenters suggested that the Commission add the “if material” qualifier to this event item. See Connecticut Letter at 2, GFOA Letter at 4, Metro Water Letter at 2, and NABL Letter at 7. The Commission points out, however, that new paragraph (b)(5)(i)(C)(13) contains a materiality condition. As the Commission noted in the Proposing Release, it does not believe that all mergers, consolidations, acquisitions, and substantial asset sales are necessarily of sufficient importance that information pertaining to them needs to be made available in every instance. For example, a merger could involve the combination of a shell corporation or a small entity into a very large health care organization that is a conduit borrower. Such mergers generally would not have a significant impact on the business or financial condition of the larger corporation and, under all of the applicable facts and circumstances, generally would not be important to investors. See Proposing Release, supra note 2, 74 FR at 36845. The Commission received no comments on this statement.
 
 289 See NABL Letter at 8.
+
+290 See Connecticut Letter at 2, NFMA Letter at 2, SIFMA Letter at 4, ICI Letter at 8, Fidelity Letter at 3, and GFOA Letter at 4.
+
+291 See CHEFA Letter at 3 and NAHEFFA Letter at 4.
+
+292 See CHEFA Letter at 3. 
+
+293 See NAHEFFA Letter at 4.
+
+294 Id.
+
+295 See Proposing Release, supra note 2, 74 FR at 36845-46.
+
+296 See NABL Form Indenture, supra note 270.
+
+297 Id. 
+
+298 See infra Section IV., discussing the obligations of underwriters of municipal securities under the antifraud provisions of the federal securities laws, and note 351.
+
+299 See, e.g., NABL Form Indenture, supra note 270.
+
+300 Rule 15c2-12(b)(5)(i) permits an issuer or obligated person to provide documents to the MSRB either directly or indirectly through an indenture trustee or a designated agent. See 17 CFR 240.15c2-12(b)(5)(i).
+
+301 See CHEFA Letter at 3, NAHEFFA Letter at 4, and Fidelity Letter at 3.
+
+302 See CHEFA Letter at 3 and NAHEFFA Letter at 4. 
 
 303 See Fidelity Letter at 3.
 
@@ -1466,7 +1582,23 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 319 See e-certus Letter I at 3, ICI Letter at 10-11, and Fidelity Letter at 3.
 
+320 See e-certus Letter I at 10.
+
+321 See Becker Letter.
+
+322 See Boatwright Letter. 
+
 323 See Fidelity Letter at 5.
+
+324 Id.
+
+325 See Kutak Letter, CHEFA Letter, Fidelity Letter at 2, and ICI Letter at 10.
+
+326 See NFMA Letter at 3.
+
+327 See MSRB Letter at 2.
+
+328 See NABL Letter at 10 and GFOA Letter at 5. 
 
 329 Id.
 
@@ -1491,6 +1623,24 @@ Further, the Commission believes that, in the case of those issuers that do not 
 339 Pursuant to the 2008 Amendments, the MSRB is the sole information repository.
 
 340 Rule 15c2-12(f)(3), 17 CFR 15c2-12(f)(3).
+
+341 See 1994 Amendments Adopting Release, supra note 8, 59 FR at 59594-5.
+
+342 Id. at 59595.
+
+343 Id.
+
+344 See 1988 Proposing Release, supra note 58, 53 FR at 37789, and 1989 Adopting Release, supra note 8, 54 FR 28811-12.
+
+345 Id. 
+
+346 Id.
+
+347 See 1988 Proposing Release, supra note 58, 53 FR at 37789.
+
+348 See 1994 Amendments Adopting Release, supra note 8, 59 FR at 59595.
+
+349 17 CFR 240.15c2-12(f)(3). 
 
 350 The Commission notes that, in light of the adoption of the 2008 Amendments and their effective date of July 1, 2009, for disclosures made on or after July 1, 2009, an underwriter could verify that the information has been submitted electronically to the MSRB.
 
@@ -1614,6 +1764,12 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 410 Issuers of demand securities with fixed-rate debt outstanding already would be subject to a continuing disclosure agreement in which they undertake to provide continuing disclosure documents, so they would be subject to minimal – if any – increased burdens. See supra Section V.D.2.a.
 
+411 See supra notes 402 to 406 and accompanying text.
+
+412 Id.
+
+413 See Proposing Release, supra note 2, 74 FR at 36837. 
+
 414 See NABL Letter (the GFOA Letter expressed support for the statements made in the NABL Letter). The Commission notes that this commenter disputed that the Commission’s 45 minute estimate in connection with the amendment to the time frame for the submission of event notices. This comment is addressed in infra Section V.D.2.b.i.
 
 415 19,091 (12,791(total annual filings submitted to the MSRB during the Sample Period)/.67) (annualized number of annual filings submitted to the MSRB based on the Sample Period) x 1.20 (20% increase in filings under the amendments) = 22,909 annual filings (estimated number of annual filings under the amendments). In the Proposing Release, the Commission estimated 18,000 annual filings would be submitted to the MSRB under the amendments. The Commission is revising this estimate to 22,909 filings to reflect actual filings submitted to the MSRB. This revised estimate is higher than the Commission’s estimate in the Proposing Release by 4,909 annual filings or by approximately 27.27%.
@@ -1633,6 +1789,14 @@ Further, the Commission believes that, in the case of those issuers that do not 
 422 See Proposing Release, supra note 2, 74 FR at 36852.
 
 423 1,458 (estimated number of failure to file notices under the amendments) x .5 hours (30 minutes) (estimated time to prepare and submit failure to file notices under the amendments) = 729 hours. In the Proposing Release, the Commission estimated that issuers would spend 1,200 hours to prepare and submit failure to file notices. The Commission is revising its estimate to 729 hours. This estimate is lower than the estimate in the Proposing Release by 471 hours or by 39.25%.
+
+424 See supra note 418 and accompanying text.
+
+425 Id.
+
+426 See supra note 405 and accompanying text.
+
+427 See supra note 419 and accompanying text. 
 
 428 See, e.g., Halgren Letter, Los Angeles Letter, Portland Letter, CRRC Letter, WCRRC Letter, NFMA Letter, CHEFA Letter, NAHEFFA Letter, SIFMA Letter, Connecticut Letter, Kutak Letter, ICI II Letter, Fidelity Letter, California Letter, San Diego Letter, NABL Letter, GFOA Letter, and Metro Water Letter.
 
@@ -1673,6 +1837,14 @@ Further, the Commission believes that, in the case of those issuers that do not 
 446 Id.
 
 447 Id.
+
+448 See NABL Letter at 5-6.
+
+449 Id.
+
+450 See California Letter at 3. See also San Diego Letter at 2 (expressing similar concern that complying preparing and submitting event notices for rating changes required a “significant commitment of staff time and resources.”).
+
+451 See Halgren Letter at 1. 
 
 452 With respect to one commenter’s assertion that monitoring for rating changes would take 26-52 hours each year, the Commission notes that 45 minutes per event notice is an average. With respect to the comment that, during the fiscal year 2008-2009, one commenter spent 340-420 hours of staff time preparing and submitting notices of rating changes, the Commission notes that this commenter is one of the very largest municipal securities issuers and, as such, likely has a large number of issues of municipal securities outstanding with a variety of credit ratings that may change at a variety of times. Accordingly, this issuer likely spends much more time than the average issuer preparing and submitting event notices. In addition, the Commission notes that the time period referenced by this commenter encompasses the period prior to the establishment of the MSRB’s EMMA system as a single repository for continuing disclosure, when issuers submitted continuing disclosure documents to four information repositories. Accordingly, the Commission would expect that the time spent by the average issuer to monitor for rating changes would be substantially less than the estimate provided by this commenter.
 
@@ -1754,6 +1926,12 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 491 300 hours (total estimated burden for broker-dealers) + 78,933 hours (total estimated burden for issuers) + 9,030 hours (total estimated burden for MSRB) = 88,263 hours. This estimate is higher than the estimate in the Proposing Release by 5,165 hours or 6.22%.
 
+492 See NABL Letter.
+
+493 See NABL Letter at 12-13.
+
+494 See Proposing Release, supra note 2, 74 FR at 36858. 
+
 495 See Proposing Release, supra note 2, 74 FR at 36855, n. 205. Telephone conversation between Harold Johnson, Deputy General Counsel, MSRB, and Martha M. Haines, Assistant Director and Chief, Office of Municipal Securities, Division, Commission, November 7, 2008.
 
 496 See Proposing Release, supra note 2, 74 FR at 36855.
@@ -1777,6 +1955,12 @@ Further, the Commission believes that, in the case of those issuers that do not 
 505 1 (continuing disclosure agreement) x $400 (hourly wage for an outside attorney) x .25 hours (estimated time for outside attorney to revise a continuing disclosure document in accordance with the amendments to the Rule) = $100. The $400 per hour estimate for an outside attorney’s work is based on industry sources.
 
 506 $100 (estimated cost to revise a continuing disclosure agreement in accordance with the amendments to the Rule) x 10,000 (number of current issuers) = $1,000,000.
+
+507 See supra Section V.D.2.a.
+
+508 See supra note 402 and accompanying text.
+
+509 As noted above, the compliance date of the amendments to the Rule is December 1, 2010. 
 
 510 1 (continuing disclosure agreement) x $400 (hourly wage for an outside attorney) x 1.5 hours (estimated time for outside attorney to draft a continuing disclosure document) =
 
@@ -1836,6 +2020,15 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 538 Id.
 
+539 See CRRC Letter at 5 and WCRRC Letter at 1 (generally expressed support for
+comments in CRRC Letter).
+
+540 Id.
+
+541 Id.
+
+542 17 CFR 240.15c2-12(b)(5)(i)(B). See also supra Section III.A. concerning audited financial statements and 1994 Amendments Adopting Release, supra note 8, 59 FR at 59599. 
+
 543 As discussed in the 1994 Amendments Adopting Release, the 1994 Amendments “[do] not adopt the proposal to mandate audited financial statements on an annual basis with respect to each issuer and significant obligor. Instead, the amendments require annual financial information, which may be unaudited, and may, where appropriate and consistent with the presentation in the final official statement, be other than full financial statements. However, if audited financial statements are prepared, then when and if
 
 544 See for audited financial statements or other financial and operating information submitted to EMMA.
@@ -1862,9 +2055,59 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 555 See 17 CFR 240.15c2-12(c).
 
+556 See Andrew Ackerman, “Concerns Raised on VRDOs,” The Bond Buyer, June 9, 2009.
+
+557 See California Letter at 1, CHEFA Letter at 2, Connecticut Letter at 1, DAC Letter at 3, e-certus Letter I at 11, Fidelity Letter at 3, Folts Letter at 1, ICI Letter at 2, NFMA Letter at 1, RBDA Letter at 2, and SIFMA Letter at 2.
+
+558 See, e.g., ICI Letter at 5, SIFMA Letter at 2, and RBDA Letter at 2. 
+
+559 See RBDA Letter at 2.
+
+560 See CHEFA Letter at 2.
+
+561 See NMFA Letter at 1. 
+
+562 See NFMA Letter at 1-2, SIFMA Letter at 3, ICI Letter at 6-7, and Fidelity Letter at 3-4.
+
+563 See ICI Letter at 1 and Fidelity at 2.
+
+564 Id.
+
+565 Id.
+
+566 See supra note 553 describing the events. 
+
+567 See California Letter at 2, San Diego Letter at 2, SIFMA Letter at 3, ICI Letter at 7-8, and Fidelity Letter at 3.
+
+568 See SIFMA Letter at 3.
+
+569 See California Letter at 2 and San Diego Letter at 2.
+
+570 See ICI Letter at 7-8 and Fidelity Letter at 3.
+
+571 Id. 
+
+572 See NFMA Letter at 2.
+
+573 Id.
+
+574 See SIFMA Letter at 3.
+
+575 See supra Section III.E.1. 
+
 576 See supra Section III.E.2.
 
 577 See supra Section III.E.3.
+
+578 See supra Section III.E.4.
+
+579 See ICI Letter at 8, Fidelity Letter at 2-3, Connecticut Letter at 2, NFMA Letter at 2, and SIFMA Letter at 4.
+
+580 See ICI Letter at 8 and Fidelity Letter at 2.
+
+581 See Fidelity Letter at 3.
+
+582 See NFMA Letter at 2. 
 
 583 See supra Section V.D.2.a. As noted above, adoption of the limited grandfather provision will not materially affect the Commission’s estimate of the number of demand securities issuers that will be affected by the amendments. Therefore, the Commission is retaining its estimate that there will be a 20% increase in the number of issuers affected by the amended Rule.
 
@@ -1926,7 +2169,33 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 612 Id. These cost estimates correspond with the burden estimates set forth in supra Section
 
+613 See CRRC Letter, WCRRC Letter, Portland Letter at 2, NAHEFFA Letter at 2-4, Metro Water Letter at 1-2, CHEFA Letter at 2, and NABL Letter at 5-6.
+
+614 See Halgren Letter, Los Angeles Letter at 1, CRRC Letter, WCRRC Letter, NAHEFFA Letter at 2-4, CHEFA Letter at 2, and NABL Letter at 5-6.
+
+615 See Halgren Letter, Los Angeles Letter at 1-2, NAHEFFA Letter at 2-4, San Diego Letter at 1-2, California Letter at 1-2, NABL Letter at 8, and GFOA Letter at 3-4.
+
+616 Id.
+
+617 See, e.g., Halgren Letter at 1. 
+
 618 See Connecticut Letter at 2.
+
+619 See California Letter at 2 and San Diego Letter at 2.
+
+620 Id.
+
+621 Id.
+
+622 See NABL Letter at 8 and Kutak Letter at 4.
+
+623 See Connecticut Letter at 2.
+
+624 See Metro Letter at 2, Kutak Letter at 5, and NABL Letter 7.
+
+625 See Metro Letter at 2 and Kutak Letter at 5.
+
+626 See Kutak Letter at 6. 
 
 627 See Kutak Letter at 6, NABL Letter at 7, and GFOA Letter at 4.
 
@@ -1943,6 +2212,16 @@ Further, the Commission believes that, in the case of those issuers that do not 
 633 See NABL Letter at A-2, n. 1.
 
 634 Id.
+
+635 See CRRC Letter at 5 and NABL Letter at A-2.
+
+636 See CRRC Letter at 5. See also supra note 539 and accompanying text.
+
+637 See CRRC Letter at 5 and NABL Letter at A-10. Two commenters also expressed concern that, in complying with the revised Rule, smaller and not-for-profit obligated persons could encounter similar administrative costs and burdens. See NABL Letter at A-2 (noting that many small businesses and non-profit organizations utilize LOC-backed demand securities in accessing the tax-exempt debt markets) and SIFMA Letter at 2-3.
+
+638 Id.
+
+639 See Proposing Release, supra note 2, 74 FR at 36837. 
 
 640 See supra Section III.A. for additional discussion concerning the provision of annual filings and audited financial statements.
 
@@ -1962,6 +2241,16 @@ Further, the Commission believes that, in the case of those issuers that do not 
 
 648 See Proposing Release, supra note 2, 74 FR at 36855, n. 205. Telephone conversation between Harold Johnson, Deputy General Counsel, MSRB, and Martha M. Haines, Assistant Director and Chief, Office of Municipal Securities, Division, Commission, November 7, 2008.
 
+649 See supra notes 487 through 490.
+
+650 See MSRB Letter at 2.
+
+651 Id.
+
+652 Id.
+
+653 Id. 
+
 654 15 U.S.C. 78c(f).
 
 655 15 U.S.C. 78w(a)(2).
@@ -1973,6 +2262,14 @@ Further, the Commission believes that, in the case of those issuers that do not 
 658 See supra Sections V.E.1. and V.E.2.
 
 659 See supra Section III.A.
+
+660 See NABL Letter A-9 – A-12, CRRC Letter at 3-5, and WCRRC Letter at 1.
+
+661 See CRRC Letter at 3-5, and WCRRC Letter at 1.
+
+662 Id.
+
+663 See CRRC Letter at 3-5, and WCRRC Letter at 1. 
 
 664 See, e.g., CHEFA Letter at 2, Connecticut Letter at 1, e-certus Letter I at 11, Folt Letter at 1, ICI Letter at 5, NFMA Letter at 1, RBDA Letter at 2, and SIFMA Letter at 2.
 
@@ -1999,6 +2296,34 @@ Further, the Commission believes that, in the case of those issuers that do not 
 675 15 U.S.C. 78a et seq. See also Proposing Release, supra note 2, 74 FR at 36836.
 
 676 As noted above, the compliance date of the amendments to the Rule is December 1, 2010.
+
+677 See 1994 Amendments, supra note 7, 59 FR at 59601
+
+678 Id.
+
+679 See Proposing Release, supra note 2, 74 FR at 36837.
+
+680 Id. 
+
+681 See Proposing Release, supra note 2, 74 FR at 36840-41.
+
+682 Id.
+
+683 Id. 
+
+684 See Proposing Release, supra note 2, 74 FR at 36839-40.
+
+685 See Proposing Release, supra note 2, 74 FR at 36842-46.
+
+686 Id.
+
+687 Id. 
+
+688 Id.
+
+689 See Proposing Release, supra note 2, 74 FR at 36835-37. 
+
+690 Id.
 
 691 See Proposing Release, supra note 2, 74 FR at 36867.
 

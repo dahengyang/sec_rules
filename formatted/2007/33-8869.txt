@@ -1054,6 +1054,8 @@ The amendments to Rule 145 will eliminate the presumptive underwriter provision 
 
 104 See also, e.g., SEC Interpretation: Commission Guidance on the Scope of Section 28(e) of the Exchange Act, Interpretive Release No. 34-45194 (Dec. 27, 2001) [67 FR 6]. This treatment is also consistent with NASD Rules 4632(d)(3)(B), 4642(d)(3)(B), and 6420(d)(3)(B).
 
+105 See Release No. 34-5452 (Feb. 1, 1974; amended Feb. 21, 1974). These subparagraphs, as amended, are contained in paragraphs (g)(3)(i), (g)(3)(ii), and (g)(3)(iii) of Rule 144. Under the amendments, the previous paragraph (g)(2) has been redesignated as paragraph (g)(3), and the previous paragraph (g)(3) has been redesignated as paragraph (g)(4).
+
 106 17 CFR 242.300.
 
 107 See new Rule 144(g)(3)(iv).
@@ -1084,17 +1086,39 @@ The amendments to Rule 145 will eliminate the presumptive underwriter provision 
 
 120 The term “tranche” is also used in the definition of “distribution compliance period” in Rule 902(f) of Regulation S. 17 CFR 230.902(f).
 
+121 See newly revised Rule 144(e)(2).
+
 122 Generally, because of the absence of an active trading market in debt securities, debt holders do not rely on the average daily trading volume test to sell their securities under Rule 144.
+
+123 17 CFR 230.144(h).
+
+124 We note, however, that in 1978, the Commission shortened the relevant time period in Rule 144(e) for calculating the amount of securities o be sold under Rule 144 from six months to three months and made conforming changes to the Form 144 filing requirement. Release No. 33-5995 (Nov. 8, 1978) [43 FR 54229]
+
+125 See comment letters on the 1997 Proposing Release from ABA; ASCS; AT&T Corp. (“AT&T”); BG&E; Corporate Counsel; Merrill Lynch; Morgan Stanley; NY Bar; NY City Bar; Regional Bankers; SIA; Smith Barney; and Sullivan.
 
 126 See comment letters on the 1997 Proposing Release from ABA; Benesch, Friedlander, Coplan & Aronoff, LLP; NY Bar; NY City Bar; and Sullivan.
 
+127 See comment letter on the 1997 Proposing Release from ABA.
+
 128 See comment letter on the 1997 Proposing Release from NY Bar.
+
+129 Only affiliates of the issuer are required to file a notice of proposed sale on Form 144 when relying on Rule 144 under the amendments that we are adopting
+
+130 See, e.g., comment letters on the 2007 Proposing Release from ABA; Financial Associations; and SCSGP.
+
+131 See comment letter on the 207 Proposing Release from ABA. ABA supported elimination of Form 144 but recommended these filing thresholds, if the Commission chose to retain it.
+
+132 The adjustment would be approximately $42,000 if based on the Personal Consumption Expenditures Chain-Type Price Index, as published by the Department of Commerce. In addition, if based on the Consumer Price Index, the adjustment would be approximately $50,000. To achieve a round number, we proposed to raise the filing threshold to $50,000.
 
 133 See, e.g., comment letters on the 2007 Proposing Release from ABA; BAIS; Brill 1; Fried Frank; Pink Sheets; Sichenzia; SCSGP; and Sullivan. The comment letters from ABA, BAIS, SCSGP and Sullivan advocated that the Commission should eliminate the Form 144 filing requirement; however, to the extent that we determine to retain any items required by Form 144, they provided suggestions regarding the proposal to combine Form 144 with Form 4.
 
 134 See comment letters on the 2007 Proposing Release from ABA; Cleary Gottlieb; Financial Associations; Fried Frank; and Richardson Patel.
 
 135 See comment letter on the 2007 Proposing Release from Financial Associations.
+
+136 15 U.S.C. 77d(6). Section 4(6) was included in the Securities Act pursuant to the Small Business Investment Incentive Act of 1980 [Pub. L. No. 96-477 (Oct. 21, 1980)].
+
+137 17 CFR 230.144(a)(3). See the Division of Corporation Finance’s Compliance and Disclosure Interpretations on Rule 144 (Updated April 2, 2007), at Section 104 (Rule 144(a)(3)), Question No. 104.03.
 
 138 See 15 U.S.C. 77d(6).
 
@@ -1112,11 +1136,15 @@ The amendments to Rule 145 will eliminate the presumptive underwriter provision 
 
 145 See comment letter on the 2007 Proposing Release from Feldman.
 
+146 See comment letter on the 2007 Proposing Release from Sullivan. 
+
 147 See amendments to Rule 144(d)(3)(ii).
 
 148 See the Division of Corporation Finance’s Compliance and Disclosure Interpretations on Rule 144 (Updated April 2, 2007), at Section 212 (Rule 144(d)(3)), Interpretation No. 212.01.
 
 149 See the Division of Corporation Finance’s letter to Morgan Stanley & Co., Inc. (June 30, 1993).
+
+150 See the Division of Corporation Finance’s letters to Morgan Stanley & Co., Inc. (June 30, 1993) and Malden Trust Corporation (Feb. 21, 1989). 
 
 151 See comment letters on the 2007 Proposing Release from Cleary Gottlieb; Feldman; and Richardson Patel.
 
@@ -1124,27 +1152,57 @@ The amendments to Rule 145 will eliminate the presumptive underwriter provision 
 
 153 See comment letters on the 2007 Proposing Release from Cleary Gottlieb and Financial Associations.
 
+154 See comment letter on the 2007 Proposing Release from Sullivan.
+
 155 See new Rule 144(d)(3)(x) and related notes.
+
+156 See Note 2 to Rule 144(d)(3)(x)
 
 157 Under the amendments that we are adopting, the volume limitations in Rule 144(e) would apply only to affiliates.
 
 158 See the Division of Corporation Finance’s Compliance and Disclosure Interpretations on Rule 144 (Updated April 2, 2007), at Section 216 (Rule 144(e)(3)), Interpretation No. 216.01. See also the Division of Corporation Finance’s letter to Standard Chartered Bank (June 22, 1987).
 
+159 See amendments to Rule 144(e)(3)(ii).
+
+160 17 CFR 230.419. The term “penny stock” is defined in Exchange Act Rule 3a51-1 [17 CFR 240.3a51-1].
+
+161 See Release No. 33-6932 (Apr. 28, 1992) [57 FR 18037].
+
+162 17 CFR 230.419. 
+
 163 17 CFR 230.405.
 
+164 See Release No. 33-8587 (Jul. 15, 2005) [70 FR 42234].
+
+165 See the Division of Corporation Finance’s letter to Ken Worm, NASD Regulation, Inc. (Jan. 21, 2000). In that letter, the Division stated that “transactions in blank check company securities by their promoters or affiliates . . . are not the kind of ordinary trading transactions between individual investors of securities already issued that Section 4(1) [of the Securities Act] was designed to exempt.” The Division stated its view that “both before and after the business combination or transaction with an operating entity or other person, the promoters of affiliates of blank check companies, as well as their transferees, are ‘underwriters’ of the securities issued... Rule 144 would not be available for resale transactions in this situation, regardless of technical compliance with that rule, because these resale transactions appear to be designed to distribute or redistribute securities to the public without compliance with the registration requirements of the Securities Act.” 
+
 166 A “business combination related shell company” is defined in Securities Act Rule 405 as a shell company that is (1) formed by an entity that is not a shell company solely for the purpose of changing the corporate domicile of that entity solely within the United States; or (2) formed by an entity that is not a shell company solely for the purpose of completing a business combination transaction (as defined in §230.165(f)) among one or more entities other than the shell company, none of which is a shell company.
+
+167 See, e.g., comment letters on the 2007 Proposing Release from Feldman; Financial Associations; Parsons; Pink Sheets; and Williams. 
 
 168 See comment letter on the 2007 Proposing Release from Pink Sheets.
 
 169 See comment letters on the 2007 Proposing Release from Sichenzia and Williams.
 
+170 See comment letter on the 2007 Proposing Release from Sichenzia.
+
 171 See new Rule 144(i).
 
 172 Rule 144(i) does not prohibit the resale of securities under Rule 144 that were not initially issued by a reporting or non-reporting shell company or an issuer that has been at any time previously such a company, even when the issuer is a reporting or non-reporting shell company at the time of sale. Contrary to commenters’ concerns, Rule 144(i)(1)(i) is not intended to capture a “startup company,” or, in other words, a company with a limited operating history, in the definition of a reporting or non-reporting shell company, as we believe that such a company does not meet the condition of having “no or nominal operations.”
 
+173 17 CFR 239.16b.
+
+174 See Release No. 33-8587. These provisions are consistent with the Form S-8 provisions for shell companies, except that Form S-8 requires a former shell company to wait 60 days, rather than 90 days, before it is able to use the form to register securities. 
+
 175 17 CFR 249.210 and 17 CFR 249.220f. In another Commission release, we are rescinding Form 10-SB [17 CFR 249.210b]. See SEC Press Release No. 2007-233 (Nov. 15, 2007), available at
 
 176 17 CFR 249.308. Items 2.01(f) and 5.01(a)(8) of Form 8-K require a company in a transaction where the company ceases being a shell company to file a current report on Form 8-K containing the information (or identifying the previous filing in which the information is included) that would be required in a registration statement on Form 10 or Form 10-SB to register a class of securities under Section 12 of the Exchange Act.
+
+177 See new Rule 144(i)(2).
+
+178 See comment letter on the 2007 Proposing Release from Sichenzia. 
+
+179 See new Rule 144(i)(3).
 
 180 See, e.g., comment letters on the 2007 Proposing Release from Charles Nelson; Tom Russell; and Williams.
 
@@ -1154,27 +1212,51 @@ The amendments to Rule 145 will eliminate the presumptive underwriter provision 
 
 183 17 CFR 240.10b-5. As stated in Rule 10b5-1(a), the “manipulative and deceptive devices” prohibited by Section 10(b) and Rule 10b-5 include, among other things, the purchase or sale of a security of any issuer, on the basis of material nonpublic information about that security or issuer, in breach of a duty of trust or confidence that is owed directly, indirectly, or derivatively, to the issuer of that security or the shareholders of that issuer, or to any other person who is the source of the material nonpublic information.
 
+184 See the Division of Corporation Finance’s Manual of Publicly Available Telephone Interpretations, Fourth Supplement (May 30, 2001), at Rule 10b5-1; Form 144, Interpretation No. 2.
+
 185 See amendments to Form 144.
+
+186 17 CFR 230.145.
 
 187 See comment letters on the 1997 Proposing Release from ABA; ASCS; AT&T; BG&E; Brobeck, Phleger & Harrison, LLP (“Brobeck”); Corporate Counsel; Intel; NY Bar; NY City Bar; SIA; Smith Barney; Sullivan; and Testa Hurwitz.
 
 188 The terms “shell company” and “business combination related shell company” are defined in Securities Act Rule 405. See also Release No. 33-8587 (Jul. 15, 2005) [70 FR 42233].
 
+189 See comment letters on the 2007 Proposing Release from ABA; Cleary Gottlieb; Fried Frank; Financial Associations; and SCSGP. 
+
 190 15 U.S.C. 77c(a)(10).
 
-192 With respect to a transaction that is exempt from registration pursuant to Section 3(a)(10) of the Securities Act that falls within Rule 145(a), if any party to the transaction is a shell company, then any party to the transaction, other than the issuer, and its affiliates will be permitted to resell their
+191 See comment letters on the 2007 Proposing Release from Barron and Fried Frank.
+
+192 With respect to a transaction that is exempt from registration pursuant to Section 3(a)(10) of the Securities Act that falls within Rule 145(a), if any party to the transaction is a shell company, then any party to the transaction, other than the issuer, and its affiliates will be permitted to resell their securities in accordance with the restrictions of Rule 145(d). Also, the staff intends to issue a revised Staff Legal Bulletin No. 3 concurrently with the effective date of the amendments that we are adopting that will address the treatment of parties to a transaction and their affiliates that have acquired securities in a transaction exempt from registration pursuant to Section 3(a)(10) of the Securities Act.
+
+193 We are also adding the definition of “affiliate” to paragraph (e) and transferring the definition of “party” from paragraph (c) to paragraph (e).
 
 194 The requirement in the newly added Rule 144(i)(2) that Form 10 information be filed reflecting a company’s status as no longer a shell company is fulfilled with respect to a Rule 145(a) transaction through the filing of the registration statement.
+
+195 See new Note to Rule 145(c) and (d).
+
+196 See amendments to Rule 145(d) relating to “securities acquired in a transaction specified in paragraph (a) that was registered under the Act.”
+
+197 17 CFR 230.901 through 230.905 and Preliminary Notes.
 
 198 See 17 CFR 230.903.
 
 199 See Release No. 33-7505.
 
+200 See comment letters on the 2007 Proposing Release from ABA; Cleary Gottlieb; Financial Associations; Fried Frank; Herbert Smith CIS LLP (“Herbert Smith”); London Forum; Parsons; and Sullivan.
+
 201 See, e.g., comment letters on the 2007 Proposing Release from Cleary Gottlieb; Financial Associations; and London Forum.
+
+202 See Release No. 33-7505.
+
+203 See amendments to Rule 903(b)(3) of the Securities Act. 
 
 204 17 CFR 230.190 and Release No. 33-8518.
 
 205 17 CFR 230.190(a)(3).
+
+206 Although the asset-backed securities we are discussing may be privately placed, the issuing trust will have also registered the sale of other asset-backed securities and may have a reporting obligation under Section 15(d) of the Exchange Act for some time.
 
 207 This change would not in any way impact the disclosure requirements for resecuritizations.
 
@@ -1186,7 +1268,17 @@ The amendments to Rule 145 will eliminate the presumptive underwriter provision 
 
 211 17 CFR 230.701(g)(3).
 
+212 See comment letter on the 2007 Proposing Release from ABA.
+
+213 See amendments to Rule 701(g)(3) of the Securities Act.
+
 214 44 U.S.C. 3501 et seq.
+
+215 See 44 U.S.C. 3507 and 5 CFR 1320.11.
+
+216 We proposed to amend Form 144 to include information regarding security holders’ hedging activities and to allow security holders to represent that they do not know of material adverse information about the company as of the date they adopt a plan under Exchange Act Rule 10b5-1. We are adopting the amendment to Form 144 regarding the representation that the security holder does not know of material adverse information about the company as of the date that he or she adopts a plan under Exchange Act Rule 10b5-1.
+
+217 See comment letter on the 2007 Proposing Release from Washington Service on PRA estimates (“WS 1”). 
 
 218 This reflects current OMB estimates.
 
@@ -1194,7 +1286,13 @@ The amendments to Rule 145 will eliminate the presumptive underwriter provision 
 
 220 This estimate is based on information contained in notices on Form 144 filed in 2005.
 
-222 There is also evidence that the non-trading period is associated with the premium that investors charge for lack of liquidity. See, for example, Silber, W.L., Discounts on restricted stock: The impact of illiquidity on stock prices, Financial Analysts Journal, 47, 60-64 (1991). Several studies have attempted to separate the discount associated with the non-transferability of the shares from other factors that affect the discount. See, e.g., Wruck, K. H., Equity Ownership Concentration and Firm Value, Evidence from Private Equity Financings, Journal of Financial Economics, 23, 3- 28 (1989); Hertzel, M., and R. L. Smith, Market Discounts and Shareholder Gains for Placing Equity Privately, Journal of Finance, 459-485 (1993); Bajaj, M., Denis, D., Ferris, S.P., and A. Sarin, Firm Value and Marketability Discounts, Journal of Corporate Law, 27, 89-115 (2001); Finnerty, J.D., The Impact of Transfer Restrictions on Stock Prices (Fordham U. Working Paper, 2002). The average discounts attributed to lack of transferability across these studies is estimated between 7% and 20%. Among the other factors that could affect the discount are the amount of resources that private investors need to expend to assess the quality of the issuing firm or to
+221 These filings were obtained through Thomson Financial’s Wharton Research Database which includes Forms 144 filed from 1996 through 2007. 
+
+222 There is also evidence that the non-trading period is associated with the premium that investors charge for lack of liquidity. See, for example, Silber, W.L., Discounts on restricted stock: The impact of illiquidity on stock prices, Financial Analysts Journal, 47, 60-64 (1991). Several studies have attempted to separate the discount associated with the non-transferability of the shares from other factors that affect the discount. See, e.g., Wruck, K. H., Equity Ownership Concentration and Firm Value, Evidence from Private Equity Financings, Journal of Financial Economics, 23, 3- 28 (1989); Hertzel, M., and R. L. Smith, Market Discounts and Shareholder Gains for Placing Equity Privately, Journal of Finance, 459-485 (1993); Bajaj, M., Denis, D., Ferris, S.P., and A. Sarin, Firm Value and Marketability Discounts, Journal of Corporate Law, 27, 89-115 (2001); Finnerty, J.D., The Impact of Transfer Restrictions on Stock Prices (Fordham U. Working Paper, 2002). The average discounts attributed to lack of transferability across these studies is estimated between 7% and 20%. Among the other factors that could affect the discount are the amount of resources that private investors need to expend to assess the quality of the issuing firm or to monitor the firm, the ability of the investors to diversify the risk associated with the investment, whether the investors are cash constrained, and the financial situation of the firm. 
+
+223 We are not aware of any empirical work that examines the effect of shortening the holding period in Rule 144 on the discount. Longstaff calculates an upper bound for percentage discounts for lack of marketability. According to his model, drops in a restriction from two years to one year and from one year to 180 days are each associated with a 30% drop in the discount. Longstaff,F. A., How Much Can Marketability Affect Security Values?, Journal of Finance, 50m 1767-1774 (1995)
+
+224 See, e.g., comment letters on the 2007 Proposing Release from Financial Associations; Richardson Patel; and Roth.
 
 225 See, e.g., comment letters on the 2007 Proposing Release from Pink Sheets and Sichenzia.
 
@@ -1209,6 +1307,8 @@ The amendments to Rule 145 will eliminate the presumptive underwriter provision 
 230 We are, however, modifying the staff interpretation relating to the treatment of reporting and non- reporting shell companies to allow resales of securities of former shell companies one year after Form 10 information is filed reflecting the issuer of the securities has ceased to be a shell company.
 
 231 See comment letter on the 2007 Proposing Release from Financial Associations.
+
+232 See comment letter on the 2007 Proposing Release from ABA.
 
 233 See comment letter on the 2007 Proposing Release from Brill 1.
 
@@ -1231,6 +1331,8 @@ The amendments to Rule 145 will eliminate the presumptive underwriter provision 
 242 See, e.g., comment letters on the 2007 Proposing Release from Fried Frank and SCSGP. Some commenters even supported eliminating the Form 144 filing requirement for both affiliates and non-affiliates. See comment letters from ABA; BAIS; SCSGP; and Sullivan.
 
 243 5 U.S.C. 603.
+
+244 See Release No. 33-8813.
 
 245 See, e.g., comment letters on the 2007 Proposing Release from Pink Sheets; Roth; and Sichenzia.
 

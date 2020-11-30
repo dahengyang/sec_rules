@@ -1,147 +1,3 @@
-https://www.sec.gov/rules/final/2020/34-89372.pdf
-
-I.0.0.0 See also note
-
-	I.A.0.0 Provide notice on its electronic client platform that the registrant has filed, or has informed the proxy voting advice business that it intends to file, additional soliciting materials (and include an active hyperlink to those materials on EDGAR when available); or
-
-	I.B.0.0 Provide notice through email or other electronic means that the registrant has filed, or has informed the proxy voting advice business that it intends to file, additional soliciting materials (and include an active hyperlink to those materials on EDGAR when available).
-
-			I.B..c Exclusions from Rule 14a-2(b)(9)(ii) [Rules 14a-2(b)(9)(v) and (vi)]
-
-	I.A.0.0 To approve any transaction specified in Rule 145(a) of the Securities Act; or
-
-	I.B.0.0 By any person or group of persons for the purpose of opposing a solicitation subject to Regulation 14A by any other person or group of persons.
-
-			I.B..d Response to Constitutional Objections
-
-	I.D.0.0 Amendments to Rule 14a-9
-
-		I.D.1.0 Proposed Amendments
-
-		I.D.2.0 Comments Received
-
-		I.D.3.0 Final Amendments
-
-	I.E.0.0 Compliance Dates
-
-III.0.0.0 OTHER MATTERS
-
-IV.0.0.0 ECONOMIC ANALYSIS
-
-	IV.A.0.0 Introduction
-
-		IV.A.1.0 Overview of Proxy Voting Advice Businesses’ Role in the Proxy Process
-
-		IV.A.2.0 Commenter Concerns Regarding the Rule’s Economic Justification
-
-	IV.A.0.0 Bertsch, Executive Director, and Jeffrey P. Mahoney, General Counsel, Council of Inst. Investors (Feb. 4, 2020) (“CII V”); C. Icahn; ValueEdge I; CII VIII. See also IAC Recommendation (stating that, rather than citing reliable evidence of material problems with proxy voting advice businesses, the SEC asserts that problems “may” or “could” exist, based on claims from private interests (who are biased in favor of issuers) that problems exist).
-
-	IV.B.0.0 Economic Baseline
-
-		IV.B.1.0 Affected Parties and Current Market Practices
-
-			IV.B.1.a Proxy Voting Advice Businesses
-
-			IV.B.1.b Clients of Proxy Voting Advice Businesses as Well as Underlying Investors
-
-			IV.B.1.c Registrants
-
-		IV.B.2.0 Current Regulatory Framework
-
-	IV.C.0.0 Benefits and Costs
-
-		IV.C.1.0 amendments to the definition of solicitation in Rule 14a-1(l); (2) conditioning availability of the exemptions in Rules 14a-2(b)(1) and (b)(3) on (a) proxy voting advice businesses providing disclosure regarding conflicts of interest and (b) proxy voting advice businesses adopting and publicly disclosing written policies and procedures reasonably designed to ensure that the proxy voting advice is made available to registrants at or prior to the time when such advice is disseminated to the proxy voting advice business’s clients and that the proxy voting advice business provides clients with a mechanism by which they can reasonably be expected to become aware of a registrant’s written statement about the proxy voting advice in a timely manner; and (3) an amendment to the examples in Rule 14a-9 of disclosure that, if omitted from a proxy solicitation and depending upon the particular facts and circumstances, may be misleading.
-
-		IV.C.1.0 Overview of Benefits and Costs and Comments Received
-
-			IV.C.1.a Benefits
-
-			IV.C.1.b Costs
-
-		IV.C.2.0 Codification of the Commission’s Interpretation of “Solicitation” Under Rule 14a-1(l) and Section 14(a)
-
-		IV.C.3.0 Amendments to Rule 14a-2(b)
-
-			IV.C.3.a Conflicts of Interest - New Rule 14a-2(b)(9)(i)
-
-			IV.C.3.b Notice of Proxy Voting Advice and Registrant Response - New Rule 14a-2(b)(9)(ii)
-
-			IV.C.3.a Direct Costs
-
-			IV.C.3.b Indirect Costs
-
-		IV.C.4.0 Amendments to Rule 14a-(9)
-
-			IV.C.4.a Benefits
-
-			IV.C.4.b Costs
-
-		IV.C.5.0 Effect on Smaller Entities
-
-	IV.D.0.0 Effects on Efficiency, Competition, and Capital Formation
-
-		IV.D.1.0 Efficiency
-
-		IV.D.2.0 Competition
-
-		IV.D.3.0 Capital Formation
-
-	IV.E.0.0 Reasonable Alternatives
-
-		IV.E.1.0 Use a more prescriptive approach in the final amendments
-
-		IV.E.2.0 Require proxy voting advice businesses to include full registrant response in the businesses’ voting advice
-
-		IV.E.3.0 Public disclosure of conflicts of interest
-
-		IV.E.4.0 Require additional or alternative mandatory disclosures in proxy voting advice
-
-		IV.E.5.0 Require disabling or suspension of pre-populated and automatic submission of votes
-
-		IV.E.6.0 Exempt smaller proxy voting advice businesses from the additional conditions to the exemptions
-
-		IV.E.7.0 Require a Narrower Scope of Registrant Notice
-
-V.0.0.0 PAPERWORK REDUCTION ACT
-
-	V.A.0.0 Background
-
-	V.B.0.0 Summary of Comment Letters to PRA Estimates
-
-	V.C.0.0 Burden and Cost Estimates for the Amendments
-
-		V.C.1.0 Impact on Affected Parties
-
-			V.C.1.a Proxy Voting Advice Businesses
-
-			V.C.1.b Registrants
-
-		V.C.2.0 Aggregate Increase in Burden
-
-		V.C.3.0 Increase in Annual Responses
-
-		V.C.4.0 Incremental Change in Compliance Burden for Collection of Information
-
-		V.C.5.0 Program Change and Revised Burden Estimates
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Need for, and Objectives of, the Final Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comments
-
-	VI.C.0.0 Small Entities Subject to the Final Amendments
-
-	VI.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register Version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
@@ -168,9 +24,9 @@ SUPPLEMENTARY INFORMATION: We are adopting amendments to 17 CFR 240.14a-1(l) (�
 
 the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq .] (“Exchange Act”). <sup>1</sup>
 
-TABLE OF CONTENTS
+<END HEADER>
 
-I NTRODUCTION
+<h>I. INTRODUCTION</h>
 
 Annual and special meetings of publicly traded corporations, where shareholders are provided the opportunity to vote on various matters, are a key component of corporate governance. The applicable laws are set by the state in which the corporation is incorporated. For various reasons, including the widely dispersed nature of public share ownership, most shareholders do not attend these meetings in person. Rather, most shareholders of publicly traded companies exercise their right to vote on corporate matters through the use of proxies . <sup>2</sup> Congress vested in the Commission the broad authority to oversee the proxy solicitation process when it originally enacted the Securities Exchange Act of 1934 (the “Exchange Act”). <sup>3</sup> As the securities markets have become increasingly more sophisticated and complex, and the intermediation of share ownership and participation of various market participants has grown in kind, <sup>4</sup> the Commission’s interest in ensuring fair, honest, and informed markets, underpinned by a properly functioning proxy system, dictates that we regularly assess whether the system is serving investors as it should . <sup>5</sup>
 
@@ -276,9 +132,9 @@ This framework—complementary and overlapping statutes and rules that are based
 
 enhance the transparency and integrity of the proxy voting process, with the ultimate aim of facilitating informed voting decisions . <sup>60</sup>
 
-D ISCUSSION OF FINAL AMENDMENTS
+<h>II. DISCUSSION OF FINAL AMENDMENTS</h>
 
-C odification of the Commission’s Interpretation of “Solicitation” Under Rule 14a- 1(l) and Section 14(a)
+<h>A. Codification of the Commission’s Interpretation of “Solicitation” Under Rule 14a- 1(l) and Section 14(a)</h>
 
 Exchange Act Section 14(a) <sup>61</sup> makes it unlawful for any person to “solicit” any proxy with
 
@@ -314,7 +170,7 @@ The Commission observed that where these or other significant factors (or a sign
 
 these or other factors) are present, <sup>78</sup> the proxy voting advice businesses’ voting advice generally would constitute a solicitation subject to the Commission’s proxy rules because such advice would be “a communication to security holders under circumstances reasonably calculated to result in the procurement, withholding or revocation of a proxy. ” <sup>79</sup> Furthermore, the Commission explained that such advice generally would be a solicitation even if the proxy voting advice business is providing recommendations based on the client’s own custom policies, and even if the client chooses not to follow the advice. <sup>80</sup> In addition, the fact that proxy voting advice businesses may provide additional services, such as consulting services to investment advisers and issuers and general market commentary, does not diminish their role in the proxy solicitation process.
 
-P roposed Amendments
+<h>1. Proposed Amendments</h>
 
 In the Proposing Release, the Commission proposed to amend 17 CFR 240.14a-1(l)(1)(iii) (“Rule 14a-1(l)(1)(iii)”) to add paragraph (A) to make clear that the terms “solicit” and “solicitation” include any proxy voting advice that makes a recommendation to a shareholder as to its vote, consent, or authorization on a specific matter for which shareholder approval is solicited, and that is furnished by a person who markets its expertise as a provider of such advice, separately from other forms of investment advice, and sells such advice for a fee. <sup>81</sup> The proposed amendment would codify the long-held Commission view that the furnishing of proxy voting advice generally constitutes a solicitation governed by the federal proxy rules.
 
@@ -324,7 +180,7 @@ set of guidelines in formulating their voting recommendations on a particular ma
 
 Lastly, the Commission proposed to amend Rule 14a-1(l)(2), which currently lists activities and communications that do not constitute a solicitation, to add paragraph (v) to make clear that the terms “solicit” and “solicitation” exclude any proxy voting advice furnished by a person who furnishes such advice only in response to an unprompted request. <sup>83</sup> Doing so would codify the Commission’s historical view that such a communication should not be regarded as a solicitation subject to the proxy rules . <sup>84</sup>
 
-C omments Received
+<h>2. Comments Received</h>
 
 Commenters expressed a mix of views on the Commission’s proposed amendments to the definitions of “solicit” and “solicitation” in 17 CFR 240.14a-1(l)(1) (“Rule 14a-1(l)(1)”). A number of commenters supported codifying the Commission’s interpretation of those definitions as proposed. <sup>85</sup> Some of these commenters described the proposed amendments as consistent with the Commission’s existing interpretation of the term “solicitation” <sup>86</sup> and noted that the advice provided by proxy voting advice businesses is the kind of information that Congress intended Section 14(a) to address. <sup>87</sup> Two commenters agreed with the Commission’s position that the definition of “solicitation” should not be limited to a request to obtain proxy authority or to obtain shareholder support for a preferred outcome. <sup>88</sup> Those two commenters also agreed with the Commission’s view that each voting recommendation formulated pursuant to a benchmark policy or a specialty policy should be considered a separate “solicitation.” <sup>89</sup> Other commenters added that the analysis of what constitutes a “solicitation” should not turn on whether the proxy voting advice business’s voting recommendations are based on an investor’s custom policy or the proxy voting advice business’s benchmark policy. <sup>90</sup> Finally, a few commenters that supported the proposed amendments recommended that the Commission include in the definition of
 
@@ -356,7 +212,7 @@ Clarify that the reference to “other forms of investment advice” in Proposed
 
 With respect to the proposed amendment to Rule 14a-1(l)(2), some commenters supported the proposal to exclude from the definition of a “solicitation” any proxy voting advice furnished by a person only in response to an unprompted request. <sup>115</sup> Another commenter, however, opposed the proposal, asserting that it would be unworkable because investment advisers and broker- dealers may be hesitant to announce a willingness to provide voting advice out of concern that the Commission would determine they had “invited and encouraged” their clients to ask for advice. <sup>116</sup> This commenter added that the proposed amendment would be counterproductive to investor protection goals because the Commission would be regulating experts with proxy advice-related skills and resources ( i.e. , proxy voting advice businesses), but would not regulate parties with no relevant expertise who engage in the same activities ( i.e. , any person that furnishes proxy voting advice in response to an unprompted request) . <sup>117</sup> Finally, one commenter recommended that the Commission narrow the proposed exclusion to cover only proxy voting advice provided pursuant to an unprompted request “and not for compensation.” <sup>118</sup>
 
-F inal Amendments
+<h>3. Final Amendments</h>
 
 We are adopting the amendments to Rule 14a-1(l)(1)(iii) and 17 CFR 240.14a-1(l)(2) (“Rule 14a-1(l)(2)”) as proposed, with some minor changes to the proposed amendment to Rule 14a-1(l)(1)(iii).
 
@@ -466,9 +322,9 @@ As noted above, one commenter opposed the amendment to Rule 14a-1(l)(2) on the b
 
 new Rule 14a-1(l)(2)(v) and be deemed to be prompting a request for proxy voting advice. <sup>177</sup> We believe, however, that the text of new Rule 14a-1(l)(1)(iii)(A) is sufficiently precise to avoid this concern. Where an investment adviser or broker-dealer is describing the services it provides to its clients or customers, which may include proxy voting advice, we believe that such investment adviser or broker-dealer should not be deemed to be “market[ing] its expertise as a provider of such proxy voting advice, separately from other forms of investment advice, and sell[ing] such proxy voting advice for a fee.” <sup>178</sup> This same commenter also expressed concern that the amendment to Rule 14a-1(l)(2) could be counterproductive from an investor protection standpoint as the proxy rules would apply to experts with proxy advice-related skills and resources but not to individuals with less relevant expertise who engage in the same activities. <sup>179</sup> We disagree. As we noted in the Proposing Release, <sup>180</sup> we believe that those persons providing voting advice in response to unprompted requests likely will be furnishing such advice to a client with whom there is an existing business relationship. As noted above, proxy voting advice provided under these circumstances does not present the same investor protection or regulatory concerns as proxy voting advice businesses engaged in widespread marketing and sale of proxy voting advice to large numbers of investment advisers and institutional investors who are often voting on behalf of other investors. <sup>181</sup>
 
-A mendments to Rule 14a-2(b): Conflicts of Interest
+<h>B. Amendments to Rule 14a-2(b): Conflicts of Interest</h>
 
-P roposed Amendments
+<h>1. Proposed Amendments</h>
 
 Over the years, many observers have noted that some proxy voting advice businesses engage in activities or have relationships that could reasonably be expected to affect the objectivity or reliability of their advice. <sup>182</sup> Examples of circumstances where the interests of a proxy voting advice business may diverge materially from the interests of the clients who utilize their advice include:
 
@@ -504,7 +360,7 @@ In the Proposing Release, the Commission stated that the disclosures provided un
 
 stating that “such relationships or interests may or may not exist,” would be insufficient for purposes of satisfying this condition to the exemptions.
 
-C omments Received
+<h>2. Comments Received</h>
 
 Many commenters agreed with the general principle that providing clients of proxy voting advice businesses with adequate conflicts of interest disclosure helps to ensure transparency and fairness in the voting process and is vital to the clients’ ability to make informed voting
 
@@ -526,7 +382,7 @@ Both those supporting and those opposing the proposed Rule 14a-2(b)(9)(i) recomm
 
 materiality. <sup>209</sup> Other commenters recommended certain substantive changes that would have widened the scope of the proposed amendments beyond conflicts disclosure. <sup>210</sup>
 
-F inal Amendments
+<h>3. Final Amendments</h>
 
 We are adopting amendments to Rule 14a-2(b) to require that persons who provide proxy voting advice in reliance on the exemptions in either Rule 14a-2(b)(1) or (b)(3) must include in their voting advice to clients the conflicts of interest disclosure specified in new Rule 14a- 2(b)(9)(i). The Commission is adopting these amendments substantially as proposed, but with certain modifications as discussed below, to clarify and streamline the rule in response to commenters’ concerns and suggestions.
 
@@ -596,7 +452,7 @@ that its client is able to readily access the information as it reviews and cons
 
 More generally, we believe that increased transparency regarding a proxy voting advice business’s conflicts of interest may prompt a more informed dialogue between such businesses and their clients. For example, as a result of the increased transparency of a proxy voting advice business’s conflicts of interest, clients of the business, including investment advisers, would be in a better position to understand these conflicts and how they may affect the business’s proxy voting advice and other services. If this information improves the ability of the proxy voting advice business’s clients to identify the kinds of information and details that would be valuable to them in assessing the business’s conflicts, this dialogue may also result in a proxy voting advice business enhancing its approach to disclosure of conflicts of interest in response. Such a dynamic regarding conflict disclosure among investors (those who ultimately bear the costs and benefits of voting), clients of proxy voting advice businesses, and proxy voting advice businesses, each of which have different incentives, may increase the benefits of the rule to the shareholder voting process more generally.
 
-A mendments to Rule 14a-2(b): Notice of Proxy Voting Advice and Response
+<h>C. Amendments to Rule 14a-2(b): Notice of Proxy Voting Advice and Response</h>
 
 The ability of investors to make informed decisions, on the basis of disclosure of material
 
@@ -608,7 +464,7 @@ As the Commission has noted, however, a number of commenters, particularly withi
 
 for their own solicitations. As a result, some commenters have expressed concern that registrants lack an adequate opportunity to engage with and respond to influential proxy voting advice before shareholders vote, potentially inhibiting the accuracy, transparency, and completeness of the information available to those making voting determinations. <sup>244</sup> They also highlight what they characterize as the limited ability to address any deficiencies in proxy voting advice such as factual errors, incompleteness, or methodological weaknesses that could materially affect the reliability of proxy voting advice businesses’ voting recommendations and adversely impact voting outcomes. <sup>245</sup>
 
-P roposed Amendments
+<h>1. Proposed Amendments</h>
 
 With the foregoing background in mind, the Commission proposed review and response mechanisms for proxy voting advice, as discussed below, that would apply any time proxy voting advice businesses provide voting advice to their clients in reliance on either the Rule 14a-2(b)(1) or (b)(3) exemptions from the proxy rules. By conditioning the availability of these proposed exemptions in this way, the Commission intended to (1) facilitate dialogue between proxy voting advice businesses and registrants (and certain other soliciting persons, such as dissident shareholders engaged in a proxy contest) before the dissemination of proxy voting advice to clients of the proxy voting advice business, when most shareholder votes have yet to be cast, and
 
@@ -634,7 +490,7 @@ Id.
 
 2(b)(9)(iii) (“Rule 14a-2(b)(9)(iii)”) was intended to enable those who rely on proxy voting advice, whether for their own interests or on behalf of shareholders who have entrusted them with proxy voting authority, to have information available to them to effectively assess the recommendations provided by proxy voting advice businesses and thereby make more informed voting decisions.
 
-C omments Received
+<h>2. Comments Received</h>
 
 C omments on Proposed Review of Proxy Voting Advice by Registrants and Other Soliciting Persons
 
@@ -708,7 +564,7 @@ statement in its entirety. <sup>315</sup> Additional suggestions included settin
 
 limitations on the content of a registrant’s response, <sup>316</sup> requiring that registrants provide their hyperlink to the proxy voting advice business before the end of the review period (not just request that it be included) to ensure that the hyperlink is provided in a timely manner, <sup>317</sup> requiring that the hyperlink be active when provided, <sup>318</sup> and permitting proxy voting advice businesses to require registrants to indemnify them for any loss or claim arising out of the hyperlinked content, its transmission, or use. <sup>319</sup>
 
-F inal Amendments
+<h>3. Final Amendments</h>
 
 Ov erview
 
@@ -854,13 +710,11 @@ materials is sufficient to facilitate informed shareholder voting decisions. <su
 
 As with Rule 14a-2(b)(9)(ii)(A), we recognize that proxy voting advice businesses may benefit from greater legal certainty about how to satisfy this general principle. We are therefore providing a non-exclusive safe harbor in new 17 CFR 240.14a-2(b)(9)(iv) (“Rule 14a-2(b)(9)(iv)”) pursuant to which proxy voting advice businesses will be deemed to satisfy the principle-based requirement of paragraph (ii)(B). To satisfy this safe harbor, a proxy voting advice business must have written policies and procedures reasonably designed to inform clients who have received proxy voting advice about a particular registrant in the event that such registrant notifies the proxy voting advice business that the registrant either intends to file or has filed additional soliciting
 
-<END HEADER>
+I. See also notematerials with the Commission setting forth its views regarding such advice. <sup>381</sup> The safe harbor sets forth two methods by which the proxy voting advice business may provide such notice to its clients. It may either:
 
-<h>I. See also notematerials with the Commission setting forth its views regarding such advice. <sup>381</sup> The safe harbor sets forth two methods by which the proxy voting advice business may provide such notice to its clients. It may either:</h>
+A. Provide notice on its electronic client platform that the registrant has filed, or has informed the proxy voting advice business that it intends to file, additional soliciting materials (and include an active hyperlink to those materials on EDGAR when available); or
 
-<h>A. Provide notice on its electronic client platform that the registrant has filed, or has informed the proxy voting advice business that it intends to file, additional soliciting materials (and include an active hyperlink to those materials on EDGAR when available); or</h>
-
-<h>B. Provide notice through email or other electronic means that the registrant has filed, or has informed the proxy voting advice business that it intends to file, additional soliciting materials (and include an active hyperlink to those materials on EDGAR when available).</h>
+B. Provide notice through email or other electronic means that the registrant has filed, or has informed the proxy voting advice business that it intends to file, additional soliciting materials (and include an active hyperlink to those materials on EDGAR when available).
 
 The safe harbor in Rule 14a-2(b)(9)(iv) establishes a convenient mechanism by which the clients of a proxy voting advice business can stay informed of, and timely consider, additional information with respect to the proxy voting advice that the registrant believes is material to the shareholders’ voting determination. The safe harbor provides a direct and simple means of alerting clients to the availability of the views of the registrant as they consider the voting advice.
 
@@ -888,7 +742,7 @@ The reasonableness, based on facts and circumstances, of any fees charged by a p
 
 We reiterate that these factors are not exclusive and no single factor or combination of factors will control the determination of whether a proxy voting advice business has complied with the principles-based requirements.
 
-<h>c. Exclusions from Rule 14a-2(b)(9)(ii) [Rules 14a-2(b)(9)(v) and (vi)]</h>
+c. Exclusions from Rule 14a-2(b)(9)(ii) [Rules 14a-2(b)(9)(v) and (vi)]
 
 Notwithstanding the benefits that we expect will accrue to clients of proxy voting advice businesses, as well as the proxy voting system as a whole, we recognize that the requirements of Rule 14a-2(b)(9)(ii) may not be appropriate in all contexts. As such, pursuant to new Rules 14a- 2(b)(9)(v) and (vi), respectively, proxy voting advice businesses need not comply with Rule 14a- 2(b)(9)(ii) in order to rely on either the Rule 14a-2(b)(1) or (b)(3) exemption (1) to the extent that their proxy voting advice is based on a custom policy <sup>388</sup> or (2) if they provide proxy voting advice as to non-exempt solicitations regarding certain mergers and acquisitions or contested matters. <sup>389</sup>
 
@@ -906,9 +760,9 @@ Solicitations involving merger and acquisition (“M&A”) transactions or conte
 
 To further address concerns raised by commenters, we are also adopting new 17 CFR 240.14a-2(b)(9)(vi) (“Rule 14a-2(b)(9)(vi)”), which excludes from the requirements of Rule 14a- 2(b)(9)(ii) any portion of the proxy voting advice that makes a recommendation, as well as any analysis and research underlying such recommendation that is furnished along therewith, as to a solicitation subject to Rule 14a-3(a) <sup>401</sup> :
 
-<h>A. To approve any transaction specified in Rule 145(a) of the Securities Act; or(M&A), and how the SEC staff thought about such a risk in proposing the five-day review and ‘final notice’ periods.”); Elliott I (“The risks of insider trading and leaks involving proxy voting advice are also higher when a shareholder vote involves a material event. The Proposal would put the draft proxy voting advice—potentially market-moving information—in the hands of issuers before it is provided to the investors who will act on it. This selective disclosure would necessarily increase the risk that the information will be misused or leaked, whether accidentally or deliberately.”); ISS (noting that it currently “safeguard[s] [material, non-public information] by not pre-releasing potentially market-moving draft reports and vote recommendations” and allowing “selected issuers a limited review right of draft reports only for annual meetings, not special meetings” and asserting that the proposal “rais[es] significant concerns about confidentiality” and “selective disclosure of material non-public information”); Glass Lewis II (“[W]e note that commentators have raised significant questions about how the advance knowledge gained in the review processes could be misused in contested situations that should be addressed and resolved before adopting any rule mandating review in this context.”). As they likely are already aware (based on the concernsexpressed in the foregoing comment letters), we remind proxy voting advice businesses that they have a responsibility to safeguard any material, non-public information in their possession. Although that responsibility is heightened in the context of shareholder meetings regarding M&A transactions or contested matters, when such information is particularly sensitive and potentially market-moving, we expect proxy voting advice businesses to discharge that responsibility in all situations.</h>
+A. To approve any transaction specified in Rule 145(a) of the Securities Act; or(M&A), and how the SEC staff thought about such a risk in proposing the five-day review and ‘final notice’ periods.”); Elliott I (“The risks of insider trading and leaks involving proxy voting advice are also higher when a shareholder vote involves a material event. The Proposal would put the draft proxy voting advice—potentially market-moving information—in the hands of issuers before it is provided to the investors who will act on it. This selective disclosure would necessarily increase the risk that the information will be misused or leaked, whether accidentally or deliberately.”); ISS (noting that it currently “safeguard[s] [material, non-public information] by not pre-releasing potentially market-moving draft reports and vote recommendations” and allowing “selected issuers a limited review right of draft reports only for annual meetings, not special meetings” and asserting that the proposal “rais[es] significant concerns about confidentiality” and “selective disclosure of material non-public information”); Glass Lewis II (“[W]e note that commentators have raised significant questions about how the advance knowledge gained in the review processes could be misused in contested situations that should be addressed and resolved before adopting any rule mandating review in this context.”). As they likely are already aware (based on the concernsexpressed in the foregoing comment letters), we remind proxy voting advice businesses that they have a responsibility to safeguard any material, non-public information in their possession. Although that responsibility is heightened in the context of shareholder meetings regarding M&A transactions or contested matters, when such information is particularly sensitive and potentially market-moving, we expect proxy voting advice businesses to discharge that responsibility in all situations.
 
-<h>B. By any person or group of persons for the purpose of opposing a solicitation subject to Regulation 14A by any other person or group of persons.</h>
+B. By any person or group of persons for the purpose of opposing a solicitation subject to Regulation 14A by any other person or group of persons.
 
 As a result of new Rule 14a-2(b)(9)(vi), proxy voting advice businesses would be permitted (but not required) to adopt written policies and procedures pursuant to which the businesses would not make available to registrants any portion of the proxy voting advice relating to M&A transactions and contested matters at or prior to the time such advice is disseminated to clients and to exclude the registrant’s response to such advice from the requirement of Rule 14a-2(b)(9)(ii)(B). To be eligible to rely on Rule 14a-2(b)(9)(vi), a proxy voting advice business must be providing advice with respect to a solicitation subject to Rule 14a-3(a). This requirement is intended to limit the scope of Rule 14a-2(b)(9)(vi) to proxy voting advice with respect to solicitations that are subject to the Federal proxy rules’ information and filing requirements, including the requirement to file and furnish a definitive proxy statement. By contrast, proxy voting advice businesses providing advice with respect to any exempt solicitations (including solicitations as to M&A transactions or contested matters) would be ineligible to rely on the exception in Rule 14a-2(b)(9)(vi).
 
@@ -918,7 +772,7 @@ We understand that proxy voting advice businesses often provide their proxy voti
 
 As with proxy voting advice that is based on a custom policy, proxy voting advice that is excluded from the scope of Rule 14a-2(b)(9)(ii) pursuant to new paragraph (vi) will constitute a “solicitation” subject to Rule 14a-9. Similarly, persons who provide such advice in reliance on the exemptions in either Rule 14a-2(b)(1) or (b)(3) must comply with the conflicts of interest disclosure requirements set forth in new Rule 14a-2(b)(9)(i).
 
-<h>d. Response to Constitutional Objections</h>
+d. Response to Constitutional Objections
 
 Some commenters raised First Amendment objections to the proposed amendments . <sup>408</sup> Their concerns focused primarily on the proposed registrant review and feedback provisions and the requirement that proxy voting advice businesses include in their advice a hyperlink to the registrant’s response. The final amendments incorporate substantial modifications that address these concerns.
 
@@ -1054,7 +908,7 @@ Other commenters stated, generally, that there is no principal-agent problem or 
 
 One commenter suggested that there is a different source of market failure inherent to the proxy voting process and proxy voting advice businesses stemming from the collective action problem inherent in shareholder voting. <sup>496</sup> According to the commenter, investors do not value(“Ario”); CII IV; Prof. Coates; Kevin Thomas, Chief Executive Officer, Shareholder Association for Research and Education (Jan. 30, 2020) (“SHARE II”); Louise Davidson, Chief Executive Officer, Australian Council of Superannuation Investors (Jan. 31, 2020) (“ACSI”); BMO; Proxy Insight (Jan. 31, 2020) (“Proxy Insight”); Elliott I; Better Markets; New York Comptroller II; AFL-CIO II; Joel Schneider, Chair, Corporate Governance Committee, Dimensional Fund Advisors (Feb. 3, 2020) (“Dimensional”); Ron Baker, Executive Director, Colorado Public Employees’ Retirement Association (Feb. 3, 2020) (“Colorado PERA”); Ashbel C. Williams, Executive Director & CIO, State Board of Administration of Florida (Feb. 3, 2020) (“Florida Board”); David Villa, Executive Director & Chief Investment Officer, et al., State of Wisconsin Investment Board (Feb. 3, 2020) (“SWIB”); CFA Institute I; CIRCA; AllianceBernstein; LA Retirement; Glass Lewis II (noting that no market failure is identified in the release and that other jurisdictions’ regulators, including ESMA, have concluded that there is no market failure in the proxy voting advice business industry); ISS; Michael Passoff, CEO, Proxy Impact (Feb. 3, 2020) (“Proxy Impact”); Kenneth
 
-<h>A. Bertsch, Executive Director, and Jeffrey P. Mahoney, General Counsel, Council of Inst. Investors (Feb. 4, 2020) (“CII V”); C. Icahn; ValueEdge I; CII VIII. See also IAC Recommendation (stating that, rather than citing reliable evidence of material problems with proxy voting advice businesses, the SEC asserts that problems “may” or “could” exist, based on claims from private interests (who are biased in favor of issuers) that problems exist).expending resources to determine their position on a given proxy vote because, on the margin, their vote does not matter and they do not fully internalize all of the benefits associated with any resources they do expend. <sup>497</sup> The commenter further asserts that proxy voting advice businesses, in turn, can therefore only charge modest fees for their services, which leads them to be resource constrained in performing their own research. Thus, according to the commenter, this arrangement leads to voting recommendations that are not adequately informed or precise, and thus imposes negative externalities on shareholders. The commenter argues that, because market forces are unable to improve the quality of voting recommendations and reduce these externalities, there is a need for regulatory action. <sup>498</sup> Another commenter offered a different perspective, arguing instead that proxy voting advice businesses represented a private market solution to shareholders’ collective action problem, rendering regulatory intervention unnecessary. <sup>499</sup> Other commenters posited that the underlying concentration among proxy voting advice businesses and conflicts of interest are the result of past regulatory action that created demand for the services of proxy voting advice businesses. <sup>500</sup></h>
+A. Bertsch, Executive Director, and Jeffrey P. Mahoney, General Counsel, Council of Inst. Investors (Feb. 4, 2020) (“CII V”); C. Icahn; ValueEdge I; CII VIII. See also IAC Recommendation (stating that, rather than citing reliable evidence of material problems with proxy voting advice businesses, the SEC asserts that problems “may” or “could” exist, based on claims from private interests (who are biased in favor of issuers) that problems exist).expending resources to determine their position on a given proxy vote because, on the margin, their vote does not matter and they do not fully internalize all of the benefits associated with any resources they do expend. <sup>497</sup> The commenter further asserts that proxy voting advice businesses, in turn, can therefore only charge modest fees for their services, which leads them to be resource constrained in performing their own research. Thus, according to the commenter, this arrangement leads to voting recommendations that are not adequately informed or precise, and thus imposes negative externalities on shareholders. The commenter argues that, because market forces are unable to improve the quality of voting recommendations and reduce these externalities, there is a need for regulatory action. <sup>498</sup> Another commenter offered a different perspective, arguing instead that proxy voting advice businesses represented a private market solution to shareholders’ collective action problem, rendering regulatory intervention unnecessary. <sup>499</sup> Other commenters posited that the underlying concentration among proxy voting advice businesses and conflicts of interest are the result of past regulatory action that created demand for the services of proxy voting advice businesses. <sup>500</sup>
 
 We believe that the important role proxy voting advice businesses currently play in facilitating clients’ participation in the proxy process, as well as the importance of ensuring that clients have access to more complete information regarding matters to be voted on, and the material conflicts of interest proxy voting advice businesses may have, support the finalvoting advice, but without attributing this lack of incentives to a collective action problem on the part of shareholders.).amendments. As discussed in Section I above, the purpose of the amendments is to help ensure that investors who use proxy voting advice have access to more transparent, accurate, and complete information and benefit from a robust discussion of views—similar to what is possible at a meeting where shareholders are physically attending and participating—when making their voting decisions, while minimizing costs or delays that could adversely affect the timely provision of proxy voting advice. The amendments are expected to reduce the costs incurred by clients of proxy voting advice businesses in monitoring for conflicts of interest or acquiring information relevant to assessing proxy voting advice. In this way, the amendments should improve the overall efficiency associated with this segment of the proxy system. Proxy voting advice businesses often act as the intermediary for their clients’ participation in the proxy system, and the requirements of the rule will facilitate clients’ timely access to, and awareness of, more complete information prior to voting. This has the potential to benefit not just those clients and the immediate shareholders they serve but also investors in our public markets more generally.
 
@@ -1176,9 +1030,7 @@ Finally, we note that—beyond the codification of our interpretation of solicit
 
 <h>C. Benefits and Costs</h>
 
-We discuss the economic effects of the final amendments below. For both the benefits and the costs, we consider each piece of the final amendments in turn. The final amendments include:
-
-<h>1. amendments to the definition of solicitation in Rule 14a-1(l); (2) conditioning availability of the exemptions in Rules 14a-2(b)(1) and (b)(3) on (a) proxy voting advice businesses providing disclosure regarding conflicts of interest and (b) proxy voting advice businesses adopting and publicly disclosing written policies and procedures reasonably designed to ensure that the proxy voting advice is made available to registrants at or prior to the time when such advice is disseminated to the proxy voting advice business’s clients and that the proxy voting advice business provides clients with a mechanism by which they can reasonably be expected to become aware of a registrant’s written statement about the proxy voting advice in a timely manner; and (3) an amendment to the examples in Rule 14a-9 of disclosure that, if omitted from a proxy solicitation and depending upon the particular facts and circumstances, may be misleading.</h>
+We discuss the economic effects of the final amendments below. For both the benefits and the costs, we consider each piece of the final amendments in turn. The final amendments include: (1) amendments to the definition of solicitation in Rule 14a-1(l); (2) conditioning availability of the exemptions in Rules 14a-2(b)(1) and (b)(3) on (a) proxy voting advice businesses providing disclosure regarding conflicts of interest and (b) proxy voting advice businesses adopting and publicly disclosing written policies and procedures reasonably designed to ensure that the proxy voting advice is made available to registrants at or prior to the time when such advice is disseminated to the proxy voting advice business’s clients and that the proxy voting advice business provides clients with a mechanism by which they can reasonably be expected to become aware of a registrant’s written statement about the proxy voting advice in a timely manner; and (3) an amendment to the examples in Rule 14a-9 of disclosure that, if omitted from a proxy solicitation and depending upon the particular facts and circumstances, may be misleading.
 
 <h>1. Overview of Benefits and Costs and Comments Received</h>
 

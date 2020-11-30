@@ -1,315 +1,3 @@
-https://www.sec.gov/rules/final/2020/33-10765.pdf
-
-I.0.0.0 INTRODUCTION
-
-	I.A.0.0 Background
-
-	I.B.0.0 Overview of Final Rule and Rule and Form Amendments
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 New Option to Use a Summary Prospectus for Variable Contracts
-
-		II.A.1.0 Initial Summary Prospectus
-
-			II.A.1.a Overview
-
-			II.A.1.b Contracts That May Be Included in the Initial Summary Prospectus
-
-			II.A.1.c Preparation of the Initial Summary Prospectus
-
-		II.A.1.0 whether premiums may vary in timing and amount (e.g., flexible premiums); (2) whether restrictions may be imposed on premium payments (e.g., by age of insured, or by amount); (3) how premiums may be allocated (this discussion should include a brief overview of the investment options available under the contract, as well as any general (fixed) account options); and (4) a statement that payment of insufficient premiums may result in a lapse of the contract.
-
-		II.A.2.0 Updating Summary Prospectus
-
-			II.A.2.a Overview
-
-			II.A.2.b Contracts That May Be Included in the Updating Summary Prospectus
-
-			II.A.2.c Preparation of the Updating Summary Prospectus
-
-			II.A.2.a Description of Changes to the Contract
-
-		II.A.3.0 Interim Amendments to Contract Statutory Prospectuses
-
-		II.A.4.0 Legal Effect of Use of Summary Prospectus for Variable Contracts
-
-		II.A.1.0 It is proved that prior to or at the same time with such communication a summary prospectus was sent or given to the person to whom the communication was made;
-
-		II.A.2.0 The summary prospectus meets the same binding requirements that we discuss in the immediately preceding paragraph;
-
-		II.A.3.0 The summary prospectus that was sent or given satisfies the requirements for the initial summary prospectus or the updating summary prospectus, as applicable; and
-
-		II.A.4.0 The initial summary prospectus, updating summary prospectus, contract statutory prospectus, and contract SAI are publicly accessible, free of charge, on a website in the manner that the rule specifies.
-
-		II.A.5.0 Online Accessibility of Contract Statutory Prospectus and Certain Other Documents Relating to the Contract
-
-			II.A.5.a Required Online Contract Documents
-
-			II.A.5.b Formatting Requirements for Required Online Contract Documents
-
-			II.A.5.c Linking Within and Between Documents
-
-			II.A.5.d Definitions of Special Terms, and Online Viewing of Special Terms
-
-			II.A.5.e Ability to Retain Documents
-
-			II.A.5.f Safe Harbor for Temporary Noncompliance
-
-		II.A.6.0 Other Requirements for Summary Prospectus and Other Contract Documents
-
-			II.A.6.a Delivery Upon Request
-
-			II.A.6.b Prominence Requirement
-
-			II.A.6.c Hyperlinking of Website Addresses in Electronic Versions of Summary Prospectus
-
-			II.A.6.d Hyperlinking of Cross-References in Electronic Versions of Summary Prospectus
-
-			II.A.6.e Failure to Comply with Other Requirements in Rule
-
-		II.A.7.0 Incorporation by Reference
-
-			II.A.7.a Permissible Incorporation by Reference
-
-			II.A.7.b Effect of Incorporation by Reference
-
-		II.A.8.0 Filing Requirements for the Summary Prospectus
-
-			II.A.8.a Form of Summary Prospectus
-
-			II.A.8.b Definitive Form of Summary Prospectus
-
-			II.A.8.c Investor Protection and Liability Under Section 11 of the Securities Act
-
-		II.A.9.0 Defined Terms in Final Rule
-
-		II.A.3.0 combine other defined terms in the rule (e.g., “summary prospectus”). We received no
-
-	II.B.0.0 Optional Method to Satisfy Portfolio Company Prospectus Delivery Requirements
-
-		II.B.1.0 Current Delivery Practices for Portfolio Company Prospectuses
-
-		II.B.2.0 New Option to Satisfy Prospectus Delivery Requirements
-
-			II.B.2.a Overview
-
-			II.B.2.b Conditions
-
-			II.B.2.c Interim Amendments to Portfolio Company Prospectuses
-
-			II.B.2.d Delivery of Portfolio Company Prospectuses in Connection with Form N-14 Proxy Statement/Prospectuses
-
-	II.C.0.0 Amendments to Registration Forms
-
-		II.C.1.0 General Instructions
-
-		II.C.2.0 Part A (Information Required in a Prospectus)
-
-			II.C.2.a Front and Back Cover Pages (Item 1 of Forms N-3, N-4, and N-6)
-
-			II.C.2.b Key Information (Item 2 of Forms N-3, N-4, and N-6)
-
-			II.C.2.c Overview of the Contract (Item 3 of Forms N-3, N-4, and N-6)
-
-			II.C.2.d Fee Table (Item 4 of Forms N-3, N-4, and N-6)
-
-			II.C.2.b of current Form N-4, by eliminating references to amortization costs, which do not apply to variable annuity contracts that are structured as UITs.
-
-			II.C.2.e Accumulation Unit Value Disclosure (Not included in amended Forms N-3 and N- 4)
-
-			II.C.2.f Principal Risks of Investing in the Contract (Item 5 of Forms N-3, N-4, and N-6)
-
-			II.C.2.g General Description of Registrant, Depositor, and Investment Options/Portfolio Companies (Item 6 of Forms N-3, N-4, and N-6)
-
-			II.C.2.h Charges (Item 8 of Form N-3, Item 7 of Forms N-4 and N-6)
-
-			II.C.2.i General Description of the Contracts (Item 9 of Form N-3, Item 8 of Forms N-4 and N-6)
-
-			II.C.2.j Annuity Period (Item 10 of Form N-3, Item 9 of Form N-4)
-
-			II.C.2.k Standard Death Benefits (Item 10 of Form N-6)
-
-			II.C.2.l Benefits Available Under the Contract (Item 11 of Form N-3, Item 10 of Form N-4), (Other Benefits Available Under the Contract) Item 11 of Form N-6)
-
-			II.C.2.a does not provide sufficient information for investors to fully understand the differences between the benefits and the choices available to investors under each benefit. As proposed, paragraphs (b) and (c) of the new item require the statutory prospectus to include narrative disclosures that provide more detailed information regarding each of the benefits presented in the tabular summary and we believe that this, coupled with the table in paragraph (a), will provide sufficient detail regarding the contract benefits without being overly complicated. As proposed, a registrant is required to include a brief description of each benefit (other than the standard death benefit in the case of variable life insurance registrants) offered under the contract, and a brief description of any limitations, restrictions and risks associated with each benefit.
-
-			II.C.2.m Purchases and Contract Value (Item 12 of Form N-3, Item 11 of Form N-4) and Premiums (Item 9 of Form N-6)
-
-			II.C.2.n Surrenders and Withdrawals (Item 13 of Form N-3, Item 12 of Form N-4, Item 12 of Form N-6)
-
-			II.C.2.o Loans (Item 14 of Form N-3, Item 13 of Form N-4, Item 13 of Form N-6)
-
-			II.C.2.p Lapse and Reinstatement (Item 14 of Form N-6)
-
-			II.C.2.q Taxes (Item 15 of Form N-3, Item 14 of Form N-4, Item 15 of Form N-6)
-
-			II.C.2.b identify the types of qualified plans for which the contract is intended to be used, and (c) describe the effect, if any, of taxation on the determination of cash values or sub-account values.
-
-			II.C.2.r Legal Proceedings (Item 16 of Form N-3, Item 15 of Form N-4, Item 16 of Form N-6)
-
-			II.C.2.s Financial Statements (Item 17 of Form N-3, Item 16 of Form N-4; Item 17 of Form N-6)
-
-			II.C.2.t Appendix: Portfolio Companies/Investment Options Available Under the Contract (Item 18 of Form N-3, Item 17 of Form N-4, and Item 18 of Form N-6)
-
-			II.C.2.u Additional Amendments to Form N-3
-
-			II.C.2.v Management (Item 7 of Form N-3)
-
-			II.C.2.w Additional Information about Investment Options Available Under the Contract (Item 19 of Form N-3)
-
-		II.C.3.0 Part B (Information Required in a Statement of Additional Information)
-
-			II.C.3.a Amendments Conforming Part B Items of Forms N-3 and N-4 to Presentation in Form N-6
-
-			II.C.3.b Non-Principal Risks of Investing in the Contract (Item 20 of Form N-4, Item 21 of Form N-6)
-
-			II.C.3.c Underwriters (Item 28 of Form N-3, Item 23 of Form N-4, Item 25 of Form N-6)
-
-			II.C.3.d Calculation of Performance Data (Item 29 of Form N-3, Item 24 of Form N-4)
-
-			II.C.3.e Adjustment to Disclosure Thresholds (Items 28 and 31 of Form N-3, Items 23 and 26 of Form N-4, Items 25 and 28 of Form N-6)
-
-			II.C.3.f Additional Amendments to Form N-3
-
-			II.C.3.g Additional Amendments to Form N-6
-
-		II.C.4.0 Part C (Other Information)
-
-			II.C.4.a Amendments Conforming Part C Items of Form N-3 and N-4 to Presentation in Form N-6
-
-			II.C.4.b Amendments Requiring Filing of Preliminary Form of Summary Prospectus
-
-			II.C.4.c Principal Underwriters (Item 37 of Form N-3, Item 31 of Form N-4, Item 34 of Form N-6)
-
-			II.C.4.d Adjustment to Disclosure Thresholds (Items 37 and 39 of Form N-3, Items 31 and 33 of Form N-4, Items 34 and 36 of Form N-6)
-
-			II.C.4.e Amendments Eliminating Current Part C Disclosure Requirements
-
-			II.C.4.f Additional Amendments to Form N-6
-
-		II.C.5.0 Guidelines
-
-	II.D.0.0 Inline XBRL
-
-	II.E.0.0 Discontinued Variable Contracts
-
-		II.E.1.0 Background
-
-			II.E.1.a Staff No-Action Letters
-
-			II.E.1.b Liability
-
-			II.E.1.c Approaches to Framework for Discontinued Contracts
-
-		II.E.2.0 Comments Received on Proposal
-
-		II.E.3.0 Commission Position on Existing Contracts Whose Issuers Provide Alternative Disclosures to Investors
-
-			II.E.3.a Commission Position
-
-			II.E.3.b Notice Document
-
-			II.E.3.c Option to Provide Modernized Alternative Disclosures
-
-			II.E.3.d Other Considerations for Alternative Disclosure Contracts
-
-		II.E.4.0 Commission Declines to Adopt Going-Forward Relief
-
-	II.F.0.0 Technical and Conforming Amendments to Other Aspects of the Regulatory Framework for Variable Contracts
-
-	II.G.0.0 Compliance Dates
-
-III.0.0.0 OTHER MATTERS
-
-IV.0.0.0 ECONOMIC ANALYSIS
-
-	IV.A.0.0 Introduction
-
-	IV.B.0.0 Economic Baseline
-
-		IV.B.1.0 Overview of Variable Products Market
-
-		IV.B.2.0 Statutory and Regulatory Disclosure Requirements
-
-	IV.C.0.0 Benefits and Costs of the Rule and Form Amendments
-
-		IV.C.1.0 Optional Summary Prospectus Regime
-
-			IV.C.1.a Benefits and Costs for Investors
-
-			IV.C.1.a Benefits
-
-		IV.C.1.0 Initial Summary Prospectus
-
-		IV.C.2.0 Updating Summary Prospectus
-
-			IV.C.2.b Costs
-
-			IV.C.2.b Benefits and Costs for Insurers
-
-		IV.C.2.0 Changes to Forms N-3, N-4, and N-6
-
-			IV.C.2.a Benefits and Costs for Investors
-
-			IV.C.2.b Benefits and Costs for Insurers
-
-		IV.C.3.0 Inline XBRL
-
-		IV.C.4.0 Treatment of Discontinued Variable Contracts
-
-	IV.D.0.0 Effects on Efficiency, Competition, and Capital Formation
-
-	IV.E.0.0 Reasonable Alternatives
-
-		IV.E.1.0 Mandating Summary Prospectuses
-
-		IV.E.2.0 Summary Prospectuses Delivered with Statutory Prospectuses.
-
-		IV.E.3.0 Contract-Specific Updating Summary Prospectuses
-
-		IV.E.4.0 Do Not Provide Updating Summary Prospectuses
-
-		IV.E.5.0 Inline XBRL
-
-		IV.E.6.0 Alternatives to Form N-3, N-4, and N-6 Amendments
-
-		IV.E.7.0 Requiring All Variable Contracts (Including Eligible Contracts) to Prepare Updated Registration Statements and Deliver Statutory or Summary Prospectuses
-
-		IV.E.8.0 Alternative Approaches to Discontinued Contracts
-
-			IV.E.8.a Approach 1
-
-			IV.E.8.b Approach 2
-
-V.0.0.0 PAPERWORK REDUCTION ACT
-
-	V.A.0.0 Form N-3
-
-		V.A.9.0 hours
-
-		V.A.10.0 hours	×
-
-	V.B.0.0 Form N-4
-
-		V.B.1.0 hours per filing). Our revised estimates also reflect updated data for the number of
-
-	V.C.0.0 Form N-6
-
-		V.C.1.0 the burden of preparing and filing the initial registration statement; and (2) the burden of
-
-	V.D.0.0 Investment Company Interactive Data
-
-	V.E.0.0 Rule 498A
-
-VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 200, 230, 232, 239, 240, 270, and 274
@@ -728,7 +416,7 @@ This discussion requires a brief overview of the investment options available un
 
 Premiums (for Variable Life Insurance Contracts) . For the same reasons discussed in the Proposing Release, instead of requiring a description of the phases of the contract as withvariable annuities, Form N-6 requires the “Overview” section to briefly describe the payment of premiums under the variable life insurance contract. This description of premiums must include:
 
-<h>1. whether premiums may vary in timing and amount (e.g., flexible premiums); (2) whether restrictions may be imposed on premium payments (e.g., by age of insured, or by amount); (3) how premiums may be allocated (this discussion should include a brief overview of the investment options available under the contract, as well as any general (fixed) account options); and (4) a statement that payment of insufficient premiums may result in a lapse of the contract.</h>
+1. whether premiums may vary in timing and amount (e.g., flexible premiums); (2) whether restrictions may be imposed on premium payments (e.g., by age of insured, or by amount); (3) how premiums may be allocated (this discussion should include a brief overview of the investment options available under the contract, as well as any general (fixed) account options); and (4) a statement that payment of insufficient premiums may result in a lapse of the contract.
 
 Unlike variable annuities, variable life insurance generally requires the investor to make continuing premium payments in order to avoid a lapse of the contract. We therefore believe the “Overview” section should prominently explain the role of premium payments in the contract, and highlight for investors a key risk that non-payment (or insufficient payment) of premiums could result in contract lapse.
 
@@ -1042,13 +730,13 @@ Failure to comply with any of these requirements will prevent a person from rely
 
 New rule 498A also provides that a communication relating to an offering registered on Forms N-3, N-4, or N-6 that a person sends or gives after the effective date of a variable contract’s registration statement (other than a prospectus that Section 10 of the Securities Act permits or requires) will not be deemed a prospectus under Section 2(a)(10) of the Securities Act <sup>400</sup> if:
 
-<h>1. It is proved that prior to or at the same time with such communication a summary prospectus was sent or given to the person to whom the communication was made;</h>
+1. It is proved that prior to or at the same time with such communication a summary prospectus was sent or given to the person to whom the communication was made;
 
-<h>2. The summary prospectus meets the same binding requirements that we discuss in the immediately preceding paragraph;</h>
+2. The summary prospectus meets the same binding requirements that we discuss in the immediately preceding paragraph;
 
-<h>3. The summary prospectus that was sent or given satisfies the requirements for the initial summary prospectus or the updating summary prospectus, as applicable; and</h>
+3. The summary prospectus that was sent or given satisfies the requirements for the initial summary prospectus or the updating summary prospectus, as applicable; and
 
-<h>4. The initial summary prospectus, updating summary prospectus, contract statutory prospectus, and contract SAI are publicly accessible, free of charge, on a website in the manner that the rule specifies.</h>
+4. The initial summary prospectus, updating summary prospectus, contract statutory prospectus, and contract SAI are publicly accessible, free of charge, on a website in the manner that the rule specifies.
 
 This provision of the final rule, which is modeled on a corresponding provision of rule 498, <sup>402</sup> extends similar treatment to communications accompanied or preceded by a summary prospectus if all the provision’s conditions are met. These communications remain subject to the general antifraud provisions of the federal securities laws. <sup>403</sup>
 
@@ -1236,7 +924,7 @@ For example, if a particular fee has changed from x% to y%, while the disclosure
 
 We are adopting, substantially as proposed, a section of definitions for certain terms used throughout new rule 498A. <sup>531</sup> These definitions generally: (1) identify specific prospectuses described in the proposed rule ( e.g. , “initial summary prospectus”); (2) mirror the existing definitions used in Forms N-3, N-4, and N-6 ( e.g. , “variable annuity contract” as used in Forms N-3 and N-4) or other rules ( e.g. , “statement of additional information” as used in rule 498); or
 
-<h>3. combine other defined terms in the rule (e.g., “summary prospectus”). We received nocomments regarding these terms.</h>
+3. combine other defined terms in the rule (e.g., “summary prospectus”). We received nocomments regarding these terms.
 
 In recognition that today a variable contract may offer classes with the same currently available features and options but different pricing structures, the Commission proposed to define “class” to mean a class of a contract that varies principally with respect todistribution-related fees and expenses. <sup>533</sup> While we received comments suggesting we broadenthe definition of “class,” <sup>534</sup> we are adopting the definition as proposed, which we believe has anappropriate scope. <sup>535</sup> We believe that investors value the ability to understand which fees apply to the products that they purchase, and defining “class” in relation to the fees charged ensures that investors will receive a level of granularity to the fees disclosed such that they should be better able to make an informed investment decision. <sup>536</sup>
 
@@ -1900,7 +1588,7 @@ Another commenter suggested that the Benefits Table should not include actual fe
 
 Several commenters stated that the tabular summary contemplated by proposed paragraph
 
-<h>a. does not provide sufficient information for investors to fully understand the differences between the benefits and the choices available to investors under each benefit. As proposed, paragraphs (b) and (c) of the new item require the statutory prospectus to include narrative disclosures that provide more detailed information regarding each of the benefits presented in the tabular summary and we believe that this, coupled with the table in paragraph (a), will provide sufficient detail regarding the contract benefits without being overly complicated. As proposed, a registrant is required to include a brief description of each benefit (other than the standard death benefit in the case of variable life insurance registrants) offered under the contract, and a brief description of any limitations, restrictions and risks associated with each benefit.</h>
+a. does not provide sufficient information for investors to fully understand the differences between the benefits and the choices available to investors under each benefit. As proposed, paragraphs (b) and (c) of the new item require the statutory prospectus to include narrative disclosures that provide more detailed information regarding each of the benefits presented in the tabular summary and we believe that this, coupled with the table in paragraph (a), will provide sufficient detail regarding the contract benefits without being overly complicated. As proposed, a registrant is required to include a brief description of each benefit (other than the standard death benefit in the case of variable life insurance registrants) offered under the contract, and a brief description of any limitations, restrictions and risks associated with each benefit.
 
 See Item 11(b) of amended Form N-3; Item 10(b) of amended Form N-4; Item 11(b) of amended Form N-6.
 
@@ -1954,7 +1642,7 @@ As discussed above, and in response to issues raised by commenters, we are conso
 
 As proposed, we are amending Item 13 of current Form N-3 and Item 12 of current Form N-4 (which we are re-designating as Items 15 and 14, respectively) to reflect the more up-to-date presentation and disclosure requirements of the parallel provisions of Form N-6. <sup>771</sup> As amended, this item continues to require registrants to (a) describe the material tax consequences to the investor and beneficiary of buying, holding, exchanging, or exercising rights under the contract,
 
-<h>b. identify the types of qualified plans for which the contract is intended to be used, and (c) describe the effect, if any, of taxation on the determination of cash values or sub-account values.</h>
+b. identify the types of qualified plans for which the contract is intended to be used, and (c) describe the effect, if any, of taxation on the determination of cash values or sub-account values.
 
 However, the amendments specifically limit required disclosures to “material” tax consequences. While the instructions to subparagraph (a) of Item 13 of current Form N-3 and Item 12 of current Form N-4 provide that the “disclosure need not include detailed description of applicable law,” we are eliminating this instruction in light of the amended language limiting disclosures to “material” consequences.
 
@@ -3318,13 +3006,13 @@ PROPOSED ESTIMATES FOR INITIAL REGISTRATION STATEMENTS
 
 Proposed form amendments per filing1.7 hours ×$336(blended rate for compliance attorney and senior programmer)$571	--
 
-Number of initial registration statements	× 35	× <sup>35</sup>
+Number of initial registration statements	× 35	× 35
 
-Total additional burdenfor all initial registration statements<sup>60</sup> hours	$19,985	--
+Total additional burdenfor all initial registration statements 60 hours	$19,985	--
 
 PROPOSED ESTIMATES FOR POST-EFFECTIVE AMENDMENTS
 
-Proposed form amendments per filing<sup>10</sup> hours ×$336(blended rate for compliance attorney and senior programmer)$3,360	--
+Proposed form amendments per filing 10 hours ×$336(blended rate for compliance attorney and senior programmer)$3,360	--
 
 Number of post-effective amendments	× 1,326	× 1,326
 
@@ -3336,13 +3024,13 @@ FINAL ESTIMATES FOR INITIAL REGISTRATION STATEMENTS
 
 Final form amendments per filing1.7 hours ×$269(blended rate for compliance attorney and intermediate accountant)$457	--
 
-Number of initial registration statements	× 30	× <sup>30</sup>
+Number of initial registration statements	× 30	× 30
 
-Total additional burden for all initial registration statements<sup>51</sup> hours	$13,710
+Total additional burden for all initial registration statements 51 hours	$13,710
 
 FINAL ESTIMATES FOR POST-EFFECTIVE AMENDMENTS
 
-Final form amendments per filing<sup>10</sup> hours ×$269(blended rate for compliance attorney and intermediate accountant)$2,690	--
+Final form amendments per filing 10 hours ×$269(blended rate for compliance attorney and intermediate accountant)$2,690	--
 
 Number of post-effective amendments	× 1,336	× 1,336
 
@@ -3368,9 +3056,7 @@ Changes to Burden Estimates Resulting From Final Amendments
 
 With one exception, we generally believe the modifications to the proposed amendments in the aggregate do not result in changes to our proposed estimates of the effect of the amendments on the current burdens. We believe, however, that registrants will experience a reduction in internal hourly burdens due to the elimination of the requirement to provide AUV
 
-We note that the commenter’s estimates for external costs include typesetting and printing and mailing, while our estimates for our registration forms do not because the forms do not impose a delivery requirement. The obligation to deliver a prospectus is imposed by Section 5(b)(2) of the Securities Act. See United States v. Wunder , 919 F.2d 34, 38 (6 th Cir. 1990) (“The Paperwork Reduction Act therefore, does not apply to the statutory requirement, but only to the forms themselves.”).tables and are reducing the estimated hourly burden to prepare and file a post-effective amendment by 30 hours (reducing the adjusted estimated hourly burden from 227.25 hours to
-
-<h>1. hours per filing). Our revised estimates also reflect updated data for the number of</h>
+We note that the commenter’s estimates for external costs include typesetting and printing and mailing, while our estimates for our registration forms do not because the forms do not impose a delivery requirement. The obligation to deliver a prospectus is imposed by Section 5(b)(2) of the Securities Act. See United States v. Wunder , 919 F.2d 34, 38 (6 th Cir. 1990) (“The Paperwork Reduction Act therefore, does not apply to the statutory requirement, but only to the forms themselves.”).tables and are reducing the estimated hourly burden to prepare and file a post-effective amendment by 30 hours (reducing the adjusted estimated hourly burden from 227.25 hours to 1 hours per filing). Our revised estimates also reflect updated data for the number of
 
 Form N-4 initial registration statements and post-effective amendments filed annually, and revised internal wage rates, <sup>1181</sup> as set forth in the table above.
 

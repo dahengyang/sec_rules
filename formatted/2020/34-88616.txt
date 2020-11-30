@@ -1,75 +1,3 @@
-https://www.sec.gov/rules/final/2020/34-88616.pdf
-
-I.0.0.0 Background
-
-II.0.0.0 Amendments to Rule 17Ad-22 A. Rule 17Ad-22(a)(5)
-
-		II..1.0 Proposed Amendment and Comment Received
-
-		II..2.0 Final Rule
-
-		II..1.0 Accordingly, Rule 17Ad-22(a)(5) as adopted defines “covered clearing agency” to mean
-
-			II..1.a Overview of the Definitions of CCP and CSD
-
-			II..1.b Registered Clearing Agencies that are not Covered Clearing Agencies
-
-III.0.0.0 Economic Analysis
-
-	III.A.0.0 Economic Background
-
-	III.B.0.0 Baseline
-
-	III.C.0.0 Consideration of Benefits, Costs, and the Effect on Competition, Efficiency, and
-
-		III.C.1.0 Economic Effects Related to Registered Clearing Agencies
-
-			III.C.1.a Benefits
-
-			III.C.1.b Costs
-
-			III.C.1.c Effects on Efficiency, Competition, and Capital Formation
-
-		III.C.2.0 Economic Effects Related to Future Registrants
-
-			III.C.2.a Benefits
-
-			III.C.2.b Costs
-
-			III.C.2.c Effects on Efficiency, Competition, and Capital Formation
-
-		III.C.3.0 Alternatives to the Amended Definition
-
-IV.0.0.0 Paperwork Reduction Act
-
-	IV.A.0.0 Summary of Collection of Information and Use of Information
-
-	IV.B.0.0 Respondent Clearing Agencies
-
-	IV.C.0.0 Total Annual Reporting and Recordkeeping Burdens
-
-		IV.C.1.0 Initial and Annual Burden Estimates
-
-		IV.C.2.0 Total Burden Estimate
-
-	IV.D.0.0 Collection of Information is Mandatory
-
-	IV.E.0.0 Confidentiality
-
-V.0.0.0 Regulatory Flexibility Act Certification
-
-	V.A.0.0 Registered Clearing Agencies
-
-	V.B.0.0 Certification
-
-VI.0.0.0 Other Matters
-
-VII.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
@@ -90,16 +18,6 @@ SUPPLEMENTARY INFORMATION: The Commission is amending 17 CFR 240.17Ad- 22(a)(5) 
 
 In developing these rule amendments, Commission staff has consulted with the Financial Stability Oversight Council (“FSOC”), Commodity Futures Trading Commission (“CFTC”), and Board of Governors of the Federal Reserve System (“FRB”). <sup>2</sup> The Commission has also considered the relevant international standards as required by Section 805(a)(2)(A) of the Clearing Supervision Act. <sup>3</sup> The relevant international standards for CCPs and CSDs are the Principles for Financial Market Infrastructures . <sup>4</sup>
 
-TABLE OF CONTENTS
-
-BACKGROUND	3
-
-AMENDMENTS TO RULE 17AD-22	5
-
-A. Rule 17Ad-22(a)(5)	5
-
-B. Rule 17Ad-22(a)(3)	12
-
 <END HEADER>
 
 <h>I. Background</h>
@@ -114,7 +32,9 @@ As adopted in 2016, Rule 17Ad-22(e) established enhanced requirements for an ini
 
 Standards adopting release”).29507 (May 22, 2014) (“CCA Standards proposing release”).proposing release”).the definitions of “covered clearing agency” in Rule 17Ad-22(a)(5), “central securities depository services” in Rule 17Ad-22(a)(3), and “sensitivity analysis” in Rule 17Ad-22(a)(16), and the Commission is not adopting the proposed definition of “securities settlement system.” The effect of these amendments is to expand the coverage of Rule 17Ad-22(e) so that all registered clearing agencies providing the services of a CCP or CSD are subject to Rule 17Ad- 22(e).
 
-<h>II. Amendments to Rule 17Ad-22 A. Rule 17Ad-22(a)(5)</h>
+<h>II. Amendments to Rule 17Ad-22</h> 
+
+<h>A. Rule 17Ad-22(a)(5)</h>
 
 <h>1. Proposed Amendment and Comment Received</h>
 
@@ -140,9 +60,7 @@ Further, since the 2007–2009 financial crisis, the Commission understands that
 
 <h>2. Final Rule</h>
 
-The Commission is adopting the proposed definition of “covered clearing agency” but modifying it to remove reference to “securities settlement system,” as further discussed in Part
-
-<h>1. Accordingly, Rule 17Ad-22(a)(5) as adopted defines “covered clearing agency” to meana registered clearing agency that provides the services of a CCP or CSD.</h>
+The Commission is adopting the proposed definition of “covered clearing agency” but modifying it to remove reference to “securities settlement system,” as further discussed in Part 1. Accordingly, Rule 17Ad-22(a)(5) as adopted defines “covered clearing agency” to meana registered clearing agency that provides the services of a CCP or CSD.
 
 <h>a. Overview of the Definitions of CCP and CSD</h>
 
@@ -156,7 +74,7 @@ Like CCPs, CSDs encompass a wide variety of practices. For example, a clearing a
 
 As discussed in the CCA Definition proposing release, <sup>32</sup> registered clearing agencies thatare not covered clearing agencies, such as registered clearing agencies that do not provide CCP or CSD services, will continue to be governed by other provisions of Rule 17Ad-22, including 17 CFR 240.17Ad-22(d) (“Rule 17Ad-22(d)”), which contain requirements for various aspects of the payment, clearance, and settlement process. <sup>33</sup>
 
-B. Rule 17Ad-22(a)(3)
+<h>B. Rule 17Ad-22(a)(3)</h>
 
 The Commission proposed to amend the defined term “central securities depository services” in Rule 17Ad-22(a)(3) by deleting the word “services” so that the rule would instead define the term “central securities depository” to mean a clearing agency that is a securities depository as described in Section 3(a)(23)(A) of the Exchange Act. While the Commission proposed to amend the defined term, it did not propose to amend the meaning of the term as set forth in Rule 17Ad-22(a)(3). The purpose of this proposed amendment was to ensure consistency with the use of the defined term “central counterparty” in Rule 17Ad-22(a)(2) in the proposed definition of “covered clearing agency.”
 
@@ -164,7 +82,7 @@ The Commission received one comment regarding the amendment to the definition of
 
 For the reasons discussed above, the Commission is adopting the amended definition of “central securities depository” in Rule 17Ad-22(a)(3) as proposed.
 
-C. Rule 17Ad-22(a)(16)
+<h>C. Rule 17Ad-22(a)(16)</h>
 
 As discussed in the CCA Definition proposing release, a covered clearing agency that provides CCP services must establish, implement, maintain and enforce written policies and procedures reasonably designed to regularly review, test, and verify its risk-based margin system by conducting a sensitivity analysis of its margin model, among other things. <sup>37</sup> The Commission proposed two amendments to the definition of “sensitivity analysis” in Rule 17Ad-22(a)(16).
 
@@ -176,7 +94,7 @@ In response to the proposal, one commenter suggested that the Commission specifi
 
 For the reasons discussed above, the Commission is adopting the amended definition of “sensitivity analysis” in Rule 17Ad-22(a)(16) as proposed.
 
-D. Proposed Definition of “Securities Settlement System”
+<h>D. Proposed Definition of “Securities Settlement System”</h>
 
 In the CCA Definition proposing release, the Commission proposed to define “securities settlement system” to mean a clearing agency that enables securities to be transferred and settled by book entry according to a set of predetermined multilateral rules. <sup>40</sup>
 

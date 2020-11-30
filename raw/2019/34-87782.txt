@@ -1,0 +1,885 @@
+https://www.sec.gov/rules/final/2019/34-87782.pdf
+
+		..1.0 Scope of the Portfolio Reconciliation Requirements
+
+
+
+<END TABLE OF CONTENTS>
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part 240
+
+[Release No. 34-87782; File No. S7-28-18] RIN 3235-AL83
+
+Risk Mitigation Techniques for Uncleared Security-Based Swaps AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“SEC” or “Commission”) is adopting final rules requiring the application of specific risk mitigation techniques to portfolios of uncleared security-based swaps. In particular, these final rules establish requirements for each registered security-based swap dealer (“SBS dealer”) and each registered major security-based swap participant (“major SBS participant”) (each SBS dealer and each major SBS participant hereafter referred to as an “SBS Entity” and together referred to as “SBS Entities”) with respect to, among other things, reconciling outstanding security-based swaps with applicable counterparties on a periodic basis, engaging in certain forms of portfolio compression exercises, as appropriate, and executing written security-based swap trading relationship documentation with each of its counterparties prior to, or contemporaneously with, executing a security-based swap transaction. In addition, the Commission is issuing an interpretation addressing the application of the portfolio reconciliation, portfolio compression, and trading relationship documentation requirements to cross-border security-based swap activities and is amending Rule 3a71-6 to address the potential availability of substituted compliance in connection with those requirements. Lastly, the final rules include corresponding amendments to the recordkeeping, reporting, and notification requirements applicable to SBS Entities.
+
+DATES: Effective Date : These final rules and rule amendments are effective [insert date 60
+
+days after publication in Federal Register].
+
+Compliance Date : The compliance date is discussed in Section V of this adopting
+
+release.
+
+FOR FURTHER INFORMATION CONTACT: Carol McGee, Assistant Director, or Andrew Bernstein, Senior Special Counsel, at (202) 551-5870, Office of Derivatives Policy, Division of Trading and Markets, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549-8010.
+
+SUPPLEMENTARY INFORMATION: The Commission is adopting the following new rules:
+
+The Commission also is adopting amendments to:
+
+TABLE OF CONTENTS
+
+Section 15F(i)(1) of the Exchange Act, as added by Section 764(a) of Title VII of the Dodd-Frank Wall Street Reform and Consumer Protection Act (“Dodd-Frank Act”), <sup>2</sup> requires each SBS Entity to conform with such standards as may be prescribed by the Commission, by rule or regulation, that relate to timely and accurate confirmation, processing, netting, documentation, and valuation of all security-based swaps. <sup>3</sup> Section 15F(i)(2) of the Exchange Act provides that the Commission shall adopt rules governing documentation standards for SBS Entities. <sup>4</sup>
+
+In June 2016, the Commission adopted rules requiring SBS Entities to provide trade acknowledgments and to verify those trade acknowledgments with their counterparties to security-based swap transactions . <sup>5</sup> At the time, however, the Commission had not proposed rules concerning other documentation requirements, such as portfolio reconciliation, portfolio compression, or trading relationship documentation. By contrast, in 2012 the Commodity Futures Trading Commission (“CFTC”) implemented rules setting forth standards for the timely and accurate confirmation of swaps, as well as addressing the reconciliation and compression of swap portfolios and setting forth requirements for documenting the swap trading relationship between swap dealers or major swap participants (each swap dealer and each major swap
+
+participant hereafter referred to as a “Swap Entity” and together referred to as “Swap Entities”) and their counterparties . <sup>6</sup>
+
+Accordingly, on December 19, 2018, the Commission proposed Rules 15Fi-3, 15Fi-4, and 15Fi-5, which would establish requirements applicable to SBS Entities addressing, among other things, reconciling and compressing portfolios of uncleared security-based swaps and executing written trading relationship documentation with each counterparty prior to or contemporaneously with executing an uncleared security-based swap. <sup>7</sup> As the Commission
+
+explained in the Trade Acknowledgement and Verification Adopting Release, the process of confirming the terms of a transaction is essential for SBS Entities “to effectively measure and manage market and credit risk.” <sup>8</sup> In particular, “a backlog of unconfirmed trades could hinder the settlement process, particularly if errors go undetected or a counterparty disputes the terms of a transaction.” <sup>9</sup> Such disruptions or breakdowns in the settlement process resulting from unconfirmed trades could, in turn, lead to broader market instability in the case of a credit event involving a reference entity on which many different counterparties have, in the aggregate, a large notional outstanding exposure. <sup>10</sup>
+
+In this regard, portfolio reconciliation addresses many of these same issues, but unlike the confirmation process, which occurs at the outset of a transaction, reconciliation operates throughout the life of the transaction. If a discrepancy is not identified during the trade
+
+acknowledgement and verification process, such discrepancy could still be identified during a subsequent reconciliation exercise. Furthermore, even if a security-based swap transaction is accurately confirmed by both parties during the trade acknowledgement and verification process, reconciliation would help to identify any discrepancies in terms that do not remain constant throughout the life of a trade.
+
+Accordingly, portfolio reconciliation serves as an important mechanism for promoting risk mitigation by requiring security-based swap counterparties to have established processes for identifying and resolving discrepancies involving key terms of their transactions. To illustrate
+
+this point, if a term necessary for calculating the market value of a security-based swap is not accurately confirmed during the trade acknowledgment and verification process, due for example to some form of systems or human error, that discrepancy could lead to complications at various points throughout the life of the transaction, which could become particularly problematic if it remains undetected until the parties are required to perform on their obligations . <sup>11</sup> Thus, portfolio reconciliation could help to mitigate the possibility of a discrepancy unexpectedly affecting performance under the security-based swap transaction by increasing the likelihood that the parties are and remain in agreement with respect to all material terms. <sup>12</sup>
+
+Portfolio reconciliation is especially relevant with respect to terms used to perform a valuation of the financial instrument. Specifically, unresolved discrepancies regarding the value of a security-based swap can lead to, among other things, difficulties in the application of any processes that depend on the valuation being accurate, such as determining the amount of margin that must be posted or collected during the life of a security-based swap transaction. In the aggregate, such errors and other complications could result in significant uncollateralized
+
+exposure in the uncleared security-based swap markets (or, alternatively, potentially inefficient overcollateralization). <sup>13</sup>
+
+In addition, valuation discrepancies identified during reconciliation could help to identify problems with one or both of the counterparties’ internal valuation systems and models, or possibly even with a firm’s internal controls. For example, in a report analyzing federal assistance to American International Group, Inc. (“AIG”) following the events of September 2008, the General Accountability Office (“GAO”) noted that in structuring this relief one of the many open issues the FRBNY had to address was the number of collateral disputes AIG had with its counterparti es . <sup>14</sup> GAO further explained that “[t]o the extent that lower valuations (more CDO value lost) produced greater collateral postings, counterparties had an interest in seeking lower valuations. Similarly, to the extent that higher valuations (less CDO value lost) meant smaller collateral postings, AIG had an interest in seeking higher valuations.” <sup>15</sup>
+
+Portfolio compression is another process that should help SBS Entities better manage their outstanding security-based swap transactions, albeit in a different way. Portfolio compression generally refers to a post-trade processing exercise that allows two or more market participants to eliminate redundant derivatives transactions within their portfolios in a manner
+
+that does not change their net exposure. Compression exercises typically take place in “cycles,” whereby each participating counterparty designates particular contracts within its portfolio as being eligible for compression and specifies its risk tolerances with respect to the composition of its derivatives portfolio following completion of the cycle . <sup>16</sup> Following an analysis of the submitted contracts, counterparties may be provided with the option of terminating or modifying those contracts and replacing them with a smaller number of substantially similar contracts. In most cases, the gross notional value of the position is reduced, although the counterparty’s net exposure, represented by the replacement and remaining contracts, typically remains the same. <sup>17</sup>
+
+By reducing the total number of open contracts, portfolio compression is intended to help market participants manage their post-trade risks in a number of important ways. For example, two or more counterparties that are active in the OTC derivatives markets might have built up positions in the same (or comparable) products that, when analyzed at the portfolio level across all applicable counterparties, offset each other. Eliminating these offsetting and redundant
+
+uncleared derivatives transactions through compression — as measured both by the number of contracts and the total notional value — reduces a market participant’s gross exposure to its direct counterparties, including by eliminating all exposure to certain counterparties . <sup>18</sup> Reducing the total number of outstanding contracts within a derivatives portfolio also provides important operational benefits and efficiencies for market participants in that there are fewer open contracts to manage, maintain, and settle, resulting in fewer opportunities for processing errors, failures, or other problems that could develop throughout the lifecycle of a transaction. <sup>19</sup> Accordingly, the Commission believes that the use of portfolio compression by SBS Entities, where appropriate (and to the extent that such activity is not already occurring), should provide important
+
+processing improvements consistent with the overall framework of Section 15F(i) of the Exchange Act. <sup>20</sup>
+
+Finally, just as portfolio reconciliation is designed to allow counterparties to manage their internal risks by better ensuring agreement with respect to the material terms and valuation of the transaction (and thereby avoiding complications at various points throughout the life of the transaction), requiring each SBS Entity to document the terms of the trading relationship with each of its counterparties before executing a new security-based swap transaction should promote sound collateral and risk management practices by enhancing transparency and legal certainty regarding each party’s rights and obligations under the transaction. This, in turn, should help to reduce counterparty credit risk and promote certainty regarding the agreed-upon valuation and other material terms of a security-based swap. <sup>21</sup> Having adequate written documentation prior to, or contemporaneously with, executing a security-based swap should also facilitate the ability of the counterparties to engage in portfolio reconciliation in an efficient and cost-effective manner.
+
+In consideration of the above, the Commission proposed new Rules 15Fi-3, 15Fi-4, and 15Fi-5 under the Exchange Act. <sup>22</sup> As proposed, Rule 15Fi-3 generally would have required SBS Entities, in connection with uncleared security-based swaps, to (1) engage in portfolio
+
+reconciliation with counterparties who are SBS Entities and (2) establish, maintain, and follow written policies and procedures reasonably designed to ensure that they engage in portfolio reconciliation with counterparties who are not SBS Entities. In both cases, the frequency of the
+
+portfolio reconciliation is based on the number of outstanding transactions with the applicable counterparty. In addition, proposed Rule 15Fi-4 would have required SBS Entities to establish, maintain, and follow written policies and procedures related to periodic bilateral and multilateral compression of uncleared security-based swaps, as well as periodic offset of uncleared security- based swaps. Finally, proposed Rule 15Fi-5 would have established certain requirements for SBS Entities related to the use of written trading relationship documentation in connection with their uncleared security-based swap transactions.
+
+The Commission is adopting Rules 15Fi-3 through 15Fi-5, largely as proposed. <sup>23</sup> In
+
+developing this rulemaking, both at proposal and adoption, we have consulted and coordinated
+
+with the CFTC, the prudential regulators, <sup>24</sup> and foreign regulatory authorities in accordance with the consultation mandate of the Dodd-Frank Act. <sup>25</sup> We also have consulted and coordinated with foreign regulatory authorities through Commission staff participation in numerous bilateral and multilateral discussions with foreign regulatory authorities addressing the regulation of OTC derivatives. <sup>26</sup> Through these multilateral and bilateral discussions, and Commission staff’s
+
+security-based swaps cleared at a registered clearing agency). See infra Sections II.A.6, II.B.3, and II.C.5.
+
+In addition, Section 752(a) of the Dodd-Frank Act provides, in part, that “[i]n order to promote effective and consistent global regulation of swaps and security-based swaps, the Commodity Futures Trading Commission, the Securities and Exchange Commission, and the prudential regulators . . . as appropriate, shall consult and coordinate with foreign regulatory authorities on the establishment of consistent international standards with respect to the regulation (including fees) of swaps.”
+
+participation in various international task forces and working groups, we have gathered information about foreign regulatory reform efforts and their effect on, and relationship with, the
+
+U.S. regulatory regime. The Commission has taken, and will continue to take, these discussions into consideration in developing rules, forms, and interpretations for implementing Title VII of the Dodd-Frank Act.
+
+Finally, the Commission continues to recognize that the CFTC rules pertaining to portfolio reconciliation, portfolio compression, and written trading relationship documentation have been in effect since 2012, and that any SBS Entity that also is registered with the CFTC as a Swap Entity will already have incurred systems and compliance costs in connection with the corresponding CFTC requirements. Accordingly, we have endeavored throughout this rulemaking to harmonize the final rules with the existing CFTC rules wherever possible. There are, however, a very limited number of provisions where we continue to believe it is appropriate to diverge from a particular aspect of the CFTC rules. Each of those differences is described below, along with an explanation of the Commission’s reasons for adopting the different approach. To the extent that no such substantive difference is described, it is because we have not identified any such differences or identified only technical differences.
+
+Rule 15Fi-3: Portfolio Reconciliation
+
+<END HEADER>
+
+<h>1. Scope of the Portfolio Reconciliation Requirements</h>
+
+<END MAIN TEXT>
+
+1 15 U.S.C. 78a et seq.
+
+2 Public Law 111–203, 124 Stat. 1376 (2010). Unless otherwise indicated, references to “Title VII” in this release are to Subtitle B of Title VII of the Dodd-Frank Act.
+
+3 15 U.S.C. 78o-10(i)(1).
+
+4 15 U.S.C. 78o-10(i)(2).
+
+5 See Trade Acknowledgment and Verification of Security-Based Swap Transactions, Exchange Act Release No. 78011 (June 8, 2016), 81 FR 39807 (June 17, 2016) (“Trade Acknowledgment and Verification Adopting Release”).
+
+6 See Confirmation, Portfolio Reconciliation, Portfolio Compression, and Swap Trading Relationship Documentation Requirements for Swap Dealers and Major Swap Participants, 77 FR 55904 (Sept. 11, 2012) (“CFTC Risk Mitigation Adopting Release”). Other jurisdictions, such as the European Commission (“EC”) and Republic of Singapore, have implemented similar measures. See Commission Delegated Regulation (EU) No. 149/2013 (Dec. 18, 2012) supplementing Regulation (EU) No. 648/2012 of the European Parliament and of the Council with regard to regulatory technical standards on indirect clearing arrangements, the clearing obligation, the public register, access to a trading venue, non-financial counterparties, and risk mitigation techniques for over-the- counter (“OTC”) derivatives contracts not cleared by a central counterparty (Feb. 23, 2013), available at: ; and Monetary Authority of Singapore, Guidelines on Risk Mitigation Requirements for Non- Centrally Cleared Over-The-Counter Derivatives Contracts, (published on Apr. 25, 2019), available at: . Regulatory authorities in other jurisdictions (e.g., the Hong Kong Monetary Authority) have also proposed requirements similar to those adopted by the CFTC and the EC. In addition, the Canadian Securities Administrators (“CSA”) published a consultation paper in 2016 proposing a requirement that financial institutions enter into a written agreement documenting the material terms and conditions of any non-centrally cleared derivative, including standards related to the maintenance, review, and contents of that documentation. See CSA Consultation Paper 95-401 – Margin and Collateral Requirements for Non-Centrally Cleared Derivatives (Jul. 7, 2016), available at:
+
+7 See Risk Mitigation Techniques for Uncleared Security-Based Swaps, Exchange Act Release No. 84861 (Dec. 19, 2018), 84 FR 4614 (Feb. 15, 2019) (“Proposing Release”).
+
+8 See Proposing Release, 84 FR at 4616 (citing Trade Acknowledgement and Verification Adopting Release, 81 FR at 39833).
+
+9 Id.
+
+10 Id.
+
+11 See Summary of OTC Commitments, Attachment to the July 31, 2008 letter from the Operations Management Group to Timothy Geithner, President, Federal Reserve Bank of New York (“FRBNY”), available at: (“Positive affirmation of trade economics is a key risk mitigation technique for OTC derivatives because it assures that each counterparty’s risk management systems accurately reflect the economic details of trades that have not yet been matched.”). Although this specific commitment was made in the context of the trade affirmation process, we believe that the same basic principle supports the need to reconcile terms throughout the life of a trade, even if a term is accurately reflected in a firm’s system as a result of the affirmation process, particularly in the case of terms that do not remain constant during the life of a trade.
+
+12 See Proposing Release, 84 FR at 4616.
+
+13 See id.
+
+14 See GAO, Financial Crisis: Review of Federal Reserve System Financial Assistance to American International Group, Inc., GAO-11-616 (Sept. 2011), available at: (“According to information we reviewed, on a [collateralized debt obligation (“CDO”)] portfolio of $71 billion . . ., AIG and its counterparties had valuation differences totaling $4.3 billion. Among a group of 15 counterparties, 9 had valued their assets differently than AIG.”).
+
+15 Id. at 82.
+
+16 See, e.g., ISDA Study, Interest Rate Swaps Compression: A Progress Report, (Feb. 2012), available at:
+
+17 In 2011, the Commission issued an order granting temporary exemptions from the requirement to register as a clearing agency under Section 17A of the Exchange Act for entities providing certain clearing services for security-based swaps including, among other things, tear-up and compression services. That order contains general descriptions of the portfolio compression process, based on discussions between Commission staff and market participants prior to the issuance of the exemptive order. See Order Pursuant to Section 36 of the Securities Exchange Act of 1934 Granting Temporary Exemptions from Clearing Agency Registration Requirements under Section 17A(b) of the Exchange Act for Entities Providing Certain Clearing Services for Security-Based Swaps, Exchange Act Release No. 64796 (Jul. 1, 2011), 76 FR 39963 (Jul. 7, 2011) (“Clearing Services Exemptive Order”).
+
+18 See Darrell Duffie, Ada Li, and Theo Lubke, Policy Perspectives of OTC Derivatives Market Infrastructure, FRBNY Staff Report No. 424, dated Jan. 2010, as revised Mar. 2010, available at: (“FRBNY OTC Derivatives Report”) (“In some types of derivatives that are not cleared, major market participants tend to build offsetting positions with different counterparties, long with one set of counterparties, and short with the others. In many cases, these offsetting positions are redundant. They serve no useful business purpose and create counterparty risk. Market participants should continue to engage in regular market-wide portfolio compression exercises in order to eliminate these redundant positions.”). See also, John Kiff, et al., Credit Derivatives: Systemic Risks and Policy Options, IMF Working Paper No. 254 (Nov. 2009), available at: (“Multilateral netting, typically operationalized via ‘tear-up’ or ‘compression’ operations that eliminate redundant contracts, reduces both individual and system counterparty credit risk.”).
+
+19 See Portfolio compression platform launched to reduce CDS operational risk, HEDGEWEEK (Sept. 8, 2008) (explaining that a portfolio compression platform “reduces operational risk while leaving market risk profiles unchanged,” which is achieved “by terminating existing trades and replacing them with a smaller number of new replacement trades that carry the same risk profile and cash flows as the initial portfolio but have less capital exposure”).
+
+20 See 15 U.S.C. 78o-10(i).
+
+21 See, e.g., Sylvie A. Durham, TERMINATING DERIVATIVES TRANSACTIONS: RISK MITIGATION AND CLOSE-OUT NETTING § 8:1 (Nov. 2010) (“[L]egal contractual provisions are the foundation on which the rights and obligations of the parties are based, and sound collateral and risk management practices may be ineffective if the legal rights of the parties are not clearly set forth.”).
+
+22 Unless otherwise noted, all references to rules without an accompanying statutory reference are to rules adopted under the Exchange Act.
+
+23 As described in greater detail below, the Commission is making three changes to the proposal. First, we are adopting a single definition of “material terms” for purposes of the portfolio reconciliation requirements in Rule 15Fi-3 that is generally consistent with the definition used in the corresponding CFTC rule. This is in contrast to the proposed bifurcated definition. See infra Section II.A.1. Second, Rule 15Fi-5, unlike in the proposal, does not require an SBS Entity’s written trading relationship documentation to address the allocation of any applicable regulatory reporting obligations. See infra Section II.C.1. Both of those changes involve provisions that were included in the proposal as part of a request for comment on how such provisions could potentially help address how a security-based swap data repository (“SDR”) may satisfy its obligation to verify the terms of each security-based swap with both counterparties to the transaction. See Proposing Release at 4633-4635. Finally, the Commission is modifying the scope of the exception for uncleared security-based swaps in each of Rules 15Fi-3, 15Fi-4, and 15Fi-5 to include (1) security-based swaps that are, directly or indirectly, submitted to and cleared by a clearing agency (as opposed to limiting it to security-based swaps that have a clearing agency as a direct counterparty) and (2) security-based swaps that are cleared by a clearing agency that the Commission has exempted from registration by rule or order pursuant to Section 17A of the Exchange Act (as opposed to limiting it to
+
+24 For purposes of this statement, the term “prudential regulator” is defined in Section 1a(39) of the Commodity Exchange Act (“CEA”), 7 U.S.C. 1a(39), and that definition is incorporated by reference into Section 3(a)(74) of the Exchange Act, 15 U.S.C. 78c(a)(74). Pursuant to that definition, the Board of Governors of the Federal Reserve System (“Federal Reserve Board”), the Office of the Comptroller of the Currency, the Federal Deposit Insurance Corporation (“FDIC”), the Farm Credit Administration, or the Federal Housing Finance Agency (collectively, the “prudential regulators”) is the “prudential regulator” of an SBS Entity if the entity is directly supervised by that regulator. Separately, we are adopting a definition of “prudential regulator,” to be used for purposes of the new portfolio reconciliation and trading relationship documentation requirements. See infra . That new definition also references Section 3(a)(74) of the Exchange Act and includes the same list of agencies as noted above.
+
+25 Section 712(a)(2) of the Dodd-Frank Act provides in part that the Commission shall “consult and coordinate to the extent possible with the Commodity Futures Trading Commission and the prudential regulators for the purposes of assuring regulatory consistency and comparability, to the extent possible.”
+
+26 Staff participates in a number of international standard-setting bodies and workstreams working on OTC derivatives reforms. For example, Commission staff participated in the International Organization of Securities Commissions’ (“IOSCO”) preparation of a report regarding risk mitigation standards for non-centrally cleared OTC derivatives. See Risk Mitigation Standards for Non-centrally Cleared OTC Derivatives (Jan. 28, 2015), available at: IOSCO developed those standards in consultation with the Basel Committee on Banking Supervision (“BCBS”) and the Committee on Payments and Market Infrastructures.
+
+27 The corresponding CFTC definition is in 17 CFR 23.500(i).
+
+28 The corresponding CFTC definition is in 17 CFR 23.500(k).
+
+29 The corresponding CFTC definition is in 17 CFR 23.500(m).
+
+30 Rule 901 (17 CFR 242.901) is part of Regulation SBSR, which governs the reporting and publication of security-based swap transaction data. See 17 CFR 242.900 to 242.909. Further, Section 3(a)(75) of the Exchange Act defines the term “security-based swap data repository” to mean “any person that collects and maintains information or records with respect to transactions or positions in, or the terms and conditions of, security-based swaps entered into by third parties for the purpose of providing a centralized recordkeeping facility for security-based swaps.” See 15 U.S.C. 78c(a)(75).
+
+31 The corresponding CFTC definition is in 17 CFR 23.500(g).
+
+32 Because of differences between the Commission’s and CFTC’s security-based swap and swap data reporting rules, the application of the definition of “material terms” in Rule 15Fi-1(i) may differ from the application of the corresponding CFTC definition. However, in order to make the two definitions as substantively identical in their application as possible, Rule 15Fi-1(i), as adopted, excludes from that definition “any term that is not relevant to the ongoing rights and obligations of the parties and the valuation of the security-based swap.” See also infra notes – (describing the Commission’s recently issued policy statement on compliance with Regulation SBSR).
+
+33 See Letter dated April 16, 2019, from Steven Kennedy, Global Head of Public Policy, the International Swaps and Derivatives Association (“ISDA”) and Kyle Brandon, Managing Director, Head of Derivatives Policy, the Securities Industry and Financial Markets Association (“SIFMA”) (“ISDA/SIFMA Letter”); see also Letter dated April 16, 2019, from Katherine Delp, Executive Director, the Depository Trust & Clearing Corporation (“DTCC”), in conjunction with its swap data repository, and Kara Dutta, General Counsel, ICE Trade Vault (“DTCC/ICE Trade Vault Letter”).
+
+34 See Proposing Release at 4617-4618.
+
+35 Rule 901 (17 CFR 242.901) is part of Regulation SBSR, which governs the reporting to registered SDRs of security-based swap data and public dissemination by registered SDRs of a subset of that data. See 17 CFR 242.900 to 242.909.
+
+36 See 17 CFR 23.500(g).
+
+37 See Definitions of “Portfolio Reconciliation” and “Material Terms” for Purposes of Swap Portfolio Reconciliation, 81 FR 27309 (May 6, 2016).
+
+38 See Proposing Release, 84 FR at 4618.
+
+39 See Regulation SBSR—Reporting and Dissemination of Security-Based Swap Information; Final Rule, Exchange Act Release No. 74244 (Feb. 11, 2015), 80 FR 14563, 14646 (Mar. 19, 2015) (“Regulation SBSR Adopting Release”).
+
+40 See also Proposing Release, 84 FR at 4618.
+
+41 For a more detailed discussion of this issue, including the concerns raised by SDRs as to the difficulty of requiring them to reach out to counterparties who are not their members to verify accuracy of the data, see Proposing Release, 84 FR at 4633-35.
+
+42 See 15 U.S.C. 78m(n)(5) and 17 CFR 240.13n-4(b)(3). The Commission also included a provision in proposed Rule 15Fi-5(b)(1) that was intended to serve the same purpose.
+
+43 See ISDA/SIFMA Letter.
+
+44 Id. ISDA and SIFMA also questioned “the suitability of this proposed shift in regulatory responsibility” and noted that counterparties that are not members of the SDR may also not be involved in meaningful portfolio reconciliation processes.
+
+45 See DTCC/ICE Trade Vault Letter.
+
+46 See id.
+
+47 See id.
+
+48 See id.
+
+49 As described above, DTCC and ICE requested that the Commission address the issue of SDR verification through interpretive guidance or exemptive relief. This release focuses on specific documentation requirements related to risk mitigation techniques. And while the Commission is not addressing the SDR verification issue in this release, it may do so at a future date.
+
+50 See ISDA/SIFMA Letter.
+
+51 In addition, in a separate release adopting rules that address the cross-border application of certain security-based swap requirements the Commission also has issued a policy statement regarding compliance with the rules for SDRs and Regulation SBSR (“Regulation SBSR/SDR Policy Statement”). See Rule Amendments and Guidance Addressing Cross-Border Application of Certain Security-Based Swap Requirements. Exchange Act Release No. 87780 (Dec. 18, 2019) (“Cross-Border Amendments Adopting Release”). That policy statement, which will be in effect for four years following the first compliance date for Regulation SBSR, states that certain specified actions with respect to the security-based swap reporting rules will not provide a basis for a Commission enforcement action. For example, one of the identified fact patterns includes a situation where a person with a duty to report a data element of a security- based swap transaction, as required by any provision of Rules 901(c)(2)-(7) and 901(d) of Regulation SBSR, does not report that data element because the CFTC’s swap reporting rules in force at the time of the transaction do not require that data element to be reported. See id. During the pendency of the Regulation SBSR/SDR Policy Statement, SBS Entities that elect to follow the CFTC’s swap reporting rules pursuant to the Regulation SBSR/SDR Policy Statement also may look to the CFTC’s reporting requirements with respect to which terms are the “material terms” for purposes of complying with the portfolio reconciliation requirements in Rule 15Fi-3.
+
+52 However, the Commission’s position in the Regulation SBSR/SDR Policy Statement could, by addressing compliance with certain aspects of the CFTC’s swap reporting rules (in lieu of Regulation SBSR) for a period of four years following the compliance date for SBSR, further alleviate any potential differences between Rule 15Fi-3 and CFTC 23.502 that may flow from differences between the two agencies’ Title VII data reporting rules. For example, to the extent that an SBS Entity reports security-based swap data to an SDR based on the data fields set forth in CFTC’s swap data reporting rules in 17 CFR Part 45, such SBS Entity would be able to identify the exact data fields that may be excluded from the definition of “material terms” in Rule 15Fi-1(i), and therefore not subject to the portfolio reconciliation requirements in Rule 15Fi-3.] See id.
+
+53 See supra noand accompanying text (explaining that in 2016 when the CFTC adopted amendments to Rule 23.500(g) to exclude the 24 specific fields from the definition of “material terms,” it described such terms as being “not relevant to the ongoing rights and obligations of the parties and the valuation of the swap.”).
+
+54 For the avoidance of doubt, if a security-based swap portfolio between two SBS Entity counterparties crosses from one threshold to another, both sides would be required to comply with the relevant frequency requirements of Rule 15Fi-3(a) as of the date the threshold is crossed. For example, if two SBS Entities that have long maintained a portfolio of 50 or fewer security-based swaps (and accordingly reconcile on a quarterly basis) exceed the 50 transaction threshold, the two sides would become subject to the weekly reconciliation requirement as of the first day that the portfolio exceeds 50 security-based swaps (or the daily reconciliation requirement if the portfolio increases to 500 or more security-based swaps). By contrast, if two SBS Entities that maintain a security-based swap portfolio of more than 500 transactions subsequently fall below that threshold, they could begin reconciling on a weekly basis as of the first business day after the date on which they were able to verify that their security-based swap portfolio has fallen below 500 transactions.
+
+55 See Proposing Release, 84 FR at 4619.
+
+56 When it adopted the same numerical thresholds in 2012, the CFTC noted that the requirement to reconcile portfolios with 500 or more swaps on a daily basis was consistent with the commitments made by the OTC Derivatives Steering Group’s 14 major dealers (“G-14 dealers”) in December 2008 as well as international regulatory efforts underway at the time of the CFTC’s release. See CFTC Risk Mitigation Adopting Release, 77 FR at 55928, nn. 35 and 36. See also Summary of OTC Commitments, Attachment to the June 2, 2009 letter from G-14 dealers and certain buy-side participants to William C. Dudley, President, FRBNY, available at: (committing, “[b]y June 30, 2009, [to] execute daily collateralized portfolio reconciliations for collateralized portfolios in excess of 500 trades between [Operations Management Group] dealers as detailed in the December 31, 2008 Collateral Update letter”). See also Attachment to the Mar. 31, 2011 letter from the G-14 dealers and certain buy-side participants to William C. Dudley, President, FRBNY, available at: (“We commit to reduce the threshold for routine portfolio reconciliation of collateralized portfolios from those exceeding 1,000 transactions to those exceeding 500 transactions starting June 30, 2011. These portfolios will be reconciled at least monthly.”) (internal citation omitted).
+
+57 Rule 15Fi-3(a)(2) provides that portfolio reconciliation may be performed either on a bilateral basis by the counterparties or by a third party selected by the counterparties in accordance with paragraph (a)(1) of the rule. The Commission notes that CFTC Rule 23.502(a)(2), which is analogous to Rule 15Fi-3(a)(2), uses the term “qualified third
+
+58 Specifically, once the two parties have agreed in writing on the terms of the portfolio reconciliation for the first time, the requirement could then be satisfied in connection with any new security-based swap transaction executed by the two sides merely by agreeing in writing to abide by the existing agreement regarding the reconciliation process.
+
+59 Upon the effective date of these final rules, the definition of “business day” currently in Rule 15Fi-1(a) will be renumbered as Rule 15Fi-1(b).
+
+60 See Proposing Release, 84 FR at 4619 (describing the rationale for relying on the existing definition of “business day” in Rule 15Fi-1 (as opposed to proposing a separate definition for purposes of the portfolio reconciliation requirements) and comparing that existing definition with the corresponding CFTC definition of “business day” in 17 CFR 1.3). As a reminder, SBS entities are required to agree in writing with each of their counterparties on the terms of the portfolio reconciliation pursuant to Rule 15Fi-3(a)(1) (in the case of security-based swap portfolios with other SBS Entities) and Rule 15Fi-3(b)(1) (in the case of security-based swap portfolios with all other counterparties).
+
+61 See Proposing Release, 84 FR at 4619-20.
+
+62 15 U.S.C. 78o-10(e).
+
+63 See Proposing Release, 84 FR at 4620. For the avoidance of doubt, an SBS Entity that identifies a valuation discrepancy in excess of 10% would be in compliance with Rule 15Fi-3(a)(5) if it resolves such discrepancy to a level below 10%, even if the entire discrepancy is not completely eliminated. For example, an SBS Entity would not be required to reduce an 11% valuation discrepancy down to zero. Similarly, an SBS Entity with a 9% valuation discrepancy would already be below the 10% threshold and would have no further obligations under Rule 15Fi-3(a)(5).
+
+64 For additional discussion of the Commission’s rationale for applying a more streamlined set of requirements in the case of a security-based swap portfolio between an SBS Entity and a non-SBS Entity counterparty, see Proposing Release, 84 FR at 4620.
+
+65 Rule 15Fi-3(b) contains a slight deviation from corresponding CFTC Rule 23.502(b) to eliminate language that we believe to be redundant. We do not intend for such clarification to signify any substantive differences between Rule15Fi-3(b) and CFTC Rule 23.502(b).
+
+66 See Proposing Release, 84 FR at 4620. Also, and similar to the provisions governing portfolio reconciliation between two SBS Entities, the CFTC has adopted rules with identical thresholds and frequencies, and any divergence from those thresholds could lead to additional costs and other inefficiencies for SBS Entities that are also registered with the CFTC as Swap Entities. See supra (discussing how the CFTC arrived at setting the numerical thresholds for the requirement to engage in portfolio reconciliation as between two Swap Entities.).
+
+67 As noted in the discussion of the corresponding provision in Rule 15Fi-3(a)(1), an SBS Entity could in practice satisfy such requirement by including the terms governing the portfolio reconciliation process in the written security-based swap trading relationship documentation that it executes with its counterparty, which, pursuant to Rule 15Fi-5, will need to be executed prior to, or contemporaneously with, the two parties executing any
+
+68 Similar to the requirement for security-based swap portfolios between two SBS Entities, Rule 15Fi-3(b)(4) provides that a difference between the lower valuation and the higher valuation of less than 10% of the higher valuation need not be deemed a discrepancy. See supra noand accompanying text (discussing the 10% threshold in the context of Rule 15Fi-3(a)(5)).
+
+69 See Proposing Release, 84 FR at 4621.
+
+70 The language “at either the transaction or portfolio level” is not included in CFTC Rule 23.502(c), which is the corresponding requirement applicable to Swap Entities. The specific requirements as to the operation of CFTC Rule 23.502(c) are contained in the rules of the National Futures Association (“NFA”), which the CFTC has authorized to, among other things, receive and review notices of reportable swap valuation disputes. See Performance of Certain Functions by the National Futures Association Related to Notices of Swap Valuation Disputes Filed by Swap Dealers and Major Swap Participants, 81 FR 3390 (Jan. 21, 2016).
+
+71 See Proposing Release, 84 FR at 4621 (discussing the rationale for this notification provision, particularly as it relates to the potential risks to the counterparties of a security- based swap that could result from a lack of agreement on its valuation).
+
+72 As explained in the Proposing Release, the requirement that the notice be provided “in a form and manner acceptable to the Commission” is intended to provide SBS Entities with flexibility to determine the most efficient and cost-effective means of making such submissions, so long as it is deemed to be acceptable by the Commission. See Proposing Release, 84 FR at 4621, n. 47 and accompanying text. At the same time, however, we also understand that SBS Entities may prefer to have more specific direction as to how to report these disputes to the Commission (and any applicable prudential regulator). Accordingly, we requested comment on whether we should establish a specific process for how SBS Entities would need to provide notices of valuation disputes to the Commission pursuant to proposed Rule 15Fi-3(c). We received no comments on this aspect of the proposal, which we are adopting without modification.
+
+73 Additionally, the Commission is amending existing Rule 15Fi-1 to add the term “prudential regulator,” which includes the Federal Reserve Board, the Office of the Comptroller of the Currency, the FDIC, the Farm Credit Association, and the Federal Housing Finance Agency, as applicable to the specific type of SBS Entity. This definition, which is numbered as Rule 15Fi-1(m), has the same meaning given to the term in Section 3(a)(74) of the Exchange Act. See 15 U.S.C. 78c(a)(74).
+
+74 See CFTC Risk Mitigation Adopting Release, 77 FR at 55914.
+
+75 Id. The CFTC has a nearly identical requirement in its Rule 23.502(c), except that it also requires Swap Entities to send such notices to the Commission when the dispute involves a swap that is also a security-based swap agreement, of which a material term is based on the price, yield, value, or volatility of any security or any group or index of securities, or any interest therein. See 17 CFR 23.502(c) (citing the inclusion of security-based swap agreements in the definition of “swap” in 7 U.S.C. 1a(47)(v)). Because there is no corresponding inclusion of “swap agreements” in the definition of “security-based swap agreement” in Section 3(a)(68) of the Exchange Act (15 U.S.C. 78c(a)), Rule 15Fi-3(c) does not contain a requirement to provide notices of any security-based swap valuation disputes to the CFTC.
+
+76 We are not providing a fixed definition of the term “promptly” in the context of when the SBS Entity would need to provide the Commission of an applicable security-based swap valuation dispute. Although we would expect that SBS Entities would be able to provide these notices to the Commission as soon as the disputes exceed the applicable timeframes (e.g., the beginning of fourth business day in the case of a dispute between two SBS Entities), we also understand that some notices may take longer to prepare, such as in cases when the counterparties are unable to agree even on the size of the dispute.
+
+77 See Proposing Release, 84 FR at 4621-22 (summarizing the NFA Interpretive Notice to Rule 2-49). The NFA notice is available at:
+
+78 See id.
+
+79 See ISDA/SIFMA Letter.
+
+80 See id.
+
+81 The NFA requires amendments from Swap Entities to be filed on the 15th (or the following business day if the 15th is a weekend or holiday) and last business day of each month. To the extent that an SBS Entity that also is registered with the CFTC as a Swap Entity has existing systems in place to send out amendments on both the 15th (or the following business day if the 15th is a weekend or holiday) and last business day of each month, the earlier filing would of course satisfy the requirements of Rule 15Fi-3(c).
+
+82 Specifically, NFA Interpretive Guidance to Rule 2-49 provides that “[Swap Entities] should not file a daily notice of a previously reported dispute even if the valuation dispute amount changes. [Swap Entities] are required, however, to notify NFA of certain changes to the dispute amount on the 15th (or the following business day if the 15th is a weekend or holiday) and last business day of each month by amending any previously filed notice where the dispute amount has increased in $20 million incremental bands. For example, if a [Swap Entity] files a notice of a $30 million dispute, an amended notice updating the dispute amount is required if that dispute increases to $40 million or more and each subsequent $20 million increment (i.e., dispute amount increases to $60 million or more,
+
+83 Among other things, NFA Interpretive Notice to Rule 2-49 requires Swap Entities to file termination notices of disputes that are no longer reportable under CFTC Rule 23.502(c) on the 15th (or the following business day if the 15th is a weekend or holiday) and the last business day of the month based on the dispute amount on the reporting date. See Proposing Release, 84 FR at 4621-22 (summarizing NFA Interpretive Notice to Rule 2- 49). In addition, the NFA issued another notice, entitled “Effective date of Interpretive Notice to NFA Compliance Rule 2-49: Swap Valuation Dispute Filing Requirement” which, among other things, requires that all swap valuation disputes include: (1) the swap dealer’s NFA ID and legal entity identifier (“LEI”), (2) the dispute reportable date, (3) the dispute type, (4) the dispute termination date, (5) the receiver/payer, (6) the disputed amount, in U.S. Dollars (“USD”), (7) the counterparty name, and (8) counterparty LEI or Privacy Law Identifier. For initial and variation margin disputes, the swap dealer is also required to provide (1) the unique swap identifier, (2) the base currency notional amount,
+
+84 As a general matter, we believe it likely that a notice provided to the Commission with respect to a security-based swap valuation dispute that is compliant with NFA Interpretive Guidance to Rule 2-49 (but for the fact that such notice pertains to a security- based swap) would also be compliant with Rule 15F-5(c). SBS Entities that have questions about using a system designed to accommodate the NFA guidance to comply with Rule 15Fi-5(c) are encouraged to contact Commission staff to discuss such questions.
+
+85 Under existing Rule 15Fi-1(b) (which is renumbered as Rule 15Fi-1(c) under these final rules), the term “clearing agency” means a clearing agency registered with the Commission pursuant to Section 17A of the Exchange Act and that provides central counterparty services for security-based swap transactions.
+
+86 See ISDA/SIFMA Letter. Although ISDA and SIFMA made this comment solely in connection with the portfolio compression requirements in Rule 15Fi-4, we view this issue as applying equally to the portfolio reconciliation requirements in Rule 15Fi-3 and the trading relationship documentation requirements in Rule 15Fi-5. As a result, the discussion that follows, including the change we are making to the scope of the clearing transactions subject to the clearing exception, applies to all three new rules.
+
+87 See Trade Acknowledgement and Verification Adopting Release, 81 FR at 39820-21. In that release, the Commission also noted that if both direct counterparties to the alpha
+
+88 Rule 18a-3(b)(5) defines “non-cleared security-based swap” as a security-based swap that is not, directly or indirectly, submitted to and cleared by a clearing agency registered pursuant to section 17A of the [Exchange] Act (15 U.S.C. 78q-1) or by a clearing agency that the Commission has exempted from registration by rule or order pursuant to section 17A of the [Exchange] Act (15 U.S.C. 78q1). See 17 CFR 240.18a-3(b)(5). Similarly, Rule 18a-4(a)(1) defines “cleared security-based swap” as “a security-based swap that is, directly or indirectly, submitted to and cleared by a clearing agency registered with the
+
+89 See Capital, Margin, and Segregation Requirements for Security-Based Swap Dealers and Major Security-Based Swap Participants and Capital and Segregation Requirements for Broker-Dealers, Exchange Act Release No. 86175 (June 21, 2019), 84 FR 43872, 43919 (Aug. 22, 2019) (“Capital, Margin, and Segregation Adopting Release”) (“[t]he language regarding exemption from registration was added to the final rule to align the definition more closely with the definitions used in the margin rules of the CFTC and prudential regulators.”).
+
+90 These revisions have been incorporated directly into the operative exception in Rule 15Fi-3(d), which no longer cross-references to the existing definition of “clearing transaction” in Rule 15Fi-1(d) (re-numbered from paragraph (c)). In addition, we have amended the existing definition of “clearing agency” in Rule 15Fi-1(c) (re-numbered from paragraph (b)) to provide that it applies only to the trade acknowledgement and verification requirements in Rule 15Fi-2. That modification was necessary because the trade acknowledgement and verification requirements in Rule 15Fi-2 contain an
+
+91 See infra Sections II.B.3 and II.C.5.
+
+92 The corresponding CFTC rule is 17 CFR 23.503. The structure of the CFTC rule, including the subsections, mirrors the structure of Rule 15Fi-4.
+
+93 The corresponding CFTC definition is in 17 CFR 23.500(b).
+
+94 The corresponding CFTC definition is in 17 CFR 23.500(h).
+
+95 As noted below in Section I.C.4, Rule 15Fi-4 is applicable only to uncleared security- based swaps.
+
+96 As we noted in discussing the portfolio reconciliation requirements in Rule 15Fi-3, the Commission believes it appropriate to impose more prescriptive requirements in cases where both entities are subject to the SEC’s requirements for registered entities.
+
+97 The one exception to this statement is the requirement in Rules 15Fi-4(a)(2) and (a)(3) that such policies and procedures address the evaluation of portfolio compression exercises that are initiated, offered, or sponsored by any third party. The Commission believes that the decision of which party to use (or not use) to conduct a compression exercise is of critical importance to the overall determination of whether to participate in compression. Although the Commission takes no position with respect to the type or identity of the party used to conduct a compression exercise, we recognize that a number of parties are currently offering such services, including third-party vendors and some self-regulatory organizations (e.g., clearing agencies). The Commission also understands that there may be some instances where compression could be performed without the use of a third-party service provider.
+
+98 See 17 CFR 23.503(a)(3)(ii).
+
+99 See 17 CFR 23.503(a)(2).
+
+100 The Commission received no comments on this particular issue.
+
+101 See ISDA/SIFMA Letter.
+
+102 See Proposing Release, 84 FR at 4625, n.70.
+
+103 The Commission also is amending existing Rule 15Fi-1 to add, as paragraph (h), the term “fully offsetting security-based swaps,” which is defined as “security-based swaps of equivalent terms where no net cash flow would be owed to either counterparty after the offset of payment obligations thereunder.” For consistency with the rules applicable to Swap Entities, this definition is substantively identical to the CFTC’s corresponding definition in 17 CFR 23.500(f), which we continue to believe is appropriately scoped for purposes of Rule 15Fi-4.
+
+104 See supra noand accompanying text.
+
+105 Notwithstanding the applicability of the requirements of Rule 15Fi-4, the Commission reminds any third parties performing compression or offset services to keep in mind any potential requirements under other provisions of the securities laws. For example, the Commission has stated that the provision of tear-up and compression services for security-based swaps would qualify these participants as clearing agencies and therefore trigger the statutory requirement to register as clearing agencies pursuant to Section 17A of the Exchange Act, absent exemptive relief (which the Commission provided on a conditional temporary basis in July 2011). See Clearing Services Exemptive Order, 76 FR at 39964.
+
+106 The corresponding CFTC rule is 17 CFR 23.503(c).
+
+107 The corresponding CFTC rule is 17 CFR 23.504. The structure of the CFTC rule, including the subsections, mirrors the structure of Rule 15Fi-5.
+
+108 Among other exceptions discussed below in Section II.C.5, Rule 15Fi-5 does not apply to security-based swap that is directly or indirectly, submitted to and cleared by a clearing agency registered pursuant to Section 17A of the Exchange Act or by a clearing agency that the Commission has exempted from registration by rule or order pursuant to Section 17A of the Exchange Act.
+
+109 For purposes of this requirement, the Commission views the term “senior officer” as covering only the most senior executives in the organization, such as a firm’s chief executive officer, chief financial officer, chief legal officer, chief compliance officer,
+
+110 See Proposing Release, 84 FR at 4633-35. The Commission stated its view that clarifying the counterparties’ reporting arrangements in advance of a transaction generally should prove beneficial to the OTC derivatives market due to the importance of ensuring that a security-based swap transaction is reported accurately and in a timely manner.
+
+111 See ISDA/SIFMA Letter.
+
+112 See id. In particular, ISDA and SIFMA noted that the proposed requirement could force institutions to “re-paper.” or enter into new documentation with clients, where there is potential for security-based swap reporting obligations to arise.
+
+113 See id. For example, ISDA and SIFMA stated that “Regulation SBSR establishes which parties to the trade have a reporting obligation without the need for any further
+
+114 See supra no.
+
+115 See 15 U.S.C. 78c-5(f). Consistent with the Commission’s goal of ensuring that these final rules are harmonized with the corresponding CFTC requirements wherever possible, the requirements in Rule 15Fi-5(b)(3) are identical to CFTC Rule 23.504(b)(3), other than a cross-reference in the latter to CFTC Rule 701 which, among other things, requires that a Swap Entity notify its counterparty to an uncleared swap transaction that the counterparty has the right to require that any initial margin the counterparty provides in connection with such transaction be segregated in accordance with the CFTC’s segregation requirements. On March 28, 2019, the CFTC amended certain parts of Rule 701, including by modifying the timing requirements applicable to the required notices. See Segregation of Assets Held as Collateral in Uncleared Swap Transactions, 84 FR 12894 (Apr. 3, 2019). In addition, the Commission has made technical edits to Rule
+
+116 See supra Section I.
+
+117 Also in furtherance of harmonizing these final rules with the corresponding CFTC requirements, we note that in adopting Title VII capital, margin, and segregation requirements in June 2019, the Commission crafted certain margin requirements, including rules regarding third-party custodian and netting or collateral agreements, such that existing agreements with counterparties entered into for purposes of the corresponding CFTC documentation rules will be sufficient for purposes of the Commission’s margin rules, if the agreements meet the requirements of the applicable Commission rules. See Capital, Margin, and Segregation Adopting Release, 84 FR at 43894, 43909, and 43928, n. 570. Nevertheless, the Commission encourages registrants or potential registrants who have concerns regarding the need to revise their existing documentation solely due to the operation of Rule 15Fi-5 to consult with the staff of the Commission.
+
+118 See 17 CFR 18a-3(c)(4) and (5). See also Capital, Margin, and Segregation Adopting Release, 84 FR at 43909, n. 334.
+
+119 See Capital, Margin, and Segregation Adopting Release, 84 FR at 43926.
+
+120 By contrast, the uncleared swap margin rules adopted by the CFTC and the prudential regulators do contain specific margin documentation requirements. See Capital, Margin, and Segregation Adopting Release, 84 FR at 43909, n. 335. However, CFTC staff issued an advisory on July 9, 2019 clarifying that the CFTC’s margin rules do not require documentation governing the posting, collection and custody of initial margin until the initial margin threshold amount exceeds $50 million. See CFTC Letter No. 19-16 (Jul. 9, 2019), available at: Similarly, the prudential regulators recently proposed amendments to their margin rules for uncleared swaps and security-based swaps that, among other things, would clarify that covered entities subject to those rules are not required to execute initial margin trading documentation with a counterparty prior to the time they are required to collect or post initial margin pursuant to the rule. See Margin and Capital Requirements for Covered Swap Entities, 84 FR 59970, 59977 (Nov. 7, 2019). Finally, BCBS and IOSCO issued a statement on March 5, 2019, also clarifying their recommended view that documentation should not be required if the bilateral initial margin amount does not exceed €50 million, and further noting that “[i]t is expected, however, that covered entities will act diligently when their exposures approach the threshold to ensure that the relevant arrangements needed are in place if the threshold is exceeded.” See BCBS/IOSCO statement on the final implementation phases of the Margin requirements for non-centrally cleared derivatives (Mar. 5, 2019), available at:
+
+121 See id.
+
+122 See 15 U.S.C. 78o-10(e). For the avoidance of doubt, the requirements in Rule 15Fi- 5(b)(4) are intended to facilitate agreement between an SBS Entity and its counterparty as to how they will determine the value of a security-based swap in order to, among other things, comply with the margin requirements promulgated by either the Commission or, with respect to an SBS Entity that is a bank, the applicable prudential regulator. These requirements are not intended in any way to supersede those underlying margin requirements.
+
+123 See 15 U.S.C. 78o-10(j).
+
+124 The corresponding definition in CFTC Rule 23.500(e) is referred to as a “financial entity.” We replaced the word “entity” with “counterparty” to avoid any confusion due to the fact that there are other definitions of “financial entity” within the Exchange Act and its implementing regulations. For example, term “financial entity” is used in Section 3C(g) of the Exchange Act for purposes of the statutory exception to the mandatory clearing requirement in Title VII. See 15 U.S.C. 78c-3(g)(3). Similarly, there is a definition of “financial entity” in Rule 3a67-6 under the Exchange Act, which is used for one of the tests for determining a person’s status under the definition of “major security- based swap participant” in Section 3(a)(67) of the Exchange Act. See 15 U.S.C. 78. Other than the different titles, we do not believe that there are any substantive differences between the CFTC’s definition of “financial entity” and the definition of “financial counterparty” in Rule 15Fi-1(g).
+
+125 The text of CFTC Rule 23.504(b)(4)(iv), which is the corresponding subsection under CFTC rules, provides that “[t]he parties may agree on changes or procedures for modifying or amending the documentation required by this paragraph at any time.” Rule 15Fi-5(b)(4)(iv) does not contain the phrase “required by this paragraph.” We view this to be solely a technical change and do not intend for it to represent a substantive deviation from the corresponding CFTC rule. Rather, the difference is intended to avoid any suggestion that the parties could amend the underlying requirements contained in Rule 15Fi-5(b)(4).
+
+126 See 12 U.S.C. 5382; 12 U.S.C. 5383.
+
+127 The term “financial company” is defined in 12 U.S.C. 5381(a)(11) to include any company (as defined in 12 U.S.C. 5381(a)(5)) that —
+
+128 Section 203 of the Dodd-Frank Act sets forth the process for designating a financial company as a “covered financial company.” In the case of a broker-dealer, or when a financial company’s largest U.S. subsidiary is a broker-dealer, Section 203(a)(1)(B) provides that the Federal Reserve Board and the Commission (in each case subject to the approval of a two-thirds majority of each agency’s members), in consultation with the FDIC, may, either on their own initiative or at the request of the Secretary of the U.S.
+
+129 See 12 U.S.C. 5384. Section 205(a) of the Dodd-Frank Act requires the FDIC, as the appointed receiver for any covered broker or dealer, to appoint SIPC as trustee for the liquidation. See 12 U.S.C. 5385(a).
+
+130 15 U.S.C. 78aaa et seq.
+
+131 11 U.S.C. 101 et seq.
+
+132 12 U.S.C. 1811 et seq.
+
+133 Specifically, Rule 15Fi-5(b)(5) requires that an SBS Entity’s policies and procedures require that the applicable security-based swap trading relationship documentation contain:
+
+134 The three year holding period for these records is contained in the applicable recordkeeping, reporting, and notification requirements for SBS Entities, as opposed to in Rule 15Fi-5(c) itself.
+
+135 See 17 CFR 23.504(c).
+
+136 See ISDA/SIFMA Letter.
+
+137 See Proposing Release, 84 at 4630 (referencing See Rule 2-01(c)(2) of Regulation S-X (Employment Relationships)).
+
+138 See id.
+
+139 See Proposing Release, 84 at 4630 n. 105. In the request for comment on this issue, we also asked commenters to identify and describe such potential structures. We did not receive any information responsive to that request.
+
+140 When the CFTC adopted a similar exception in 2012, it acknowledged the views of commenters that applying CFTC Rule 23.504 retroactively to existing swaps would be time consuming and costly for Swap Entities due to them needing to make amendments to existing documentation. See CFTC Risk Mitigation Adopting Release, 77 FR at 55950.
+
+141 As discussed in detail in Section II.F.1 of this release, the Commission also is amending Rules 17a-4 and 18a-6 under the Exchange Act to, among other things, require SBS Entities to retain all security-based swap trading relationship documentation with counterparties required to be created under Rule 15Fi-5. Because security-based swaps executed prior to the compliance date for Rule 15Fi-5 would be exempt from the underlying documentation requirement, any trading relationship documentation voluntarily entered into in respect of those transactions would not be deemed to have been created pursuant to Rule 15Fi-5.
+
+142 See supra noand accompanying text.
+
+143 The provisions in Rule 15Fi-5(a)(iii) to account for cleared anonymous transactions that are submitted for clearing, but ultimately not accepted, are not included in CFTC Rule
+
+144 See ISDA/SIFMA Letter.
+
+145 See Swaps Intended to be Cleared CFTC Letter No. 13-70, No-Action Relief: Swaps Intended to be Cleared (Nov. 15, 2013), available at: The position in CFTC Staff Letter 13-70 applies to four specific fact patterns set forth in the letter. Those fact patterns differ based on certain variables, including, among other things, (1) whether the Swap Entity knows the identity of its counterparty prior to execution of the swap, (2) whether the ITBC swap is executed on or subject to the rules of a swap execution facility or a designated contract market,
+
+146 In February 2011, the Commission proposed rules providing for the registration and other requirements applicable to SB SEFs. See Registration and Regulation of Security-Based Swap Execution Facilities, Exchange Act Release No. 63825 (Feb. 2, 2011), 76 FR 10948 (Feb. 28, 2011). The Commission has not yet adopted these rules.
+
+147 See Temporary Exemptions and Other Temporary Relief, Together with Information on Compliance Dates for New Provisions of the Securities Exchange Act of 1934 Applicable to Security-Based Swaps, Exchange Act Release No. 64678 (June 15, 2011), 76 FR 36287, 36292-93, 36306 (June 22, 2011).
+
+148 See id.
+
+149 Of course, to rely on this Commission position, the SBS Entity also would need to ensure that it remains in compliance with the other requirements of Rule 15Fi-5(a)(1)(iii), such as the requirement that the transaction be executed anonymously and that it be intended to be cleared and actually submitted for clearing.
+
+150 See Rules 17a-3(a)(31)(i), 18a-5(a)(18)(i), and 18a-5(b)(14)(i).
+
+151 See Rules 17a-3(a)(31)(ii), 18a-5(a)(18)(ii), and 18a-5(b)(14)(ii).
+
+152 See Rules 17a-3(a)(31)(iii), 18a-5(a)(18)(iii), and 18a-5(b)(14)(iii).
+
+153 See Rules 17a-3(a)(31)(i), 18a-5(a)(18)(i), and 18a-5(b)(14)(i).
+
+154 See Rules 17a-3(a)(31)(ii), 18a-5(a)(18)(ii), and 18a-5(b)(14)(ii).
+
+155 See Rules 17a-3(a)(31)(iii), 18a-5(a)(18)(iii), and 18a-5(b)(14)(iii).
+
+156 See Rules 17a-4(b)(1), 18a-6(b)(1)(i), and 18a-6(b)(2)(i).
+
+157 See Rules 17a-4(e)(11) and 18a-6(d)(4).
+
+158 See Rules 17a-4(e)(12)(i) and 18a-6(d)(5)(i).
+
+159 See Rules 17a-4(e)(12)(ii) and 18a-6(d)(5)(ii).
+
+160 See Rules 17a-4(e)(12)(iii) and 18a-6(d)(5)(iii).
+
+161 See 17 CFR 240.18a-10. Among other things, the SBS dealer must (1) be registered with the Commission as a stand-alone SBS dealer (i.e., not also registered with the Commission as a broker-dealer or an OTC derivatives dealer), (2) be registered with the CFTC as a swap dealer, and (3) not exceed certain thresholds with respect to its outstanding security-based swap positions. Those thresholds are designed to limit the availability of the alternative compliance mechanism to firms whose security-based swaps business is not a significant part of the security-based swap market and that are predominately engaged in a swaps business as compared to a security-based swaps business. See Capital, Margin, and Segregation Adopting Release, 84 FR at 43943-46.
+
+162 See Recordkeeping and Reporting Requirements for Security-Based Swap Dealers, Major Security-Based Swap Participants, and Broker-Dealers, Exchange Act Release No. 87005 (Sept. 19, 2019), 84 FR 68550 (Dec. 16, 2019) (“Recordkeeping and Reporting Adopting Release”).
+
+163 See Cross-Border Security-Based Swap Activities; Re-Proposal of Regulation SBSR and Certain Rules and Forms Relating to the Registration of Security-Based Swap Dealers and Major Security-Based Swap Participants, Exchange Act Release No. 69490 (May 1, 2013), 78 FR 30968 (May 23, 2013) (“Cross-Border Proposing Release”) (discussing joint rulemaking to further define various Title VII terms).
+
+164 See Trade Acknowledgment and Verification Adopting Release, 81 FR at 39825, n.191 (citing Cross-Border Proposing Release, 78 FR at 30986).
+
+165 See Cross-Border Proposing Release, 78 FR at 30986. The Proposing Release also contains a more detailed background discussion of the Commission’s taxonomy for classifying requirements under Section 15F of the Exchange Act as applying at either the transaction-level or at the entity-level. See Proposing Release, 84 FR at 4636-4637 (citing Cross-Border Proposing Release, 78 FR at 31009-10).
+
+166 See Cross-Border Proposing Release, 78 FR at 31013. The Commission subsequently adopted its proposed cross-border interpretation of the trade acknowledgment and verification rules as entity-level requirements in connection with adopting those underlying rules in 2016. See Trade Acknowledgment and Verification Adopting Release, 81 FR at 39826.
+
+167 See Proposing Release, 84 FR at 4637.
+
+168 See supra noand accompanying text.
+
+169 See supra no- and accompanying text.
+
+170 We recognize that the CFTC has taken a different position with regard to corresponding requirements pursuant to the CEA, classifying them as what the CFTC has termed “Category A” transaction-level requirements. See CFTC Interpretive Guidance and Policy Statement Regarding Compliance With Certain Swap Regulations, 78 FR 45292, 45334 (Jul. 26, 2013).
+
+171 See Cross-Border Proposing Release, 78 FR at 30968, 31085.
+
+172 See Business Conduct Standards for Security-Based Swap Dealers and Major Security- Based Swap Participants, Release No. 77617 (Apr. 14, 2016), 81 FR 29960 (“Business
+
+173 See Trade Acknowledgment and Verification Adopting Release, 81 FR at 39827-28.
+
+174 See Capital, Margin, and Segregation Adopting Release, 84 FR at 43948-57.
+
+175 See Recordkeeping and Reporting Adopting Release, 84 FR at 68597-99.
+
+176 See Proposing Release, 84 FR at 4638. We did not propose rules making substituted compliance available specifically with respect to the amendments to Rules 18a-5 and 18a-6, which specify the recordkeeping and reporting requirements applicable to SBS Entities. This is because the Commission has also adopted amendments to Rule 3a71-6 with respect to Title VII recordkeeping and reporting requirements in connection with adopting those underlying provisions. See Recordkeeping and Reporting Adopting
+
+177 See ISDA/SIFMA Letter.
+
+178 See id.
+
+179 See 17 CFR 240.3a71-6(a)(2)(i) and (ii).
+
+180 In the Business Conduct Standards Adopting Release, the Commission stated that Rule 3a71-6 provides that substituted compliance is potentially available in connection with the business conduct requirements for registered major SBS participants as well as for registered SBS dealers. The Commission further explained that such decision reflects the fact that the business conduct standards apply to registered major SBS participants as well as to registered SBS dealers, and recognizes that the market efficiency goals that underpin substituted compliance also can apply when substituted compliance is granted to registered major SBS participants. See Business Conduct Standards Adopting Release, 81 FR at 30076. This same reasoning applies with respect to the Commission’s portfolio reconciliation, portfolio compression, and trading relationship documentation requirements and Rule 3a71-6, as amended, provides that substituted compliance is also potentially available to foreign major SBS participants (in addition to foreign SBS dealers) with respect to Section 15F(i) of the Exchange Act and Rules 15Fi-3, 15Fi-4, and 15Fi-5, as applicable.
+
+181 In the Proposing Release, these requirements would have been designated as paragraph (d)(3) of Rule 3a71-6. Because of subsequent amendments to that rule, however, the
+
+182 The discussions in the Business Conduct Standards Adopting Release, including those regarding consideration of supervisory and enforcement practices (see Business Conduct Standards Adopting Release, 81 FR at 30079), regarding certain multi-jurisdictional issues (see id. at 30079-80), and regarding application procedures (see id. at 30080-81) are applicable to the portfolio reconciliation, portfolio compression, and trading relationship documentation requirements.
+
+183 See generally Business Conduct Standards Adopting Release, 81 FR at 30073-74 (addressing the basis for making substituted compliance available in the context of the business conduct requirements).
+
+184 See paragraph (d) of Rule 3a71-6, as adopted. Paragraph (a)(1) of the rule provides that the Commission may, conditionally or unconditionally, by order, make a determination with respect to a foreign financial regulatory system that compliance with specified requirements under the foreign financial system by an SBS dealer and/or by a registered major SBS swap participant, or class thereof, may satisfy the corresponding requirements identified in paragraph (d) of the rule that would otherwise apply.
+
+185 See Business Conduct Standards Adopting Release, 81 FR at 30078-79. See also Trade Acknowledgment and Verification Adopting Release, 81 FR at 39828.
+
+186 See Cross-Border Amendments Adopting Release, supra note Moreover, the Registration Compliance Date also will be the compliance date for: (1) nonbank SBS Entity capital and margin requirements; (2) SBS Entity participant segregation
+
+187 As explained in the Cross-Border Amendments Adopting Release, the effective date of those final rules will be the later of March 1, 2020, or 60 days following publication of the Cross-Border Amendments Adopting Release in the Federal Register. See Cross- Border Amendments Adopting Release, supra not
+
+188 The Commission has taken a similar approach in connection with other recent amendments to Rule 3a71-6. See, e.g., Recordkeeping and Reporting Adopting Release, 84 FR at 68602.
+
+189 44 U.S.C. 3501 et seq.
+
+190 See 44 U.S.C. 3507(d); see also 5 CFR 1320.11.
+
+191 Rule 15Fi-3 does not apply to any security-based swap that has a clearing agency as a direct counterparty.
+
+192 See supra Section II.B.1.
+
+193 See supra Sections II.B.2 and II.B.4.
+
+194 See supra Sections II.B.3 and II.B.4.
+
+195 See supra Sections II.B.2 and II.B.4.
+
+196 See supra Section II.B.5. Rule 15Fi-3(c) also requires SBS Entities to notify the Commission, in a form and manner acceptable to the Commission, and any applicable prudential regulator, if the amount of any security-based swap valuation dispute that was the subject of a previous notice increases or decreases by more than $20,000,000 (or its equivalent in any other currency), at either the transaction or portfolio level. Each amended notice is required to be provided to the Commission and any applicable prudential regulator no later than the last business day of the calendar month in which the applicable security-based swap valuation dispute increases or decreases by the applicable dispute amount.
+
+197 See supra Section II.C.1.
+
+198 See supra Section II.C.2.
+
+199 See supra Section II.C.1 and II.C.2.
+
+200 See supra Section II.C.1. Rule 15Fi-5 also requires that the security-based swap trading relationship documentation address, among other things, terms addressing payment obligations, netting of payments, events of default or other termination events, calculation and netting of obligations upon termination, transfer of rights and obligations, governing law, valuation and dispute resolution.
+
+201 See id.
+
+202 See supra Section II.C.2.
+
+203 See supra Section II.C.3.
+
+204 See supra Section I.D.5.
+
+205 17 CFR 240.17a-3; 17 CFR 240.17a-4.
+
+206 See supra Section I.F.1.
+
+207 See supra Sections IV.B.1 and IV.B.2.
+
+208 See Recordkeeping and Reporting Adopting Release, 84 FR at 68607-09.
+
+209 See id. See also Capital, Margin, and Segregation Adopting Release, 84 FR at 43960; Trade Acknowledgement and Verification Adopting Release, 81 FR at 39830; and SBS Entity Registration Adopting Release, 80 FR at 48990.
+
+210 See id.
+
+211 See Proposing Release, 84 FR at 4643.
+
+212 See Recordkeeping and Reporting Adopting Release, 84 FR at 68607-09. This figure includes 19 SBS dealers and one major SBS participant.
+
+213 See Cross-Border Application Proposing Release, 84 FR at 24253. See also Recordkeeping and Reporting Adopting Release, 84 FR at 68607-09; and Capital, Margin, and Segregation Adopting Release, 84 FR at 43960-61.
+
+214 As previously noted, the Commission further believes that there may up to five major SBS participants. See supraand accompanying text. It is possible that some subset of those entities will be non-U.S. major SBS participants that will seek to rely on substituted compliance in connection with the applicable portfolio reconciliation, portfolio compression, and written trading relationship documentation requirements.
+
+215 These estimates are consistent with those used by the CFTC in connection with its portfolio reconciliation rule. See Confirmation, Portfolio Reconciliation, and Portfolio Compression Requirements for Swap Dealers and Major Swap Participants, 75 FR 81519, 81528 (Dec. 28, 2010).
+
+216 This estimate uses 252 business days for purposes of the daily portfolio reconciliation requirement, which is consistent with the definition of “business day” in Rule 15Fi-1(b).
+
+217 The Commission recognizes that some respondents may choose to engage a third-party vendor to conduct portfolio reconciliations. For simplicity, however, the Commission’s burden estimate is based upon SBS Entities conducting these activities internally, without the use of third-party vendors. The Commission requested, but did not receive, comment on this approach, including regarding the likelihood and cost of using third-party providers. Accordingly, we are using the same estimates as included in the proposal. See Proposing Release, 84 FR at 4642, n. 176.
+
+218 Because the 30 minute estimate is for the entire reconciliation process, without respect to how that time is allocated between the two parties, to avoid double-counting we have divided it by one-half in the context of security-based swap portfolios between two SBS Entities, resulting in an estimate of 15 minutes per reconciliation per counterparty for those portfolios.
+
+219 The Commission’s estimate for the hourly burden for preparing these policies and procedures is discussed below.
+
+220 In the Economic Analysis, the Commission estimates that there are approximately 13,137 market participants in the security-based swap market. See infra Section VI.B.1.c (Table 2). Subtracting the estimated 55 SBS Entities from this figure results in an estimated 13,082 non-SBS Entities.
+
+221 This estimate is based upon the assumption that each non-SBS Entity market participant will do business with, on average, between one or two SBS Entities and is calculated as follows: ((13,082 non-SBS Entity market participants/55 SBS Entities) x 1.5 SBS Entities
+
+222 Accordingly, of the estimated 350 security-based swap portfolios that an SBS Entity maintains with non-SBS Entities, 90% (or 315) will require only one portfolio reconciliation each year, and 10% (or 35) will require quarterly portfolio reconciliations, resulting in a total of 455 portfolio reconciliations per SBS Entity per year.
+
+223 This figure is identical to the estimate used for reconciliations between two SBS Entities (before dividing by one-half to avoid double-counting) and is consistent with the estimate used by the CFTC, which used an estimate of six minutes (or .10 hours) in connection with its portfolio reconciliation requirements. See supra note and and accompanying text.
+
+224 See supra noand accompanying text.
+
+225 This estimate is based on Commission staff discussions with market participants and is calculated as follows: [((Compliance Attorney at 40 hours) + (Director of Compliance at 20 hours) + (Deputy General Counsel at 20 hours))] = 80 hours per SBS Entity. See Trade Acknowledgment and Verification Adopting Release, 81 FR at 39831, n. 242.
+
+226 Although dually-registered SBS Entities would technically need to revise and maintain their policies and procedures to ensure compliance with both the Commission’s and CFTC’s rules, we have decided to conservatively assume that all of the estimated hours would be incurred in connection with compliance with the collection of information associated with Rule 15Fi-3.
+
+227 This estimate is based on Commission staff discussions with market participants and is calculated as follows: [((Compliance Attorney at 20 hours) + (Director of Compliance at 10 hours) + (General Counsel at 10 hours))] = 40 hours per SBS Entity. See Trade Acknowledgment and Verification Adopting Release, 81 FR at 39831, n. 243.
+
+228 See supra no
+
+229 See Swap Trading Relationship Documentation Requirements for Swap Dealers and Major Swap Participants, 76 FR 6715, 6723 (Feb. 8, 2011).
+
+230 Rule 15Fi-3(a)(1) and 15Fi-3(b)(1) also require an SBS Entity to agree in writing with each of its counterparties on the terms of the portfolio reconciliation including, if applicable, agreement on the selection of any third party service provider who may be performing the reconciliation. The Commission expects SBS Entities to undertake this agreement as part of the written trading relationship documentation each is required to enter into with its counterparties as a result of Rule 15Fi-5. Thus, the estimate here does not account for this burden, which is instead assumed to form part of the burden of complying with Rule 15Fi-5.
+
+231 See supra no.
+
+232 Similar to our estimates in the context of the portfolio reconciliation requirements, because the five minute estimate is for the entire bilateral offset process, without respect to how that time is allocated between the two parties, to avoid double-counting we have divided it by one-half in the context of security-based swap portfolios between two SBS Entities, resulting in an estimate of 2.5 minutes per bilateral offset for those portfolios.
+
+233 Again, we have divided the 15 minute estimate to complete the bilateral compression exercise by one-half in the context of security-based swap portfolios between two SBS Entities, resulting in an estimate of 7.5 minutes per bilateral compression for those portfolios.
+
+234 As was the case in calculating the PRA estimates for the portfolio reconciliation and portfolio compression requirements, because the 30 hours estimate is for the entire process of negotiating and executing written trading relationship documentation, without respect to how that time is allocated between the two parties, to avoid double-counting we have divided it by one-half in the context of counterparties that are also SBS Entities, resulting in an estimate of 15 hours to negotiate and execute such documentation.
+
+235 See supra no.
+
+236 See Business Conduct Standards Adopting Release, 81 FR at 30097, n. 1582.
+
+237 See Business Conduct Standards Adopting Release, 81 FR at 30097, n. 1583.
+
+238 See 17 CFR 200.83.
+
+239 See, e.g., 5 U.S.C. 552 et seq.; 15 U.S.C. 78x (governing the public availability of information obtained by the Commission).
+
+240 See 17 CFR 200.83; 17 CFR 240.24b-2; see also Application of “Security-Based Swap Dealer” and “Major Security-Based Swap Participant” Definitions to Cross-Border Security-Based Swap Activities, Exchange Act Release No. 72472 (June 25, 2014), 79 FR 47278, 47359 (Aug. 12, 2014) (“Cross-Border Adopting Release”).
+
+241 15 U.S.C. § 78c(f).
+
+242 15 U.S.C. § 78w(a)(2).
+
+243 See id.
+
+244 See Lessons of the Financial Crisis for Future Regulation of Financial Institutions, at 3- 4, IMF Policy Paper (Feb. 4, 2009), available at: ; see also Sewall Chan, Financial Crisis Was Avoidable, Inquiry Finds, N.Y. TIMES (Jan. 25, 2011), available at: .
+
+245 See Linda Sandler, Lehman Derivatives Records a ‘Mess,’ Barclays Executive Says, BLOOMBERG (Aug. 30, 2010), available at: .
+
+246 See Satyajit Das, In the Matter of Lehman Brothers, 59 WILMOTT 20-29 (May 2012). Disagreement over CDO valuation between AIG and its counterparties was also an issue around the same time. See supra not and accompanying text.
+
+247 See PriceWaterhouseCoopers, Lehman Brothers’ Bankruptcy: Lessons learned for the survivors, Informational presentation for clients, (Aug. 2009), at 12–24, available at: .
+
+248 See The President’s Working Group on Financial Markets, Policy Statements on Financial Market Developments, (Mar. 2008) (“PWG Report”), available at:
+
+249 The rules also (1) address the potential availability of substituted compliance in connection with those portfolio reconciliation, portfolio compression, and trading relationship documentation requirements and (2) require SBS Entities to make and keep records demonstrating compliance with the new risk mitigation requirements (which are reflected as amendments to the Commission’s recently adopted security-based swap recordkeeping rules).
+
+250 See supra no.
+
+251 See supra no.
+
+252 See supra no. See also supra note and associated text.
+
+253 See supra noand Section II.D.
+
+254 In prior releases, the Commission has examined data for other time periods. For example, in the Business Conduct Standards Adopting Release, the Commission presented an analysis of TIW data for November 2006 through December 2014. While the exact numbers of various groups of transacting agents and account holders in that analysis differ from the figures reported in this section (for a longer time period), we do not observe significant structural differences in market participation. Compare 81 FR at 30102 (Tables 1 and 2) with Tables 1 and 2 below.
+
+255 While other repositories may collect data on transactions in total return swaps on equity and debt, we do not currently have access to such data for these products (or other products that are security-based swaps). Additionally, the Commission explains below that data related to single-name CDS provides reasonably comprehensive information for the purpose of this analysis.
+
+256 The global notional amount outstanding represents the total face amount used to calculate payments under outstanding contracts. The gross market value is the cost of replacing all open contracts at current market prices.
+
+257 See BIS, Semi-annual OTC derivatives statistics at December 2017, Table 10.1, available at: (last accessed September 24, 2019).
+
+258 See id.
+
+259 These totals include swaps and security-based swaps, as well as products that are excluded from the definition of “swap,” such as certain equity forwards. See OTC, Equity-Linked Derivatives Statistics, Table D8, available at: (last accessed September 24, 2019). For the purposes of this analysis, the Commission assumes that multi-name index CDS are not narrow-based index CDS and therefore, do not fall within the security-based swap definition. See 15 U.S.C. 78c(a)(68)(A). See also Further Definition of “Swap,” “Security-Based Swap,” and “Security-Based Swap Agreement”; Mixed Swaps; Security-Based Swap Agreement Recordkeeping, 77 FR 48208. The Commission also assumes that all instruments reported as equity forwards and swaps are security-based
+
+260 Following publication of the Warehouse Trust Guidance on CDS data access, TIW surveyed market participants, asking for the physical address associated with each of their accounts (i.e., where the account is organized as a legal entity). This physical address is designated the registered office location by TIW. When an account reports a registered office location, we have assumed that the registered office location reflects the place of domicile for the fund or account. When an account does not report a registered office location, we have assumed that the settlement country reported by the investment adviser or parent entity to the fund or account is the place of domicile. Thus, for purposes of this analysis, the Commission has classified accounts as “U.S. counterparties” when they have reported a registered office location in the United States. The Commission notes, however, that this classification is not necessarily identical in all cases to the definition of U.S. person under Rule 3a71–3(a)(4).
+
+261 The challenges the Commission faces in estimating measures of current market activity stem, in part, from the absence of comprehensive reporting requirements for security- based swap market participants. The Commission has adopted rules regarding trade reporting, data elements, and public reporting for security-based swaps that are designed to, when fully implemented, provide the Commission with additional measures of market activity that will allow us to better understand and monitor activity in the security-based swap market. See Regulation SBSR Adopting Release, 81 FR at 53545.
+
+262 See, e.g., Registration Adopting Release, 80 FR at 49000.
+
+263 The Commission staff analysis of DTCC Derivatives Repository Limited Trade Information Warehouse transaction records indicates that approximately 99% of single- name CDS price-forming transactions in 2017 involved an ISDA-recognized dealer.
+
+264 Many dealer entities and financial groups transact through numerous accounts. Given that individual accounts may transact with hundreds of counterparties, the Commission may infer that entities and financial groups may transact with at least as many counterparties as the largest of their accounts.
+
+265 These 2,110 entities, which are presented in more detail in Table 1, infra, include all DTCC-defined “firms” shown in TIW as transaction counterparties that report at least one transaction to TIW as of December 2017. The staff in the Division of Economic and Risk Analysis classified these firms, which are shown as transaction counterparties, by machine matching names to known third-party databases and by manual classification. See, e.g., Security-Based Swap Transactions Connected With a Non-U.S. Person’s Dealing Activity That Are Arranged, Negotiated, or Executed by Personnel Located in a
+
+266 See 15 U.S.C. 80b1–80b21. Transacting agents participate directly in the security-based swap market, without relying on an intermediary, on behalf of principals. For example, a university endowment may hold a position in a security-based swap that is established by an investment adviser that transacts on the endowment’s behalf. In this case, the university endowment is a principal that uses the investment adviser as its transacting agent.
+
+267 For the purpose of this analysis, the ISDA-recognized dealers are those identified by ISDA as belonging to the G14 or G16 dealer group during the period: JP Morgan Chase
+
+268 “Accounts” as defined in the TIW context are not equivalent to “accounts” in the definition of “U.S. person” provided by Rule 3a71-3(a)(4)(i)(C) under the Exchange Act. They also do not necessarily represent separate legal persons. One entity or legal person may have multiple accounts. For example, a bank may have one DTCC account for its
+
+269 Unregistered investment advisers include all investment advisers not registered under the Investment Advisers Act and may include investment advisers registered with a state or a foreign authority as well as investment advisers that are exempt reporting advisers under Section 203(l) or 203(m) of the Investment Advisers Act.
+
+270 For the purposes of this discussion, “private fund” encompasses various unregistered pooled investment vehicles, including hedge funds, private equity funds, and venture capital funds. There remain over 5,800 DTCC accounts unclassified by type. Although unclassified, each account was manually reviewed to verify that it was not likely to be a special entity within the meaning of the Dodd-Frank Act and instead was likely to be an entity such as a corporation, an insurance company, or a bank.
+
+271 This column reflects the number of participants who are also trading for their own accounts.
+
+272 While other repositories may collect data on transactions in total return swaps on equity and debt, we do not currently have access to such data for these products (or other products that are security-based swaps). In the Cross-Border Proposing Release, we explained that we believed that data related to single-name CDS was reasonable for purposes of this analysis; such transactions appear to constitute roughly 82% of the security-based swap market as measured on a notional basis. See Cross-Border Proposing Release, 78 FR at 31120, n. 1301. None of the commenters to that release disputed these assumptions, and we therefore continue to believe that, although the BIS data reflect the global OTC derivatives market, and not just the U.S. market, these ratios are an adequate representation of the U.S. market.
+
+273 For the purposes of this analysis, we estimate there were approximately 1.53 million single-name CDS transactions in 2017, of which approximately 1.04 million were transactions with a clearing agency as a counterparty. In addition to CDS, security-based swap products include equity swaps, such as total return swaps on single names and swaps based on narrow-based security indices. The Commission currently lacks comprehensive data on equity swaps, including data on transaction volumes and notional amounts. While there were more than 1.53 million security-based swap transactions in 2017, we do not currently have sufficient information to precisely identify the number of transactions beyond those that were single-name CDS. However, while recognizing that average notional transaction amounts for equity and multi-name CDS may differ from average notional transaction amounts for CDS, our estimate (using data from 2015) that single-name CDS constitute roughly 82% of the security-based swap market implies that there were approximately 337,000 security-based swap transactions in 2017 in addition to the approximately 1.53 million single-name CDS transactions we identify in the DTCC- TIW data, or 1.87 million total security-based swap transactions. Note that our estimate that single-name CDS constitutes roughly 82% of the security-based swap market is based on notional transaction amounts rather than transaction counts; in using this figure to estimate the total number of security-based swap transactions, we have assumed that
+
+274 For the purpose of this analysis, the reference to “ISDA-recognized dealers” means those dealers identified by ISDA as belonging to the G14 or G16 dealer group during the period. This group includes: JP Morgan Chase NA (and Bear Stearns), Morgan Stanley, Bank of America NA (and Merrill Lynch), Goldman Sachs, Deutsche Bank AG, Barclays Capital, Citigroup, UBS, Credit Suisse AG, RBS Group, BNP Paribas, HSBC Bank, Lehman Brothers, Société Générale, Credit Agricole, Wells Fargo and Nomura. See, e.g., See also Aldasoro, Inaki, and Torsten Ehlers, 2018, The Credit Default Swap Market: What a Difference a Decade Makes, BIS QUARTERLY REVIEW June 2018, Graph 2, available at:
+
+275 See supra Section VI.C for current estimates of the number of SBS Entities.
+
+276 We note that DTCC-TIW’s determinations as to the domicile of a counterparty or reference entity may not reflect our definition of “U.S. person” in all cases. Our definition of “U.S. person” follows the definition used in the Commission’s June 2014 release where it, among other things, adopted rules and guidance regarding the application of the certain Title VII definitions in the cross-border context. See Cross- Border Adopting Release, 79 FR at 47303.
+
+277 The challenges we face in estimating measures of current market activity stems, in part, from the absence of comprehensive reporting requirements for security-based swap market participants. The Commission has adopted rules regarding trade reporting, data elements, and public reporting for security-based swaps that are designed to, when fully implemented, provide us with appropriate measures of market activity . See Regulation SBSR Adopting Release, 80 FR at 14699-700.
+
+278 Although the Commission does not have information on the number of valuation discrepancies between counterparties in SBS markets, a June 2017 survey on dealer financing noted that two-fifths of survey respondents reported that the volume of valuation disputes increased somewhat over the September 2016 to June 2017 period. Small net fractions of dealers responded that the volume, duration, and persistence of mark and collateral disputes had increased in OTC derivatives, especially in foreign exchange and interest rate contracts. Three-fifths of dealers responded that, on average, it takes more than two days but less than a week to resolve a mark and collateral dispute on VM. One-third indicated two days or fewer. See Yesol Huh, Division of Research and Statistics, Federal Reserve Board, The June 2017 Senior Credit Officer Opinion Survey on Dealer Financing Terms, available at: .
+
+279 See 17 CFR 23.502 (Portfolio reconciliation).
+
+280 See, e.g., supra Section II.A for a discussion of similarities and differences in approach to the definition of material terms that must be reconciled.
+
+281 See ISDA, 2013 Interim Updated Best Practices for the OTC Derivatives Collateral Process, Best Practices 10.1 – 10.6 (Oct. 23, 2013), available at: (“ISDA Collateral Best Practices”).
+
+282 The ISDA Collateral Best Practices include citations to both the CFTC and EU portfolio reconciliation rules and notes that while broadly similar do include some differences. ISDA states that the “best practices” are intended to augment those rules by addressing points of practical significance that are not directly regulated. See ISDA Collateral Best Practices, pages 19-20.
+
+283 See ISDA Collateral Best Practices, supra Best Practice 8.4.
+
+284 The data available to the Commission with respect to portfolio compression does not allow for enumeration of the actual participants which participate in such practices; however, inferences regarding the scope can be drawn from the magnitude of the reduction in the gross notional value of the credit derivatives.
+
+285 See DTCC Press Release, DTCC Trade Information Warehouse Completes Record Year Processing OTC Credit Derivatives, (Mar. 11, 2010). Notably, beginning in August 2008, ISDA encouraged compression exercises for CDS by selecting the service provider and defining the terms of service.
+
+286 See Aldasoro, Inaki, and Torsten Ehlers, 2018, The Credit Default Swap Market: What a Difference a Decade Makes, BIS QUARTERLY REVIEW June 2018, Graph 1 panel 2 and accompanying text, available at: In March of 2010, the staff of the FRBNY estimated that since 2008 nearly $50 trillion gross notional of CDS positions has been eliminated through portfolio compression. See FRBNY OTC Derivatives Report, supra note .
+
+287 Id.
+
+288 The chart below includes only gross and net notional of single-name security-based swaps. The inclusion of index security-based swaps could expand potential compression opportunities available to SBS Entities.
+
+289 The result is likely driven by banks and securities firms. See Aldasoro, Inaki, and Torsten Ehlers, 2018, supra, Graph 5.
+
+290 See Trade Acknowledgment and Verification Adopting Release, 81 FR at 39833.
+
+291 See supra Section II.A.
+
+292 The Commission does not expect that this effect will extend to major SBS participants, which are by definition the largest non-dealer participants in the security-based swap market. As described in the economic baseline, out of more than 4,000 security-based swap market participants, we expect at most five to register as major SBS participants. These entities maintain substantial positions in security-based swaps, as defined in the Intermediary Definitions Adopting Release, and the Commission expects these entities have sufficient resources and infrastructure to comply with portfolio reconciliation and documentation requirements.
+
+293 See ISDA Collateral Best Practices, supra Section 10.
+
+294 The lack of liquidity in markets for mortgage-backed securities led to wide disparities in the valuation of CDS referencing mortgage-backed securities (especially collateralized debt obligations). Such wide disparities led to large collateral calls from dealers on AIG, hastening its downfall. See CBS News, “Calling AIG? Internal Docs Reveal Company Silent About Dozens of Collateral Calls,” June 23, 2009, available at: See also Financial Crisis Inquiry Commission, The Financial Crisis Inquiry Report: Final Report of the National Commission on the Causes of the Financial and Economic Crisis in the United States, Chapter 8, available at:
+
+295 Pursuant to Rule 15Fi-3(d), the new requirements regarding portfolio reconciliation would not apply to a clearing transaction (i.e., a security-based swap that is, directly or indirectly, submitted to and cleared by a clearing agency registered pursuant to Section 17A of the Act (15 U.S.C. 78q-1) or by a clearing agency that the Commission has exempted from registration by rule or order). See supra Section II.A.6.
+
+296 See Rule 15Fi-3(a).
+
+297 15 U.S.C. § 78o-10(e).
+
+298 This 10% threshold would apply on a transaction-by-transaction basis, and not on a portfolio level.
+
+299 See Rule 15Fi-3(b).
+
+300 Similar to the requirement in paragraph (a) of the rule for portfolio reconciliation with counterparties that are either SBS dealers or major SBS participants, Rule 15Fi-3(b)(4) provides that a difference between the lower valuation and the higher valuation of less than 10% of the higher valuation need not be deemed a discrepancy for purposes of that paragraph. See supra noand accompanying text (discussing the 10% threshold in the context of Rule 15Fi-3(a)(5)).
+
+301 See supra Section II.A.5. Each amended notice is required to be provided to the Commission and any applicable prudential regulator no later than the last business day of the calendar month in which the applicable security-based swap valuation dispute increases or decreases by the applicable dispute amount.
+
+302 See supra no.
+
+303 See supra no.
+
+304 See supra Section II.A.
+
+305 See SDR Adopting Release, 80 FR at 14528-48, for a discussion of the expected economic benefits accurate SBS data held at SDRs.
+
+306 See Rule 15Fi-1(i)(1) (referencing 17 CFR 242.901).
+
+307 This estimate is based on an estimate supplied by ISDA to the CFTC in response to their proposed portfolio reconciliation rule. See CFTC Risk Mitigation Adopting Release, 77 FR at 55952-53.
+
+308 See Letter from Per Sjöberg, Executive Vice President, TriOptima AB to the CFTC, dated Feb. 28, 2011 at 2, available at: .
+
+309 See supra no-and accompanying text.
+
+310 In the Proposing Release, the Commission estimated that of the 55 entities that may register with the Commission as SBS Entities, approximately 35 will be dually-registered with the CFTC as Swap Entities. In a more recent release, however, the Commission updated that estimate, such that we now believe that approximately 20 SBS Entities will also be registered with the CFTC as Swap Entities. See supra Section VI.C and references therein. Accordingly, we are using the updated number for calculating the burdens pursuant to Rule 15Fi-3, 15Fi-4, and 15Fi-5.
+
+311 The hourly rates for internal professionals used throughout Sections VII.C.2.c, VII.C.3.c, and VII.C.4.c of the release are taken from SIFMA’s Management & Professional Earnings in the Securities Industry 2013, modified to account for an 1800-hour work-year
+
+312 This estimate is based on the following: [(Sr. Programmer (80 hours) X $337 per hour)+(Sr. Systems Analyst (80 hours) X $289 per hour)+(Compliance Manager (10 hours) X $315 per hour)+(Director of Compliance (5 hours) X $496 per hour)+(Compliance Attorney (20 hours) X $372 per hour)] = $63,150 per SBS Entity, or ($63,150 X 35 SBS Entities) = $2,210,250 in aggregate.
+
+313 See supra noand associated text.
+
+314 Each SBS Entity is anticipated to have counterparty relationships with approximately one-third of the other SBS market participants (1/3 X 55 = 18.333), which is rounded to 18 participants. Of those counterparty relationships, two are expected to have portfolios in excess of 500 positions, which would need to be reconciled daily (252 trading days per year), four would have between 50 and 500 positions, which would need to be reconciled weekly (52 weeks per year), and the remaining 12 would have less than 50 positions, which would need to be reconciled quarterly (four times per year). The Commission estimates that each portfolio reconciliation would require 30 minutes, 15 minutes per counterparty, through an automated system, thus the total anticipated reconciliation time would be [(2 counterparties X 252 trading days X 0.25 hours) + (4 counterparties X 52 weeks X 0.25 hours) + (12 counterparties X 4 quarters X 0.25 hours)] = 190 hours per SBS Entity, or (190 X 55 SBS Entities) = 10,450 hours in aggregate. See Section VI.D.1.
+
+315 There are anticipated to be 13,137 total SBS counterparties, of which 55 are registered SBS Entities, leaving 13,082 non-SBS market participants. See supra not. The Commission estimates that each SBS Entity will transact with approximately 350 of these non-registered participants. Of those 350 counterparties, 35 are expected to have portfolio positions in excess of 100 positions, which would require quarterly reconciliations, while the remaining 315 are expected to have positions of less than 100
+
+316 This figure has been updated from that in the proposing release due to the updated estimate of the number of SBS Entities that will be dually registered with the CFTC and updates to hourly rates to account for inflation over the period. See supra and supra note .
+
+317 The estimate is based on the following: [((Compliance Attorney (30 minutes) at $372 per hour)+((Director of Compliance (15 minutes) at $496 per hour)+((Deputy General Counsel (15 minutes) at $607 per hour)] = $461.75 per hour per SBS Entity or ($461.75 per hour x 20 SBS dually-registered Entities) = $9,235.
+
+318 The estimate is based on the following: [((Compliance Attorney (40 hours) at $372 per hour)+((Director of Compliance (20 hours) at $496 per hour)+((Deputy General Counsel (20 hours) at $607 per hour)] = $36,940 per SBS Entity or ($36,940 x 35 SBS Entities that are not dually-registered) = $1,292,900 in aggregate.
+
+319 The estimate is based on the following: [((Compliance Attorney (20 hours) at $372 per hour)+((Director of Compliance (10 hours) at $496 per hour)+((Deputy General Counsel (10 hours) at $607 per hour)] = $18,470 per SBS Entity or ($18,470 x 55 SBS Entities) =
+
+320 See 17 CFR § 23.502 (portfolio reconciliation).
+
+321 The estimate is based on the following: [Compliance Attorney (30 hours) at $372 per hour] = $11,160 per entity x 55 SBS entities = $613,800. This estimate is larger than that provided in the proposal because of the increase in the estimate of the number of hours to file notices and amendments. See supra Section VI.D.3.
+
+322 See supra Section II.A.
+
+323 Currently, there is no regulatory requirement in the United States to clear security-based swaps. As of December 2015, approximately 56% of the total volume of new trade activity in single-name security-based swap products had been cleared through ICE Clear Credit. Further, approximately 79% of index CDS transactions were centrally cleared as of December 2015 (see ); therefore, single-name security-based swaps potentially could be cleared at a similar rate.
+
+324 See supra no.
+
+325 See Proposing Release at 4617-4618.
+
+326 Rule 901 (17 CFR 242.901) is part of Regulation SBSR, which governs the reporting to registered SDRs of security-based swap data and public dissemination by registered SDRs of a subset of that data. See 17 CFR 242.900 to 242.909.
+
+327 See supra Section II.A.1.
+
+328 See id.
+
+329 See supra Section II.A.5. Each amended notice is required to be provided to the Commission and any applicable prudential regulator no later than the last business day of the calendar month in which the applicable security-based swap valuation dispute increases or decreases by the applicable dispute amount.
+
+330 See supra Section II.A.6.
+
+331 See id.
+
+332 Specifically, CFTC Rule 23.502(c) provides that “[n]othing in this section shall apply to a swap that is cleared by a derivatives clearing organization.” 17 CFR 23.502(d).
+
+333 See supra Section II.A for a discussion of the proposed reconciliation rules and the verification of transaction data by SDRs. See also supra not for a discussion of differences between CFTC and Commission requirements concerning third party reconciliation.
+
+334 See .
+
+335 See Rules 15Fi-4(a)(2) and (3).
+
+336 See Rule 15Fi-4(b).
+
+337 For example, in 2008, the PWG identified frequent portfolio compression of outstanding trades as a key policy objective in the effort to strengthen the OTC derivatives market infrastructure. See PWG Report, supra. Similarly, the 2010 staff report issued by the FRBNY outlined policy perspectives on OTC derivatives infrastructure and identified trade compression as an element of strong risk management and recommended that market participants engage in regular, market-wide portfolio compression exercises. See FRBNY OTC Derivatives Report, supra note Since the years immediately following the 2008 financial crisis, compression outside of CCPs has been somewhat less common and has declined substantially from its 2008 peak. See supra note .
+
+338 See supra Section II.B.
+
+339 See supra noand accompanying text.
+
+340 See Press Release, ISDA Announces Successful Implementation of ‘Big Bang’ CDS Protocol; Determinations Committees and Auction Settlement Changes Take Effect (Apr. 8, 2009), available at: .
+
+341 See Nicholas Vause, Counterparty risk and contract volumes in the credit default swap market, BIS QUARTERLY REVIEW (Dec. 2010), available at: . (“TriOptima became the first company to
+
+342 See .
+
+343 This figure has been updated from that in the Proposing Release due to the updated estimate of the number of SBS Entities that will be dually registered with the CFTC and updates to hourly rates to account for inflation over the period. See supra and supra note .
+
+344 The estimate is based on the following: [((Compliance Attorney (30 minutes) at $372 per hour)+((Director of Compliance (15 minutes) at $496 per hour)+((Deputy General Counsel (15 minutes) at $607 per hour)] = $461.75 per hour per SBS Entity or ($461.75 per hour x 20 SBS dually-registered Entities) = $9,235.
+
+345 The estimate is based on the following: [((Compliance Attorney (40 hours) at $372 per hour)+((Director of Compliance (20 hours) at $496 per hour)+((Deputy General Counsel (20 hours) at $607 per hour)] = $36,940 per SBS Entity or ($36,940 x 20 SBS Entities that are not dually-registered) = $1,292,900.
+
+346 The estimate is based on the following: [((Compliance Attorney (20 hours) at $372 per hour)+((Director of Compliance (10 hours) at $496 per hour)+((Deputy General Counsel (10 hours) at $607 per hour)] = $18,470 per SBS Entity or ($18,470 x 55 SBS Entities) =
+
+347 The Commission estimates that each SBS Entity will transact with approximately 368 counterparties (18 SBS Entities and 350 non-SBS market participants). It is estimated that approximately one offset per year will take place between counterparties and it is expected to take five minutes to complete, for a total number of hours of (2.5/60 X 18 + 5/60*350) or 29.91 hours per year per SBS Entity. Further, each SBS Entity is expected to conduct six bilateral compressions with SBS Entities and 350 bilateral compressions with non-SBS counterparties, each taking 15 minutes for total hours of [(7.5/60 X 6)+(15/60 X 350)] = 88.25 hours. Lastly, each SBS Entity is anticipated to complete 12 multilateral compressions each year, each taking 30 minutes for a total of 6 hours. Total time for each SBS Entity for portfolio compression exercises is estimated to be (29.91+88.25+6) = 124.16 hours, or 6828.8 hours (124.16 hours X 55 SBS Entities).
+
+348 There is one exception to this statement. See supra.
+
+349 See supra Section II.B.
+
+350 See EU Regulation 149/2013, art. 14, 2013 O.J. 11, 22.
+
+351 See supra Section II.B.3.
+
+352 See id.
+
+353 Specifically, CFTC Rule 23.503(c) provides that “[n]othing in this section shall apply to a swap that is cleared by a derivatives clearing organization.” 17 CFR 23.503(c).
+
+354 See supra Section II.B.1.
+
+355 The corresponding CFTC compression rule applicable to transactions with counterparties that are not Swap Entities does not contain the caveat that any form of compression or offset covered by the applicable policies and procedures would only need to occur “when appropriate.” See supra Section II.B.1.
+
+356 One commonly used form of the industry standard documentation is the ISDA Master Agreement and related definitions, schedules, and confirmations specific to particular asset classes. As noted in Section VI.B.4, over 99% of uncleared security-based swap transactions use an ISDA Master Agreement as reported in DTCC-TIW.
+
+357 See supra Section II.C.
+
+358 15 U.S.C. 78c-5(f).
+
+359 Each SBS Entity is anticipated to be counterparty to 18 other SBS Entities and 350 non- SBS market participants, for a total of 368 counterparties. The initial negotiation and draft in expected to take 15 hours per counterparty that is a SBS entity and 30 hours per counterparty for all other counterparties. See Section VI.D.5. The estimation is as follows: [((Compliance Manager (15 hours) X $315)+(Director of Compliance (7.5 hours) X $496)+(Deputy General Counsel (7.5 hours) X $607)) X 350 counterparties] + [((Compliance Manager (7.5 hours) X $315)+(Director of Compliance (3.75 hours) X
+
+360 Id.
+
+361 The estimate is based on the following: [((Compliance Attorney (30 minutes) at $372 per hour)+((Director of Compliance (15 minutes) at $496 per hour)+((Deputy General Counsel (15 minutes) at $607 per hour)] = $461.75 per hour per SBS Entity or ($461.75 per hour x 20 SBS dually-registered Entities) = $9,235.
+
+362 The estimate is based on the following: [((Compliance Attorney (40 hours) at $372 per hour)+((Director of Compliance (20 hours) at $496 per hour)+((Deputy General Counsel (20 hours) at $607 per hour)] = $36,940 per SBS Entity or ($36,940 x 35 SBS Entities that are not dually-registered) = $1,292,900 in aggregate.
+
+363 The estimate is based on the following: [((Compliance Attorney (20 hours) at $372 per hour)+((Director of Compliance (10 hours) at $496 per hour)+((Deputy General Counsel (10 hours) at $607 per hour)] = $18,470 per SBS Entity or ($18,470 x 55 SBS Entities) =
+
+364 The estimate is based on the following: [368 counterparties x 10 hours per Audit x Auditor ($232 per hour)] = $853,760 per SBS Entity, or ($853,760 x 55 SBS Entities) =
+
+365 As noted in Section VII.B.4, as of 2017, the DTCC-TIW data shows that over 99% of SBS Entities use the ISDA Master Agreement.
+
+366 In response to prior Dodd Frank Act related regulatory requirements, ISDA in partnership with third party providers, has created technology-based solutions enabling counterparties to modify OTC derivatives related documentation quickly and efficiently. See .
+
+367 The exception with respect to security-based swap transactions on national exchanges or SB SEF is limited. See Section II.C for a complete discussion of those limitations.
+
+368 See supra Section II.C.1. See also ISDA/SIFMA Letter.
+
+369 See supra Section II.C.5.
+
+370 See id.
+
+371 Specifically, CFTC Rule 23.504(a)(1)(iii) excludes from the written trading relationship documentation requirements “swaps cleared by a derivatives clearing organization.” 17 CFR 23.504(a)(1)(iii).
+
+372 See supra Section II.C.
+
+373 See supra Section II.D.
+
+374 See supra Section II.C.
+
+375 See Business Conduct Standards Adopting Release, 81 FR at 30074.
+
+376 See Trade Acknowledgement and Verification Adopting Release, 81 FR at 39827-28.
+
+377 See Cross-Border Adopting Release, 79 FR at 47277.
+
+378 5 U.S.C. 601 et seq.
+
+379 5 U.S.C. 603(a).
+
+380 5 U.S.C. 551 et seq.
+
+381 Although Section 601(b) of the RFA defines the term “small entity,” the statute permits agencies to formulate their own definitions. The Commission has adopted definitions for the term “small entity” for the purposes of Commission rulemaking in accordance with the RFA. Those definitions, as relevant to this rulemaking, are set forth in 17 CFR 240.0- 10 (“Rule 0-10”). See Statement of Management on Internal Accounting Control, Exchange Act Release No. 18451 (Jan. 28, 1982), 47 FR 5215 (Feb. 4, 1982).
+
+382 See Proposing Release, 84 FR at 4670-71.
+
+383 Although Section 601(b) of the RFA defines the term “small entity,” the statute permits agencies to formulate their own definitions. The Commission has adopted definitions for the term “small entity” for the purposes of Commission rulemaking in accordance with the RFA. Those definitions, as relevant to this rulemaking, are set forth in Rule 0-10 under the Exchange Act, 17 CFR 240.0-10. See Exchange Act Release No. 18451 (Jan., 28, 1982), 47 FR 5215 (Feb., 4, 1982) (File No. AS-305)
+
+384 See 17 CFR 240.0-10(a).
+
+385 17 CFR 240.17a-5(d).
+
+386 See 17 CFR 240.0-10(c).
+
+387 See 13 CFR 121.201 (Subsector 522).
+
+388 See id. at Subsector 522.
+
+389 See id. at Subsector 523.
+
+390 See id. at Subsector 524.
+
+391 See id. at Subsector 525.
+
+392 See Proposing Release, 84 FR at 4670; SBS Entity Registration Adopting Release, 80 FR at 49013; SBS Books and Records Proposing Release, 79 FR at 25296-97 and n.1441; Intermediary Definitions Adopting Release, 77 FR at 30743. See also Sections V (Paperwork Reduction Act) and VI (Economic Analysis) (discussing, among other things, the economic impact, including the estimated compliance costs and burdens, of the amendments)
+
+393 5 U.S.C. § 801 et seq.

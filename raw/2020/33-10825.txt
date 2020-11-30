@@ -1,0 +1,1013 @@
+https://www.sec.gov/rules/final/2020/33-10825.pdf
+
+I.0.0.0 INTRODUCTION AND BACKGROUND
+
+II.0.0.0 DISCUSSION OF THE AMENDMENTS
+
+	II.A.0.0 General Development of Business (Item 101(a))
+
+		II.A.1.0 Elimination of the Five-Year and the Three-Year Disclosure Timeframes
+
+			II.A.1.a Proposed Amendments
+
+			II.A.1.b Comments on the Proposed Amendments
+
+			II.A.1.c Final Amendments
+
+		II.A.2.0 Updated Disclosure in Subsequent Filings
+
+			II.A.2.a Proposed Amendments
+
+			II.A.2.b Comments on the Proposed Amendment
+
+			II.A.2.c Final Amendment
+
+		II.A.3.0 Disclosure about Business Strategy
+
+			II.A.3.a Proposed Amendments
+
+			II.A.3.b Comments on the Proposed Amendment
+
+			II.A.3.c Final Amendments
+
+	II.B.0.0 Narrative Description of Business (Item 101(c))
+
+		II.B.1.0 Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product families, or customers, including governmental customers
+
+			II.B.1.a Proposed Amendments and Comments
+
+			II.B.1.b Final Amendments
+
+		II.B.2.0 Status of development efforts for new or enhanced products, trends in market demand, and competitive conditions
+
+			II.B.2.a Proposed Amendments and Comments
+
+			II.B.2.b Final Amendments
+
+		II.B.3.0 Resources material to a registrant’s business
+
+			II.B.3.a Raw materials
+
+			II.B.3.b The duration and effect of all patents, trademarks, licenses, franchises, and concessions held
+
+		II.B.4.0 A description of any material portion of the business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government
+
+			II.B.4.a Proposed Amendment and Comments
+
+			II.B.4.b Final Amendment
+
+		II.B.5.0 The extent to which the business is or may be seasonal
+
+			II.B.5.a Proposed Amendment and Comments
+
+			II.B.5.b Final Amendment
+
+		II.B.6.0 Compliance with material government regulations, including environmental regulations
+
+			II.B.6.a Proposed Amendment
+
+			II.B.6.b Comments on the Proposed Amendment
+
+			II.B.6.c Final Amendment
+
+		II.B.7.0 Human capital disclosure
+
+			II.B.7.a Proposed Amendment
+
+			II.B.7.b Comments on the Proposed Amendment
+
+			II.B.7.c Final Amendment
+
+	II.C.0.0 Legal Proceedings (Item 103)
+
+		II.C.1.0 Expressly provide for the use of hyperlinks or cross-references to avoid repetitive disclosure
+
+			II.C.1.a Proposed Amendment
+
+			II.C.1.b Comments on the Proposed Amendment
+
+			II.C.1.c Final Amendment
+
+		II.C.2.0 Updated disclosure threshold for environmental proceedings in which the government is a party
+
+	II.D.0.0 Risk Factors (Item 105)
+
+		II.D.1.0 Summary risk factor disclosure if the risk factor section exceeds 15 pages
+
+			II.D.1.a Proposed Amendment
+
+			II.D.1.b Comments on the Proposed Amendment
+
+			II.D.1.c Final Amendment
+
+		II.D.2.0 Replace the requirement to disclose the “most significant” factors with the “material” factors
+
+			II.D.2.a Proposed Amendment
+
+			II.D.2.b Comments on the Proposed Amendment
+
+			II.D.2.c Final Amendment
+
+		II.D.3.0 Require registrants to organize risk factors under relevant headings
+
+			II.D.3.a Proposed Amendment
+
+			II.D.3.b Comments on the Proposed Amendment
+
+			II.D.3.c Final Amendment
+
+III.0.0.0 OTHER MATTERS
+
+IV.0.0.0 ECONOMIC ANALYSIS
+
+	IV.A.0.0 Baseline and Affected Parties
+
+	IV.B.0.0 Potential Costs and Benefits
+
+	IV.C.0.0 Anticipated Effects on Efficiency, Competition, and Capital Formation
+
+	IV.D.0.0 Alternatives
+
+V.0.0.0 PAPERWORK REDUCTION ACT
+
+	V.A.0.0 Summary of the Collections of Information
+
+	V.B.0.0 Summary of Comment Letters
+
+	V.C.0.0 Summary of the Impact on Collections of Information
+
+	V.D.0.0 Burden and Cost Estimates of the Amendments
+
+VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+VII.0.0.0 STATUTORY AUTHORITY
+
+
+
+<END TABLE OF CONTENTS>
+
+Conformed to Federal Register version
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR 229, 239, and 240
+
+[Release Nos. 33-10825; 34-89670; File No. S7-11-19] RIN 3235-AL78
+
+Modernization of Regulation S-K Items 101, 103, and 105 AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“Commission”) is adopting amendments to modernize the description of business, legal proceedings, and risk factor disclosures that registrants are required to make pursuant to Regulation S-K. These disclosure items have not undergone significant revisions in over 30 years. The amendments update these rules to account for developments since their adoption or last revision, to improve disclosure for investors, and to simplify compliance for registrants. Specifically, the amendments are intended to improve the readability of disclosure documents, as well as discourage repetition and the disclosure of information that is not material.
+
+DATES: The final rules are effective on November 9, 2020.
+
+FOR FURTHER INFORMATION CONTACT: Sean Harrison, Office of Rulemaking, at
+
+(202) 551-3430, in the Division of Corporation Finance, U.S. Securities and Exchange Commission, 100 F Street NE, Washington, DC 20549.
+
+SUPPLEMENTARY INFORMATION: The Commission is amending
+
+Table of Contents
+
+<END HEADER>
+
+<h>I. INTRODUCTION AND BACKGROUND</h>
+
+<h>II. DISCUSSION OF THE AMENDMENTS</h>
+
+<h>A. General Development of Business (Item 101(a))</h>
+
+<h>1. Elimination of the Five-Year and the Three-Year Disclosure Timeframes</h>
+
+<h>a. Proposed Amendments</h>
+
+<h>b. Comments on the Proposed Amendments</h>
+
+<h>c. Final Amendments</h>
+
+<h>2. Updated Disclosure in Subsequent Filings</h>
+
+<h>a. Proposed Amendments</h>
+
+<h>b. Comments on the Proposed Amendment</h>
+
+<h>c. Final Amendment</h>
+
+<h>3. Disclosure about Business Strategy</h>
+
+<h>a. Proposed Amendments</h>
+
+<h>b. Comments on the Proposed Amendment</h>
+
+<h>c. Final Amendments</h>
+
+<h>B. Narrative Description of Business (Item 101(c))</h>
+
+<h>1. Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product families, or customers, including governmental customers</h>
+
+<h>a. Proposed Amendments and Comments</h>
+
+<h>b. Final Amendments</h>
+
+<h>2. Status of development efforts for new or enhanced products, trends in market demand, and competitive conditions</h>
+
+<h>a. Proposed Amendments and Comments</h>
+
+<h>b. Final Amendments</h>
+
+<h>3. Resources material to a registrant’s business</h>
+
+<h>a. Raw materials(ii).	Comments on the Proposed Amendments (iii).	Final Amendments</h>
+
+<h>b. The duration and effect of all patents, trademarks, licenses, franchises, and concessions held</h>
+
+Proposed Amendments
+
+Comments on the Proposed Amendments (iii).	Final Amendment
+
+<h>4. A description of any material portion of the business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government</h>
+
+<h>a. Proposed Amendment and Comments</h>
+
+<h>b. Final Amendment</h>
+
+<h>5. The extent to which the business is or may be seasonal</h>
+
+<h>a. Proposed Amendment and Comments</h>
+
+<h>b. Final Amendment</h>
+
+<h>6. Compliance with material government regulations, including environmental regulations</h>
+
+<h>a. Proposed Amendment</h>
+
+<h>b. Comments on the Proposed Amendment</h>
+
+<h>c. Final Amendment</h>
+
+<h>7. Human capital disclosure</h>
+
+<h>a. Proposed Amendment</h>
+
+<h>b. Comments on the Proposed Amendment</h>
+
+<h>c. Final Amendment</h>
+
+<h>C. Legal Proceedings (Item 103)</h>
+
+<h>1. Expressly provide for the use of hyperlinks or cross-references to avoid repetitive disclosure</h>
+
+<h>a. Proposed Amendment</h>
+
+<h>b. Comments on the Proposed Amendment</h>
+
+<h>c. Final Amendment</h>
+
+<h>2. Updated disclosure threshold for environmental proceedings in which the government is a partya.	Proposed Amendmentsc.	Final Amendment</h>
+
+<h>D. Risk Factors (Item 105)</h>
+
+<h>1. Summary risk factor disclosure if the risk factor section exceeds 15 pages</h>
+
+<h>a. Proposed Amendment</h>
+
+<h>b. Comments on the Proposed Amendment</h>
+
+<h>c. Final Amendment</h>
+
+<h>2. Replace the requirement to disclose the “most significant” factors with the “material” factors</h>
+
+<h>a. Proposed Amendment</h>
+
+<h>b. Comments on the Proposed Amendment</h>
+
+<h>c. Final Amendment</h>
+
+<h>3. Require registrants to organize risk factors under relevant headings</h>
+
+<h>a. Proposed Amendment</h>
+
+<h>b. Comments on the Proposed Amendment</h>
+
+<h>c. Final Amendment</h>
+
+<h>III. OTHER MATTERS</h>
+
+<h>IV. ECONOMIC ANALYSIS</h>
+
+<h>A. Baseline and Affected Parties</h>
+
+<h>B. Potential Costs and Benefits</h>
+
+<h>C. Anticipated Effects on Efficiency, Competition, and Capital Formation</h>
+
+<h>D. Alternatives</h>
+
+<h>V. PAPERWORK REDUCTION ACT</h>
+
+<h>A. Summary of the Collections of Information</h>
+
+<h>B. Summary of Comment Letters</h>
+
+<h>C. Summary of the Impact on Collections of Information</h>
+
+<h>D. Burden and Cost Estimates of the Amendments</h>
+
+<h>VI. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+<h>VII. STATUTORY AUTHORITY</h>
+
+<END MAIN TEXT>
+
+1 15 U.S.C. 77a et seq.
+
+2 15 U.S.C. 78a et seq.
+
+3 See Modernization of Regulation S-K Items 101, 103, and 105, Release No. 33-10668 (Aug. 8, 2019) [84 FR 44358 (Aug. 23, 2019)] (“Proposing Release”).
+
+4 The proposals were also consistent with and further promoted the objectives of the Fixing America’s Surface Transportation Act (“FAST Act”). See Pub. L. No. 114-94, 129 Stat. 1312 (Dec. 4, 2015) (requiring, among other things, that the SEC conduct a study, issue a report, and issue a proposed rule on the modernization and simplification of Regulation S-K).
+
+5 Pub. L. No. 112-106, Sec. 108, 126 Stat. 306 (2012). Section 108 of the JOBS Act required the Commission to conduct a review of Regulation S-K to determine how such requirements can be updated to modernize and simplify the registration process for emerging growth companies.
+
+6 See Report on Review of Disclosure Requirements in Regulation S-K (Dec. 2013), available at https://(“S-K Study”).
+
+7 See SEC Spotlight on Disclosure Effectiveness, available at https:// effectiveness.shtml.
+
+8 To facilitate public input on the Disclosure Effectiveness Initiative, the Commission invited members of the public to submit comments. See Request for Public Comment, available at Public comments received in response to that request for comment are available on our website. See Comments on Disclosure Effectiveness, available at https://
+
+9 See Business and Financial Disclosure Required by Regulation S-K, Release No. 33-10064 (Apr. 13, 2016) [81 FR 23915 (Apr. 22, 2016)] (“Concept Release”).
+
+10 See Division of Corporation Finance CF Disclosure Guidance: Topic No. 9A (June 23, 2020) (encouraging companies to evaluate the current and expected impact of COVID-19 through the eyes of management and to proactively revise and update disclosures, including MD&A, as facts and circumstances change), available at https://
+
+11 The public comments we received are available at https:// Unless otherwise indicated, the comment letters cited herein are those received in response to the Proposing Release.
+
+12 The final amendments to Items 101 and 103 will affect only domestic registrants and “foreign private issuers” that have elected to file on domestic forms subject to Regulation S-K disclosure requirements. Regulation S-K does not apply to foreign private issuers unless a form reserved for foreign private issuers (such as Securities Act Form F-1, F-3, or F-4) specifically refers to Regulation S-K. Form 20-F is the combined registration statement and annual report form used by foreign private issuers under the Exchange Act. It also sets forth certain disclosure requirements for registration statements filed by foreign private issuers under the Securities Act. Instead of Items 101 and 103, the foreign private issuer forms refer to Part I, Item 4 and Item 8.A.7., respectively, of Form 20-F. In contrast, the amendment to Item 105 will affect both domestic and foreign registrants because Forms F-1, F-3, and F-4, like their domestic counterparts, all refer to that Item. See, e.g., Item 3 of Form F-1. A foreign private issuer is any foreign issuer other than a foreign government, except for an issuer that (1) has more than 50% of its outstanding voting securities held of record by U.S. residents; and (2) any of the following: (i) a majority of its officers and directors are citizens or residents of the United States; (ii) more than 50% of its assets are located in the United States; or (iii) its business is principally administered in the United States. See Securities Act Rule 405 [17 CFR 230.405] and Exchange Act Rule 3b-4(c) [CFR 240.3b-4(c)].
+
+13 See Concept Release, supra note at 23932.
+
+14 See Proposing Release, supra note at 44361.
+
+15 See id.
+
+16 See id.
+
+17 See, e.g., Item 6 of Form A-2 adopted in 1935, which required registrants to outline briefly “the general development of the business for the preceding five years.” See Release No. 33-276 (Jan. 14, 1935) [not published in the Federal Register]. Additionally, Item 5 of Form A-1, adopted in 1933, required registrants to briefly describe the length of time the registrant had been engaged in its business. See Release No. 33-5 (July 6, 1933) [not published in the Federal Register]. See also S-K Study, supra note at 32, n. 88.
+
+18 See Adoption of Disclosure Regulation and Amendments of Disclosure Forms and Rules, Release No. 33- 5893 (Dec. 23, 1977) [42 FR 65554 (Dec. 30, 1977)].
+
+19 The term “smaller reporting company” is defined in 17 CFR 230.405 and 17 CFR 240.12b-2 as an issuer that is not an investment company, an asset-backed issuer (as defined in 17 CFR 229.1101), or a majority- owned subsidiary of a parent that is not a smaller reporting company and that had a public float of less than $250 million; or had annual revenues of less than $100 million, and either no public float, or a public float of less than $700 million.
+
+20 The proposed amendment to Item 101(h), however, retained the requirement that if a smaller reporting company has not been in business for three years, it must provide the same information for its predecessors if there are any.
+
+21 See, e.g., letters from International Bancshares Corporation (“IBC”), California Lawyers Association (“CLA”), Ernst & Young LLP (“E&Y”), Edison Electric Institute and American Gas Association Accounting Advisory Council (“EEI and AGA”), Society for Corporate Governance (“Society”), British Columbia Investment Management Corporation (“BCI”), Davis Polk & Wardwell (“DP&W”), Nareit, US Chamber of Commerce’s Center for Capital Markets Competitiveness (“CCMC”), FedEx Corporation (“FedEx”), and General Motors Company (“GM”).
+
+22 See, e.g., letters from GM, Society, EEI and AGA, CLA, and IBC.
+
+23 See letter from GM.
+
+24 See, e.g., letters from Financial Executives International (“FEI”), CFA Institute, and California Public Employees’ Retirement System (“CalPERS”).
+
+25 See letter from CalPERS (stating that under the proposal, a registrant could choose to disclose a bankruptcy for only two years rather than for five years as required under the current timeframe).
+
+26 See letter from CFA Institute. Item 301 of Regulation S-K [17 CFR 229.301] requires registrants to furnish selected financial data in comparative tabular form for each of the registrant’s last five fiscal years and any additional fiscal years necessary to keep the information from being misleading. We have recently proposed amendments to eliminate this requirement. See infra note 32 and accompanying text.
+
+27 See letter from FEI.
+
+28 See, e.g., letters from CLA and CFA Institute.
+
+29 See letter from CLA.
+
+30 See letter from CFA Institute.
+
+31 As noted above, the Commission recently proposed to eliminate Item 301 of Regulation S-K, which requires disclosure of five years of selected financial data, because the information required by that item is largely duplicative of other requirements. See Commission Guidance on Management’s Discussion and Analysis, Selected Financial Data, and Supplementary Financial Information, Release No. 33-10750 (Jan. 30, 2020) [85 FR 12068 (Feb. 28, 2020)] (“MD&A Release”).
+
+32 Pursuant to Securities Act Rule 411 [17 CFR 230.411] and Exchange Act Rule 12b-23 [17 CFR 240.12b- 23], registrants must, in most cases, include an active hyperlink to information incorporated by reference.
+
+33 See, e.g., letters from Council of Institutional Investors (“CII”), Jeff LaBerge (“LaBerge”), E&Y, FEI, William F. Dunker (“Dunker”), BCI, DP&W, CCMC, Nareit, and FedEx.
+
+34 See letter from Dunker.
+
+35 See letter from EEI and AGA.
+
+36 See, e.g., letters from Chevron Corporation (“Chevron”), CLA, GM, CFA Institute, New York City Bar Association (“NYC Bar Association”), and International Corporate Governance Network (“ICGN”).
+
+37 See letter from GM.
+
+38 See, e.g., letters from CLA, E&Y and CalPERS.
+
+39 See letter from EEI and AGA.
+
+40 We are also adopting corresponding amendments to Item 101(h) to permit a smaller reporting company, for filings other than initial registration statements, to provide an update to the general development of the business disclosure, instead of a full discussion, that complies with Item 101(a), including the hyperlink option.
+
+41 Securities Act Rule 411(e) and Exchange Act 12b-23(e), however, provide that information must not be incorporated by reference in any case where such incorporation would render the disclosure incomplete, unclear, or confusing, such as incorporating by reference from a second document if that second document incorporates information pertinent to such disclosure by reference to a third document. We remind registrants that, consequently, a filing that includes an update and incorporates by reference the more complete Item 101(a) discussion could not be incorporated by reference into a subsequent filing, such as a Form S-3 or Form S-4.
+
+42 See, e.g., letters from EEI and AGA.
+
+43 See, e.g., letters from CLA, E&Y and CalPERS.
+
+44 See, e.g., letters from CII, Nasdaq, LaBerge, EEI and AGA, Society, BCI, Dunker, DP&W, Nareit, CCMC, FedEx, FEI, and the Humane Society of the United States (“Humane Society”).
+
+45 See, e.g., letters from Society, Nasdaq, Dunker, DP&W, and FEI.
+
+46 See, e.g., letters from Public Citizen, AFL-CIO (principle-based approach would increase the reliance on the subjective judgment of management), Better Markets, Domini Impact Investments LLC (“Domini”) (principles-based approach could reduce the usefulness of corporate disclosures for investors), Principles for Responsible Investment (“PRI”), Breckinridge Capital Advisors (“Breckinridge”), ICGN, and letters from individuals and entities using Letter Type A.
+
+47 See, e.g., letters from CII, BCI, CCMC, FedEx, American Federation of Labor and Congress of Industrial Organizations (“AFL-CIO”), FEI, CFA Institute, and CalPERS.
+
+48 See letter from BCI.
+
+49 See, e.g., letters from AFL-CIO and CFA Institute. See also letter from CalPERS (suggesting that the rule should make “clear that material changes in business strategy would not have to be disclosed prospectively”).
+
+50 See letter from AFL-CIO.
+
+51 See letter from FEI.
+
+52 See, e.g., letters from UnitedHealth Group Incorporated (“UnitedHealth Group”), Dunker, Society, DP&W, Chevron, and GM.
+
+53 See, e.g., letters from UnitedHealth Group, Society, DP&W, Chevron, and GM.
+
+54 See, e.g., letters from DP&W, Chevron, and GM.
+
+55 See, e.g., letters from Society and GM.
+
+56 See letter from CLA.
+
+57 See letter from Chevron.
+
+58 See, e.g., letters from UnitedHealth Group, Dunker, Society, DP&W, and GM.
+
+59 See letter from GM.
+
+60 See, e.g., letters from UnitedHealth Group, Dunker, and Society.
+
+61 See letter from Society.
+
+62 The language of the disclosure topic regarding the results of any bankruptcy, receivership or similar proceedings differs slightly from the proposal by calling for disclosure of the “nature and effects of any material bankruptcy, receivership, or any similar proceeding with respect to the registrant or any of its significant subsidiaries.” The proposed rule text did not include the italicized language. Because the introductory text to Item 101(a)(1) indicates that the disclosure should be provided with respect to the registrant and its subsidiaries, we are making it explicit that Item 101(a)(1)(ii) disclosure should be provided with respect to registrants and their significant subsidiaries.
+
+63 See letter from Chevron.
+
+64 See, e.g., letters from UnitedHealth Group, Dunker, and Society.
+
+65 See letter from AFL-CIO.
+
+66 See letter from CLA.
+
+67 See letter from AFL-CIO.
+
+68  See Section 27A of the Securities Act [15 U.S.C. 77z-2 (b)] and Section 21E of the Exchange Act [15
+
+69 Item 101(c)(1) [17 CFR 229.101(c)(1)] specifies that, to the extent material to an understanding of the registrant’s business taken as a whole, the description of each segment must include the information specified in paragraphs (c)(i) through (x). Information in paragraphs (c)(xi) through (xiii) is required to be discussed for the registrant’s business in general and, when material, the segments to which these matters are significant also must be identified.
+
+70 The Commission removed and reserved Item 101(c)(1)(xi), which required disclosure of company- and customer-sponsored research and development activities, largely because U.S. GAAP requires similar, but broader, disclosure. See Disclosure Update and Simplification Final Rule, Release No. 33-10532 (Aug. 17, 2018) [83 FR 50148 (Oct. 4, 2018) (“DUSTR Adopting Release”). Thus, there currently are twelve enumerated disclosure items under Item 101(c).
+
+71 See New Ventures, Meaningful Disclosure, Release No. 33-5395 (June 1, 1973) [38 FR 17202 (June 29, 1973)].
+
+72 See S-K Study, supra note at 99-100.
+
+73 See Concept Release, supra note
+
+74 We did not propose to amend the disclosure requirements for smaller reporting companies in Item 101(h)(1) through (6). We believe that this approach will continue to permit smaller reporting companies to provide a less detailed description of their business, consistent with the current scaled disclosure requirements for these companies.
+
+75 See Proposing Release, supra note at 44364.
+
+76 Consistent with the proposal, the final amendments to Item 101(c) no longer explicitly reference the disclosure requirements under Item 101(c)(vi) regarding disclosure of working capital practices; or the Item 101(c)(viii) requirement regarding disclosure about new segments and the dollar amount of backlog orders believed to be firm.
+
+77 In connection with this amendment, the Commission also proposed several conforming amendments to Form S-4. See Section II.C.1 of the Proposing Release, supra note We did not receive any comments on these conforming amendments and are adopting them as proposed as well.
+
+78 See Proposing Release, supra note at 44365.
+
+79 Id.
+
+80 See letters from Society and Investor Environmental Health Network (“IEHN”).
+
+81 See letter from Society.
+
+82 See letter from IEHN (noting particularly disclosure of trends in the development of peer-reviewed scientific literature demonstrating potential for substantial health or environmental risks associated with the preparer’s products or activities).
+
+83 We recently proposed amendments to our MD&A disclosure requirements to modernize and enhance MD&A disclosures. See MD&A Release, supra note 32.
+
+84 See Proposing Release, supra note at 44365.
+
+85 See letters from Fenwick West LLP (dated Aug. 1, 2016) (“Fenwick”) and New York State Society of Certified Public Accountants (dated July 19, 2016) (“NYSSCPA”), available at https://
+
+86 See letter from Fenwick.
+
+87 See letter from NYSSCPA.
+
+88 See letter from Davis Polk & Wardwell LLP (dated July 22, 2016), available at https://
+
+89 See letter from Southern Environmental Law Center (“SELC”).
+
+90 See letter from CFA Institute.
+
+91 See, e.g., letters from 36 Organizations with an Interest in Trade Secret Protection (dated Aug. 8, 2016) (“36 Organizations”), Association of American Publishers (dated July 21, 2016), American Intellectual Property Law Association (dated Aug. 9, 2016) (“American IP Law Association”), Intellectual Property Owners Association (dated July 15, 2016) (“IP Owners Association”), and Financial Services Roundtable (dated July 21, 2016), available at https://
+
+92 See, e.g., letters from 36 Organizations, American IP Law Association, Financial Services Roundtable, and IP Owners Association, available at https://Item 101(c)(1)(iv) currently does not refer to disclosure of copyrights or trade secrets and these commenters expressed concern that requiring such disclosure would impose substantial costs on registrants and could have an adverse impact on shareholder value.
+
+93 See letter from CLA.
+
+94 See letter from CFA Institute.
+
+95 See letters from Society and GM.
+
+96 See, e.g., letters from 36 Organizations, American Intellectual Property Law Association (Aug. 9, 2016),
+
+97 See Defense and Other Long Term Contracts; Prompt and Accurate Disclosure of Information, Release No. 33-5263 (June 22, 1972) [37 FR 21464 (Oct. 11, 1972)].
+
+98 See id.
+
+99 See Disclosure Update and Simplification Proposed Rule, Release No. 33-10110 (July 13, 2016) [81 FR 51607 (Aug. 4, 2016)] (“DUSTR Proposing Release”). Public comments on the DUSTR Proposing Release are available at https://
+
+100 The Commission decided to eliminate Instruction 5 to Item 303(b) because U.S. GAAP in combination with the remainder of Item 303 requires disclosures in interim reports that convey reasonably similar information to the disclosures required by Instruction 5 to Item 303(b). See DUSTR Adopting Release, supra note 71, at 50169.
+
+101 See id. ASC 270-10-45-11 states that entities should consider supplementing interim reports with information for 12-month periods ended at the interim date to avoid the possibility that interim results with material seasonal variations may be taken as fairly indicative of the estimated results for a full fiscal year.
+
+102 See letter from SELC.
+
+103 Pub.L. 91-190, 42 U.S.C. 4321-4347 (Jan. 1, 1970).
+
+104 See Disclosure with Respect to Compliance with Environmental Requirements and Other Matters, Release 33-5386 (Apr. 20, 1973) [38 FR 12100 (May 9, 1973)] (“Environmental Disclosure Adopting Release”).
+
+105 See Natural Resources Defense Council, Inc. v. SEC, 389 F. Supp. 689 (D.D.C. 1974); and Natural Resources Defense Council, Inc. v. SEC, 606 F.2d 1031 (D.C. Cir. 1979), rev’g 432 F. Supp. 1190 (D.D.C. 1977). See also U.S. Sec. & Exch. Comm’n, Staff Report on Corporate Accountability 1, 251- 259 (Comm. Print 1979) (“Staff Report”) (providing a description of this litigation).
+
+106 See Disclosure of Environmental and Other Socially Significant Matters, Release No. 33-5569 (Feb. 11, 1975) [40 FR 7013 (Feb. 18, 1975)].
+
+107 See Conclusions and Final Action on Rulemaking Proposals Relating to Environmental Disclosure, Release No. 33-5704 (May 6, 1976) [41 FR 21632 (May 27, 1976)]. For further discussion of how the Commission has sought to consider environmental effects in its business disclosure requirements, see infra Section II.C.2.
+
+108 See Concept Release, supra note For a more extensive discussion of the related comment letters see
+
+109 See, e.g., letters from La Berge, EEI and AGA, Nareit, CCMC, FedEx (expressing support for the comments provided by CCMC), Virginia Harper Ho (“Harper Ho”), American Securities Association (“ASA”), PRI, and Humane Society.
+
+110 See, e.g., letters from CCMC, FedEx, and PRI.
+
+111 See letter from PRI.
+
+112 See, e.g., letters from individuals and entities using Letter Type A and PRI.
+
+113 See letter from Nareit.
+
+114 See letter from the Humane Society.
+
+115 See, e.g., letters from Society, DP&W, FEI and GM.
+
+116 See, e.g., letters from Society, GM and DP&W.
+
+117 See, e.g., letters from CCMC, FedEx and PRI.
+
+118 See letter from Nareit.
+
+119 We have also made other non-substantive, clarifying changes to the text of this disclosure topic.
+
+120 See supra note 116.
+
+121 See, e.g., letters from individuals and entities using Letter Type A and PRI.
+
+122 See letter from the Humane Society.
+
+123 See Concept Release, supra note 9, at 23936.
+
+124 See Proposing Release, supra note 3, at 44369.
+
+125 See Rulemaking petition to require registrants to disclose information about their human capital management policies, practices and performance, File No. 4-711 (July 6, 2017) (“Human Capital Rulemaking Petition”), available at https://
+
+126 See Comments to File No. 4-711 available at https://
+
+127 See Proposing Release, supra note The SEC Investor Advisory Committee also recommended that the Commission take measures to improve the disclosure of a registrant’s human capital management, and suggested that any disclosure requirements “should be crafted so as to reflect the varied circumstances of different businesses, and to eschew simple ‘one-size-fits-all’ approaches that obscure more than they add.” Recommendation of the Investor Advisory Committee Human Capital Management Disclosure (Mar. 28, 2019), available at https:// disclosure-recommendation.pdf.
+
+128 See, e.g., letters from International Center for Enterprise Engagement (“ICEE”), JT Foxx Reviews Research Team (“JT Foxx”), Intellivest Securities, Inc. , Enhance Product Development, Inc. (“EPD”), the Hashimoto’s Solution (“Hashimoto”), Auto Connection Manassas VA (“Auto Connection”), Yoga Burn Challenge (“Yoga Burn”), Sustainability Accounting Standards Board (letter dated Oct. 17, 2019, “SASB 1”), Legal & General Investment Management (“LGIM”), CFA Institute, Breckinridge, Paul Rissman (“Rissman”), LaBerge, E&Y, Oregon State Treasury (“OST”), IEHN, Calvert Research and Management (“Calvert”), Dunker, EEI and AGA, CtW Investment Group (“CtW”), CCMC, FedEx, UnitedHealth Group, Harper Ho, Los Angeles County Employees Retirement Association (“LACERA”), PRI, Society for Human Resource Management (“SHRM”), California State Teachers’ Retirement System (“CalSTRS”), Judy Schultz (“Schultz”), DP&W, Hermes Equity Ownership Services Limited (“Hermes”), Better Markets Inc. (“Better Markets”), Willis Towers Watson (“Towers Watson”), AFL-CIO, Mercer, Human Capital Management Coalition (“HCMC”), HR Policy Association (“HR Policy”), Senator Mark Warner, (“Sen. Warner”), Public Citizen, Norges Bank Investment Management (“Norges Bank”), CalPERS, the Forum for Sustainable and Responsible Investment (“SIF”), Domini, New York State Common Retirement Fund (“NYSCRF”), Radiant Value Management (“RVM”), GRI, New York City Comptroller (“NYC Comptroller”), BCI, Timothy G. Coville (“Coville”), JUST Capital, Qin Li, ShareAction, Service Employees International Union (“SEIU”), Catherine Smith (“C. Smith”), and.
+
+129 See, e.g., letters from ICEE, CII, LaBerge, SHRM, Towers Watson, Mercer, HR Policy, Hashimoto, EPD, Auto Connection, GRI, Yoga Burn, EEI and AGA, CCMC, C. Smith, SEIU and FedEx.
+
+130 See, e.g., letters from SHRM, FedEx, and CCMC.
+
+131 See, e.g., letters from LGIM, Calvert, OST, CtW, Harper Ho, LACERA, PRI, CalSTRS, Hermes, Better Markets, AFL-CIO, HCMC, BCI, Sen. Warner, Coville, Norges Bank, CalPERS, SIF, Domini, NYSCRF, CFA Institute, ShareAction, JUST Capital and NYC Comptroller.
+
+132 See, e.g., letters from UnitedHealth Group; CLA; David Burton (“Burton”); Amazon Watch, American Federation of State, County and Municipal Employees, As You Sow, California Clean Money Campaign, Campaign for Accountability, Center for American Progress, Congregation of Sisters of St. Agnes, Environment America, Friends Fiduciary Corporation, Global Witness, Green Century Capital Management, Harrington Investments, Inc., Institute for Agriculture and Trade Policy, Interfaith Center on Corporate Responsibility, Jantz Management LLC, Miller/Howard Investments, Inc., New Progressive Alliance, Newground Social Investment, SPC, NorthStar Asset Management, Inc., Northwest Coalition
+
+133 See, e.g., letters from Domini, RVM, HCMC, CalPERS, Rissman, LGIM, ICGN, OST, NYSCRF, NYC Comptroller, FEI and LACERA.
+
+134 See, e.g., letters from FEI, LACERA, HCMC and NYSCRF.
+
+135 See letter from the Heritage Foundation (contending that the mission of the Commission does not include furthering any social, environmental or other criteria).
+
+136 See, e.g., letters from GM, Society, DP&W and Chevron.
+
+137 See, e.g., letters from HCMC, CalPERS, NYC Comptroller, Domini, NYSCRF, FEI, PRI, LACERA, Breckinridge, ShareAction and SEIU.
+
+138 See, e.g., letters from Louis E. Matthews, Jr., Schultz, SASB 1, LGIM, IEHN, Dunker, FCLTGlobal (“FCLTGlobal”), PRI, CalSTRS, Better Markets, HCMC, BCI, Sen. Warner, Public Citizen, CalPERS, SIF, Domini, NYSCRF, NYC Comptroller, ICEE, OST, LACERA, Hermes, Burton, SEIU, CtW, ICGN, Towers Watson, AFL-CIO, 33 Organizations, JT Foxx, EPD, Hashimoto, Auto Connection, Yoga Burn, Bec Brideson, Calvert, Breckinridge, CFA Institute, ShareAction, Qin Li, JUST Capital and Letter Type A.
+
+139 See, e.g., letters from SASB 1, LGIM, Calvert, E&Y, OST, FCLTGlobal, LACERA, PRI, CalSTRS, Hermes, SEIU, E&Y, Better Markets, HCMC, BCI, Sen. Warner, Coville, Public Citizen, Norges Bank, CalPERS, SIF, Domini, NYSCRF, RVM, Breckinridge, ShareAction, CFA Institute and NYC Comptroller.
+
+140 See, e.g., letters from Domini (recommending frameworks published by the International Organization for Standardization, the Global Reporting Initiative, the Sustainability Accounting Standards Board, the Workforce Disclosure Initiative, and the Carbon Disclosure Project), SASB 1, Coville, Norges Bank (recommending the Sustainability Accounting Standards Board framework), Breckinridge (recommending the Sustainability Accounting Standards Board framework) and RVM. See also, e.g., letters from GRI, ICEE, SASB 1, Coville, CII, LACERA, Domini, RVM, Breckinridge and Norges Bank.
+
+141 See letter from Towers Watson.
+
+142 See, e.g., letters from CCMC, FedEx, SHRM, GM, Mercer, Society, HR Policy, DP&W, FEI and Chevron.
+
+143 See, e.g., letters from HR Policy, Society and GM.
+
+144 See, e.g., letters from Mercer (“[P]roviding specific examples of the types of measures or objectives that companies focus on in managing their business, such as those that address the attraction, development, and retention of personnel, as proposed, could result in disclosure that is potentially misleading and is less valuable to investors because it is not tailored to a company’s specific business or industry.”), Towers Watson, and HR Policy.
+
+145 See, e.g., letters from CalSTRS, CtW, HCMC, NYC Comptroller, Towers Watson, ICEE and PRI (advocating for defining human capital management as “people’s competencies, capabilities and experience, and their motivations to innovate.”). Cf. letter from Burton (“definition for human capital should include human capital measures or objectives that management focuses on in managing the business”).
+
+146 See letters from Mercer and HR Policy.
+
+147 See letter from HR Policy.
+
+148 See letter from Mercer.
+
+149 See, e.g., letters from CII, 33 Organizations, PRI and CtW.
+
+150 See letter from CtW.
+
+151 See, e.g., letters from CalSTRS, Domini, CalPERS, CII, Burton, BCI, NYC Comptroller, ICEE, LGIM, OST, LACERA, PRI, Hermes, SEIU, CFA Institute, CtW, ICGN, Towers Watson, AFL-CIO, HCMC, Sen. Warner, CalPERS, SIF and NYSCRF.
+
+152 See, e.g., letters from EEI and AGA, CCMC, Hermes, Better Markets, CalSTRS, FedEx and Mercer.
+
+153 See, e.g., letters from Mercer and HR Policy.
+
+154 See, e.g., U.S. Gov’t Accountability Office, GAO-20-530, PUBLIC COMPANIES: DISCLOSURE OF
+
+155 See, e.g., letters from GRI, ICEE, SASB 1, Coville, CII, LACERA, Domini, RVM, Breckinridge and Norges Bank.
+
+156 See, e.g., letter from HR Policy and Mercer.
+
+157 See, e.g., letters from CII and CtW.
+
+158 See, e.g., letters from CalSTRS, Domini, CalPERS, CII, Burton, BCI, NYC Comptroller, ICEE, LGIM, OST, LACERA, PRI, Hermes, SEIU, CFA Institute, CtW, ICGN, Towers Watson, AFL-CIO, HCMC, Sen. Warner, CalPERS, SIF and NYSCRF.
+
+159 See Form A-1, Item 17, adopted in Release No. 33-5 (July 6, 1933) [not published in the Federal Register].
+
+160 See Proposing Release, supra note 3, at 44372.
+
+161 See Environmental Disclosure Adopting Release, supra note 107.
+
+162 See Proposing Release, supra note 3, at 44373.
+
+163 See Disclosure Update and Simplification Proposed Rule, Release No. 33-10110 (July 13, 2016) [81 FR 51607 (Aug. 4, 2016)] (“DUSTR Proposing Release”) at 51633.
+
+164 See Proposing Release, supra note 3, at 44372.
+
+165 See DUSTR Adopting Release, supra note 71.
+
+166 See, e.g., letters from IBC, CLA, EEI and AGA, DP&W, Nareit, CCMC, FedEx, CII, Society, GM, NYC Bar Association, Nasdaq, Chevron, and ASA.
+
+167 See, e.g., letters from EEI and AGA, IBC, CCMC, ASA, Chevron and Nasdaq.
+
+168 See, e.g., letters from Society, GM and Nasdaq.
+
+169 See letter from FEI.
+
+170 See letter from CII.
+
+171 See letter from ICGN.
+
+172 See letter from CalPERS.
+
+173 See letters from CII and CalPERS.
+
+174 See Adoption of Integrated Disclosure System, Release No. 33-6383 (Mar. 3, 1982) [47 FR 11380 (Mar. 16, 1982)] (“1982 Integrated Disclosure Adopting Release”).
+
+175 Starting from May 1981, the month the release in which the $100,000 amount was first published, Commission staff used the Consumer Price Index (CPI) Inflation Calculator (available at https://data.bls.gov/cgi-bin/cpicalc.pl) to calculate the inflation adjusted amount to be $285,180.40 as of May 2019. For ease of reference, the Commission rounded this figure to $300,000.
+
+176 See, e.g., letters from Harper Ho, SELC, NYC Bar Association and Nasdaq.
+
+177 See letter from SELC.
+
+178 See letter from Nasdaq.
+
+179 See, e.g., letters from DP&W, Society and GM.
+
+180 See, e.g., letters from Society and DP&W.
+
+181 See, e.g., letters from CII, 33 Organizations, E&Y, IEHN, Society, DP&W, CCMC, NYSCRF, EEI and AGA, David Young, FedEx, FEI, Chevron, CalPERS, Humane Society, Domini, PRI, CFA Institute and GM.
+
+182 See, e.g., letters from E&Y, Society, DP&W, CCMC, FedEx, Chevron and GM.
+
+183 See letters from Society, DP&W and GM.
+
+184 Id.
+
+185 See letters from Society and DP&W.
+
+186 See, e.g., letters from Society and DP&W.
+
+187 See, e.g., letters from CalPERS and PRI.
+
+188 See, e.g., letters from CalPERS and Humane Society (suggesting that the $100,000 threshold be maintained or adjusted to reflect an actual data-driven dollar amount that more accurately represents a division between environmental proceedings that pose material risks to businesses and those that do not).
+
+189 See, e.g., letters from IEHN, Public Citizen, CalPERS, Domini and PRI.
+
+190 See letter from EEI and AGA.
+
+191 Id.
+
+192 We are also amending Schedule 14A to update a cross-reference to the instructions to Item 103.
+
+193 For example, in 1996, the Task Force on Disclosure Simplification recommended replacing the $100,000 threshold with a general materiality standard or, alternatively, recommended raising the dollar threshold. See Report of the Task Force on Disclosure Simplification (Mar. 5, 1996), available at https://More recently, in 2016, the Commission received feedback from commenters on the DUSTR Proposing Release that opposed the elimination of any bright-line thresholds in Commission disclosure requirements because the thresholds establish a baseline of disclosure for all registrants in certain areas. See DUSTR Proposing Release, supra note
+
+194 See Proposed Amendments to Item 5 of Regulation S-K Regarding Disclosure of Certain Environmental Proceedings, Release No. 33-6315 (May 5, 1981) [46 FR 25638 (May 8, 1981)].
+
+195 See, e.g., letters from Society and DP&W.
+
+196 See supra note 184.
+
+197 Smaller reporting companies are not required to provide the information under Item 105 in their Exchange Act filings on Form 10 [17 CFR 249.210], Form 10-K [17 CFR 249.310], and Form 10-Q [17 CFR 249.308a].
+
+198 For example, one study found that registrants increased the length of risk factor disclosures from 2006 to 2014 by more than 50 percent in terms of word count, compared to the word count in other sections of Form 10-K that increased only by about ten percent, and that this increase in risk factor word count may not be associated with better disclosure. See Anne Beatty et al., Are Risk Factor Disclosures Still Relevant? Evidence from Market Reactions to Risk Factor Disclosures Before and After the Financial Crisis, 36 CONTEMP. ACCT. RES., 805 (2019). To examine the “informativeness” of risk factor disclosures, the authors of this study analyzed risk factor disclosures about financial constraints and argue that as litigation risk increased during and after the 2008 financial crisis, registrants were more likely to disclose immaterial risks, resulting in a deterioration of disclosure quality.
+
+199 See, e.g., Plain English Disclosure, Release No. 33-7497 (Jan. 28, 1998) [63 FR 6370 (Feb. 6, 1998)] (“Plain English Disclosure Adopting Release”). See also Updated Staff Legal Bulletin No. 7: Plain English Disclosure (June 7, 1999), available at https://
+
+200 For example, as part of the Plain English Disclosure rulemaking, the Commission solicited comment on whether to limit risk factor disclosure to a specific number of risk factors or a specific number of pages. See Plain English Disclosure, Release No. 33-7380 (Jan. 14, 1997), [62 FR 3152, 3163 (Jan. 21, 1997)]. The Commission ultimately did not adopt such limits on risk factor disclosure in that rulemaking. See Plain English Disclosure Adopting Release, 63 FR at 6372.
+
+201 See Proposing Release, supra note 3, at 44375.
+
+202 See id.
+
+203 See id.
+
+204 See, e.g., letters from CII, E&Y, Better Markets, CCMC, CFA Institute and David Young.
+
+205 See letter from Better Markets.
+
+206 See letter from CFA Institute.
+
+207 See, e.g., letters from CalPERS, International Bancshares, Society, Nareit, UnitedHealth Group, CLA, ICGN, DP&W, and FEI.
+
+208 See, e.g., letters from IBC, ICGN, Society, CLA and FEI.
+
+209 See letters from Society and DP&W.
+
+210 See letter from DP&W.
+
+211 See letter from Nareit.
+
+212 See, e.g., letters from UnitedHealth Group, Nareit, and Society.
+
+213 See, e.g., letters from CCMC, FEI and Allen Huang (“Huang”).
+
+214 See letter from FEI.
+
+215 See letter from ICGN.
+
+216 See letter from UnitedHealth Group.
+
+217 See letter from Nareit.
+
+218 See letter from Society.
+
+219 Item 3(b) to Form S-11 [17 CFR 239.18] includes such a requirement, stating that where appropriate to a clear understanding by investors, an introductory statement shall be made in the forepart of the prospectus, in a series of short, concise paragraphs, summarizing the principal factors which make the offering speculative. The risk factor summary included in a Form S-11 filing typically consists of a series of bulleted or numbered statements comprising no more than one page on average. Given our experience with this format in the Form S-11 context, we think it provides an appropriate model for the summary risk factor presentation required under the final amendments.
+
+220 See letters from FEI and Nareit.
+
+221 See, e.g., Item 3(b) to Form S-11 and the optional summary in Item 16 to Form 10-K.
+
+222 See, e.g., letter from Better Markets.
+
+223 See Proposing Release, supra note 3, at 44382-44383.
+
+224 See Guides for Preparation and Filing of Registration Statements, Release No. 33-4666 (Feb. 7, 1964) [29 FR 2490 (Feb. 15, 1964)] (“1964 Guides”).
+
+225 “Principal” was the term used in the 1982 Integrated Disclosure Adopting Release and “most significant” was the term used in the Plain English Disclosure Adopting Release.
+
+226 Securities Act Rule 405 [17 CFR 230.405] and Exchange Act Rule 12b-2 [17 CFR 240. 12b-2] both generally define materiality as information to which there is a substantial likelihood that a reasonable investor would attached important in it investment decision.
+
+227 See, e.g., letters from Harper Ho, Burton, NYC Bar Association, GRI, IBC, Better Markets, Nareit, David Young, Nasdaq, CFA Institute and Humane Society.
+
+228 See, e.g., letters from IBC and David Young.
+
+229 See letter from Nasdaq.
+
+230 See letter from CII. Cf. letter from CalPERS (requesting that the Commission clarify and simplify the definition of materiality and use “the definition for materiality that is used in Regulation S-X. Under Regulation S-X, Rule 1-02(0), material, when used to qualify a requirement for the furnishing of information as to any subject, limits the information required to those matters about which an average prudent investor ought reasonably to be informed.”).
+
+231 See, e.g., letters from CCMC, AFL-CIO and Chevron.
+
+232 See letter from AFL-CIO.
+
+233 See letter from CCMC.
+
+234 See, e.g., letters from Chevron and FEI.
+
+235 See letter from Better Markets.
+
+236 At the same time, we do not expect the final amendment will discourage registrants from disclosing material risks that would enable investors to make informed investment decisions.
+
+237 See letter from Better Markets.
+
+238 See, e.g., letters from CCMC, CII and CalPERS.
+
+239 See Basic Inc. v. Levinson, 485 U.S. 224, 231 (1988) quoting TSC Industries, Inc. v. Northway, Inc., 426
+
+240 See Matrixx Initiatives, Inc. v. Siracusano, 131 U.S. 1309, 1318 (2011) quoting TSC Industries, 426 U.S. at 449). In Matrixx Initiatives, the Court applied the materiality standard, as set forth in TSC Industries and Basic. In articulating these standards, the Supreme Court recognized that setting too low of a materiality standard for purposes of liability could cause management to “bury shareholders in an avalanche of trivial information.” Id. at 1318 (quoting TSC Industries,426 U.S. at 448–449).
+
+241 See Concept Release, supra note 9, at 23926; see also, MD&A Release supra note 32.
+
+242 See, e.g., 1964 Guides, supra note 1982 Integrated Disclosure Adopting Release, supra note and
+
+243 See Concept Release, supra note 9, at 23956.
+
+244 See, e.g., letters from UnitedHealth Group, CII, AGA and EEI, Better Markets, Society, BCI, Nareit, CCMC, FEI, Chevron, NYC Bar Association, CFA Institute and Nasdaq.
+
+245 See, e.g., letters from CII, Better Markets, Society, Nareit, Chevron and Nasdaq.
+
+246 See letter from UnitedHealth Group.
+
+247 See, e.g., letters from AGA and EEI, Society and Nasdaq.
+
+248 See, e.g., letters from GM and PRI.
+
+249 See letter from GM. But see letter from Society (opposing any amendment to require risk factor prioritization on the basis that it would be unduly burdensome and conflict with the proposal to organize risk factors under relevant headings).
+
+250 See, e.g., letters from CII, David Young, CFA Institute, and FEI.
+
+251 See, e.g., letters from AGA and EEI, Society, BCI, NYC Bar Association, Nasdaq, and Huang.
+
+252 See, e.g., letters from AGA and EEI and Society.
+
+253 See letter from Society.
+
+254 Pub. L. 104-67, 109 Stat. 737 (1995) codified as amended in scattered sections of 15 U.S.C.
+
+255 See letter from Huang.
+
+256 See, e.g., letters from AGA and EEI and Society.
+
+257 See, e.g., letters from CII, BCI and CCMC.
+
+258 See letter from Society.
+
+259 See letter from PRI.
+
+260 See letter from CFA Institute.
+
+261 See letter from PRI.
+
+262 See, e.g., letters from AGA and EEI and Society.
+
+263 See, e.g., letters from CII, Better Markets, Society, Nareit, Chevron, and Nasdaq.
+
+264 5 U.S.C. 801 et seq.
+
+265 While Items 101, 103 and 105 have not undergone significant revisions in over thirty years, many characteristics of the registrants that provide these disclosures have changed substantially over this time period. For example, in the calendar year of 1988, the largest 500 U.S. companies in Standard & Poor’s Compustat Daily Updates database had an average market capitalization of $2.42 billion, foreign income of $219.63 million, and ratio of intangible assets to market capitalization of 7.26%. The largest 100 companies had an average market capitalization of $8.75 billion, foreign income of $601.07 million, and ratio of intangible assets to market capitalization of 5.94%. In the calendar year of 2019, the largest 500 companies had an average market capitalization of $54.98 billion, foreign income of $1.47 billion, and ratio of intangible assets to market capitalization of 22.71%. The largest 100 companies had an average market capitalization of 180.78 billion, foreign income of $4.99 billion, and ratio of intangible assets to market capitalization of 22.89%. There is also significant turnover among the largest companies: approximately 40% of top 50 companies in 1988 were still in the top 50 companies in 2019. We believe that some of the final amendments (e.g., requiring the disclosure of the material effects of compliance with material government regulations, including foreign government regulations) will provide investors with information consistent with the changing nature of these registrants. We note that in the Proposing Release we referenced data as of 6/30/1988, while the current release uses data as of 12/31/1988.
+
+266 Section 2(b) of the Securities Act [15 U.S.C. 77b(b)] and Section 3(f) of the Exchange Act [17 U.S.C. 78c(f)] require the Commission, when engaging in rulemaking where it is required to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. Further, Section 23(a)(2) of the Exchange Act [17 U.S.C. 78w(a)(2)] requires the Commission, when making rules under the Exchange Act, to consider the impact that the rules would have on competition, and prohibits the Commission from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the Exchange Act.
+
+267 In response to our request for comment in the Proposing Release, no commenter provided us with data or analysis that quantified or would allow us to further quantify the economic effects of the amendments.
+
+268 See supra note for the definition of foreign private issuer.
+
+269 The number of registrants that file on domestic forms is estimated as the number of unique registrants, identified by Central Index Key (CIK), that filed Form 10-K, or an amendment thereto, or both a Form 10- Q and a Form S-1, S-3, or S-4 with the Commission during calendar year 2019. We believe that these filers are representative of the registrants that will be primarily affected by the final amendments. For purposes of this economic analysis, these estimates do not include registrants that filed only a Securities Act registration statement during calendar year 2019, or only a Form 10-Q not preceded by a Securities Act registration statement, in order to avoid including entities, such as certain co-registrants of debt securities, which may not have an independent reporting obligation and therefore would not be affected by the amendments. We believe that most registrants that have filed a Securities Act registration statement or a Form 10-Q not preceded by a Securities Act registration statement, other than such co-registrants, would be captured by this estimate. The estimates for the percentages of smaller reporting companies, accelerated filers, large accelerated filers, and non-accelerated filers are based on the self-reported status provided by these registrants; the data was obtained by Commission staff using a computer program that analyzes SEC filings, with supplemental data from Ives Group Audit Analytics.
+
+270 The number of affected registrants that file foreign forms is estimated as the number of unique companies, identified by Central Index Key (CIK), that filed Forms F-1, F-3, and F-4, an amendment thereto, or a
+
+271 This number includes fewer than 20 foreign registrants that file on domestic forms and approximately 100 business development companies.
+
+272 An “emerging growth company” is defined, in part, as an registrant that had total annual gross revenues of less than $1.07 billion during its most recently completed fiscal year. See Rule 405; Rule 12b-2; 15
+
+273 Although Items 101(c) and Item 105 use a principles-based approach, based on comments received on prior initiatives, it appears that some registrants have interpreted these Items as imposing prescriptive requirements. See supra Sections II.B and II.D. Therefore, the final amendments emphasize the principles-based approach of these items.
+
+274 See Alastair Lawrence, Individual Investors and Financial Disclosure, 56 J. Acct. & Econ., 130 (2013). Using data on trades and portfolio positions of 78,000 households, this article shows that individuals invest more in firms with clear and concise financial disclosures. This relation is reduced for high frequency trading, financially-literate, and speculative individual investors. The article also shows that individuals’ returns increase with clearer and more concise disclosures, implying such disclosures reduce individuals’ relative information disadvantage. A one standard deviation increase in disclosure readability and conciseness corresponds to return increases of 91 and 58 basis points, respectively. The article acknowledges that, given the changes in financial disclosure standards and the possible advances in individual investor sophistication, the extent to which these findings, which are based on historical data from the 1990s, would differ from those today is unknown. Recent advances in information processing technology, such as machine learning for textual analysis, may also affect the generalizability of these findings.
+
+275 A number of academic studies have explored the use of prescriptive thresholds and materiality criteria. Many of these papers highlight a preference for principles-based materiality criteria. See, e.g. Eugene A. Imhoff Jr. and Jacob K. Thomas, Economic consequences of accounting standards: The lease disclosure rule change, 10.4 J. Acct. & Econ. 277 (1988) (providing evidence that management modifies existing lease agreements to avoid crossing bright-line rules for lease capitalization); Cheri L. Reither, What are the best and the worst accounting standards?, 12.3 Acct. Horizons 283 (1998) (documenting that due to the widespread abuse of bright-lines in rules for lease capitalization, SFAS No. 13 was voted the least favorite FASB standard by a group of accounting academics, regulators, and practitioners); Christopher P. Agoglia et al., Principles-based versus rules-based accounting standards: The influence of standard precision and audit committee strength on financial reporting decisions, 86 Acct. Rev. 747 (2011) (conducting experiments in which experienced financial statement preparers are placed in a lease classification decision context and finding that preparers applying principles-based accounting are less likely to make aggressive reporting decisions than preparers applying a more prescriptive standard and
+
+276 The presence of other controls, including corporate internal controls and board oversight, likely reduces the risk that registrants will misjudge what information is material.
+
+277 See, e.g., Christian Leuz and Peter Wysocki, The Economics of Disclosure and Financial Reporting Regulation: Evidence and Suggestions for Future Research, 54 J. ACCT. RES. 525 (2016) (surveying the empirical literature on the economic consequences of disclosure and discussing potential capital‐market benefits from disclosure and reporting, such as improved market liquidity and decreased cost of capital).
+
+278 See Mark W. Nelson, Behavioral evidence on the effects of principles-and rules-based standards, 17 ACCT. HORIZONS 91 (2003); and Katherine Schipper, Principles-based accounting standards, 17 ACCT. HORIZONS 61 (2003) (noting potential advantages of prescriptive accounting standards, including: increased comparability among firms, increased verifiability for auditors, and reduced litigation for firms). See also Randall Rentfro and Karen Hooks, The effect of professional judgment on financial reporting comparability, 1 J. ACCT. FIN. RES. 87 (2004) (finding that comparability in financial reporting may be reduced under principles-based standards, which rely more heavily on the exercise of professional judgment, but noting that comparability may improve as financial statement preparers become more
+
+279 Under Regulation FD, material information provided to any investor, for example, through investor outreach activities, would be required to be made publicly available. See 17 CFR 243.100 et seq.
+
+280 See, e.g., Exchange Act Rule 10b-5(b) [17 CFR 240.10b-5(b)].
+
+281 See infra Section V.B.
+
+282 See David S. Evans, The Relationship between Firm Growth, Size, and Age: Estimates for 100 Manufacturing Industries, 35 J. INDUS. ECON. 567 (1987) (finding that firm growth decreases with both firm size and age). See also Costas Arkolakis et al., Firm Learning and Growth, 27 REV. ECON.
+
+283 See Elena Huergo and Jordi Jaumandreu, How Does Probability of Innovation Change with Firm Age? 22 SMALL BUS. ECON. 193 (2004) (finding that, as a firm’s age increases, the innovation rate diminishes and attributing this finding to the rapid innovation necessary for a firm to compete when entering a market); Alex Coad et al., Innovation and Firm Growth: Does Firm Age Play a Role?, 45 RES. POL’Y 387 (2016) (finding that young firms undertake riskier innovation and receive larger benefits from research and development).
+
+284 See Sara B. Moeller et al., Wealth Destruction on a Massive Scale? A Study of Acquiring-Firm Returns in the Recent Merger Wave, 60 J. FIN. 757 (2005) (finding that, although small gains were made in the 1980s, investors experienced negative gains from 1998 to 2001, and firms that announced acquisitions with large dollar losses performed poorly afterwards); see also Ran Duchin and Breno Schmidt, Riding the Merger Wave: Uncertainty, Reduced Monitoring, and Bad Acquisitions, 107 J. FIN. ECON. 69 (2013) (finding that the average long-term performance of acquisitions initiated during merger waves is significantly worse than those initiated at other times).
+
+285 Investors may benefit from more concise disclosure that facilitates their ability to focus on information material to an investment decision. See supra note
+
+286 A registrant will be required to incorporate by reference the earlier disclosure into the updated filing. See supra Section II.A.2. We are also adopting a similar amendment to Item 101(h), which applies to smaller reporting companies.
+
+287 See supra note 37 and corresponding text.
+
+288 See id.
+
+289 See Securities Act Rule 411(e) and Exchange Act 12b-23(e).
+
+290 See Jay B. Barney, Strategic Factor Markets: Expectations, Luck, and Business Strategy 32 MGMT. SCI. 1231 (1986) (suggesting that strategies focusing on creating imperfectly competitive product markets may not generate superior performance if the cost of implementing such strategies is high, and that strategic choices should flow mainly from the analysis of its antecedent unique skills and capabilities, rather than from the analysis of its competitive environment). See also Thomas Ritter and Hans G. Gemunden, The Impact Of A Company’s Business Strategy on Its Technological Competence, Network Competence and Innovation Success, 57(5) J. BUS. RES. 548 (2004) (finding that a company’s innovation success is positively correlated with the strength of its technology-oriented business strategy).
+
+291 See David J. Teece, Business Models, Business Strategy and Innovation, 43 LONG RANGE PLANNING 172 (2009) (examining the significance of business models and exploring their connections with business strategy, innovation management, and economic theory). See also Patrick Spieth et al., Exploring the Linkage between Business Model (&) Innovation and the Strategy of the Firm, 46 R&D MGMT. 403 (2016) (examining firm strategy-business model linkage and exploring the role of business model innovation as analytic perspective for identifying sources of firm performance).
+
+292 See supra note 47.
+
+293 See letters from UnitedHealth Group, Dunker, Society, DP&W and GM.
+
+294 See letter from FEI.
+
+295 For example, some academic research has found that the introduction of a new product increases long- term financial performance of the company and firm value. See Dominique Hanssens et al., New Products, Sales Promotions, and Firm Value: The Case of the Automobile Industry, 68 J. MARKETING 142 (2004); see also Amil Petrin, Quantifying the Benefits of New Products: The Case of the Minivan, 110 J. POL. ECON. 705 (2002). Similarly, some academic research has found that patents have a significant impact on firm-level productivity and market value. See Nicholas Bloom and John Van Reenen, Patents, Real Options and Firm Performance, 112 Econ. J. C97 (2002); Zvi Griliches, Market Value, R&D and Patents, 7 ECON. LETTERS 183 (1981).
+
+296 See T. R. Crook et al., Does human capital matter? A meta-analysis of the relationship between human capital and firm performance, 96 J. APPLIED PSYCHOL. 443 (2011).
+
+297 See Mark A. Huselid, The Impact of Human Resource Management Practices on Turnover, Productivity, and Corporate Financial Performance, 38 ACAD. MGMT. J. 635 (1995).
+
+298 See supra note 121.
+
+299 See letters from UnitedHealth Group, Nasdaq, FCLTGlobal, SHRM, GM, and FEI.
+
+300 See letters from ICEE, Hermes, CtW, ICGN, HCMC, CalPERS, NYSCRF, and NYC Comptroller.
+
+301 The final amendments will no longer list the following topics: disclosure about new segments and dollar amount of backlog orders believed to be firm, in addition to working capital practices, which we discuss below.
+
+302 An academic study shows that acquisition of new segments has significant effects on firm productivity. The study finds that firms diversifying into a new segment experience a net reduction in productivity. Specifically, while productivity of new plants increases, incumbent plants suffer. See Antoinette Schoar, The Effect of Diversification on Firm Productivity, 62 J. FIN. 2379 (2002). Another study shows that backlog orders can predict future earnings. See Siva Rajgopal et al., Does the Market Fully Appreciate the Implications of Leading Indicators for Future Earnings? Evidence from Order Backlog, 8 REV. ACCT. STUD. 461 (2003). Based on these studies, it is reasonable to expect that information on new segments and dollar amount of backlog orders believed to be firm could be material to investors in certain circumstances.
+
+303 See letters from FEI and Chevron.
+
+304 Several studies also have found that the possibility of legal proceedings may affect corporate decisions, such as pricing of securities and management’s information dissemination. See, e.g., Michelle Lowry and Susan Shu, Litigation Risk and IPO Underpricing, 65 J. FIN. ECON. 309 (2002) (finding that firms with higher litigation risk underprice their IPOs by a greater amount as a form of insurance, and underpricing by a greater amount lowers expected litigation costs); and Douglas J. Skinner, Why Firms Voluntarily Disclose Bad News?, 32 J. ACCT. RES. 38 (1994) (suggesting that because shareholders are more likely to sue over earnings announcements with large negative returns, firms have an incentive to disclose bad earnings early in order to reduce the probability of being sued and the magnitude of damages); see also Joel F. Houston et al., Litigation Risk and Voluntary Disclosure: Evidence from Legal Changes, 94 ACCT. REV. 247 (2019) (finding a positive relation between the expectation of litigation and voluntary disclosure and suggesting that earnings forecast strategies are often designed to deter litigation)..
+
+305 See Dean Neu et al., Managing Public Impressions: Environmental Disclosures in Annual Reports, 23 ACCT. ORG. & SOC’Y 265 (1998) (using a matched-pair sample of publicly traded Canadian companies that have been subject to environmental fines and those that have not to analyze changes in pre-fine and post-fine environmental disclosure quality, and finding that environmental disclosure provides organizations with a method of managing potential discrediting events); see also Xin Chang et al., Corporate Environmental Liabilities and Capital Structure (2018), available at
+
+306 See Steve Schueth, Socially Responsible Investing in the United States, 43 J. BUS. ETHICS 189 (2003) (providing an overview of the concept and practice of socially and environmentally responsible investing, describing the investment strategies practiced in the U.S., offering explanations for its growth, and examining who chooses to invest in a socially and environmentally responsible manner). See also Laura Starks et al., Corporate ESG profiles and investor horizons (2017), available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3049943 (finding that investors behave more patiently toward environmentally-responsible firms as they sell less after negative earnings surprises or poor stock returns). However, investors may derive value from characteristics of investments that are unrelated to financial performance, and these studies do not directly address whether environmental disclosures provide material information to investors.
+
+307 See supra notes 176 and 178.
+
+308 See supra note 187.
+
+309 This analysis uses current asset data for fiscal year 2019 from Standard & Poor’s Compustat Daily Updates database.
+
+310 This column counts all unique CIKs with 10-Ks and 10-K/As made available on EDGAR for the calendar year. The subset of registrants that only report 10-Qs and 10-Q/As are excluded from this count. If CIKs are re-used by another registrant during the year, the CIK will only count once.
+
+311 A registrant is counted once even if it has multiple ECHO cases that settle within a given year. The settlement date determines the year for a given case. The amounts from multiple cases are added together for each registrant per year to determine the number of registrants that exceeded the 100K and 300K thresholds in Table 1. Because the start date of an enforcement case is not always populated in ECHO (e.g., approximately 25% of the cases that we matched to SEC registrants for the period 2009-2019 were missing a start date), we only count a case in the year when a sanction/settlement agreement was imposed/negotiated. Thus, Table 1 may exclude registrants who had an ongoing case during the period 2009-2019 that was not settled in that period. Also, enforcement cases that name the subsidiary of a registrant as a respondent or defendant instead of the registrant itself are often excluded from our counts since we do not have information on registrant subsidiaries. Similarly, since ECHO contains registrants’ names and not their CIK, we match registrants with ECHO by name. Differences in names between SEC filings and ECHO may have resulted in fewer matches. ECHO is available at https://echo.epa.gov/facilities/enforcement-case-search/results.
+
+312 This number is based on the total cost for all penalties, Supplemental Environmental Projects, and compliance actions.
+
+313 Id.
+
+314 Data on current assets was retrieved from Compustat-CapitalIQ.
+
+315 See Todd Kravet, and Volkan Muslu, Textual Risk Disclosures and Investors’ Risk Perceptions, 18 REV. ACCT. STUD. 1088 (2013) (finding that the increases in annual risk disclosures are associated with higher stock return volatility and trading volume around the filings). See also John L. Campbell et al., The information content of mandatory risk factor disclosures in corporate filings, 19 REV. ACCT. STUD. 396 (2014) (finding that the required disclosure of risk factors in Form 10-K filings affect market beta, stock return volatility, information asymmetry, and firm value, and that firms that face more risks disclose correspondingly more in the risk factor discussion); Allen Huang et al., An Unintended Benefit of the Risk Factor Mandate of 2005 (2019), available at (finding that risk factor disclosure is associated with an improved information environment).
+
+316 See Ole Kristian Hope et al., The Benefits of Specific Risk-Factor Disclosures, 21 REV. ACCT. STUD. 1005 (2016) (finding that the market reaction to a Form 10-K filing is positively and significantly associated with specificity and suggesting that analysts are better able to assess fundamental risk when firms’ risk- factor disclosures are more specific).
+
+317 See Bjørn Eckbo and Øyvind Norli, Liquidity Risk, Leverage, and Long-Run IPO Returns, 11. J. CORP. FIN. 1 (2005) (constructing a portfolio of 6,000 IPO stocks and measuring their returns in order to compare them with individual risk factors). The model for risk estimation includes several quantitative measures, as well as simple characteristic-based risks of the type disclosed in Forms S-1 and 10-K. The results indicate that the returns are likely fully justified by the increased risk of the IPO firms.
+
+318 See letter from Nareit.
+
+319 See letters from FEI and Nareit.
+
+320 See letter from Society.
+
+321 See supra note 205 and accompanying text.
+
+322 To estimate the percentage of registrants that would be affected by a 15-page threshold, we extracted all Forms S-1, S-3, S-4, S-11, 1-A, 10, and 10-K filed with the Commission during calendar year 2018. This population consists of approximately 10,000 forms. We then excluded Forms 10-K filed by smaller reporting companies and asset-backed issuers as well as Forms 10 filed by smaller reporting companies because these registrants are not required to provide risk factor disclosure per Item 1A or Instruction J. Next, we constructed a random sample of 100 companies and calculated the length of their risk factor disclosure. The resulting page distribution had the mean of 15.26 and median of 13.5 pages. The 15-page threshold is around the 60th percentile of the distribution. Therefore, we estimate that this threshold will affect approximately 40 percent of registrants.
+
+323 See letters from FEI, Nareit, and Society.
+
+324 See supra note 220 and accompanying text (discussing commenters’ concerns about litigation risk).
+
+325 See Ryan D. Israelsen, Tell It Like It Is: Disclosed Risks and Factor Portfolios (2014), available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2504522 (using textual analysis techniques to extract a broad set of disclosed risk factors from firms’ SEC filings to examine characteristics of the firms most likely to make each type of disclosure, and investigating the relation between firms’ risk disclosures and their stock return volatilities and factor loadings).
+
+326 See letters from Nasdaq and Society.
+
+327 See David Hirshleifer and Siew Hong Teoh, Limited attention, information disclosure, and financial reporting, 36 J. ACCT. & ECON. 337 (2003) (developing a theoretical model where investors have limited attention and processing power and showing that, with partially attentive investors, the means of presenting information may have an impact on stock price reactions, mis-valuation, long-run abnormal returns, and corporate decisions).
+
+328 We note, however, that, except for the elimination of the provision that requires smaller reporting companies to describe the development of their business during the last three years, smaller reporting companies that elect to provide the alternative business disclosure under Item 101(h) will continue to have mostly prescriptive requirements under the final amendments.
+
+329 See letters from ICGN, Public Citizen, Letter Type A, and AFL-CIO.
+
+330 See, e.g., letter from PRI.
+
+331 In addition, some commenters consider that a focus on the employee number is outdated, arbitrary, and of limited use. See supra note 152.
+
+332 See supra note 150.
+
+333 See Frederico Belo et al., Labour Hiring, Investment, and Stock Return Predictability in the Cross Section, 122J. POLIT. ECON. 129 (2014) (finding that annual growth in employee count is associated with low cost of capital). See also Qin Li et al., Employee Turnover and Firm Performance: Large-Sample Archival Evidence (2020), available at https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3505626 (documenting that employee turnover is negatively associated with future financial performance).
+
+334 See supra note 177 and accompanying text.
+
+335 Business disclosure for foreign private issuers is governed by Part I of Form 20-F, and not by Item 101 of Regulation S-K. See supra note 23. The Commission amended Form 20-F in 1999 to conform it in large part to the non-financial disclosure standards endorsed by IOSCO. See supra note 12 and accompanying text.
+
+336 See supra note 19.
+
+337 44 U.S.C. 3501 et seq.
+
+338 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+339 The paperwork burden for Regulation S-K is imposed through the forms that are subject to the requirements in this regulation and is reflected in the analysis of those forms.
+
+340 See, e.g., letters from Society, Nasdaq, Dunker, DP&W and FEI.
+
+341 See Section VIII of the Proposing Release.
+
+342 We recognize that the costs of retaining outside professionals may vary depending on the nature of the professional services, but for purposes of this PRA analysis, we estimate that such costs would be an average of $400 per hour. This estimate is based on consultations with several registrants, law firms, and other persons who regularly assist registrants in preparing and filing documents with the Commission.
+
+343 The number of estimated affected responses is based on the number of responses in the Commission’s current OMB PRA filing inventory. The OMB PRA filing inventory represents a three-year average.
+
+344 The numbers in Columns (C), (D) and (E) have been rounded to the nearest whole number.
+
+345 5 U.S.C. 601 et seq.
+
+346 5 U.S.C. 605(b). Section 605 of the RFA allows an agency to certify a rule is not expected to have a significant economic impact on a substantial number of small entities.
+
+347 See Section V.D.

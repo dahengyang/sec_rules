@@ -1,0 +1,555 @@
+https://www.sec.gov/rules/final/2019/34-86590.pdf
+
+I.0.0.0 Introduction
+
+II.0.0.0 Background
+
+III.0.0.0 Description of Rule Amendments A.	Rule 17g-5(a)(3)
+
+	III.B.0.0 Conforming Amendments to Rule 17g-7(a) and Rule 15Ga-2
+
+	III.C.0.0 Technical Amendments
+
+IV.0.0.0 Paperwork Reduction Act
+
+	IV.A.0.0 Summary of Collection of Information under the Rule Amendments and Use of Information
+
+		IV.A.1.0 Amendment to Rule 17g-5(a)(3)
+
+		IV.A.2.0 Amendment to Rule 17g-7(a)
+
+	IV.B.0.0 Respondents
+
+	IV.C.0.0 Burden and Cost Estimates Related to the Amendments
+
+		IV.C.1.0 Amendment to Rule 17g-5(a)(3)
+
+		IV.C.2.0 Amendment to Rule 17g-7(a)
+
+	IV.D.0.0 Collection of Information is Required to Obtain a Benefit
+
+	IV.E.0.0 Confidentiality
+
+V.0.0.0 Other Matters
+
+VI.0.0.0 Economic Analysis
+
+	VI.A.0.0 Introduction
+
+	VI.B.0.0 Baseline and Affected Parties
+
+	VI.C.0.0 Anticipated Costs and Benefits, Including Potential Effects on Efficiency, Competition, and Capital Formation
+
+		VI.C.1.0 Potential Benefits
+
+		VI.C.2.0 Potential Costs and Other Anticipated Effects
+
+		VI.C.3.0 Alternative Considered: Allow Exemptive Order to Expire
+
+			VI.C.3.a Benefits
+
+			VI.C.3.b Costs
+
+VII.0.0.0 Regulatory Flexibility Act Certification
+
+VIII.0.0.0 Statutory Authority
+
+
+
+<END TABLE OF CONTENTS>
+
+Conformed to Federal Register version
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>240</sup>
+
+[Release No. 34-86590; File No. S7-22-18] RIN 3235-AM05
+
+Amendments to Rules for Nationally Recognized Statistical Rating Organizations AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“Commission”) is adopting amendments to rules for nationally recognized statistical rating organizations (“NRSROs”) under the Securities Exchange Act of 1934 (“Exchange Act”). The amendments provide an exemption from a rule for NRSROs with respect to credit ratings if the issuer of the security or money market instrument referred to in the rule is not a U.S. person, and the NRSRO has a reasonable basis to conclude that all offers and sales of such security or money market instrument by any issuer, sponsor, or underwriter linked to such security or money market instrument will occur outside the United States. In addition, the amendments make conforming changes to similar exemptions in two other Exchange Act rules and technical corrections with respect to one of these rules.
+
+EFFECTIVE DATE: September 13, 2019.
+
+FOR FURTHER INFORMATION CONTACT: Harriet Orol, Kevin Vasel, or Patrick Boyle, at (212) 336-9080, Office of Credit Ratings, Securities and Exchange Commission, New York Regional Office, 200 Vesey Street, Suite 400, New York, NY 10281.
+
+SUPPLEMENTARY INFORMATION: The Commission is adopting amendments to:
+
+TABLE OF CONTENTS
+
+Introduction
+
+Background
+
+A. Rule 17g-5(a)(3)
+
+Rule 17g-7(a) and Rule 15Ga-2
+
+Description of Rule Amendments A. Rule 17g-5(a)(3)
+
+Conforming Amendments to Rule 17g-7(a) and Rule 15Ga-2
+
+Technical Amendments
+
+Paperwork Reduction Act
+
+Summary of Collection of Information under the Rule Amendments and Use of Information
+
+Amendment to Rule 17g-5(a)(3)
+
+Amendment to Rule 17g-7(a)
+
+Respondents
+
+Burden and Cost Estimates Related to the Amendments
+
+Amendment to Rule 17g-5(a)(3)
+
+Amendment to Rule 17g-7(a)
+
+Collection of Information is Required to Obtain a Benefit
+
+Confidentiality
+
+Other Matters
+
+Economic Analysis
+
+Introduction
+
+Baseline and Affected Parties
+
+Anticipated Costs and Benefits, Including Potential Effects on Efficiency, Competition, and Capital Formation
+
+Potential Benefits
+
+Potential Costs and Other Anticipated Effects
+
+Alternative Considered: Allow Exemptive Order to Expire
+
+Benefits
+
+Costs
+
+Regulatory Flexibility Act Certification
+
+Statutory Authority
+
+<END HEADER>
+
+<h>I. Introduction</h>
+
+On September 26, 2018, the Commission published for comment proposed amendments to Rule 17g-5(a)(3) to provide an exemption from the rule for NRSROs with respect to credit ratings if the issuer of the security or money market instrument referred to in the rule is not a
+
+U.S. person, and the NRSRO has a reasonable basis to conclude that all offers and sales of such security or money market instrument by any issuer, sponsor, or underwriter linked to suchsecurity or money market instrument will occur outside the United States . <sup>2</sup> The Commission also proposed amendments to Rule 17g-7(a) and Rule 15Ga-2 that would conform the exemptions contained in such rules with the exemption proposed with respect to Rule 17g- 5(a)(3).
+
+As discussed in Section III of this release, the Commission has considered the comment letters received in response to the proposed amendments and is adopting the amendments as proposed. <sup>3</sup> The Commission believes that codifying the exemption to Rule 17g-5(a)(3) is appropriate given notions of international comity and the generally limited interest of the Commission in regulating securities offered and sold exclusively outside of the United States. With respect to the conforming amendments to Rule 17g-7(a) and Rule 15Ga-2, the Commission continues to believe that it is important to maintain a consistent approach to determining how Rule 17g-5(a)(3), Rule 17g-7(a), and Rule 15Ga-2 apply to offshore transactions. The Commission further believes that the changes made to the conditions to the exemptions will promote clarity and consistency regarding the intended application of the exemptions and their relationship to 17 CFR 230.901 through 230.905 (“Regulation S”).
+
+<h>II. Background</h>
+
+A.	Rule 17g-5(a)(3)
+
+In 2009, the Commission adopted amendments to 17 CFR 240.17g-5 (“Rule 17g-5”) designed to address conflicts of interest arising from the business of determining credit ratings,and to improve competition and the quality of credit ratings for structured finance products, by making it possible for more NRSROs to rate such securities . <sup>4</sup> The amendments established a program (“Rule 17g-5 Program”) by which an NRSRO that is not hired by an issuer, sponsor, or underwriter (collectively, “arranger”) is able to obtain the same information that the arranger provides to an NRSRO hired to determine a credit rating for the structured finance product at the same time the information is provided to the hired NRSRO. <sup>5</sup>
+
+The Rule 17g-5 Program operates by requiring a hired NRSRO to maintain a password- protected website containing a list of each structured finance product for which it is currently in the process of determining an initial credit rating. <sup>6</sup> The list must be in chronological order and identify the type of structured finance product, the name of the issuer, the date the credit rating process was initiated, and the website where the arranger of the structured finance product represents that the information provided to the hired NRSRO can be accessed by non-hired NRSROs. <sup>7</sup> The hired NRSRO must provide free and unlimited access to the website it maintainspursuant to the Rule 17g-5 Program to any non-hired NRSRO that provides a copy of a certification it has furnished to the Commission in accordance with 17 CFR 240.17g-5(e). <sup>8</sup>
+
+The Rule 17g-5 Program also requires the hired NRSRO to obtain a written representation from the arranger of the structured finance product that can be reasonably relied on by the hired NRSRO. <sup>9</sup> Such representation must include: that the arranger will maintain a password-protected website that other NRSROs can access; that the arranger will post on this website all information the arranger provides to the hired NRSRO (or contracts with a third party to provide to the hired NRSRO) for the purpose of determining the initial credit rating and undertaking credit rating surveillance; and that the arranger will post this information to the website at the same time such information is provided to the hired NRSRO. <sup>10</sup>
+
+Prior to the June 2, 2010, compliance date for the Rule 17g-5 Program, the Commission by order granted a temporary conditional exemption to NRSROs from Rule 17g-5(a)(3). This temporary conditional exemption (the “existing Rule 17g-5(a)(3) exemption”) applies solely with respect to credit ratings if: (1) the issuer of the security or money market instrument is not a U.S. person (as defined under 17 CFR 230.902(k)); and (2) the NRSRO has a reasonable basis to conclude that the structured finance product will be offered and sold upon issuance, and that any arranger linked to the structured finance product will effect transactions of the structured finance product after issuance, only in transactions that occur outside the United States. <sup>11</sup> Theseconditions were designed to confine the existing Rule 17g-5(a)(3) exemption’s application to credit ratings of structured finance products issued in, and linked to, financial markets outside of the United States. The Commission granted this relief in light of concerns raised by various foreign securities regulators and market participants that local securitization markets may be disrupted if the rule applied to transactions outside the United States. <sup>12</sup> The Commission has extended the existing Rule 17g-5(a)(3) exemption several times, most recently until the earlier of December 2, 2019, or the compliance date set forth in any final rule that may be adopted by the Commission that provides for a similar exemption. <sup>13</sup>
+
+B.	Rule 17g-7(a) and Rule 15Ga-2
+
+In 2014, the Commission adopted Rule 17g-7(a) and Rule 15Ga-2. Rule 17g-7(a) requires an NRSRO, when taking a rating action, to publish an information disclosure form containing specified information about the related credit rating. <sup>14</sup> For example, the information disclosure form must specify, among other things, the version of the methodology used to determine the credit rating, a description of the types of data relied upon to determine the credit rating, and information on the sensitivity of the credit rating to assumptions made by the
+
+NRSRO. <sup>15</sup> The NRSRO must also attach to the information disclosure form an attestation affirming that no part of the credit rating was influenced by any other business activities, that the credit rating was based solely upon the merits of the obligor, security, or money market instrument being rated, and that the rating was an independent evaluation of the credit risk of the obligor, security, or money market instrument. <sup>16</sup>
+
+Rule 17g-7(a) also requires an NRSRO, when taking a rating action, to publish any executed Form ABS Due Diligence-15E containing information about the security or money market instrument subject to the rating action received by the NRSRO or obtained by the NRSRO through the website maintained by an arranger under the Rule 17g-5 Program. <sup>17</sup> Form ABS Due Diligence-15E is the form on which a person employed by an NRSRO, issuer, or underwriter to provide third-party due diligence services in connection with an asset-backed security must, among other things, describe the scope and manner of the due diligence provided, summarize the findings and conclusions of its review, and certify that it conducted a thorough review in performing the due diligence. <sup>18</sup>
+
+Rule 15Ga-2 also relates to third-party due diligence services and requires the issuer or underwriter of an asset-backed security that is to be rated by an NRSRO to furnish to the
+
+U.S.C. 78o-7(s)(4)(B).
+
+Commission Form ABS-15G containing the findings and conclusions of any third-party due diligence report obtained by the issuer or underwriter. <sup>19</sup>
+
+In response to concerns raised by commenters when the rules were proposed, <sup>20</sup> the Commission included paragraph (3) in Rule 17g-7(a) and paragraph (e) in Rule 15Ga-2 to provide an exemption from the disclosure requirements for certain offshore transactions. <sup>21</sup> The Commission closely modeled the language of the Rule 17g-7(a) exemption on the existing Rule 17g-5(a)(3) exemption. <sup>22</sup> The Commission noted that it was appropriate for the Rule 15Ga-2 exemption to be aligned with the Rule 17g-7(a) exemption so that there is a consistent approach to determining when the Commission’s NRSRO rules apply to offshore transactions. <sup>23</sup>
+
+<h>III. Description of Rule Amendments A.	Rule 17g-5(a)(3)</h>
+
+In the Proposing Release, the Commission proposed to codify, with certain clarifying changes, the existing Rule 17g-5(a)(3) exemption. Specifically, the Commission proposed to add new paragraph (iv) to Rule 17g-5(a)(3) to provide that the provisions of paragraphs (i) through (iii) of Rule 17g-5(a)(3) will not apply to an NRSRO when issuing or maintaining a credit rating for a security or money market instrument issued by an asset pool or as part of any asset-backed securities transaction, if: (1) the issuer of the security or money market instrument is not a U.S. person (as defined in 17 CFR 230.902(k)); and (2) the NRSRO has a reasonable basis to conclude that all offers and sales of the security or money market instrument by any issuer, sponsor, or underwriter linked to the security or money market instrument will occur outside the United States (as that phrase is used in Regulation S).
+
+Three commenters, including an NRSRO and two industry groups, submitted comment letters in response to the proposed amendments. <sup>24</sup> The commenters all supported the Commission’s proposal to codify the existing Rule 17g-5(a)(3) exempti on . <sup>25</sup> One commenter stated that concerns that have been raised over time about extraterritorial application of Rule 17g-5(a)(3) remain relevant and that adoption of the proposed amendment would be an effectivemeans by which to provide permanent relief. <sup>26</sup> This commenter also expressed the belief that adopting the proposed amendment would be consistent with notions of international comity and the generally limited interest of the Commission in regulating securities offered and sold exclusively outside the United States. <sup>27</sup> Another commenter stated that Rule 17g-5(a)(3) should not apply with respect to non-U.S. offerings absent a substantial effect in the United States or on
+
+U.S. persons, arguing that applying the rule to all credit ratings of an NRSRO or a registered affiliate, regardless of whether the relevant transaction involves a U.S. investor connection, would be inconsistent from a policy perspective with the wider U.S. legislative and regulatory framework as well as principles of international comity. <sup>28</sup> Commenters also indicated that codification of the existing Rule 17g-5(a)(3) exemption would benefit NRSROs and other securitization market participants worldwide by providing certainty and predictability regarding continued application of the exempti on . <sup>29</sup>
+
+One of the commenters, though supportive of the proposal, expressed the view that Rule 17g-5(a)(3) has been ineffective, citing longstanding discussions among its issuer member firms as evidence that very few non-hired NRSROs have requested access to the websites thatarrangers are required to maintain under the rule. <sup>30</sup> This commenter noted that concerns with respect to the effectiveness of the rule are compounded by lingering international uncertainty regarding the potential future applicability of Rule 17g-5(a)(3) to extraterritorial transactions. <sup>31</sup>
+
+The Commission has considered the views and policy considerations expressed by commenters and continues to believe it is appropriate to provide relief regarding the application of Rule 17g-5(a)(3) to transactions offered and sold exclusively outside the United States. As stated in the Proposing Release, the Commission believes that such an approach is consistent with the approach it has taken in other contexts and with notions of international comity and the generally limited interest of the Commission in regulating securities offered and sold exclusively outside of the United States. Thus, the Commission is adopting new paragraph (iv) to Rule 17g- 5(a)(3) as proposed. The Commission has also directed staff to further evaluate the effectiveness of Rule 17g-5(a)(3) with respect to credit ratings of structured finance products that are not eligible for relief under the adopted exemption.
+
+The conditional exemption that the Commission is adopting in new paragraph (iv) to Rule 17g-5(a)(3) is narrowly tailored to provide relief only with respect to structured finance products issued by non-U.S. issuers and offered and sold exclusively outside of the United States. Further, the exemption only applies to the provisions of paragraphs (i) through (iii) of Rule 17g-5(a)(3). It does not limit in any way the scope or applicability of the other requirements in Rule 17g-5 or other provisions of the federal securities laws, including the antifraud provisions.
+
+The first condition of the exemption to Rule 17g-5(a)(3)—that the issuer of the structured finance product must not be a U.S. person—limits the relief to credit ratings of structured finance products issued by non-U.S. issuers. To this end, and for purposes of the exemption, “U.S. person” has the same definition as under Regulation S. <sup>32</sup> Consequently, to qualify for the exemption, the NRSRO has to be determining a credit rating for a structured finance product issued by a person that is not a U.S. person.
+
+The second condition of the exemption to Rule 17g-5(a)(3)—that the NRSRO has a reasonable basis to conclude that all offers and sales of the structured finance product by any arranger linked to the structured finance product will occur outside the United States—is intended to limit the relief to credit ratings of structured finance products offered and sold exclusively outside the United States. This condition closely tracks the language of Regulation S <sup>33</sup> and specifies that the phrase “occur outside the United States” has the same meaning as in Regulation S.
+
+The determination of whether an NRSRO has a reasonable basis to conclude that all offers and sales of the structured finance product by any arranger linked to the structured finance product will occur outside the United States depends on the facts and circumstances of a given situation. To have a reasonable basis to reach such a conclusion, the NRSRO generally should ascertain how any arranger linked to the structured finance product intends to market and sell the structured finance product and to engage in any secondary market activities (i.e., re-sales) of thestructured finance product, and whether any such efforts and activities will occur in the United States (including any “directed selling efforts,” as defined in Regulation S). <sup>34</sup>
+
+For instance, an NRSRO could obtain from the applicable arranger a representation upon which the NRSRO can reasonably rely that all offers and sales by the arranger of the structured finance product to be rated by the NRSRO will occur outside the United States. For example, the arranger’s representation could provide assurances that all such offers and sales will be conducted in accordance with the applicable safe harbor under Regulation S. <sup>35</sup> In determining whether it is reasonable to rely on any such representation, an NRSRO should evaluate the representation in light of other information known to the NRSRO, such as information in the relevant transaction documents, any ongoing or prior failures by the arranger to adhere to its representations, and any pattern of conduct by the arranger of it failing to promptly correct breaches of its representations.
+
+An NRSRO generally should reevaluate the reasonableness of its basis for concluding that the structured finance product will be offered and sold outside the United States if the NRSRO obtains information during the course of its engagement that could cause it to reasonably believe there are offering or sales activities occurring inside the United States. In this regard, one option would be for the NRSRO to include in any representation obtained from an arranger a mechanism for the arranger to promptly notify the NRSRO of any change that would render the representation untrue or inaccurate.
+
+<h>B. Conforming Amendments to Rule 17g-7(a) and Rule 15Ga-2</h>
+
+In the Proposing Release, the Commission proposed amendments to Rule 17g-7(a) and Rule 15Ga-2 to align the exemptions in such rules with the exemption proposed with respect to Rule 17g-5(a)(3). Specifically, the Commission proposed amending paragraph (3)(ii) of Rule 17g-7(a) to clarify that the exemption to Rule 17g-7(a) is available only if an NRSRO has a reasonable basis to conclude that: (1) with respect to any security or money market instrument issued by a rated obligor, all offers and sales by any issuer, sponsor, or underwriter linked to the security or money market instrument will occur outside the United States (as that phrase is used in Regulation S); or (2) with respect to a rated security or money market instrument, all offers and sales by any issuer, sponsor, or underwriter linked to the security or money market instrument will occur outside the United States (as that phrase is used in Regulation S).
+
+Likewise, the Commission proposed amending paragraph (e)(3) of Rule 15Ga-2 to clarify that the exemption to Rule 15Ga-2 is available only if all offers and sales of an asset-backed security by any issuer, sponsor, or underwriter linked to the security will occur outside the United States (as that phrase is used in Regulation S).
+
+One commenter addressed the proposed amendments to Rule 17g-7(a) and Rule 15Ga-2. The commenter supported the Commission’s efforts to align the exemptions to these rules with the exemption proposed for Rule 17g-5(a)(3). <sup>36</sup> The Commission continues to believe that it is appropriate for there to be a consistent approach to determining how Rule 17g-5(a)(3), Rule 17g- 7(a), and Rule 15Ga-2 apply to offshore transactions. The Commission is therefore adopting the amendments to Rule 17g-7(a) and Rule 15Ga-2 as proposed.
+
+As is the case with the exemption to Rule 17g-5(a)(3), the determination of whether an NRSRO has a reasonable basis to conclude that all offers and sales of the applicable securities or money market instruments by any arranger linked to such securities or money market instruments will occur outside the United States depends on the facts and circumstances of a given situation. The discussion in Section III.A. of this release regarding how an NRSRO may obtain such a reasonable basis for purposes of the exemption to Rule 17g-5(a)(3) also applies for purposes of the amendment to Rule 17g-7(a).
+
+As described in the Proposing Release, the amendment to Rule 17g-7(a) also clarifies that the second condition of the Rule 17g-7(a) exemption applies differently in the case of rated obligors than it does in the case of rated securities or money market instruments. In the case of rated securities or money market instruments, the condition to the Rule 17g-7(a) exemption applies in the same way as the condition to the Rule 17g-5(a)(3) exemption—i.e., an NRSRO must have a reasonable basis to conclude that all offers and sales of the rated security or money market instrument by any arranger linked to that security or money market instrument will occur outside the United States. For the Rule 17g-7(a) exemption to apply with respect to a rating of an obligor, however, an NRSRO must have a reasonable basis to conclude that the condition is satisfied with respect to all securities or money market instruments issued by that obligor.
+
+Accordingly, if any of a rated obligor’s securities or money market instruments are offered and sold by an arranger linked to those securities or money market instruments within the United States, the exemption would not apply to rating actions involving the credit rating assigned to the obligor as an entity. The Commission previously discussed the distinction between the application of the exemption with respect to rated obligors and rated securities or money marketinstruments in the adopting release for Rule 17g-7(a). <sup>37</sup> As amended, Rule 17g-7(a) more clearly states this distinction in the rule text itself.
+
+<h>C. Technical Amendments</h>
+
+The proposed amendment to Rule 15Ga-2 also included technical amendments to the rule text, which the Commission is adopting as proposed. Specifically, the subparagraph designations of paragraph (e) of Rule 15Ga-2 are revised to use numerals ((1), (2), and (3)) instead of romanettes ((i), (ii), and (iii)). Additionally, the reference to 17 CFR 230.902 in paragraph (e)(2) of Rule 15Ga-2 is revised to read “§ 230.902(k)” in place of “Securities Act Rule 902(k).” In addition, the Commission is adopting a technical amendment to correct the subparagraph designations of paragraph (f) of Rule 15Ga-2 to use numerals ((1) and (2)) instead of romanettes ((i) and (ii)).
+
+<h>IV. Paperwork Reduction Act</h>
+
+The amendments to Rule 17g-5(a)(3) and Rule 17g-7(a) contain new “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>38</sup> The Commission submitted revisions to the currently approved collections of information to the Office of Management and Budget (“OMB”) for review in accordance with the PRA. <sup>39</sup> An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid control number. The titles for the collections of information are:
+
+The amendment to Rule 15Ga-2 does not contain a collection of information requirement within the meaning of the PRA.
+
+In the Proposing Release, the Commission provided estimates of the burden of complying with the proposed amendments to Rule 17g-5(a)(3) and Rule 17g-7(a) and requested comment on the proposed collections of information. The Commission did not receive any comment letters addressing the collection of information aspects of the proposal.
+
+<h>A. Summary of Collection of Information under the Rule Amendments and Use of Information</h>
+
+<h>1. Amendment to Rule 17g-5(a)(3)</h>
+
+The Commission is adopting, as proposed, an amendment to Rule 17g-5(a)(3) that provides an exemption to the rule with respect to credit ratings of structured finance products if the issuer of the structured finance product is not a U.S. person and the NRSRO has a reasonable basis to conclude that all offers and sales of the structured finance product by any arranger linked to the structured finance product will occur outside the United States. <sup>40</sup> In order to have a reasonable basis for such a conclusion, an NRSRO may collect information from an arranger.
+
+For instance, an NRSRO may elect to obtain a representation from an arranger regarding the manner in which the structured finance product will be offered and sold. Such information regarding the manner in which the structured finance product will be offered and sold may benecessary for an NRSRO to determine whether the exemption applies with respect to the rating of the structured finance product.
+
+<h>2. Amendment to Rule 17g-7(a)</h>
+
+The Commission is adopting, as proposed, an amendment to the existing exemption in Rule 17g-7(a). The amendment clarifies that, in order for the exemption to apply, an NRSRO must have a reasonable basis to conclude that: (1) with respect to any security or money market instrument issued by a rated obligor, all offers and sales by any issuer, sponsor, or underwriter linked to the security or money market instrument will occur outside the United States; or (2) with respect to a rated security or money market instrument, all offers and sales by any issuer, sponsor, or underwriter linked to the security or money market instrument will occur outside the United States. <sup>41</sup> In order to have a reasonable basis for such a conclusion, an NRSRO may collect information from an arranger or obligor. For instance, an NRSRO may elect to obtain a representation from an arranger regarding the manner in which a rated security or money market instrument will be offered and sold or from an obligor regarding the manner in which all its securities and money market instruments have been offered and sold. Such information may be necessary for an NRSRO to determine whether the exemption applies with respect to a rating action.
+
+<h>B. Respondents</h>
+
+Rule 17g-5(a)(3) applies to NRSROs that rate structured finance products. Currently, there are seven NRSROs that are registered in the issuers of asset-backed securities ratings class that could rely on the exemption to Rule 17g-5(a)(3 ) . <sup>42</sup>
+
+Rule 17g-7(a) applies to all rating actions taken by an NRSRO. There are currently 10 credit rating agencies registered with the Commission as NRSROs that could rely on the exemption to Rule 17g-7(a ) . <sup>43</sup>
+
+<h>C. Burden and Cost Estimates Related to the Amendments</h>
+
+<h>1. Amendment to Rule 17g-5(a)(3)</h>
+
+The amendment to Rule 17g-5(a)(3) codifies the existing exemption, with certain clarifying changes.
+
+The Commission believes that NRSROs will modify their processes to account for the changes to the conditions of the exemption as adopted. For instance, an NRSRO that has sought written representations from an arranger to support the reasonable belief required under the existing Rule 17g-5(a)(3) exemption may modify the form of the representation to conform to the language of the condition as adopted. In the Proposing Release, the Commission estimated that it would take an NRSRO approximately five hours to update its process for obtaining a reasonable basis to reflect the clarifying language in the exemption, for an industry-wide one-time burden of approximately 35 hours. <sup>44</sup> The Commission received no comments on this estimate and continues to estimate an industry-wide one-time burden of approximately 35 hours.
+
+In order to have a reasonable basis to conclude that all offers and sales of the structured finance product by any arranger linked to the structured finance product will occur outside the United States , the Commission believes that NRSROs will likely seek information from arrangers, thereby resulting in associated costs. In the Proposing Release, the Commission estimated that an NRSRO would spend approximately two hours per transaction gathering and reviewing information received from arrangers to determine if the exemption applies. The Commission also estimated in the Proposing Release that approximately 267 rated transactions would be eligible for the exemption in a given year and that each transaction would be rated by approximately two NRSROs, resulting in a total aggregate annual hour burden of 1,068 hours. <sup>45</sup> The Commission received no comments on these estimates.
+
+The Commission continues to estimate that an NRSRO would spend approximately two hours per transaction gathering and reviewing information received from arrangers to determine if the exemption applies and that each transaction would be rated by approximately two NRSROs. The Commission is updating its estimate of the number of rated transactions that would be eligible for the exemption in a given year to reflect more current data. The
+
+Commission currently estimates that approximately 284 rated transactions would be eligible for the exemption annually , <sup>46</sup> resulting in a total aggregate annual hour burden of 1,136 hours. <sup>47</sup>
+
+<h>2. Amendment to Rule 17g-7(a)</h>
+
+The Commission is adopting, as proposed, amendments to the existing exemption in Rule 17g-7(a). The amendments clarify that, in order for the exemption to apply, an NRSRO must have a reasonable basis to conclude that: (1) with respect to any security or money market instrument issued by a rated obligor, all offers and sales by any issuer, sponsor, or underwriter linked to the security or money market instrument will occur outside the United States; or (2) with respect to a rated security or money market instrument, all offers and sales by any issuer, sponsor, or underwriter linked to the security or money market instrument will occur outside the United States. <sup>48</sup>
+
+The Commission believes that NRSROs will modify their processes to reflect the amendment to the Rule 17g-7(a) exemption. For instance, an NRSRO that has sought written representations from an obligor or arranger to support the reasonable belief required under the existing Rule 17g-7(a) exemption may modify the form of the representation to conform to the language of the condition as amended. In the Proposing Release, the Commission estimated that it would take an NRSRO approximately five hours to update its process for obtaining areasonable basis to reflect the amendment to the Rule 17g-7(a) exemption, for an industry-wide one-time burden of approximately 50 hours. <sup>49</sup> The Commission received no comments on this estimate and continues to estimate an industry-wide one-time burden of approximately 50 hours.
+
+<h>D. Collection of Information is Required to Obtain a Benefit</h>
+
+The collection of information is required to obtain or maintain a benefit—i.e., to qualify for the relevant exemption and eliminate the need to incur the costs associated with complying with the corresponding rule. In order to form a reasonable basis to conclude that all offers and sales of a security or money market instrument will occur outside the United States, an NRSRO likely will gather certain information from the obligor or an arranger including, for example, obtaining a representation to that effect. The determination of a reasonable basis would be necessary for the exemption to Rule 17g-5(a)(3) and the amended exemption to Rule 17g-7(a) to apply.
+
+<h>E. Confidentiality</h>
+
+Any information obtained by an NRSRO from an obligor or arranger to establish a reasonable basis will not be made public, unless the NRSRO, obligor, or arranger chooses to make it public. Information provided to the Commission in connection with staff examinations or investigations would be kept confidential, subject to the provisions of applicable law.
+
+<h>V. Other Matters</h>
+
+Pursuant to the Congressional Review Act, the Office of Information and Regulatory Affairs has designated these rules as not a major rule as defined by 5 U.S.C. § 804(2).
+
+<h>VI. Economic Analysis</h>
+
+<h>A. Introduction</h>
+
+As discussed above, the Commission is adopting, as proposed, an amendment to Rule 17g-5(a)(3) to provide an exemption from the rule with respect to credit ratings where the issuer of the structured finance product is not a U.S. person, and the NRSRO has a reasonable basis to conclude that all offers and sales of the structured finance product by any arranger linked to the structured finance product will occur outside the United States. The Commission is also adopting conforming amendments to similar exemptions set forth in Rule 17g-7(a) and Rule 15Ga-2. The Commission is sensitive to the costs and benefits of its rules. When engaging in rulemaking that requires the Commission to consider or determine whether an action is necessary or appropriate in the public interest, Section 3(f) of the Exchange Act requires that the Commission consider, in addition to the protection of investors, whether the action will promote efficiency, competition, and capital formation. <sup>50</sup> In addition, Section 23(a)(2) of the Exchange Act requires the Commission to consider the effects on competition of any rules the Commission adopts under the Exchange Act, and prohibits the Commission from adopting any rule that would impose a burden on competition not necessary or appropriate in furtherance of the purposes of the Exchange Act. <sup>51</sup>
+
+The Commission has considered the effects of the amendments on competition, efficiency, and capital formation. Many of the benefits discussed below are difficult to quantify, in particular when considering the potential impact on conflicts of interest or competition. Consequently, while the Commission has, wherever possible, attempted toquantify the economic effects expected to result from the amendments, much of the discussion below is qualitative in nature. Moreover, because the existing Rule 17g-5(a)(3) exemption is currently in effect (and has been in effect since May 19, 2010—i.e., prior to the compliance date for Rule 17g-5(a)(3)), there has been no effect on transactions outside the United States because changes in the market related to the application of Rule 17g-5(a)(3) have not occurred with respect to these transactions as a consequence of the Exemptive Order.
+
+The Commission continues to believe that the codification of current practices with respect to Rule 17g-5(a)(3) is appropriate when compared to the alternative of allowing the existing Rule 17g-5(a)(3) exemption to expire. As discussed above, the commenters supported the proposal to codify the exemption to Rule 17g-5(a)(3). <sup>52</sup> The Commission received no comments addressing the alternative considered in the Proposing Release.
+
+The Commission continues to believe that the amendments to Rule 17g-7(a) and Rule 15Ga-2 will not have a material impact on efficiency, competition, and capital formation or impose new costs of any significance. As discussed in the Proposing Release, the amendments to Rule 17g-7(a) and Rule 15Ga-2 are conforming and clarifying in nature. Further, unlike the existing Rule 17g-5(a)(3) exemption, the Rule 17g-7(a) and Rule 15Ga-2 exemptions are already included as part of the rule text, and thus not subject to expiration.
+
+<h>B. Baseline and Affected Parties</h>
+
+The Exemptive Order serves as the economic baseline against which the costs and benefits, as well as the impact on efficiency, competition, and capital formation, of the codification of the existing Rule 17g-5(a)(3) exemption is considered.
+
+As discussed in the Proposing Release, pursuant to the Exemptive Order, NRSROs have been exempt from the requirements of paragraphs (i) through (iii) of Rule 17g-5(a)(3) for credit ratings where: (1) the issuer of the security or money market instrument is not a U.S. person (as defined under 17 CFR 230.902(k)); and (2) the NRSRO has a reasonable basis to conclude that the structured finance product will be offered and sold upon issuance, and that any arranger linked to the structured finance product will effect transactions of the structured finance product after issuance, only in transactions that occur outside the United States. As a result, with respect to such structured finance products, NRSROs have not been required to comply with the requirements of Rule 17g-5(a)(3), including the requirement to obtain from the arranger a representation that the arranger will maintain a website containing all information the arranger provides to the hired NRSRO in connection with the rating.
+
+Similarly, the existing exemptive language of paragraph (3) of Rule 17g-7(a) and paragraph (e) of Rule 15Ga-2, before giving effect to the amendments adopted today, serves as the economic baseline against which the costs and benefits, as well as the impact on efficiency, competition, and capital formation, of the amendments to such rules are considered. As previously noted, the Commission believes the amendments to Rule 17g-7(a) and Rule 15Ga-2 are clarifying and conforming in nature and do not substantively deviate from the baseline.
+
+The economic and regulatory analysis in this section reflects structured finance product markets and the credit rating industry as they exist today. We begin with a summary of the approximate number of NRSROs that would be directly affected by the codification and features of the regulatory and economic environment in which the affected entities operate. A discussion of the current economic environment will provide a framework for assessing how the regulation may impact efficiency, competition, and capital formation in this market.
+
+Currently, 10 credit rating agencies are registered with the Commission as NRSROs. Of the 10 NRSROs, seven are currently registered in the class of credit ratings for issuers of asset- backed securities. <sup>53</sup> Three of the larger NRSROs accounted for approximately 95 percent of credit ratings outstanding as of December 31, 2018; <sup>54</sup> these three firms have operations outside of the United States.
+
+The credit rating industry is highly concentrated and this market structure persists, in part, as a result of the costs associated with building the necessary reputational capital. In addition, large and incumbent NRSROs benefit from economies of scale, as well as from switching costs that issuers are likely to bear if they were to consider using different NRSROs. These costs provide incentives for issuers to use the services of NRSROs with which they have preexisting relationships and represent a barrier that newcomers entering the market for credit ratings would need to overcome to compete with incumbent credit rating agencies.
+
+In addition to the above economic barriers to entry, there exist some commercial and other barriers to entry. <sup>55</sup> For instance, the investment guidelines of fixed income mutual fund managers and pension plan sponsors often specify use of the ratings of particular credit rating agencies, and many of these guidelines refer to the larger NRSROs by name. Some fixed income indices also require ratings by specific NRSROs, thus increasing the demand for ratings fromthose NRSROs. However, it has been reported that some investors are changing their guidelines to include ratings from additional NRSROs, and several of the smaller NRSROs have reported success in gaining market share with respect to the issuers of asset-backed securities. <sup>56</sup> Market participants and academics have also identified regulatory barriers to entry in the credit rating industry. <sup>57</sup>
+
+Gathering comprehensive data on foreign issuances of asset-backed securities is difficult given the breadth of markets and products one needs to consider and that data may not be available for several lesser-developed markets. Further, it is often not clear whether these issuances are made by non-U.S. persons. However, there has been an increase in the issuances of asset-backed securities worldwide since 2011, with the issuances amounting to approximately$754.7 billion in 2018. <sup>58</sup> For example, when considering all underwriters for deals in Europe, while the trend has varied over the past five years, the three highest annual issuance totals over such period were achieved in 2016 through 2018, the highest of which occurred in 2018. <sup>59</sup> Asset-backed securities constitute a growing market in Europe and other major financialmarkets, and, as discussed below, any application of Rule 17g-5(a)(3) to transactions outside the United States could affect the functioning of these foreign markets. <sup>60</sup>
+
+<h>C. Anticipated Costs and Benefits, Including Potential Effects on Efficiency, Competition, and Capital Formation</h>
+
+<h>1. Potential Benefits</h>
+
+As discussed above, the Commission issued the Exemptive Order in 2010, and an extension of the Exemptive Order is currently in effect. Because the amendments to Rule 17g- 5(a)(3), Rule 17g-7(a), and Rule 15Ga-2 would generally maintain the status quo, <sup>61</sup> we do not expect the amendments would result in any major economic effects. For the same reason, we also do not expect this rulemaking to affect efficiency, competition, or capital formation in any major way.
+
+To the extent that the amendment of Rule 17g-5(a)(3) would enhance the certainty of the future status of an exemption to this rule, it could result in marginal economic benefits to arrangers, NRSROs, and regulators. Specifically, if NRSROs and arrangers expect to be required to comply with Rule 17g-5(a)(3) in the future, they may allocate personnel and financial resources to correspond with foreign and U.S. regulators and to set up applicable websites in anticipation of future compliance. The Commission believes the amendment would eliminate the need to incur such costs since the exemption being adopted does not have a termination date.
+
+Furthermore, by reducing the need to incur such costs, the amendment could allow issuers and smaller NRSROs to expand in the global structured finance market, and could improve competition. Commenters on the Proposing Release generally agreed that the proposed amendment would provide certainty that would benefit market participants. <sup>62</sup>
+
+The exemption to Rule 17g-5(a)(3), as adopted, would not necessarily result in more intense competition between issuers and other intermediaries because issuers would continue to offer structured finance products as they do under the current regulatory regime. Further, all existing NRSROs rating structured finance products could continue to rely on the exemption as they do currently under the extended Exemptive Order; therefore, competition among these existing credit rating agencies would most likely not be affected by adoption of the exemption.
+
+<h>2. Potential Costs and Other Anticipated Effects</h>
+
+Similarly, because the existing Rule 17g-5(a)(3) exemption is currently in effect, the amendment to Rule 17g-5(a)(3) should not impose any significant additional costs on NRSROs or arrangers of structured finance products relative to the baseline.
+
+However, as is the case with the existing Rule 17g-5(a)(3) exemption, issuers and NRSROs may incur some expenses in relying on the exemption to Rule 17g-5(a)(3), which is conditioned on an NRSRO having a reasonable basis to conclude that all offers and sales of the structured finance product by any arranger linked to the structured finance product will occur outside the United States . In order to have a reasonable basis for such a conclusion, the Commission believes that NRSROs will likely seek representations from arrangers, thereby resulting in associated costs. The Commission currently estimates that approximately 284 ratedtransactions would be eligible for the exemption in a given year. <sup>63</sup> To the extent that NRSROs seek representations to support their reasonable belief, the Commission estimates that it would cost an arranger approximately $730 per transaction to provide such representations, <sup>64</sup> for total aggregate annual costs for all arrangers of approximately $207,320. <sup>65</sup>
+
+Similarly, for an NRSRO that chooses to seek representations to support its reasonable belief, the Commission estimates that it would cost the NRSRO approximately $730 per transaction. <sup>66</sup> The Commission further estimates that each transaction is rated by approximately two NRSROs, <sup>67</sup> for total aggregate annual costs for all NRSROs of $414,640. <sup>68</sup> Thus, to the extent that all NRSROs seek representations for all transactions eligible to rely on the exemption to Rule 17g-5(a)(3) each year, the Commission estimates the amendment would result in total annual costs of $621,960. <sup>69</sup>
+
+In addition, although the conditions with respect to the exemption to Rule 17g-5(a)(3) are substantially the same under the Exemptive Order, NRSROs may incur a modest one-time cost(251.792). Therefore, the 2019 inflation-adjusted effective hourly wage rates for compliance attorneys are estimated at $365 ($334 x 251.792/ 230.280). All effective hourly wage rates discussed throughout the release rely on the same SIFMA data inflation adjusted to January 2019.to conform their processes to reflect the clarifying change adopted with respect to one of the conditions to the exemption. For instance, an NRSRO that has sought written representations from an arranger to support the reasonable belief required under the Exemptive Order may modify the form of the representation to conform to the language of the condition as adopted. The Commission expects an NRSRO’s in-house attorney would oversee revisions to the form representation and that there would be a one-time burden of five hours for the language to be revised, approved, and documented. Accordingly, the Commission estimates a one-time aggregate cost of $12,775 for NRSROs to adjust their procedures to reflect the clarifying language of the adopted exemption. <sup>70</sup>
+
+Similarly, additional one-time costs may be incurred by NRSROs to modify their processes to reflect the conforming amendment to the conditions with respect to the Rule 17g- 7(a) exemption. The Commission expects the one-time costs incurred by such NRSROs to approximate the costs set forth with respect to Rule 17g-5(a)(3) above. As with Rule 17g- 5(a)(3), the Commission expects an NRSRO’s in-house attorney would oversee revisions to the form representation with respect to the Rule 17g-7(a) exemption and that there would be a one- time burden of five hours for the language to be revised, approved, and documented.
+
+Accordingly, the Commission estimates a one-time aggregate cost of $18,250 for NRSROs to adjust their procedures to reflect the adopted conforming changes to the Rule 17g-7(a) exemption. <sup>71</sup>
+
+The Commission believes that no similar costs will be incurred by issuers and underwriters as a result of the amendment to Rule 15Ga-2, given that such rule relates to an obligation of the issuer or underwriter of a structured finance product and there is no equivalent need to obtain information from a third party to determine if the Rule 15Ga-2 exemption applies.
+
+<h>3. Alternative Considered: Allow Exemptive Order to Expire</h>
+
+As discussed in the Proposing Release, the Commission considered the alternative of allowing the current extension of the Exemptive Order to expire without codifying an exemption to Rule 17g-5(a)(3). The Commission continues to believe that this alternative is not consistent with notions of international comity or the Commission’s limited interest in regulating securities offered and sold exclusively outside the United States. As discussed in the Proposing Release, the Commission believes principles of international comity and reasonable expectations of participants would be better served by not allowing the expiration of the current extension of the Exemptive Order. The Commission has nevertheless considered the economic effects of this alternative.
+
+<h>a. Benefits</h>
+
+This alternative offers several potential economic benefits to the extent they could come to fruition. The last three decades have witnessed an increase in the globalization of financial markets and in cross-border trading. Greater international capital flows can contribute to the development of new product markets and industries by enabling issuers to raise capital in markets around the world. The Commission considered the potential implications of the expiration of the existing Rule 17g-5(a)(3) exemption on cross-listing activity for U.S. and non-
+
+U.S. issuers. <sup>72</sup> One possible factor that hypothetically could affect the flow of capital from U.S. markets to foreign alternative trading venues is the costs associated with complying with U.S. securities laws. If complying with Rule 17g-5(a)(3) implies higher costs for issuers of structured finance products, and the costs affect the choice of an issuer’s venue, non-U.S. issuers may benefit from the current exemptive relief by obtaining funding at a lower all-in cost than similarly situated U.S. issuers. If the Exemptive Order were to expire, however, such non-U.S. issuers would be unable to pursue such a strategy because they would have the same regulatory treatment as U.S. issuers. As a result, if the existing Rule 17g-5(a)(3) exemption were to expire,
+
+U.S. and non-U.S. issuers would compete for funding on more even terms.
+
+Investors and issuers globally could obtain potential economic benefits, such as reduced conflicts of interest and informational efficiency in credit ratings, if arrangers were required to comply with the Rule 17g-5 Program. With respect to certain debt and structured finance products, credit ratings provided by non-hired NRSROs using information provided pursuant to the Rule 17g-5 Program could serve a verification function in capital markets by offering market participants a broader set of opinions on the creditworthiness of those products. <sup>73</sup> Thisinformation could help investors in their decisions to augment the risk profiles of their portfolios through economic exposure to investment opportunities. <sup>74</sup>
+
+Globalization, however, can be a conduit of risk and could lead to problems in one market or jurisdiction spilling over to other markets or jurisdictions. <sup>75</sup> If the existing Rule 17g- 5(a)(3) exemption were to expire, then it is possible that any benefits of this rule with respect to the credit rating industry in the United States would apply to foreign markets as well, potentially reducing the risk of spillovers that may result from conflicts of interest that Rule 17g-5(a)(3) was designed to address. <sup>76</sup> Specifically, arrangers that engage in structured finance transactions in foreign markets would also need to maintain websites containing all information provided to hired NRSROs with respect to the rating of such structured finance products and provide access to any non-hired NRSRO that makes the required certifications. This would permit non-hired NRSROs to provide ratings of these products. The availability of additional ratings from an independent source could provide incentives to hired NRSROs to provide more accurate and unbiased ratings due to reputational concerns. Any additional ratings by non-hired NRSROscould, in turn, provide investors with independent views on the risk profiles of the structured finance products and improve the reliability of the credit ratings of these products. <sup>77</sup> The potential improvement in the quality of ratings in foreign markets could attenuate the risk of spillovers, which could benefit financial markets globally.
+
+The Commission notes, however, that the possible benefits attributable to the expiration of the Exemptive Order for Rule 17g-5(a)(3) should be viewed in light of the concerns expressed by commenters about barriers preventing those benefits from being realized. For instance, one commenter identified potentially conflicting regulatory requirements and conflicts with local confidentiality and data protection laws in other jurisdictions among concerns regarding the application of Rule 17g-5(a)(3) to credit ratings of structured finance products offered and sold exclusively outside the United States. <sup>78</sup> If any foreign laws limit the information an arranger is able to post on the website maintained pursuant to the Rule 17g-5 Program, a hired NRSRO may not have sufficient information on which to base a credit rating or, if the arranger provides information to a hired NRSRO that it cannot also post to the website, the hired NRSRO will not be able to reasonably rely on the representation it received from the arranger. In either case, NRSROs effectively would be precluded from rating structured finance products in such jurisdictions, attenuating the benefits described above.
+
+<h>b. Costs</h>
+
+Several costs of expiration of the existing Rule 17g-5(a)(3) exemption are relevant to consider. As mentioned earlier, the Commission currently estimates that approximately 284 rated transactions would be eligible for the exemption to Rule 17g-5(a)(3) in a given year. <sup>79</sup> If the existing Rule 17g-5(a)(3) exemption were allowed to expire, the requirements of Rule 17g- 5(a)(3) would apply with respect to these transactions. The Commission estimates the following costs as a result of expiration of the existing Rule 17g-5(a)(3) exemption.
+
+The Commission estimates that expiration of the existing Rule 17g-5(a)(3) exemption would result in an annual increase in costs of $166,820 for NRSROs for additional website maintenance and associated compliance costs. <sup>80</sup> The Commission also estimates an annual increase in costs of $49,700 for arrangers to post information about new structured finance product transactions to the related websites. <sup>81</sup> Additionally, if certain sponsors do not also currently issue rated structured finance products in transactions that occur within the United States (which are currently subject to the requirements of Rule 17g-5(a)(3)), then they may incur
+
+The Commission further estimates that each transaction will be rated by approximately two NRSROs ( see supra note <sup>46</sup> ). Therefore, the estimated annual cost for website maintenance by NRSROs involved with 284 structured finance ratings would be $140,864 (284 transactions x 1 hour per transaction x $248 per hour x 2 NRSROs per transaction). In addition, the Commission estimates that compliance personnel at an NRSRO will spend, on average, one hour per month to monitor compliance with the requirements of the Rule 17g-5 Program. Staff estimates a $309 per hour figure for a compliance manager. Therefore, the estimated annual compliance cost would be $25,956 (12 months per year x 1 hour per month x $309 per hour x 7 NRSROs registered to rate asset-backed securities). As a result, the total estimated annual cost for NRSROs would be $166,820 ($140,864 website maintenance cost + $25,956 compliance cost).one-time costs to set up websites. The Commission estimates that it would take a sponsor 300 hours to develop a system, as well as the policies and procedures governing the disclosures, resulting in a total of up to 43,800 hours across 146 sponsors. <sup>82</sup> The Commission estimates that the average one-time cost to each sponsor would be $82,350, and the total aggregate one-time cost across all sponsors would be up to $12,023,100. <sup>83</sup> Finally, on an ongoing basis, the Commission estimates an annual increase in costs of $2,412,225 for arrangers to make additionalinformation about these transactions available on the related websites each month and to monitor compliance with its obligations over the life of the structured finance products. <sup>84</sup>
+
+In addition to these direct compliance costs, expiration of the existing Rule 17g-5(a)(3) exemption could result in costs that are difficult to quantify. For instance, an incremental increase in costs resulting from the applicability of the Rule 17g-5 Program may vary significantly from transaction to transaction, contributing to the difficulty in quantifying such costs. A bespoke transaction may require significantly more communications between the arranger and the hired NRSRO than a transaction by a frequent issuer of similar securities, resulting in the incurrence of higher costs to arrangers. Moreover, the Rule 17g-5 Program requires that information must be posted to the arranger’s website at the same time such information is provided to a hired NRSRO. If the exemption were to expire, information that may have previously been communicated verbally to a hired NRSRO may need to be memorialized in writing. In certain cases, an arranger could enlist outside counsel to draft or review materials to be provided to a hired NRSRO, resulting in additional costs.
+
+Further, there are potential negative economic consequences. Since the global financial crisis there have been other efforts, in addition to the Dodd-Frank Wall Street Reform and Consumer Protection Act, <sup>85</sup> to assess and regulate the credit rating industry as well as to encourage market participants to establish stronger internal credit risk assessment practices. As discussed in the Proposing Release, commenters on the Exemptive Order have expressed concerns that the requirements of Rule 17g-5(a)(3) could potentially be duplicative of or conflict with regulations applicable to NRSROs and arrangers in foreign markets, and thus harm the competitive position of NRSROs in those markets. <sup>86</sup> Failure to provide relief regarding the application of Rule 17g-5(a)(3) to transactions offered and sold exclusively outside the United States may be viewed as inconsistent with notions of international comity.
+
+The expiration of the existing Rule 17g-5(a)(3) exemption may lead to losses for NRSROs if, as commenters on the Exemptive Order have suggested, conflicts exist between the requirements of the Rule 17g-5 Program and foreign laws that limit the information available to NRSROs. Some NRSROs could be precluded from rating structured finance products in such jurisdictions, which could lead to loss of revenue associated with credit ratings that NRSROs currently provide under the existing Exemptive Order. NRSROs could also experience losses as a result of the expiration of the existing Rule 17g-5(a)(3) exemption due to competitive pressures in the foreign markets from credit rating agencies that are not registered as NRSROs (“non- NRSRO rating agencies”) and therefore not subject to Rule 17g-5(a)(3). Expiration of the existing Rule 17g-5(a)(3) exemption may also lead to new compliance costs for NRSROs and arrangers relating to posting information on the websites with respect to credit ratings maintainedby NRSROs that had previously been subject to the exemption. From the point of view of arrangers, additional costs of compliance could result in a decline in their issuances of structured finance products if alternative non-NRSRO rating agencies are unavailable or unacceptable to arrangers or investors.
+
+Finally, if the existing Rule 17g-5(a)(3) exemption were allowed to expire, this could also raise legal barriers to entry for smaller NRSROs that may be planning to expand their foreign ratings business. <sup>87</sup> The increased set-up costs may lower such NRSROs’ incentives to rate structured finance products in those foreign markets.
+
+<h>VII. Regulatory Flexibility Act Certification</h>
+
+The Commission certified, under section 605(b) of the Regulatory Flexibility Act of 1980 (“RFA”) <sup>88</sup> that the proposed amendments to Rule 17g-5(a)(3), Rule 17g-7(a), and Rule 15Ga-2 would not have a significant economic impact on a substantial number of small entities. In Section VII of the Proposing Release, the Commission explained that the proposed amendment to Rule 17g-5(a)(3) applies exclusively to rated structured finance products and the NRSROs that are considered small for purposes of the RFA are not currently registered for the class of credit ratings for issuers of asset-backed securities. <sup>89</sup> The Commission further stated in the Proposing Release that it did not believe the economic impact of the proposed amendments to Rule 17g- 7(a) and Rule 15Ga-2 would be significant, explaining that an exemption is already included inthe text of such rules and that the amendments are clarifying in nature. <sup>90</sup> The Commission solicited comments regarding this certification and received none. The Commission continues to believe this certification is appropriate.
+
+<h>VIII. Statutory Authority</h>
+
+<END MAIN TEXT>
+
+1 15 U.S.C. 78a et seq.
+
+2 See Amendments to Rules for Nationally Recognized Statistical Rating Organizations, Exchange Act Release No. 84289 (Sept. 26, 2018), 83 FR 50297 (Oct. 5, 2018) (“Proposing Release”). The comment period for the proposed amendments expired on November 5, 2018.
+
+3 In the Proposing Release, the Commission also discussed comment letters received with respect to the existing temporary conditional exemption to Rule 17g-5(a)(3). See Proposing Release, supra note 83 FR at 50299-300.
+
+4 Amendments to Rules for Nationally Recognized Statistical Rating Organizations, Exchange Act Release No. 61050 (Nov. 23, 2009), 74 FR 63832 (Dec. 4, 2009) (“Rule 17g-5 Adopting Release”). The term “structured finance product” as used throughout this release refers broadly to any security or money market instrument issued by an asset pool or as part of any asset-backed securities transaction. This broad category of financial instruments includes an asset-backed security as defined in Section 3(a)(79) of the Exchange Act (15 U.S.C. 78c(a)(79)) and other types of structured debt instruments, including synthetic and hybrid collateralized debt obligations. See, e.g., Nationally Recognized Statistical Rating Organizations, Exchange Act Release No. 72936 (Aug. 27, 2014), 79 FR 55078, 55081 n.18 (Sept. 15, 2014) (“2014 NRSRO Amendments”).
+
+5 Rule 17g-5 Adopting Release, supra note 74 FR at 63832. See also 17 CFR 240.17g-5. Throughout this release, an NRSRO that is not hired by an arranger is referred to as a “non-hired NRSRO.” An NRSRO that is hired by an arranger is referred to as a “hired NRSRO.”
+
+6 See 17 CFR 240.17g-5(a)(3)(i).
+
+7 Id.
+
+8 See 17 CFR 240.17g-5(a)(3)(ii); 17 CFR 240.17g-5(e).
+
+9 See 17 CFR 240.17g-5(a)(3)(iii).
+
+10 Id.
+
+11 See Order Granting Temporary Conditional Exemption for Nationally Recognized Statistical Rating Organizations from Requirements of Rule 17g-5 Under the Securities Exchange Act of 1934 and Request for Comment, Exchange Act Release No. 62120 (May 19, 2010), 75 FR 28825 (May 24, 2010) (“Exemptive Order”).
+
+12 Id. at 28826-27. Such foreign securities regulators and market participants indicated that arrangers of structured finance products located outside the United States generally were not aware that they would be required to make the representations prescribed in Rule 17g-5 in order to obtain credit ratings from NRSROs and were not prepared to make and adhere to the new requirements set forth in Rule 17g-5(a)(3). These commenters also identified potential conflicts with local law in non-U.S. jurisdictions as a concern. Id.
+
+13 See Order Extending Conditional Temporary Exemption for Nationally Recognized Statistical Rating Organizations from Requirements of Rule 17g-5(a)(3) Under the Securities Exchange Act of 1934, Exchange Act Release No. 82144 (Nov. 22, 2017), 82 FR 56309 (Nov. 28, 2017).
+
+14 17 CFR 240.17g-7(a)(1). Rule 17g-7(a) sets forth the required format and content of the information disclosure form and specifies that the form (and other items required by Rule 17g-7(a)) must be published in the same manner as the credit rating that is the result or subject of the rating action.
+
+15 See 17 CFR 240.17g-7(a)(1)(ii)(B), (H), and (M). For a comprehensive discussion of the required content of the form, see 2014 NRSRO Amendments, supra note 79 FR at 55167-77.
+
+16 17 CFR 240.17g-7(a)(1)(iii).
+
+17 17 CFR 240.17g-7(a)(2).
+
+18 Rule 17g-10 identifies Form ABS Due Diligence-15E as the form on which the certification required pursuant to Exchange Act Section 15E(s)(4)(B) must be set forth. See 17 CFR 240.17g-10; see also 15
+
+19 See 17 CFR 240.15Ga-2; 17 CFR 249.1400. Forms ABS-15G are made publicly available through the Commission’s EDGAR system. See 17 CFR 232.101(a)(xvi).
+
+20 With respect to Rule 17g-7(a), a commenter suggested that local laws could impede the ability of an NRSRO to obtain or disclose information about the issuer as required by the proposed rule. See 2014 NRSRO Amendments, supra note 79 FR at 55165. Similarly, with respect to Rule 15Ga-2, a commenter indicated that application of the rule to offshore transactions may conflict with foreign securities laws and other laws, rules, and regulations. See 2014 NRSRO Amendments, supra note 79 FR at 55184, n.1420. As discussed in the Proposing Release, similar concerns regarding potentially overlapping or conflicting foreign regulations have been raised by commenters with respect to Rule 17g-5(a)(3).
+
+21 See 2014 NRSRO Amendments, supra note 79 FR at 55165, 55184-85. See also 17 CFR 240.17g- 7(a)(3) (providing for an exemption if: (1) the rated obligor or issuer of the rated security or money market instrument is not a U.S. person; and (2) the NRSRO has a reasonable basis to conclude that a security or money market instrument issued by the rated obligor or the issuer will be offered and sold upon issuance, and that any underwriter or arranger linked to the security or money market instrument will effect transactions in the security or money market instrument, only in transactions that occur outside the United States); 17 CFR 240.15Ga-2(e) (providing for an exemption with respect to offerings of asset-backed securities if: (1) the offering is not required to be, and is not, registered under the Securities Act; (2) the issuer of the rated security is not a U.S. person; and (3) the security will be offered and sold upon issuance, and any underwriter or arranger linked to the security will effect transactions of the security after issuance, only in transactions that occur outside the United States).
+
+22 2014 NRSRO Amendments, supra note 79 FR at 55165.
+
+23 Id. at 55185 n.1422.
+
+24 See letter from Thomas L. Guest, dated October 5, 2018 (“Guest letter”); letter from Ryan Mensing, Vice President, Senior Regulatory Officer, Government and Public Affairs, Moody’s Investors Service, dated November 5, 2018 (“Moody’s letter”); letter from Sairah Burki, Senior Director and Head of ABS Policy, Structured Finance Industry Group, and Chris Dalton, Chief Executive Officer, Australian Securitisation Forum, dated November 5, 2018 (“SFIG/ASF letter”). The comments are available at https://
+
+25 Id.
+
+26 See Moody’s letter. According to the commenter, “[t]hese concerns have included: possible disruption to local securitization markets; overlapping and potentially conflicting regulatory requirements in other jurisdictions; conflicts with local confidentiality and data protection laws; misalignment with varying international market practices; and possible inconsistency with principles of international comity.” Id. In the Proposing Release, the Commission discussed comments received with respect to the Exemptive Order that raised similar concerns. See Proposing Release, supra note 83 FR at 50299-300.
+
+27 See Moody’s letter.
+
+28 See SFIG/ASF letter. This commenter also stated its view that imposition of Rule 17g-5(a)(3) on transactions offered by foreign issuers solely to foreign investors would have an undue negative impact on global issuance of asset-backed securities and exact extensive costs on securitization issuers and NRSROs around the globe without tangible benefits to, or protection of, U.S. investors.
+
+29 See Moody’s letter; SFIG/ASF letter.
+
+30 See SFIG/ASF letter.
+
+31 Id.
+
+32 See 17 CFR 230.902(k).
+
+33 See 17 CFR 230.901.
+
+34 17 CFR 230.902(c).
+
+35 See 17 CFR 230.903 and 904.
+
+36 See Moody’s letter.
+
+37 See 2014 NRSRO Amendments, supra note 79 FR at 55165 n.1107.
+
+38 44 U.S.C. 3501 et seq.
+
+39 See 44 U.S.C. 3507(d); 5 CFR 1320.11.
+
+40 See paragraph (a)(3)(iv) of Rule 17g-5; see also supra Section III.A. (discussing the adopted exemption in more detail).
+
+41 See paragraph (3)(ii) of Rule 17g-7(a); see also supra Section III.B. (discussing the amended exemption in more detail).
+
+42 The seven NRSROs registered to rate asset-backed securities are: A.M. Best Rating Services, Inc. (“A.M. Best”); DBRS, Inc. (“DBRS”); Fitch Ratings, Inc. (“Fitch”); Kroll Bond Rating Agency, Inc. (“KBRA”); Moody’s Investors Service, Inc. (“Moody’s”); Morningstar Credit Ratings, LLC (“Morningstar”); and S&P Global Ratings (“S&P”).
+
+43 In addition to the seven NRSROs listed in note supra, three additional credit rating agencies are currently registered as NRSROs: Egan-Jones Ratings Company; HR Ratings de México, S.A. de C.V.; and Japan Credit Rating Agency, Ltd.
+
+44 5 hours x 7 NRSROs registered to rate asset-backed securities = 35 hours.
+
+45 2 hours x 267 transactions x 2 NRSROs per transaction = 1,068 hours. The estimates of the number of annual transactions and the number of NRSROs per transaction in the Proposing Release were calculated using information from the databases maintained by Asset-Backed Alert and Commercial Mortgage Alert and represented the average number of transactions and NRSROs per transaction for the years ended December 31, 2015, 2016, and 2017. See Proposing Release, supra note 83 FR at 50303 n. 63.
+
+46 This estimate was calculated using information, as of March 25, 2019, from the databases maintained by Asset-Backed Alert and Commercial Mortgage Alert. Isolating the transactions coded in the databases as “Non-U.S.” offerings provided an estimate of the number of transactions that would have been eligible for the exemption. The databases also specify the number of NRSROs rating each transaction, which was used to calculate the average number of NRSROs per transaction (1.88). For purposes of the Commission’s estimates, the number of NRSROs per transaction was rounded to the nearest whole number, resulting in no change from the estimate used in the Proposing Release. The estimates represent the average number of transactions and NRSROs per transaction for the years ended December 31, 2016, 2017, and 2018.
+
+47 2 hours x 284 transactions x 2NRSROs per transaction = 1,136 hours.
+
+48 See paragraph (3)(ii) of Rule 17g-7(a); see also supra Section III.B. (discussing the amended exemption in more detail).
+
+49 5 hours x 10 NRSROs = 50 hours.
+
+50 See 15 U.S.C. 78c(f).
+
+51 See 15 U.S.C. 78w(a)(2).
+
+52 See supra notes -and accompanying text.
+
+53 See supra notes -
+
+54 The three NRSROs are Fitch, Moody’s, and S&P. The percentage of credit ratings outstanding attributable to Fitch, Moody’s, and S&P was calculated using information reported by each NRSRO on Item 7A of Form NRSRO with respect to its annual certification for calendar year 2018. Annual certifications on Form NRSRO must be filed with the Commission on EDGAR pursuant to Rule 17g-1(f) and made publicly and freely available on each NRSRO’s website pursuant to Rule 17g-1(i). The number of outstanding credit ratings for each class of credit ratings for which an NRSRO is registered is reported on Item 7A of Form NRSRO.
+
+55 See 2018 Annual Report on Nationally Recognized Statistical Rating Organizations, available at https://25-26 (“Annual Report”).
+
+56 See id. at 22-25.
+
+57 See id. at 26. The Annual Report notes that regulatory barriers to entry include the costs associated with complying with statutory provisions and related rules. See id.
+
+58 See Asset-Backed Alert (Rankings for Issuers of Worldwide Asset- and Mortgage-Backed Securities), available at https:// See also Commercial Mortgage Alert (CMBS Summary—Global CMBS Issuance in 2017), available at https:// The information on these websites, reported as of March 8, 2019, indicates that, notwithstanding a slight decline in issuances in 2016, there has been an upward trend in the total annual issuances of asset-backed securities from 2011 through 2018.
+
+59 See Asset-Backed Alert (Rankings for Bookrunners of European Structured Finance Deals), available at https://information reported as of March 8, 2019. Total issuances in Europe amounted to approximately $101.1 billion in 2016, approximately $95.5 billion in 2017, and approximately $118.0 billion in 2018. Id.
+
+60 See, e.g., the SIFMA databases that cover historical issuances and outstanding values in Europe, the United States, and Australia for the following: asset-backed securities, collateralized debt obligations/collateralized loan obligations, commercial mortgage-backed securities, and residential mortgage-backed securities, available at
+
+61 As discussed in the Proposing Release, although the language of the second condition of the exemption to Rule 17g-5(a)(3), as adopted, differs from the comparable condition set forth in the Exemptive Order, and conforming changes are being made to the corresponding conditions in Rule 17g-7(a) and Rule 15Ga-2, the changes are clarifying in nature and the Commission does not believe they will alter the status quo. The conforming changes to Rule 17g-7(a) and Rule 15Ga-2, however, could result in changes from the current state. Specifically, those changes could avoid potential confusion by arrangers and NRSROs that could result from differences in the language of the conditions set forth in the rules.
+
+62 See Moody’s letter; SFIG/ASF letter.
+
+63 See supra note
+
+64 2 hours per transaction x legal fee for a compliance attorney at $365 per hour = $730. The Commission estimates the wage rate associated with these burden hours based on salary information for the securities industry compiled by the Securities Industry and Financial Markets Association (SIFMA). For example, the estimated wage figure for compliance attorneys is based on published rates for compliance attorneys, modified to account for a 1,800-hour work-year and multiplied by 5.35 to account for bonuses, firm size, employee benefits, and overhead, yielding an effective hourly rate for 2013 of $334 for compliance attorneys. See Securities Industry and Financial Markets Association, Report on Management & Professional Earnings in the Securities Industry 2013. These estimates are adjusted for inflation based on Bureau of Labor Statistics data on CPI-U between January 2013 (230.280) and January 2019
+
+65 $730 per transaction x 284 annual transactions = $207,320.
+
+66 2 hours per transaction x legal fee for a compliance attorney at $365 per hour = $730.
+
+67 See supra note
+
+68 $730 per transaction x 284 annual transactions x 2 NRSROs per transaction = $414,640.
+
+69 $730 per transaction x 284 annual transactions (for arrangers) + $730 per transaction x 284 annual transactions x 2 NRSROs per transaction (for NRSROs) = $621,960.
+
+70 5 hours per NRSRO x legal fee for a compliance attorney at $365 per hour x the 7 NRSROs registered to rate asset-backed securities = $12,775.
+
+71 5 hours per NRSRO x legal fee for a compliance attorney at $365 per hour x all 10 NRSROs = $18,250.
+
+72 Although the Commission regulations are designed to promote competition, efficiency, and capital formation in U.S. markets and to protect U.S. investors, the Commission recognizes that some of its regulations impact market participants globally. When applicable, the economic effects to those market participants are discussed.
+
+73 See Rule 17g-5 Adopting Release, supra note 74 FR at 63857.
+
+74 See e.g., Arthur R. Pinto, Control and Responsibility of Credit Rating Agencies in the United States, American Journal of Comparative Law, Vol. 54 at 341-56 (2006). See also John R.M. Hand et al., The Effect of Bond Rating Agency Announcements on Bond and Stock Prices, Journal of Finance, Vol. 47, No. 2 at 733-52 (1992). However, these potential economic benefits to investors would only occur to the extent non-hired NRSROs use information obtained pursuant to the Rule 17g-5 Program to issue credit ratings. As discussed in Section III of this release, one commenter has expressed the view that Rule 17g-5(a)(3) has been ineffective, citing longstanding discussions among its issuer member firms as evidence that very few non-hired NRSROs have requested access to the websites that arrangers are required to maintain under the rule. See supra note 30 and accompanying text. The Commission has directed staff to further evaluate the effectiveness of Rule 17g-5(a)(3).
+
+75 For instance, the European sovereign debt crisis renewed the debate on the role credit rating agencies play during crises and the interdependence between different financial markets. This debt crisis has included sovereign credit rating downgrades, widening of sovereign bond and credit default swap spreads, and pressures on stock markets. See, e.g., Manfred Gärtner et al., PIGS or Lambs? The European Sovereign Debt Crisis and the Role of Rating Agencies, International Advances in Economic Research, Vol. 17, No. 3 at 288 (2011). See also Valerie De Bruyckere et al., Bank/Sovereign Risk Spillovers in the European Debt Crisis, Journal of Banking & Finance, Vol. 37, Issue 12 at 4793-809 (2013).
+
+76 See Rule 17g-5 Adopting Release, supra note 74 FR at 63857.
+
+77 See, e.g., Daniel Covitz and Paul Harrison, Testing Conflicts of Interest at Bond Rating Agencies with Market Anticipation: Evidence that Reputation Incentives Dominate, Federal Reserve Board Working Paper No. 2003-68 (2003), for evidence on the role of reputation among credit rating agencies. However, there is also some evidence to the contrary, wherein the argument is that if reputation losses are lower in an industry due to increased competition, then there are lesser incentives to provide accurate ratings. See Bo Becker and Todd Milbourn, How Did Increased Competition Affect Credit Ratings?, Journal of Financial Economics, Vol. 101, No. 3 at 493-514 (2011).
+
+78 See Moody’s letter. As discussed in the Proposing Release, comments received with respect to the Exemptive Order discussed these concerns in more detail. See Proposing Release, supra note 83 FR at 50299-300.
+
+79 See supra note
+
+80 The Commission estimates that it will take approximately one hour per transaction for website maintenance and that an NRSRO would have a webmaster perform these responsibilities, at a cost of $248 per hour.
+
+81 The Commission estimates that it will take an arranger approximately one hour per transaction to post the information it provides to a hired NRSRO to the related website. The Commission believes that an arranger would have a junior business analyst perform these responsibilities, at a cost of $175 per hour. Therefore, based on the estimate of 284 rated transactions per year, the estimated annual cost for arrangers to make such information available on the related website would be $49,700 (284 transactions x 1 hour per transaction x $175 per hour).
+
+82 Total hours to develop systems would be 43,800 (146 sponsors x 300 hours per sponsor). The number of sponsors was estimated using information as of March 25, 2019 from the Asset-Backed Alert and Commercial Mortgage Alert databases. Isolating the transactions coded in the database as “Non-U.S.” offerings and sorting the data by sponsor (in the case of the Asset-Backed Alert database) or seller (in the case of the Commercial Mortgage Alert database) enables an estimate of the number of separate sponsors that would be eligible for the exemption. The estimate represents the average number of such sponsors for the years ended December 31, 2016, 2017, and 2018. We note that the estimate of the aggregate hours across all sponsors represents upper bounds, as it is plausible that some sponsors also issue structured finance products in U.S.-based transactions and would have already incurred any such one-time costs.
+
+83 As discussed in the Rule 17g-5 Adopting Release, the Commission believes that a sponsor would use a compliance manager and a programmer analyst to perform these functions, and each would spend half of the estimated hours conducting these tasks. The average hourly cost for a compliance manager is $309 and the average hourly cost for a programmer analyst is $240. Therefore, the average one-time cost to a sponsor would be $82,350 ([150 hours x $309 per hour] + [150 hours x $240 per hour]). The aggregate cost across all sponsors would be up to $12,023,100 (146 sponsors x $82,350 per sponsor). We note that these estimates represent upper bounds. As noted in note 82, some sponsors may have already incurred any one-time set up costs in connection with U.S.-based issuances. In addition, it is plausible that sponsors will obtain these services for a much lower cost from web service providers.
+
+84 The Commission estimates that it will take an arranger approximately half an hour per month for each transaction to make such information available on the related website. The hourly burden per transaction for a year is 6 hours (0.5 hours per month x 12 months). The Commission believes that an arranger would have a junior business analyst perform these responsibilities at a rate of $175. Further, we relied on the Rule 17g-5 Adopting Release to infer the total number of outstanding deals under surveillance. In that release, the Commission indicated that, on average, an arranger will issue 20 new deals a year and will have 125 outstanding deals, or 6.25 outstanding deals for every new deal. Combining this with our estimate of 284 new transactions per year yields an estimate of 6.25 x 284 = 1,775 outstanding deals. Combining these estimates, the annual cost for arrangers to provide information on ongoing deals is $1,863,750 (1,775 outstanding transactions x $175 per hour x 6 hours per year). In addition, the Commission estimates that compliance personnel at an arranger will spend, for each outstanding transaction, one hour per year to monitor compliance with its requirements in connection with the Rule 17g-5 Program. The Commission estimates a $309 per hour figure for a compliance manager. Therefore, the estimated annual compliance cost would be $548,475 (1 hour per transaction, per year x $309 per hour x 1,775 outstanding transactions). As a result, the total estimated annual ongoing cost for arrangers would be $2,412,225 ($1,863,750 website maintenance cost + $548,475 compliance cost).
+
+85 Pub. L. No. 111-203, 124 Stat. 1376, H.R. 4173 (July 21, 2010).
+
+86 See Proposing Release, supra note 83 FR at 50299-300.
+
+87 Three of the four smaller NRSROs registered in the class of credit ratings for issuers of asset-backed securities list foreign affiliates as credit rating affiliates on their most recently filed Form NRSRO. Form NRSRO filings can be accessed through the Commission’s EDGAR system.
+
+88 5 U.S.C. 601 et seq.
+
+89 See Proposing Release, supra note 83 FR at 50309.
+
+90 See id. at 50309-10.

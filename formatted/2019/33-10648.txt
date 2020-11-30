@@ -1,0 +1,893 @@
+https://www.sec.gov/rules/final/2019/33-10648.pdf
+
+I.0.0.0 Introduction
+
+II.0.0.0 Final Amendments
+
+	II.A.0.0 Overview of the Final Amendments
+
+	II.B.0.0 Focus the Analysis on Beneficial Ownership
+
+		II.B.1.0 Proposed Amendments
+
+		II.B.2.0 Comments
+
+		II.B.3.0 Final Amendments
+
+	II.C.0.0 Significant Influence Test
+
+		II.C.1.0 Proposed Amendments
+
+		II.C.2.0 Comments
+
+			II.C.2.a Significant Influence Test
+
+			II.C.2.b ASC 323
+
+			II.C.2.c Rebuttable Presumption
+
+			II.C.2.d Participation on an Advisory Committee
+
+			II.C.2.e Authorized Participants
+
+			II.C.2.f Evaluation of Compliance with the Loan Provision
+
+			II.C.2.g Alternatives to the Significant Influence Test
+
+		II.C.3.0 Final Amendments
+
+	II.D.0.0 Reasonable Inquiry Compliance Threshold
+
+		II.D.1.0 Proposed Amendments
+
+		II.D.2.0 Comments
+
+		II.D.3.0 Final Amendments
+
+	II.E.0.0 Excluding Other Funds That Would Be Considered Affiliates of the Audit Client
+
+		II.E.1.0 Proposed Amendments
+
+		II.E.2.0 Comments
+
+		II.E.3.0 Final Amendments
+
+	II.F.0.0 Other Comments
+
+		II.F.1.0 Materiality Qualifier
+
+		II.F.2.0 Other Potential Changes to the Auditor Independence Rules
+
+III.0.0.0 Other Matters
+
+IV.0.0.0 Paperwork Reduction Act
+
+V.0.0.0 Economic Analysis
+
+	V.A.0.0 General Economic Considerations
+
+	V.B.0.0 Baseline
+
+	V.C.0.0 Anticipated Benefits and Costs
+
+		V.C.1.0 Anticipated Benefits
+
+		V.C.2.0 Anticipated Costs and Potential Unintended Consequences
+
+	V.D.0.0 Effects on Efficiency, Competition, and Capital Formation
+
+	V.E.0.0 Alternatives
+
+VI.0.0.0 Final Regulatory Flexibility Analysis
+
+	VI.A.0.0 Need for the Amendments
+
+	VI.B.0.0 Significant Issues Raised by Public Comment
+
+	VI.C.0.0 Small Entities Subject to the Final Rules
+
+		VI.C.1.0 has assets under management having a total value of less than $25 million;
+
+		VI.C.2.0 did not have total assets of $5 million or more on the last day of the most recent fiscal year; and
+
+		VI.C.3.0 does not control, is not controlled by, and is not under common control with another investment adviser that has assets under management of $25 million or more, or any person (other than a natural person) that had total assets of $5 million or more on the last day of its most recent fiscal year. We estimate that there are approximately 552 investment advisers that will be subject to the final amendments that may be considered small entities.
+
+	VI.D.0.0 Projected Reporting, Recordkeeping and Other Compliance Requirements
+
+	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
+
+VII.0.0.0 Codification Update
+
+VIII.0.0.0 Statutory Basis
+
+
+
+<END TABLE OF CONTENTS>
+
+Conformed to Federal Register version
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>210</sup>
+
+Release No. 33-10648; 34-86127; FR-85; IA-5255; IC-33511; File No. S7-10-18 RIN 3235-AM01
+
+Auditor Independence With Respect to Certain Loans or Debtor-Creditor Relationships AGENCY: Securities and Exchange Commission.
+
+ACTION: Final rule.
+
+SUMMARY: The Securities and Exchange Commission (“Commission”) is adopting amendments to its auditor independence rules to refocus the analysis that must be conducted to determine whether an auditor is independent when the auditor has a lending relationship with certain shareholders of an audit client at any time during an audit or professional engagement period. The amendments focus the analysis on beneficial ownership rather than on both record and beneficial ownership; replace the existing 10 percent bright-line shareholder ownership test with a “significant influence” test; add a “known through reasonable inquiry” standard with respect to identifying beneficial owners of the audit client’s equity securities; and exclude from the definition of “audit client,” for a fund under audit, any other funds, that otherwise would be considered affiliates of the audit client under the rules for certain lending relationships. The amendments will more effectively identify debtor-creditor relationships that could impair an auditor’s objectivity and impartiality, as opposed to certain more attenuated relationships that are unlikely to pose such threats, and thus will focus the analysis on those borrowing relationships that are important to investors.
+
+DATES: The final rules are effective on October 3, 2019.
+
+FOR FURTHER INFORMATION CONTACT: Peggy Kim, Senior Special Counsel, Office
+
+of the Chief Accountant, or Giles T. Cohen, Acting Chief Counsel, at (202) 551-5300; Daniel Rooney, Assistant Chief Accountant, Chief Accountant’s Office, Division of Investment Management, at (202) 551-6918; or Joel Cavanaugh, Senior Counsel, Investment Company Regulation Office, Division of Investment Management, at (202) 551-6792, U.S. Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549.
+
+SUPPLEMENTARY INFORMATION: We are adopting amendments to 17 CFR 210.2-01 (“Rule 2-01 of Regulation S-X”).
+
+Table of Contents
+
+<END HEADER>
+
+<h>I. Introduction</h>
+
+The Commission’s auditor independence standard set forth in Rule 2-01 of Regulation S- X requires auditors <sup>1</sup> to be independent of their audit clients both “in fact and in appearance.” <sup>2</sup> Rule 2-01(b) provides that the Commission will not recognize an accountant as independent with respect to an audit client if the accountant is not (or if a reasonable investor with knowledge of all relevant facts and circumstances would conclude that the accountant is not) capable of exercising objective and impartial judgment on all issues encompassed within the accountant’s engagement. <sup>3</sup> Furthermore, in determining whether an accountant is independent, the Commission will consider all relevant circumstances, including all relationships between an accountant and the audit client. <sup>4</sup>
+
+Rule 2-01(c) sets forth a nonexclusive list of circumstances that the Commission considers to be inconsistent with the independence standard in Rule 2-01(b), including certain direct financial relationships between an accountant and audit client and other circumstances where the accountant has a financial interest in the audit client . <sup>5</sup> In particular, the existingrestriction on debtor-creditor relationships in Rule 2-01(c)(1)(ii)(A) (the “Loan Provision”) generally provides that an accountant is not independent when (a) the accounting firm, (b) any covered person <sup>6</sup> in the accounting firm ( e.g. , the audit engagement team and those in the chain of command), or (c) any of the covered person’s immediate family members has any loan (including any margin loan) to or from (x) an audit client, or (y) an audit client’s officers, directors, or (z) record or beneficial owners of more than 10 percent of the audit client’s equity securities. <sup>7</sup> Simply because a lender to an auditor holds 10 percent or less of an audit client’s equity securities does not, in itself, establish that the auditor is independent under Rule 2-01 of Regulation S-X. The general standard under Rule 2-01(b) and the remainder of Rule 2-01(c) still apply to auditors and their audit clients regardless of the applicability of the Loan Provision.
+
+In the below illustration, pursuant to the Loan Provision, a lending relationship between any entity in the left hand column and any entity in the right-hand column impairs independence, unless an exception applies .
+
+Audit Client (including all affiliates) Audit Firm Covered Person Figure 1 . Loan Provision Relationships
+
+Audit Firm Loan (including margin loan) Audit Client Officers & Directors
+
+When the Commission proposed the Loan Provision in 2000, it noted that a debtor- creditor relationship between an auditor and its audit client reasonably could be viewed as “creating a self-interest that competes with the auditor’s obligation to serve only investors’ interests.” <sup>8</sup> The Commission’s concern about a competing self-interest extended beyond loans directly between the auditor and its audit client to loans between the auditor and those shareholders of the audit client who have a “special and influential role” with the audit client. <sup>9</sup> As a proxy for identifying a “special and influential role,” the Commission adopted a bright-line test for loans to or from a record or beneficial owner of more than 10 percent of an audit client’s equity securities. <sup>10</sup>
+
+Under Rule 2-01(f)(6) of Regulation S-X, the term “audit client” is defined to include any affiliate of the entity whose financial statements are being audited. <sup>11</sup> Rule 2-01(f)(4) provides that “affiliates of the audit client” include entities that control, are controlled by, or are under common control with the audit client. <sup>12</sup> As a result, generally, an accounting firm is notindependent under the Loan Provision if it has a lending relationship with an entity having record or beneficial ownership of more than 10 percent of the equity securities of either (a) the firm’s audit client; or (b) any entity that is a controlling parent company of the audit client, a controlled subsidiary of the audit client, or an entity under common control with the audit client.
+
+In addition, the term “affiliate of the audit client” includes each entity in an investment company complex (“ICC”) of which the audit client is a part. <sup>13</sup> Accordingly, in the ICC context, an accounting firm is considered not independent under the Loan Provision if it has a lending relationship with an entity having record or beneficial ownership of more than 10 percent of any entity within the ICC, regardless of which entities in the ICC are audited by the accounting firm.
+
+The Commission has become aware that, in certain circumstances, the existing Loan Provision may not be functioning as it was intended. Registered investment companies, other pooled investment vehicles, and registered investment advisers have expressed concerns about the Loan Provision in both public disclosures and, together with their auditors, in extensive consultations with Commission staff. <sup>14</sup> It has become clear that there are certain fact patterns in which an auditor’s objectivity and impartiality are not impaired despite a failure to comply with
+
+An entity that has significant influence over the audit client, unless the audit client is not material to the entity; and (4) Each entity in the investment company complex when the audit client is an entity that is part of an investment company complex.the requirements of the Loan Provision. These fact patterns have arisen most frequently with respect to funds, although as noted in the Proposing Release, non-fund issuers also have faced challenges associated with the Loan Provision. <sup>15</sup>
+
+The Commission understands that accounting firms use loans to help finance their core business operations. Accounting firms frequently obtain financing to pay for their labor and out- of-pocket expenses before they receive payments from audit clients for those services.
+
+Accounting firms also use financing to fund current operations and provide capital to fund ongoing investments in their audit methodologies and technology. Accounting firms borrow from commercial banks or through private placement debt issuances, typically purchased by large financial institutions, both of which give rise to debtor-creditor relationships. <sup>16</sup> For creditor diversification purposes, credit facilities provided or arranged by commercial banks are often syndicated among multiple financial institutions, thereby expanding the number of lenders to an accounting firm. As a result, accounting firms typically have a wide array of borrowing arrangements. These arrangements facilitate firms’ provision of audit services to investors and other market participants, but also multiply the number of lenders that may be record or beneficial owners of securities in audit clients and that must be analyzed under the Loan Provision.
+
+These accounting firms’ financing methods appear to have resulted in various scenarios in which the Loan Provision deems an accounting firm’s independence to be impaired, notwithstanding that the relevant facts and circumstances regarding the relationships between the auditor and the audit client suggest that in most cases the auditor’s objectivity and impartiality do not appear to be affected as a practical matter. Nevertheless, auditors and audit committees <sup>17</sup> may feel obligated to devote substantial resources to evaluating potential instances of non- compliance with the existing Loan Provision, which could distract auditors’ and audit committees’ attention from matters that may be more likely to bear on the auditor’s objectivity and impartiality. <sup>18</sup> Audit committees’ receipt of a high volume of communications of such relationships could dilute the impact of communications that identify issues that may actually raise concerns about an auditor’s independence.
+
+Similarly, numerous violations of the independence rules that no reasonable investor would view as implicating an auditor’s objectivity and impartiality could desensitize marketparticipants to other, more significant violations of the independence rules. Respect for the seriousness of these obligations, and attention to any breach or potential breach of these obligations, is better fostered through limiting violations to those instances in which the auditor’s independence would be impaired in fact or in appearance.
+
+Moreover, searching for, identifying, and assessing non-compliance or potential non- compliance with the Loan Provision and reporting these instances to audit committees also may generate significant costs for entities and their advisers and auditors, which are ultimately borne by shareholders. These costs are unlikely to have corresponding benefits to the extent that the Loan Provision’s breadth identifies and requires analysis of circumstances that are unlikely to bear on the auditor’s independence.
+
+In addition, the compliance challenges associated with the Loan Provision can have broader disruptive effects, particularly for funds. <sup>19</sup> For example, in order for a registered open- end fund to make a continuous offering of its securities, it must maintain a current prospectus by periodically filing post-effective amendments to its registration statement that contain updated financial information audited by an independent public accountant in accordance with Regulation S-X . <sup>20</sup> In addition, the federal securities laws require that investment companies registered under the Investment Company Act transmit annually to shareholders and file with the
+
+Commission financial statements audited by an independent registered public accounting firm. <sup>21</sup> Accordingly, non-compliance with the auditor independence rules in some cases could result in affected funds not being able to offer or sell shares, investors not being able to rely on affected financial statements, or funds (and, indirectly, but importantly, their investors) having to incur the costs of re-audits.
+
+In order to provide time for the Commission to address these challenges, and recognizing that funds and their advisers were most acutely affected by the Loan Provision, the Commission staff issued a no-action letter to Fidelity Management & Research Company in 2016 regarding the application of the Loan Provision (“Fidelity No-Action Letter”). <sup>22</sup> In the Fidelity No-Action Letter, the staff stated that it would not recommend enforcement action to the Commission, even though certain Fidelity entities identified in the letter used audit firms that were not in compliance with the Loan Provision, subject to certain conditions specified in the letter ( e.g. , that notwithstanding such non-compliance, the audit firm had concluded that it is objective and impartial with respect to the issues encompassed within the engagement). <sup>23</sup> Staff has continuedto receive inquiries from registrants and accounting firms regarding the application of the Loan Provision, clarification of the Fidelity No-Action Letter, and requests for consultation regarding issues not covered in the Fidelity No-Action Letter.
+
+In order to address the compliance challenges discussed above, on May 2, 2018, the Commission proposed amendments to its auditor independence rules to refocus the analysis that must be conducted to determine whether an auditor is independent when the auditor has a lending relationship with certain shareholders of an audit client at any time during an audit or professional engagement period. <sup>24</sup> The proposed amendments to the Loan Provision were intended to more effectively identify debtor-creditor relationships that could impair an auditor’s objectivity and impartiality, as opposed to certain more attenuated relationships that are unlikely to present threats to objectivity or impartiality. To achieve this objective, the proposed amendments to the Loan Provision would have: (1) focused the analysis solely on beneficial ownership rather than on both record and beneficial ownership; (2) replaced the existing 10 percent bright-line shareholder ownership test with a “significant influence” test; (3) added a “known through reasonable inquiry” standard with respect to identifying beneficial owners of the audit client’s equity securities; and (4) amended the definition of “audit client” for a fund under audit to exclude funds that otherwise would be considered affiliates of the audit client. The Commission also requested comment on certain other potential amendments to its auditor independence rules.separate accounts that it maintains on behalf of its insurance contract holders;” and (iii) “An institution that has a lending relationship with an Audit Firm and acts as an authorized participant or market maker to a Fidelity ETF and holds of record or beneficially more than 10 percent of the shares of a Fidelity ETF.”
+
+In developing the final amendments, we considered the thirty-one comment letters received in response to the Proposing Release. <sup>25</sup> Most commenters expressed general support for the proposed amendments, and only a few commenters did not.
+
+<h>II. Final Amendments</h>
+
+<h>A. Overview of the Final Amendments</h>
+
+We are adopting amendments to Rule 2-01 of Regulation S-X that we believe would more effectively identify those debtor-creditor relationships that could impair an auditor’s objectivity and impartiality, yet would not include certain attenuated relationships that are unlikely to present threats to objectivity or impartiality. <sup>26</sup> Because compliance challenges associated with applying the Loan Provision have arisen with entities other than funds, and given that we did not receive comments objecting to our proposal to apply these amendments broadly, the final amendments will apply to entities beyond the investment management industry, including operating companies and registered broker-dealers.
+
+We are adopting the amendments generally as proposed with a few additional changes.
+
+As was proposed, we are focusing the analysis on beneficial ownership rather than on both record and beneficial ownership. Also, as proposed, we are replacing the existing 10 percent bright-line shareholder ownership test with a “significant influence” test and adding a “known through reasonable inquiry” standard with respect to identifying beneficial owners of the audit client’s equity securities. In addition, we are excluding from the definition of “audit client,” for a fund under audit, any other funds that otherwise would be considered affiliates of the auditclient under the Loan Provision. In a change from the proposal and in response to comments, the final amendments define “fund” for these purposes to also exclude commodity pools and we clarify that foreign funds (as described below) are excluded for purposes of the definition of audit client. Finally, the Chairman has directed the staff to formulate recommendations to the Commission for possible additional changes to the auditor independence rules, as discussed further below.
+
+<h>B. Focus the Analysis on Beneficial Ownership</h>
+
+Where a lender to an auditor holds more than 10 percent of the equity securities of that auditor’s audit client either as a beneficial owner or as a record owner, current rules dictate that the auditor is not independent of the audit client. As noted in the Proposing Release, one challenge associated with the Loan Provision is that it applies to both “record” and “beneficial” owners of the audit client’s equity securities. However, publicly traded shares, as well as certain fund shares, often are registered in the name of a relatively small number of financial intermediaries <sup>27</sup> as “record” owners for the benefit of their clients or customers. Certain of these financial intermediaries may also be lenders to public accounting firms or be affiliated with financial institutions that may be lenders to public accounting firms. As a result, audit clients may have financial intermediaries that own, on a “record” basis, more than 10 percent of the issuer’s shares and are also lenders to public accounting firms, covered persons of accounting firms, and their immediate family members, or are affiliated with companies that are lenders to public accounting firms (see Figure 2 below for illustration). However, these financialintermediaries are not “beneficial” owners and may not have control over whether they are “record” owners of more than 10 percent of the issuer’s shares.
+
+Figure 2 . Audit Firm is not independent under the Loan Provision when a Financial Intermediary that is a lender to the Audit Firm is also a record owner of more than 10 percent of the equity securities of the Audit Client.
+
+For example, open-end funds, such as mutual funds, may face significant challenges, because the record ownership percentages of open-end funds may fluctuate greatly within a given period for reasons completely out of the control or knowledge of a lender who is also a fund shareholder of record, regardless of their diligence in monitoring compliance. Specifically, as a result of underlying customer activity in an omnibus account (such as when beneficial owners purchase or redeem their shares in an open-end fund) or as a result of the activity of other record or beneficial owners, the record ownership of a lender that is a financial intermediary holding fund shares for customers may exceed, or conversely fall below, the 10 percent thresholdwithin a given period without any affirmative action on the part of the financial intermediary . <sup>28</sup> In this scenario, the financial intermediary’s holdings might constitute less than 10 percent of a mutual fund and, as a result of subsequent redemptions by beneficial owners through other non- affiliated financial intermediaries, the same investment could then constitute more than 10 percent of the mutual fund. However, regardless of their diligence in monitoring compliance, the financial intermediary, the fund, and the auditor may not know that the 10 percent threshold had been exceeded until after the fact.
+
+<h>1. Proposed Amendments</h>
+
+Under the proposed amendments, the Loan Provision would apply only to beneficial owners of the audit client’s equity securities and not to those who merely hold the audit client’s equity securities as a holder of record on behalf of their beneficial owners. <sup>29</sup> The Proposing Release noted that tailoring the Loan Provision to focus on the beneficial ownership of the audit
+
+An open-end fund, or open-end company, is a management company that is offering for sale or has outstanding any redeemable securities of which it is the issuer. A closed-end fund, or closed-end company, is any management company other than an open-end company. See Section 5 of the Investment Company Act [15 U.S.C. 80a-5]. ETFs registered with the Commission are organized either as open-end management companies or unit investment trusts. See Section 4 of the Investment Company Act [15
+
+U.S.C. 80a-4] (defining the terms “management company” and “unit investment trust”). References to “funds” in this Release include ETFs, unless specifically noted.client’s equity securities would more effectively identify shareholders “having a special and influential role with the issuer” and therefore better capture those debtor-creditor relationships that may impair an auditor’s independence. <sup>30</sup>
+
+<h>2. Comments</h>
+
+Commenters generally supported the proposed amendment to focus the analysis on beneficial owners, <sup>31</sup> and several of these commenters agreed that tailoring the Loan Provision to focus only on the beneficial ownership of the audit client’s equity securities would more effectively identify shareholders “having a special and influential role with the issuer” and therefore better capture those debtor-creditor relationships that may impair an auditor’s independence. <sup>32</sup> One commenter expressed the view that auditors should not have any lending relationship with any shareholders of an audit client. <sup>33</sup> Several commenters requestedclarification of the definition of “beneficial owner” and expressed support for defining “beneficial owner” to refer to those owners with an economic interest in the relevant securities. <sup>34</sup> A number of commenters requested that the Commission reiterate the guidance set forth in footnote 22 of the Proposing Release , <sup>35</sup> describing the entities that are excluded from the scope of the Loan Provision ( e.g. , entities that are under common control with or controlled by the beneficial owner are excluded from the scope). <sup>36</sup>
+
+A few commenters agreed that the proposed amendment would ease compliance burdens, <sup>37</sup> and two commenters stated that the proposed amendment did not raise other auditor independence concerns. <sup>38</sup> Two commenters expressed the view that, even if the Commission amended the Loan Provision to provide for evaluation of beneficial ownership alone, the other proposed amendments would still be necessary and appropriate. <sup>39</sup>
+
+<h>3. Final Amendments</h>
+
+After considering the comments received, and consistent with the proposal, we are adopting amendments that focus the analysis on beneficial ownership rather than on both record and beneficial ownership. We continue to believe that tailoring the Loan Provision to focus onthe beneficial ownership of the audit client’s equity securities would more effectively identify shareholders “having a special and influential role with the issuer” and therefore better capture those debtor-creditor relationships that may impair an auditor’s independence.
+
+In response to commenters who requested clarification of the term “beneficial owner,” we are providing additional guidance that financial intermediaries, who hold shares as record owners, and who have limited authority to make or direct voting or investment decisions on behalf of the underlying shareholders of the audit clients, are not considered “beneficial owners” for purposes of the Loan Provision. <sup>40</sup> Furthermore, if the financial intermediary undertakes steps to remove its discretion over the voting or disposition of shares, the financial intermediary generally will not be considered to be a beneficial owner for purposes of the Loan Provision.
+
+Such steps could include, for example: (1) mirror voting ( i.e. , the intermediary is obligated to vote the shares held by it in the same proportion as the vote of all other shareholders); (2) the financial intermediary holds the shares in an irrevocable voting trust without discretion for the institution to vote the shares; (3) an agreement to pass through the voting rights to an unaffiliated third-party entity; or (4) the intermediary has otherwise relinquished its right to vote such shares. <sup>41</sup> As requested by commenters, we also are reiterating the guidance set forth in the Proposing Release, <sup>42</sup> but with certain conforming changes because the final amendments remove the reference to “record owners” from the Loan Provision and replace the 10 percent bright-linetest with a significant influence test. <sup>43</sup> Accordingly, entities that are under common control with or controlled by the beneficial owner of the audit client’s equity securities when such beneficial owner has significant influence over the audit client, are excluded from the scope of the Loan Provision.
+
+<h>C. Significant Influence Test</h>
+
+As discussed in the Proposing Release, the current bright-line 10 percent test may be both over- and under-inclusive as a means of identifying those debtor-creditor relationships that actually impair the auditor’s objectivity and impartiality. For example, the existing Loan Provision may apply even in situations where the lender may be unable to influence the audit client through its holdings (such as with omnibus accounts that hold as record owner more than 10 percent of the equity shares of an audit client). In such circumstances, the lender’s ownership of an audit client’s equity securities alone would not threaten an audit firm’s objectivity and impartiality. Conversely, the existing Loan Provision does not apply if the auditor’s lender owns 10 percent or less of the audit client’s equity securities, despite the fact that such an owner may be able to exert significant influence over the audit client through contractual or other means. A holder of 10 percent or less of an audit client’s equity securities could, for example, have the contractual right to remove or replace a pooled investment vehicle’s investment adviser.
+
+<h>1. Proposed Amendments</h>
+
+The Commission proposed to replace the existing 10 percent bright-line test in the Loan Provision with a “significant influence” test similar to that referenced in other parts of the
+
+Commission’s auditor independence rules . <sup>44</sup> Specifically, the proposed amendment would provide, in part, that an accountant would not be independent when the accounting firm, any covered person in the firm, or any of his or her immediate family members has any loan (including any margin loan) to or from an audit client, or an audit client’s officers, directors, or beneficial owners (known through reasonable inquiry) of the audit client’s equity securities where such beneficial owner has significant influence over the audit client. <sup>45</sup> Although not specifically defined, the term “significant influence” appears in other parts of Rule 2-01 of Regulation S-X, <sup>46</sup> and the Proposing Release noted that use of the term “significant influence” in the proposed amendment was intended to refer to the principles in the Financial Accounting Standards Board’s (“FASB’s”) ASC Topic 323, Investments – Equity Method and Joint Ventures. <sup>47</sup>
+
+<h>2. Comments</h>
+
+<h>a. Significant Influence Test</h>
+
+Most commenters supported the proposed amendment to replace the 10 percent bright- line shareholder ownership test with a significant influence test. <sup>48</sup> Generally, these commenters agreed that significant influence is a more appropriate framework to identify those lending relationships that impair an accountant’s objectivity and impartiality. <sup>49</sup> A few commenters supported codifying the significant influence test found in ASC 323 (or specific elements of that test) in our rules to promote consistent application, <sup>50</sup> but one commenter did not support codification in our rules so as to avoid confusion in the future if changes are made to ASC 323. <sup>51</sup> A few commenters requested that we affirm that the Commission’s auditor independence standards involve a shared responsibility of the audit client and the auditor. <sup>52</sup> One commenter did not support replacing the 10 percent bright-line test with a significant influence test in part because the commenter questioned the quality of the equity method of accounting in general. <sup>53</sup>
+
+<h>b. ASC 323</h>
+
+Many commenters agreed that the framework in ASC 323 is generally appropriate for assessing significant influence. <sup>54</sup> Several commenters, however, asserted that the concepts in ASC 323 may not be useful to apply to funds or may not be routinely applied in the fundcontext. <sup>55</sup> Two commenters asserted that ASC 323 is not an appropriate framework for the “significant influence” test, and instead proposed a decision framework with a “singular focus on the beneficial owner’s ability to exert significant influence over the audit client’s operating and financial policies,” based on the totality of the facts and circumstances. <sup>56</sup> A number of commenters requested that the Commission reiterate the fund guidance from the Proposing Release , <sup>57</sup> which clarified that in the fund context, the operating and financial policies relevant to the significant influence test would include the fund’s portfolio management processes. A few commenters recommended that the Commission provide additional guidance regarding the application of the significant influence test in the fund context ( e.g. , mutual funds, preferred stockholders in closed-end funds, and exchange-traded funds) . <sup>58</sup>
+
+Several commenters agreed that it would be appropriate to consider the nature of the services provided by the investment adviser as a factor in determining whether a beneficial owner has significant influence. <sup>59</sup> Several commenters also supported analyzing the concept of “portfolio management processes” as the first step to the significant influence test for investment companies. These commenters agreed that, in circumstances in which the advisory contract grants the investment adviser significant discretion with respect to the fund’s portfolio management processes, it is unlikely that a shareholder will have significant influence and thefactors in ASC 323 would not have to be further analyzed. <sup>60</sup> Some commenters recommended that the Commission confirm that an audit firm need not monitor beneficial ownership if it initially determines that, based on portfolio management processes, the audit client cannot be subject to significant influence and periodically determines that there are no changes to the fund’s governance structure and governing documents. <sup>61</sup> Two commenters proposed a framework that focused on the beneficial owner’s ability to exert significant influence over the audit client’s operating and financial policies, based on the totality of the circumstances, and to avoid the exclusive reliance on the ASC 323 framework in the investment fund context. <sup>62</sup>
+
+<h>c. Rebuttable Presumption</h>
+
+ASC 323 incorporates a rebuttable presumption of significant influence once beneficial ownership meets or exceeds 20 percent of an investee’s voting securities. <sup>63</sup> Two commenters recommended codifying the rebuttable presumption assessment under the proposed significant influence test consistent with the accounting standard, <sup>64</sup> and one commenter stated that although ASC 323 includes a rebuttable presumption with respect to 20 percent ownership, it is merely a guide and may be raised or lowered depending on the facts and circumstances. <sup>65</sup> A few commenters did not support applying the 20 percent rebuttable presumption to funds, but rathersupported an analysis of the rights of fund owners under the fund’s governance provisions. <sup>66</sup> Two commenters viewed the 20 percent rebuttable presumption as substituting a new 20 percent bright-line test for the existing 10 percent bright-line test, in the absence of the fund guidance set forth in the Proposing Release. <sup>67</sup> One commenter was concerned that the 20 percent rebuttable presumption could potentially conflict with the analysis of “control” under the federal securities laws by introducing a new standard that could increase compliance costs. <sup>68</sup>
+
+<h>d. Participation on an Advisory Committee</h>
+
+The Proposing Release noted that if a shareholder in a private fund, for example, has a side letter agreement outside of the standard partnership agreement that allows for participation in portfolio management processes (including participation on a fund advisory committee), then the shareholder would likely have significant influence. <sup>69</sup> A few commenters asserted that although participation on an advisory committee should be one factor in assessing significant influence, this factor alone is not likely to indicate significant influence. <sup>70</sup> Two commenters noted that the responsibilities of an advisory committee can vary. <sup>71</sup> One of these commenters noted that, when the board or advisory committee has substantive oversight responsibility or decision-making capacity over operating and financial policies significant to the fund, the commenter would likely view a shareholder on the board or advisory committee as havingsignificant influence. In the absence of those characteristics, the commenter indicated that it would likely not consider a member of the board or advisory committee to have significant influence. <sup>72</sup> The other commenter stated that the purpose of an advisory committee generally is to provide suggestions to the investment adviser or general partner, and that advisory committees typically do not oversee the investment adviser or general partner and do not participate in the portfolio management process. <sup>73</sup>
+
+Two commenters asserted that the right to remove a general partner or adviser was unlikely to indicate significant influence. <sup>74</sup> Another commenter supported drawing a distinction between rights that provide a shareholder with an ability to actively participate in fund investment decisions ( e.g. , approval or veto rights over a new fund investment), which would indicate significant influence, and rights that allow a shareholder to address inappropriate behavior on the part of the investment adviser ( e.g. , a right to remove an adviser for cause or the right to approve material changes to the fund governance documents), which would not indicate significant influence. <sup>75</sup>
+
+<h>e. Authorized Participants</h>
+
+Authorized participants (“APs”) for ETFs deposit or receive basket assets in exchange for creation units of the fund. The Proposing Release noted that the deposit or receipt of basket assets by an AP that is also a lender to the auditor alone would not constitute significantinfluence over an ETF audit client. Several commenters agreed that the deposit or receipt of basket assets by an authorized participant that is also a lender to the auditor would not alone constitute significant influence over an ETF audit client. <sup>76</sup> A few commenters stated that market makers also should not be considered to have significant influence over an ETF audit client since their objective is not to influence the fund or the portfolio management process, but to provide liquidity to ETFs. <sup>77</sup> One commenter recommended that the Commission clarify that market makers typically would not be considered to have significant influence for purposes of the Loan Provision. <sup>78</sup>
+
+<h>f. Evaluation of Compliance with the Loan Provision</h>
+
+The Proposing Release indicated that, if the auditor determines that significant influence does not exist based on the facts and circumstances at the time of the auditor’s initial evaluation, <sup>79</sup> the auditor should monitor the Loan Provision on an ongoing basis, which could be done, for example, by reevaluating its determination when there is a material change in the fund’s governance structure and governing documents, publicly available information about beneficial owners, or other information that may implicate the ability of a beneficial owner to exert significant influence of which the audit client or auditor becomes aware. Several commenters agreed with this proposal. <sup>80</sup> A few commenters indicated that communications withshareholders or documentation regarding investor rights could be examples of other information implicating significant influence of which the audit client or auditor becomes aware. <sup>81</sup>
+
+The Proposing Release also requested comment on whether the Commission should permit the Loan Provision or other financial relationships to be addressed at specific dates during the audit and professional engagement period, or the beginnings or ends of specific periods, or under specified circumstances. Rule 2-01(c)(1) of Regulation S-X provides that an accountant is not independent if the accountant has an independence-impairing relationship specified in the rule at any point during the audit and professional engagement period. Certain existing disclosure requirements require information about beneficial owners as of a specified date. <sup>82</sup> Several commenters expressed the view that specific dates were not needed to assess compliance with the Loan Provision, and that the frequency and timing of the evaluation should be developed based on the particular facts and circumstances relevant to the audited entity. <sup>83</sup>
+
+A few commenters supported including specific dates or periods, such as:
+
+The onset of the engagement period and the balance sheet date for each audit; <sup>84</sup>
+
+At the planning and reporting stages of the audit and potentially significant or material events; <sup>85</sup> or
+
+The beginning of the engagement, prior to accepting a new engagement, and when the governance structure (including any contractual relationships) of the audit client changes. <sup>86</sup>
+
+<h>g. Alternatives to the Significant Influence Test</h>
+
+Two commenters proposed alternatives to the significant influence test: (1) focusing on material direct financial interests, <sup>87</sup> and (2) focusing the analysis on beneficial ownership, but maintaining the existing 10 percent bright-line shareholder ownership test. <sup>88</sup> The commenter that recommended maintaining the existing 10 percent bright-line ownership test but applying it to beneficial owners argued that this alternative approach would be simpler and easier to understand than the proposed significant influence test. <sup>89</sup> This commenter also asserted that the alternative approach would address most of the issues raised in the Fidelity No-Action Letter and avoid replacing the 10 percent bright-line test with a significant influence test that incorporates a 20% rebuttable presumption. <sup>90</sup>
+
+One commenter stated that alternatives to the significant influence test are not needed. <sup>91</sup> The Proposing Release also requested comment on whether the modifier “significant” should be removed, such that the test would hinge on whether a lender shareholder has influence over anaudit client. Two commenters opposed the removal of the modifier “significant” from the significant influence test, arguing that it would not achieve the objective of more effectively identifying those lending relationships that impair objectivity and impartiality. <sup>92</sup> Another commenter did not support an alternative test based on mere “influence,” describing significant influence as being able to alter management’s decision-making process, whereas mere “influence” could be disregarded by management. <sup>93</sup>
+
+<h>3. Final Amendments</h>
+
+After carefully considering the comments received, and consistent with the proposal, we are adopting amendments to replace the existing 10 percent bright-line test in the Loan Provision with a “significant influence” test similar to that referenced in other parts of the Commission’s auditor independence rules and based on the concepts applied in ASC 323. We are not adopting an alternative framework, as suggested by two commenters, <sup>94</sup> that focuses on the beneficial owner’s ability to exert significant influence over the audit client’s operating and financial policies, based on the totality of the facts and circumstances, rather than the concepts applied in ASC 323. We continue to believe that given its use in other parts of the Commission’s independence rules, <sup>95</sup> the concept of “significant influence” is one with which audit firms and their clients are already required to be familiar and would effectively identify those debtor- creditor relationships that could impair an auditor’s objectivity and impartiality. In this regard, introducing a separate significant influence determination for these purposes would introduceadditional complexity to the auditor independence rules without, in our view, necessarily resulting in more accurate assessments of auditor independence.
+
+While the term “significant influence” in the final amendment refers to the principles in ASC 323, we agree with the commenter who stated that the specific considerations described in the significant influence test in ASC 323 should not be codified in our rules so as to avoid confusion in the future if changes are made to ASC 323. <sup>96</sup> For similar reasons, we are not codifying ASC 323’s 20 percent rebuttable presumption in our rules.
+
+While audit firms and audit committees of operating companies already should be familiar with application of the “significant influence” concept, we appreciate that this concept is not as routinely applied by funds for financial reporting purposes. Therefore, in response to comments requesting that the Commission reiterate the fund guidance from the Proposing Release <sup>97</sup> and comments recommending additional guidance regarding the application of the significant influence test in the fund context, <sup>98</sup> we are reiterating the fund guidance in the Proposing Release, with further clarification about the application in this context of the rebuttable presumption and other fund specific issues. In the fund context, we believe that the operating and financial policies relevant to the significant influence test would include the fund’s investment policies and day-to-day portfolio management processes, including those governing the selection, purchase and sale, and valuation of investments, and the distribution of income and capital gains (collectively “portfolio management processes”). An audit firm could analyze, in its initial assessment under the rule, whether significant influence over the fund’s portfoliomanagement processes exists based on an evaluation of the fund’s governance structure and governing documents, the manner in which its shares are held or distributed, and any contractual arrangements, among any other relevant factors.
+
+We believe that it would be appropriate to consider the nature of the services provided by the fund’s investment adviser(s) pursuant to the terms of an advisory contract with the fund as part of this analysis. In circumstances where the terms of the advisory agreement grant the adviser significant discretion with respect to the fund’s portfolio management processes and the shareholder does not have the ability to influence those portfolio management processes, significant influence generally would not exist and the evaluation of significant influence would be complete unless there is a material change in the fund’s governance structure and governing documents (as discussed below). This should be the case even if the shareholder holds 20 percent or more of a fund’s equity securities, which would otherwise trigger the rebuttable presumption under application of the concepts described in ASC 323.
+
+The ability to vote on the approval of a fund’s advisory contract or a fund’s fundamental policies on a pro rata basis with all holders of the fund alone generally should not lead to the determination that a shareholder has significant influence. Similarly, the ability to remove or terminate a fund’s advisory contract alone generally should not lead to a determination that a shareholder has significant influence.
+
+As the Commission observed in the Proposing Release, if a shareholder in a private fund, for example, has a side letter agreement outside of the standard partnership agreement that allows for participation in portfolio management processes (including participation on a fund advisory committee), then the shareholder would likely have significant influence. In responseto commenters noting that the responsibilities of an advisory committee can vary, <sup>99</sup> we are further clarifying that a shareholder in a private fund that participates on a fund advisory committee would likely have significant influence if that committee involves substantive oversight responsibility or decision-making capacity over operating and financial policies significant to the fund.
+
+In addition, we believe that the deposit or receipt of basket assets by an AP that is also a lender to the auditor would not alone constitute significant influence over an ETF audit client. Similarly, in circumstances where a market maker is a lender to the auditor, the deposit or receipt of basket assets by a market maker (acting through an AP) would not alone constitute significant influence over such an ETF audit client.
+
+Holders of a closed-end fund’s preferred stock have certain rights that may be relevant to a significant influence analysis. <sup>100</sup> The determination of whether preferred stockholders have significant influence over the fund would be based on an evaluation of the relevant facts and circumstances.
+
+Further to the guidance set forth above, we wish to emphasize that auditor independence is a shared responsibility between the audit firm and audit client. <sup>101</sup> The reliability of the processfor identifying beneficial owners will be enhanced when both auditors and audit clients take responsibility for promoting the accuracy of information required to assess the auditor’s independence.
+
+If the auditor determines that significant influence over the fund’s management processes does not exist at the time of the initial application of the rule, the auditor should monitor the Loan Provision on an ongoing basis. <sup>102</sup> We continue to believe, as expressly supported by several commenters, <sup>103</sup> that the auditor could satisfy this obligation to monitor its independence on an ongoing basis by reevaluating its determination in response to a material change in the fund’s governance structure and governing documents, Commission filings about beneficial owners, <sup>104</sup> or other information which may implicate the ability of a beneficial owner to exert significant influence of which the audit client or auditor becomes aware. Outside of the fund context, audit firms and their audit clients should continue to monitor the auditor’s independence on an ongoing basis by using their existing processes for determining whether significant influence exists consistent with the principles of ASC 323. In this regard, we agree with those commenters <sup>105</sup> who indicated that the frequency and timing of the significant influence203(c)(1)(D) of the Investment Advisers Act [15 U.S.C. 80b-3(c)(1)] authorize the Commission to require the filing of financial statements that have been audited by independent accountants. Title 17 CFR 240.17a-5(f)(1) (Paragraph (f)(1) of Rule 17a-5 under the Exchange Act) requires that for audits under paragraph (d) of Rule 17a-5 of broker-dealers registered with the Commission, an independent public accountant must be independent in accordance with Rule 2-01 of Regulation S-X. See also id . (discussing Rule 206(4)-2 under the Investment Advisers Act).evaluation should be based on the particular facts and circumstances relevant to the audited entity, consistent with the requirement that the auditor be independent throughout the audit and professional engagement period. Accordingly, we have not included specific dates, periods or circumstances upon which the significant influence evaluation should occur.
+
+Finally, although we carefully considered the comments regarding alternatives to the significant influence test, we have not been persuaded to retain the existing 10 percent bright-line shareholder ownership test. We believe that in situations where the lender is unable to influence the audit client through its holdings, the lender’s ownership of an audit client’s equity securities alone would not threaten an audit firm’s objectivity and impartiality. In these situations, we continue to believe that the significant influence test would more effectively determine which shareholders have “a special and influential role with the issuer” by focusing on a shareholder’s ability to influence the policies and management of an audit client.
+
+We disagree with the commenter who expressed support for retaining a 10 percent bright- line test based on beneficial ownership. <sup>106</sup> We continue to believe that a test based on significant influence, rather than one based on numerical bright lines, will better address the compliance challenges associated with the Loan Provision while also more effectively identifying debtor- creditor relationships that could impair an auditor’s objectivity and impartiality. One potential benefit of the final amendments is that the significant influence test could potentially identify risks to auditor independence that might not have been identified under the existing 10 percent bright-line test. For example, a beneficial owner that holds slightly less than 10 percent of an audit client’s equity securities is likely to have similar incentives and ability to influence theauditor’s report than a beneficial owner that holds slightly more than 10 percent of the same audit client’s equity securities. The existing 10 percent threshold in the Loan Provision would differentially classify these two hypothetical situations, despite their similarity. Under the final amendments, an audit firm, where it is evaluating beneficial owners for significant influence, would evaluate both beneficial owners to determine if they have significant influence, thus providing a consistent analysis under the Loan Provision for these economically similar fact patterns. Regarding the alternative of focusing on material direct financial interests, we discuss our reasons for not adopting a materiality qualifier below. <sup>107</sup>
+
+One commenter raised concerns that the 20 percent rebuttable presumption included in the significant influence analysis would introduce a new standard and require performing multiple layers of overlapping and potentially conflicting analysis. <sup>108</sup> The commenter cited to the definition of “affiliate of the audit client” set forth in Rule 2-01(f)(4) of Regulation S-X to suggest that the reference to “control” under that definition could overlap with the application of the significant influence test. <sup>109</sup> However, the concept of “significance influence” in ASC 323 is distinct from any reference to “control” in Rule 2-01(f)(4) or elsewhere under the federal securities laws. Specifically, the determination of whether an entity has control of another entity is distinct from whether an entity has significant influence over the audit client. For this reason, we do not believe the concept of “significant influence” in ASC 323 overlaps with other definitions. Moreover, the concept of “significant influence,” which includes the 20 percentrebuttable presumption, is not a new standard but has been part of the Commission’s auditor independence rules since 2000 and part of the accounting standards since 1971. <sup>110</sup>
+
+<h>D. Reasonable Inquiry Compliance Threshold</h>
+
+<h>1. Proposed Amendments</h>
+
+As noted in the Proposing Release, another challenge in the application of the current Loan Provision involves the difficulty in accessing information about the ownership percentage of an audit client for purposes of the current 10 percent bright-line test. The proposed amendments to the Loan Provision would have addressed concerns about accessibility to records or other information about beneficial ownership by adding a “known through reasonable inquiry” standard with respect to the identification of such owners. Under this proposed amendment, an audit firm, in coordination with its audit client, would be required to assess beneficial owners of the audit client’s equity securities who are known through reasonable inquiry. The Proposing Release noted that if an auditor does not know after reasonable inquiry that one of its lenders is also a beneficial owner of the audit client’s equity securities, including because that lender invests in the audit client indirectly through one or more financial intermediaries, the auditor’s objectivity and impartiality is unlikely to be impacted by its debtor-creditor relationship with the lender. The Proposing Release also noted that this “known through reasonable inquiry” standard is generally consistent with regulations implementing the Investment Company Act, the Securities Act, and the Exchange Act , <sup>111</sup> and therefore is a concept that already should befamiliar to those charged with compliance with the Loan Provision.
+
+<h>2. Comments</h>
+
+Commenters generally expressed support for the proposed amendment to add a “known through reasonable inquiry” standard with respect to identifying beneficial owners of the audit client’s equity securities. <sup>112</sup> A number of these commenters agreed that the proposed amendment would address compliance challenges and further agreed that if an auditor does not know after reasonable inquiry that one of its lenders is also a beneficial owner of the audit client’s equity securities, the auditor’s objectivity and impartiality is unlikely to be impacted by its debtor-creditor relationship with the lender. <sup>113</sup>
+
+Other commenters requested guidance on what constituted “reasonable inquiry,” <sup>114</sup> such as whether reviewing publicly available information or information readily available to the issuerthe nominee has its principal place of business.); <sup>17</sup> CFR 230.144(g) (Rule 144(g) under the Securities Act) (noting that the term brokers’ transactions in section 4(4) of the Securities Act shall be deemed to include transactions by a broker in which such broker after reasonable inquiry is not aware of circumstances indicating that the person for whose account the securities are sold is an underwriter with respect to the securities or that the transaction is a part of a distribution of securities of the issuer); 17 CFR 230.502(d) (Rule 502(d) under the Securities Act) (stating, with respect to limits on resales under Regulation D, that the issuer shall exercise reasonable care to assure that the purchasers of the securities are not underwriters within the meaning of section 2(a)(11) of the Securities Act, which reasonable care may be demonstrated by reasonable inquiry to determine if the purchaser is acquiring the securities for himself or for other persons). Registered investment companies also are subject to a similar requirement to disclose certain known beneficial owners. See Item 18 of Form N-1A (“State the name, address, and percentage of ownership of each person who owns of record or is known by the Fund to own beneficially 5% or more of any Class of the Fund’s outstanding equity securities.”); and Item 19 of Form N-2 (“State the name, address, and percentage of ownership of each person who owns of record or is known by the Registrant to own of record or beneficially five percent or more of any class of the Registrant’s outstanding equity securities.”).would be sufficient for this purpose. Several commenters requested substituting the proposed “known through reasonable inquiry” standard with a “known” standard, <sup>115</sup> while two commenters viewed both the “known” and “known through reasonable inquiry” standards to be similar. <sup>116</sup>
+
+<h>3. Final Amendments</h>
+
+After considering the comments received, we are adopting the amendment to add a “known through reasonable inquiry” standard with respect to identifying beneficial owners of the audit client’s equity securities as proposed. In response to commenters, we believe auditors and their audit clients could conduct the reasonable inquiry analysis by looking to the audit client’s governance structure and governing documents, Commission filings about beneficial owners, or other information prepared by the audit client which may relate to the identification of a beneficial owner. <sup>117</sup>
+
+In addition, we have determined not to substitute a “known through reasonable inquiry” standard with a “known” standard because we believe an inquiry by the auditor and the audit client in conjunction with the consideration of the audit client’s governance structure, governing documents, Commission filings, or other information prepared by the audit client, would be a practical approach that would not impose an undue burden in identifying and evaluating beneficial owners of the audit client’s equity securities.
+
+<h>E. Excluding Other Funds That Would Be Considered Affiliates of the Audit Client</h>
+
+As discussed in the Proposing Release, the current definition of “audit client” in Rule 2- 01 of Regulation S-X includes all “affiliates of the audit client,” which broadly encompasses, among others, each entity in an ICC of which the audit client is a part. In the fund context, this expansive definition of “audit client” could result in an audit firm being deemed not to be independent as to a broad range of entities, even where an auditor does not audit that entity. <sup>118</sup> Yet, in the investment management context, investors in a fund typically do not possess the ability to influence the policies or management of another fund in the same fund complex.
+
+Although an investor in one fund in a series company can vote on matters put to shareholders of the company as a whole, rather than only to shareholders of one particular series, even an investor with a substantial investment in one series would be unlikely to have a controlling percentage of voting power of the company as a whole.
+
+Moreover, as noted in the Proposing Release, for the purposes of the Loan Provision, the inclusion of certain entities in the ICC as a result of the definition of “audit client” is in tension with the Commission’s original goal to facilitate compliance with the Loan Provision without decreasing its effectiveness. <sup>119</sup> Indeed, auditors often have little transparency into the investors of other funds in an ICC (unless they also audit those funds), and therefore, are likely to havelittle ability to collect such beneficial ownership information.
+
+<h>1. Proposed Amendments</h>
+
+In order to address these compliance challenges, the proposed rules, for purposes of the Loan Provision, would have excluded from the definition of audit client, for a fund under audit, any other fund that otherwise would be considered an affiliate of the audit client. <sup>120</sup> Thus, for example, if an auditor were auditing Fund ABC, a series in Trust XYZ, the audit client for purposes of the Loan Provision would exclude all other series in Trust XYZ and any other fund that otherwise would be considered an affiliate of the audit client. The proposed amendment would have, without implicating an auditor’s objectivity and impartiality, addressed the compliance challenges associated with the application of the Loan Provision where the audit client is part of an ICC, such as when an accountant is an auditor of only one fund within an ICC, and the auditor must be independent of every other fund (and other entity) within the ICC, regardless of whether the auditor audits that fund.
+
+<h>2. Comments</h>
+
+Many commenters supported the proposal to amend the definition of “audit client” for a fund under audit to exclude funds that otherwise would be considered affiliates of the audit client. <sup>121</sup> Several of these commenters also agreed that the proposed amendment would address some of the compliance challenges associated with the Loan Provision while still effectivelyidentifying lending relationships that may impair independence. <sup>122</sup> Two commenters, however, asserted that affiliates of an audit client should not be categorically excluded from the definition of “audit client” when evaluating significant influence. <sup>123</sup> Many commenters supported expanding the proposed amendment to exclude other non-fund affiliates in an investment company complex or private fund complex ( e.g., investment advisers, broker-dealers, and service providers, such as custodians, administrators, and transfer agents), <sup>124</sup> while other commenters supported broadening the proposed exclusion to all audit clients, not just fund affiliates. <sup>125</sup> Several commenters recommended we address downstream affiliates of excluded funds, such as portfolio companies of the excluded funds. <sup>126</sup> These commenters generally argued that downstream affiliates of excluded funds that are not audit clients do not pose a threat to auditor independence since these affiliates, and investors in these affiliates, do not have the ability to exert significant influence over the entity under audit. <sup>127</sup>
+
+Several other commenters also suggested excluding from the definition of “audit client” other pooled investment vehicles in an investment company complex that may be deemed to bean affiliate of the audit client, including pooled products that are not investment companies and do not rely on Section 3(c) of the Investment Company Act ( e.g. , commodity pools), as well as certain foreign funds. <sup>128</sup> These commenters were concerned that these types of pooled investment vehicles could be deemed to be “affiliates of the audit client,” even though a lender likely would not have the ability to influence these other funds in the fund complex. <sup>129</sup> Another commenter stated that investment advisers that are part of an ICC of which an audit client is a part may conduct business that is unrelated to serving as the investment adviser to registered investment companies. <sup>130</sup> A number of commenters also specifically discussed excluding certain entities in the typical private equity fund structure from the definition of audit client, including other funds advised by the private equity sponsor when the private equity sponsor is the audit client. <sup>131</sup> We also received other comments on the “affiliate of the audit client” definition, which would impact other provisions of the auditor independence rules and are discussed below. <sup>132</sup>
+
+U.S. and that does not offer or sell its securities in the U.S. in connection with a public offering. See Section 7(d) of the Investment Company Act (prohibiting a foreign fund from using the U.S. mails or any means or instrumentality of interstate commerce to offer or sell its securities in connection with a public offering unless the Commission issues an order permitting the foreign fund to register under the Act). A foreign fund may conduct a private U.S. offering in the United States without violating Section 7(d) of the Act only if the foreign fund conducts its activities with respect to U.S. investors in compliance with either section 3(c)(1) or 3(c)(7) of the Act (or some other available exemption or exclusion). See Exemptions for Advisers to Venture Capital Funds, Private Fund Advisers With Less Than $150 Million in Assets Under Management, and Foreign Private Advisers, Investment Advisers Act Release No. 3222 (June 22, 2011) [76 FR 39646 (July 6, 2011)].
+
+<h>3. Final Amendments</h>
+
+We are adopting, as proposed, the amendment to the Loan Provision to exclude from the definition of audit client, for a fund under audit, any other fund ( e.g. , “sister fund”) that otherwise would be considered an affiliate of the audit client. Commenters generally supported this exclusion. However, in response to commenters that urged us to exclude commodity pools that are part of an ICC, we have expanded the definition of “fund” in the final amendments to provide that a commodity pool that is not an investment company or does not rely on Section 3 of the Investment Company Act also is not considered a fund for purposes of the Loan Provision. <sup>133</sup> A foreign fund that is part of an ICC would be covered by the exclusion for funds other than the fund under audit.
+
+We agree that investors in a fund typically do not possess the ability to influence the policies or management of other “sister” funds and that this does not depend on whether the funds are investment companies or other types of pooled investment vehicles. We also believe that expanding the definition of “fund” to encompass commodity pools is consistent with our intent to exclude for a fund under audit any other funds that otherwise would be considered an affiliate of the audit client.
+
+Commenters also urged that we exclude any downstream affiliates of excluded funds.
+
+We do not believe it is necessary to expressly carve these entities out of the audit client definition. However, to avoid any confusion, we are clarifying that, for purposes of the Loan Provision, the exclusion of sister funds from the audit client definition also excludes entities that would otherwise be included in the audit client definition solely by virtue of their associationwith an excluded sister fund. This clarification should remove any questions about whether entities in which a sister fund invests (and that have an even more attenuated relationship to a fund audit client) could themselves be treated as an audit client for purposes of the Loan Provision. We agree with commenters that these types of affiliates do not have the ability to exert significant influence over the entity under audit in these circumstances and, therefore, should not be treated as an audit client.
+
+<h>F. Other Comments</h>
+
+In the Proposing Release, the Commission also requested comment on other matters that might have an effect on the proposed amendments or the Loan Provision and any suggestions for additional changes to other parts of Rule 2-01 of Regulation S-X.
+
+<h>1. Materiality Qualifier</h>
+
+The Proposing Release did not include a materiality qualifier for the Loan Provision but requested comment on whether one should be included. Although a number of commenters expressed support for a materiality qualifier, <sup>134</sup> there were diverse recommendations about how it should be applied. A number of commenters expressed support for assessing the materiality of the loan to the auditor or covered person, <sup>135</sup> while other commenters supported assessing the materiality of the lender’s investment in the audit client . <sup>136</sup> Several commenters held the view
+
+T. Rowe Price, SIFMA, Federated, CCMC, RSM, First Data, FEI, AICPA, and Invesco.that if their recommendation to exclude all affiliates of the entity under audit was adopted, then a materiality qualifier would not be necessary. <sup>137</sup>
+
+After carefully considering the comments, we believe that the final amendments appropriately address the compliance challenges raised by the existing Loan Provision while refocusing the rule on the qualitative nature of those lending relationships auditors may have with lenders that “hav[e] a special and influential role with the audit client.” Accordingly, we have retained the significant influence test, as proposed, rather than having the analysis turn on whether a specific loan may be material to the lender or audit firm. We also believe that given the size of the financial institutions, in terms of revenue or other quantitative measures, and the audit firms that have lending relationships with them, a materiality qualifier would result in scoping out from the Loan Provision a broad range of lending relationships and would not sufficiently address the threat to auditor independence, in fact or appearance, posed by at least some of these lending relationships. Furthermore, when determining whether an accountant is capable of exercising objective and impartial judgment, the auditor and audit client should consider all relevant circumstances between an accountant and the audit client, <sup>138</sup> which would include any qualitative and quantitative factors. Moreover, adding a materiality qualifier could cause the auditor independence inquiry to be affected by fluctuating market conditions, rather than an assessment that is market neutral. <sup>139</sup>
+
+<h>2. Other Potential Changes to the Auditor Independence Rules</h>
+
+The final amendments are intended to address the significant practical challenges associated with the existing Loan Provision. The Proposing Release also solicited comment on other changes to the Loan Provision and to the other auditor independence rules. Generally, these comments can be categorized as follows: (1) relating to the Loan Provision, but not the significant compliance challenges that need to be immediately addressed ( e.g. , other types of loans that commenters suggested should be excluded from the Loan Provision, such as student loans); (2) broadly impacting provisions of the auditor independence rules, including the Loan Provision ( e.g. , comments relating to the “covered person” and “affiliate of the audit client” definitions); or (3) broadly impacting provisions of the auditor independence rules other than the Loan Provision ( e.g. , suggestions to narrow the look-back period for domestic initial public offerings so that the period is similar to that for foreign private issuers). In response to these comments and the need for more information gathering as to how best to address these categories of comments, the Chairman has directed the staff to formulate recommendations to the Commission for possible additional changes to the auditor independence rules in a future rulemaking.
+
+<h>III. Other Matters</h>
+
+If any of the provisions of these amendments, or the application of these provisions to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or application of such provisions to other persons or circumstances that can be given effect without the invalid provision or application.
+
+Pursuant to the Congressional Review Act, <sup>140</sup> the Office of Information and Regulatory Affairs has designated these amendments as not a “major rule,” as defined by 5 U.S.C. 804(2).
+
+<h>IV. Paperwork Reduction Act</h>
+
+The final amendments do not impose any new “collections of information” within the meaning of the Paperwork Reduction Act of 1995 (“PRA”), <sup>141</sup> nor do they create any new filing, reporting, recordkeeping, or disclosure requirements. Accordingly, we are not submitting the final amendments to the Office of Management and Budget for review in accordance with the PRA. <sup>142</sup> We did not receive any comments about our conclusion that there are no collections of information.
+
+<h>V. Economic Analysis</h>
+
+As discussed above, the Commission is adopting amendments to the Loan Provision in Rule 2-01 of Regulation S-X to focus the analysis on beneficial ownership rather than both record and beneficial ownership; replace the existing 10 percent bright-line shareholder ownership test with a “significant influence” test; <sup>143</sup> add a “known through reasonable inquiry” standard with respect to identifying beneficial owners of the audit client’s equity securities; and exclude from the definition of “audit client,” for a fund under audit, any other funds that otherwise would be considered affiliates of the audit client under the Loan Provision.
+
+Under the existing rules, the 10 percent bright-line shareholder ownership test does notrecognize an accountant as independent if the accounting firm, any covered person in the firm, or any of his or her immediate family members has certain loans to or from an audit client or an audit client’s officers, directors, or record or beneficial owners of more than 10 percent of the audit client’s equity securities. In addition, under the existing rules, “audit client” is defined broadly to include any affiliate of the entity whose financial statements are being audited, which, for funds, would include each entity in an ICC of which the audit client is a part. As discussed above, Commission staff has engaged in extensive consultations with audit firms, funds, and operating companies regarding the application of the Loan Provision. These consultations revealed that a number of entities face significant practical challenges to comply with the Loan Provision. These discussions also revealed that in certain scenarios, in which the Loan Provision was implicated, the auditor’s objectivity and impartiality in performing the required audit and interim reviews were not impaired.
+
+We are mindful of the benefits obtained from and the costs imposed by our rules and amendments. <sup>144</sup> The following economic analysis seeks to identify and consider the likely benefits and costs that will result from the final amendments, including their effects on efficiency, competition, and capital formation. The discussion below elaborates on the likely economic effects of the final amendments.
+
+<h>A. General Economic Considerations</h>
+
+In order for the reported information to be useful to investors, it needs to be relevant and reliable. The independent audit of such information by impartial skilled professionals ( i.e. , auditors) is intended to enhance the reliability of financial reports. <sup>145</sup> Conflicts of interest between companies or funds and their auditors may impair the objectivity and impartiality of the auditors in certifying the audit client’s reported performance, thus lowering the credibility and usefulness of these disclosures to investors. Academic literature discusses and documents the importance of the role of auditors as an external governance mechanism for the firm. <sup>146</sup> These studies generally find that better audit quality improves financial reporting by increasing the credibility of the financial reports.
+
+An accounting firm is not independent under the Loan Provision’s existing bright-line shareholder ownership test if the firm has a lending relationship with an entity having record or beneficial ownership of more than 10 percent of the equity securities of either: (1) the firm’s audit client; or (2) any “affiliate of the audit client,” including, but not limited to, any entity that is a controlling parent company of the audit client, a controlled subsidiary of the audit client, or an entity under common control with the audit client. The magnitude of a party’s investment in a company or fund is likely to be positively related with any incentive of that party to use leverage over the auditor with whom the party has a lending relationship in order to obtain personal gain.
+
+The 10 percent bright-line test in the Loan Provision does not, however, distinguishbetween holders of record and beneficial owners even though beneficial owners are more likely to pose a risk to auditor independence than record owners given that the financial gain of beneficial owners is tied to the performance of their investment, and as such, beneficial owners may have strong incentives to influence the auditor’s report. Record owners, on the other hand, may not benefit from the performance of securities of which they are record owners, and as such, they may have low incentives to influence the report of the auditor. Both the magnitude and the type of ownership in the audit client, are likely to be relevant factors in determining whether incentives exist for actions that could impair auditor independence. Beneficial ownership of a company’s or fund’s equity securities by a lender to the company’s or fund’s auditor is likely to pose a more significant risk to auditor independence than record ownership of the company’s or fund’s securities by the same lender.
+
+The current Loan Provision may in some cases over-identify and in other cases under- identify threats to auditor independence. The likelihood that the provision over-identifies threats to auditor independence will tend to be higher when the lender is not a beneficial owner of an audit client and does not have incentives to influence the auditor’s report, but has record holdings that exceed the 10 percent ownership threshold. On the other hand, under-identification of the threat to auditor independence may occur when the lender is a beneficial owner—implying the existence of potential incentives to influence the auditor’s report—and the investment is close to, but does not exceed, the 10 percent ownership threshold. <sup>147</sup>
+
+We are not aware of academic studies that specifically examine the economic effects of the Loan Provision. The remainder of the economic analysis in this section presents the baselineagainst which we perform our analysis, the anticipated benefits and costs of the final amendments, potential effects on efficiency, competition and capital formation, and an analysis of alternatives to the final amendments.
+
+<h>B. Baseline</h>
+
+The final amendments will change the Loan Provision compliance requirements for the universe of affected registrants. We believe the main affected parties will be audit clients, audit firms, and institutions engaging in financing transactions with audit firms and their partners and employees. Other parties that may be affected are covered persons and their immediate family members. Indirectly, the final amendments will affect audit clients’ investors.
+
+We are not able to precisely estimate the number of current auditor engagements that will be immediately affected by the final amendments. Specifically, precise data on how audit firms finance their operations and how covered persons arrange their personal financing are not available to us, and no commenters provided data to enable such an estimate. As such we are not able to identify pairs of auditors-institutions (lenders). Moreover, sufficiently detailed and complete data on fund ownership are not available to us, and no commenters provided such data, thus limiting our ability to estimate the prevalence/frequency of instances of significant fund ownership by institutions that are also lenders to fund auditors.
+
+Although data on fund ownership are not readily available, academic studies of operating companies have shown that, for a selected sample of firms, the average blockholder (defined as beneficial owners of five percent or more of a company’s stock) holds about 8.5 percent of a company’s voting stock. <sup>148</sup> These studies also show that numerous banks and insuranceworking paper (2013).companies are included in the list of blockholders. These findings suggest that the prevalence of instances of significant ownership by institutions that are also lenders to auditors could be high.
+
+As mentioned above, the final amendments will impact audits for the universe of affected entities. The baseline analysis below focuses mainly on the investment management industry because that is where the most widespread issues with Loan Provision compliance have been identified to date; however, the final rule will affect entities outside of this space, which are also subject to the auditor independence rules. <sup>149</sup>
+
+As shown in Table 1 below, as of December 2018, there were approximately 12,577 fund series, with total net assets of $23 trillion, that are covered by Morningstar Direct with identified accounting firms. <sup>150</sup> In addition, there were 23 accounting firms performing audits for these investment companies, though these auditing services were concentrated among the four largest accounting firms. Indeed, about 86 percent of the funds were audited by the four largest accounting firms, corresponding to 98 percent of the aggregate fund asset value. <sup>151</sup>
+
+Table 1: Audited Fund Series and Their Investment Company Auditors As of December 31, 2018
+
+The scope of the auditor independence rules, including the Loan Provision, extends beyond the audit client to encompass affiliates of the audit client. According to Morningstar Direct, as of December 31, 2018, 543 out of 901 fund families <sup>152</sup> have more than one fund, 162 have at least 10 funds, 57 have more than 50 funds, and 38 have more than 100 funds.
+
+According to the Investment Company Institute, also as of December 31, 2018, there were approximately 11,587 open-end funds and around 5,500 closed-end funds, with many funds belonging to the same fund family. Given that many fund complexes have several funds, with some complexes having several hundred funds, if any auditor is deemed not in compliance with the Loan Provision with respect to one fund, under the current rule it cannot audit any of the other funds within the same ICC.
+
+In response to compliance challenges, and as discussed above, Commission staff issued the Fidelity No-Action Letter. The Fidelity No-Action Letter, however, did not resolve allcompliance uncertainty, was limited in scope, and provided staff-level no-action relief to the requestor based on the specific facts and circumstances in the request. Importantly, the Fidelity No-Action Letter did not amend the underlying rule. Staff has continued to receive inquiries from registrants and accounting firms regarding the application of the Loan Provision, or clarification of the Fidelity No-Action Letter, and requests for consultation regarding issues not covered in the Fidelity No-Action Letter. As a result of the remaining compliance uncertainty, auditors and audit committees may spend a significant amount of time and effort to comply with the Loan Provision.
+
+<h>C. Anticipated Benefits and Costs</h>
+
+<h>1. Anticipated Benefits</h>
+
+Overall, we anticipate monitoring for non-compliance throughout the reporting period will be less burdensome for registrants under the final amendments. For example, based on the 10 percent bright-line test, an auditor may be in compliance at the beginning of the reporting period. However, the percentage of ownership may change during the reporting period, which may result in an auditor becoming non-compliant, even though there may be no threat to the auditor’s objectivity or impartiality. A significant influence framework is likely to better identify a lack of independence and help avoid such anomalous outcomes.
+
+There are also potential benefits associated with excluding record holders from the Loan Provision. Currently, the Loan Provision uses the magnitude of ownership by an auditor’s lender as an indication of the likelihood of a threat to auditor independence regardless of the nature of ownership. From an economic standpoint, the nature of ownership also could determine whether the lender has incentives as well as the ability to use any leverage (due to the lending relationship) over the auditor that could affect the objectivity of the auditor. For example, alender that is a record owner of the audit client’s equity securities may be less likely to attempt to influence the auditor’s report than a lender that is a beneficial owner of the audit client’s equity securities because, unlike a record holder, a beneficial owner has an economic interest in the equity securities. By taking into account the nature as well as the magnitude of ownership, the final amendments will focus on additional qualitative information to assess the relationship between the lender and the investee ( e.g., a company or fund). Thus, we believe that, where there may be weak incentives by the lender to influence the audit, such as when the lender is only a holder of record, the final amendments will exclude relationships that are not likely to be a risk to auditor independence. The final amendments will thus provide benefits to the extent that they alleviate compliance and related burdens that auditors and audit clients would otherwise incur to analyze debtor-creditor relationships that are not likely to threaten an auditor’s objectivity and impartiality. Affected registrants also will be less likely to disqualify auditors in situations that do not pose a risk to auditor independence, thereby reducing auditor search costs for these entities.
+
+The potential expansion of the pool of eligible auditors also could result in better matching between the auditor and the client. For example, auditors tend to exhibit a degree of specialization in certain industries. <sup>153</sup> If fewer auditors are considered to be independent due to the Loan Provision, then companies may have to select an auditor without the relevant specialization to perform the audit. Such an outcome could impact the quality of the audit and, as a consequence, negatively impact the quality of financial reporting to the detriment of theusers of information contained in audited financial reports. Because they lack experience in the relevant industry, this outcome also may lead to less specialized auditors expending more time to perform the audit service, thereby increasing audit fees for registrants. We anticipate that the final amendments likely will positively impact audit quality for scenarios such as the one described above. Relatedly, if the final amendments expand the pool of eligible auditors, we expect increased competition among auditors, which could reduce the cost of audit services to affected companies and, if such cost savings are passed through to investors, could result in a lower cost to investors. However, as discussed in Section V.B above, the audit industry is highly concentrated, and as a consequence, such a benefit may not be significant. <sup>154</sup>
+
+Another potential benefit of the final amendments is that the replacement of the bright- line test with the significant influence test could potentially identify risks to auditor independence that might not have been identified under the existing 10 percent bright-line test. <sup>155</sup> For example, a beneficial owner that holds slightly less than 10 percent of an audit client’s equity securities is likely to have similar incentives and ability to influence the auditor’s report than a beneficial owner that holds the same audit client’s equity securities at slightly above the 10 percent threshold. The existing Loan Provision differentially classifies these two hypothetical situations, despite their similarity. To the extent that the final amendments are able to improve identification of potential risks to auditor independence through the use of qualitative criteria, investors are likely to benefit from the final amendments. In the example above, under the finalamendments, an audit firm will evaluate both beneficial owners to determine if they have significant influence, thus providing a consistent analysis under the Loan Provision for these economically similar fact patterns.
+
+Another potential benefit of replacing the bright-line ownership test with a significant influence test is that fluctuations in the ownership percentage that do not change the economics of the relationship between the auditor and the audit client likely will not result in the auditor being deemed not to be independent. For instance, there may be instances in which non- compliance with the Loan Provision may occur during the reporting year, after an auditor is selected by the registrant or fund. Particularly for companies in the investment management industry, an auditor may be deemed to comply with the Loan Provision using the bright-line test when the auditor is hired by the fund but, due to external factors, such as redemption of investments by other owners of the fund during the period, the lender’s ownership level may increase and exceed 10 percent. Such outcomes will be less likely under the final amendments, which take into account multiple qualitative factors in determining whether the Loan Provision is implicated during the period. We anticipate that the final amendments likely will avoid changes in auditors’ independence status solely as a result of small changes in the magnitude of ownership of audit client securities and thereby mitigate any negative consequences that can arise from uncertainty about compliance and the associated costs to the funds or companies and their investors.
+
+Adding a “known through reasonable inquiry” standard could potentially improve the practical application of the Loan Provision, particularly in the context of funds. As described above, some of the challenges to compliance with the existing Loan Provision involve the lack of access to information about the ownership percentage of a fund that was also an audit client. Ifan auditor does not know that one of its lenders is also an investor in an audit client, including because that lender invests in the audit client indirectly through one or more financial intermediaries, the auditor’s objectivity and impartiality may be less likely to be impacted by its debtor-creditor relationship with the lender. The “known through reasonable inquiry” standard we are adopting is generally consistent with regulations implementing the Investment Company Act, the Securities Act and the Exchange Act, <sup>156</sup> and therefore is a concept that already should be familiar to those charged with compliance with the provision. This standard is expected to reduce the compliance costs for audit firms as they could significantly reduce their search costs for information and data to determine beneficial ownership. Given that this will not be a new standard in the Commission’s regulatory regime, we do not expect a significant adjustment to apply the “known through reasonable inquiry” standard for auditors and their audit clients.
+
+Amending the definition of “audit client” to exclude any fund not under audit that otherwise would be considered an “affiliate of the audit client” might potentially lead to a larger pool of eligible auditors, potentially reducing the costs of switching auditors and creating better matches between auditors and clients. In addition, the larger set of potentially eligible auditors could improve matching between auditor specialization and client needs and may lead to an increase in competition among auditors. Though the concentrated nature of the audit industry may not give rise to a significant increase in competition, <sup>157</sup> the improved matching between specialized auditors and their clients should have a positive effect on audit quality. In contrast to the proposal, the final amendments also exclude commodity pools from the definition of “auditclient,” extending these benefits to a broader set of auditor-client relationships.
+
+The final amendments also could have a positive impact on the cost of audit firms’ financing. The final amendments may result in an expanded set of choices among existing sources of financing. This could lead to more efficient financing activities for audit firms, thus potentially lowering the cost of capital for these firms. If financing costs for audit firms decrease as a result of the final amendments, then such savings may be passed on to the audit client in the form of lower audit fees. Investors also may benefit from reduced audit fees if the savings are passed on to investors. The Commission understands, however, that audit firms likely already receive market financing terms. Therefore, this effect may not be significant in practice.
+
+Replacing the 10 percent bright-line test with the significant influence test also potentially allows more financing channels for the covered persons in accounting firms and their immediate family members. <sup>158</sup> For example, the covered persons may not be able to borrow money from certain lenders due to potential non-compliance with the existing Loan Provision. A larger set of financing channels may potentially lead to lower borrowing costs for covered persons. Lower borrowing costs may encourage covered persons to make additional investments.
+
+<h>2. Anticipated Costs and Potential Unintended Consequences</h>
+
+Using a significant influence test for the Loan Provision may increase the demands on the time of auditors and audit clients as they seek to familiarize themselves with the test and gather and assess the relevant information to apply the test. However, given that the significant influence test has been part of the Commission’s auditor independence rules since 2000 and hasexisted in U.S. GAAP since 1971, we do not expect a significant learning curve in applying the test. We also do not expect significant compliance costs for auditors to implement the significant influence test in the context of the Loan Provision given that they already are required to apply the concept in other parts of the auditor independence rules. We recognize that funds do not generally apply a significant influence test for financial reporting purposes. As such, despite the fact that they are required to apply the significant influence test to comply with the existing Commission independence rules, their overall familiarity in other contexts may be less and thus the demands on their time to apply the test may be relatively greater than for operating companies. However, the Commission is reiterating and providing expanded guidance about the application of the significant influence test in the fund context, <sup>159</sup> which may reduce the attendant costs for funds.
+
+The replacement of the bright-line test with the significant influence test and the adoption of the “known through reasonable inquiry” standard will introduce more judgment in the determination of compliance with the Loan Provision. As discussed earlier, the significant influence test contains multiple qualitative elements to be considered in determining whether an investor has significant influence over the operating and financial policies of the investee. As a result, there may be additional transition costs to the extent an auditor and audit client need to adjust their compliance activities to now focus on these new elements. The judgment involved in the application of the significant influence test also could lead to potential risks regarding auditor independence. In particular, because the significant influence test relies on qualitative factors that necessarily involve judgment, there is a risk that the significant influence test could result in mistakenly classifying a non-independent auditor as independent under the Loan Provision.
+
+However, auditor reputational concerns may impose some discipline on the application of the significant influence test in determining compliance with the Loan Provision, thus mitigating this risk.
+
+<h>D. Effects on Efficiency, Competition, and Capital Formation</h>
+
+The Commission believes that the final amendments are likely to improve the application of the Loan Provision, enhance efficiency of implementation, and reduce compliance burdens.
+
+The final amendments also may facilitate capital formation.
+
+The final amendments may expand an audit client’s choices by expanding the number of auditors that meet the auditor independence rules under the Loan Provision. As discussed earlier, the current bright-line test may be over-inclusive under certain circumstances. If more audit firms are eligible to undertake audit engagements without implicating the Loan Provision, then audit clients will have more options and, as a result, audit costs may decrease, although given the highly concentrated nature of the audit industry, this effect may not be significant.
+
+Moreover, the potential expansion of choice among eligible audit firms and the reduced risk of being required to switch auditors may lead to better matching between the audit client and the auditor. Improved matching between auditor specialties and audit clients could enable auditors to perform auditing services more efficiently, thus potentially reducing audit fees and increasing audit quality over the long term. Higher audit quality is linked to better financial reporting, which could result in a lower cost of capital. Reduced expenses and higher audit quality may decrease the overall cost of investing as well as the cost of capital with potential positive effects on capital formation. However, due to the concentrated nature of the audit industry, we acknowledge that any such effects may not be significant.
+
+The replacement of the existing bright-line test with the significant influence test couldmore effectively capture those relationships that may pose a threat to an auditor’s objectivity and impartiality. To the extent that the final amendments do so, the quality of financial reporting is likely to improve, and the amount of board attention to independence questions when impartiality is not at issue is likely to be reduced, thus allowing the board to focus on its other responsibilities. For example, an operating company’s board might focus on hiring the best management, choosing the most value-enhancing investment projects, and monitoring management to maximize shareholder value, and this sharpened focus could potentially benefit shareholders. Furthermore, we expect that improved identification of threats to auditor independence would increase investor confidence about the quality and accuracy of the information reported. Reduced uncertainty about the quality and accuracy of financial reporting should attract capital, and thus facilitate capital formation.
+
+Under the final amendments, audit firms would potentially be able to draw upon a larger set of lenders, which could lead to greater competition among lending institutions and thus lower borrowing costs for audit firms. Again, this could result in lower audit fees, lower fund fees, lower compliance expenses, and help facilitate capital formation, to the extent that lower borrowing costs for audit firms get passed on to their audit clients. However, as noted above, this effect may not be significant given that audit firms likely already receive market financing terms.
+
+The final amendments also may lead to changes in the competitive structure of the audit industry. We expect more accounting firms to be eligible to provide auditing services and be in compliance with auditor independence under the final amendments. If larger audit firms are more likely to engage in significant financing transactions and are more likely not to be in compliance with the existing Loan Provision, then these firms are more likely to be positivelyaffected by the final amendments. In particular, these firms may be able to compete for or retain a larger pool of audit clients. At the same time, the larger firms’ potentially increased ability to compete for audit clients could potentially crowd out smaller audit firms. However, we estimate that four audit firms already perform 86 percent of audits in the investment management industry. <sup>160</sup> As a result, we do not expect any potential change in the competitive dynamics among auditors for registered investment companies to be significant.
+
+<h>E. Alternatives</h>
+
+The existing Loan Provision applies to loans to and from the auditor by “record or beneficial owners of more than 10 percent of the audit client’s equity securities.” As discussed earlier, record owners are relatively less likely to have incentives to take actions that would threaten auditor independence than are beneficial owners. An alternative approach to the final amendments would be to maintain the 10 percent bright-line test, but to distinguish between types of ownership under the 10 percent bright-line test and tailor the rule accordingly. For example, record owners could be excluded from the 10 percent bright-line test, to which beneficial owners would remain subject. The potential benefit of distinguishing between types of ownership while retaining the 10 percent bright-line test is that applying a bright-line test would involve less judgment than a significant influence test. One commenter supported such an approach. <sup>161</sup> Although excluding record holders could partially overcome the over-inclusiveness of the existing rule, we believe the significant influence test we are adopting will more effectively detect possible threats to auditor independence by focusing on the shareholder’sability to influence the financial and operating policies of an audit client. For example, merely owning more than 10 percent of an audit client’s equity securities might not necessarily mean a lender to the auditor has the ability to influence the auditor’s report ( i.e., the lender’s ownership of the audit client’s equity securities may not, in itself, threaten an audit firm’s objectivity and impartiality). The adopted significant influence test also could identify risks to auditor independence in situations where a beneficial owner holds slightly under 10 percent of an audit client’s equity and is likely to have incentives and ability to influence the auditor’s report, but the lending relationship would not have been identified as independence-impairing under the existing 10 percent bright-line test.
+
+A second alternative would be to use the materiality of a stock holding to the lender in conjunction with the significant influence test as a proxy for incentives that could threaten auditor independence. Specifically, the significance of the holding to the lender could be assessed based on the magnitude of the stock holding to the lender ( i.e. , what percentage of the lender’s assets are invested in the audit client’s equity securities), after determining whether the lender has significant influence over the audit client. For example, two institutions that hold 15 percent of a fund may be committing materially different amounts of their capital to the specific investment. The incentives to influence the auditor’s report are likely to be stronger for the lender that commits the relatively larger amount of capital to a specific investment. As such, the materiality of the investment to a lender with significant influence could be used as an indicator of incentives by the lender to attempt to influence the auditor’s report and may better capture those incentives that could pose a threat to auditor independence. However, given the typical size of lending institutions, a materiality component might effectively exclude most, if not all, lending relationships, including those that pose a threat to an auditor’s objectivity andimpartiality. In addition, this alternative could impose additional costs on auditors and audit clients, as they would need to gather and analyze additional information to assess their compliance with the Loan Provision.
+
+Another alternative would be to assess the materiality of the lending relationship between the auditor and the lending institution in conjunction with the significant influence test. A number of commenters supported such an approach. <sup>162</sup> The materiality of the lending relationship between the lender and the auditor, from both the lender’s and the auditor’s points of view, could act as an indicator of the leverage that the lender may have if it attempts to influence the auditor’s report. However, given the typical size of most impacted audit firms and lending institutions, a materiality component might effectively exclude most, if not all, lending relationships, including those that pose a threat to an auditor’s objectivity and impartiality. In addition, lending relationships could be affected by market conditions, which might affect the market neutrality of the auditor independence inquiry. For example, fluctuating market conditions could cause changes in the value of the assets securing a loan thereby causing different determinations at different times of the materiality of a lending relationship.
+
+<h>VI. Final Regulatory Flexibility Analysis</h>
+
+The Regulatory Flexibility Act (“RFA”) <sup>163</sup> requires the Commission, in promulgating rules under section 553 of the Administrative Procedure Act, <sup>164</sup> to consider the impact of those rules on small entities. We have prepared this Final Regulatory Flexibility Analysis (“FRFA”) in accordance with Section 604 of the RFA. <sup>165</sup> This FRFA relates to final amendments to Rule 2- 01 of Regulation S-X. An Initial Regulatory Flexibility Analysis (“IRFA”) was prepared inaccordance with the RFA and was included in the Proposing Release. The Proposing Release included, and solicited comment on, the IRFA.
+
+<h>A. Need for the Amendments</h>
+
+As discussed above, the primary reason for, and objective of, the final amendments is to address certain significant compliance challenges for audit firms and their audit clients resulting from application of the Loan Provision that do not otherwise appear to affect the impartiality or objectivity of the auditor. Specifically, the final amendments will:focus the analysis on beneficial ownership;replace the existing 10 percent bright-line shareholder ownership test with a “significant influence” test;add a “known through reasonable inquiry” standard with respect to identifying beneficial owners of the audit client’s equity securities; andexclude from the definition of “audit client,” for a fund under audit, any other funds that otherwise would be considered affiliates of the audit client under the Loan Provision.
+
+The need for, and objectives of, the final amendments are discussed in more detail in Sections I and II above.
+
+<h>B. Significant Issues Raised by Public Comment</h>
+
+In the Proposing Release, we requested comment on the IRFA, requesting in particular comment on the number of small entities that would be subject to the proposed amendments to Rule 2-01 of Regulation S-X, and the existence or nature of the potential impact of the proposed amendments on small entities discussed in the analysis. In addition, we requested comments regarding how to quantify the impact of the proposed amendments and alternatives that would accomplish our stated objectives while minimizing any significant adverse impact on small entities. We also requested that commenters describe the nature of any effects on small entities subject to the proposed amendments to Rule 2-01 of Regulation S-X and provide empirical data to support the nature and extent of such effects. Furthermore, we requested comment on the number of accounting firms with revenue under $20.5 million. We did not receive comments regarding the impact of our proposal on small entities.
+
+<h>C. Small Entities Subject to the Final Rules</h>
+
+The final amendments will affect small entities that file registration statements under the Securities Act, the Exchange Act, and the Investment Company Act and periodic reports, proxy and information statements, or other reports under the Exchange Act or the Investment Company Act, as well as smaller registered investment advisers and smaller accounting firms. The RFA defines “small entity” to mean “small business,” “small organization,” or “small governmental jurisdiction.” <sup>166</sup> The Commission's rules define “small business” and “small organization” for purposes of the Regulatory Flexibility Act for each of the types of entities regulated by the Commission. Title 17 CFR 230.157 <sup>167</sup> and 17 CFR 240.0-10(a) <sup>168</sup> define an issuer, other than aninvestment company, to be a “small business” or “small organization” if it had total assets of $5 million or less on the last day of its most recent fiscal year. We estimate that, as of December 31, 2018, there are approximately 1,173 issuers, other than registered investment companies, that may be subject to the final amendments. <sup>169</sup> The final amendments will affect small entities that have a class of securities that are registered under Section 12 of the Exchange Act or that are required to file reports under Section 15(d) of the Exchange Act. In addition, the final amendments will affect small entities that file, or have filed, a registration statement that has not yet become effective under the Securities Act and that has not been withdrawn.
+
+An investment company is considered to be a “small business” for purposes of the RFA, if it, together with other investment companies in the same group of related investment companies, has net assets of $50 million or less at the end of the most recent fiscal year. <sup>170</sup> We estimate that, as of December 2018, there were 114 investment companies that would be considered small entities. <sup>171</sup> We estimate that, as of December 31, 2018, there were 59 open-end investment companies that will be subject to the final amendments that may be considered small entities.
+
+This number includes open-end ETFs. <sup>172</sup>
+
+For purposes of the RFA, an investment adviser is a small entity if it:
+
+<h>1. has assets under management having a total value of less than $25 million;</h>
+
+<h>2. did not have total assets of $5 million or more on the last day of the most recent fiscal year; and</h>
+
+<h>3. does not control, is not controlled by, and is not under common control with another investment adviser that has assets under management of $25 million or more, or any person (other than a natural person) that had total assets of $5 million or more on the last day of its most recent fiscal year. We estimate that there are approximately 552 investment advisers that will be subject to the final amendments that may be considered small entities.</h>
+
+For purposes of the RFA, a broker-dealer is considered to be a “small business” if its total capital (net worth plus subordinated liabilities) is less than $500,000 on the date in the prior fiscal year as of which its audited financial statements were prepared pursuant to Rule 17a-5(d) under the Exchange Act, <sup>175</sup> or, if not required to file such statements, a broker-dealer with total capital (net worth plus subordinated liabilities) of less than $500,000 on the last day of the preceding fiscal year (or in the time that it has been in business, if shorter); and that is not affiliated with any person (other than a natural person) that is not a small business or small organization. <sup>176</sup> As of December 2018, there were approximately 985 small entity broker- dealers that will be subject to the final amendments. <sup>177</sup>
+
+Our rules do not define “small business” or “small organization” for purposes ofaccounting firms. The Small Business Administration (SBA) defines “small business,” for purposes of accounting firms, as those with under $20.5 million in annual revenues. <sup>178</sup> We have limited data indicating revenues for accounting firms, and we cannot estimate the number of firms with less than $20.5 million in annual revenue. We also did not receive any data from commenters that would enable us to make such an estimate.
+
+<h>D. Projected Reporting, Recordkeeping and Other Compliance Requirements</h>
+
+The final amendments will not impose any reporting, recordkeeping, or disclosure requirements. The final amendments will impose new compliance requirements with respect to the Loan Provision.
+
+Although we are replacing the 10 percent bright-line test with a “significant influence” test that requires the application of more judgment, we believe that the final amendments will not significantly increase costs for smaller entities, including smaller accounting firms. The concept of “significant influence” already exists in the auditor independence rules and in U.S. GAAP, <sup>179</sup> and accounting firms, issuers and their audit committees are already required to apply the concept in these contexts and may have developed practices, processes or controls for complying with these provisions. <sup>180</sup> We believe that these entities likely will be able to leverage any existing practices, processes, or controls to comply with the final amendments. We are also providing additional guidance in this release to clarify the application of the significant influencetest in the fund context, which may further facilitate compliance.
+
+We also believe that the “known through reasonable inquiry” standard will not significantly increase costs for smaller entities, including smaller accounting firms. The “known through reasonable inquiry” standard is generally consistent with regulations implementing the Investment Company Act, the Securities Act, and the Exchange Act. <sup>181</sup> Smaller entities, including smaller accounting firms, should therefore already be familiar with the concept. To further facilitate compliance, we are also providing additional guidance in this release to clarify what the “known through reasonable inquiry” standard requires.
+
+In addition, we believe that the final amendments to exclude record owners and certain fund affiliates for purposes of the Loan Provision will reduce costs for smaller entities, including smaller accounting firms.
+
+Compliance with the final amendments will require the use of professional skills, including accounting and legal skills. The final amendments are discussed in detail in Section II above. We discuss the economic impact, including the estimated costs, of the final amendments in Section V above.
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+The RFA directs us to consider significant alternatives that would accomplish our stated objectives, while minimizing any significant adverse impacts on small entities. Accordingly, we considered the following alternatives:e stablishing different compliance or reporting requirements or timetables that take into account the resources available to small entities;clarifying, consolidating, or simplifying compliance and reporting requirements under the amendments for small entities;using performance rather than design standards; andexempting small entities from coverage of all or part of the amendments.
+
+In connection with the amendments to Rule 2-01 of Regulation S-X, we do not think it feasible or appropriate to establish different compliance or reporting requirements or timetables for small entities. The amendments are designed to address compliance challenges for both large and small issuers and audit firms. With respect to clarification, consolidation or simplification of compliance and reporting requirements for small entities, the amendments do not contain any new reporting requirements. While the amendments create a new compliance requirement that focuses on “significant influence” over the audit client to better identify those lending relationships that could impair an auditor’s objectivity and impartiality, that standard is more qualitative in nature and its application will vary according to the circumstances. This more flexible standard will be applicable to all issuers, regardless of size.
+
+With respect to using performance rather than design standards, we note that our amendments establishing a “significant influence” test and adding a “known through reasonable inquiry” standard are more akin to performance standards. Rather than prescribe the specific steps necessary to apply such standards, the amendments recognize that “significant influence” and “known through reasonable inquiry” can be implemented in a variety of ways. We believe that the use of these standards will accommodate entities of various sizes while potentiallyavoiding overly burdensome methods that may be ill-suited or unnecessary given the entity’s particular facts and circumstances.
+
+The amendments are intended to address significant compliance challenges for audit firms and their clients, including those that are small entities. In this respect, exempting small entities from the amendments would increase, rather than decrease, their regulatory burden relative to larger entities.
+
+<h>VII. Codification Update</h>
+
+The “Codification of Financial Reporting Policies” announced in Financial Reporting Release No. 1 <sup>182</sup> (April 15, 1982) is updated by adding at the end of Section 602, under the Financial Reporting Release Number (FR-85) assigned to this final release, the text in Sections I and II of this release.
+
+The Codification is a separate publication of the Commission. It will not be published in the Code of Federal Regulations.
+
+<h>VIII. Statutory Basis</h>
+
+<END MAIN TEXT>
+
+1 Rule 2-01 refers to “accountants” rather than “auditors.” We use these terms interchangeably in this Release.
+
+2 See Preliminary Note 1 to Rule 2-01 and Rule 2-01(b) of Regulation S-X. See also United States v. Arthur Young & Co., 465 U.S. 805, 819 n.15 (1984) (“It is therefore not enough that financial statements be accurate; the public must also perceive them as being accurate. Public faith in the reliability of a corporation’s financial statements depends upon the public perception of the outside auditor as an independent professional.”).
+
+3 See Rule 2-01(b) of Regulation S-X.
+
+4 See id.
+
+5 See Rule 2-01(c) of Regulation S-X; see also Revision of the Commission’s Auditor Independence Requirements, Release No. 33-7919 (Nov. 21, 2000) [65 FR 76008 (Dec. 5, 2000)] (“2000 Adopting Release”) available at https://at 65 FR 76009 (“The amendments [to Rule 2-01 adopted in 2000] identify certain relationships that render an accountant not independent of an audit client under the standard in Rule 2-01(b). The relationships addressed include, among others, financial, employment, and business relationships between auditors and audit clients ”).
+
+6 See Rule 2-01(f)(11) of Regulation S-X (defining the term “covered person”).
+
+7 See 2000 Adopting Release, supra footnote at 65 FR 76035.
+
+8 See Proposed Rule: Revision of the Commission’s Auditor Independence Requirements, Release No. 33- 7870 (June 30, 2000) [65 FR 43148 (July 12, 2000)] (“2000 Proposing Release”), available at https://at 65 FR 43161.
+
+9 See 2000 Adopting Release, supra footnote at 65 FR 76035.
+
+10 The Commission proposed that the Loan Provision include a five-percent equity ownership threshold, but raised the threshold to 10 percent when it adopted the Loan Provision. See 2000 Adopting Release, supra footnote at 65 FR 76035. As the basis for its use of a 10 percent threshold, the Commission pointed to similar 10 percent ownership thresholds elsewhere in the federal securities laws, including 17 CFR 210.1- 02(r) (Rule 1-02(r) of Regulation S-X) (defining “principal holder of equity securities”), Rule 1-02(s) of Regulation S-X (defining “promoter”), and Section 16 of the Securities Exchange Act of 1934 [15 U.S.C. 78a et seq.] (the “Exchange Act”) (requiring reporting to the Commission of beneficial ownership information by directors, officers, and beneficial owners of more than 10 percent of any class of equity securities of an issuer). Id.
+
+11 See Rule 2-01(f)(6) of Regulation S-X.
+
+12 See Rule 2-01(f)(4) of Regulation S-X, in which an “affiliate of the audit client” includes the following: (1) An entity that has control over the audit client, or over which the audit client has control, or which is under common control with the audit client, including the audit client’s parents and subsidiaries; (2) An entity over which the audit client has significant influence, unless the entity is not material to the audit client; (3)
+
+13 See id. “Investment company complex” in Rule 2-01(f)(14) of Regulation S-X includes: (1) An investment company and its investment adviser or sponsor; (2) Any entity controlled by or controlling an investment adviser or sponsor in paragraph (f)(14)(i)(A), or any entity under common control with an investment adviser or sponsor in paragraph (f)(14)(i)(A) if the entity: (i) Is an investment adviser or sponsor; or (ii) Is engaged in the business of providing administrative, custodian, underwriting, or transfer agent services to any investment company, investment adviser, or sponsor; and (3) Any investment company or entity that would be an investment company but for the exclusions provided by section 3(c) of the Investment Company Act of 1940 (15 U.S.S. 80a-3(c) that has an investment adviser or sponsor included in the definition by either paragraph (f)(14)(i)(A) or (B).
+
+14 See Section I.B. of Auditor Independence With Respect to Certain Loans or Debtor-Creditor Relationships, Release No. 33-10491 (May 2, 2018) [83 FR 20753 (May 8, 2018)] (“Proposing Release”), at 83 FR 20756.
+
+15 See footnote 20 of the Proposing Release. As discussed below, our amendments to Rule 2-01 will define “fund” as it relates to the Loan Provision as: (i) an investment company or an entity that would be an investment company but for the exclusions provided by Section 3(c) (15 U.S.C. 80a-3(c)) of the Investment Company Act of 1940 (the “Investment Company Act”); or (ii) a commodity pool as defined in Section 1a(10) of the U.S. Commodity Exchange Act, as amended (“CEA”) that is not an investment company or does not rely on Section 3 of the Investment Company Act. See Rule 2-01(c)(1)(ii)(A)(2)(ii).
+
+16 The Commission further understands that insurance companies may purchase accounting firms’ private placement notes. Insurance companies may also act as sponsors of insurance products and may be record owners, on behalf of contract holders, of certain investment companies’ equity securities.
+
+17 The audit committees of issuers, including registered investment companies, may also be focused on this issue because, under the Sarbanes-Oxley Act of 2002 (“Sarbanes-Oxley Act”), audit committees are responsible for the selection, compensation, and oversight of such issuers’ independent auditors. See 17 CFR 240.10A-3 (Rule 10A-3 under the Exchange Act). In this Release, we use the term “audit committee,” when referring to funds, generally to refer to audit committees established by a fund’s board of directors or trustees or, where no formal audit committee exists (e.g., for certain private funds), those responsible for the governance of the fund. In the absence of an audit committee, the entire board of directors will be considered to be the audit committee. See, e.g., Standards Relating to Listed Company Audit Committees, Release No. 33-8220 (Apr. 3, 2003) [68 FR 18788 (Apr. 16, 2003)].
+
+18 For audits conducted pursuant to the standards of the Public Company Accounting Oversight Board (“PCAOB”), auditors are required to communicate any relationships, including lending relationships, with the audit client that may reasonably be thought to bear on independence to the audit committee at least annually. See, e.g., PCAOB Rule 3526 (requiring a registered public accounting firm, at least annually with respect to each of its audit clients, to: (1) describe, in writing, to the audit committee of the audit client, all relationships between the registered public accounting firm or any affiliates of the firm and the audit client or persons in financial reporting oversight roles at the audit client that, as of the date of the communication, may reasonably be thought to bear on independence; (2) discuss with the audit committee of the audit client the potential effects of the relationships described in subsection (b)(1) on the independence of the registered public accounting firm; (3) affirm to the audit committee of the audit client, in writing, that, as of the date of the communication, the registered public accounting firm is independent in compliance with Rule 3520; and (4) document the substance of its discussion with the audit committee of the audit client).
+
+19 Registered investment advisers that have custody of client funds or securities also face compliance challenges from the Loan Provision. These advisers generally are required by 17 CFR 275.206(4)-2 (Rule 206(4)-2 (the “Custody Rule”) under the Investment Advisers Act of 1940 (the “Investment Advisers Act”)) to obtain a surprise examination conducted by an independent public accountant or, for pooled investment vehicles, may be deemed to comply with the requirement by distributing financial statements audited by an independent public accountant to the pooled investment vehicle’s investors. An auditor’s inability, or potential inability, to comply with the Loan Provision raises questions concerning an adviser’s ability to satisfy the requirements of the Custody Rule.
+
+20 See generally Section 10(a)(3) of the Securities Act of 1933 (the “Securities Act”) [15 U.S.C. 77a et seq.] and Item 27 of Form N-1A.
+
+21 15 U.S.C. 80a-1 et seq. See 17 CFR 270.30e-1 and 17 CFR 270.30b2-1 (Rules 30e-1 and 30b2-1 under the Investment Company Act).
+
+22 See No-Action Letter from the Division of Investment Management to Fidelity Management & Research Company (June 20, 2016) (“June 20, 2016 Letter”), available at https:// 062016.htm. The June 20, 2016 Letter provided temporary no-action relief and was to expire 18 months from the issuance date. On September 22, 2017, the staff extended the June 20, 2016 Letter until the effective date of any amendments to the Loan Provision adopted by the Commission that are designed to address the concerns expressed in the June 20, 2016 Letter. See No-Action Letter from the Division of Investment Management to Fidelity Management & Research Company (Sept. 22, 2017) (“September 22, 2017 Letter”), available at https:// research-092217-regsx-rule-2-01.htm. The Fidelity No-Action Letter therefore will be withdrawn on the effective date of the amendments we are adopting in this release.
+
+23 The June 20, 2016 Letter described the following circumstances, each of which could have potential implications under the Loan Provision: (i) “An institution that has a lending relationship with an Audit Firm holds of record, for the benefit of its clients or customers (for example, as an omnibus account holder or custodian), more than 10 percent of the shares of a Fidelity Entity;” (ii) “An insurance company that has a lending relationship with an Audit Firm holds more than 10 percent of the shares of a Fidelity Fund in
+
+24 See generally Proposing Release.
+
+25 The comment letters received in response to the Proposing Release are available at https://
+
+26 See Rule 2-01(b) of Regulation S-X.
+
+27 See infra footnote
+
+28 Financial intermediaries such as broker-dealers, banks, trusts, insurance companies, and retirement plan third-party administrators perform the recordkeeping of open-end fund positions and provide services to customers, including beneficial owners and other intermediaries and, in most cases, aggregate their customer records into a single or a few “omnibus” accounts registered in the intermediary’s name on the fund transfer agent’s recordkeeping system. Shares of other types of registered investment companies, such as closed-end funds, also are frequently held by broker-dealers and other financial intermediaries as record owners on behalf of their customers, who are not required and may be unwilling to provide, information about the underlying beneficial owners to accounting firms, and particularly accounting firms that do not audit the fund. In addition, a financial intermediary may act as an authorized participant or market maker to an exchange-traded fund (“ETF”) and be the holder of record or beneficial owner of more than 10 percent of an ETF.
+
+29 An equity holder who acquired such ownership by buying a certificated share would be both a record owner and a beneficial owner and thus would continue to be analyzed under the Loan Provision.
+
+30 See Proposing Release at 20760.
+
+31 See, e.g., CII; Letter from Deloitte LLP, dated June 29, 2018 (“Deloitte”); Letter from PricewaterhouseCoopers LLP, dated June 29, 2018 (“PwC”); Letter from KPMG LLP, dated July 3, 2018 (“KPMG”); Letter from Crowe LLP, dated July 3, 2018 (“Crowe”); Letter from Center for Audit Quality, dated July 3, 2018 (“CAQ”); Letter from National Association of State Boards of Accountancy, dated July 5, 2018 (“NASBA”); Letter from New York State Society of Certified Public Accountants, dated July 6, 2018 (NYSCPA”); Letter from Piercy, Bowler, Taylor & Kern, dated July 6, 2018 (“PBTK”); Letter from MFS Funds Board Audit Committee, dated July 6, 2018 (“MFS Funds”); Letter from Prof. Joseph A. Grundfest, dated July 9, 2018 (“Grundfest”); Letter from Grant Thornton LLP, dated July 9, 2018 (“Grant Thornton”); Letter from Mutual Fund Directors Forum, dated July 9, 2018 (“MFDF”); Letter from BDO USA, LLP, dated July 9, 2018 (“BDO”); Letter from Ernst & Young LLP, dated July 9, 2018 (“EY”); Letter from Fidelity Management Research Company, dated July 9, 2018 (“Fidelity”); Letter from Association of the Bar of the City of New York, dated July 9, 2018 (“NYC Bar”); Letter from Investment Company Institute and Independent Directors Council, dated July 9, 2018 (“ICI/IDC”); Letter from U.S. Chamber of Commerce Center for Capital Markets Competitiveness, dated July 9, 2018 (“CCMC”); Letter from RSM US LLP, dated July 9, 2018 (“RSM”); Letter from T. Rowe Price Funds, dated July 9, 2018 (“T. Rowe Price”); Letter from Financial Executives International, dated July 9, 2018 (“FEI”); Letter from American Institute of Certified Public Accountants, dated July 9, 2018 (“AICPA”); Letter from American Investment Council, dated Jul 9, 2018 (“AIC”); Letter from Securities Industry and Financial Markets Association, dated July 9, 2018 (“SIFMA”); Letter from Invesco Funds, dated July 9, 2018 (“Invesco”); and Letter from Federated Investors, Inc., dated July 10, 2018 (“Federated”).
+
+32 See, e.g., CII, Deloitte, PwC, CAQ, BDO, EY, RSM, and ICI/IDC.
+
+33 See Letter from Tinee Carraker, dated May 20, 2018 (“Carraker”).
+
+34 See, e.g., Deloitte, PwC, KPMG, CAQ, Grant Thornton, ICI/IDC, and Invesco.
+
+35 See footnote 22 of the Proposing Release: “We note that the Loan Provision can be implicated by lending relationships between an auditing firm and those that control the record or beneficial owner of more than 10 percent of the shares of an audit client (i.e., entities that are under common control with or controlled by the record or beneficial owner are not as such implicated by the Loan Provision)” (emphasis added). See also footnote 5 of the Fidelity No-Action Letter.
+
+36 See, e.g., Deloitte, PwC, KPMG, Grant Thornton, ICI/IDC, Invesco, MFS Funds, T. Rowe Price, SIFMA, and Federated.
+
+37 See, e.g., KPMG, Crowe, CAQ, and EY.
+
+38 See KPMG and EY.
+
+39 See KPMG and EY.
+
+40 By providing this guidance, we are not interpreting 17 CFR 240.13d-3 (Exchange Act Rule 13d-3), applying the existing standards for determining who is a beneficial owner under Rule 13d-3, or altering these standards.
+
+41 See 2000 Adopting Release, supra footnote
+
+42 See supra footnote
+
+43 See supra Section
+
+44 See Rule 2-01(c)(1)(i)(E)(1)(i) and (ii), (c)(1)(i)(E)(2) and (3), and (f)(4)(ii) and (iii) of Regulation S-X.
+
+45 See proposed Rule 2-01(c)(1)(ii)(A) (replacing the phrase “record or beneficial owners of more than ten percent of the audit client’s equity securities” with “beneficial owners (known through reasonable inquiry) of the audit client’s equity securities, where such beneficial owner has significant influence over the audit client”). Under the proposed amendments, the rule would continue to have exceptions for four types of loans: (1) automobile loans and leases collateralized by the automobile; (2) loans fully collateralized by the cash surrender value of an insurance policy; (3) loans fully collateralized by cash deposits at the same financial institution; and (4) a mortgage loan collateralized by the borrower’s primary residence provided the loan was not obtained while the covered person in the firm was a covered person. We discuss the proposed “known through reasonable inquiry” standard below. See infra Section
+
+46 See Rule 2-01(c)(1)(i)(E) (“investments in audit clients”) and Rule 2-01(f)(4) of Regulation S-X (“affiliate of the audit client” definition).
+
+47 See Proposing Release at section II.C; ASC 323 Investments—Equity Method and Joint Ventures (“ASC 323”). See also 2000 Adopting Release, supra footnote at 65 FR 76034, note 284 (referring to Accounting Principles Board Opinion No. 18, “The Equity Method of Accounting for Investments in Common Stock” (Mar. 1971), which was codified at ASC 323).
+
+48 See, e.g., Deloitte, PwC, KPMG, Crowe, CAQ, NASBA, NYSCPA, PBTK, MFS Funds, Grundfest, Grant Thornton, MFDF, BDO, EY, Fidelity, NYC Bar, ICI/IDC, CCMC, RSM, T. Rowe Price, First Data, FEI, AICPA, AIC, SIFMA, Invesco, and Federated.
+
+49 See, e.g., Deloitte, PwC, KPMG, CAQ, NYSCPA, Grant Thornton, BDO, EY, ICI/IDC, Fidelity, RSM, FEI, AICPA, and Invesco.
+
+50 See, e.g., KPMG, NYSCPA, and Grant Thornton.
+
+51 See EY.
+
+52 See e.g., Deloitte, CAQ, and Crowe.
+
+53 See CII.
+
+54 See, e.g., Deloitte, PwC, KPMG, Crowe, CAQ, NYSCPA, Grant Thornton, BDO, EY, ICI/IDC, MFS Funds, T. Rowe Price, SIFMA, Federated, RSM, and FEI.
+
+55 See, e.g., PwC, KPMG, Crowe, CAQ, EY, and Grant Thornton.
+
+56 See KPMG and Invesco.
+
+57 See, e.g., Deloitte, Crowe, CAQ, ICI/IDC, MFS Funds, T. Rowe Price, SIFMA, Federated, Fidelity, and Invesco. See also the discussion of fund guidance in the Proposing Release at 20761.
+
+58 See, e.g., PwC, KPMG, Grant Thornton, ICI/IDC, and EY.
+
+59 See, e.g., Deloitte, Grant Thornton, KPMG, EY, and CAQ.
+
+60 See, e.g., Deloitte, ICI/IDC, MFS Funds, T. Rowe Price, SIFMA, Federated, and Invesco. Deloitte added this as a first step for limited partnerships and general partners.
+
+61 See, e.g., ICI/IDC and T. Rowe Price.
+
+62 See KPMG and Invesco.
+
+63 Conversely, ASC 323 also incorporates a rebuttable presumption of no significant influence if beneficial ownership is less than twenty percent of investee’s voting securities.
+
+64 See FEI and Grant Thornton.
+
+65 See NYSCPA.
+
+66 See, e.g., ICI/IDC, T. Rowe Price, Invesco, KPMG, EY, and Fidelity.
+
+67 See Fidelity and Invesco.
+
+68 See NYC Bar.
+
+69 See Proposing Release, at 83 FR 20761.
+
+70 See, e.g., Deloitte, KPMG, and CAQ.
+
+71 See Deloitte and PwC.
+
+72 See PwC.
+
+73 See Deloitte.
+
+74 See Deloitte and PwC.
+
+75 See EY.
+
+76 See, e.g., Deloitte, KPMG, EY, PwC, ICI/IDC, MFS Funds, T. Rowe Price, SIFMA, and Federated.
+
+77 See, e.g., Deloitte, EY, and PwC.
+
+78 See Deloitte.
+
+79 For funds, the auditor’s initial determination would be based on an evaluation of a fund’s governance structure and governing documents, the manner in which its shares are held or distributed, and any contractual arrangements, among any other relevant factors.
+
+80 See, e.g., Deloitte, PwC, Crowe, CAQ, Grant Thornton, and EY.
+
+81 See e.g., PwC, Crowe, and CAQ.
+
+82 See, e.g., Item 18 of Form N-1A and Item 19 of Form N-2.
+
+83 See, e.g., Deloitte, PwC, Crowe, CAQ, Grant Thornton, BDO, EY, and RSM.
+
+84 See KPMG.
+
+85 See FEI.
+
+86 See Invesco.
+
+87 See Invesco.
+
+88 See CII. A separate commenter suggested that auditors should resign or the engagement partner be replaced in circumstances involving both significant influence and related party transactions, but did not provide further explanation. See Letter from Elisabeth Rossen, dated June 3, 2018 (“Rossen”).
+
+89 See CII.
+
+90 See id.
+
+91 See Grant Thornton.
+
+92 See KPMG and EY.
+
+93 See NYSCPA.
+
+94 See Invesco and KPMG.
+
+95 See supra footnote
+
+96 See EY.
+
+97 See supra footnote
+
+98 See supra footnote
+
+99 See Deloitte and PwC.
+
+100 See section 18(a)(2)(C) of the Investment Company Act. See also ICI/IDC.
+
+101 See Commission Final Rule, Revision of the Commission's Auditor Independence Requirements, Release No. 33-7919 (Nov. 21, 2000) (“[Issuers and other registrants] have the legal responsibility to file the financial information with the Commission, as a condition to accessing the public securities markets, and it is their filings that are legally deficient if auditors who are not independent certify their financial statements”). Moreover, many Commission regulations require entities to file or furnish financial statements that have been audited by an independent auditor. For example, Items 25 and 26 of Schedule A to the Securities Act [15 U.S.C. 77aa(25) and (26)] and Section 17(e) of the Exchange Act [15 U.S.C. 78q] expressly require that financial statements be certified by independent public or certified accountants. In addition, Sections 12(b)(1)(J) and (K) and 13(a)(2) of the Exchange Act [15 U.S.C. 78l and 78m], Sections 8(b)(5) and 30(e) and (g) of the Investment Company Act [15 U.S.C. 80a-8 and 80a-29], and Section
+
+102 See Proposing Release at 20761.
+
+103 See, e.g., Deloitte, PwC, Crowe, CAQ, Grant Thornton, and EY.
+
+104 This language is a slight change from the guidance provided in the Proposing Release, which referenced “publicly available information about beneficial owners.” See Proposing Release at 20765. We believe reference to Commission filings is more precise and will clarify the scope of monitoring that is discussed above.
+
+105 See KPMG, FEI, and Invesco.
+
+106 See CII.
+
+107 See infra Section
+
+108 See NYC Bar.
+
+109 See id.
+
+110 See Accounting Principles Board (APB) Opinion No. 18 (March 1971).
+
+111 See, e.g., 17 CFR 240.3b-4 (Rule 3b-4 under the Exchange Act [15 U.S.C. 78a et seq.]) (stating, with respect to the definition of foreign private issuer, that if, after reasonable inquiry, you are unable to obtain information about the amount of shares represented by accounts of customers resident in the United States, you may assume, for purposes of this definition, that the customers are residents of the jurisdiction in which
+
+112 See, e.g., Deloitte, PwC, KPMG, Crowe, CAQ, NASBA, NYSCPA, PBTK, MFS Funds, Grundfest, Grant Thornton, MFDF, BDO, EY, Fidelity, NYC Bar, ICI/IDC, CCMC, RSM, T. Rowe Price, FEI, AICPA, AIC, SIFMA, Invesco, and Federated.
+
+113 See, e.g., Deloitte, PwC, KPMG, CAQ, Grant Thornton, MFDF, BDO, RSM, FEI, and AICPA.
+
+114 See, e.g., KPMG, CAQ, Grant Thornton, BDO, EY, ICI/IDC, MFS Funds, RSM, T. Rowe Price, FEI, SIFMA, and Federated.
+
+115 See, e.g., ICI/IDC, MFS Funds, T. Rowe Price, SIFMA, Invesco, and Federated.
+
+116 See EY and FEI.
+
+117 See also supra Section
+
+118 For example, under the current Loan Provision, an audit firm (“Audit Firm B”) could be deemed not to be independent as to an audit client under the following facts: Audit Firm A audits an investment company (“Fund A”) for purposes of the Custody Rule. A global bank (“Bank”) has a greater than 10 percent interest in Fund A. Bank is a lender to a separate Audit Firm B, but has no lending relationship with Audit Firm A. Audit Firm B audits another investment company (“Fund B”) that is part of the same ICC as Fund A because it is advised by the same registered investment adviser as Fund A. Under these facts, Audit Firm B would not be independent under the existing Loan Provision because the entire ICC would be tainted as a result of Bank’s investment relationship with Fund A.
+
+119 See Proposing Release at 20762. See also 2000 Adopting Release, supra footnote at 76035 (The Commission, in adopting an ownership threshold of 10 percent, rather than the five percent proposed, stated that “[w]e have made this change because we believe that doing so will not make the rule significantly less effective, and may significantly increase the ease with which one can obtain the information necessary to assure compliance with this rule.”).
+
+120 See proposed Rule 2-01(c)(1)(ii)(A)(2) of Regulation S-X which provided that for purposes of paragraph (c)(1)(ii)(A), the term audit client for a fund under audit excludes any other fund that otherwise would be considered an affiliate of the audit client. The term fund means an investment company or an entity that would be an investment company but for the exclusions provided by section 3(c) of the Investment Company Act of 1940 (15 U.S.C. 80a-3(c)).
+
+121 See, e.g., Deloitte, PwC, KPMG, Crowe, CAQ, NASBA, PBTK, MFS Funds, Grundfest, Grant Thornton, MFDF, BDO, EY, Fidelity, NYC Bar, ICI/IDC, CCMC, RSM, T. Rowe Price, First Data, FEI, AICPA, AIC, SIFMA, Invesco, and Federated.
+
+122 See, e.g., KPMG, BDO, EY, and FEI.
+
+123 See KPMG and NYSCPA. One of these commenters stated that affiliates of the audit client should be excluded from the definition of “audit client” for the purposes of the Loan Provision, and also described scenarios where it believes it is possible that an investor’s significant influence over an entity can affect other affiliates of that entity. For example, the commenter described a scenario where the policies for the portfolio management of the fund under audit span a wider group of funds. Under this scenario, an investor may have significant influence in a large fund in the complex that could result in effective influence over a sister fund, where both funds are managed by the same team under the same policies. See KPMG.
+
+124 See, e.g., Deloitte, PwC, KPMG, Crowe, CAQ, MFS Funds, BDO, EY, Fidelity, ICI/IDC, RSM, T. Rowe Price, AICPA, AIC, SIFMA, Invesco, and Federated.
+
+125 See, e.g., Deloitte, PwC, KPMG, CAQ, Grant Thornton, BDO, EY, NYC Bar, RSM, First Data, FEI, and AICPA.
+
+126 See, e.g., Crowe, CAQ, Grant Thornton, RSM, EY, and AICPA. Crowe supported excluding downstream entities unless they had significant influence over an entity being audited.
+
+127 See, e.g., Crowe, CAQ, and RSM.
+
+128 See, e.g., ICI/IDC, MFS Funds, T. Rowe Price, SIFMA, Federated, and Invesco. As discussed below, for purposes of Rule 2-01, a “commodity pool” would be a commodity pool as defined in Section 1a(10) of the CEA that is not an investment company and does not rely on Section 3(c) of the Investment Company Act. See, e.g., Reporting by Investment Advisers to Private Funds and Certain Commodity Pool Operations and Commodity Trading Advisors on Form PF, Investment Company Act Release No. 3308 (Oct. 31, 2011) [76 FR 71128 (Nov. 16, 2011)]. We use the term “foreign fund” in this release to refer to an “investment company” as defined in Section 3(a)(1)(A) of the Investment Company Act that is organized outside the
+
+129 See ICI/IDC.
+
+130 See Invesco.
+
+131 See, e.g., AIC, EY, RSM, CCMC, Deloitte, CAQ, and Grundfest.
+
+132 See infra Section
+
+133 A commodity pool that is an investment company or that relies on Section 3 of the Investment Company Act would already be covered by the fund exclusion.
+
+134 See, e.g., Deloitte, PwC, KPMG, Crowe, CAQ, PTBK, Grant Thornton, BDO, EY, ICI/IDC, MFS Funds,
+
+135 See, e.g., Deloitte, PwC, KPMG, CAQ, BDO, EY, ICI/IDC, MFS Funds, T. Rowe Price, SIFMA, Federated, RSM, First Data, and Invesco.
+
+136 See, e.g., PwC, Crowe, CAQ, PTBK, Grant Thornton, BDO, EY, CCMC, RSM, First Data, and FEI.
+
+137 See, e.g., KPMG, Crowe, CAQ, EY, Grant Thornton, RSM, and AICPA.
+
+138 See Rule 2-01(b) of Regulation S-X.
+
+139 For example, fluctuating market conditions could cause changes in the value of the assets securing a loan, thereby leading to different determinations at different times of the materiality of a lending relationship.
+
+140 5 U.S.C. 801 et seq.
+
+141 44 U.S.C. 3501 et seq.
+
+142 44 U.S.C. 3507(d) and 5 CFR 1320.11.
+
+143 See Section for a discussion of the concept of “significant influence.”
+
+144 Section 2(b) of the Securities Act [15 U.S.C. 77b(b)], Section 3(f) of the Exchange Act [17 U.S.C. 78c(f)], Section 2(c) of the Investment Company Act [15 U.S.C. 80a-2(c)], and Section 202(c) of the Investment Advisers Act [15 U.S.C. 80b-2(c)] require the Commission, when engaging in rulemaking where it is required to consider or determine whether an action is necessary or appropriate in the public interest, to consider, in addition to the protection of investors, whether the action will promote efficiency, competition and capital formation. Additionally, Section 23(a)(2) of the Exchange Act [15 U.S.C. 78w(a)(2)] requires the Commission, when adopting rules under the Exchange Act, to consider, among other things, the impact that any new rule would have on competition and not to adopt any rule that would impose a burden on competition that is not necessary or appropriate in furtherance of the Exchange Act.
+
+145 See M. Defond & J. Zhang, A Review of Archival Auditing Research, 58 J. Acct. & Econ. 275-326 (2014).
+
+146 See e.g., N. Tepalagul & L. Lin, Auditor Independence and Audit Quality: A Literature Review, 30 J. Acct. Audit. & Fin. 101-121 (2015); M. Defond & J. Zhang, A Review of Archival Auditing Research, 58 J. Acct. & Econ. 275-326 (2014); Y. Chen, S. Sadique, B. Srinidhi, & M. Veeraraghavan, Does High‐Quality Auditing Mitigate or Encourage Private Information Collection?; and R. Ball, S. Jayaraman & L. Shivakumar, Audited Financial Reporting and Voluntary Disclosure as Complements: A Test of the Confirmation Hypothesis, J. Acct. & Econ. 53(1): 136-166 (2012).
+
+147 We are unable to estimate the extent to which the 10 percent ownership threshold may over- or under- identify threats to independence because, among other reasons, fund ownership data is not readily available.
+
+148 See Y. Dou, O. Hope, W. Thomas & Y. Zou, Blockholder Heterogeneity and Financial Reporting Quality,
+
+149 Based on data in the SEC’s EDGAR database, during the period from January 1, 2018 to December 31, 2018, there were a total of 6,919 entities that filed at least one Form 10-K, 20-F, or 40-F, or an amendment to one of these forms. This total does not include investment companies and business development companies.
+
+150 These fund statistics are based on information available from Morningstar Direct, and may not represent the universe of fund families. The statistics include open-end funds, closed-end funds, and exchange traded funds.
+
+151 According to aggregated information from Forms 2, as of December 31, 2018, there were 1,862 audit firms registered with the PCAOB (of which 984 are domestic audit firms, with the remaining 878 audit firms located outside the United States). The concentration in the provision of audit services for investment companies is indicative of the overall market as well. According to a report by Audit Analytics, the four largest accounting firms audit 75% of accelerated and large accelerated filers. See Who Audits Larger Public Companies-2018 Edition, available at public-companies-2018-edition.
+
+152 These fund statistics are based on information available from Morningstar Direct and may not represent the universe of fund families. The statistics include open-end funds, closed-end funds and ETFs.
+
+153 See e.g., N. Dopuch & D. Simunic, Symposium, Competition in Auditing: An Assessment, Fourth Symposium on Auditing Research, p 401-450 (1982); and R.W. Knechel, V. Naiker & G. Pachecho, Does Audit Industry Specialization Matter? Evidence from Market Reaction to Auditor Switches, 26 Audit. J. Prac. & Theory 19-45 (2007).
+
+154 The final amendments could result in some crowding-out effect, as the four largest audit firms may be deemed to be independent with more clients, potentially crowding out smaller audit firms. We discuss this effect in more detail in Section V.D below. However, we believe that better matching between auditors’ specialization and their clients and reduced unnecessary auditor turnovers could potentially prevent audit quality decline and in the long run may improve audit quality.
+
+155 This benefit will be limited to the extent that an auditor whose lending relationships are not implicated by the Loan Provision’s existing 10 percent bright-line ownership test would be otherwise identified as not meeting the general independence requirement in Rule 2-01(b) of Regulation S-X.
+
+156 See supra footnote
+
+157 See infra Section
+
+158 See Rule 2-01(f)(11) of Regulation S-X.
+
+159 See supra section
+
+160 The market share of the four largest accounting firms in other industries is significantly high as well. According to the sample of 6,754 registrants covered by Audit Analytics in 2018, the four largest accounting firms’ mean (median) market share across industries (based on two digit standard industry code) is 58% (56%). The upper quartile is as high as 62% with low quartile of the distribution being 49%.
+
+161 See CII.
+
+162 See supra footnote
+
+163 5 U.S.C. 601 et seq.
+
+164 5 U.S.C. 553.
+
+165 5 U.S.C. 604.
+
+166 5 U.S.C. 601(6).
+
+167 Securities Act Rule 157.
+
+168 Exchange Act Rule 0-10(a).
+
+169 This estimate is based on staff analysis of issuers, excluding co-registrants, with EDGAR filings on Forms 10-K, 20-F, and 40-F, or amendments filed during the calendar year of January 1, 2018 to December 31, 2018. The analysis is based on data from XBRL filings, Compustat, and Ives Group Audit Analytics.
+
+170 17 CFR 270.0-10(a).
+
+171 This estimate is based on staff review of data obtained from Morningstar Direct as well as data reported on Forms N-CEN, N-Q, 10-K, and 10-Q filed with the Commission as of June 2018.
+
+172 This estimate is derived from an analysis of data obtained from Morningstar Direct as well as data reported on Form N-SAR filed with the Commission for the period ending June 30, 2017.
+
+173 17 CFR 275.0-7.
+
+174 This estimate is based on Commission-registered investment adviser responses to Form ADV, Part 1A, Items 5.F and 12.
+
+175 17 CFR 240.17a-5(d).
+
+176 17 CFR 240.0-10(c).
+
+177 This estimate is based on the most recent information available, as provided in Form X-17A-5 Financial and Operational Combined Uniform Single Reports filed pursuant to Section 17 of the Exchange Act and Rule 17a-5 thereunder.
+
+178 13 CFR 121.201 and North American Industry Classification System (NAICS) code 541211. The SBA calculates “annual receipts” as all revenue. See 13 CFR 121.104.
+
+179 See ASC 323 and supra footnote
+
+180 Although the concept of “significant influence” is not as routinely applied today in the funds context for financial reporting purposes, nevertheless, the concept of significant influence is applicable to funds under existing auditor independence rules.
+
+181 See supra footnote
+
+182 47 FR 21028 (May 17, 1982).

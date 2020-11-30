@@ -1,0 +1,343 @@
+https://www.sec.gov/rules/final/2019/bhca-6.pdf
+
+I.0.0.0 Background
+
+II.0.0.0 Description of the Final Rules
+
+	II.A.0.0 Definition of Banking Entity
+
+	II.B.0.0 Modification of Name-Sharing Restriction
+
+III.0.0.0 Administrative Law Matters
+
+
+
+<END TABLE OF CONTENTS>
+
+DEPARTMENT OF TREASURY
+
+Office of the Comptroller of the Currency 12 CFR Part <sup>44</sup>
+
+[Docket ID OCC-2018-0029] RIN 1557-AE47
+
+FEDERAL RESERVE SYSTEM 12 CFR Part 248
+
+[Docket No. R-1643] RIN 7100-AF33
+
+FEDERAL DEPOSIT INSURANCE CORPORATION 12 CFR Part 351
+
+RIN 3064-AE88
+
+COMMODITY FUTURES TRADING COMMISSION 17 CFR Part <sup>75</sup>
+
+RIN 3038-AE72
+
+SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>255</sup>
+
+[Release no. BHCA-6; File no. S7-30-18] RIN 3235-AM43
+
+Revisions to Prohibitions and Restrictions on Proprietary Trading and Certain Interests in, and Relationships With, Hedge Funds and Private Equity Funds
+
+AGENCY: Office of the Comptroller of the Currency, Treasury (OCC); Board of Governors of the Federal Reserve System (Board); Federal Deposit Insurance Corporation (FDIC); Securities and Exchange Commission (SEC); and Commodity Futures Trading Commission (CFTC).
+
+ACTION: Final rules.
+
+SUMMARY: The OCC, Board, FDIC, SEC, and CFTC are adopting final rules to amend the regulations implementing the Bank Holding Company Act’s prohibitions and restrictions on proprietary trading and certain interests in, and relationships with, hedge funds and private equity funds (commonly known as the Volcker Rule) in a manner consistent with the statutory amendments made pursuant to certain sections of the Economic Growth, Regulatory Relief, and Consumer Protection Act (EGRRCPA). The EGRRCPA amendments and the final rules exclude
+
+from these prohibitions and restrictions certain firms that have total consolidated assets equal to
+
+$10 billion or less and total trading assets and liabilities equal to five percent or less of total consolidated assets. The EGRRCPA amendments and the final rules also revise the restrictions applicable to the naming of a hedge fund or private equity fund to permit an investment adviser that is a banking entity to share a name with the fund under certain circumstances.
+
+DATES: These final rules are effective on [INSERT DATE OF PUBLICATION IN THE FEDERAL REGISTER]
+
+FOR FURTHER INFORMATION CONTACT:
+
+OCC : Roman Goldstein, Risk Specialist, Treasury and Market Risk Policy, 202-649- 6360; Tabitha Edgens, Senior Attorney; Mark O’Horo, Senior Attorney, Chief Counsel’s Office,
+
+(202) 649-5510; for persons who are deaf or hearing impaired, TTY, (202) 649-5597, Office of the Comptroller of the Currency, 400 7th Street, SW., Washington, DC 20219.
+
+Board : Flora Ahn, Special Counsel, (202) 452-2317, Gregory Frischmann, Senior Counsel, (202) 452-2803, Kirin Walsh, Attorney, (202) 452-3058, or Sarah Podrygula, Attorney,
+
+(202) 912-4658, Legal Division, Constance Horsley, Deputy Associate Director, (202) 452-5239, Cecily Boggs, Senior Financial Institution Policy Analyst, (202) 530-6209, David Lynch, Deputy Associate Director, (202) 452-2081, Division of Supervision and Regulation; Board of Governors of the Federal Reserve System, 20th and C Streets, NW., Washington, DC 20551.
+
+FDIC : Bobby R. Bean, Associate Director, bbean@fdic.gov , Michael E. Spencer, Chief,
+
+Capital Markets Strategies, michspencer@fdic.gov , Andrew D. Carayiannis, Senior Policy
+
+Analyst, acarayiannis@fdic.gov , or Brian Cox, Capital Markets Policy Analyst, brcox@fdic.gov ,
+
+Capital Markets Branch, (202) 898-6888; Michael B. Phillips, Counsel, mphillips@fdic.gov ,
+
+Benjamin J. Klein, Counsel, bklein@fdic.gov , or Annmarie H. Boyd, Counsel, aboyd@fdic.gov ,
+
+Legal Division, Federal Deposit Insurance Corporation, 550 17th Street, NW., Washington, DC 20429.
+
+SEC : Andrew R. Bernstein, Senior Special Counsel, Sam Litz, Attorney-Adviser, Aaron Washington, Special Counsel, or Carol McGee, Assistant Director, at (202) 551-5870, Office of Derivatives Policy and Trading Practices, Division of Trading and Markets, and Matthew Cook, Senior Counsel, Benjamin Tecmire, Senior Counsel, and Jennifer Songer, Branch Chief, at (202) 551-6787 or IArules@sec.gov , Division of Investment Management, U.S. Securities and
+
+Exchange Commission, 100 F Street NE, Washington, DC 20549.
+
+CFTC : Cantrell Dumas, Special Counsel, (202) 418-5043, cdumas@cftc.gov ; Jeffrey
+
+Hasterok, Data and Risk Analyst, (646) 746-9736, jhasterok@cftc.gov , Division of Swap Dealer
+
+and Intermediary Oversight; Mark Fajfar, Assistant General Counsel, (202) 418-6636,
+
+mfajfar@cftc.gov , Office of the General Counsel; Stephen Kane, Research Economist, (202)
+
+418-5911, skane@cftc.gov , Office of the Chief Economist; Commodity Futures Trading
+
+Commission, Three Lafayette Centre, 1155 21st Street, NW., Washington, DC 20581.
+
+SUPPLEMENTARY INFORMATION:
+
+<END HEADER>
+
+<h>I. Background</h>
+
+Section 13 of the Bank Holding Company Act of 1956 (BHC Act), <sup>1</sup> also known as the Volcker Rule, generally prohibits any banking entity from engaging in proprietary trading or from acquiring or retaining an ownership interest in, sponsoring, or having certain relationships with a hedge fund or private equity fund, subject to certain exemptions. <sup>2</sup>
+
+Under the statute, authority for developing and adopting regulations to implement the prohibitions and restrictions of section 13 of the BHC Act is shared among the OCC, Board,
+
+FDIC, SEC, and CFTC (the agencies). <sup>3</sup> The agencies adopted final rules implementing section 13 of the BHC Act in December 2013 (the 2013 final rule). <sup>4</sup> The agencies recently proposed amendments to these rules to provide clarity about what activities are prohibited, and to improve supervision and implementation of section 13 of the BHC Act. <sup>5</sup>
+
+The Economic Growth, Regulatory Relief, and Consumer Protection Act (EGRRCPA) amended section 13 of the BHC Act by modifying the definition of “banking entity” to exclude certain community banks and their affiliates from section 13’s restrictions and by permitting an investment adviser that is a banking entity to share a name with a hedge fund or private equity fund that the banking entity organizes and offers under certain circumstances. <sup>6</sup>
+
+Prior to the enactment of EGRRCPA, the definition of “banking entity,” for purposes of section 13 of the BHC Act, included any insured depository institution, as defined in the Federal
+
+Deposit Insurance Act (FDI Act), <sup>7</sup> any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act of 1978 (IBA), and any affiliate or subsidiary of such entity (excluding from the term insured depository institution certain insured depository institutions that function solely in a trust or fiduciary capacity, subject to a variety of conditions). <sup>8</sup>
+
+Section 203 of EGRRCPA, entitled “Community bank relief,” modified the scope of the term “banking entity” to exclude certain community banks and their affiliates. Specifically, under section 203, the term “insured depository institution” no longer includes any institution that does not have, and is not controlled by a company that has: (i) more than $10 billion in total consolidated assets; and (ii) total trading assets and trading liabilities, as reported on the most recent applicable regulatory filing filed by the institution, that are more than 5 percent of total consolidated assets. Therefore, an insured depository institution and its affiliates generally are not “banking entities” if the insured depository institution and each affiliated insured depository institution meets the statutory exclusion. <sup>9</sup> However, EGRRCPA did not amend the definition of “banking entity” as it relates to a company that is treated as a bank holding company for purposes of section 8 of the IBA. Accordingly, the statutory exclusion does not apply to a12 U.S.C. 1813(c)(2).foreign banking organization with a U.S. branch or agency, which continues to be subject to the prohibitions in section 13 of the BHC Act.
+
+Section 204 of EGRRCPA revised the restrictions applicable to the naming of a hedge fund or private equity fund <sup>10</sup> to permit an investment adviser that is a banking entity to share a name with the fund under certain circumstances. Prior to enactment of EGRRCPA, section 13 provided that a banking entity (or an affiliate of the banking entity), including an investment adviser, that organized and offered a hedge fund or private equity fund could not share the same name or a variation of the same name with the fund (the name-sharing restriction). <sup>11</sup> Section 204 of EGRRCPA amended the name-sharing restriction to permit a hedge fund or private equity fund organized and offered by a banking entity to share the same name or a variation of the same name as a banking entity that is an investment adviser to the hedge fund or private equity fund, if: (1) the investment adviser is not an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of section 8 of the IBA; <sup>12</sup> (2) the investment adviser does not share the same name or a variation of the same name with any such entities; and (3) the name does not contain the word “bank.”
+
+On February 8, 2019, the agencies published a notice of proposed rulemaking (the proposal) to revise the 2013 final rule consistent with the EGRRCPA statutory amendments. <sup>13</sup>
+
+For the reasons discussed below, the agencies are now adopting the proposal as final without change.
+
+<h>II. Description of the Final Rules</h>
+
+<h>A. Definition of Banking Entity</h>
+
+Consistent with the proposal, the agencies are modifying the definition of “insured depository institution” in § .2(r) of the 2013 final rule to conform that definition with section 203 of EGRRCPA. Under this revised definition, an insured depository institution must satisfy two conditions for it and its affiliates to qualify for the exclusion. First, the insured depository institution, and every entity that controls it, must have total consolidated assets equal to or less than $10 billion. Second, total consolidated trading assets and liabilities of the insured depository institution, and every entity that controls it, must be equal to or less than five percent of its total consolidated assets.
+
+Trade associations representing large commercial banks, community banks, and credit unions all generally supported the agencies’ proposal to implement the community bank relief provision under section 203 of EGRRCPA. <sup>14</sup> Some commenters cited, among other considerations, the statute’s plain meaning, legislative history, and policy considerations for their support of the proposal. <sup>15</sup> Certain other commenters suggested that section 203 extended relief to firms with either $10 billion or less in total consolidated assets or trading assets and liabilities equal to 5 percent or less of total consolidated assets. <sup>16</sup> Under these commenters’ view of section 203, many banks with total consolidated assets well over $10 billion, including certainglobal systemically important banks (G-SIBs) with over $250 billion in total consolidated assets, would be exempt from section 13 of the BHC Act.
+
+After considering these comments, the agencies are not persuaded by the argument that the exclusion under section 203 of EGRRCPA extends to institutions with total consolidated assets in excess of $10 billion. The agencies believe that the statute requires an institution to satisfy both criteria to qualify for the exclusion. This approach is most consistent with the statutory language of EGRRCPA, the congressional intent behind the statute, and the structure of the statute as a whole.
+
+The agencies note that Section 203 of EGRRCPA, is entitled “Community bank relief,” and that numerous floor statements made by senators contemporaneously with passage of the legislation in the Senate on a bipartisan basis indicated that section 203 was only intended to exclude community banks and their affiliates. <sup>17</sup> Moreover, the Senate Banking Committee’s summary of section 203 describes it as exempting banking entities that have total consolidated assets of $10 billion or less and total trading assets and trading liabilities that are five percent or less of total consolidated assets. <sup>18</sup> For these reasons, the agencies are adopting without change the proposed revisions to the banking entity definition.
+
+Some commenters requested that, for purposes of determining whether trading assets and liabilities are within the five percent threshold, the agencies limit their review to an institution’s most recent applicable regulatory filing. <sup>19</sup> These commenters requested that the agencies notreview all “available information,” as suggested in the preamble to the proposal, <sup>20</sup> because such information could be at variance with the trading assets and/or liabilities figure(s) reported in the most recent applicable regulatory filing. These commenters also requested that the agencies confirm that section 203 of EGRRCPA is self-effectuating and that no additional action is required by the agencies for the community bank exclusion to take effect.
+
+The agencies confirm that a bank or savings association seeking to determine its eligibility for the exclusion may use its most recent quarterly Consolidated Report of Condition and Income (call report) as the source of data for its consolidated assets and its total trading assets and liabilities at the bank or savings association level. Similarly, a banking organization may use the most recent filing of the Board’s FR Y-9C by its holding company as the source of data about the consolidated assets and total trading assets and liabilities of the companies controlling the bank or savings association. Generally, the agencies believe that most current FR Y9-SP filers will be able to determine eligibility for the exclusion based on the call report data filed by their affiliated insured depository institution(s). All entities that seek to rely on the community bank exclusion should assure themselves that all affiliated banks or savings associations and holding companies satisfy the total consolidated assets and trading asset and liability thresholds. As the agencies noted in the proposal, institutions that meet the eligibility requirements under section 203 of EGRRCPA are no longer subject to the requirements of section 13 of the BHC Act, and no additional action by the agencies is required for the exclusion to take effect.further clarity with respect to the changes made to the name-sharing restriction pursuant to section 204 of EGRRCPA.
+
+Two commenters requested that the agencies provide clarification that certain securities held by banks or savings associations and their holding companies are not within the category of “trading assets” for purposes of determining eligibility for the exclusion. <sup>21</sup> As described above, the call report or FR Y-9C, as applicable, may be used as the source of data for purposes of determining compliance with the total assets and trading asset and liability thresholds.
+
+Institutions should classify assets and liabilities consistent with the instructions to the relevant report in consultation with appropriate supervisors, as necessary.
+
+One commenter requested that the agencies generally clarify that securities held as available-for-sale do not count towards the trading assets and liabilities threshold. <sup>22</sup> The call report and FR Y-9C require reporting an institution’s available-for-sale securities separately from the institution’s trading assets. Accordingly, securities appropriately classified as available-for-sale and excluded from trading assets on an institution’s call report or FR Y-9Cwill not count toward an institution’s trading assets and liabilities threshold. Another commenter requested that the agencies address the classification of securities held in connection with employee deferred compensation programs for purposes of the call report and FR Y-9C. <sup>23</sup> The question of how to classify specific types of assets, such as assets held in connection with employee deferred compensation programs, on the call report and FR Y-9C is fact-specific and beyond the scope of this rulemaking. <sup>24</sup> As stated above, institutions should classify assets andliabilities consistent with the instructions to the relevant report in consultation with appropriate supervisors, as necessary.
+
+Two commenters generally opposed providing an exclusion to community banks. <sup>25</sup> One of these commenters suggested that, for a community bank to remain eligible for the exclusion, it should be required to pass periodic tests by its regulator. <sup>26</sup> As noted above, EGRRCPA excludes community banks from section 13 if they meet the specified total consolidated assets and trading asset and liability conditions, and these provisions became effective upon enactment.
+
+Accordingly, the agencies are finalizing the exclusion as proposed in order to conform the regulation to the statutory exclusion. The banking agencies note that they will continue to examine community banks that are exempt under section 203 for compliance with applicable laws and regulations, including the requirement under applicable banking laws and regulations that they operate in a safe and sound manner.
+
+Another commenter requested relief from the control definition or a specific exclusion for investors in companies that control industrial loan companies (ILCs). <sup>27</sup> Any changes to the definition of “control” under the BHC Act <sup>28</sup> are outside of the scope of this rulemaking. <sup>29</sup> Furthermore, the agencies do not find any support for a specific exemption from section 13 ofof determining “covered positions” under the market risk capital rule). Accordingly, changes to the reporting forms or the instructions thereto would likely have unintended consequences for other areas of supervision and regulation.the BHC Act for investors in ILC parents under EGRRCPA. Accordingly, the agencies are not adopting an exemption from section 13 of the BHC Act for parent ILCs or investors in the parent ILCs that do not otherwise meet the eligibility requirements for the community bank exclusion under section 203.
+
+<h>B. Modification of Name-Sharing Restriction</h>
+
+Consistent with the proposal, the agencies are modifying the name-sharing restriction in§ .11(a)(6)(i) of the 2013 final rule to conform that restriction to section 204 of EGRRCPA. Pursuant to this change, a hedge fund or private equity fund sponsored by a banking entity is permitted to share the same name or a variation of the same name with a banking entity that is an investment adviser to the fund, subject to the conditions specified in the statute. <sup>30</sup> These conditions require that the investment adviser is not, and does not share the same name (or a variation of the same name) as, an insured depository institution, a company that controls an insured depository institution, or a company that is treated as a bank holding company for purposes of section 8 of the IBA, <sup>31</sup> and that the investment adviser’s name does not contain the word “bank.” <sup>32</sup>
+
+The agencies received four comments on these proposed changes to the name-sharing restriction. One commenter generally supported the proposed changes to the name-sharing.10 of the regulations. See supra footnote 10.restriction. <sup>33</sup> Two commenters asked the agencies to provide relief from the name-sharing restriction for covered funds that are required or expected by regulators in a foreign jurisdiction to share the same name or a variation of the same name with a fund manager, and the fund manager shares a name or a variation of the same name as its banking entity affiliate. <sup>34</sup> One of these commenters asserted that concerns regarding investor confusion about the role of the banking entity or perceived bailout risk would be mitigated because the funds would be required to comply with the written disclosure requirements under the 2013 final rule for organizing and offering a covered fund. <sup>35</sup> Another commenter suggested that the agencies could use their exemptive authority under section 13(d)(1)(J) of the BHC Act to implement this exemption. <sup>36</sup>
+
+The purpose of these revisions to the 2013 final rule is to conform the amendments to section 204 of EGRRCPA. Section 204 of EGRRCPA did not provide an exclusion allowing banking entities to share a name with a covered fund if required or expected to by foreign regulators. Accordingly, the agencies have determined not to make the requested change to the name-sharing restriction, which goes beyond the scope of this rulemaking, and are adopting the changes implementing section 204 as proposed.
+
+The agencies are also finalizing conforming changes to the definition of “sponsor.” <sup>37</sup> Pursuant to these changes, the definition of the term “sponsor” includes a banking entity that shares the same name or a variation of the same name with a fund, for corporate, marketing,promotional, or other purposes, except as permitted under § .11(a)(6)—i.e., the name-sharing restriction as amended by EGRRCPA. The agencies did not receive any comments on the proposed conforming changes to the definition of “sponsor.” The agencies are adopting this change as final in order to conform the rule to the EGRRCPA statutory revisions.
+
+<h>III. Administrative Law Matters</h>
+
+<END MAIN TEXT>
+
+1 12 U.S.C. 1851.
+
+2 See id.
+
+3 See 12 U.S.C. 1851(b)(2). Under section 13(b)(2)(B) of the BHC Act, rules implementing section 13’s prohibitions and restrictions must be issued by: (i) the appropriate Federal banking agencies (i.e., the Board, the OCC, and the FDIC), jointly, with respect to insured depository institutions; (ii) the Board, with respect to any company that controls an insured depository institution, or that is treated as a bank holding company for purposes of section 8 of the International Banking Act, any nonbank financial company supervised by the Board, and any subsidiary of any of the foregoing (other than a subsidiary for which an appropriate Federal banking agency, the SEC, or the CFTC is the primary financial regulatory agency); (iii) the CFTC with respect to any entity for which it is the primary financial regulatory agency, as defined in section 2 of the Dodd-Frank Act; and (iv) the SEC with respect to any entity for which it is the primary financial regulatory agency, as defined in section 2 of the Dodd-Frank Act. See id.
+
+4 See “Prohibitions and Restrictions on Proprietary Trading and Certain Interests in, and Relationships With, Hedge Funds and Private Equity Funds; Final Rule,” 79 FR 5535 (Jan. 31, 2014).
+
+5 See “Proposed Revisions to Prohibitions and Restrictions on Proprietary Trading and Certain Interests in, and Relationships With, Hedge Funds and Private Equity Funds,” 83 FR 33432 (July 17, 2018).
+
+6 See Economic Growth, Regulatory Relief, and Consumer Protection Act, Pub. L. 115-174, sections 203, 204 (May 24, 2018). These provisions were effective upon EGRRCPA’s enactment.
+
+7 Section 3(c)(2) of the FDI Act defines an insured depository institution to include any bank or savings association the deposits of which are insured by the FDIC under the FDI Act.
+
+8 12 U.S.C. 1813(c)(2), 1851(h)(1).
+
+9 Section 203 amended section 13(h)(1)(B) of the BHC Act by excluding certain institutions from the term “insured depository institution” exclusively for the purposes of section 13. Insured banks and savings associations that qualify for this exclusion for the purposes of section 13 of the BHC Act remain insured depository institutions under section 3(c)(2) of the FDI Act. Additionally, an institution that meets the criteria to be excluded from the definition of insured depository institution under EGRRCPA may still be a banking entity by virtue of its affiliation with another insured depository institution or a company that is treated as a bank holding company under section 8 of the IBA.
+
+10 The terms “hedge fund” and “private equity fund” are defined at 12 U.S.C. 1851(h)(2). See also 12 CFR 44.10(b); 12 CFR 248.10(b); 12 CFR 351.10(b); 17 CFR 255.10(b); 17 CFR 75.10(b) (defining “covered fund” for purposes of the 2013 final rule).
+
+11 12 U.S.C. 1851(d)(1)(G)(vi) (2017).
+
+12 12 U.S.C. 3106.
+
+13 “Proposed Revisions to Prohibitions and Restrictions on Proprietary Trading and Certain Interests in, and Relationships With, Hedge Funds and Private Equity Funds,” 84 FR 2778 (Feb. 8, 2019).
+
+14 See American Bankers Association; Independent Community Bankers of America; National Association of Federally-Insured Credit Unions; California Bankers Association.
+
+15 Los Huertos and Mount; National Association of Federally-Insured Credit Unions.
+
+16 See Competitive Enterprise Institute; Competitive Enterprise Institute et al.; Luetkemeyer; Matthew Thomas.
+
+17 See, e.g., 164 Cong. Rec. S1696 at S1701, S1720, S1724–25 (Mar. 14, 2018).
+
+18 See S. 2155, Section-By-Section, as Passed by Senate, United State Senate Committee on Banking and Urban Affairs (March 14, 2018).
+
+19 See American Bankers Association; California Bankers Association. Another commenter requested that the agencies provide additional clarity for the purposes of determining which institutions qualify for the relevant exclusion. See Grimm. That commenter also requested
+
+20 The preamble to the proposal stated that “the Agencies would expect to use available information, including information reported on regulatory reporting forms available to each Agency, with respect to whether financial institutions qualify for the exclusion.” 84 FR 2781.
+
+21 American Bankers Association (securities reported as available-for-sale); Bessemer Group, Inc. (mutual fund shares held to hedge nonqualified compensation plan liabilities).
+
+22 American Bankers Association.
+
+23 Bessemer Group, Inc.
+
+24 The regulatory reporting forms to which the commenter is requesting revision or clarification are also used for other purposes, such as for determining capital requirements. See 12 CFR Part 3, App. B; 12 CFR 217.202; 12 CFR 324.202 (using trading assets and liabilities for the purpose
+
+25 Tinee Carraker, Rodger Cunningham.
+
+26 See Carraker.
+
+27 See EnerBank.
+
+28 12 U.S.C. 1841(a)(2); 12 CFR 225.2(e)(1).
+
+29 The Board recently invited comment on a notice of proposed rulemaking to simplify and increase the transparency of the rules for determining control of a banking organization. Press Release: https:
+
+30 EGRRCPA, section 204. While the statute applies these restrictions and conditions to “hedge funds” and “private equity funds,” the 2013 final rule applies to “covered funds,” as defined in §
+
+31 12 U.S.C. 1851(d)(1)(G)(vi)(I); 12 U.S.C. 1851(d)(1)(G)(vi)(II).
+
+32 12 U.S.C. 1851(d)(1)(G)(vi)(III). The requirement that the name not contain the word “bank” was included in the name-sharing restriction by section 204 of EGRRCPA but already is a condition under the 2013 final rule. Accordingly, the agencies did not make any additional modifications to the rule to reflect this condition.
+
+33 Independent Community Bankers of America.
+
+34 American Bankers Association; Investment Adviser Association. Another commenter stated that the agencies should be mindful of any foreign requirements on name-sharing between covered funds and banking entities. See Matthew Thomas.
+
+35 See Investment Adviser Association; 12 CFR 44.11(a)(8); 12 CFR 248.11(a)(8); 12 CFR 351.11(a)(8); 17 CFR 255.11(a)(8); 17 CFR 75.11(a)(8).
+
+36 See American Bankers Association.
+
+37 EGRRCPA section 204.
+
+38 Pub. L. 106-102, section 722, 113 Stat. 1338, 1471 (1999).
+
+39 We base our estimate of the number of small entities on the SBA’s size thresholds for commercial banks and savings institutions, and trust companies, which are $550 million and
+
+40 U.S. SBA, Table of Small Business Size Standards Matched to North American Industry Classification System Codes, available at
+
+41 The Board published an initial RFA analysis in connection with the proposal and received no public comments related to its analysis.
+
+42 12 U.S.C. 1851(b)(2).
+
+43 Qualifying institutions eligible for this exclusion would consist of state member banks, bank holding companies, and savings and loan holding companies that meet the eligibility criteria for the exclusion.
+
+44 This estimate is based on the paperwork, recordkeeping, and disclosure-related compliance requirements associated with section 13 of the BHC Act that the Board estimates for purposes of the PRA. Because community banks do not significantly engage in the types of activities subject to section 13’s prohibitions and restrictions, the majority of the ongoing costs associated with section 13 for community banks prior to EGRRCPA were likely related to recordkeeping and should thus be captured by this data. The average estimated compliance cost savings would be
+
+45 See 12 U.S.C. 1851(b)(2)(B)(i)(II).
+
+46 5 U.S.C. 601 et seq.
+
+47 The SBA defines a small banking organization as having $550 million or less in assets, where ‘‘a financial institution’s assets are determined by averaging the assets reported on its four quarterly financial statements for the preceding year.’’ 13 CFR 121.201 n.8 (2018). ‘‘SBA counts the receipts, employees, or other measure of size of the concern whose size is at issue and all of its domestic and foreign affiliates…’’ 13 CFR 121.103(a)(6) (2018). Following these regulations, the FDIC uses a covered entity’s affiliated and acquired assets, averaged over the preceding four quarters, to determine whether the covered entity is ‘‘small’’ for the purposes of RFA.
+
+48 FDIC-supervised institutions are set forth in 12 U.S.C. 1813(q)(2).
+
+49 Call Report: December 31, 2018.
+
+50 Call Report: December 31, 2018.
+
+51 12 CFR 351.3(a).
+
+52 Call Report: March 2006 – December 2012.
+
+53 Call Report: December 2018.
+
+54 8 hours * $63.36 per hour = $506.88.
+
+55 The estimated reduction in costs is calculated by multiplying 8 hours by an estimated total hourly compensation rate of $63.36 per hour. According to the May 2017 National Industry- Specific Occupational Employment and Wage Estimates for the Depository Credit Intermediation sector the 75th percentile wages for a compliance officer is $40.55 per hour. The wage information reported by the BLS in the Specific Occupational Employment and Wage Estimates does not include health benefits and other non-monetary benefits. According to the December 2018 Employer Cost of Employee Compensation data compensation rates for health and other benefits are 33.7 percent of total compensation. The wage is also inflation adjusted according to the BLS data on the Consumer Price Index for Urban Consumers (CPI–U) so that it is contemporaneous with the non-wage compensation statistic. The inflation rate was 3.59 percent between May 2017 and December 2018. Therefore, the adjusted average wage for a compliance officer is $63.36 per hour.
+
+56 Call Report, December 31, 2018.
+
+57 The rule may also apply to other types of CFTC registrants that are banking entities, such as introducing brokers, but the CFTC believes it is unlikely that such other registrants will have significant activities that would implicate the rule. See 79 FR 5808, 5813 (Jan. 31, 2014) (CFTC version of 2013 final rule).
+
+58 See Policy Statement and Establishment of Definitions of “Small Entities” for Purposes of the Regulatory Flexibility Act, 47 FR 18618 (Apr. 30, 1982) (futures commission merchants and commodity pool operators); Registration of Swap Dealers and Major Swap Participants, 77 FR 2613, 2620 (Jan. 19, 2012) (swap dealers and major swap participants).
+
+59 See Policy Statement and Establishment of Definitions of “Small Entities” for Purposes of the Regulatory Flexibility Act, 47 FR 18618, 18620 (Apr. 30, 1982).
+
+60 The SEC’s Economic Analysis, below, discusses the economic effects of the final amendments. See SEC Economic Analysis, section III.F.
+
+61 For the purposes of an SEC rulemaking in connection with the RFA, an investment adviser generally is a small entity if it: (1) has assets under management having a total value of less than
+
+62 For the purposes of an SEC rulemaking in connection with the RFA, a broker-dealer will be deemed a small entity if it: (1) had total capital (net worth plus subordinated liabilities) of less than $500,000 on the date in the prior fiscal year as of which its audited financial statements were prepared pursuant to 17 CFR 240.17a-5(d), or, if not required to file such statements, had total capital (net worth plus subordinated liabilities) of less than $500,000 on the last day of the preceding fiscal year (or in the time that it has been in business, if shorter); and (2) is not affiliated with any person (other than a natural person) that is not a small business or small organization. See 17 CFR 240.0-10(c). Under the standards adopted by the SBA, small entities also include entities engaged in financial investments and related activities with $38.5 million or less in annual receipts. See 13 CFR 121.201 (Subsector 523).
+
+63 Based on SEC analysis of Form ADV data, the SEC believes that there are not a substantial number of registered investment advisers affected by the proposal that qualify as small entities under RFA. Based on SEC analysis of broker-dealer FOCUS filings and NIC relationship data, the SEC believes that there are no SEC-registered broker-dealers affected by the proposal that qualify as small entities under RFA. With respect to security-based swap dealers and major
+
+64 12 U.S.C. 4802(a).
+
+65 Id.
+
+66 Additionally, the 30-day delayed effective date requirement under the Administrative Procedure Act is not applicable to a rule, such as the one herein, that grants or recognizes an exemption or relieves a burden. 5 U.S.C. 553(d)(1).
+
+67 Specifically, Section 203 of EGRRCPA provides that the term “insured depository institution,” for purposes of the definition of “banking entity” in section 13(h)(1) of the BHC Act (12 U.S.C 1851(h)(1)), does not include an insured depository institution that does not have, and is not controlled by a company that has: (1) more than $10 billion in total consolidated assets; and (2) total trading assets and trading liabilities, as reported on the most recent applicable regulatory filing filed by the institution, that are more than 5 percent of total consolidated assets.
+
+68 The SEC believes that all bank-affiliated entities that may register with the SEC as security- based swap dealers and major security-based swap participants are unaffected by the amendments due to the size of the balance sheet and the amount of trading activity of their affiliated banking entities. The SEC’s analysis is based on DTCC Derivatives Repository Limited Trade Information Warehouse data on single-name credit-default swaps. Throughout this economic analysis, the term “banking entity” generally refers only to banking entities that are subject to section 13 of the BHC Act and for which the SEC is the primary financial regulatory agency as defined in section 2(12)(B) of the Dodd-Frank Act. See 12 U.S.C. 1851(b)(2); 12 U.S.C. 5301(12)(B).
+
+69 In the proposal (84 FR at 2786) the SEC used data from the release for the recently proposed amendments to these rules to provide clarity about what activities are prohibited, and to improve supervision and implementation of section 13 of the BHC Act (83 FR at 33525) as of Q3 2017. In this release, we update the estimates and use data as of Q4 2018 and Q4 2017. Data sources for Table 1 include Reporting Form FR Y-9C data for domestic bank holding companies and Reports of Condition and Income data for banks that are not bank holding companies. BD bank affiliations were obtained from the Federal Financial Institutions Examination Council’s National Information Center. BD assets and holdings were obtained from FOCUS Reports data.
+
+70 As of Q4 2018, these 114 BDs were affiliated with 98 banks or holding companies.
+
+71 As estimated in the release for the recently proposed amendments to these rules to provide clarity about what activities are prohibited, and to improve supervision and implementation of section 13 of the BHC Act (83 FR at 33525), there were 308 bank-affiliated RIAs based on data as of March 31, 2018. Using data as of March 31, 2019, the SEC is updating the estimate to approximately 296 bank-affiliated RIAs. The SEC does not have information or data that would allow us to estimate how many of these bank-affiliated RIAs would have preferred to share a name with funds they advise. For the purposes of this analysis, the SEC estimates that these 296 bank-affiliated RIAs and 114 bank-affiliated BDs may be able to engage in covered fund activities as a result of section 203 of EGRRCPA. The SEC does not have information or data that would allow us to estimate how many of these entities would have preferred to engage in covered fund activities.
+
+72 BD total assets are based on FOCUS report data for “Total Assets.”
+
+73 BD holdings are based on FOCUS reports data for securities and spot commodities owned at market value, including bankers’ acceptances, certificates of deposit and commercial paper, state and municipal government obligations, corporate obligations, stocks and warrants, options, arbitrage, other securities, U.S. and Canadian government obligations, and spot commodities.
+
+74 This measure excludes U.S. and Canadian government obligations and spot commodities.
+
+75 This category includes all bank-affiliated BDs affiliated with holding companies that have both consolidated total assets less than or equal to $10 billion and TAL less than or equal to 5% of total assets, as well as bank-affiliated BDs for which parent firm TAL data was not available. Based on a manual search of regulatory filings for holding companies with missing assets and liabilities data and current FR Y-9C and FR Y-9SP reporting requirements, the SEC believes that entities with missing data have low levels of trading activity and likely qualify for the exemption in section 203 of EGRRCPA. To the degree that this may not be the case for some bank- affiliated BDs, these figures may overestimate the number of affected entities.
+
+76 Id.
+
+77 In the proposal, the SEC estimated based on data as of Q3 2017 that annual compliance cost savings for SEC-regulated entities due to section 203 of EGRRCPA may be as high as approximately $16,626,385 (= 2,035 hours x 0.18 x (Attorney at $409 per hour) x 111). Based on data as of Q4 2018 we now estimate these annual compliance cost savings may be as high as approximately $14,682,037 (=2,035 hours x 0.18 x (Attorney at $409 per hour) x 98).
+
+78 See 79 FR 5778 for the agencies’ estimated ongoing compliance and recordkeeping burdens related to the requirements of the 2013 final rule.
+
+79 The current FR Y-9C and FR Y-9SP filing requirements limit data availability. As of Q4 2018, the SEC has information about TAL of 21 holding companies with 22 BD affiliates.
+
+80 This figure is based on a maximum of $10 bln of total consolidated assets and a maximum TAL of 5 percent of total consolidated assets and is calculated as follows: 98 holding companies x $10 bln total assets x 0.05 = $49 bln.
+
+81 This figure is calculated as follows: $49 bln – $0.688 bln = $48.312 bln. The SEC recognizes that these estimates may under- or overestimate the increases in trading activity that may occur as a result of section 203 of EGRRCPA for four primary reasons. First, the profitability of trading activity is likely to strongly influence incentives to engage in trading activity and may vary depending on trading strategy, market sector, and time period measured. Second, growth in a holding company’s total consolidated assets is influenced by business models, prevailing market conditions, industry competition, bank merger and acquisition activity, among other factors. Third, this estimate assumes that no affected entity will enter or exit the industry as a result of the statutory exclusion. Fourth, this estimate assumes for purposes of this economic analysis that small holding companies that file form FR Y-9SP, which does not contain data on TAL, do not currently have any TAL.
+
+82 This discussion describes changes in assets and holdings in absolute terms since percentage measures magnify changes when initial levels of a measure are extremely low.
+
+83 Causal inference using difference-in-difference generally requires that differences between treatment and control groups along the dimension of interest (e.g., risk-taking) are constant in the absence of regulatory intervention.
+
+84 See U.S. Department of the Treasury, “A Financial System that Creates Economic Opportunities: Banks and Credit Unions” (June 2017).
+
+85 As discussed above, BDs that qualify for the exemption in section 203 of EGRRCPA exhibited a decrease in holdings by approximately $1.4 billion when including the holdings of U.S. and Canadian government obligations and spot commodities, and by approximately $1.1 billion when excluding them. Thus, such government obligations and spot commodities accounted for approximately $277 million or 20% of the decrease in the inclusive measure of holdings by BDs that qualify for the exemption in section 203 of EGRRCPA.
+
+86 See supra footnote .
+
+87 See 12 U.S.C. 1851(d)(1)(H) and (I) (2017); See §§ .6(e) and .13(b) of the 2013 final rule.
+
+88 See § .11 of the 2013 final rule; 12 U.S.C. 1851(d)(1)(G) (2017).
+
+89 See ICBA Letter; IAA Letter; LosHuertos and Mount Letter; NAFCU Letter. See also section II.
+
+90 See Competitive Enterprise Institute Letter; Competitive Enterprise Institute et. al. Letter; Luetkemeyer Letter. See also section II.
+
+91 See Tinee Carraker Letter, Rodger Cunningham Letter.
+
+92 5 U.S.C. 801 et. seq.
+
+93 5 U.S.C. 553(d).

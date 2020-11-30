@@ -1,305 +1,3 @@
-https://www.sec.gov/rules/final/2020/33-10786.pdf
-
-I.0.0.0 Introduction and Background
-
-II.0.0.0 Discussion of Final Amendments
-
-		II..1.0 (“Form F-4”); however, in certain circumstances application of the amended significance tests may
-
-	II.A.0.0 Amendments to the Definition of “Significant Subsidiary” and Generally Applicable Financial Statement Requirements for Acquired Businesses
-
-		II.A.1.0 Significance Tests
-
-			II.A.1.a Investment Test
-
-			II.A.1.b Income Test
-
-			II.A.1.c Conforming Changes
-
-		II.A.2.0 Audited Financial Statements for Significant Acquisitions
-
-			II.A.2.a Proposed Amendments
-
-			II.A.2.b Comments
-
-			II.A.2.c Final Amendments
-
-		II.A.3.0 Financial Statements for Net Assets that Constitute a Business
-
-			II.A.3.a Proposed Amendments
-
-			II.A.3.b Comments
-
-			II.A.3.c Final Amendments
-
-		II.A.4.0 Financial Statements of a Business that includes Oil and Gas Producing Activities
-
-			II.A.4.a Proposed Amendments
-
-			II.A.4.b Comments
-
-			II.A.4.c Final Amendments
-
-		II.A.5.0 Timing and Terminology of Financial Statement Requirements
-
-			II.A.5.a Proposed Amendments
-
-			II.A.5.b Comments
-
-			II.A.5.c Final Amendments
-
-		II.A.6.0 Foreign Businesses
-
-			II.A.6.a Proposed Amendments
-
-			II.A.6.b Comments
-
-			II.A.6.c Final Amendments
-
-		II.A.7.0 Smaller Reporting Companies and Issuers Relying on Regulation A
-
-			II.A.7.a Proposed Amendments
-
-			II.A.7.b Comments
-
-			II.A.7.c Final Amendments
-
-		II.A.1.0 We also note that significance tests are not one-size-fits-all tests, but instead contemplate the unique facts and circumstances of a registrant or issuer because they measure significance of the acquired or disposed business relative to the registrant or issuer.
-
-	II.B.0.0 Amendments Relating to Rule 3-05 Financial Statements Included in Registration Statements and Proxy Statements
-
-		II.B.1.0 Omission of Rule 3-05 Financial Statements for Businesses That Have Been Included in the Registrant’s Financial Statements
-
-			II.B.1.a Proposed Amendments
-
-			II.B.1.b Comments
-
-			II.B.1.c Final Amendments
-
-		II.B.2.0 Use of Pro Forma Financial Information to Measure Significance
-
-			II.B.2.a Proposed Amendments
-
-			II.B.2.b Comments
-
-			II.B.2.c Final Amendments
-
-		II.B.3.0 Disclosure Requirements for Individually Insignificant Acquisitions
-
-			II.B.3.a Proposed Amendments
-
-			II.B.3.b Comments
-
-			II.B.3.c Final Amendments
-
-	II.C.0.0 Rule 3-14 - Financial Statements of Real Estate Operations Acquired or to be Acquired
-
-		II.C.1.0 Align Rule 3-14 with Rule 3-05
-
-			II.C.1.a Proposed Amendments
-
-			II.C.1.b Comments
-
-			II.C.1.c Final Amendments
-
-			II.C.1.a (Investment Test only), Section II.A.3.c (related only to certain required footnote disclosures), Section II.A.5.c, Section II.A.6.c, Section II.B.1.c (excluding the requirement related to acquisitions that exceed 40 percent significance, which does not apply to Rule 3-14), Section II.B.2.c and Section II.B.3.c.
-
-		II.C.2.0 Definition of Real Estate Operation
-
-			II.C.2.a Proposed Amendments
-
-			II.C.2.b Comments
-
-			II.C.2.c Final Amendments
-
-		II.C.3.0 Significance Tests
-
-			II.C.3.a Proposed Amendments
-
-			II.C.3.b Comments
-
-			II.C.3.c Final Amendments
-
-		II.C.4.0 Interim Financial Statements
-
-			II.C.4.a Proposed Amendments
-
-			II.C.4.b Comments and Final Amendments
-
-		II.C.5.0 Smaller Reporting Companies and Issuers Relying on Regulation A
-
-			II.C.5.a Proposed Amendments
-
-			II.C.5.b Comments
-
-			II.C.5.c Final Amendments
-
-		II.C.6.0 Blind Pool Real Estate Offerings
-
-			II.C.6.a Proposed Amendments
-
-			II.C.6.b Comments
-
-			II.C.6.c Final Amendments
-
-	II.D.0.0 Pro Forma Financial Information
-
-		II.D.1.0 Adjustment Criteria and Presentation Requirements
-
-			II.D.1.a Proposed Amendments
-
-			II.D.1.b Comments
-
-			II.D.1.c Final Amendments
-
-		II.D.2.0 Significance and Business Dispositions
-
-			II.D.2.a Proposed Amendments
-
-			II.D.2.b Comments
-
-			II.D.2.c Final Amendments
-
-		II.D.3.0 Smaller Reporting Companies and Issuers Relying on Regulation A
-
-			II.D.3.a Proposed Amendments
-
-			II.D.3.b Comments
-
-			II.D.3.c Final Amendments
-
-	II.E.0.0 Amendments to Financial Disclosure about Acquisitions Specific to Investment Companies
-
-		II.E.1.0 Amendments to Significance Tests for Investment Companies
-
-			II.E.1.a Investment Test
-
-			II.E.1.b Asset Test
-
-			II.E.1.c Income Test
-
-		II.E.2.0 Proposed Rule 6-11 of Regulation S-X
-
-			II.E.2.a Proposed Amendments
-
-			II.E.2.b Comments
-
-			II.E.2.c Final Amendments
-
-		II.E.3.0 Pro Forma Financial Information and Supplemental Financial Information
-
-			II.E.3.a Proposed Amendments
-
-		II.E.1.0 A pro forma fee table, setting forth the post-transaction fee structure of the combined entity;
-
-		II.E.2.0 If the transaction will result in a material change in the acquired fund’s investment portfolio due to investment restrictions, a schedule of investments of the acquired fund modified to show the effects of such change and accompanied by narrative disclosure describing the change; and
-
-		II.E.3.0 Narrative disclosure about material differences in accounting policies of the acquired fund when compared to the newly combined entity.
-
-			II.E.3.b Comments
-
-			II.E.3.c Final Amendments
-
-		II.E.4.0 Amendments to Form N-14
-
-			II.E.4.a Proposed Amendments
-
-			II.E.4.b Comments
-
-			II.E.4.c Final Amendments
-
-	II.F.0.0 Transition
-
-III.0.0.0 Other Matters
-
-IV.0.0.0 Economic Analysis
-
-	IV.A.0.0 Introduction
-
-	IV.B.0.0 Baseline and Affected Parties
-
-	IV.C.0.0 Potential Benefits and Costs of the Final Rule
-
-		IV.C.1.0 Potential Benefits
-
-		IV.C.2.0 Potential Costs
-
-	IV.D.0.0 Economic Effects of Specific Amendments
-
-		IV.D.1.0 Significance Tests
-
-		IV.D.2.0 Audited Financial Statements for Significant Acquisitions
-
-		IV.D.3.0 Financial Statements for Net Assets that Constitute a Business
-
-		IV.D.4.0 Financial Statements of a Business that Includes Oil and Gas Producing Activities
-
-		IV.D.5.0 Timing and Terminology of Financial Statement Requirements
-
-		IV.D.6.0 Foreign Businesses
-
-		IV.D.7.0 Smaller Reporting Companies and Issuers Relying on Regulation A
-
-	IV.A.0.0 Since the form and content of the required financial statements will continue to be prepared in accordance with Article 8, we do not believe the amendments will impose additional compliance costs on affected entities and do not expect the amendments to reduce information available to investors.
-
-		IV.A.8.0 Omission of Rule 3-05 and Rule 3-14 Financial Statements and Related Pro Forma Financial Information for Businesses That Have Been Included in the Registrant’s Financial Statements
-
-		IV.A.9.0 Use of Pro Forma Financial Information to Measure Significance
-
-		IV.A.10.0 Disclosure Requirements for Individually Insignificant Acquisitions
-
-		IV.A.11.0 Rule 3-14 - Financial Statements of Real Estate Operations Acquired or to be Acquired
-
-		IV.A.12.0 Pro Forma Financial Information
-
-		IV.A.13.0 Significance and Business Dispositions
-
-		IV.A.14.0 Amendments to Financial Disclosure about Acquisitions Specific to Investment Companies
-
-	IV.A.0.0 The Effects on Efficiency, Competition, and Capital Formation
-
-	IV.B.0.0 Alternatives Considered
-
-		IV.B.1.0 Approaches to the Significance Tests
-
-		IV.B.2.0 Approaches to Financial Statement Requirements
-
-		IV.B.3.0 Approaches to Adopting Pro Forma Adjustments
-
-		IV.B.4.0 Alternatives to the Income Test for Investment Companies
-
-V.0.0.0 Paperwork Reduction Act
-
-	V.A.0.0 Summary of the Collection of Information
-
-	V.B.0.0 Effect of the Amendments on Existing Collections of Information
-
-		V.B.1.0 Estimated Effects on Burdens for Registrants Other Than Investment Companies
-
-			V.B.1.a Proposed Amendments to Rules 1-02(w), 3-05, and 3-14
-
-			V.B.1.b Proposed Amendments to Pro Forma Financial Information Requirements
-
-	V.C.0.0 Aggregate Burden and Cost Estimates for the Amendments
-
-VI.0.0.0 Final Regulatory Flexibility Act Analysis
-
-	VI.A.0.0 Reasons for, and Objectives of, the Final Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comments
-
-	VI.C.0.0 Small Entities Subject to the Proposed Rules
-
-	VI.D.0.0 Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 210, 230, 239, 240 249, 270, and 274
 
 Release No. 33-10786; 34-88914; IC-33872; File No. S7-05-19 RIN 3235-AL77
@@ -343,8 +41,6 @@ Commenters broadly supported the objectives of the proposed rules or were genera
 <h>II. Discussion of Final Amendments</h>
 
 We are amending the requirements in Rule 1-02(w), Rule 3-05, Rule 3-14, Article 11, and related rules and forms. The amendments generally:
-
-<h>1. (“Form F-4”); however, in certain circumstances application of the amended significance tests may</h>
 
 Update the significance tests used under these and other rules to generally improve their application and assist registrants in making more meaningful significance determinations;
 
@@ -774,7 +470,7 @@ We considered whether issuers relying on Regulation A should be treated differen
 
 As revised, Rule 8-04 continues to require up to two years of acquired business historical financial statements. Additionally, and in accordance with current practice, the revised rule expressly permits smaller reporting companies to omit such financial statements if the acquired business has been included in the registrant’s results for a complete fiscal year. <sup>175</sup> We are also adding references to Rule 8-04 in Rule 3-06 and to Rule 3-06 in Article 8, as proposed, to
 
-<h>1. We also note that significance tests are not one-size-fits-all tests, but instead contemplate the unique facts and circumstances of a registrant or issuer because they measure significance of the acquired or disposed business relative to the registrant or issuer.expressly permit smaller reporting companies to file audited financial statements covering a period of nine to 12 months to satisfy the requirement for filing financial statements for a period of one year for an acquired business.</h>
+1. We also note that significance tests are not one-size-fits-all tests, but instead contemplate the unique facts and circumstances of a registrant or issuer because they measure significance of the acquired or disposed business relative to the registrant or issuer.expressly permit smaller reporting companies to file audited financial statements covering a period of nine to 12 months to satisfy the requirement for filing financial statements for a period of one year for an acquired business.
 
 The amendments also provide that a smaller reporting company is eligible to exclude acquired business financial statements from a registration statement if the business acquisition was consummated no more than 74 days prior to the date of the relevant final prospectus or prospectus supplement, rather than 74 days prior to the effective date of the registration statement as under current Rule 8-04(c)(4). <sup>176</sup> We believe it is appropriate to consistently look to the date of the final prospectus or prospectus supplement for registrants, <sup>177</sup> as Rule 3-05 currently does, because that date could be later than the effective date, particularly in the case of a delayed offering, which some smaller reporting companies are now permitted to conduct. <sup>178</sup> We are also making conforming changes to Rule 8-05 for smaller reporting companies to be consistent with the changes we are making to Article 11. <sup>179</sup>
 
@@ -946,9 +642,7 @@ Revise Item 2.01 Instruction 4 to reference Rule 3-14 to make clear that, as wit
 
 Also, as proposed, we are adopting amendments to conform Rule 3-14 to the Rule 3-05 amendments being adopted in this release where no unique industry considerations exist.
 
-Specifically, we are amending Rule 3-14 to conform to the amendments described in Section
-
-<h>a. (Investment Test only), Section II.A.3.c (related only to certain required footnote disclosures), Section II.A.5.c, Section II.A.6.c, Section II.B.1.c (excluding the requirement related to acquisitions that exceed 40 percent significance, which does not apply to Rule 3-14), Section II.B.2.c and Section II.B.3.c.</h>
+Specifically, we are amending Rule 3-14 to conform to the amendments described in Section a. (Investment Test only), Section II.A.3.c (related only to certain required footnote disclosures), Section II.A.5.c, Section II.A.6.c, Section II.B.1.c (excluding the requirement related to acquisitions that exceed 40 percent significance, which does not apply to Rule 3-14), Section II.B.2.c and Section II.B.3.c.
 
 <h>2. Definition of Real Estate Operation</h>
 
@@ -1290,11 +984,11 @@ Currently, Rule 11-01 requires an investment company to furnish pro forma financ
 
 The Commission proposed to replace the pro forma financial disclosures requirement with proposed Rule 6-11(d), which would require that investment company registrants provide supplemental financial information about the newly combined entity that it believed would be more relevant to investors. <sup>412</sup> The proposed supplemental financial information would include:
 
-<h>1. A pro forma fee table, setting forth the post-transaction fee structure of the combined entity;</h>
+1. A pro forma fee table, setting forth the post-transaction fee structure of the combined entity;
 
-<h>2. If the transaction will result in a material change in the acquired fund’s investment portfolio due to investment restrictions, a schedule of investments of the acquired fund modified to show the effects of such change and accompanied by narrative disclosure describing the change; and</h>
+2. If the transaction will result in a material change in the acquired fund’s investment portfolio due to investment restrictions, a schedule of investments of the acquired fund modified to show the effects of such change and accompanied by narrative disclosure describing the change; and
 
-<h>3. Narrative disclosure about material differences in accounting policies of the acquired fund when compared to the newly combined entity.</h>
+3. Narrative disclosure about material differences in accounting policies of the acquired fund when compared to the newly combined entity.
 
 <h>b. Comments</h>
 
@@ -1474,9 +1168,7 @@ Specifically, foreign private issuers have been permitted to file IFRS-IASB fina
 
 <h>7. Smaller Reporting Companies and Issuers Relying on Regulation A</h>
 
-The amendments revise Rule 8-04 to direct smaller reporting companies to Rule 3-05 for requirements relating to the financial statements of businesses acquired or to be acquired, although the form and content requirements for these financial statements would continue to be governed by Article 8. The amendments to Rule 8-04 also apply to issuers relying on Regulation
-
-<h>A. Since the form and content of the required financial statements will continue to be prepared in accordance with Article 8, we do not believe the amendments will impose additional compliance costs on affected entities and do not expect the amendments to reduce information available to investors.</h>
+The amendments revise Rule 8-04 to direct smaller reporting companies to Rule 3-05 for requirements relating to the financial statements of businesses acquired or to be acquired, although the form and content requirements for these financial statements would continue to be governed by Article 8. The amendments to Rule 8-04 also apply to issuers relying on Regulation A. Since the form and content of the required financial statements will continue to be prepared in accordance with Article 8, we do not believe the amendments will impose additional compliance costs on affected entities and do not expect the amendments to reduce information available to investors.
 
 The amendments to require smaller reporting companies to provide pro forma financial information for significant acquisitions and dispositions made during annual periods and to use the enhanced guidelines in Article 11 when preparing pro forma financial information could increase the burden on smaller reporting companies. However, based on a staff analysis of 2017 disclosures of acquisitions and dispositions by smaller reporting companies, we believe most already comply with the conditions in Article 11. <sup>461</sup> As a result, we do not expect that theamendments will impose significant new costs on these entities. At the same time, the amendments may provide more relevant information to investors, although this benefit also will be limited to the extent that smaller reporting companies already comply with these requirements in practice.
 
@@ -1548,7 +1240,7 @@ The amendment to eliminate an asset-based test for investment companies simplifi
 
 New Rule 6-11 potentially reduces compliance burdens by setting forth financial statement requirements for acquired funds that are specifically tailored for investment companies as compared to Rule 3-05. Rule 6-11 deems the acquisition of all or substantially all portfolio investments held by another fund as a fund acquisition. This principles-based facts and circumstances evaluation of whether a fund acquisition has occurred could potentially reduce under-reporting of acquired fund disclosures by focusing on the economic substance of the transaction rather than its legal form. The amendments to require one year of audited financial statements for fund acquisitions and to eliminate pro forma financial statements could also reduce compliance burdens for registrants. We do not believe these amendments will lead to loss of relevant information to investors, as the price of investment company shares is calculated daily based on the fair value of its investment portfolio, and older historical financial statements are in general less relevant to fund investors. The amendments are also consistent with the accommodations typically provided by our disclosure review staff during consultations. <sup>470</sup> Permitting investment companies to provide financial statements for private funds that wereprepared in accordance with U.S. GAAP will reduce compliance burdens for investment companies by potentially reducing the costs related to re-issuing audited financial statements in compliance with Regulation S-X. Any loss of information arising from these amendments will be mitigated by the requirement that investment companies file the schedules required under Article 12 of Regulation S-X and provide certain supplemental information regarding the acquired funds. We believe this information is more relevant and potentially enhances efficiency in processing the information by fund investors. These supplemental disclosures, however, will entail costs to registrants. For purposes of the PRA, we estimate the average incremental compliance burden for this additional disclosure is around 25 hours per affected registrant. We further estimate that all of these amendments taken together will reduce a registrant’s compliance burden by approximately 100 hours. <sup>471</sup>
 
-<h>A. The Effects on Efficiency, Competition, and Capital Formation</h>
+<h>E. The Effects on Efficiency, Competition, and Capital Formation</h>
 
 We anticipate that the amendments will have favorable effects on efficiency, competition, and capital formation for both operating companies and investment companies. By reducing disclosure burdens for registrants regarding business acquisitions and dispositions, the amendments should facilitate such activities, although, as stated earlier, compliance costs may be a more modest factor when a registrant considers whether to engage in an acquisition or disposition. An active mergers and acquisitions market creates efficiencies by transferring inefficiently managed assets to more efficient management or by creating synergies througheconomies of scale or economies of scope . <sup>472</sup> On average, mergers and acquisitions benefit investors in the acquired business. <sup>473</sup>
 
@@ -1558,7 +1250,7 @@ At the same time, we do not believe investors face a significant loss in informa
 
 Additionally, reduced regulatory complexity may lead to increased efficiency in the market for mergers and acquisitions. Under the existing disclosure requirements related to acquiredbusinesses, some mergers may be delayed or more costly due to the burdens of compliance with Rule 3-05 Financial Statement requirements ( e.g. , a private business may not have more than two years of audited financial statements, but the transaction may trigger additional disclosure because the business crosses the highest significance threshold). By decreasing the acquisition costs for registrants, the amendments could promote competition in the market for mergers and acquisitions and potentially benefit shareholders of acquired businesses. Better disclosure quality and an improved information environment could also facilitate the market for mergers and acquisitions, which could help achieve efficient capital allocation and exert effective external control mechanisms on public firms, leading to an overall increase in efficiency. <sup>476</sup>
 
-<h>B. Alternatives Considered</h>
+<h>F. Alternatives Considered</h>
 
 <h>1. Approaches to the Significance Tests</h>
 

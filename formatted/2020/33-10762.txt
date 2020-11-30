@@ -1,289 +1,3 @@
-https://www.sec.gov/rules/final/2020/33-10762.pdf
-
-I.0.0.0 Introduction
-
-	I.A.0.0 Background
-
-	I.B.0.0 Scope of Proposals
-
-II.0.0.0 Rule 3-10 of Regulation S-X
-
-	II.A.0.0 Background
-
-		II.A.2.0 the parent company controls each subsidiary issuer and guarantor, including having the ability to direct all debt-paying activities; and (3) the financial information of each subsidiary issuer and guarantor is included as part of the consolidated financial statements of the parent
-
-	II.B.0.0 Overview of the Existing Requirements
-
-III.0.0.0 Amendments to Rule 3-10 and Partial Relocation to Rule 13-01
-
-	III.A.0.0 Overarching Principle
-
-	III.B.0.0 Overview of the Proposed and Final Amendments
-
-	III.C.0.0 Conditions to Omit the Financial Statements of a Subsidiary Issuer or Guarantor
-
-		III.C.1.0 Eligibility Conditions
-
-			III.C.1.a Parent Company Financial Statements Condition
-
-			III.C.1.b Consolidated Subsidiary Condition
-
-			III.C.1.c Debt or Debt-Like Securities Condition
-
-			III.C.1.d Eligible Issuer and Guarantor Structures Condition
-
-		III.C.2.0 Disclosure Requirements
-
-			III.C.2.a Financial Disclosures
-
-	III.A.0.0 Proposed Amendments
-
-	III.B.0.0 Comments on the Proposed Amendments
-
-	III.C.0.0 Final Amendments
-
-	III.A.0.0 Proposed Amendments
-
-	III.B.0.0 Comments on the Proposed Amendments
-
-	III.C.0.0 Final Amendments
-
-	III.A.0.0 Proposed Amendments
-
-	III.B.0.0 Comments on the Proposed Amendments
-
-	III.C.0.0 Final Amendments
-
-			III.C.2.b Non-Financial Disclosures
-
-		III.C.3.0 would require certain disclosures about the issuers and guarantors, the terms and conditions of the guarantees, and how the issuer and guarantor structure and other factors may affect payments to holders of the guaranteed securities. Disclosure of additional non-financial disclosures beyond what is specified in proposed Rules 13-01(a)(1) through (3) would have been required by proposed Rule 13-01(a)(5), to the extent they are material to an investment decision.
-
-			III.C.3.c When Disclosure is Required
-
-		III.C.1.0 The assets, liabilities and results of operations of the combined issuers and guarantors of the guaranteed security are not materially different than corresponding amounts presented in the consolidated financial statements of the parent company;
-
-		III.C.2.0 The combined issuers and guarantors, excluding investments in subsidiaries that
-
-		III.C.3.0 The issuer is a finance subsidiary of the parent company, the parent company has fully and unconditionally guaranteed the security, and no other subsidiary of the parent company guarantees the security; and
-
-		III.C.4.0 The issuer is a finance subsidiary that co-issued the security, jointly and severally, with the parent company, and no other subsidiary of the parent company guarantees the security.
-
-			III.C.4.d Location of Revised Alternative Disclosures and Audit Requirement
-
-			III.C.4.e Recently Acquired Subsidiary Issuers and Guarantors
-
-			III.C.4.f Continuous Reporting Obligation
-
-	III.D.0.0 Application of Amendments to Certain Types of Issuers
-
-		III.D.1.0 Foreign Private Issuers
-
-			III.D.1.a Proposed Amendments
-
-			III.D.1.b Comments on the Proposed Amendments
-
-			III.D.1.c Final Amendments
-
-		III.D.2.0 Smaller Reporting Companies
-
-			III.D.2.a Proposed Amendments
-
-			III.D.2.b Comments on the Proposed Amendments
-
-			III.D.2.c Final Amendments
-
-		III.D.3.0 Offerings pursuant to Regulation A
-
-			III.D.3.a Proposed Amendments
-
-			III.D.3.b Comments on the Proposed Amendments
-
-			III.D.3.c Final Amendments
-
-		III.D.4.0 Issuers of Asset-backed Securities – Third Party Financial Statements
-
-			III.D.4.a Proposed Amendments
-
-			III.D.4.b Comments on the Proposed Amendments
-
-			III.D.4.c Final Amendments
-
-IV.0.0.0 Rule 3-16 of Regulation S-X
-
-V.0.0.0 Amendments to Rule 3-16 and Partial Relocation to Rule 13-02
-
-	V.A.0.0 Overarching Principle
-
-	V.B.0.0 Overview of the Proposed and Final Amendments
-
-		V.B.1.0 Proposed Amendments
-
-		V.B.2.0 Comments on the Proposed Amendments
-
-		V.B.3.0 Final Amendments
-
-	V.C.0.0 Financial Disclosures
-
-		V.C.1.0 Level of Detail
-
-			V.C.1.a Proposed Amendments
-
-			V.C.1.b Comments on the Proposed Amendments
-
-			V.C.1.c Final Amendments
-
-		V.C.2.0 Presentation on a Combined Basis
-
-			V.C.2.a Proposed Amendments
-
-			V.C.2.b Comments on the Proposed Amendments
-
-			V.C.2.c Final Amendments
-
-		V.C.3.0 Periods to Present
-
-			V.C.3.a Proposed Amendments
-
-			V.C.3.b Comments on the Proposed Amendments
-
-			V.C.3.c Final Amendments
-
-	V.D.0.0 Non-Financial Disclosures
-
-		V.D.1.0 Proposed Amendments
-
-		V.D.2.0 Comments on the Proposed Amendments
-
-		V.D.3.0 Final Amendments
-
-	V.E.0.0 When Disclosure is Required
-
-		V.E.1.0 Proposed Amendments
-
-		V.E.2.0 Comments on the Proposed Amendments
-
-		V.E.3.0 Final Amendments
-
-		V.E.1.0 The assets, liabilities and results of operations of the combined affiliates whose securities are pledged as collateral are not materially different than the corresponding amounts presented in the consolidated financial statements of the registrant; and
-
-		V.E.2.0 The combined affiliates whose securities are pledged as collateral have no material assets, liabilities or results of operations.
-
-	V.F.0.0 Location of Disclosures and Audit Requirement
-
-		V.F.1.0 Proposed Amendments
-
-		V.F.2.0 Comments on the Proposed Amendments
-
-		V.F.3.0 Final Amendments
-
-	V.G.0.0 Recently Acquired Affiliates Whose Securities are Pledged as Collateral
-
-		V.G.1.0 Proposed Amendments
-
-		V.G.2.0 Comments on the Proposed Amendments
-
-		V.G.3.0 Final Amendments
-
-	V.H.0.0 Application of Amendments to Certain Types of Issuers
-
-		V.H.1.0 Foreign Private Issuers
-
-			V.H.1.a Proposed Amendments
-
-			V.H.1.b Comments on Proposed Amendments
-
-			V.H.1.c Final Amendments
-
-		V.H.2.0 Smaller Reporting Companies
-
-			V.H.2.a Proposed Amendments
-
-			V.H.2.b Comments on Proposed Amendments
-
-			V.H.2.c Final Amendments
-
-		V.H.3.0 Offerings pursuant to Regulation A
-
-			V.H.3.a Proposed Amendments
-
-			V.H.3.b Comments on Proposed Amendments
-
-			V.H.3.c Final Amendments
-
-VI.0.0.0 Transition to Final Amendments and Rule 3-16 Collateral Release Provisions
-
-	VI.A.0.0 Transition to Final Amendments
-
-	VI.B.0.0 Rule 3-16 Collateral Release Provisions
-
-VII.0.0.0 Other Matters
-
-VIII.0.0.0 Economic Analysis
-
-	VIII.A.0.0 Introduction
-
-	VIII.B.0.0 Baseline and Affected Parties
-
-		VIII.B.1.0 Market Participants
-
-		VIII.B.2.0 Market Conditions
-
-	VIII.C.0.0 Anticipated Economic Effects
-
-		VIII.C.1.0 Amendments to Rule 3-10 and Partial Relocation to Rule 13-01
-
-			VIII.C.1.a Eligibility Conditions to Omit Financial Statements of Subsidiary Issuer or Guarantor
-
-			VIII.C.1.b Disclosure Requirements
-
-		VIII.C.2.0 Amendments to Rule 3-16 and Partial Relocation to Rule 13-02
-
-			VIII.C.2.a Financial Disclosures
-
-			VIII.C.2.b Non-Financial Disclosures
-
-			VIII.C.2.c When Disclosure is Required
-
-			VIII.C.2.d Location of Disclosures and Audit Requirement
-
-			VIII.C.2.e Recently Acquired Affiliates Whose Securities are Pledged as Collateral
-
-	VIII.D.0.0 Anticipated Effects on Efficiency, Competition, and Capital Formation
-
-	VIII.E.0.0 Consideration of Reasonable Alternatives
-
-		VIII.E.1.0 Alternative to Final Amendments to Existing Rule 3-10
-
-		VIII.E.2.0 Alternatives Common to Final Amendments to Existing Rule 3- 10 and Existing Rule 3-16
-
-IX.0.0.0 Paperwork Reduction Act
-
-	IX.A.0.0 Background
-
-	IX.B.0.0 Summary of Comment Letters
-
-	IX.C.0.0 Summary of the Impact on Collections of Information
-
-	IX.D.0.0 Burden and Cost Estimates to the Amendments
-
-X.0.0.0 Final Regulatory Flexibility Act Analysis
-
-	X.A.0.0 Need for, and Objectives of, the Amendments
-
-	X.B.0.0 Significant Issues Raised by Public Comments
-
-	X.C.0.0 Small Entities Subject to the Amendments
-
-	X.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-	X.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-XI.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register Version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 210, 229, 230, 239, 240, and 249 [Release No. 33-10762; 34-88307; File No. S7-19-18] RIN 3235-AM12
@@ -328,9 +42,7 @@ The Commission proposed changes to the disclosure requirements contained in Rule
 
 A guarantee of a debt or debt-like security (“debt security”) <sup>12</sup> is a separate security under the Securities Act <sup>13</sup> and, as a result, offers and sales of these guarantees <sup>14</sup> must be either registered or exempt from registration. If the offer and sale is registered, the issuer of the debt security and the guarantor <sup>15</sup> must each file its own audited annual and unaudited interim <sup>16</sup> financial statements required by Regulation S-X. Additionally, the offer and sale of the securities pursuant to a Securities Act registration statement causes the issuer and guarantor to become subject to reporting under Section 15(d) of the Exchange Act. <sup>17</sup> Reporting under Section 15(d), among other things, requires filing periodic reports that must include audited annual and unaudited interim financial statements, for at least the fiscal year in which the related Securities Act registration statement became effective. <sup>18</sup>
 
-When the Commission amended Rule 3-10 in 2000, it recognized that “[t]here are circumstances, however, where full Securities Act and Exchange Act disclosure by both the issuer and the guarantors may not be useful to an investment decision and, therefore, may not be necessary.” <sup>19</sup> Common examples are when: (1) a parent company offers its own securities that its subsidiary guarantees; and (2) a subsidiary offers securities that its parent company fully and unconditionally guarantees. In these and similar situations, in which a parent company and one or more of its subsidiaries serve as issuers and/or guarantors of guaranteed securities, we believe the disclosure requirements generally have been guided by an overarching principle: the consolidated financial statements of the parent company are the principal source of information for investors when evaluating the debt security and its guarantee together. <sup>20</sup> This principle is grounded in the idea that the investment is in the consolidated enterprise when: (1) the parent company is fully obligated as either issuer or full and unconditional guarantor of the security ; <sup>21</sup>
-
-<h>2. the parent company controls each subsidiary issuer and guarantor, including having the ability to direct all debt-paying activities; and (3) the financial information of each subsidiary issuer and guarantor is included as part of the consolidated financial statements of the parentcompa ny . <sup>23</sup> In these circumstances, we believe full Securities Act and Exchange Act financial disclosures for each subsidiary issuer and guarantor are generally not material for an investor to make an informed investment decision about a guaranteed security. Instead, we believe information included in the consolidated disclosures about the parent company, as supplemented with details about the issuers and guarantors, is sufficient. These disclosures help an investor understand how the consolidated entities within the enterprise support the obligation.</h>
+When the Commission amended Rule 3-10 in 2000, it recognized that “[t]here are circumstances, however, where full Securities Act and Exchange Act disclosure by both the issuer and the guarantors may not be useful to an investment decision and, therefore, may not be necessary.” <sup>19</sup> Common examples are when: (1) a parent company offers its own securities that its subsidiary guarantees; and (2) a subsidiary offers securities that its parent company fully and unconditionally guarantees. In these and similar situations, in which a parent company and one or more of its subsidiaries serve as issuers and/or guarantors of guaranteed securities, we believe the disclosure requirements generally have been guided by an overarching principle: the consolidated financial statements of the parent company are the principal source of information for investors when evaluating the debt security and its guarantee together. <sup>20</sup> This principle is grounded in the idea that the investment is in the consolidated enterprise when: (1) the parent company is fully obligated as either issuer or full and unconditional guarantor of the security ; <sup>21</sup> (2). the parent company controls each subsidiary issuer and guarantor, including having the ability to direct all debt-paying activities; and (3) the financial information of each subsidiary issuer and guarantor is included as part of the consolidated financial statements of the parentcompa ny . <sup>23</sup> In these circumstances, we believe full Securities Act and Exchange Act financial disclosures for each subsidiary issuer and guarantor are generally not material for an investor to make an informed investment decision about a guaranteed security. Instead, we believe information included in the consolidated disclosures about the parent company, as supplemented with details about the issuers and guarantors, is sufficient. These disclosures help an investor understand how the consolidated entities within the enterprise support the obligation.
 
 <h>B. Overview of the Existing Requirements</h>
 
@@ -530,13 +242,11 @@ As a result of the proposed revisions, the instructions for preparing Consolidat
 
 L evel of Detail
 
-<h>A. Proposed Amendments</h>
-
 Unless a brief narrative is permitted, existing Rule 3-10 requires Consolidating Information, which includes all major captions of the balance sheet, income statement, and cash flow statement that Article 10 (Rule 10-01) of Regulation S-X <sup>88</sup> requires to be shown separately in interim financial statements. The proposed amendments were based on requiringsupplemental financial information about issuers and guarantors that would be focused on the information that the Commission believed is most likely to be material to an investment decision. Proposed Rule 13-01(a)(4) would therefore require Summarized Financial Information, which would include select balance sheet and income statement line items. Disclosure of additional line items of financial information beyond what is specified in proposed Rule 13-01(a)(4) would have been required by proposed Rule 13-01(a)(5), to the extent they are material to an investment decision.
 
 While investors are provided cash flow information at the parent company consolidated level, supplemental cash flow information about subsidiary issuers and guarantors would not be a required disclosure under the proposed rule.
 
-<h>B. Comments on the Proposed Amendments</h>
+B. Comments on the Proposed Amendments
 
 Comments on the proposed amendments were generally supportive. Many commenters supported the proposal to replace Consolidating Information with Summarized Financial Information, as defined in Rule 1-02(bb)(1) of Regulation S-X. <sup>89</sup> Some commenters asserted that providing Summarized Financial Information rather than Consolidating Information would reduce disclosure burdens <sup>90</sup> while continuing to provide investors with material information to make an informed investment decision. <sup>91</sup>
 
@@ -554,7 +264,7 @@ One commenter contended that holders of debt securities are expected to be inter
 
 One commenter advocated that the Commission consider replacing the parent company- only condensed financial statements required by 17 CFR 210.5-04 (“Rule 5-04 of Regulation S- X”) and 210.12-04 (“Rule 12-04 of Regulation S-X”) with parent-only summarized financial information when there is a specified level of restriction on an issuer’s subsidiaries’ ability to transfer funds to the parent. <sup>113</sup>
 
-<h>C. Final Amendments</h>
+C. Final Amendments
 
 We are adopting the amendments in substantially the form proposed, but with modifications in response to comments received. As adopted, Rule 13-01(a)(4) will require disclosure of Summarized Financial Information for each issuer and guarantor. As describedabove, some commenters suggested requiring different or more limited information than what is required by Summarized Financial Information, or balance sheet only information, whereas one commenter recommended more detailed information. However, many other commenters supported the use of Summarized Financial Information, and we believe the select balance sheet and income statement line items it requires are focused on the information that is most likely to be material to an investment decision. Under the final amendments, disclosure of additional line items of financial information beyond the line items specified in Summarized Financial Information is required if necessary to comply with Rule 13-01(a)(6) and (7 ) . <sup>114</sup> For example, if substantially all of the obligated entities’ non-current assets consisted of goodwill, separate presentation of goodwill from non-current assets would be required if the parent company concludes such disclosure would be material for investors to evaluate the sufficiency of the guarantee. We agree with several commenters that requiring Summarized Financial Information would simplify compliance and reduce costs for preparers, while providing investors with more streamlined and easier to understand financial information that is material to an investment decision. We recognize that some of this information may go beyond what some commenters assert is typically provided in Rule 144A debt offerings, but we believe this is appropriate in light of the broader range of potential investors that may participate in a registered offering.
 
@@ -566,7 +276,7 @@ Lastly, certain of the proposed amendments would have each required additional d
 
 P resentation on a Combined Basis
 
-<h>A. Proposed Amendments</h>
+A. Proposed Amendments
 
 The proposed rule would permit the parent company to present the Summarized Financial Information of the parent company issuer or guarantor, each consolidated subsidiary issuer, and each consolidated subsidiary guarantor, on a combined basis. Proposed Rule 13-01(a)(4) would require intercompany transactions between issuers and guarantors presented on a combined basis to be eliminated.
 
@@ -576,7 +286,7 @@ The proposed rule would no longer require separate disclosure of the financial i
 
 In order to present the assets, liabilities, and operations of the Obligor Group accurately, it is necessary to exclude the financial information of subsidiaries not obligated under the guaranteed security. Proposed Rule 13-01(a)(4) would continue to exclude the financial information of non-issuer and non-guarantor subsidiaries from the Summarized Financial Information of the Obligor Group, even if those non-issuer and non-guarantor subsidiaries would be consolidated by an issuer or guarantor. However, the proposed rule would have allowed the parent company to determine which method best meets the objective of excluding the financial information of non-issuer and non-guarantor subsidiaries from the Proposed Alternative Disclosures, so long as the selected method was disclosed and was used for all non-issuer and non-guarantor subsidiaries for all classes of guaranteed securities for which the disclosure was required, and was reasonable in the circumstances. <sup>124</sup> For example, the parent company could have excluded the assets, liabilities, and operations of non-issuer and non-guarantor subsidiaries by using the equity method of accounting for those subsidiaries.
 
-<h>B. Comments on the Proposed Amendments</h>
+B. Comments on the Proposed Amendments
 
 Comments were supportive of this aspect of the proposal. Many commenters generally supported permitting Summarized Financial Information of each issuer and guarantor that isconsolidated in the parent company’s consolidated financial statements to be presented on a combined basis with the parent company’s Summarized Financial Information. <sup>125</sup> Some of these commenters indicated that providing this information on a combined basis would continue to provide investors with material information for making an informed investment decision, <sup>126</sup> while also reducing a burdensome requirement for issuers. <sup>127</sup> One commenter supported streamlining the disclosures, but asserted that the proposed amendments would likely only benefit a small number of issuers. <sup>128</sup> This commenter noted that the proposed amendments could lead to complexities and unintended consequences in presenting the Summarized Financial Information as proposed, regardless of the method of accounting selected. <sup>129</sup> Another commenter noted that, although such a combined presentation might provide some useful information when the guarantors are single-tiered operating companies with no subsidiaries, the accounting presentation becomes less meaningful when the guarantors are holding companies. <sup>130</sup>
 
@@ -592,7 +302,7 @@ Several commenters recommended modifications to the proposed amendments. A few c
 
 Two commenters asserted that the proposed amendments would require parent companies to present the Summarized Financial Information separately if the required qualitative disclosures differed within the group of subsidiary issuers or guarantors, which these commenters maintained was overly prescriptive. <sup>150</sup> These commenters recommended permitting greater flexibility in such instances, such as allowing the parent company to present Summarized Financial Information for the aggregate group with supplemental qualitative or quantitative disclosure regarding material differences within the group.
 
-<h>C. Final Amendments</h>
+C. Final Amendments
 
 After considering the public comments, we are adopting the amendments substantially as proposed with modifications, including separating certain requirements within proposed Rule 13- 01(a)(4) into distinct subparagraphs for clarity. As supported by several commenters, we are adopting the amendment that permits the supplemental financial disclosures of issuers and guarantors specified in Rule 13-01(a)(4) to be provided on a combined basis. Specifically, final Rule 13-01(a)(4)(i) permits the Summarized Financial Information of each issuer and guarantor consolidated in the parent company’s consolidated financial statements to be presented on a combined basis with the Summarized Financial Information of the parent company, and Rule 13- 01(a)(4)(ii) requires intercompany balances and transactions between issuers and guarantors whose information is presented on a combined basis to be eliminated. <sup>151</sup> We agree with thosecommenters that said providing this information on a combined basis would provide investors with material information in making an investment decision <sup>152</sup> while also reducing the burden on issuers. <sup>153</sup>
 
@@ -618,13 +328,13 @@ Although a few commenters recommended that the required financial disclosures de
 
 P eriods to Present
 
-<h>A. Proposed Amendments</h>
+A. Proposed Amendments
 
 Instead of the periods specified in 17 CFR 210.3-01 and 210.3-02 <sup>160</sup> required by the existing rule, the proposed rule would require Summarized Financial Information only as of, and for, the most recently ended fiscal year and year-to-date interim period, if applicable.
 
 In addition, because Item 1 of Part I of Form 10-Q <sup>161</sup> requires a registrant to provide theinformation required by Rule 10-01 of Regulation S-X, the Commission proposed adding Rule 10-01(b)(9) to require compliance with Rules 3-10 and 13-01.
 
-<h>B. Comments on the Proposed Amendments</h>
+B. Comments on the Proposed Amendments
 
 Comments on the proposed amendments were mixed. A number of commenters agreed with the proposed amendments, which would limit the periods for which Summarized Financial
 
@@ -632,7 +342,7 @@ Information is required to the most recently ended fiscal year and the year-to-d
 
 Other commenters, however, disagreed with the proposed requirement to include the interim period of Summarized Financial Information in all cases. <sup>166</sup> Some commenters suggested not requiring interim disclosures unless there has been a material change since the most recent annual period, <sup>167</sup> which certain commenters noted is consistent with Article 10 of Regulation S-X. <sup>168</sup> Some of these commenters indicated that the costs of providing interim information when no material change has occurred would be overly burdensome <sup>169</sup> and, without that disclosure, investors would still receive information necessary to make an informed investment decision. <sup>170</sup>
 
-<h>C. Final Amendments</h>
+C. Final Amendments
 
 After considering the comments received, we are adopting the amendments as proposed, with one clarification. As adopted, Rule 13-01(a)(4)(v) requires the financial disclosures to be provided as of and for the most recently ended fiscal year and year-to-date interim period included in the parent company’s consolidated financial statements, which as described above many commenters supported. When used in conjunction with the parent company’s consolidated financial statements, we continue to believe the most recent full fiscal year and year-to-date interim period should provide investors the additional information about the Obligor Group necessary for an informed investment decision and eliminate unnecessary compliance costs for registrants.
 
@@ -698,13 +408,13 @@ Based on comments received on proposed Rule 13-01(a)(5), we have also revised Ru
 
 Proposed Rule 13-01(a)(4) would have required, if the financial disclosures specified in proposed Rule 13-01(a)(4) were omitted because they are not material, disclosure of a statement to that effect and the reasons therefore. Most of the commenters that discussed this proposed requirement did not support it. <sup>218</sup> The intent of the proposed rule was not to require a parentcompany to disclose the analysis supporting its conclusion that the financial disclosures were not material. Rather, it was to inform an investor that financial information about issuers and guarantors was not being provided and the basic reason(s) for the omission, similar to the narrative forms of Alternative Disclosures in existing Rule 3-10. <sup>219</sup> In response to these comments, we are not adopting this requirement as proposed. Instead, we are adopting an approach that should help address concerns <sup>220</sup> about the need for greater certainty as to the circumstances when the omission of financial disclosures may be appropriate while continuing to provide investors with the basic reasons as to why the financial information was omitted in a manner similar to existing Rule 3-10’s narrative exceptions. As adopted, Rule 13-01(a)(4)(vi) includes four scenarios, which we believe are the most common situations under which the financial information would not be material. <sup>221</sup> If the scenario is applicable and disclosed, the parent company could then omit the financial disclosures. The four scenarios are:
 
-<h>1. The assets, liabilities and results of operations of the combined issuers and guarantors of the guaranteed security are not materially different than corresponding amounts presented in the consolidated financial statements of the parent company;</h>
+1. The assets, liabilities and results of operations of the combined issuers and guarantors of the guaranteed security are not materially different than corresponding amounts presented in the consolidated financial statements of the parent company;
 
-<h>2. The combined issuers and guarantors, excluding investments in subsidiaries that(f) based on the applicable facts and circumstances. For example, if the conditions are met, existing Rule 3- 10(b)(4) of Regulation S-X specifies that the narrative disclosure to be included in a footnote to the parent company’s consolidated financial statements must state, if true, “that the issuer is a 100%-owned finance subsidiary of the parent company and the parent company has fully and unconditionally guaranteed the securities.” It also requires the footnote to include “the narrative disclosures specified in paragraphs (i)(9) and (i)(10) of this section.”are not issuers or guarantors, have no material assets, liabilities or results of operations; <sup>223</sup></h>
+2. The combined issuers and guarantors, excluding investments in subsidiaries that(f) based on the applicable facts and circumstances. For example, if the conditions are met, existing Rule 3- 10(b)(4) of Regulation S-X specifies that the narrative disclosure to be included in a footnote to the parent company’s consolidated financial statements must state, if true, “that the issuer is a 100%-owned finance subsidiary of the parent company and the parent company has fully and unconditionally guaranteed the securities.” It also requires the footnote to include “the narrative disclosures specified in paragraphs (i)(9) and (i)(10) of this section.”are not issuers or guarantors, have no material assets, liabilities or results of operations; <sup>223</sup>
 
-<h>3. The issuer is a finance subsidiary of the parent company, the parent company has fully and unconditionally guaranteed the security, and no other subsidiary of the parent company guarantees the security; and</h>
+3. The issuer is a finance subsidiary of the parent company, the parent company has fully and unconditionally guaranteed the security, and no other subsidiary of the parent company guarantees the security; and
 
-<h>4. The issuer is a finance subsidiary that co-issued the security, jointly and severally, with the parent company, and no other subsidiary of the parent company guarantees the security.</h>
+4. The issuer is a finance subsidiary that co-issued the security, jointly and severally, with the parent company, and no other subsidiary of the parent company guarantees the security.
 
 While we believe these scenarios encompass most of the situations under which the required financial information would not be material, these scenarios are not intended to be exclusive. As discussed below, there may be other circumstances in which it would be appropriate to omit the required financial information on the basis that it is not material.
 
@@ -750,9 +460,7 @@ F inal Amendments
 
 After considering comments received, we are adopting the amendments largely as proposed, with modifications. As discussed above, while a few commenters either did not support locating the disclosures outside the financial statements or suggested limiting unaudited disclosures to underwritten offerings, others recommended the disclosures be located outside the financial statements in all cases. We continue to believe, however, that it is appropriate to provide parent companies the flexibility to select the location of the disclosures, including locating them outside the parent company’s consolidated financial statements. In this regard, and consistent with the views of several commenters, we expect not requiring the disclosures tobe audited will reduce costs and allow issuers to register guaranteed debt securities and access capital markets faster, which may encourage more such registered offering s . <sup>269</sup> Although we appreciate that some investors may place a value on having financial information subject to annual audit and/or interim review and other requirements that flow from including disclosures in the parent company’s financial statements, the proposed flexibility afforded to the parent company in selecting the location of the Proposed Alternative Disclosures, including locating them outside the parent company’s audited financial statements, took into account the nature of those disclosures as a supplement to the parent company’s consolidated financial statements. We also agree with those commenters who observed that, even if the Revised Alternative Disclosures are located outside the financial statements, they would be derived from the same internal accounting records and subject to the parent company’s disclosure controls and procedures and management certification requirements.
 
-Accordingly, and consistent with the proposed rule, final Rule 13-01(b) <sup>270</sup> permits theparent company to provide the Revised Alternative Disclosures in a footnote to its consolidated financial statements or alternatively, in MD&A. If the disclosures are not otherwise included in the consolidated financial statements or in MD&A, the final rule requires the parent company to include the disclosures in its prospectus immediately following “Risk Factors,” if any, or otherwise, immediately following pricing information described in Item 105 of Regulation S-
-
-K. <sup>271</sup>
+Accordingly, and consistent with the proposed rule, final Rule 13-01(b) <sup>270</sup> permits theparent company to provide the Revised Alternative Disclosures in a footnote to its consolidated financial statements or alternatively, in MD&A. If the disclosures are not otherwise included in the consolidated financial statements or in MD&A, the final rule requires the parent company to include the disclosures in its prospectus immediately following “Risk Factors,” if any, or otherwise, immediately following pricing information described in Item 105 of Regulation S-K. <sup>271</sup>
 
 As discussed above, some commenters suggested that the proposed flexibility in selecting the location of the disclosure may cause investors confusion about the location and level of assurance applied. While the proposed rule provided flexibility on where to locate the disclosures, we believe the locations where disclosures may be provided are clearly specified and that investors generally understand the levels of assurance applied to disclosures included inside or outside the parent company’s consolidated financial statements. If provided in the parent company’s consolidated financial statements, consistent with existing Rule 3-10, the disclosures must be included in a footnote. If provided outside the parent company’s consolidated financial statements, they must be included in MD&A, or in other specified locations if the parent company’s consolidated financial statements and MD&A are not otherwise included in the filing. <sup>272</sup> Consistent with the proposed rule, if the parent company elects to provide the Revised Alternative Disclosures in a footnote to its audited consolidated financial statements, the Revised Alternative Disclosures must be audited. Conversely, the Revised Alternative Disclosures need not be audited if the parent company provides them outside the audited consolidated financial statements. A few commenters recommended that, if audited, the information be included in a supplemental schedule similar to the ones required by Article 12 of Regulation S-X. Under the existing rule, a parent company must include the Alternative Disclosures in financial statements footnotes but has discretion over where to locate them. We are not aware of any practice issues associated with this discretion, and believe investors understand how to locate the disclosuresand understand the level of audit assurance associated with the disclosures if included in the financial statement footnotes. We are therefore not adopting this suggestion.
 
@@ -762,19 +470,19 @@ We considered responses to the Commission’s request for comment on the potenti
 
 <h>e. Recently Acquired Subsidiary Issuers and Guarantors</h>
 
-P roposed Amendments
+Proposed Amendments
 
 The proposed rule would eliminate the requirement in existing Rule 3-10(g) to provide pre-acquisition audited financial statements of a recently acquired subsidiary issuer or guarantor in certain circumstances. <sup>277</sup> Although the proposed rule would not require specific disclosures about recently-acquired subsidiary issuers and guarantors, information about these recently acquired subsidiaries would have been required if material to an investment decision in the guaranteed security pursuant to proposed Rule 13-01(a)(5).
 
 Due to the proposed deletion of Rule 3-10(g), the Commission also proposed a conforming change to remove paragraph (b) of Rule 12h-5. <sup>278</sup>
 
-C omments on the Proposed Amendments
+Comments on the Proposed Amendments
 
 Many commenters expressed general support for the proposed elimination of Rule 3- 10(g). <sup>279</sup> Several of these commenters contended that existing Rule 3-10(g) was burdensome and that existing 17 CFR 210.3-05 <sup>280</sup> already requires disclosure of pre-acquisition financial statements of a significant acquired business. <sup>281</sup> One commenter asserted that the existing Rule 3-10(g) requirements often results in more detailed disclosure being provided for recently acquired entities than for other subsidiary issuers and guarantors. <sup>282</sup> Another commenter maintained that the requirements of existing Rule 3-10(g) caused it to alter guarantor structures in certain debt offerings. <sup>283</sup>
 
 In response to the Commission’s request for comment whether some other type of disclosure about recently acquired subsidiary issuers and guarantors should be required instead of pre-acquisition financial statements, one commenter recommended that the Commission consider requiring Summarized Financial Information of a recently acquired guarantor in registration statements if the guarantor is not already included in the Summarized Financial Information of the Obligor Group (i.e., it is acquired after the most recent balance sheet date) and if the guarantor had a material effect on the financial capacity of the obligated group. <sup>284</sup> Some commenters noted that although the proposed amendments would not include a requirementsimilar to existing Rule 3-10(g), information about recently acquired subsidiaries would be required if material to an investment decision in the guaranteed security under proposed Rule 13- 01(a)(5). <sup>285</sup> One commenter encouraged the Commission “not to perpetuate separate disclosure rules in this context for recently acquired subsidiaries.” <sup>286</sup> Another commenter indicated that the existing disclosure requirements under ASC 805, Business Combinations , would continue to provide sufficient information related to material subsidiaries acquired and their impact on the consolidated entity. <sup>287</sup>
 
-F inal Amendments
+Final Amendments
 
 After considering the public comments, we are adopting the proposed changes with certain modifications. We agree with those commenters that supported the proposed elimination of the pre-acquisition financial statements requirement of existing Rule 3-10(g), most of which cited the burdensome nature of the requirement and that existing Rule 3-05 of Regulation S-X already requires pre-acquisition financial statements of significant acquired business as reasons not to include such a requirement in the final rules. <sup>288</sup> Accordingly, as proposed, the final rule will not include such a requirement.
 
@@ -790,7 +498,7 @@ Rule 12h-5, as proposed. <sup>305</sup>
 
 <h>f. Continuous Reporting Obligation</h>
 
-P roposed Amendments
+Proposed Amendments
 
 An issuer of securities is required to file Exchange Act reports with the Commission under Section 13(a), with respect to any class of securities registered pursuant to Sections 12(b) or 12(g), or for any class of securities for which it has a reporting obligation under Section 15(d) of the Exchange Act. <sup>306</sup> Section 12(b) registration is required only for so long as the class of securities is listed for trading on a national securities exchange. <sup>307</sup> An issuer incurs a Section 15(d) reporting obligation for each class of securities that is the subject of a Securities Act registration statement that becomes effective. <sup>308</sup> Section 15(d)(1) <sup>309</sup> provides that if, at the beginning of any subsequent fiscal year, the securities of any class to which the registration statement relates are held of record by fewer than 300 persons, or in the case of a bank, a savings and loan holding company, <sup>310</sup> or bank holding company, <sup>311</sup> by fewer than 1,200 persons, the registrant’s Section 15(d) reporting obligation is automatically suspended with respect to thatclass. <sup>312</sup> Title 17 CFR 240.12h-3 (“Rule 12h-3”) permits registrants to suspend a Section 15(d) reporting obligation at any time during a fiscal year provided the conditions of the rule are met. <sup>313</sup> A foreign private issuer likewise may terminate its Exchange Act reporting obligation regarding a class of equity securities under either Section 12(g) or Section 15(d) if it complies with the conditions of 17 CFR 240.12h-6 (“Rule 12h-6”). <sup>314</sup> Similarly, the periodic and current reporting requirements applicable to an issuer that has filed an offering statement for a Tier 2 offering that has been qualified pursuant to Regulation A <sup>315</sup> may be suspended if the issuer complies with the requirements of 17 CFR 230.257(d) (“Rule 257(d)”). <sup>316</sup>
 
@@ -804,7 +512,7 @@ As described above, Section 12(b) registration is required for so long as a clas
 
 Under the proposed rule and consistent with the 2000 Release, <sup>318</sup> if a subsidiary issuer orguarantor with an Exchange Act reporting obligation for the guaranteed securities would initially be eligible to omit its financial statements, because it would meet the requirements of proposed Rule 3-10 and could rely on proposed Rule 12h-5, but later ceased to satisfy those requirements, that subsidiary would then be required to begin filing Exchange Act reports for the period during which it ceased to satisfy the requirements of proposed Rule 3-10. Also, the subsidiary would be required to present the financial statements that are required by Regulation S-X at the time a report is due, and would not be able to present the Proposed Alternative Disclosures that proposed Rule 3-10 would have allowed it to present for historical periods.
 
-C omments on the Proposed Amendments
+Comments on the Proposed Amendments
 
 Comments on the proposed amendments were generally supportive. Many commenters supported eliminating the existing Rule 3-10 requirement that the parent company provide continuous reporting of the Alternative Disclosures for as long as the guaranteed securities areoutstanding if the parent company elects to provide the Alternative Disclosures in lieu of separate financial statements of eligible subsidiary issuers and guarantors. <sup>319</sup> One of these commenters stated that it “supports the Commission's proposal to harmonize the treatment of the duration of the continuing reporting requirements so registrants that meet the criteria for presenting alternative disclosures and elect to do so are not unfairly burdened compared to those that elect to file separate audited annual and unaudited interim financial statements.” <sup>320</sup> Another commenter stated that the existing rule’s continuous reporting requirement “is highly anomalous and frequently results in an expensive ongoing disclosure cost with no discernable benefit to investors following business combination transactions.” <sup>321</sup> Some commenters suggested that eliminating these requirements would reduce burdens on issuers. <sup>322</sup>
 
@@ -812,7 +520,7 @@ Two commenters opposed eliminating existing Rule 3-10’s continuous reporting r
 
 A few commenters asserted that requiring continuous reporting when an issuer’s reporting obligation could be suspended is an anomaly. <sup>326</sup> One commenter indicated that the requirement is not needed because it has become commonplace for issuers to tailor contractual reporting obligations to meet the perceived needs of investors. <sup>327</sup>
 
-F inal Amendments
+Final Amendments
 
 After considering the comments received as well as the benefits and burdens of continued Exchange Act reporting when a subsidiary issuer or guarantor would otherwise be able to suspend its reporting obligations, we are eliminating, as proposed, the requirement that the parent company must continue to provide the Alternative Disclosures in its periodic reports for as long as the subject securities are outstanding. Instead, the parent company will be permitted to cease providing the Alternative Disclosures if the corresponding subsidiary issuer’s or guarantor’s Section 15(d) obligation is suspended automatically by operation of Section 15(d)(1) or through compliance with Rule 12h-3, thereby harmonizing the existing rule with the statutory reporting regime and the Commission’s rules that govern when an issuer may terminate or suspend reporting. We agree with those commenters who stated that requiring continuous reporting when a subsidiary issuer’s or guarantor’s reporting obligation could be suspended is an anomaly and that eliminating such requirements would reduce burdens on issuers. We also do not believe it is necessary to require the parent company to continue providing the Revised Alternative Disclosures when the corresponding reporting obligations of its subsidiary issuers and guarantors with respect to the guaranteed security have been suspended or terminated. For similar reasons, we are making conforming amendments to provide analogous relief with respect to subsidiaryissuers or guarantors that meet the definition of foreign private issuer and terminate their reporting obligations through compliance with Rule 12h-6, and subsidiary issuers or guarantors that have filed an offering statement for a Tier 2 offering that has been qualified pursuant to Regulation A and suspend their reporting obligations through compliance with Rule 257(d). In these circumstances, we see no reason why reporting obligations should be different for parent companies of these types of subsidiary issuers and guarantors.
 
@@ -1074,9 +782,9 @@ Based on comments received on proposed Rule 13-02(a)(5), we have also revised Ru
 
 Proposed Rule 13-02(a)(4) would have required, if the financial disclosures specified in proposed Rule 13-02(a)(4) were omitted because they are not material, disclosure of a statement to that effect and the reasons therefore. Most of the commenters that discussed this proposed requirement did not support it. <sup>461</sup> In response to these comments, and for the same reasons citedin adopting final amendments to the corresponding requirement in final Rule 13-01, <sup>462</sup> we are not adopting this requirement as proposed. Instead, we are adopting an approach that should help address concerns <sup>463</sup> about the need for greater certainty as to the circumstances when omission of financial disclosures may be appropriate, while continuing to provide investors with the basic reasons as to why the financial information was omitted. As adopted, Rule 13- 02(a)(4)(vi) identifies two scenarios, which we believe are the most common situations under which the financial information would not be material. If the scenario is applicable and disclosed, the registrant could then omit the financial disclosures. The two scenarios are:
 
-<h>1. The assets, liabilities and results of operations of the combined affiliates whose securities are pledged as collateral are not materially different than the corresponding amounts presented in the consolidated financial statements of the registrant; and</h>
+1. The assets, liabilities and results of operations of the combined affiliates whose securities are pledged as collateral are not materially different than the corresponding amounts presented in the consolidated financial statements of the registrant; and
 
-<h>2. The combined affiliates whose securities are pledged as collateral have no material assets, liabilities or results of operations.</h>
+2. The combined affiliates whose securities are pledged as collateral have no material assets, liabilities or results of operations.
 
 Similar to the corresponding amendments to Rule 13-01, <sup>466</sup> while we believe these scenarios encompass most of the situations under which the required financial information would not be material, these scenarios are not intended to be exclusive. As discussed below, there may be other circumstances in which it would be appropriate to omit the required financial information on the basis that it is not material.
 

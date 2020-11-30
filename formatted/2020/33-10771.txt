@@ -1,244 +1,4 @@
-https://www.sec.gov/rules/final/2020/33-10771.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Scope of Closed-End Inve stme nt Companie s Affected by the Final Rule
-
-	II.B.0.0 Registration Proce ss
-
-		II.B.1.0 Current Shelf Offering Process for Affected Funds
-
-		II.B.2.0 Amendments to the Registration Process for Affected Funds
-
-		II.B.3.0 Short-Form Registration on Form N-2
-
-			II.B.3.a Eligibility to File a Short-Form Registration Statement
-
-			II.B.3.b Information Incorporated by Reference
-
-			II.B.3.a of current Form N-2.
-
-			II.B.3.c Affected Funds’ Use of Rule 415(a)(1)(x) and Automatic Shelf Registration Statements
-
-			II.B.3.d Omitting Information from a Base Prospectus and Prospectus Supplements
-
-			II.B.3.e Additional Information in Periodic Reports
-
-	II.C.0.0 We ll-Known Se asone d Issuer Status
-
-		II.C.1.0 WKSI Definition
-
-		II.C.2.0 WKSI Eligibility
-
-		II.C.3.0 Ineligible Issuer Definition
-
-	II.D.0.0 Automatic or Imme diate Effectiveness for Filings by Affected Funds Conducting Certain Continuous Offe rings
-
-	II.E.0.0 Final Prospe ctus Delivery Re forms
-
-	II.F.0.0 Communications Reforms
-
-		II.F.1.0 Offering Communications
-
-		II.F.2.0 Brok er-Dealer Research Reports
-
-	II.G.0.0 Other Rule Amendme nts
-
-		II.G.1.0 Rule 418 Supplemental Information
-
-		II.G.2.0 Amendments to Incorporation by Reference into Proxy Statements
-
-		II.G.3.0 Rule 103 of Regulation FD
-
-	II.H.0.0 New Registration Fe e Payme nt Method for Inte rval Funds and Issue rs of Certain Exchange -Trade d Products
-
-	II.I.0.0 Disclosure and Reporting Parity Proposals
-
-		II.I.1.0 Structured Data Requirements
-
-			II.I.1.a Inline XBRL Requirements for Financial Statements and Notes to Financial Statements
-
-			II.I.1.b New Check Boxes and Structured Data Format for Form N-2 Cover Page Information
-
-			II.I.1.c Tagging of Prospectus Disclosure Items
-
-		II.I.5.0 Dividend Reinvestment Plans” to Form N-2. See Dechert Comment Letter; IPA Comment Letter. The new check box will not affect that ability.
-
-			II.I.5.d Structured Data Format for Form 24F-2
-
-		II.I.1.0 Periodic Reporting Requirements
-
-			II.I.1.a Fee and Expense Table, Share Price Data, and Senior Securities Table
-
-			II.I.1.b Management’s Discussion of Fund Performance
-
-			II.I.1.c Financial Highlights
-
-			II.I.1.d Unresolved Staff Comments
-
-		II.I.2.0 Current Reporting Requirements for Affected Funds
-
-			II.I.2.a Form 8-K Reporting for Registered CEFs
-
-		II.I.1.0 existing registered CEF disclosure is sufficient; (2) Form 8-K reporting would be costly for registered CEFs; (3) parity with operating companies and BDCs is
-
-			II.I.1.b Other Proposed Amendments to Form 8-K
-
-		II.I.3.0 Online Availability of Information Incorporated by Reference
-
-		II.I.4.0 Amendments to Certain Registered CEFs’ Annual Report
-
-	II.J.0.0 Effe ctive and Compliance Dates
-
-III.0.0.0 ECONOMIC ANALYSIS
-
-	III.A.0.0 Introduction and Baseline
-
-		III.A.1.0 Number of Affected Funds
-
-		III.A.2.0 Current Securities Offering Requirements for Affected Funds
-
-		III.A.3.0 Current Disclosure Obligations of Affected Funds
-
-	III.K.0.0 Registered CEFs file annual reports to shareholders with audited financials and semi- annual reports to shareholders with unaudited financials on Form N-CSR. Listed registered CEFs are also subject to exchange rules that require listed issuers to provide
-
-	III.B.0.0 Pote ntial Benefits Resulting from the Propose d Imple me ntation of the Statutory Mandate s
-
-		III.B.1.0 Improved Access to Capital and Lower Cost of Capital
-
-			III.B.1.a Benefits from WKSI Status
-
-			III.B.1.b Benefits from Shelf Registration
-
-			III.B.1.c Other Benefits for Affected Funds
-
-			III.B.1.d Benefits for Other Parties
-
-		III.B.2.0 Facilitated Communication with Investors
-
-	III.C.0.0 Pote ntial Costs Resulting from the Propose d Imple me ntation of the Statutory Mandate s
-
-		III.C.1.0 Compliance Costs
-
-		III.C.2.0 Other Costs
-
-	III.D.0.0 Alte rnative s to Adopte d Approach to Imple me nting Statutory Mandate s
-
-	III.E.0.0 Discussion of Discre tionary Choice s
-
-		III.E.1.0 New Registration Fee Payment Method for Interval Funds and Issuers of Certain Exchange-Traded Products
-
-		III.E.1.0 T he current average registration fee paid in year 1 is the average of the actual fees reported by the interval funds in the Calculation of Registration Fee table in Form N-2 in the year of registration with the Commission. For purposes of this analysis, we assume that interval funds did not register additional securities in years 2 or 3. If they did, the average registration fees under the current framework would be higher than $31,501.
-
-		III.E.2.0 For each of the interval funds, the fees in years 1, 2, and 3 are estimated as [(dollar proceeds from shares issued + dollar cost of shares repurchased) / $1,000,000] x $129.80. T he $129.80 is the fee rate (per million dollars) that funds pay to register shares for fiscal year 2020. Then we calculate the average fees per year.
-
-		III.E.1.0 Structured Data Requirements
-
-		III.E.2.0 Periodic Reporting Requirements
-
-		III.E.3.0 Discretionary Amendments to Incorporation by Reference Requirements
-
-		III.E.4.0 Automatic or Immediate Effectiveness of Filings by Affected Funds Conducting Certain Continuous Offerings
-
-IV.0.0.0 PAPERWORK REDUCTION ACT ANALYSIS
-
-	IV.A.0.0 Background
-
-		IV.A.1.0 Recently, we issued a release that, among other things, retitled this collection of information (previously, “ Mutual Fund Interactive Data”) “ Investment Company Interactive Data.” See Variable Contract Summary Prospectus Adopting Release, supra footnote
-
-		IV.A.2.0 T he paperwork burdens for the rules under section 8(b) of the Investment Company Act are imposed through the forms and reports
-
-	IV.B.0.0 Summary of the Ame ndme nts and Impact on Information Colle ctions
-
-		IV.B.1.0 Amendments to Form N-2 Registration Statement
-
-		IV.B.1.0 See Proposing Release, supra footnote at section IV.B.1.
-
-		IV.B.2.0 See supra at footnote 2.
-
-		IV.B.1.0 Includes initial and ongoing burden estimates annualized over a three-year period. Here, as discussed in the Proposing Release, supra footnote at section V.B.2, we assumed that the one-time cost would result in a 50% incremental increase in the internal burdens and external costs of the BDC financial information and Form N-2 disclosure requirements (items I and III in the chart above) during the first year, and would subsequently decline in the second and third years by 75% from the immediately-preceding year.
-
-		IV.B.2.0 The proposed estimates are discussed in additional detail in the Proposing Release, supra footnote at section V.B.2.
-
-		IV.B.3.0 New Annual Reporting Requirements under Rule 30e-1 and Exchange Act Periodic Reporting Requirements for BDCs
-
-		IV.B.1.0 See Proposing Release, supra footnote at section V.B.3.
-
-		IV.B.2.0 Revised to reflect updated industry data.
-
-		IV.B.1.0 The rule 30e-1 estimates are based on the last time the rule’s information collections were approved, pursuant to a submission for a PRA extension in 2019. The Form 10-K estimates are based on the last time the form’s information collections were approved, pursuant to a submission for a PRA extension in 2019.
-
-		IV.B.2.0 As reflected in and the number of registered CEFs and the number of BDCs that will need to comply with the new annual report disclosure requirements will vary depending on the type of new disclosure, although all registered CEFs (686) and all BDCs (105) will be required to provide some additional annual report disclosure.
-
-	IV.A.0.0 1 2
-
-	IV.B.0.0 3
-
-		IV.B.1.0 For a number of reasons, many issuers that are currently eligible to be WKSIs do not make use of free writing prospectuses in reliance on rule 163. At the time the Commission adopted rule 163, it estimated that 53 free writing prospectuses would be filed under rule 163 per year. However, during the Commission’s 2017 fiscal year, only 10 free writing prospectuses in reliance on rule 163 were filed with the Commission. We estimate that 100 affected funds would be eligible to be WKSIs. See supra section . If current practices regarding the use of free writing prospectuses under rule 163 continue with respect to affected funds, we do not believe that these affected funds would significantly increase the number of free writing prospectuses under rule 163. Accordingly, we estimate that, on average, affected funds that are eligible to be WKSIs would file 2 free writing prospectuses under the amendments to rule 163 each year.
-
-		IV.B.2.0 The most recent data that we have available shows that each operating company files an average of approximately 5.4 free writing prospectuses per year in reliance on rule 433. We estimate that there will be 791 affected funds filing approximately 4,271 free writing prospectuses. See supra section .
-
-		IV.B.3.0 The burden hour estimates for rules 163 and 433 are based on the last time the rules’ information collections were approved, pursuant to a submission for a PRA extension in 2017. The conditions under rule 433 to use a free writing prospectus, require a free writing prospectus to contain more information and contribute to the greater burden hour than for a rule 163 free writing prospectus.
-
-		IV.B.1.0 In the Proposing Release we estimated that all 807 affected funds would rely on rule 173. See supra footnote at section
-
-		IV.B.2.0 The estimated burden hour per response of 0.0167 hours derives from the most recently-approved rule 173 PRA submission (2017).
-
-		IV.B.1.0 See supra at footnote 2.
-
-		IV.B.2.0 This estimate was previously submitted to OMB in connection with the renewal of approval for the collection of information required by Form 24F-2 in 2018.
-
-		IV.B.3.0 Proposing Release, supra footnote at section IV.B.7.
-
-		IV.B.4.0 Estimate revised to reflect updated data. Based on a review of Form 24F-2 filings for the period 2017-2019, the staff estimates that 6,741 filings will be made annually, and that 53 interval funds (representing the 3-year average of interval funds registered with the Commission) will file Form 24F-2 as a result of the final amendments (6,741 + 53 = 6,794).
-
-		IV.B.1.0 Amendments Permitting the Registration of Offerings of an
-
-		IV.B.2.0 Amendments to Form N-14
-
-		IV.B.1.0 See supra at footnote 2.
-
-		IV.B.2.0 Estimate revised to reflect updated industry data.
-
-		IV.B.3.0 Estimate revised to reflect modifications from the proposal.
-
-V.0.0.0 FINAL REGULATORY FLEXIB ILITY ANALYSIS
-
-	V.A.0.0 Need and Obje ctives of the Final Rule
-
-	V.B.0.0 Significant Issues Raised by Public Comme nts
-
-	V.C.0.0 Small Entitie s Subje ct to the Rule
-
-	V.D.0.0 Projected Re porting, Recordkeeping, and Othe r Compliance Re quire me nts
-
-		V.D.1.0 Registration Process and Final Prospectus Delivery
-
-		V.D.2.0 Communications Rules
-
-		V.D.3.0 New Registration Fee Payment Method for Interval Funds
-
-		V.D.4.0 Disclosure and Reporting Requirements
-
-		V.D.5.0 Automatic or Immediate Effectiveness for Filings by Affected Funds Conducting Certain Continuous Offerings
-
-	V.E.0.0 Agency Action to Minimize Effe ct on Small Entitie s
-
-		V.E.1.0 Alternatives to the Adopted Approach to Implementing Statutory Mandates
-
-		V.E.2.0 Alternative Approaches to Discretionary Choices
-
-VI.0.0.0 OTHER MATTERS
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
-C onformed to Federal Register version
+Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION
 
@@ -644,7 +404,7 @@ We are adopting, as proposed, a requirement that all affected funds tag certain 
 
 We will require affected funds to tag the following prospectus disclosure items using Inline XBRL format: Fee Table; Senior Securities Table; Investment Objectives and Policies; Risk Factors; Share Price Data; and Capital Stock, Long-Term Debt, and Other Securities. <sup>242</sup> We continue to believe that these items are of greatest utility for
 
-<h>5. Dividend Reinvestment Plans” to Form N-2. See Dechert Comment Letter; IPA Comment Letter. The new check box will not affect that ability.investors and other data users that seek structured data to analyze and compare funds, as they provide important information about a fund’s key features, costs, and risks. <sup>243</sup> We believe tagging the Fee Table, which provides detailed information about the fund’s costs, could facilitate analysis of fund costs and allow investors and other data users to compare the costs of a particular affected fund to the costs of other funds or other investment products, such as mutual funds. The Senior Securities Table requires registrants to include information about each class of senior securities, including bank loans. Tagging this information will facilitate analyses of outstanding senior securities that may bear on the likelihood, frequency, and size of distributions from the fund to itsinvestors. Tagging Investment Objectives and Policies, which provides information about the fund’s principal portfolio emphasis, will help an investor determine the degree to which a fund’s objectives and policies align with the investor’s preferences. Risk Factors describes risks associated with an investment in the fund. Tagging Risk Factors will facilitate the aggregation, analysis, and comparison by investors and other data users of information about a fund’s risks alongside the fund’s features and benefits. Tagging Share Price Information is important because the presence of a premium or discount may bear on the likelihood, frequency, and size of distributions from the fund to its investors, which we believe may be of particular importance to many affected fund investors.</h>
+5. Dividend Reinvestment Plans” to Form N-2. See Dechert Comment Letter; IPA Comment Letter. The new check box will not affect that ability.investors and other data users that seek structured data to analyze and compare funds, as they provide important information about a fund’s key features, costs, and risks. <sup>243</sup> We believe tagging the Fee Table, which provides detailed information about the fund’s costs, could facilitate analysis of fund costs and allow investors and other data users to compare the costs of a particular affected fund to the costs of other funds or other investment products, such as mutual funds. The Senior Securities Table requires registrants to include information about each class of senior securities, including bank loans. Tagging this information will facilitate analyses of outstanding senior securities that may bear on the likelihood, frequency, and size of distributions from the fund to itsinvestors. Tagging Investment Objectives and Policies, which provides information about the fund’s principal portfolio emphasis, will help an investor determine the degree to which a fund’s objectives and policies align with the investor’s preferences. Risk Factors describes risks associated with an investment in the fund. Tagging Risk Factors will facilitate the aggregation, analysis, and comparison by investors and other data users of information about a fund’s risks alongside the fund’s features and benefits. Tagging Share Price Information is important because the presence of a premium or discount may bear on the likelihood, frequency, and size of distributions from the fund to its investors, which we believe may be of particular importance to many affected fund investors.
 
 Tagging Capital Stock, Long-Term Debt, and Other Securities better informs commonamended Form N-2. This information largely parallels similar information contained in the Form N-1A risk/return summary. See Item 2 (Risk/Return Summary: Investment Objectives/Goals), Item 3 (Risk/Return Summary: Fee Table), and Item 4 (Risk/Return Summary: Investments, Risks and Performance) of Form N-1A.shareholders how their rights, expenses, and risks are affected when the fund issues other types or classes of securities. We also continue to believe that these items are best suited to being tagged in a structured format.
 
@@ -662,7 +422,7 @@ We will require submission of filings on Form 24F-2 in a structured XML format. 
 
 Because Form 24F-2 is primarily used by Commission staff to validate registration fees paid by issuers and not for financial reporting purposes, we continue to believe that a custom XML schema will be an appropriate format for the required information. For example, while XBRL allows issuers to capture the rich complexity of financial information presented in accordance with GAAP, we believe that XML is more appropriate for the relatively simple characteristics of the fund’s fee information inwould best be taken up on a separate, holistic basis, for BDCs and operating companies alike, rather than in the context of this final rule.reports on Form 24F-2. <sup>262</sup> In addition we continue to believe that the XML format will improve the quality of information disclosed by providing a built-in validation framework of the data in the reports. <sup>263</sup> We therefore will require reports on Form 24F-2 to be filed in a structured XML format, as proposed.
 
-<h>1. Periodic Reporting Requirements</h>
+<h>2. Periodic Reporting Requirements</h>
 
 We are also adopting new annual report requirements, as proposed. As we discussed in the Proposing Release, we expect several of the reforms we are adopting in this release, such as those relating to automatically effective shelf registration, forward incorporation by reference, and final prospectus delivery, will elevate the importance of periodic reporting relative to prospectus disclosure for affected funds.
 
@@ -728,7 +488,7 @@ For example, one commenter suggested that the Commission, rather than require di
 
 In addition, this requirement parallels the current requirement for operating companies that use the offering rules. <sup>305</sup> These commenters, however, provide no basis for distinguishing affected funds from those operating companies that are already subject to the requirement. After considering comments received, and because we continue tobelieve that these disclosure requirements will provide an incentive for affected funds to timely resolve staff comments and that investors may value information about areas of disagreement that the issuer believes are material, we are adopting the requirement as proposed. <sup>306</sup>
 
-<h>2. Current Reporting Requirements for Affected Funds</h>
+<h>3. Current Reporting Requirements for Affected Funds</h>
 
 As discussed in the Proposing Release, operating companies and BDCs are required to promptly report certain events on Form 8-K, while registered CEFs generally are not required to report on Form 8-K. The Commission proposed to require registered CEFs to report information on Form 8-K to enhance parity with operating companies and BDCs, to improve information for investors and the market, and to recognize the role of Form 8-K reporting in the <sup>2005</sup> offering reform amendments. <sup>307</sup> It also proposed to amend Form 8-K to: (1) add two new reporting items for affected funds on materialchanges to investment objectives or policies and material write-downs of significant investments, and (2) adapt the existing reporting requirements and instructions to affected funds. As discussed in more detail below, in response to comments, we are not adopting the proposed Form 8-K amendments. <sup>308</sup> However, we will continue to consider current reporting more generally as part of our ongoing review of the effectiveness of investment company disclosure.
 
@@ -754,11 +514,11 @@ Although registered CEFs generally will not be required to file reports on Form 
 
 We are similarly not adopting the other proposed amendments to Form 8-K, including the two proposed reporting items regarding material changes to investment objectives or policies and material write-downs. <sup>326</sup> Although the two proposed reporting items also would have applied to BDCs, we are not adopting these current reporting requirements for any affected funds. Commenters generally opposed these proposedreporting items and argued that existing disclosure is adequate. <sup>327</sup> We will continue to consider the adequacy of affected fund disclosure, including the availability and timeliness of information about material changes in investment objectives or policies and material write-downs of significant investments, as part of our ongoing review of the effectiveness of investment company disclosure. <sup>328</sup> Rather than establish new current reporting requirements for affected funds on a piecemeal basis in this release, we believe it is more appropriate to consider current reporting in connection with a broader,systematic review of investment company disclosure.
 
-<h>3. Online Availability of Information Incorporated by Reference</h>
+<h>4. Online Availability of Information Incorporated by Reference</h>
 
 We are adopting, as proposed, amendments to Form N-2’s General Instruction for Incorporation by Reference. <sup>329</sup> All registered CEFs and BDCs currently can backward incorporate their financial information from previously-filed Exchange Act reports into the prospectus or SAI. However, Form N–2 currently requires that a fund provide to new purchasers a copy of all previously-filed materials that the fund incorporated by reference into the prospectus and/or SAI. <sup>330</sup> Under the amendments, and as proposed, we are removing the requirement that a fund deliver to new investors information that it hasincorporated by reference into the prospectus or SAI. <sup>331</sup> These amendments will allow the fund to make its prospectus, SAI, and the incorporated materials readily available and accessible on a website identified in the fund’s prospectus and SAI. <sup>332</sup> Affected fundswill also be required to provide incorporated materials upon request free of charge. We believe this approach will improve the online accessibility of the prospectus and SAI and any documents that are incorporated by reference for investors that wish to review such information online, and will facilitate the efficient use of incorporation by reference byaffected funds. <sup>333</sup> The only commenter who addressed this approach supported it, <sup>334</sup> and we are adopting it as proposed.
 
-<h>4. Amendments to Certain Registered CEFs’ Annual Report</h>
+<h>5. Amendments to Certain Registered CEFs’ Annual Report</h>
 
 Disclosure
 
@@ -836,11 +596,9 @@ Affected funds currently can conduct shelf offerings under rule 415(a)(1)(x) if 
 
 <h>3. Current Disclosure Obligations of Affected Funds</h>
 
-Affected funds differ in their periodic and current reporting obligations. Like operating companies, BDCs file annual reports with audited financials on Form 10-K, quarterly reports with unaudited financials on Form 10-Q, and current reports on Form 8-
+Affected funds differ in their periodic and current reporting obligations. Like operating companies, BDCs file annual reports with audited financials on Form 10-K, quarterly reports with unaudited financials on Form 10-Q, and current reports on Form 8-K. Registered CEFs file annual reports to shareholders with audited financials and semi- annual reports to shareholders with unaudited financials on Form N-CSR. Listed registered CEFs are also subject to exchange rules that require listed issuers to providethe market current information in response to certain events ( e.g. , dividends announcements through a press release or report on Form 8-K). <sup>366</sup>
 
-<h>K. Registered CEFs file annual reports to shareholders with audited financials and semi- annual reports to shareholders with unaudited financials on Form N-CSR. Listed registered CEFs are also subject to exchange rules that require listed issuers to providethe market current information in response to certain events ( e.g. , dividends announcements through a press release or report on Form 8-K). <sup>366</sup></h>
-
-<h>B. Pote ntial Benefits Resulting from the Propose d Imple me ntation of the Statutory Mandate s</h>
+<h>B. Potential Benefits Resulting from the Proposed Implementation of the Statutory Mandates</h>
 
 As discussed, the amendments to implement the statutory mandates are designed to provide securities offering parity between affected funds and operating companies and streamline the registration process for BDCs and registered CEFs, consistent with the BDC Act and the Registered CEF Act. We believe that the final rule will achieve this goal and consequently result in significant benefits in a number of areas, including by improving access to the public capital markets and possibly lowering the cost of capitalby, among other things, modifying our rules related to affected funds’ ability to qualify as
 
@@ -952,9 +710,9 @@ T A BLE 4
 
 Notes:
 
-<h>1. T he current average registration fee paid in year 1 is the average of the actual fees reported by the interval funds in the Calculation of Registration Fee table in Form N-2 in the year of registration with the Commission. For purposes of this analysis, we assume that interval funds did not register additional securities in years 2 or 3. If they did, the average registration fees under the current framework would be higher than $31,501.</h>
+1. T he current average registration fee paid in year 1 is the average of the actual fees reported by the interval funds in the Calculation of Registration Fee table in Form N-2 in the year of registration with the Commission. For purposes of this analysis, we assume that interval funds did not register additional securities in years 2 or 3. If they did, the average registration fees under the current framework would be higher than $31,501.
 
-<h>2. For each of the interval funds, the fees in years 1, 2, and 3 are estimated as [(dollar proceeds from shares issued + dollar cost of shares repurchased) / $1,000,000] x $129.80. T he $129.80 is the fee rate (per million dollars) that funds pay to register shares for fiscal year 2020. Then we calculate the average fees per year.</h>
+2. For each of the interval funds, the fees in years 1, 2, and 3 are estimated as [(dollar proceeds from shares issued + dollar cost of shares repurchased) / $1,000,000] x $129.80. T he $129.80 is the fee rate (per million dollars) that funds pay to register shares for fiscal year 2020. Then we calculate the average fees per year.
 
 Under the current regime, an interval fund would pay on average $31,501 at the time of filing, and then issue and repurchase securities over time. Under the regime weare adopting, the interval fund will pay its registration fees on a net basis once a year. Since the final rule allows interval funds to shift more of the fee payments to the future, it will decrease their cost of offering securities. An interval fund will, however, be required to annually file Form 24F-2. <sup>420</sup> We estimate the annual burden of filing Form 24F-2 for interval funds will be $140 per fund. <sup>421</sup>
 
@@ -962,7 +720,7 @@ We believe the final rule will provide similar benefits to certain ETPs that are
 
 As an alternative, we considered allowing a wider range of affected funds, such as registered CEFs that are tender offer funds, to rely on rule 24f-2. This approach wouldhave extended the benefits of rule 24f-2 to additional affected funds. However, as discussed above, interval funds have structural similarities to mutual funds and ETFs that other affected funds do not. In particular, interval funds routinely repurchase shares at NAV and are required to periodically offer to repurchase their shares, and therefore are more likely to realize the operational benefits of computing registration fees on a net annual basis than are funds that are not required to periodically offer to repurchase their shares at NAV.
 
-<h>1. Structured Data Requirements</h>
+<h>2. Structured Data Requirements</h>
 
 The final rule includes new structured data reporting requirements for affected funds. Specifically, all affected funds will be required to tag in Inline XBRL formatcertain Form N-2 prospectus disclosure items. All affected funds also will be required to tag the information on the cover page of Form N-2 using Inline XBRL. Finally, BDCs will be required to tag financial statement information using Inline XBRL.
 
@@ -992,9 +750,7 @@ One commenter cited a study by the European Securities and Markets Authority est
 
 According to AICPA Study (Aug. 18, 2018), available athttps:// www.aicpa.org/press/pressreleases/2018/xbrl-costs-have-declined-according-to-aicpa-study.html; CFA Institute, The Cost of Structured Data: Myth vs. Reality (2017) , available at https: //w ww .cfainstitute.org/-/media/documents/survey/the-cost-of-structured-data-myth-vs-reality-august-2017.ashx.outsourcing, the study estimates the costs to be on average around 13,000 euros for the first filing and 4,600 euros for each subsequent filing. However, we do not believe that these figures the commenter cited are salient to the structured data requirements we are adopting. For example, although not cited by the commenter, the same study mentions that in the United States, because of the detailed tagging and extended taxonomy, the average costs for outsourcing the preparation of the financial statements in XBRL is higher, between 9,000 euros and 19,000 euros. <sup>433</sup>
 
-As an alternative, we could have allowed but not required affected funds to present cover page, financial statement, and certain prospectus disclosure information in Inline XBRL. Compared to the final rule, a fully voluntary Inline XBRL program would lower costs for those filers that do not find Inline XBRL to be cost efficient. We also could have required Inline XBRL tagging only for a subset of affected funds—forexample, affected funds that file short-form registration statements on Form N-2 or WKSIs. We also could have permitted more than one structured data format or left the precise format unspecified. However, a voluntary program or the use of multiple structured data formats would also reduce potential data quality benefits compared to mandatory Inline XBRL, as would a program that captures only a subset of affected funds. If the information were not submitted by all affected funds in a standardized, structured, machine-readable format, investors who seek to instantly analyze, aggregate,https://www.esma.europa.eu/sites/default/files/library/2016- 1668_esma_feedback_statement_on_the_rts_on_esef_0.pdf .and compare the data would have to incur the costs of paying a third-party service provider to manually rekey the data, review the data for data quality problems during the duplication process, and disseminate the data to the investors. <sup>434</sup> Alternatively, investors unwilling to pay a third-party service provider would have to incur the time to do that process themselves. In either scenario, the data would not be usable in as timely a manner as if it were made machine-readable in a standardized format. In addition, under a voluntary program, data that is not submitted in Inline XBRL would not be validated,thus decreasing the overall data quality of the data submitted. Unlike the machine- readable Inline XBRL format, data submitted in unstructured formats ( e.g. , HTML,
-
-ASCII) is not machine-readable at the element level and thereby cannot be validated by
+As an alternative, we could have allowed but not required affected funds to present cover page, financial statement, and certain prospectus disclosure information in Inline XBRL. Compared to the final rule, a fully voluntary Inline XBRL program would lower costs for those filers that do not find Inline XBRL to be cost efficient. We also could have required Inline XBRL tagging only for a subset of affected funds—forexample, affected funds that file short-form registration statements on Form N-2 or WKSIs. We also could have permitted more than one structured data format or left the precise format unspecified. However, a voluntary program or the use of multiple structured data formats would also reduce potential data quality benefits compared to mandatory Inline XBRL, as would a program that captures only a subset of affected funds. If the information were not submitted by all affected funds in a standardized, structured, machine-readable format, investors who seek to instantly analyze, aggregate,https://www.esma.europa.eu/sites/default/files/library/2016- 1668_esma_feedback_statement_on_the_rts_on_esef_0.pdf .and compare the data would have to incur the costs of paying a third-party service provider to manually rekey the data, review the data for data quality problems during the duplication process, and disseminate the data to the investors. <sup>434</sup> Alternatively, investors unwilling to pay a third-party service provider would have to incur the time to do that process themselves. In either scenario, the data would not be usable in as timely a manner as if it were made machine-readable in a standardized format. In addition, under a voluntary program, data that is not submitted in Inline XBRL would not be validated,thus decreasing the overall data quality of the data submitted. Unlike the machine- readable Inline XBRL format, data submitted in unstructured formats ( e.g. , HTML, ASCII) is not machine-readable at the element level and thereby cannot be validated by
 
 EDGAR in any way. Thus, data submitted in the HTML format by affected funds that opted not to use Inline XBRL and XBRL data submitted by other affected funds could be different due to the level of pre-submission validation activities. Poor data quality reduces any data user’s ability to meaningfully analyze, aggregate, and compare data.
 
@@ -1006,7 +762,7 @@ As another alternative, we could have expanded the scope of prospectus disclosur
 
 We also are requiring issuers that file Form 24F-2 (including mutual funds and ETFs, as well as interval funds) to submit the form in a structured XML format. <sup>438</sup> We believe using a structured data format will make it easier for issuers to accurately prepare and submit the information Form 24F-2 requires and will make the submitted information more useful to Commission staff. Automated validation processes could help issuers compute registration fees accurately before submitting the filing, which could reduce administrative burdens associated with correcting inaccurate filings. A structured filing format could also facilitate pre-population of previously-filed information. We estimate the cost of tagging Form 24F-2 in a structured XML format to be $542 per fund. <sup>439</sup>
 
-<h>2. Periodic Reporting Requirements</h>
+<h>3. Periodic Reporting Requirements</h>
 
 We are adopting certain new annual report requirements for affected funds that file a short-form registration statement on Form N-2. These funds must include in their$271 per hour) per fund.annual reports certain information that they currently disclose in their prospectus—a table of fees and expenses, share price information, and a table of senior securities—and a discussion of material unresolved staff comments. <sup>440</sup> In addition, all BDCs will be required to include financial highlights in their registration statements and annualreports. <sup>441</sup> We also are requiring all registered CEFs to provide management’s discussion of fund performance in their annual reports. <sup>442</sup> Finally, registered CEFs that rely on rule 8b-16(b) under the Investment Company Act to avoid annually updating their registration statements will be required to describe in their annual reports the fund’s current investment objectives and policies, and principal risks, and to provide more expansive disclosure about certain key changes that occurred during the relevant year in enough detail to allow investors to understand each change and how it may affect the fund. <sup>443</sup> We believe these requirements will promote investor protection by making important information more readily accessible to investors.
 
@@ -1022,7 +778,7 @@ We considered adopting additional MDFP requirements, such as requirements to:(1)
 
 Under the amendments to rule 8b-16, registered CEFs relying on paragraph (b) of the rule must describe in their annual reports the fund’s current investment objectives and policies, and principal risks, and certain key changes that occurred during the relevantyear in enough detail to allow investors to understand each change and how it may affect the fund. We estimate that approximately 521 registered CEFs relied on rule 8b-16 as of December 31, 2019 and will therefore provide the new disclosure. <sup>446</sup> These registered CEFs also will be required to preface disclosure of these key changes with a legend clarifying that the disclosures provide only a summary of certain changes that have occurred in the past year, and that the summary may not reflect all of the changes that have occurred. We believe these new disclosure requirements will allow investors in funds relying on rule 8b-16(b) to more easily identify and understand key information about their investments by providing such information in one place. Because these funds are already required to disclose in their annual reports the enumerated changes to specified Form N-2 disclosure items—and therefore already must have and maintain, among other things, updated information about the investment objectives, policies and principal risks that we are requiring them to disclose in full—the new requirement will likely add only a small incremental compliance burden.
 
-<h>3. Discretionary Amendments to Incorporation by Reference Requirements</h>
+<h>4. Discretionary Amendments to Incorporation by Reference Requirements</h>
 
 The final rule will modernize Form N-2’s requirements for backward incorporation by reference for all affected funds. <sup>447</sup> Specifically, we are requiring that an affected fund make information that is incorporated by reference into its prospectus or
 
@@ -1040,7 +796,7 @@ Alternatively, we could have retained Form N-2’s current backward incorporatio
 
 We are also modifying Form N-14 to decrease the disclosure burden of the form and reduce the length of Form N-14 prospectuses in certain circumstances. <sup>457</sup> The amendments will allow BDCs to incorporate by reference to the same extent as registered CEFs. This will provide for more consistent treatment between registered CEFs and BDCs. We also are eliminating the requirement that registrants file with the Form N-14 registration statement the documents containing the information that is incorporated byreference into the prospectus or SAI, thus decreasing compliance costs. Commentersgenerally supported these changes. <sup>458</sup>
 
-<h>4. Automatic or Immediate Effectiveness of Filings by Affected Funds Conducting Certain Continuous Offerings</h>
+<h>5. Automatic or Immediate Effectiveness of Filings by Affected Funds Conducting Certain Continuous Offerings</h>
 
 In response to comments, the final rule will allow any registered CEF or BDC that conducts continuous offerings under rule 415(a)(1)(ix) to file post-effective amendments and certain registration statements that become effective immediately upon filing or automatically <sup>60</sup> days after filing. <sup>459</sup> We believe this rule amendment will allow these unlisted continuously-offered affected funds to maintain effective registration statements in a more efficient, cost-effective manner, similar to the benefits the final rule provides to affected funds that file short-form registration statements or qualify as WKSIs. Under the amendments, continuously-offered unlisted affected funds, which generally will notqualify as WKSIs or be eligible to file short-form registration statements because they do not have public float, will be able to more efficiently update their financial statements under section 10(a)(3) of the Securities Act to maintain effective registration statements while they engage in continuous offerings. One commenter stated that allowing continuously-offered unlisted affected funds to rely on rule <sup>486</sup> would benefit investors in these funds by allowing the funds to avoid the time and expense of an annual staffreview of registration statements where no changes are made beyond immaterial updates and updates to audited financial information. <sup>460</sup>
 
@@ -1056,9 +812,9 @@ TABLE 5 : COLLECTIONS OF INFORMATION
 
 Notes:
 
-<h>1. Recently, we issued a release that, among other things, retitled this collection of information (previously, “ Mutual Fund Interactive Data”) “ Investment Company Interactive Data.” See Variable Contract Summary Prospectus Adopting Release, supra footnote</h>
+1. Recently, we issued a release that, among other things, retitled this collection of information (previously, “ Mutual Fund Interactive Data”) “ Investment Company Interactive Data.” See Variable Contract Summary Prospectus Adopting Release, supra footnote
 
-<h>2. T he paperwork burdens for the rules under section 8(b) of the Investment Company Act are imposed through the forms and reportsthat are subject to the requirements in these rules and are reflected in the PRA burdens of those documents. To avoid a PRA inventory reflecting duplicative burdens and for administrative convenience, we assign a one-hour burden to these rules.</h>
+2. T he paperwork burdens for the rules under section 8(b) of the Investment Company Act are imposed through the forms and reportsthat are subject to the requirements in these rules and are reflected in the PRA burdens of those documents. To avoid a PRA inventory reflecting duplicative burdens and for administrative convenience, we assign a one-hour burden to these rules.
 
 The rules, forms, and regulations listed above were adopted under the Securities Act, the Exchange Act, or the Investment Company Act. They set forth the disclosure requirements for registration statements, prospectuses, periodic reports, and certified shareholder reports that are prepared by registrants to help investors make informed investment and voting decisions. They also permit additional communications by registrants during a registered offering. The final amendments will allow affected funds to use the securities offering rules that are already available to operating companies. Inaddition, the final rule includes amendments to our rules and forms intended to tailor the disclosure and regulatory framework to affected funds.
 
@@ -1116,13 +872,13 @@ Annual External Cost Burden
 
 Notes:
 
-<h>1. See Proposing Release, supra footnote at section IV.B.1.</h>
+1. See Proposing Release, supra footnote at section IV.B.1.
 
-<h>2. See supra at footnote 2.</h>
+2. See supra at footnote 2.
 
 TABLE 8 : FINAL FORM N– 2 PRA ESTIMATES
 
-Table <sup>6</sup> above summarizes the current PRA estimates associated with the requirements of Form N-2. Table <sup>7</sup> summarized the proposed PRA estimates included in the Proposing Release. <sup>469</sup> Table <sup>8</sup> summarizes the final PRA estimates associated with Form N-2 as amended. We did not receive public comment on our proposed PRA estimates, but we are revising our estimates as a result of updated industry data.
+Table 6 above summarizes the current PRA estimates associated with the requirements of Form N-2. Table 7 summarized the proposed PRA estimates included in the Proposing Release. <sup>469</sup> Table <sup>8</sup> summarizes the final PRA estimates associated with Form N-2 as amended. We did not receive public comment on our proposed PRA estimates, but we are revising our estimates as a result of updated industry data.
 
 Specifically, we are revising the estimated wage rates, the estimated number of affected funds, and the estimated number of annual initial registration statement and post-effective amendment filings to reflect updated industry data.
 
@@ -1148,9 +904,9 @@ TABLE 9 : PROPOSED AND FINAL STRUCTURED DATA REPORTING PRA ANALYSIS
 
 Notes:
 
-<h>1. Includes initial and ongoing burden estimates annualized over a three-year period. Here, as discussed in the Proposing Release, supra footnote at section V.B.2, we assumed that the one-time cost would result in a 50% incremental increase in the internal burdens and external costs of the BDC financial information and Form N-2 disclosure requirements (items I and III in the chart above) during the first year, and would subsequently decline in the second and third years by 75% from the immediately-preceding year.</h>
+1. Includes initial and ongoing burden estimates annualized over a three-year period. Here, as discussed in the Proposing Release, supra footnote at section V.B.2, we assumed that the one-time cost would result in a 50% incremental increase in the internal burdens and external costs of the BDC financial information and Form N-2 disclosure requirements (items I and III in the chart above) during the first year, and would subsequently decline in the second and third years by 75% from the immediately-preceding year.
 
-<h>2. The proposed estimates are discussed in additional detail in the Proposing Release, supra footnote at section V.B.2.</h>
+2. The proposed estimates are discussed in additional detail in the Proposing Release, supra footnote at section V.B.2.
 
 Table 9 summarizes the proposed PRA estimates included in the Proposing
 
@@ -1184,9 +940,9 @@ TABLE 11 : FORM 10-K INCREMENTAL BURDEN ESTIMATES
 
 N otes:
 
-<h>1. See Proposing Release, supra footnote at section V.B.3.</h>
+1. See Proposing Release, supra footnote at section V.B.3.
 
-<h>2. Revised to reflect updated industry data.</h>
+2. Revised to reflect updated industry data.
 
 Table <sup>11</sup> summarizes the proposed incremental PRA burden estimates and the final incremental PRA burden estimates associated with the new annual report requirements for BDCs. We did not receive comments on our proposed estimates, but we have revised them as a result of updated industry data. Specifically, we are revising the estimated number of BDCs that will be subject to the new annual report requirements to reflect updated industry data. As summarized in Table <sup>11</sup> above, the revised additional burdens associated with the new annual report requirements for BDCs for purposes of the Form 10-K collection of information is <sup>218</sup> hours for internal time and external costs of$29,200.
 
@@ -1194,9 +950,9 @@ TABLE 12 : REQUESTED PAPERWORK BURDEN UNDER THE AMENDMENTS TO ANNUAL REPORT DISC
 
 N otes:
 
-<h>1. The rule 30e-1 estimates are based on the last time the rule’s information collections were approved, pursuant to a submission for a PRA extension in 2019. The Form 10-K estimates are based on the last time the form’s information collections were approved, pursuant to a submission for a PRA extension in 2019.</h>
+1. The rule 30e-1 estimates are based on the last time the rule’s information collections were approved, pursuant to a submission for a PRA extension in 2019. The Form 10-K estimates are based on the last time the form’s information collections were approved, pursuant to a submission for a PRA extension in 2019.
 
-<h>2. As reflected in and the number of registered CEFs and the number of BDCs that will need to comply with the new annual report disclosure requirements will vary depending on the type of new disclosure, although all registered CEFs (686) and all BDCs (105) will be required to provide some additional annual report disclosure.</h>
+2. As reflected in and the number of registered CEFs and the number of BDCs that will need to comply with the new annual report disclosure requirements will vary depending on the type of new disclosure, although all registered CEFs (686) and all BDCs (105) will be required to provide some additional annual report disclosure.
 
 As summarized above in Table 12, the revised aggregate estimates, including the new amendments, for rule 30e-1 are 1,039,868 hours and $149,244,791 in external costs. The revised aggregate estimates for Form 10-K, including the new amendments, are 14,198,998 hours and $1,895,253,919 in external costs.4. Securities Offering Communications
 
@@ -1214,11 +970,11 @@ TABLE 14 : Calculation of the Incremental Change in Burden Estimates of Current 
 
 Number of Estimated Affected Responses
 
-<h>A. 1 2</h>
+A. 1 2
 
 Burden Hour Increase per current Affected Response
 
-<h>B. 3</h>
+B. 3
 
 Increase in Burden Hours for Current Affected Responses (C)= (A) x (B)
 
@@ -1230,11 +986,11 @@ Increase in Professional Costs for Current Affect Responses (F)= (E) x$400
 
 Notes:
 
-<h>1. For a number of reasons, many issuers that are currently eligible to be WKSIs do not make use of free writing prospectuses in reliance on rule 163. At the time the Commission adopted rule 163, it estimated that 53 free writing prospectuses would be filed under rule 163 per year. However, during the Commission’s 2017 fiscal year, only 10 free writing prospectuses in reliance on rule 163 were filed with the Commission. We estimate that 100 affected funds would be eligible to be WKSIs. See supra section . If current practices regarding the use of free writing prospectuses under rule 163 continue with respect to affected funds, we do not believe that these affected funds would significantly increase the number of free writing prospectuses under rule 163. Accordingly, we estimate that, on average, affected funds that are eligible to be WKSIs would file 2 free writing prospectuses under the amendments to rule 163 each year.</h>
+1. For a number of reasons, many issuers that are currently eligible to be WKSIs do not make use of free writing prospectuses in reliance on rule 163. At the time the Commission adopted rule 163, it estimated that 53 free writing prospectuses would be filed under rule 163 per year. However, during the Commission’s 2017 fiscal year, only 10 free writing prospectuses in reliance on rule 163 were filed with the Commission. We estimate that 100 affected funds would be eligible to be WKSIs. See supra section . If current practices regarding the use of free writing prospectuses under rule 163 continue with respect to affected funds, we do not believe that these affected funds would significantly increase the number of free writing prospectuses under rule 163. Accordingly, we estimate that, on average, affected funds that are eligible to be WKSIs would file 2 free writing prospectuses under the amendments to rule 163 each year.
 
-<h>2. The most recent data that we have available shows that each operating company files an average of approximately 5.4 free writing prospectuses per year in reliance on rule 433. We estimate that there will be 791 affected funds filing approximately 4,271 free writing prospectuses. See supra section .</h>
+2. The most recent data that we have available shows that each operating company files an average of approximately 5.4 free writing prospectuses per year in reliance on rule 433. We estimate that there will be 791 affected funds filing approximately 4,271 free writing prospectuses. See supra section .
 
-<h>3. The burden hour estimates for rules 163 and 433 are based on the last time the rules’ information collections were approved, pursuant to a submission for a PRA extension in 2017. The conditions under rule 433 to use a free writing prospectus, require a free writing prospectus to contain more information and contribute to the greater burden hour than for a rule 163 free writing prospectus.</h>
+3. The burden hour estimates for rules 163 and 433 are based on the last time the rules’ information collections were approved, pursuant to a submission for a PRA extension in 2017. The conditions under rule 433 to use a free writing prospectus, require a free writing prospectus to contain more information and contribute to the greater burden hour than for a rule 163 free writing prospectus.
 
 The following table summarizes the requested paperwork burden, including the estimated total reporting burdens and costs, under the proposed amendments.
 
@@ -1252,11 +1008,11 @@ TABLE <sup>16</sup> : RULE <sup>173</sup> ( Calculation of the Incremental Chang
 
 N otes:
 
-<h>1. In the Proposing Release we estimated that all 807 affected funds would rely on rule 173. See supra footnote at section</h>
+1. In the Proposing Release we estimated that all 807 affected funds would rely on rule 173. See supra footnote at section
 
 V.B.5. However, because only a fund with an effective Securities Act registration statement may rely on rule 173, we are revising our estimates. Based on our staff’s review of Form N-2 Securities Act registration statements filed annually between <sup>2017</sup> and 2019, we estimate 382 annual filings, each by a different affected fund. We estimate that each such fund will provide 43,546 responses annually, for a total of 16,634,572 annual responses per year (382 funds x 43,546 responses annually = 16,634,572).
 
-<h>2. The estimated burden hour per response of 0.0167 hours derives from the most recently-approved rule 173 PRA submission (2017).</h>
+2. The estimated burden hour per response of 0.0167 hours derives from the most recently-approved rule 173 PRA submission (2017).
 
 The following table summarizes the total PRA burden, including the estimated total reporting burdens and costs, for rule <sup>173</sup> as a result of the amendments. As reflected below, the revised aggregate hourly burden associated with rule <sup>173</sup> as a result of the amendments is 4,159,688 internal burden hours, with no external costs.
 
@@ -1268,19 +1024,17 @@ TABLE 18 : FORM 24F-2 PRA ESTIMATES
 
 Notes:
 
-<h>1. See supra at footnote 2.</h>
+1. See supra at footnote 2.
 
-<h>2. This estimate was previously submitted to OMB in connection with the renewal of approval for the collection of information required by Form 24F-2 in 2018.</h>
+2. This estimate was previously submitted to OMB in connection with the renewal of approval for the collection of information required by Form 24F-2 in 2018.
 
-<h>3. Proposing Release, supra footnote at section IV.B.7.</h>
+3. Proposing Release, supra footnote at section IV.B.7.
 
-<h>4. Estimate revised to reflect updated data. Based on a review of Form 24F-2 filings for the period 2017-2019, the staff estimates that 6,741 filings will be made annually, and that 53 interval funds (representing the 3-year average of interval funds registered with the Commission) will file Form 24F-2 as a result of the final amendments (6,741 + 53 = 6,794).</h>
+4. Estimate revised to reflect updated data. Based on a review of Form 24F-2 filings for the period 2017-2019, the staff estimates that 6,741 filings will be made annually, and that 53 interval funds (representing the 3-year average of interval funds registered with the Commission) will file Form 24F-2 as a result of the final amendments (6,741 + 53 = 6,794).
 
 Table 18 above summarizes the current PRA estimates, the proposed PRAestimates, and the final PRA estimates associated with the requirement to file reports on Form 24F-2. <sup>486</sup> We did not receive public comment on our proposed estimates, but we have revised them as a result of updated industry data. Specifically, we are revising the estimated wage rates and estimated number of funds that will be subject to the requirements of Form 24F-2 to reflect updated industry data. As summarized in Table <sup>18</sup> above, the revised aggregate estimates for Form 24F-2, including the new amendments, are 27,176 hours, with no external costs.
 
-<h>1. Amendments Permitting the Registration of Offerings of an</h>
-
-Indeterminate Number of Exchange-Traded Vehicle Securities and the Payment of Registration Fees for Such Offerings on an Annual Net Basis
+<h>7. Amendments Permitting the Registration of Offerings of an Indeterminate Number of Exchange-Traded Vehicle Securities and the Payment of Registration Fees for Such Offerings on an Annual Net Basis</h>
 
 The amendments to certain Securities Act rules and to Forms S-1, S-3, F-1 and F-3 will allow issuers of exchange-traded vehicle securities to elect to register offeringsof an indeterminate number of such securities and pay registration fees for these offerings on an annual net basis. We estimate that the amendments will increase the paperwork burden for registration statements on Form S-1 and Form S-3 for such offerings due to the requirement to calculate and pay registration fees on an annual net basis within <sup>90</sup>days after the end of the fiscal year. <sup>487</sup> However, because these issuers will have the ability to elect to register offerings of an indeterminate number of such securities, we also estimate that the amendments will result in a decrease in the number of registrationstatements on these forms filed by these issuers and that, overall, the amendments willreduce the paperwork burdens associated with Form S-1 and Form S-3. The amendments to Forms F-1 and F-3 are not expected to affect the burdens associated with those forms, in that we do not anticipate that any issuers at this time will use Form F-1 or Form F-3 to register offerings of an indeterminate number of exchange-traded vehicle securities and pay registration fees for these offerings on an annual net basis.
 
@@ -1300,7 +1054,7 @@ The following table illustrates the total annual compliance burden, in hours and
 
 TABLE 21. CURRENT AND REVISED BURDENS UNDER THE AMENDMENTS TO SECURITIES ACT REGISTRATION STATEMENTS
 
-<h>2. Amendments to Form N-14</h>
+<h>8. Amendments to Form N-14</h>
 
 Form N-14 is the form used by an affected fund for the registration of securities issued in business combination transactions. The amendments to Form N-14 will decrease the existing disclosure burden of the form by allowing BDCs to incorporate by reference to the same extent as is currently permitted for registered CEFs and eliminating the requirement for affected funds to file with the Form N-14 registration statement the documents that contain the information that is incorporated by reference into the prospectus or SAI. <sup>489</sup>
 
@@ -1320,11 +1074,11 @@ BURDEN P ER I N I T IAL FILING 310 hours × $415 (attorney) <sup>2</sup> $128,65
 
 Notes:
 
-<h>1. See supra at footnote 2.</h>
+1. See supra at footnote 2.
 
-<h>2. Estimate revised to reflect updated industry data.</h>
+2. Estimate revised to reflect updated industry data.
 
-<h>3. Estimate revised to reflect modifications from the proposal.</h>
+3. Estimate revised to reflect modifications from the proposal.
 
 Table <sup>22</sup> above summarizes the current PRA estimates associated with the requirements of Form N-14. Table <sup>23</sup> summarizes the final PRA amendments associated with Form N-14 as amended. We are revising our estimates as a result of updated industry data and modifications from the proposal. Specifically, we are deducting <sup>10</sup> hours of internal burden per filing to reflect the burden reduction associated with the incorporation by reference amendments affecting filings on Form N-14. In addition, we are revising the estimated wage rates to reflect updated industry data. As summarized in Table <sup>23</sup> above, we estimate that the total hour burdens and time costs associated with Form N-14 will be an aggregate burden of 125,260 hours at an aggregate annual cost of internal burden of $37,856,382. We estimate an aggregate annual external time cost of$5,842,000.
 

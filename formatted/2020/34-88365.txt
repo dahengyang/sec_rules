@@ -1,147 +1,3 @@
-https://www.sec.gov/rules/final/2020/34-88365.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 DISCUSSION OF THE FINAL AMENDMENTS
-
-	II.A.0.0 Background
-
-	II.B.0.0 Amendments to Exclude Low-Revenue SRCs from the Accelerated and Large Accelerated Filer Definitions
-
-		II.B.1.0 Proposed Amendments
-
-		II.B.2.0 Comments on the Proposed Amendments
-
-			II.B.2.a Comments on Using Revenue for Determining Accelerated and Large Accelerated Filer Status
-
-			II.B.2.b Comments on the Proposed Amendments’ Effect on Capital Formation and the Number of Public Issuers
-
-			II.B.2.c Comments on the Proposed Amendments’ Effect on Investor Protection
-
-			II.B.2.d Comments on the Disproportionate Costs and Benefits of the ICFR Auditor Attestation Requirement to Small and Low- Revenue Companies
-
-			II.B.2.e Comments on the Relationship Between Non-Accelerated Filers and SRCs
-
-			II.B.2.f Other Comments
-
-		II.B.3.0 Final Amendments
-
-			II.B.3.a Using Revenue for Determining Accelerated and Large Accelerated Filer Status
-
-			II.B.3.b Effect on Capital Formation and the Number of Public Companies
-
-			II.B.3.c Effect on Investor Protection
-
-			II.B.3.d Disproportionate Costs and Benefits of the ICFR Auditor Attestation for Small and Low-Revenue Companies
-
-			II.B.3.e Relationship Between Non-Accelerated Filers and SRCs
-
-			II.B.3.f Effect on Business Development Companies
-
-		II.B.1.0 has a public float of $75 million or more, but less than $700 million; and (2) has investment income of less than $100 million. The amendments to Rule 12b-2 provide that, for this purpose, a BDC’s revenue is the BDC’s investment income, as defined in Rule 6-07.1 of Regulation S-X. BDCs are subject to the same transition provisions for accelerated filer and large accelerated status that apply to other issuers under the amendments, except that the amendments’ BDC-specific “revenue” definition will apply to these transition provisions as well.
-
-			II.B.1.g Effect on Foreign Private Issuers
-
-			II.B.1.h Requiring ICFR Auditor Attestation Less Frequently than Annually
-
-			II.B.1.i Check Box Indicating Whether an ICFR Auditor Attestation is Included in a Filing
-
-	II.C.0.0 Amendments to Increase the Public Float Transition Thresholds from $50 million to $60 million and $500 million to $560 million and to Add the SRC Revenue Test to the Transition Threshold
-
-		II.C.1.0 Proposed Amendments
-
-		II.C.2.0 of the SRC definition. Once an issuer determines that it does not qualify for SRC status, it would apply paragraph (3)(iii)(B) of the SRC definition at its next annual determination.
-
-		II.C.2.0 Comments
-
-		II.C.3.0 Final Amendments
-
-	II.D.0.0 Transition Issues
-
-III.0.0.0 OTHER MATTERS
-
-IV.0.0.0 ECONOMIC ANALYSIS
-
-	IV.A.0.0 Introduction
-
-	IV.B.0.0 Baseline
-
-		IV.B.1.0 Regulatory Baseline
-
-		IV.B.2.0 Characteristics of Accelerated Filer Population
-
-		IV.B.3.0 Timing of Filings
-
-		IV.B.4.0 Internal Controls and Restatements
-
-	IV.C.0.0 Discussion of Economic Effects
-
-		IV.C.1.0 Affected Issuers
-
-		IV.C.2.0 Potential Benefits of Expanding the Exemption from the ICFR Auditor Attestation Requirement for Affected Issuers
-
-			IV.C.2.a Evidence on possible indirect costs of the ICFR auditor attestation requirement
-
-			IV.C.2.b Evidence on net costs of the ICFR auditor attestation requirement
-
-			IV.C.2.c Potential reduction in audit fees
-
-	IV.J.0.0 OF ACCT. AND PUB. POL’Y 21 (2017) (considering accelerated filers as a category, as opposed to large accelerated filers, but also finding a contemporaneous 42.7 percent increase in audit fees for non-accelerated filers even though were not subject to the ICFR auditor attestation requirement); and Susan Elridge & Burch Kealey, SOX Costs: Auditor Attestation under Section 404, Working Paper (2005), available at (considering accelerated filers in the lowest quintile of total assets).
-
-			IV.J.2.d Additional potential compliance cost savings
-
-			IV.J.2.e Implications of the cost savings
-
-		IV.J.3.0 Potential Costs of Expanding the Exemption from the ICFR Auditor Attestation Requirement for Affected Issuers
-
-			IV.J.3.a Broad considerations and evidence regarding the effects of ICFR auditor attestations on financial reporting
-
-	IV.K.0.0 R. Subramanyam, & K. Rachunandan, Internal Control Weakness and Cost of Equity: Evidence from SOX Section 404 Disclosures, 82(5) ACCT. REV. 1255 (2007) (“Ogneva et al. 2007 Study”). See also 2011 SEC Staff Study, note above, at 101-102.
-
-			IV.K.3.b Estimated effects on ICFR, the reliability of financial statements, and potential fraud
-
-			IV.K.3.c Implications for investor decision-making
-
-			IV.K.3.d Potential economic costs of effects on ICFR, the reliability of financial statements, and potential fraud
-
-		IV.K.4.0 Potential Benefits and Costs Related to Other Aspects of the Amendments
-
-			IV.K.4.a Filing deadlines
-
-			IV.K.4.b Disclosures required of accelerated filers
-
-			IV.K.4.c Transition thresholds
-
-			IV.K.4.d Disclosure
-
-		IV.K.5.0 Alternatives to the Amendments
-
-			IV.K.5.a Exclude all SRCs from accelerated filer category
-
-			IV.K.5.b Include or exclude certain issuer types
-
-			IV.K.5.c Alternative threshold
-
-V.0.0.0 PAPERWORK REDUCTION ACT
-
-	V.A.0.0 Summary of the Collections of Information
-
-	V.B.0.0 Burden and Cost Estimates Related to the Final Amendments
-
-		V.B.1.0 ICFR Auditor Attestation Requirement
-
-		V.B.2.0 Filing Deadlines, Disclosure Regarding Filing Availability, and Unresolved Staff Comments
-
-		V.B.3.0 Check Box Disclosure
-
-		V.B.4.0 Total Burden Reduction
-
-VI.0.0.0 REGULATORY FLEXIBILITY ACT ANALYSIS
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 229, 230, 240, and 249
@@ -348,9 +204,7 @@ Table 2. Relationships between SRCs and Non-Accelerated, Accelerated, and Large 
 
 <h>f. Effect on Business Development Companies</h>
 
-In a change from the proposal, the final amendments also exclude BDCs from the accelerated and large accelerated filer definitions under circumstances that are analogous to theexclusions for other issuers under the amendments. The amendments include a specific provision applicable to BDCs, because BDCs are not eligible to be SRCs and to provide a definition of “revenue” for BDCs to use for this purpose. <sup>230</sup> Specifically, a BDC will be excluded from the accelerated and large accelerated filer definitions in Rule 12b-2 if the BDC:
-
-<h>1. has a public float of $75 million or more, but less than $700 million; and (2) has investment income of less than $100 million. The amendments to Rule 12b-2 provide that, for this purpose, a BDC’s revenue is the BDC’s investment income, as defined in Rule 6-07.1 of Regulation S-X. BDCs are subject to the same transition provisions for accelerated filer and large accelerated status that apply to other issuers under the amendments, except that the amendments’ BDC-specific “revenue” definition will apply to these transition provisions as well.</h>
+In a change from the proposal, the final amendments also exclude BDCs from the accelerated and large accelerated filer definitions under circumstances that are analogous to theexclusions for other issuers under the amendments. The amendments include a specific provision applicable to BDCs, because BDCs are not eligible to be SRCs and to provide a definition of “revenue” for BDCs to use for this purpose. <sup>230</sup> Specifically, a BDC will be excluded from the accelerated and large accelerated filer definitions in Rule 12b-2 if the BDC: (1) has a public float of $75 million or more, but less than $700 million; and (2) has investment income of less than $100 million. The amendments to Rule 12b-2 provide that, for this purpose, a BDC’s revenue is the BDC’s investment income, as defined in Rule 6-07.1 of Regulation S-X. BDCs are subject to the same transition provisions for accelerated filer and large accelerated status that apply to other issuers under the amendments, except that the amendments’ BDC-specific “revenue” definition will apply to these transition provisions as well.
 
 Although the Commission did not propose to exclude BDCs from the accelerated and large accelerated filer definitions using the SRC revenue test, the Commission did solicit comment on such an approach and discussed the relative costs and benefits of this alternative in the Proposing Release. <sup>234</sup> In response, one commenter urged that we adopt such an approach, stating that, among other reasons, the policy reasons that support providing regulatory relief to smaller reporting companies should apply equally to smaller BDCs. <sup>235</sup> This commentersuggested that the Commission expand the proposed amendment to the definition of accelerated filer and large accelerated filer to exclude BDCs with total investment income of less than $80 million in the most recently completed fiscal year for which audited financial statements are available and either no public float or public float of less than $700 million.
 
@@ -612,9 +466,7 @@ However, as noted by a commenter, these survey findings represent the views of i
 
 While issuers disclose their total audit fees, they are not required to disclose the portion of these fees that is attributable to the ICFR auditor attestation requirement. Studies of the initial implementation of the ICFR auditor attestation requirement found that it was associated with a roughly 100 percent increase in audit fees for small accelerated filer s . <sup>404</sup> However, these early estimates likely include some initial start-up costs, which were found to diminish over time. <sup>405</sup> Further, these estimates do not incorporate the effect of later developments such as the adoption of AS 2201, which was expected to reduce compliance costs for smaller issuers, and the adoption of the new risk assessment auditing standards, which may reduce the incremental cost of an integrated audit over a financial-statement only audit.
 
-In the Proposing Release, we presented an analysis of audit fees from 2014-2017 for low- revenue issuers that are subject to the ICFR auditor attestation requirement compared to low- revenue issuers not subject to this requirement. <sup>406</sup> In particular, we compared audit fees in these$75 million public float threshold in a given year); Iliev 2010 Study, note <sup>376</sup> above (considering those accelerated filers with between $75 million and $100 million in public float); Michael Ettredge, Matthew Sherwood, & Lili Sun, Effects of SOX 404(b) Implementation on Audit Fees by SEC Filer Size Category , <sup>37</sup> (1)
-
-<h>J. OF ACCT. AND PUB. POL’Y 21 (2017) (considering accelerated filers as a category, as opposed to large accelerated filers, but also finding a contemporaneous 42.7 percent increase in audit fees for non-accelerated filers even though were not subject to the ICFR auditor attestation requirement); and Susan Elridge & Burch Kealey, SOX Costs: Auditor Attestation under Section 404, Working Paper (2005), available at (considering accelerated filers in the lowest quintile of total assets).recent years for accelerated filers that are subject to the ICFR auditor attestation requirement and have revenues of less than $100 million, relative to the audit fees of issuers in our comparison populations (non-accelerated filers, other than EGCs, and EGCs, neither of which is required to comply with the ICFR auditor attestation requirement) <sup>407</sup> that also have revenues of less than$100 million. Based on this analysis, and with consideration for the difference in size of the affected issuers versus the comparison sample, we derived a percentage estimate of 25 percent of total audit fees, and a dollar estimate of about $110,000 per year, that would be saved by issuers newly exempt from the ICFR auditor attestation requirement. <sup>408</sup> As discussed in more detail in the Proposing Release, the percentage estimate is generally consistent with the estimates, ranging from approximately five to 35 percent of total audit fees, from a variety of other analyses using data from after the 2007 change in the ICFR auditing standard.</h>
+In the Proposing Release, we presented an analysis of audit fees from 2014-2017 for low- revenue issuers that are subject to the ICFR auditor attestation requirement compared to low- revenue issuers not subject to this requirement. <sup>406</sup> In particular, we compared audit fees in these$75 million public float threshold in a given year); Iliev 2010 Study, note <sup>376</sup> above (considering those accelerated filers with between $75 million and $100 million in public float); Michael Ettredge, Matthew Sherwood, & Lili Sun, Effects of SOX 404(b) Implementation on Audit Fees by SEC Filer Size Category , <sup>37</sup> (1) J. OF ACCT. AND PUB. POL’Y 21 (2017) (considering accelerated filers as a category, as opposed to large accelerated filers, but also finding a contemporaneous 42.7 percent increase in audit fees for non-accelerated filers even though were not subject to the ICFR auditor attestation requirement); and Susan Elridge & Burch Kealey, SOX Costs: Auditor Attestation under Section 404, Working Paper (2005), available at (considering accelerated filers in the lowest quintile of total assets).recent years for accelerated filers that are subject to the ICFR auditor attestation requirement and have revenues of less than $100 million, relative to the audit fees of issuers in our comparison populations (non-accelerated filers, other than EGCs, and EGCs, neither of which is required to comply with the ICFR auditor attestation requirement) <sup>407</sup> that also have revenues of less than$100 million. Based on this analysis, and with consideration for the difference in size of the affected issuers versus the comparison sample, we derived a percentage estimate of 25 percent of total audit fees, and a dollar estimate of about $110,000 per year, that would be saved by issuers newly exempt from the ICFR auditor attestation requirement. <sup>408</sup> As discussed in more detail in the Proposing Release, the percentage estimate is generally consistent with the estimates, ranging from approximately five to 35 percent of total audit fees, from a variety of other analyses using data from after the 2007 change in the ICFR auditing standard.
 
 Several commenters indicated that the expected cost savings are difficult to accurately quantify. <sup>409</sup> We acknowledge that, as discussed in more detail in the Proposing Release, our estimate is subject to significant uncertainty. <sup>410</sup> However, these commenters did not provide alternative methodologies or data for obtaining an estimate of the average savings. One recent study focusing on low public float issuers separately considered the subset of issuers with less than $100 million in revenues in their sample and estimated that an exemption from the ICFR auditor attestation requirement would result in an audit fee savings of $135,000 per year for theseissuers. <sup>411</sup> While this analysis was focused on lower float issuers, it is generally supportive of the order of magnitude of our estimate. One commenter questioned whether our estimate considers the incremental costs associated with an audit approach that does not have the benefit of a related audit of ICFR. <sup>412</sup> We note that our analysis is intended to capture this effect, as the issuers in the comparison samples which we use to derive our estimate generally require this type of an audit approach because they are not subject to the ICFR auditor attestation requirement.
 
@@ -688,7 +540,7 @@ To evaluate the economic implications of any effects the ICFR auditor attestatio
 
 F IN . 1325 (1991) (“Diamond and Verrecchia 1991 Study”); David Easley & Maureen O’Hara, ‘ Information and the Cost of Capital ,’ 59(4) J. OF F IN . 1553 (2004); Richard Lambert, Christian Leuz, & Robert Verrecchia, Accounting Information, Disclosure, and the Cost of Capital ,” 45(2) J. OF ACCT. RES. 385 (2007); and Christopher Armstrong, John Core, Daniel Taylor, & Robert Verrecchia, When Does Information Asymmetry Affect the Cost of Capital? 49(1) J. OF ACCT. RES. 1 (2011). We note that these articles also detail limited theoretical circumstances under which more reliable disclosures could lead to a higher cost of capital, such as in the case where improved disclosure is sufficient to reduce incentives for market making.
 
-<h>K. R. Subramanyam, & K. Rachunandan, Internal Control Weakness and Cost of Equity: Evidence from SOX Section 404 Disclosures, 82(5) ACCT. REV. 1255 (2007) (“Ogneva et al. 2007 Study”). See also 2011 SEC Staff Study, note above, at 101-102.restatement s , <sup>479</sup> and low earnings qualit y <sup>480</sup> have all been associated with a higher cost of debt or equit y <sup>481</sup> capital.</h>
+K. R. Subramanyam, & K. Rachunandan, Internal Control Weakness and Cost of Equity: Evidence from SOX Section 404 Disclosures, 82(5) ACCT. REV. 1255 (2007) (“Ogneva et al. 2007 Study”). See also 2011 SEC Staff Study, note above, at 101-102.restatement s , <sup>479</sup> and low earnings qualit y <sup>480</sup> have all been associated with a higher cost of debt or equit y <sup>481</sup> capital.
 
 More effective ICFR and more reliable financial reporting may also lead to improved efficiency of production if managers themselves thereby have access to more reliable data that facilitates better operating and investing decisions. <sup>482</sup> For example, one study finds that the investment efficiency of issuers improves, in that both under-investment and over-investment are curtailed, after the disclosure and remediation of material weaknesses. <sup>483</sup> Another study finds that issuers that remediate material weaknesses in ICFR that are related to inventory tracking thereafter experience higher inventory turnover, together with improvements in sales and profitability . <sup>484</sup> That said, it is difficult to generalize the results beyond these samples todetermine whether non-remediating issuers or issuers with different types of material weaknesses in ICFR could expect similar operational benefits from remediation. The ICFR auditor attestation requirement may also result in benefits at the market level, though these are more difficult to measure than those at the issuer level. <sup>485</sup> The potential for market-level impact is largely driven by network effects (which are associated with the broad adoption of practices) and by other externalities ( i.e. , spillover effects on issuers or parties beyond the issuer in question).
 

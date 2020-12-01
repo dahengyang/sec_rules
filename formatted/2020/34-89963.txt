@@ -1,129 +1,3 @@
-https://www.sec.gov/rules/final/2020/34-89963.pdf
-
-I.0.0.0 Rule 21F-8(d) — Forms used for Whistleblower Program
-
-		I..1.0 Proposed Rule
-
-		I..2.0 Comments Received
-
-		I..3.0 Final Rule
-
-	I.J.0.0 Rule 21F-8(e) and a clarifying amendment to Rule 21F-8(c)(7) — Abuse of Award Application Process or Submission of False Information in Connection with the Whistleblower Program and Certain Other Dealings with the Commission
-
-		I.J.1.0 Proposed Rule
-
-		I.J.2.0 Comments Received
-
-		I.J.3.0 Final Rules
-
-	I.K.0.0 Rule 21F-9 — Procedures for submitting original information
-
-		I.K.1.0 Proposed Rule
-
-		I.K.2.0 Comments Received
-
-		I.K.3.0 Final Rule
-
-		I.K.1.0 submitting a tip electronically through the SEC’s Tips, Complaints and Referrals Portal, or (2) mailing or faxing a Form TCR to the SEC. See https://. In determining whether the new waiver authority applies, the Commission will consider that any whistleblower represented by counsel has constructive notice of the requirements of Rule 21F-9(a) and (b) as of the date counsel was retained. Further, if staff advises an individual to review the whistleblower website or to otherwise obtain information about the whistleblower program, the Commission may under the particular facts and circumstances consider the individual to have received constructive notice as of the date the staff communicated this information to the individual.
-
-	I.L.0.0 Amendments to Exchange Act Rule 21F-12—Materials that may form the basis of the Commission’s award determination
-
-		I.L.1.0 Proposed Rule
-
-		I.L.2.0 Comments Received
-
-		I.L.3.0 Final Rule
-
-	I.M.0.0 Amendment to Exchange Act Rule 21F-13—The administrative record on appeal
-
-		I.M.1.0 Proposed Rule
-
-		I.M.2.0 Comments Received
-
-		I.M.3.0 Final Rule
-
-	I.N.0.0 Adoption of Exchange Act Rule 21F-18 — Summary disposition process
-
-		I.N.1.0 Proposed Rule
-
-		I.N.2.0 Comments Received
-
-		I.N.3.0 Final Rule
-
-	I.O.0.0 Technical Amendment to Rule 21F-4(c)(2)
-
-	I.P.0.0 Interpretive guidance regarding the meaning and application of “independent analysis”
-
-		I.P.1.0 Proposed Interpretive Guidance
-
-	I.A.0.0 is derived from the independent knowledge or analysis of a whistleblower;
-
-	I.B.0.0 is not known to the Commission from any other source, unless the whistleblower is the original source of the information; and
-
-	I.C.0.0 is not exclusively derived from an allegation made in a judicial or administrative hearing, in a governmental report, hearing, audit, or investigation, or from the news media, unless the whistleblower is a source of the information.
-
-		I.C.2.0 Independent knowledge means factual information in your possession that is not derived from publicly available sources. You may gain independent knowledge from your experiences, communications, and observations in your business or social interactions.
-
-		I.C.3.0 Independent analysis means your own analysis, whether done alone or in combination with others. Analysis means your examination and evaluation of information that may be publicly available, but which reveals information that is not generally known or available to the public.
-
-		I.C.2.0 Comments Received
-
-		I.C.3.0 Final Interpretive Guidance
-
-III.0.0.0 Effective Date and Applicability Dates
-
-IV.0.0.0 Other Matters
-
-V.0.0.0 Paperwork Reduction Act
-
-	V.A.0.0 Background
-
-	V.B.0.0 Estimated Costs and Burdens
-
-	V.C.0.0 Mandatory Collection of Information
-
-	V.D.0.0 Confidentiality
-
-VI.0.0.0 Economic Analysis
-
-	VI.A.0.0 Economic Baseline
-
-		VI.A.1.0 Supreme Court Decision in Digital Realty Trust, Inc. v. Somers
-
-		VI.A.2.0 Awards Issued by the SEC Whistleblower Program
-
-		VI.A.3.0 Estimates of Current Annual Wages
-
-	VI.B.0.0 Analysis of Benefits, Costs, and Economic Effects of the Adopted Rules
-
-		VI.B.1.0 Amendments to Rule 21F-2
-
-			VI.B.1.a Final Rule 21F-2(a)(1)
-
-			VI.B.1.b Rule 21F-2(d)(1)(iii)
-
-		VI.B.4.0 Rule 21F-6(c)
-
-		VI.B.5.0 Proposed Rule 21F-6(d) and Amendments to Rule 21F-6
-
-			VI.B.5.a Consideration of Rule
-
-		VI.B.6.0 Rule 21F-8(e)
-
-		VI.B.7.0 Rule 21F-18
-
-		VI.B.8.0 Interpretive Guidance Regarding the Meaning and Application of “Independent Analysis” as Defined in Exchange Act Rule 21F-4(b)(3)
-
-	VI.C.0.0 Effects of the Rules on Efficiency, Competition, and Capital Formation
-
-VII.0.0.0 Regulatory Flexibility Act
-
-VIII.0.0.0 Statutory Basis
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION
@@ -146,61 +20,9 @@ FOR FURTHER INFORMATION CONTACT : Emily Pasquinelli, Office of the Whistleblower
 
 SUPPLEMENTARY INFORMATION : The Commission is amending the following rules and adopting a new rule.
 
-Background and Summary
+<END HEADER>
 
-The Whistleblower Award Program
-
-Procedural Background and Summary of the Amendments Being Adopted
-
-Description of Final Rule Amendments
-
-Rule 21F-4(d)—Definition of “action”
-
-Rule 21F-4(e)—Definition of “monetary sanctions”
-
-Amendments to Exchange Act Rule 21F-3(b) defining “related action”
-
-Rule 21F-6(c)—Establishment of a presumption of the maximum statutory amount for certain awards
-
-Rule 21F-6—Consideration of dollar or percentage amounts in applying the award factors
-
-Amendment to Exchange Act Rule 21F-2—Whistleblower status, award eligibility, and confidentiality and retaliation protection
-
-Rule 21F-8(d)—Forms used for Whistleblower Program
-
-Rule 21F-8(e)—Claimants who submit False Information or Abuse Award Application Process
-
-Rule 21F-9—Procedures for submitting original information
-
-Amendments to Exchange Act Rule 21F-12—Materials that may form the basis of the Commission’s award determination
-
-Amendment to Exchange Act Rule 21F-13—The administrative record on appeal
-
-Adoption of Exchange Act Rule 21F-18—Summary disposition process
-
-Technical Amendment to Rule 21F-4(c)(2)
-
-Interpretive guidance regarding the meaning and application of “independent analysis”
-
-Effective Date and Applicability Dates
-
-Other Matters
-
-Paperwork Reduction Act
-
-Economic Analysis
-
-Economic Baseline
-
-Analysis of Benefits, Costs, and Economic Effects of the Adopted Rules
-
-Effects of the Rules on Efficiency, Competition, and Capital Formation
-
-Regulatory Flexibility Act
-
-Statutory Basis
-
-Background and Summary
+<h>I. Background and Summary</h>
 
 The Commission’s whistleblower program has made important contributions to the agency’s efforts to enforce the federal securities laws. Original information provided by whistleblowers has led to enforcement actions in which the Commission has obtained more than
 
@@ -208,7 +30,7 @@ $2.5 billion in financial remedies, including more than $1.4 billion in disgorge
 
 harmed investors. In recognition of the important contributions of whistleblowers, the Commission has ordered over $523 million to 97 individuals in 80 enforcement actions whose original information led to the success of Commission actions and, in some instances, related actions brought by other enforcement authorities against wrongdoers.
 
-The Whistleblower Award Program
+<h>A. The Whistleblower Award Program</h>
 
 Congress established the Commission’s whistleblower program in July 2010 by adding Section 21F to the Exchange Act. Among other things, Section 21F directs that the Commission pay awards, subject to certain limitations and conditions, to whistleblowers who voluntarily provide the Commission with original information about a violation of the securities laws that leads to the successful enforcement of a covered judicial or administrative action. <sup>1</sup> Section 21F also directs that the awards must be an aggregate amount (the “Award Amount”), determined in the Commission’s discretion, that is equal to not less than 10 percent, and not more than 30 percent, of what has been collected in the monetary sanctions imposed in the covered action and certain related actions. <sup>2</sup> Further, Section 21F provides that monetary awards to whistleblowers shall be paid from a special fund that Congress established called the Investor Protection Fund (“IPF”). <sup>3</sup>
 
@@ -216,7 +38,7 @@ In May 2011, the Commission adopted a set of rules to implement the whistleblowe
 
 other things, these rules define key terms and phrases in Section 21F, specify the form and manner through which an individual must submit information to qualify for an award, and establish the procedures for determining the Award Amounts.
 
-Procedural Background and Summary of the Amendments Being Adopted
+<h>B. Procedural Background and Summary of the Amendments Being Adopted</h>
 
 On June 28, 2018, the Commission proposed for public comment a package of rule amendments to the Commission’s existing whistleblower rules ( see Exchange Act Rules 21F-1 through 21F-17). These amendments were designed to enhance claim processing efficiency, clarify and bring greater transparency to the framework the Commission utilizes to exercise its discretion in determining Award Amounts, and otherwise address specific issues that have developed during the ten-year history of the whistleblower program.
 
@@ -258,17 +80,17 @@ Finally, the Commission received a number of comments in response to the proposi
 
 include in its annual reports to Congress (beginning with the fiscal year 2020 report), in an aggregated manner, an overview discussion of the factors that were present in the awards throughout the year, including (to the extent practicable) a qualitative discussion of how these factors affected the Commission’s determination of Award Amounts. The Office of the Whistleblower will continue to make available on its webpage, and will review and update as necessary on not less than an annual basis, information regarding its approach to processing whistleblower award claims, including the initial review and prioritization of award claims. <sup>13</sup>
 
-Description of Final Rule Amendments
+<h>II. Description of Final Rule Amendments</h>
 
-Rule 21F-4(d) — Definition of “action”
+<h>A. Rule 21F-4(d) — Definition of “action”</h>
 
-Proposed Rule
+<h>1. Proposed Rule</h>
 
 Section 21F of the Exchange Act requires the Commission to pay whistleblower awards, with certain limitations and subject to certain conditions, in relation to the “successful enforcement” of “any covered judicial or administrative action” brought by the Commission and certain “related [judicial or administrative] actions” of other governmental entities, most notably DOJ. <sup>14</sup> The Commission proposed to add a new paragraph (3) to existing Rule 21F-4(d) (defining an “action”) to provide that the term “administrative action” includes a deferred prosecution agreement (“DPA”) or a non-prosecution agreement (“NPA”) entered into by DOJ or a state attorney general in a criminal case as well as a settlement agreement entered into by the
 
 Commission outside of the context of a judicial or administrative proceeding to address violations of the securities laws; and further that any money required to be paid in such actions will be deemed a “monetary sanction” within the meaning of Rule 21F-4(e). This proposed addition to Rule 21F-4 sought to make awards available to meritorious whistleblowers in cases where these alternative vehicles are used to address violations of law. Its premise was the same as that underlying current Rule 21F-4(d)(1): our view that Congress did not intend for meritorious whistleblowers to be denied awards simply because of the procedural vehicle that the Commission (or another governmental entity) has selected to resolve an enforcement matter.
 
-Comments Received
+<h>2. Comments Received</h>
 
 Most of the commenters who addressed proposed Rule 21F-4(d)(3) supported it. <sup>15</sup> Commenters generally agreed that the rule would reduce uncertainty for potential whistleblowers and supported the rationale stated in the proposed rule of assuring that the availability of a whistleblower award not depend on the procedural vehicle that the Government may use to resolve an enforcement matter. <sup>16</sup>
 
@@ -284,7 +106,7 @@ This same commenter also stated that interpreting the term “administrative act
 
 or administrative proceeding would be contrary to the plain meaning of the term “action,” inconsistent with current usage of the term and judicial precedent, and would lack any basis in the Dodd-Frank Act itself. Instead, this commenter asserted, DPAs, NPAs, and Commission settlement agreements encompassed by the proposed rule are not “actions” because they are contracts among regulators and third parties, are entered into voluntarily by those third parties, and cannot be unilaterally implemented by any individual regulator.
 
-Final Rule
+<h>3. Final Rule</h>
 
 After considering the comments, we have decided to adopt Rule 21F-4(d)(3) with three changes. First , we have decided not to extend the rule to DPAs and NPAs entered into by state attorneys general in criminal cases. Second , we have added the modifier “similar” in paragraph (d)(3)(ii), which describes the Commission settlement agreements to which the rule will apply, in order to clarify the features of these agreements that merit treating them as administrative actions that impose monetary sanctions. Third , we have decided to apply the rule to any DPA, NPA, or Commission settlement agreement that would otherwise fall within the terms of the rule (provided that the agreement was entered into after July 21, 2010, which is the date after which the Dodd-Frank Wall Street Reform and Consumer Protection Act took effect). <sup>25</sup>
 
@@ -320,11 +142,11 @@ However, extending awards to the other circumstances suggested by some of the co
 
 pay awards in Commission actions where we obtain any smaller amount of monetary sanctions. For similar reasons, the suggestion of some commenters that an award be available any time a whistleblower’s information helps secure a payment of money to the Commission sweeps too broadly; our ability to pay a whistleblower award turns in each case on whether a payment can reasonably be viewed as a “monetary sanction,” defined in relevant part as “monies, including penalties, disgorgement, and interest, ordered to be paid … as a result of such action or any settlement of such action.” <sup>36</sup> In addition, because a “related action” is defined in the statute to require that the same original information provided by the whistleblower also led to the successful enforcement of the Commission action, <sup>37</sup> we cannot grant an award for an action by DOJ or a self-regulatory organization absent a predicate Commission covered action as to which the whistleblower also merits an award. <sup>38</sup>
 
-Rule 21F-4(e) — Definition of “monetary sanctions”
+<h>B. Rule 21F-4(e) — Definition of “monetary sanctions”</h>
 
 78mm(a), and Rule 21F-8(a). Commission settlement agreements subject to the rule are publicly announced on our website.
 
-Proposed Rule
+<h>1. Proposed Rule</h>
 
 Rule 21F-4(e) currently defines the term “monetary sanctions” to mean “any money, including penalties, disgorgement, and interest, ordered to be paid and any money deposited into a disgorgement fund or other fund pursuant to Section 308(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(b)) as a result of a Commission action or a related action.” This definition substantially tracks the definition set forth in Section 21F of the Exchange Act. <sup>39</sup> The Commission proposed to amend Rule 21F-4(e) to provide that the term “monetary sanctions” means: (1) a required payment that results from a Commission action or related action and which is either (i) expressly designated by the Commission in an administrative proceeding or a court of competent jurisdiction in a judicial proceeding as disgorgement, a penalty, or interest thereon, or (ii) otherwise required as relief for the violations that are the subject of the covered action or related action; or (2) any money deposited into a disgorgement fund or other fund pursuant to Section 308(b) of the Sarbanes-Oxley Act of 2002 (15 U.S.C. 7246(b)), as a result of such action or any settlement of such action.
 
@@ -332,7 +154,7 @@ Paragraph (e)(1)(ii) of the proposed amended rule was intended to clarify—cons
 
 investors, the amended rule would treat that second order as a monetary sanction under paragraph (e)(1)(ii) of the proposed rule. However, if the receiver requests approval to use frozen funds to pay creditors, taxes to a governmental entity, attorney’s fees, or other costs of the receivership, such payments would not constitute monetary sanctions under paragraph (e)(1)(ii) because they are not in the nature of relief for the violations charged.
 
-Comments Received
+<h>2. Comments Received</h>
 
 Some commenters supported the proposed amendment to the definition of “monetary sanctions.” <sup>40</sup> However, one of these commenters expressed concern that if the Commission were to obtain a court order for defendants to pay “$1 million in restitution payments and $1 million in punitive damages,” the order for punitive damages might not be viewed “as relief” for the securities violations. <sup>41</sup> This commenter recommended use of “broader terminology, without substantially changing the way [the Commission] calculates qualifying payments from the way it does now.”
 
@@ -348,7 +170,7 @@ should be sufficiently flexible … to allow the Commission to consider sanction
 
 This same commenter also asserted that there are many cases where the cost of recovery and administration of claims “cannibalizes” a substantial portion of the funds available for distribution to injured investors. <sup>50</sup> The commenter gave as an example a $100 million fraud case where a receiver successfully recovers $10 million but bills $7.5 million in professional expenses and fees. In such a case, the commenter opined, it would seem unduly harsh to calculate the award on $2.5 million; an award should be based on the gross amount recovered, and not reduced because of “billings from attorneys, accountants, or other professionals.” <sup>51</sup>
 
-Final Rule
+<h>3. Final Rule</h>
 
 After considering the comments, we have decided to adopt Rule 21F-4(e) substantially as proposed. However, in response to concerns raised by some commenters about potential confusion, and to more closely track the statutory language, we have determined to use the word “ordered,” rather than “required,” so that Rule 21F-4(e) as adopted, in relevant part, now reads, “(e) Monetary sanctions means: (1) An order to pay money that results from a Commission
 
@@ -378,9 +200,9 @@ Under Rule 21F-4(e) as amended, we first look to whether an order to pay money i
 
 pay money to investors is in the nature of relief for the violations that were the subject of the action. In the context of a Commission covered action where a receiver is appointed and the court orders a distribution of money in the receivership estate to investors, we will begin our assessment of the amount of the applicable monetary sanctions with an amount that does not exceed the higher of (i) the ill-gotten gains received by the defendants over which the receiver has been appointed, or (ii) investors’ losses as a result of the violations. In determining the investor losses, we will consider losses that flowed from the violative conduct alleged in the covered action, to the extent such losses approximate the monetary sanctions the Commission could obtain in the covered action. In addition, we will not treat as a “monetary sanction” amounts that merely reflect a return of custodial assets to investors and not relief for the violations. <sup>63</sup>
 
-Amendments to Exchange Act Rule 21F-3(b) defining “related action”
+<h>C. Amendments to Exchange Act Rule 21F-3(b) defining “related action”</h>
 
-Proposed Amendments
+<h>1. Proposed Amendments</h>
 
 Under Exchange Act Section 21F(b), any whistleblower who obtains an award based on a Commission enforcement action may be eligible for an award based on monetary sanctions that
 
@@ -396,7 +218,7 @@ Further, if you were denied an award by the other award program, you will not be
 
 Beyond these proposed amendments, the Commission also stated that as part of this rulemaking it is considering whether to repeal Exchange Act Rule 21F-3(b)(3)—which provides a somewhat different mechanism to determine that recovery from the Commission is not available where the whistleblower program administered by the Commodity Futures Trading Commission (CFTC) is involved—so that the provisions of proposed paragraph (4) would apply to all instances where a potential multiple recovery might occur.
 
-Comments Received
+<h>2. Comments Received</h>
 
 With respect to the proposed revision of paragraph (1) of Rule 21F-3(b), the Commission received two comments. <sup>65</sup> One of the comment letters opposed the proposal and the other raised concerns. <sup>66</sup>
 
@@ -414,7 +236,7 @@ Some commenters offered alternatives to the proposed multiple-recovery rule. One
 
 Finally, two commenters supported the existing paragraph (3) of Rule 21F-3(b) and its framework for preventing multiple-recoveries or issue re-adjudication where both the Commission’s and the CFTC’s whistleblower programs might apply. In supporting the framework of paragraph (3), one of the commenters observed that the SEC and the CFTC regulate very similar and at times overlapping markets and the commenter believed that this counseled for retention of the existing paragraph (3). <sup>79</sup> Another commenter suggested that the existing framework of paragraph (3) should actually be expanded to cover all situations where the Commission might encounter a potentially applicable alternative whistleblower program that relates to another governmental entity’s action. <sup>80</sup>
 
-Final Rule
+<h>3. Final Rule</h>
 
 After reviewing the comments, we are (i) adopting revised paragraph (1) of
 
@@ -462,7 +284,7 @@ If we determine that another award program has a more direct or relevant connect
 
 Lastly, we have determined to repeal existing Rule 21F-3(b)(3) relating to the CFTC’s award program and to allow our new multiple-recovery rule to apply to all actions brought by another governmental entity where one or more alternative whistleblower award programs might apply. A uniform rule to apply in these situations—including where the CFTC’s whistleblower award program is implicated—is administratively preferable. This is because the Commission will have the authority under the new rule (based on the specific facts and circumstances of the underlying action) to assess which award program should more logically apply to an action brought by another authority. Under the rule we are repealing, the Commission has no such authority and instead the determination as to which whistleblower program applies is largely controlled (as the existing rule provides for) by the happenstance of which agency ( i.e. , the SEC or the CFTC) first adjudicates an award application in connection with that action.
 
-Rule 21F-6 — Clarification of Commission’s discretion
+<h>D. Rule 21F-6 — Clarification of Commission’s discretion</h>
 
 Rule 21F-6 establishes the analytical framework that the Commission follows in exercising its discretion in both setting the appropriate amount of an award in connection with a particular Commission or related action and in determining an individual award for each whistleblower where the Commission makes awards to more than one whistleblower in connection with the same action.
 
@@ -490,9 +312,9 @@ Award Factors to determine the Award Amount within the statutory range. We also 
 
 The amendment we are adopting was the subject of a question posed to commenters in the proposing release. While the proposing release included proposed rule text that embodied the Commission’s general discretion to consider the dollar amount of any increase or decrease under paragraphs (a) and (b) for large awards (along with the proposed specific mechanism for increasing small awards under $2 million), the proposing release asked commenters whether this approach should “cover all awards considered under Exchange Act Rule 21F-6[.]” The proposing release explained that this approach might “allow [the Commission] to better assess each enhancement or reduction in dollar terms” to permit the Commission to “more realistically and concretely assess the impact of each award factor on the overall award to ensure that [the Commission is] appropriately rewarding the whistleblower and incentivizing future whistleblowers[.]” <sup>103</sup>
 
-Rule 21F-6(c)—Establishment of a presumption of the maximum statutory amount for certain awards
+<h>E. Rule 21F-6(c)—Establishment of a presumption of the maximum statutory amount for certain awards</h>
 
-Proposed Rule
+<h>1. Proposed Rule</h>
 
 The Commission proposed paragraph (c) to Rule 21F-6, which would add to Rule 21F- 6’s existing framework by providing a specific mechanism for the Commission to exercise its discretion to increase any awards to a single whistleblower that would likely be below $2 million.
 
@@ -502,11 +324,11 @@ The proposed rule further provided that an increase to an Award Amount would not
 
 (c) could provide an important additional incentive for potential whistleblowers to come forward.
 
-Comments Received
+<h>2. Comments Received</h>
 
 The Commission received several comments on the proposed rule. Each of the commenters who supported the proposed rule suggested that it could help incentivize more whistleblowers to come forward. <sup>104</sup> By contrast, commenters who opposed the rule suggested: the proposed rule would not encourage whistleblowers to come forward because it would introduce additional uncertainty into the award process; <sup>105</sup> there is no justification for an enhancement to an award if the existing Award Factors do not justify a higher award; <sup>106</sup> the Commission already has the authority to enhance an award up to the maximum possible amount so the proposed rule change is unnecessary; <sup>107</sup> and Congress did not authorize the Commission to apply any dollar amount considerations in setting an Award Amount. <sup>108</sup>
 
-Final Rule
+<h>3. Final Rule</h>
 
 After considering the various views expressed in the comments, and consistent with the Commission’s determination that increased transparency, efficiency, and clarity will enhance the overall effectiveness of the program, we have determined to adopt the proposed rule with several modifications. <sup>109</sup>
 
@@ -538,9 +360,9 @@ Lastly, we agree with the commenter that suggested that the Commission already p
 
 Rule 21F-6(b)(2) are present, the statutory maximum award of 30 percent is $5 million or less, and the Exclusions are not applicable. <sup>114</sup>
 
-Rule 21F-6(d) — Enhanced review of certain awards
+<h>F. Rule 21F-6(d) — Enhanced review of certain awards</h>
 
-Proposed Rule
+<h>1. Proposed Rule</h>
 
 The Commission proposed a new paragraph (d) that would add to Rule 21F-6’s existing analytical framework by providing a mechanism for the Commission in its discretion to conduct an enhanced review of awards in situations where a whistleblower has provided information that led to the success of one or more covered or related actions that, collectively, result in at least
 
@@ -552,7 +374,7 @@ Commission has the discretion to consider the potential dollar amount when apply
 
 Second , proposed paragraph (d)(2) would have provided an express mechanism for the Commission to adjust the award if, after consideration of the existing Award Factors in paragraphs (a) and (b) of Rule 21F-6, the Commission finds that the potential award (from any Commission actions and related actions, collectively) exceeds what is reasonably necessary to reward the whistleblower and to incentivize similarly situated whistleblowers. Further, proposed paragraph (d)(2) would have made clear that any increases or decreases to a whistleblower’s Award Amount under that paragraph shall not yield a potential award payout (as assessed by the Commission at the time that it makes the award determination) below $30 million, nor may any reduction result in the total amount awarded to all meritorious whistleblowers, collectively, for each covered or related action constituting less than 10 percent of the monetary sanctions collected in that action.
 
-Comments Received
+<h>2. Comments Received</h>
 
 This proposed rule received a substantial number of public comments. Many of these letters were one of two different form letters that opposed proposed paragraph (d), as described in the letters. The first set of these form letters incorrectly stated that proposed paragraph (d) would “cap[] rewards in the largest cases to the lowest percentage rate.” <sup>115</sup> The second set of form letters—contrary to the explanations offered in the Proposing Release—claimed that paragraph (d) would “plac[e] an arbitrary limit” on rewards and “authorize … drastic reductions in the amount of rewards in major fraud cases.” <sup>116</sup> The proposed rule would not have imposed a
 
@@ -596,27 +418,27 @@ The $30 million threshold in proposed paragraph (d)(2) is not based on the value
 
 “By simultaneously increasing the smallest awards and decreasing the largest awards,” the Commission “risks encouraging more low-level employees to report minor fraud while potentially deterring high-level executives from reporting major fraud.” <sup>135</sup>
 
-Final Rule
+<h>3. Final Rule</h>
 
 After considering the comments on this proposed rule and further analysis of the operation of the whistleblower program to date, we have concluded that it is not necessary to adopt the formalized mechanism for the Commission to exercise its discretion to apply the Award Factors and set Award Amounts, and thus we have determined not to adopt it. We note that many of the comments received demonstrated a misperception of Proposed Rule 21F-6(d)(2) that would have applied to exceedingly large potential awards. A significant number of commenters asserted that this proposed rule would effectively result in Award Amounts being
 
 capped or set at the statutory minimum. We think it is important to correct this misunderstanding for potential whistleblowers and the public generally: Proposed Rule 21F- 6(d)(2) did not introduce a cap nor was it intended to function in any way as an award cap. <sup>136</sup>
 
-Rule 21F-6(b) — Interpretive guidance regarding the meaning of “unreasonable delay”
+<h>G. Rule 21F-6(b) — Interpretive guidance regarding the meaning of “unreasonable delay”</h>
 
-Proposed guidance
+<h>1. Proposed guidance</h>
 
 Rule 21F-6(b)(2) provides that the Commission will reduce an award if it finds that the whistleblower engaged in “unreasonable delay” in reporting a potential securities-law violation to the Commission. Further, new Rule 21F-6(c)—as discussed above—provides that the presumption under that rule will generally not be available if a whistleblower engaged in unreasonable delay. In the Proposing Release, we explained that any delay in reporting to the Commission beyond 180 days would be deemed presumptively unreasonable.
 
 In proposing this interpretive guidance, we explained that the presumption could be overcome depending on potential highly unusual facts and circumstances of a particular award application connected to the delay. We also cautioned that shorter periods of delay ( i.e. , less than 180 days) may also qualify as unreasonable depending on the particular facts and circumstances at issue, including, for example, whether the violations were ongoing, whether investors continued to experience harm or the whistleblower continued to profit from the wrongdoing during the period of the whistleblower’s delay, or whether the delay had a discernable impact on the monetary sanctions that were ordered in the enforcement action.
 
-Comments Received
+<h>2. Comments Received</h>
 
 We received only a few comments on the proposed unreasonable-delay guidance. <sup>137</sup> One commenter voiced support, asserting that the guidance would bring clarity and establish a general bright-line standard that could be adjusted on a case-by-case basis. <sup>138</sup>
 
 Two commenters expressed concerns about the guidance. One asserted that a whistleblower who is genuinely continuing to pursue internal compliance procedures past the 180-day period should not be presumptively deemed to have unreasonably delayed reporting. <sup>139</sup> The other commenter who opposed the guidance expressed the view that the Commission should continue to evaluate unreasonable delay on a case-by-case basis. <sup>140</sup>
 
-Final Rule
+<h>3. Final Rule</h>
 
 After considering the comments on this proposed rule and as a result of further analysis of the operation of the whistleblower program, we have determined not to adopt a specific time- based presumption of unreasonable delay as interpretive guidance. We continue to believe that a 180-day time period may be consistent with unreasonable delay in many circumstances. But we are persuaded that the idiosyncratic nature of the various claims the Commission is often presented with counsels in favor of continuing to assess the facts and circumstances of each case. Among other relevant considerations in assessing whether a delay was in part or in whole unreasonable (and whether any reduction is warranted if the delay was unreasonable) include
 
@@ -630,9 +452,9 @@ increased disgorgement of ill-gotten gains and penalties. The Commission will co
 
 We continue to encourage whistleblowers to report as early as possible, to ensure the Commission is able to timely address misconduct and, whenever possible, return those funds to harmed investors.
 
-Amendment to Exchange Act Rule 21F-2—Whistleblower status, award eligibility, confidentiality, and retaliation protection
+<h>H. Amendment to Exchange Act Rule 21F-2—Whistleblower status, award eligibility, confidentiality, and retaliation protection</h>
 
-Proposed Rule
+<h>1. Proposed Rule</h>
 
 As explained in the Proposing Release, proposed Rule 21F-2 sought to conform whistleblower status, award eligibility, confidentiality, and retaliation protection in light of the Supreme Court’s holding regarding Section 21F in Digital Realty Trust, Inc. v. Somers . <sup>142</sup> In Digital Realty , the Court held that Dodd-Frank’s definition of “whistleblower,” codified in Section 21F(a)(6), <sup>143</sup> requires a report to the Commission as a prerequisite for retaliation protection, and that the Commission’s broader interpretation of that term in connection with retaliation protection under Section 21F was therefore not entitled to deference. <sup>144</sup>
 
@@ -656,7 +478,7 @@ activities described in Section 21F(h)(1)(A)(i)-(iii) <sup>147</sup> and also �
 
 Proposed Rule 21F-2(d)(2) resolved a timing issue not addressed by either the statute or the Digital Realty decision, by clarifying that a person does not need to qualify as a whistleblower under Rule 21F-2(a) at the time she or he performed the lawful act described in Rule 21F-2(d)(1)(iii), in order to be eligible for retaliation protection; rather, a person eligible for retaliation protection is protected from retaliation for prior lawful acts when the alleged retaliatory conduct occurs after the person qualifies as a whistleblower. Moreover, proposed Rule 21F-2(d)(3) and (4) carried forward provisions of the existing Rule 21F-2 without a substantive change. Paragraph (d)(3) stated that retaliation protection applies regardless of whether a person satisfies all the procedures and conditions to qualify for an award. Paragraph (d)(4) stated that the retaliation prohibition in Section 21F(h)(1) and the rules thereunder shall be enforceable in an action or proceeding brought by the Commission.
 
-Comments Received
+<h>2. Comments Received</h>
 
 We received several comments addressing proposed Rule 21F-2’s definition of whistleblower status and the scope of retaliation protection. <sup>148</sup> Commenters generally
 
@@ -700,13 +522,13 @@ Commenters also took opposing views on whether proposed Rule 21F-2 should enumer
 
 to encompass any employment action that is reasonably likely to deter employees from engaging in protected activity. <sup>183</sup>
 
-Final Rule
+<h>3. Final Rule</h>
 
 After considering the comments, we are adopting Rule 21F-2 as proposed, with the addition of interpretive guidance defining the scope of retaliatory conduct prohibited by Section 21F(h)(1)(A). In addition, in the Proposing Release we observed that proposed Rule 21F-2 would render inapplicable the formal interpretation that the Commission issued in 2015 regarding the meaning of Exchange Act Rule 21F-9. See 83 Fed. Reg. at 34,718 n.193 (citing Interpretation of the SEC’s Whistleblower Rules under Section 21F of the Securities Exchange Act of 1934, 80 Fed. Reg. 47,829 (Aug. 10, 2015)). That formal interpretation explained that compliance with Exchange Act Rule 21F-9 was not required to qualify as a whistleblower for purposes of Section 21F’s employment retaliation protections. See 80 Fed. Reg. at 47,830.
 
 Because the Digital Realty decision has since adopted a narrower reading of what is required to qualify as a whistleblower for Section 21F’s employment retaliation protections, we now repeal that interpretive guidance as obsolete.
 
-Whistleblower status under Rule 21F-2(a)
+<h>4. Whistleblower status under Rule 21F-2(a)</h>
 
 Requiring information to be provided to the Commission “in writing” as a condition of whistleblower status under Rule 21F-2(a) appropriately addresses the interests of affording flexibility to persons who report to the Commission and promoting reasonable certainty and efficiency for the Commission, including for the Commission staff who receive and process such reports. Were the rule to require that such reports also comply with Rule 21F-9(a)—that is, that
 
@@ -730,7 +552,7 @@ We have also declined the invitation of one commenter <sup>191</sup> to modify p
 
 under Section 21F(a)(6), but instead chose the more narrow option of denying award eligibility under Section 21F(c)(2)(B) <sup>192</sup> to “any whistleblower who is convicted of a criminal violation related to the [covered action] for which the whistleblower otherwise could receive an award under this section.” Based on our experience to date, moreover, existing Rule 21F-6(b)(1) provides appropriate flexibility on a case-by-case basis for decreasing an award based on a whistleblower’s culpability. <sup>193</sup>
 
-Retaliation protection under Rule 21F-2(d)
+<h>5. Retaliation protection under Rule 21F-2(d)</h>
 
 We are adopting Rule 21F-2(d)(1) as proposed to limit retaliation protection to persons who qualify as whistleblowers by providing information to the Commission before experiencing retaliation, as expressly required by the Digital Realty decision. <sup>194</sup> At the same time, we are also adopting Rule 21F-2(d)(2) as proposed to extend retaliation protection to lawful acts described in Exchange Act Section 21F(h)(1)(A) even if done before reporting to the Commission when the retaliation takes place after a person qualifies as a “whistleblower” by providing information directly “to the Commission” consistent with Section 21F(a)(6). We believe this interpretation is consistent with the language of Section 21F(h)(1)(A). <sup>195</sup> Although the net result is to limit retaliation protection for persons who report internally before reporting to the Commission, <sup>196</sup> this outcome is driven by the Supreme Court’s holding that Section 21F distinguishes between “who” is protected as a whistleblower under Section 21F(a)(6) and “what” conduct is protected under Section 21F(h)(1)(A). <sup>197</sup>
 
@@ -750,7 +572,7 @@ U.S.C. 2000e-3(a)) (internal quotation marks omitted). Here, Section 21F(h)(1)(A
 
 broad standard will promote greater ease of administration than revising Rule 21F-2 to include a list of prohibited forms of retaliation, <sup>207</sup> which might inadvertently omit certain retaliatory activities that otherwise would meet the Burlington standard.
 
-Other rules addressing internal compliance
+<h>6. Other rules addressing internal compliance</h>
 
 In the Proposing Release, we solicited comment on whether, given the change in retaliation protection following Digital Realty , it would be appropriate to change the Commission’s use of award criteria that consider participation in internal compliance systems. As discussed above, a number of commenters suggested it would be inappropriate or even unlawful to retain such award criteria and Rule 21F-4(b)(4)(iii) in light of the Supreme Court’s interpretation of Section 21F as conditioning retaliation protection on reporting to the Commission rather than simply reporting internally. <sup>208</sup> This interpretation is inconsistent with both Digital Realty and Section 21F. As the Supreme Court explained, Congress’s enactment of Section 21F in the Dodd-Frank Act in 2010 built upon its earlier enactment of Sarbanes-Oxley Section 806, which already afforded retaliation protection for certain internal reports. <sup>209</sup> Section 21F repealed neither Sarbanes-Oxley Section 806 nor any of the other provisions of the federal securities laws that require or encourage the maintenance and use of internal compliance systems for responding to possible violations of the federal securities laws. Accordingly, we have implemented Section 21F in a way that does not frustrate the design of these other statutes that Congress has chosen to retain. To that end, it is appropriate to retain the provisions in our
 
@@ -771,8 +593,6 @@ We are declining the suggestion of one commenter <sup>212</sup> to adopt an expl
 To illustrate how Rule 21F-2 will operate in practice, consider the following hypothetical scenario: An employee at a publicly traded issuer overhears a conversation by colleagues discussing a scheme to create an artificial boost for reported sales. The employee investigates and discovers that sales invoices are being generated without any corresponding movement of inventory, and then reports the possible misconduct to the issuer’s chief compliance officer. But
 
 a week passes without any action being taken on the report. If the Commission then receives an email from that employee in which the employee reports the same possible misconduct, and in sending the email the employee reasonably believed that the report relates to a possible securities laws violation, then the employee would qualify as a whistleblower under Rule 21F-2(a) and would be eligible for anti-retaliation protections under Rule 21F-2(d)(1)(i)-(ii) as of the time the employee provides the information to the Commission. Assuming that the employee’s internal report was within the scope of Section 806(a) of Sarbanes-Oxley, that internal report itself would be a protected “lawful act” under Rule 21F-2(d)(1)(iii). The fact that the employee made the internal report before the Commission report would not make a difference for anti-retaliation protections under Rule 21F-2(d)(2). That said, if the employee wanted to be eligible for an award under Rule 21F-2(b) and to qualify for confidentiality protections under Rule 21F-2(c), he or she would need to make his or her first report of that information to the Commission using Form TCR or through the online port al at www.sec.gov, as required by Rule 21F-9(a), and not through an email to the Commission. To qualify for an award, the employee would additionally need to satisfy the relevant procedural requirements, eligibility criteria, and other conditions described in Rules 21F-3 through 21F-18.
-
-<END HEADER>
 
 <h>I. Rule 21F-8(d) — Forms used for Whistleblower Program</h>
 
@@ -870,7 +690,7 @@ First , these requirements ensure that the agency has an accurate record of the 
 
 Notwithstanding the foregoing, the changes that we have expressly incorporated into paragraph (e) will afford an opportunity for individuals who first come to the Commission with original information without complying with Rule 21F-9(a) and (b) to perfect their submissions and thus potentially qualify for an award. Specifically, in those instances when an individual first provides information to the Commission without complying with Rule 21F-9(a) and 9(b), the following mechanisms will now be available: (1) the individual can perfect his or her submission by complying with those rules within 30 days of first providing original informationinitial information-sharing means that the legal protections of Section 21F(h)(2) will apply if the Commission shares the submitter’s information with the other agency.to the Commission; <sup>260</sup> (2) after 30 days of first providing original information to the Commission, the individual may still qualify for a waiver from having failed to timely comply with Rule 21F-9(a) and (b) if the individual can demonstrate that he or she complied with these procedural requirements within 30 days of first learning about them <sup>261</sup> and the Commission can readily develop an administrative record that unambiguously demonstrates that the individual would otherwise merit an award, without a significant expenditure of staff time and resources to do so. As compared with the proposed rule, we have determined to make the waiver of non- compliance with Rule 21F-9(a) and (b) automatic, rather than discretionary, when the Commission finds that the whistleblower has established that the conditions for the waiver are satisfied. Further, we have determined to provide for such a waiver opportunity from the time when the individual first learns of the Rule 21F-9(a) and (b) requirements rather than establishing a fixed deadline calculated from when the original information is first submitted.
 
-<h>1. submitting a tip electronically through the SEC’s Tips, Complaints and Referrals Portal, or (2) mailing or faxing a Form TCR to the SEC. See https://. In determining whether the new waiver authority applies, the Commission will consider that any whistleblower represented by counsel has constructive notice of the requirements of Rule 21F-9(a) and (b) as of the date counsel was retained. Further, if staff advises an individual to review the whistleblower website or to otherwise obtain information about the whistleblower program, the Commission may under the particular facts and circumstances consider the individual to have received constructive notice as of the date the staff communicated this information to the individual.</h>
+(1) submitting a tip electronically through the SEC’s Tips, Complaints and Referrals Portal, or (2) mailing or faxing a Form TCR to the SEC. See https://. In determining whether the new waiver authority applies, the Commission will consider that any whistleblower represented by counsel has constructive notice of the requirements of Rule 21F-9(a) and (b) as of the date counsel was retained. Further, if staff advises an individual to review the whistleblower website or to otherwise obtain information about the whistleblower program, the Commission may under the particular facts and circumstances consider the individual to have received constructive notice as of the date the staff communicated this information to the individual.
 
 Based on the suggestion of a commenter, we have eliminated the phrase “clearly and convincingly” and replaced it with the terms “readily” and “unambiguously” in order to avoid confusion and any suggestion that we intended to incorporate into our practice under paragraph 9(e) other areas of law that may require proof by “clear and convincing” evidence. That said, it would be harmful to the effective and efficient administration of our whistleblower program to broadly waive non-compliance with the TCR-filing requirement for non-meritorious claimants or claimants whose entitlement to an award is not clearly established by the administrative record, and we also believe that doing so would be inconsistent with the congressional directive that individuals “shall” comply with the Commission’s procedures for submitting information. <sup>262</sup> In adopting this provision for situations where the record “unambiguously” demonstrates that an individual would otherwise qualify for an award (and the record can “readily” be developed to confirm this without a significant expenditure of staff time and resources to do so), we intend the exception to be available only where a clear case exists that the claimant otherwise merits an award, and the claimant submitted his or her TCR and declaration as required by Rule 21F-9(a) and 9(b) within 30 days of first learning about those requirements. <sup>263</sup> That said, the Commission continues to retain its separate discretionary exemptive authorities under Rule 21F-8(a) and Exchange Act Section 36(a) for circumstances that may warrant exemptive relief. <sup>264</sup>
 
@@ -934,23 +754,23 @@ In the Proposing Release, the Commission proposed to make a technical amendment 
 
 <h>P. Interpretive guidance regarding the meaning and application of “independent analysis”</h>
 
-<h>1. Proposed Interpretive Guidance</h>
+1. Proposed Interpretive Guidance
 
 Section 21F of the Exchange Act limits whistleblower awards to individuals who, among other requirements, submit “original information” about possible securities violations. The statute defines “original information” as information that:
 
-<h>A. is derived from the independent knowledge or analysis of a whistleblower;</h>
+A. is derived from the independent knowledge or analysis of a whistleblower;
 
-<h>B. is not known to the Commission from any other source, unless the whistleblower is the original source of the information; and</h>
+B. is not known to the Commission from any other source, unless the whistleblower is the original source of the information; and
 
-<h>C. is not exclusively derived from an allegation made in a judicial or administrative hearing, in a governmental report, hearing, audit, or investigation, or from the news media, unless the whistleblower is a source of the information.</h>
+C. is not exclusively derived from an allegation made in a judicial or administrative hearing, in a governmental report, hearing, audit, or investigation, or from the news media, unless the whistleblower is a source of the information.
 
 Further, before we can grant an award, we must determine that the whistleblower’s “original information … led to the successful enforcement” of a Commission covered action or a related action. <sup>299</sup>
 
 In promulgating our whistleblower rules, we further defined the terms “independent knowledge” and “independent analysis,” as used in Section 21F(a)(3)(A) of the definition of “original information”:
 
-<h>2. Independent knowledge means factual information in your possession that is not derived from publicly available sources. You may gain independent knowledge from your experiences, communications, and observations in your business or social interactions.</h>
+2. Independent knowledge means factual information in your possession that is not derived from publicly available sources. You may gain independent knowledge from your experiences, communications, and observations in your business or social interactions.</h>
 
-<h>3. Independent analysis means your own analysis, whether done alone or in combination with others. Analysis means your examination and evaluation of information that may be publicly available, but which reveals information that is not generally known or available to the public.</h>
+3. Independent analysis means your own analysis, whether done alone or in combination with others. Analysis means your examination and evaluation of information that may be publicly available, but which reveals information that is not generally known or available to the public.
 
 The Commission proposed interpretive guidance to address the potential availability of a whistleblower award in cases where information provided by a whistleblower is not based on the whistleblower’s “independent knowledge” but, instead, is premised on information derived fromthe whistleblower’s “independent analysis” of publicly available information. In formulating our views, we considered Congress’s and the Commission’s determinations to substantially restrict any role for publicly available information in potential whistleblower awards. Further, with reference to the requirement of Rule 21F-4(b)(3) that “independent analysis” must “reveal[] information that is not generally known or available to the public,” we considered the framework that the D.C. Circuit and other federal courts of appeal have developed for determining when fraudulent transactions are deemed to have been publicly disclosed for purposes of the so-called “public disclosure bar” under the False Claims Act. <sup>300</sup> Based on our review, we concluded:
 

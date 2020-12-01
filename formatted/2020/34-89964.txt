@@ -1,145 +1,3 @@
-https://www.sec.gov/rules/final/2020/34-89964.pdf
-
-I.0.0.0 INTRODUCTION
-
-	I.A.0.0 Background
-
-II.0.0.0 FINAL AMENDMENTS
-
-	II.A.0.0 Ownership Requirements
-
-		II.A.1.0 Proposed Rule Amendments
-
-		II.A.2.0 Comments on the Proposed Rule Amendments
-
-		II.A.3.0 Final Rule Amendments
-
-	II.B.0.0 Proposals Submitted on Behalf of Shareholders
-
-		II.B.1.0 Proposed Rule Amendment
-
-		II.B.2.0 Comments on the Proposed Rule Amendment
-
-		II.B.3.0 Final Rule Amendment
-
-	II.C.0.0 The Role of the Shareholder-Proposal Process in Shareholder Engagement
-
-		II.C.1.0 Proposed Rule Amendment
-
-		II.C.2.0 Comments on the Proposed Rule Amendment
-
-		II.C.3.0 Final Rule Amendment
-
-	II.D.0.0 One-Proposal Limit
-
-		II.D.1.0 Proposed Rule Amendment
-
-		II.D.2.0 Comments on the Proposed Rule Amendment
-
-		II.D.3.0 Final Rule Amendment
-
-	II.E.0.0 Resubmission Thresholds
-
-		II.E.1.0 Proposed Rule Amendment
-
-		II.E.2.0 Comments on the Proposed Rule Amendment
-
-		II.E.3.0 Final Rule Amendment
-
-	II.F.0.0 Momentum Requirement
-
-		II.F.1.0 Proposed Rule Amendment
-
-		II.F.2.0 Comments on the Proposed Rule Amendment
-
-		II.F.3.0 Final Rule Amendment
-
-	II.G.0.0 Other Matters
-
-		II.G.1.0 Response to Constitutional Objections
-
-		II.G.2.0 Proposals Submitted to Open-End Investment Companies
-
-		II.G.3.0 Commission and Staff Role in the Rule 14a-8 Process
-
-		II.G.248.0 Id.
-
-		II.G.249.0 Id.
-
-III.0.0.0 TRANSITION MATTERS
-
-IV.0.0.0 OTHER MATTERS
-
-V.0.0.0 ECONOMIC ANALYSIS
-
-	V.A.0.0 Introduction
-
-	V.A.0.0 Liroff dated January 28, 2020; UAW Retiree Medical Benefits Trust dated January 30, 2020. See also Recommendation of the IAC, supra note
-
-	V.B.0.0 Economic Baseline
-
-		V.B.1.0 Companies
-
-		V.B.2.0 Non-proponent shareholders
-
-		V.B.3.0 Proponents of shareholder proposals
-
-	V.C.0.0 Estimated reduction in the number of shareholder proposals
-
-	V.D.0.0 Analysis of Costs and Benefits and Effects on Efficiency, Competition, and Capital Formation of the Final Rule Amendments
-
-		V.D.1.0 Companies
-
-		V.D.345.0 See Proposing Release at 66461. See letter from Center for Capital Markets, dated January 31, 2020.
-
-		V.D.346.0 Some commenters suggested that the Commission should have conducted independent research on the cost of shareholder proposals. See, e.g., letters from Council of Institutional Investors dated January 30, 2020; Interfaith Center on Corporate Responsibility dated January 27, 2020. We note that the Commission has conducted various forms of outreach over the years on the proxy process, including hosting the Proxy Process Roundtable and soliciting public input on the Rule 14a-8 ownership thresholds and the costs of submitting shareholder proposals. That input informed our cost estimates in the Proposing Release, and we specifically requested comment on the estimates and data to help us refine our analysis. We considered all of this information thoroughly, leveraging our decades of experience with Rule 14a-8, when evaluating whether the available information is reliable and sufficient. We have no reason to believe that additional study of the costs of shareholder proposals would yield materially different information, nor are we aware of additional sources of information that would further inform these cost estimates.
-
-		V.D.2.0 Non-proponent shareholders
-
-		V.D.3.0 Proponents of shareholder proposals
-
-	V.E.0.0 Other Potential Effects of the Amendments
-
-		V.E.1.0 Effects of the rule amendments on excludable proposals by type of proposal, proponent, and company
-
-		V.E.2.0 Economic effects of final rule amendments on the quality of shareholder proposals
-
-		V.E.3.0 Comments regarding voting support and economic effects of the rule amendments
-
-	V.F.0.0 Reasonable alternatives
-
-		V.F.1.0 Alternative amendments to Rule 14a-8(b) and Rule 14a-8(c)
-
-		V.F.2.0 Alternative amendments to Rule 14a-8(i)(12)
-
-VI.0.0.0 PAPERWORK REDUCTION ACT
-
-	VI.A.0.0 Background
-
-	VI.B.0.0 Summary of Comment Letters and Revisions to PRA Estimates
-
-	VI.C.0.0 Summary of the Amendments’ Impact on Collections of Information
-
-	VI.D.0.0 Incremental and Aggregate Burden and Cost Estimates for the Final Amendments
-
-VII.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	VII.A.0.0 Need for, and Objectives of, the Final Amendments
-
-	VII.B.0.0 Significant Issues Raised by Public Comments
-
-	VII.C.0.0 Small Entities Subject to the Final Amendments
-
-	VII.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-	VII.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VIII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>240</sup>
 
 [Release No. 34-89964; File No. S7-23-19] RIN 3235-AM49
@@ -594,9 +452,7 @@ First, a number of commenters expressed the view that the Commission had not ide
 
 Commission to engage in retrospective review, including revisiting our rules on shareholder proposals, to ensure that they are functioning as intended. As discussed in the Proposing Release, certain aspects of the shareholder-proposal rule—including the ownership thresholds— had not been reviewed by the Commission in more than 20 years prior to the Proposing Release. As part of that review, we observed that (1) the overwhelming majority of shareholder proposals are submitted by a very small number of proponents and (2) a significant number of proposals that are eligible to be resubmitted under the current resubmission thresholds continue to receive low levels of support from fellow shareholders. <sup>272</sup> Because, in part, shareholder proposals impose direct and opportunity costs on shareholders and indirect costs on shareholders through their ownership in companies, the Commission has long held the view that it is appropriate to condition eligibility for those that submit shareholder proposals pursuant to Rule 14a-8 on indicia of an alignment of interest with non-proponent shareholders and to provide for a cooling- off period for proposals that receive low levels of support. <sup>273</sup> In addition, shareholders’ ability to communicate with companies and other shareholders has evolved due to technological advancements and developing market practices. As a result, shareholders now have more toolsproposals under current resubmission thresholds does not imply that the resubmission thresholds are currently too low because proponents now tend to modify resubmitted proposals to increase the voting support they receive, proponents engage in more outreach than in the past which improves voting outcomes, and more active participation of proxy voting advice businesses and institutional investors can improve voting outcomes ultimately resulting in low numbers of excludable resubmitted proposals. In addition, some commenters argued that the rule amendments are unnecessary because shareholders already are unlikely to resubmit proposals that garner low levels of support. See, e.g. , letters from AFL-CIO dated February 3, 2020; Principles for Responsible Investment dated February 3, 2020; Segal Marco Advisors dated February 3, 2020. Nevertheless, we believe that shareholder proposals impose direct and opportunity costs on shareholders and companies, and the amended resubmission thresholds are designed to decrease those costs by imposing a cooling-off period for proposals that receive low levels of support.at their disposal to engage with a company’s board and management, as well as other shareholders, in ways that may be more efficient for all parties than under the Rule 14a-8 process. The amendments we are adopting are designed to revise the thresholds to better ensure that the significant attendant burdens for other shareholders and companies associated with the inclusion of such proposals in the company’s proxy statement are incurred in connection with those proposals that are (i) submitted by shareholders with an economic stake or investment interest in the company that demonstrates a reasonably sufficient alignment of interest with non- proponent shareholders and (ii) with respect to resubmissions, more likely to receive support from fellow shareholders and, accordingly, are more likely to lead to an action that is approved by its shareholders. <sup>274</sup>
 
-Second, some commenters argued that the Proposing Release did not consider all of the potential benefits of various shareholder proposals and thus did not adequately analyze the costs of the amendments to companies and, as a result, to their shareholders, that could result from the exclusion of shareholder proposals. <sup>275</sup> We recognize that shareholder proposals may bring benefits to companies and their shareholders and that the potential loss of those benefits resulting from the exclusion of certain proposals that are not otherwise proposed by other shareholders would be a cost of the rule. Thus, to the extent that the final rule amendments may exclude proposals that may bring benefits to companies and their shareholders, we qualitatively describe the cost that may arise. We do not focus on specific types of shareholder proposals or attempt to
-
-<h>A. Liroff dated January 28, 2020; UAW Retiree Medical Benefits Trust dated January 30, 2020. See also Recommendation of the IAC, supra notequantify whether excluded proposals would have resulted in economically beneficial changes, as suggested by some commenters. <sup>276</sup> As a threshold matter, under state corporate law, those evaluations are properly left to the company’s owners—the shareholders. In addition, our regulation of shareholder proposals under Rule 14a-8 has not been, nor would it be under the final amendments, <sup>277</sup> designed to judge the economic value of any particular shareholder proposal, or intended to take a position on the merits of any shareholder proposal topic. <sup>278</sup> By way of example, it would be inappropriate and outside of our regulatory remit to make a determination that any particular proposal, for example one that has been disapproved by 90 percent of a company’s voting shareholders, would have been beneficial (or costly) to those shareholders as it is the shareholders who ultimately determine the value of a proposal to a particular company. Rather, the rule focuses on setting thresholds at which it is appropriate for a shareholder proposal—regardless of its substance—to be included in the company’s proxy materials at the expense of the other shareholders (directly and indirectly as owners of the company), either as an initial submission, or as a resubmission.</h>
+Second, some commenters argued that the Proposing Release did not consider all of the potential benefits of various shareholder proposals and thus did not adequately analyze the costs of the amendments to companies and, as a result, to their shareholders, that could result from the exclusion of shareholder proposals. <sup>275</sup> We recognize that shareholder proposals may bring benefits to companies and their shareholders and that the potential loss of those benefits resulting from the exclusion of certain proposals that are not otherwise proposed by other shareholders would be a cost of the rule. Thus, to the extent that the final rule amendments may exclude proposals that may bring benefits to companies and their shareholders, we qualitatively describe the cost that may arise. We do not focus on specific types of shareholder proposals or attempt to A. Liroff dated January 28, 2020; UAW Retiree Medical Benefits Trust dated January 30, 2020. See also Recommendation of the IAC, supra notequantify whether excluded proposals would have resulted in economically beneficial changes, as suggested by some commenters. <sup>276</sup> As a threshold matter, under state corporate law, those evaluations are properly left to the company’s owners—the shareholders. In addition, our regulation of shareholder proposals under Rule 14a-8 has not been, nor would it be under the final amendments, <sup>277</sup> designed to judge the economic value of any particular shareholder proposal, or intended to take a position on the merits of any shareholder proposal topic. <sup>278</sup> By way of example, it would be inappropriate and outside of our regulatory remit to make a determination that any particular proposal, for example one that has been disapproved by 90 percent of a company’s voting shareholders, would have been beneficial (or costly) to those shareholders as it is the shareholders who ultimately determine the value of a proposal to a particular company. Rather, the rule focuses on setting thresholds at which it is appropriate for a shareholder proposal—regardless of its substance—to be included in the company’s proxy materials at the expense of the other shareholders (directly and indirectly as owners of the company), either as an initial submission, or as a resubmission.
 
 Moreover, even if the statutory remit and historic approach of the Commission to such matters were to change fundamentally, focus on the potential economic effects of specific types of shareholder proposals would be inherently speculative, as it would require us to opine on themerits, and estimated costs and benefits, of proposals—or categories of proposals—without knowing sufficient details of the proposals or the companies for which they are advanced. Moreover, there are significant methodological and empirical challenges to quantifying whether excluded proposals would have resulted in economically beneficial changes to the company, including the difficulty of assessing whether a particular proposal would be beneficial to a particular company, for example because any decision driven by such a proposal would be part of an overarching array of decisions that collectively affect the company’s business and prospects. It is also difficult to disentangle the effect of shareholder proposals from other effects such as the effect of direct communication of shareholders with management. A proposal that is subject to a cooling-off period may be approved in the future or, instead of waiting, shareholders who supported the proposal may use other methods to engage with the company on the issue.
 
@@ -745,10 +601,6 @@ Several commenters also argued that the economic analysis should consider the ma
 We recognize that there is variation in the costs to companies of responding to shareholder proposals, and we have considered all of the comments received in estimating cost savings to companies. In response to these comments, we have adjusted our estimate of the lower end of the costs. We use the estimate of $18,982 to print and mail a single shareholder proposal, rounded up to $20,000, as the lower bound for our direct cost estimates in theeconomic analysis . <sup>344</sup> We continue to use $150,000 as the upper bound for our direct cost estimates in the economic analysis, which we believe represents a reasonable upper end of potential costs of processing a shareholder proposal, including legal and management time to consider a shareholder proposal and the cost of submitting a no-action request to Commission staff. <sup>345</sup> Nevertheless, we acknowledge that the cost of processing certain proposals may be outside of this $20,000 to $150,000 range due to the large variation in the types of proposals . <sup>346</sup>
 
 See Proposing Release at 66510 (citing 2009 BRT Letter, supra note <sup>332</sup> ). We use this cost estimate as the lowest range because the cost of printing and mailing a shareholder proposal is the only non-discretionary cost that all companies must incur when they are required to include a shareholder proposal in their proxy statement. The cost of printing and mailing shareholder proposals, however, only captures a subset of the direct costs that the company may incur. It is unclear whether this cost estimate captures the cost of tallying votes for an additional shareholder proposal. In addition, this cost estimate is the average cost of printing and mailing a shareholder proposal rather than the marginal cost of printing and mailing an additional shareholder proposal.
-
-<h>345. See Proposing Release at 66461. See letter from Center for Capital Markets, dated January 31, 2020.</h>
-
-<h>346. Some commenters suggested that the Commission should have conducted independent research on the cost of shareholder proposals. See, e.g., letters from Council of Institutional Investors dated January 30, 2020; Interfaith Center on Corporate Responsibility dated January 27, 2020. We note that the Commission has conducted various forms of outreach over the years on the proxy process, including hosting the Proxy Process Roundtable and soliciting public input on the Rule 14a-8 ownership thresholds and the costs of submitting shareholder proposals. That input informed our cost estimates in the Proposing Release, and we specifically requested comment on the estimates and data to help us refine our analysis. We considered all of this information thoroughly, leveraging our decades of experience with Rule 14a-8, when evaluating whether the available information is reliable and sufficient. We have no reason to believe that additional study of the costs of shareholder proposals would yield materially different information, nor are we aware of additional sources of information that would further inform these cost estimates.</h>
 
 One commenter also argued that the cost estimate of shareholder proposals used in the economic analysis of the Proposing Release is inconsistent with the cost estimate of shareholder proposals used in the PRA of the release. See letter from John Coates and Barbara Roper dated January 30, 2020. Our revised economic analysis takes into account the lowest cost estimate discussed in the PRA of the Proposing Release. The cost estimates in the PRA section of this release may be different than the cost estimates in the economic analysis because the economic analysis applies a range of cost estimates to all proposals ( i.e. , those that are included in the proxy statement without seeking no-action relief, those that are included in the proxy statement after seeking no-action relief, those that are omitted from the proxy statement after seeking no-action relief, and those that are withdrawn) while the PRA uses an average cost estimate per proposal category. In addition, the PRA makes certain assumptions regarding hourly costs to arrive at a cost estimate per proposal category while the economic analysis uses per-proposal cost estimates provided by commenters or surveys.
 
@@ -1769,6 +1621,10 @@ We believe that the amendments do not need further clarification, consolidation,
 343 See, e.g., letters from John Coates and Barbara Roper dated January 30, 2020; Council of Institutional Investors dated January 30, 2020.
 
 344 The $18,982 estimate was derived in 2009 and is equal to $22,600, when adjusted for inflation (see supra note for the source of inflation adjustment data). To be conservative in our cost savings estimates and for ease of discussion and calculations, we use $20,000 as the rounded up estimate of $18,982. See letters from John Coates and Barbara Roper dated January 30, 2020; Council of Institutional Investors dated January 30, 2020.
+
+345 See Proposing Release at 66461. See letter from Center for Capital Markets, dated January 31, 2020.
+
+346 Some commenters suggested that the Commission should have conducted independent research on the cost of shareholder proposals. See, e.g., letters from Council of Institutional Investors dated January 30, 2020; Interfaith Center on Corporate Responsibility dated January 27, 2020. We note that the Commission has conducted various forms of outreach over the years on the proxy process, including hosting the Proxy Process Roundtable and soliciting public input on the Rule 14a-8 ownership thresholds and the costs of submitting shareholder proposals. That input informed our cost estimates in the Proposing Release, and we specifically requested comment on the estimates and data to help us refine our analysis. We considered all of this information thoroughly, leveraging our decades of experience with Rule 14a-8, when evaluating whether the available information is reliable and sufficient. We have no reason to believe that additional study of the costs of shareholder proposals would yield materially different information, nor are we aware of additional sources of information that would further inform these cost estimates.
 
 347 $332,400 = $20,000 (see supra note ) x 2% (i.e., minimum upper bound percentage of excludable proposals as a result of the amendments to Rules 14a-8(b) and 14a-8(c) from Table 1 above) x 831 (i.e., all proposals submitted to be considered at 2018 shareholders’ meetings).
 

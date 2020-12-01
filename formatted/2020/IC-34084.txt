@@ -1,401 +1,3 @@
-https://www.sec.gov/rules/final/2020/ic-34084.pdf
-
-I.0.0.0 INTRODUCTION
-
-	I.A.0.0 Overview of Funds’ Use of Derivatives
-
-	I.B.0.0 Derivatives and the Senior Securities Restrictions of the Investment Company Act
-
-		I.B.1.0 Requirements of Section 18
-
-		I.B.2.0 Investment Company Act Release 10666 and the Status of Derivatives Under Section 18
-
-		I.B.1.0 Some commenters mentioned undue speculation concerns underlying section 18 and
-
-		I.B.3.0 Need for Updated Regulatory Framework
-
-	I.C.0.0 Overview of the Final Rule
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Scope of Rule 18f-4
-
-	II.B.0.0 Derivatives Risk Management Program
-
-		II.B.1.0 Program Administration
-
-		II.B.2.0 Required Elements of the Program
-
-			II.B.2.a Risk Identification and Assessment
-
-			II.B.2.b Risk Guidelines
-
-			II.B.2.c Stress Testing
-
-			II.B.2.d Backtesting
-
-			II.B.2.e Internal Reporting and Escalation
-
-			II.B.2.f Periodic Review of the Program
-
-	II.C.0.0 Board Oversight and Reporting
-
-		II.C.1.0 Board Approval of the Derivatives Risk Manager
-
-		II.C.2.0 Board Reporting
-
-		II.C.1.0 We are adopting these requirements substantially as proposed, with some modifications as discussed below.
-
-	II.D.0.0 Limit on Fund Leverage Risk
-
-		II.D.1.0 Use of VaR
-
-		II.D.2.0 Relative VaR Test
-
-			II.D.2.a Relative VaR as the Default VaR Test
-
-			II.D.2.b Designated Reference Portfolio
-
-			II.D.2.c 200% and 250% Limits Under Relative VaR Test
-
-		II.D.3.0 Absolute VaR Test
-
-		II.D.4.0 Funds Limited to Certain Investors
-
-		II.D.5.0 Choice of Model and Parameters for VaR Test
-
-		II.D.6.0 Implementation
-
-			II.D.6.a Testing Frequency
-
-			II.D.6.b Remediation
-
-	II.E.0.0 Limited Derivatives Users
-
-		II.E.1.0 Derivatives Exposure
-
-			II.E.1.a Adjustments for Interest Rate Derivatives and Options
-
-			II.E.1.b Closed-Out Derivatives Positions
-
-		II.E.2.0 Limited Derivatives User Threshold
-
-			II.E.2.a 10% Derivatives Exposure Threshold
-
-			II.E.2.b The 10% Derivatives Exposure Threshold Excludes Certain Hedging Transactions
-
-			II.E.2.c Certain Suggested Transactions Not Excluded From The 10% Derivatives Exposure Threshold
-
-		II.E.3.0 Risk Management
-
-		II.E.4.0 Exceedances of the Limited Derivatives User Exception
-
-		II.E.2.0 establish a derivatives risk management program, comply with the VaR-based limit on fund leverage risk, and comply with the related board oversight and reporting requirements as soon as reasonably practicable (“derivatives risk management program adoption”). In either case the fund’s next filing on Form N-PORT must specify the number of business days, in excess of the five-business-day period that the final rule provides for remediation, that the fund’s derivatives exposure exceeded 10% of its net assets during the applicable reporting period.
-
-			II.E.2.a Temporary Exceedance
-
-			II.E.2.b Derivatives Risk Management Program Adoption
-
-	II.F.0.0 Approach to Leveraged/Inverse Funds
-
-		II.F.1.0 Proposed Alternative Requirements for Leveraged/Inverse Funds
-
-		II.F.2.0 Treatment of Leveraged/Inverse Funds Under Rule 18f-4
-
-		II.F.3.0 Standards of Conduct for Broker-Dealers and Registered Investment Advisers
-
-		II.F.4.0 Staff Review of Regulatory Requirements Relating to Complex Financial Products
-
-		II.F.5.0 Treatment of Existing Leveraged/Inverse Funds that Seek to Provide Leveraged or Inverse Market Exposure Exceeding 200% of the Return of the Relevant Index
-
-		II.F.6.0 Amendments to Rule 6c-11 under the Investment Company Act and Proposed Rescission of Exemptive Relief for
-
-	II.G.0.0 Amendments to Fund Reporting Requirements
-
-		II.G.1.0 Amendments to Form N-PORT
-
-			II.G.1.a Derivatives Exposure
-
-		II.G.3.0 some funds provide disclosure about their use of derivatives in shareholder reports. Some
-
-			II.G.3.b VaR Information
-
-		II.G.2.0 Amendments to Current Reporting Requirements
-
-		II.G.3.0 Amendments to Form N-CEN
-
-	II.H.0.0 Reverse Repurchase Agreements
-
-	II.I.0.0 Unfunded Commitment Agreements
-
-	II.J.0.0 Recordkeeping Provisions
-
-	II.K.0.0 Conforming Amendments
-
-		II.K.1.0 Form N-PORT and Rule 22e-4
-
-		II.K.2.0 Form N-2 (Senior Securities Table)
-
-	II.L.0.0 Compliance Date
-
-	II.M.0.0 Other Matters
-
-III.0.0.0 ECONOMIC ANALYSIS
-
-	III.A.0.0 Introduction
-
-	III.B.0.0 Economic Baseline
-
-		III.B.1.0 Fund Industry Overview
-
-		III.B.2.0 Funds’ Use of Derivatives and Reverse Repurchase Agreements
-
-		III.B.3.0 Current Regulatory Framework for Derivatives
-
-		III.B.4.0 Funds’ Derivatives Risk Management Practices and Use of VaR Models
-
-		III.B.5.0 Leveraged/Inverse Funds
-
-	III.C.0.0 Benefits and Costs of the Final Rules and Amendments
-
-		III.C.1.0 Derivatives Risk Management Program and Board Oversight and Reporting
-
-		III.C.2.0 VaR-Based Limit on Fund Leverage Risk
-
-		III.C.3.0 Limited Derivatives Users
-
-		III.C.4.0 Reverse Repurchase Agreements and Similar Financing Transactions
-
-		III.C.5.0 Treatment of Existing Leveraged/Inverse Funds that Seek to Provide Leveraged or Inverse Market Exposure Exceeding 200% of the Return of the Relevant Index
-
-		III.C.6.0 Amendments to Rule 6c-11 under the Investment Company Act and Rescission of Exemptive Relief for Leveraged/Inverse
-
-		III.C.7.0 Unfunded Commitment Agreements
-
-		III.C.8.0 Recordkeeping
-
-		III.C.9.0 Amendments to Fund Reporting Requirements
-
-			III.C.9.a Form N-PORT and Form N-CEN
-
-			III.C.9.b Amendments to Current Reporting Requirements
-
-		III.C.10.0 When-Issued and Forward-Settling Transactions
-
-	III.D.0.0 Effects on Efficiency, Competition, and Capital Formation
-
-		III.D.1.0 Efficiency
-
-		III.D.1.0 and We estimate that the total industry cost for disclosure changes for money market funds in the first year would equal $285,600. The estimate is based on the following calculations: First, we calculate the one-time cost for disclosure changes for money market funds, which is 3 hours x $312 (compliance manager) + 3 hours x $368 (compliance attorney) = $936 +
-
-		III.D.2.0 Competition
-
-		III.D.3.0 Capital Formation
-
-	III.E.0.0 Reasonable Alternatives
-
-		III.E.1.0 Alternative Implementations of the VaR Tests
-
-			III.E.1.a Different Confidence Level or Time Horizon
-
-			III.E.1.b Absolute VaR Test Only
-
-			III.E.1.c Choice of Absolute or Relative VaR Tests
-
-			III.E.1.d Third-Party Validation of a Fund’s VaR Model
-
-			III.E.1.e Expected Shortfall or Stressed VaR
-
-			III.E.1.f Funds Limited to Certain Investors
-
-			III.E.1.g No Modification of VaR Limits for Certain Closed-End Funds
-
-		III.E.2.0 Alternatives to the VaR Tests
-
-			III.E.2.a Stress Testing
-
-			III.E.2.b Asset Segregation
-
-			III.E.2.c Exposure-Based Test
-
-		III.E.3.0 Stress Testing Frequency
-
-		III.E.4.0 Enhanced Disclosure
-
-		III.E.5.0 Alternative Treatment for Leveraged/Inverse Funds
-
-IV.0.0.0 PAPERWORK REDUCTION ACT ANALYSIS
-
-	IV.A.0.0 Introduction
-
-	IV.B.0.0 Rule 18f-4
-
-		IV.B.1.0 Derivatives Risk Management Program
-
-		IV.B.1.0 For “Written Derivatives Risk Management Program Development,” these estimates include initial burden estimates annualized over a three-year period.
-
-		IV.B.2.0 See supra footnote
-
-		IV.B.3.0 This estimated burden is based on the estimated wage rate of $489/hour, for 10 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
-
-		IV.B.4.0 This estimated burden is based on the estimated wage rate of $489/hour, for 6 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
-
-		IV.B.5.0 We estimate that 50% of funds will use outside legal services for these collections of information. This estimate takes into account that funds may elect to use outside legal
-
-		IV.B.1.0 This estimate includes initial burden estimates annualized over a three-year period, plus any estimated ongoing annual burden hours.
-
-		IV.B.2.0 See supra footnote (regarding wage rates).
-
-		IV.B.3.0 This reflects an increase to the estimate that appeared in the Proposing Release, to account for a correction to the total internal time costs calculation as it appeared in the Proposing Release.
-
-		IV.B.4.0 This reflects a reduction of the proposed estimate, to account for: (1) inadvertent quadrupling of the estimated rate in the proposal; and (2) updated assumptions about the number of directors sitting on a fund’s board.
-
-		IV.B.5.0 This estimated burden is based on the estimated wage rate of $489/hour, for 3 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
-
-		IV.B.6.0 This estimated burden is based on the estimated wage rate of $489/hour, for 4 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
-
-		IV.B.7.0 We estimate that 50% of funds will use outside legal services to assist with these collections of information. This estimate takes into account that funds may elect to use outside legal services (along with in-house counsel) in connection with these requirements of rule 18f-4, based on factors such as fund budget and the fund’s
-
-		IV.B.3.0 VaR Remediation
-
-		IV.B.1.0 See supra footnote (regarding wage rates).
-
-		IV.B.2.0 This estimate is based on the assumption that, of the 2,696 funds that will be required to comply with either of the VaR tests, on average 27 funds (or 1%), breach the relative or absolute VaR test annually. Each of the derivatives risk manager, a senior portfolio manager, and a compliance attorney will spend 10 hours preparing and reviewing related remediation reports. However, because we estimate that only 1% of funds will breach the relative or absolute VaR test annually, the hours burden is being decreased by 99%. 10 hours x 1%= 0.1 hours.
-
-		IV.B.3.0 This estimate is based on the assumption that, of the 2,696 funds that will be required to comply with either of the VaR tests, on average 27 funds (or 1%), breach the relative or absolute VaR test annually. The board will spend 2 hours reviewing related remediation reports. However, because we estimate that only 1% of funds will breach the relative or absolute VaR test annually, the hours burden is being decreased by 99%. 2 hours x 1%= 0.02 hours.
-
-		IV.B.4.0 Disclosure Requirement for Certain Leveraged/Inverse Funds
-
-		IV.B.1.0 See supra footnote (regarding wage rates).
-
-		IV.B.2.0 This reflects a reduction of the annual burden hours estimate that appeared in the Proposing Release, to account for inadvertent doubling of the estimated burden hours in the Proposing Release.
-
-		IV.B.3.0 This estimate includes initial burden estimates annualized over a three-year period.
-
-		IV.B.5.0 Disclosure Changes for Money Market Funds
-
-		IV.B.1.0 These estimates include initial burden estimates annualized over a three-year period.
-
-		IV.B.2.0 See supra footnote (regarding wage rates).
-
-		IV.B.6.0 Requirements for Limited Derivatives Users
-
-		IV.B.999.0 hours	3 hours
-
-		IV.B.1.0 hours3	×
-
-		IV.B.1.0 For “Written Policies and Procedures,” these estimates include initial burden estimates annualized over a three-year period.
-
-		IV.B.2.0 See supra footnote (regarding wage rates).
-
-		IV.B.3.0 This estimate is based on the assumption that, of the 2,437 funds that will be limited derivatives user, on average 25 funds (or 1%), will be subject to the board reporting requirement in the exception’s remediation provision annually. Each of the senior portfolio manager and compliance attorney will spend 10 hours preparing and reviewing the related remediation reports. However, because we estimate that only 1% of funds will be subject to the board reporting requirement in the exception’s remediation provision annually, the hours burden is being decreased by 99%. 10 hours x 1%= 0.1 hours.
-
-		IV.B.4.0 This estimate is based on the assumption that, of the 2,437 funds that will be limited derivatives user, on average 25 funds (or 1%), will be subject to the board reporting requirement in the exception’s remediation provision annually. The board will spend 2 hours reviewing related remediation reports. However, because we estimate that only 1% of funds will be subject to the board reporting requirement in the exception’s remediation provision annually, the hours burden is being decreased by 99%. 2 hours x 1%= 0.02 hours.
-
-		IV.B.5.0 This estimated burden is based on the estimated wage rate of $489/hour, for 4 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
-
-		IV.B.6.0 This estimated burden is based on the estimated wage rate of $489/hour, for 2 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
-
-		IV.B.7.0 We estimate that 50% of funds will use outside legal services for these collections of information. This estimate takes into account that funds may elect to use outside legal services (along with in-house counsel) in connection with these requirements of rule 18f-4, based on factors such as fund budget and the fund’s standard practices for using outside legal services, as well as personnel availability and expertise.
-
-		IV.B.1.0 These estimates include initial burden estimates annualized over a three-year period.
-
-		IV.B.2.0 See supra footnote (regarding wage rates).
-
-		IV.B.3.0 This reflects an increase to the estimate that appeared in the Proposing Release, to account for inadvertent halving of the internal time costs for the recordkeeping burdens in the Proposing Release.
-
-		IV.B.4.0 Note that this estimate may be over-inclusive because not all funds included in this calculation will be subject to a derivatives risk management program and compliance with the rule’s VaR requirements. For instance, certain leveraged/inverse funds will not be subject to compliance with the rule’s VaR requirements.
-
-		IV.B.5.0 See supra footnote (regarding external cost estimates). Estimates of external costs for recordkeeping burdens reflect costs that funds may pay to third parties to assist in fulfilling funds’ recordkeeping duties.
-
-		IV.B.2.0 This reflects a reduction of the annual burden hours estimate that appeared in the Proposing Release (269 hours), to account for inadvertent doubling of the estimated burden hours in the Proposing Release.
-
-		IV.B.3.0 This reflects an increase to the estimate that appeared in the Proposing Release ($799,287), to account for inadvertent halving of the internal time costs for the recordkeeping burdens in the Proposing Release.
-
-	IV.C.0.0 Rule 6c-11
-
-		IV.C.1.0 The previously approved burdens and costs in this table are based on the currently approved estimate of 1,735 ETFs relying on rule 6c-11.
-
-		IV.C.2.0 The updated estimated burdens and costs in this table are based on an estimate of 172 leveraged/inverse ETFs that will rely on rule 6c-11 pursuant to the amendments to that rule, for a total estimate of 1,907 ETFs that will rely on rule 6c-11.
-
-	IV.D.0.0 Form N-PORT
-
-		IV.D.1.0 See supra footnote (regarding wage rates). These PRA estimates assume that the same types of professionals will be involved in the reporting requirements that we believe otherwise will be involved in preparing and filing reports on Form N- PORT.
-
-		IV.D.2.0 Includes initial burden estimates annualized over a three-year period.
-
-		IV.D.3.0 This estimate assumes that, annually after the initial 2 hours to comply with the new N-PORT requirements, each of a compliance attorney and a senior programmer will incur 1 burden hour per filing associated with the new reporting requirements. The estimate of 4.33 hours is based on the following calculation: ((2 hours for the first filing x 1 = 2) + (3 additional filings in year 1 x 1 hour for each of the additional 3 filings in year 1 = 3) + (4 filings in years 2 and 3 x 1 hour per filing x 2 years) = 8)
-
-		IV.D.4.0 This estimate is based on the following calculation: $4,210 (average costs for funds reporting the information on Form N-PORT) * 5,091 funds (which includes funds reporting derivative exposure information and VaR-related information).
-
-		IV.D.5.0 This estimate is based on the following information and calculations: (35% x
-
-		IV.D.6.0 This estimate of the external annual cost burden of Form N-PORT reporting for limited derivatives users encompasses any external costs burdens associated with reporting derivatives exposure and any reporting related to exceedances of the 10% derivatives exposure threshold on the Form N-PORT.
-
-	IV.E.0.0 Form N-RN and Rule 30b1-10
-
-		IV.E.1.0 See supra footnote (regarding wage rates). These PRA estimates assume that the same types of professionals will be involved in the reporting requirements that we believe otherwise will be involved in preparing and filing reports on Form N- RN.
-
-		IV.E.2.0 This estimate is based on the assumption that, of the 2,696 funds that will be required to comply with either of the VaR tests, on average the Commission will receive 54 reports regarding a relative or absolute VaR test breach (representing 1% of funds (2,696 x 1% = 27 funds) filing twice (27 funds x 2 = 54 filings), once upon initial breach and once upon coming back into compliance). We estimate that a compliance attorney will spend 3 hours, and a senior programmer will spend 1 hour, preparing and submitting each report. However, because we estimate that only 1% of funds will have to File Form N-RN each year because they breach the relative or absolute VaR test, the estimated hour burden is being decreased by 99%. (3 hours x 1%) x 2 filings (one on initial breach and one when back in compliance) =
-
-		IV.E.1.0 See supra footnote (regarding wage rates). These PRA estimates assume that the same types of professionals will be involved in the reporting requirements that we believe otherwise will be involved in preparing and filing reports on Form N- CEN.
-
-		IV.E.2.0 This estimate assumes each fund reporting on Form N-CEN will spend approximately 1 minute reporting these new data elements.
-
-		IV.E.3.0 This estimate assumes each fund reporting on Form N-CEN will spend approximately 10 minutes reporting these new data elements.
-
-V.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	V.A.0.0 Need for and Objectives of the Rule and Form Amendments
-
-	V.B.0.0 Significant Issues Raised by Public Comments
-
-	V.C.0.0 Small Entities Subject to the Final Rule
-
-	V.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-		V.D.1.0 Rule 18f-4
-
-			V.D.1.a Derivatives Risk Management Program, and Board Oversight and Reporting
-
-			V.D.1.b Limit on Fund Leverage Risk
-
-			V.D.1.c Requirements for Limited Derivatives Users
-
-			V.D.1.d Reverse Repurchase Agreements
-
-			V.D.1.e Unfunded Commitment Agreements
-
-			V.D.1.f When-Issued, Forward-Settling, and Non-Standard Settlement Cycle Securities Transactions
-
-			V.D.1.g Recordkeeping
-
-		V.D.2.0 Amendments to Forms N-PORT, N-RN, and N-CEN
-
-			V.D.2.a Amendments to Form N-PORT
-
-			V.D.2.b Amendments to Current Reporting Requirements
-
-			V.D.2.c Amendments to Form N-CEN
-
-		V.D.3.0 Amendments to Rule 6c-11
-
-	V.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-		V.E.1.0 Alternative Approaches to Rule 18f-4
-
-		V.E.2.0 () for a discussion of estimated costs associated with these elements of the rule.
-
-		V.E.2.0 Alternative Approaches to Amendments to Forms N-PORT, N- LIQUID (N-RN), and N-CEN
-
-		V.E.3.0 Alternative Approaches to Rule 6c-11
-
-VI.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 239, 249, 270, and 274
 
 [Release No. IC-34084; File No. S7-24-15] RIN: 3235-AL60
@@ -496,7 +98,7 @@ Funds’ use of derivatives, like the trading practices the Commission addressed
 
 Investment Company Act’s undue speculation concern because a fund may experience gains and losses that substantially exceed the fund’s investment, and also may incur a conditional or unconditional obligation to make a payment or deliver assets to a counterparty. <sup>54</sup> Not viewing derivatives that impose a future payment obligation on the fund as involving senior securities, subject to appropriate limits under section 18, would frustrate the concerns underlying section
 
-<h>1. Some commenters mentioned undue speculation concerns underlying section 18 anddiscussed ways in which the Commission’s 2019 proposal would address these concerns . <sup>56</sup>11) (“ICI Concept Release Comment Letter”), at 8 (“The Act is thus designed to regulate the degree to which a fund issues any form of debt—including contractual obligations that could require a fund to make payments in the future.”). The Commission similarly noted in Release 10666 that, given the potential for reverse repurchase agreements to be used for leveraging and their ability to magnify the risk of investing in a fund, “one of the important policies underlying section 18 would be rendered substantially nugatory” if funds’ use of reverse repurchase agreements were not subject to limitation. See Proposing Release, supra footnote 1, n.49.</h>
+1. Some commenters mentioned undue speculation concerns underlying section 18 anddiscussed ways in which the Commission’s 2019 proposal would address these concerns . <sup>56</sup>11) (“ICI Concept Release Comment Letter”), at 8 (“The Act is thus designed to regulate the degree to which a fund issues any form of debt—including contractual obligations that could require a fund to make payments in the future.”). The Commission similarly noted in Release 10666 that, given the potential for reverse repurchase agreements to be used for leveraging and their ability to magnify the risk of investing in a fund, “one of the important policies underlying section 18 would be rendered substantially nugatory” if funds’ use of reverse repurchase agreements were not subject to limitation. See Proposing Release, supra footnote 1, n.49.
 
 Second, with respect to the Investment Company Act’s asset sufficiency concern, a fund’s use of derivatives with future payment obligations also may raise concerns regarding the fund’s ability to meet those obligations. Many fund derivatives investments, such as futures contracts, swaps, and written options, pose a risk of loss that can result in payment obligations owed to the fund’s counterparties. <sup>57</sup> Losses on derivatives therefore can result in counterparty payment obligations that directly affect the capital structure of a fund and the relative rights of the fund’s counterparties and shareholders. These losses and payment obligations also can force a fund’s adviser to sell the fund’s investments to meet its obligations. When a fund uses derivatives to leverage its portfolio, this can amplify the risk of a fund having to sell its investments, potentially generating additional losses for the fund. <sup>58</sup> In an extreme situation, a(“Congress’ findings and declaration of policy underlying Section 18 make clear that Congress was concerned with the potential for investment companies, through excessive borrowing, to engage in undue speculation and operate without sufficient assets to cover potential losses . ..While Section 18 does not explicitly refer to funds’ use of derivatives, the concerns are the same.”); ICI Comment Letter (“We fully support the Commission’s goal of addressing the investor protection concerns underlying Section 18 of the Investment Company Act of 1940, and the reproposed rule is an effective way to achieve that goal. In particular, the leverage limits coupled with elements of the derivatives risk management program, including required stress testing, will restrict the amount of exposure to economic risk that a fund could take when investing in derivatives. Creating leverage limits that confine economic risk is a far better way to addresses Section 18’s “undue speculation” concerns than limits based solely on the aggregate gross notional exposure (“GNE”) of a fund’s derivatives transactions, as proposed in 2015.”).fund could default on its payment obligations. <sup>59</sup> Some commenters mentioned asset sufficiency concerns underlying section 18 and discussed ways in which the Commission’s 2019 proposal would address these concern s . <sup>60</sup>
 
@@ -820,9 +422,7 @@ We agree with commenters that the board’s role is distinct from that of the de
 
 Reporting on Program Implementation and Effectiveness
 
-The rule will require a fund’s derivatives risk manager to provide to the fund’s board, on or before the implementation of the program and at least annually thereafter, a written report providing a representation that the program is reasonably designed to manage the fund’s derivatives risks and to incorporate the required elements of the program. <sup>265</sup> The report must include the basis for the derivatives risk manager’s representation along with such information as may be reasonably necessary to evaluate the adequacy of the fund’s program and the effectiveness of its implementation. The representation may be based on the derivatives risk manager’s reasonable belief after due inquiry. A derivatives risk manager, for example, could form its reasonable belief based on an assessment of the program and taking into account input from fund personnel, including the fund’s portfolio management, or data that third parties provide. Additionally, the written report must include, as applicable, the fund’s derivatives risk manager’s basis for the approval of the designated reference portfolio (or any change in the designated reference portfolio) used under the relative VaR test; or an explanation of the basis for the derivatives risk manager’s determination that a designated reference portfolio would notprovide an appropriate reference portfolio for purposes of the relative VaR test such that the fund relied on the absolute VaR test instead. <sup>266</sup> These requirements are designed to provide a fund’s board with information about the effectiveness and implementation of the program so that the board may appropriately exercise its oversight responsibilities, including its role under rule 38a-
-
-<h>1. We are adopting these requirements substantially as proposed, with some modifications as discussed below.</h>
+The rule will require a fund’s derivatives risk manager to provide to the fund’s board, on or before the implementation of the program and at least annually thereafter, a written report providing a representation that the program is reasonably designed to manage the fund’s derivatives risks and to incorporate the required elements of the program. <sup>265</sup> The report must include the basis for the derivatives risk manager’s representation along with such information as may be reasonably necessary to evaluate the adequacy of the fund’s program and the effectiveness of its implementation. The representation may be based on the derivatives risk manager’s reasonable belief after due inquiry. A derivatives risk manager, for example, could form its reasonable belief based on an assessment of the program and taking into account input from fund personnel, including the fund’s portfolio management, or data that third parties provide. Additionally, the written report must include, as applicable, the fund’s derivatives risk manager’s basis for the approval of the designated reference portfolio (or any change in the designated reference portfolio) used under the relative VaR test; or an explanation of the basis for the derivatives risk manager’s determination that a designated reference portfolio would notprovide an appropriate reference portfolio for purposes of the relative VaR test such that the fund relied on the absolute VaR test instead. <sup>266</sup> These requirements are designed to provide a fund’s board with information about the effectiveness and implementation of the program so that the board may appropriately exercise its oversight responsibilities, including its role under rule 38a-1. We are adopting these requirements substantially as proposed, with some modifications as discussed below.
 
 Commenters generally supported the derivatives risk manager providing to the fund’s board, on or before implementation of the program, and at least annually thereafter, an annual report regarding the program’s design. <sup>267</sup> One commenter specifically supported the requirement that the derivatives risk manager determine whether the program is operating effectively. <sup>268</sup> Several commenters, however, suggested modifications to this proposed reporting requirement, expressing concern about the requirement for the derivatives risk manager to make affirmative representations regarding the program due to the burden this would impose. <sup>269</sup> For example, one commenter stated that the reporting requirement should be replaced by a written report, provided at least annually, that addresses operations, adequacy and effectiveness of implementation, and discloses any material changes to the program. <sup>270</sup>
 
@@ -1262,9 +862,7 @@ In the Proposing Release, the Commission stated that if a fund’s derivatives e
 
 Many commenters requested further clarity on issues related to exceedances and remediation of the exception in the final rule, including to prevent confusion and divergent practices. <sup>550</sup> As discussed in more detail below, commenters sought additional clarity and made suggestions regarding cases where a fund’s derivatives exposure were to exceed the 10% threshold temporarily, as well as cases where a fund exceeded the derivatives exposure threshold and determined to come into compliance with the VaR and program requirements rather than reduce the fund’s derivatives exposure.
 
-To address commenters’ concerns, we have determined to modify the final rule to address exceedances of the 10% derivatives exposure threshold. The final rule includes two alternative paths for remediation. If a fund’s derivatives exposure exceeds the 10% derivatives exposure threshold for five business days, the fund’s investment adviser must provide a written report to the fund’s board of directors informing it whether the investment adviser intends either to: (1)promptly, but within no more than thirty calendar days of the exceedance, reduce the fund’s derivatives exposure to be in compliance with the 10% threshold (“temporary exceedance”); or
-
-<h>2. establish a derivatives risk management program, comply with the VaR-based limit on fund leverage risk, and comply with the related board oversight and reporting requirements as soon as reasonably practicable (“derivatives risk management program adoption”). In either case the fund’s next filing on Form N-PORT must specify the number of business days, in excess of the five-business-day period that the final rule provides for remediation, that the fund’s derivatives exposure exceeded 10% of its net assets during the applicable reporting period.</h>
+To address commenters’ concerns, we have determined to modify the final rule to address exceedances of the 10% derivatives exposure threshold. The final rule includes two alternative paths for remediation. If a fund’s derivatives exposure exceeds the 10% derivatives exposure threshold for five business days, the fund’s investment adviser must provide a written report to the fund’s board of directors informing it whether the investment adviser intends either to: (1)promptly, but within no more than thirty calendar days of the exceedance, reduce the fund’s derivatives exposure to be in compliance with the 10% threshold (“temporary exceedance”); or 2. establish a derivatives risk management program, comply with the VaR-based limit on fund leverage risk, and comply with the related board oversight and reporting requirements as soon as reasonably practicable (“derivatives risk management program adoption”). In either case the fund’s next filing on Form N-PORT must specify the number of business days, in excess of the five-business-day period that the final rule provides for remediation, that the fund’s derivatives exposure exceeded 10% of its net assets during the applicable reporting period.
 
 The two paths that the final rule permits for remediation are designed to balance providing a clear framework for addressing exceedances that persist beyond five business days with investor protection concerns related to fund leverage risk and potential harm to a fund if it were required to sell assets or exit positions quickly to remain a limited derivatives user. We discuss each of the two paths for remediation below.
 
@@ -1436,9 +1034,7 @@ In a change from the proposal, we are also adopting a requirement for funds that
 
 In another change, derivatives exposure information reported in response to Item B.9 of Form N-PORT will not be made publicly available, as had been proposed. <sup>647</sup> The majority of commenters that addressed this aspect of the proposal urged the Commission to make this information non-public. <sup>648</sup> Other commenters supported (or stated they did not oppose) public disclosure of derivatives exposure, but did not provide detailed justification for this support. <sup>649</sup>
 
-Commenters that opposed public disclosure of a fund’s gross notional derivatives exposure expressed concern that this information could confuse or mislead investors who may not understand the relevance of or context for the data. <sup>650</sup> One commenter stated that “derivatives exposure” would include notional amounts of transactions that investors may not traditionally consider to be “derivatives.” <sup>651</sup> Several commenters stated that public disclosure of this information could cause some investors or third-party analysts to incorrectly gauge the riskiness of (and amount of leverage used by) funds, particularly since Form N-PORT is not designed toinclude qualitative information that could provide context for the data. <sup>652</sup> Commenters also asserted that publicly disclosing this information would not be necessary to provide additional transparency to investors and other market participants because funds already publicly disclose information about their derivatives positions. <sup>653</sup> In particular, several commenters observed that:(1) funds currently report their full portfolio schedules on Form N-PORT in a structured data format; (2) a fund’s financial statements contain a variety of derivatives-related information (including notional amount information organized by category of derivative instrument); and
-
-<h>3. some funds provide disclosure about their use of derivatives in shareholder reports. Somecommenters also stated that public disclosure of derivatives exposure amounts, even if disclosed on a delayed basis, could reveal proprietary information to fund competitors. <sup>655</sup> Two commenters stated that the delayed public availability of exposure information that funds report, while protective of funds, may limit its utility to investors. <sup>656</sup></h>
+Commenters that opposed public disclosure of a fund’s gross notional derivatives exposure expressed concern that this information could confuse or mislead investors who may not understand the relevance of or context for the data. <sup>650</sup> One commenter stated that “derivatives exposure” would include notional amounts of transactions that investors may not traditionally consider to be “derivatives.” <sup>651</sup> Several commenters stated that public disclosure of this information could cause some investors or third-party analysts to incorrectly gauge the riskiness of (and amount of leverage used by) funds, particularly since Form N-PORT is not designed toinclude qualitative information that could provide context for the data. <sup>652</sup> Commenters also asserted that publicly disclosing this information would not be necessary to provide additional transparency to investors and other market participants because funds already publicly disclose information about their derivatives positions. <sup>653</sup> In particular, several commenters observed that:(1) funds currently report their full portfolio schedules on Form N-PORT in a structured data format; (2) a fund’s financial statements contain a variety of derivatives-related information (including notional amount information organized by category of derivative instrument); and (3) some funds provide disclosure about their use of derivatives in shareholder reports. Somecommenters also stated that public disclosure of derivatives exposure amounts, even if disclosed on a delayed basis, could reveal proprietary information to fund competitors. <sup>655</sup> Two commenters stated that the delayed public availability of exposure information that funds report, while protective of funds, may limit its utility to investors. <sup>656</sup>
 
 We are not requiring derivatives exposure information to be publicly available. Section 45(a) requires information in reports filed with the Commission pursuant to the Investment Company Act to be made public unless we find that public disclosure is neithernecessary nor appropriate in the public interest or for the protection of investors . <sup>657</sup> Because weare not, as proposed, requiring all funds to report derivatives exposure information, but areinstead imposing the requirement only on funds that are limited derivatives users, making this information public is unlikely to provide the market-wide insight into the levels of funds’ derivatives exposure to investors and other market participants we had initially anticipated. <sup>658</sup> Moreover, making the derivatives exposure data that funds that are limited derivatives users must report publicly available could cause investors to believe that these reporting funds (which do not use derivatives extensively or largely use them for limited hedging purposes), are riskier than funds that use derivatives to a greater extent but are not required to report their exposure information. In light of commenters’ concerns, and given the regulatory purpose of the reporting requirement we are adopting, we find that public disclosure of this information is neither necessary nor appropriate in the public interest or for the protection of investors.
 
@@ -1908,7 +1504,7 @@ This section evaluates the impact of the final rules on efficiency, competition,
 
 Rule 18f-4 in conjunction with the rescission of Release 10666 may make derivatives use more efficient for certain funds, including for those funds that will qualify as limited derivatives users. Specifically, funds’ current asset segregation practices may provide a disincentive to use derivatives for which notional amount segregation is the practice, even if such derivatives would otherwise provide a lower-cost method of achieving desired exposures than purchasing the underlying reference asset directly. <sup>939</sup> For example, a fund seeking to sell credit default swaps to take a position in an issuer’s credit risk may currently choose not to do so because of the large notional amounts that the fund would segregate for that specific derivatives position. The final rule therefore could increase efficiency by mitigating current incentives for funds to avoid use of
 
-<h>1. and We estimate that the total industry cost for disclosure changes for money market funds in the first year would equal $285,600. The estimate is based on the following calculations: First, we calculate the one-time cost for disclosure changes for money market funds, which is 3 hours x $312 (compliance manager) + 3 hours x $368 (compliance attorney) = $936 +$1,104 = $2,040 per year; The total industry cost for disclosure changes for money market funds, in the first year, is (420 registered money market funds) x $2,040 = $856,800.certain derivatives (even if foregoing the use of those derivatives would entail cost and operational efficiencies).</h>
+1. and We estimate that the total industry cost for disclosure changes for money market funds in the first year would equal $285,600. The estimate is based on the following calculations: First, we calculate the one-time cost for disclosure changes for money market funds, which is 3 hours x $312 (compliance manager) + 3 hours x $368 (compliance attorney) = $936 +$1,104 = $2,040 per year; The total industry cost for disclosure changes for money market funds, in the first year, is (420 registered money market funds) x $2,040 = $856,800.certain derivatives (even if foregoing the use of those derivatives would entail cost and operational efficiencies).
 
 In addition, the final rules may change the degree to which some funds choose to use derivatives generally or the degree to which funds use certain derivatives over others. <sup>940</sup> Changes in the degree to which certain derivatives are used by funds could affect the liquidity and price efficiency of these derivatives. Although unaddressed in the academic literature, we expect an increase in the use of derivatives to correspond to an increase in derivatives market liquidity as more derivatives contracts may be easily bought or sold in markets in any given period, as well as an increase in price efficiency since information regarding underlying securities (and other factors that affect derivatives prices) may be better reflected in the prices of derivative contracts.
 
@@ -2086,15 +1682,15 @@ Table 1: Derivatives Risk Management Program PRA Estimates
 
 Total annual burden	48,474 hours	$19,195,704 $0 FINAL ESTIMATES Notes:
 
-<h>1. For “Written Derivatives Risk Management Program Development,” these estimates include initial burden estimates annualized over a three-year period.</h>
+1. For “Written Derivatives Risk Management Program Development,” these estimates include initial burden estimates annualized over a three-year period.
 
-<h>2. See supra footnote</h>
+2. See supra footnote
 
-<h>3. This estimated burden is based on the estimated wage rate of $489/hour, for 10 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).</h>
+3. This estimated burden is based on the estimated wage rate of $489/hour, for 10 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
 
-<h>4. This estimated burden is based on the estimated wage rate of $489/hour, for 6 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).</h>
+4. This estimated burden is based on the estimated wage rate of $489/hour, for 6 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
 
-<h>5. We estimate that 50% of funds will use outside legal services for these collections of information. This estimate takes into account that funds may elect to use outside legalservices (along with in-house counsel) in connection with these requirements of rule 18f-4, based on factors such as fund budget and the fund’s standard practices for using outside legal services, as well as personnel availability and expertise.2. Board Oversight and Reporting</h>
+5. We estimate that 50% of funds will use outside legal services for these collections of information. This estimate takes into account that funds may elect to use outside legalservices (along with in-house counsel) in connection with these requirements of rule 18f-4, based on factors such as fund budget and the fund’s standard practices for using outside legal services, as well as personnel availability and expertise.2. Board Oversight and Reporting
 
 Rule 18f-4 requires: (1) a fund’s board of directors to approve the designation of the fund’s derivatives risk manager, (2) the derivatives risk manager to provide certain written reports to the board. <sup>1014</sup> We estimate that 2,766 funds will be subject to these requirements. <sup>1015</sup>
 
@@ -2134,19 +1730,19 @@ Total annual burden	77,448 hours	$76,806,288	4,734,009
 
 Notes:
 
-<h>1. This estimate includes initial burden estimates annualized over a three-year period, plus any estimated ongoing annual burden hours.</h>
+1. This estimate includes initial burden estimates annualized over a three-year period, plus any estimated ongoing annual burden hours.
 
-<h>2. See supra footnote (regarding wage rates).</h>
+2. See supra footnote (regarding wage rates).
 
-<h>3. This reflects an increase to the estimate that appeared in the Proposing Release, to account for a correction to the total internal time costs calculation as it appeared in the Proposing Release.</h>
+3. This reflects an increase to the estimate that appeared in the Proposing Release, to account for a correction to the total internal time costs calculation as it appeared in the Proposing Release.
 
-<h>4. This reflects a reduction of the proposed estimate, to account for: (1) inadvertent quadrupling of the estimated rate in the proposal; and (2) updated assumptions about the number of directors sitting on a fund’s board.</h>
+4. This reflects a reduction of the proposed estimate, to account for: (1) inadvertent quadrupling of the estimated rate in the proposal; and (2) updated assumptions about the number of directors sitting on a fund’s board.
 
-<h>5. This estimated burden is based on the estimated wage rate of $489/hour, for 3 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).</h>
+5. This estimated burden is based on the estimated wage rate of $489/hour, for 3 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
 
-<h>6. This estimated burden is based on the estimated wage rate of $489/hour, for 4 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).</h>
+6. This estimated burden is based on the estimated wage rate of $489/hour, for 4 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
 
-<h>7. We estimate that 50% of funds will use outside legal services to assist with these collections of information. This estimate takes into account that funds may elect to use outside legal services (along with in-house counsel) in connection with these requirements of rule 18f-4, based on factors such as fund budget and the fund’sstandard practices for using outside legal services, as well as personnel availability and expertise.</h>
+7. We estimate that 50% of funds will use outside legal services to assist with these collections of information. This estimate takes into account that funds may elect to use outside legal services (along with in-house counsel) in connection with these requirements of rule 18f-4, based on factors such as fund budget and the fund’sstandard practices for using outside legal services, as well as personnel availability and expertise.
 
 <h>3. VaR Remediation</h>
 
@@ -2172,13 +1768,13 @@ Total annual burden	863 hours $542,974
 
 Notes:
 
-<h>1. See supra footnote (regarding wage rates).</h>
+1. See supra footnote (regarding wage rates).
 
-<h>2. This estimate is based on the assumption that, of the 2,696 funds that will be required to comply with either of the VaR tests, on average 27 funds (or 1%), breach the relative or absolute VaR test annually. Each of the derivatives risk manager, a senior portfolio manager, and a compliance attorney will spend 10 hours preparing and reviewing related remediation reports. However, because we estimate that only 1% of funds will breach the relative or absolute VaR test annually, the hours burden is being decreased by 99%. 10 hours x 1%= 0.1 hours.</h>
+2. This estimate is based on the assumption that, of the 2,696 funds that will be required to comply with either of the VaR tests, on average 27 funds (or 1%), breach the relative or absolute VaR test annually. Each of the derivatives risk manager, a senior portfolio manager, and a compliance attorney will spend 10 hours preparing and reviewing related remediation reports. However, because we estimate that only 1% of funds will breach the relative or absolute VaR test annually, the hours burden is being decreased by 99%. 10 hours x 1%= 0.1 hours.
 
-<h>3. This estimate is based on the assumption that, of the 2,696 funds that will be required to comply with either of the VaR tests, on average 27 funds (or 1%), breach the relative or absolute VaR test annually. The board will spend 2 hours reviewing related remediation reports. However, because we estimate that only 1% of funds will breach the relative or absolute VaR test annually, the hours burden is being decreased by 99%. 2 hours x 1%= 0.02 hours.</h>
+3. This estimate is based on the assumption that, of the 2,696 funds that will be required to comply with either of the VaR tests, on average 27 funds (or 1%), breach the relative or absolute VaR test annually. The board will spend 2 hours reviewing related remediation reports. However, because we estimate that only 1% of funds will breach the relative or absolute VaR test annually, the hours burden is being decreased by 99%. 2 hours x 1%= 0.02 hours.
 
-<h>4. Disclosure Requirement for Certain Leveraged/Inverse Funds</h>
+4. Disclosure Requirement for Certain Leveraged/Inverse Funds
 
 Under the final rule, an over-200% leveraged/inverse fund currently in operation will not have to comply with the VaR-based leverage risk limit. Such a fund is required to disclose in its prospectus that it is not subject to rule 18f-4’s limit on fund leverage risk. <sup>1019</sup> This requirement represents a change from the proposal, in which we proposed to require that all leveraged/inverse funds ( i.e. , not only those with a leverage or inverse multiple above 200% of the underlying index) disclose that they are not subject to the rule’s VaR-based leverage risk limit. As such, whereas in the proposal the Commission estimated that 269 leveraged/inverse funds would be subject to this prospectus disclosure requirement, we now estimate that 70 over-200% leveraged/inverse funds will be subject to this requirement. <sup>1020</sup>
 
@@ -2194,11 +1790,11 @@ PROPOSED ESTIMATES
 
 Notes:
 
-<h>1. See supra footnote (regarding wage rates).</h>
+1. See supra footnote (regarding wage rates).
 
-<h>2. This reflects a reduction of the annual burden hours estimate that appeared in the Proposing Release, to account for inadvertent doubling of the estimated burden hours in the Proposing Release.</h>
+2. This reflects a reduction of the annual burden hours estimate that appeared in the Proposing Release, to account for inadvertent doubling of the estimated burden hours in the Proposing Release.
 
-<h>3. This estimate includes initial burden estimates annualized over a three-year period.</h>
+3. This estimate includes initial burden estimates annualized over a three-year period.
 
 <h>5. Disclosure Changes for Money Market Funds</h>
 
@@ -2216,9 +1812,9 @@ PROPOSED ESTIMATES
 
 Notes:
 
-<h>1. These estimates include initial burden estimates annualized over a three-year period.</h>
+1. These estimates include initial burden estimates annualized over a three-year period.
 
-<h>2. See supra footnote (regarding wage rates).</h>
+2. See supra footnote (regarding wage rates).
 
 <h>6. Requirements for Limited Derivatives Users</h>
 
@@ -2252,23 +1848,23 @@ Review of policies and procedures
 
 Limited derivatives user-related
 
-<h>1. hours3	×manager) $33.20remediation reports0.1 hours <sup>3</sup> $368 (compliance attorney)	$36.80directors) Total annual burden per fund Number of funds 18.22 hours × 2,437 $6,465.40 × 2,437 $2,934 × 1,219 <sup>7</sup> Total annual burden 44,402 hours $15,756,180 $3,576,546 0.02 hours <sup>4</sup> × $4,770 (combined rate for <sup>9</sup>$95.40</h>
+1. hours3	×manager) $33.20remediation reports0.1 hours $368 (compliance attorney)	$36.80directors) Total annual burden per fund Number of funds 18.22 hours × 2,437 $6,465.40 × 2,437 $2,934 × 1,219 Total annual burden 44,402 hours $15,756,180 $3,576,546 0.02 hours <sup>4</sup> × $4,770 (combined rate for <sup>9</sup>$95.40
 
 Notes:
 
-<h>1. For “Written Policies and Procedures,” these estimates include initial burden estimates annualized over a three-year period.</h>
+1. For “Written Policies and Procedures,” these estimates include initial burden estimates annualized over a three-year period.
 
-<h>2. See supra footnote (regarding wage rates).</h>
+2. See supra footnote (regarding wage rates).
 
-<h>3. This estimate is based on the assumption that, of the 2,437 funds that will be limited derivatives user, on average 25 funds (or 1%), will be subject to the board reporting requirement in the exception’s remediation provision annually. Each of the senior portfolio manager and compliance attorney will spend 10 hours preparing and reviewing the related remediation reports. However, because we estimate that only 1% of funds will be subject to the board reporting requirement in the exception’s remediation provision annually, the hours burden is being decreased by 99%. 10 hours x 1%= 0.1 hours.</h>
+3. This estimate is based on the assumption that, of the 2,437 funds that will be limited derivatives user, on average 25 funds (or 1%), will be subject to the board reporting requirement in the exception’s remediation provision annually. Each of the senior portfolio manager and compliance attorney will spend 10 hours preparing and reviewing the related remediation reports. However, because we estimate that only 1% of funds will be subject to the board reporting requirement in the exception’s remediation provision annually, the hours burden is being decreased by 99%. 10 hours x 1%= 0.1 hours.
 
-<h>4. This estimate is based on the assumption that, of the 2,437 funds that will be limited derivatives user, on average 25 funds (or 1%), will be subject to the board reporting requirement in the exception’s remediation provision annually. The board will spend 2 hours reviewing related remediation reports. However, because we estimate that only 1% of funds will be subject to the board reporting requirement in the exception’s remediation provision annually, the hours burden is being decreased by 99%. 2 hours x 1%= 0.02 hours.</h>
+4. This estimate is based on the assumption that, of the 2,437 funds that will be limited derivatives user, on average 25 funds (or 1%), will be subject to the board reporting requirement in the exception’s remediation provision annually. The board will spend 2 hours reviewing related remediation reports. However, because we estimate that only 1% of funds will be subject to the board reporting requirement in the exception’s remediation provision annually, the hours burden is being decreased by 99%. 2 hours x 1%= 0.02 hours.
 
-<h>5. This estimated burden is based on the estimated wage rate of $489/hour, for 4 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).</h>
+5. This estimated burden is based on the estimated wage rate of $489/hour, for 4 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
 
-<h>6. This estimated burden is based on the estimated wage rate of $489/hour, for 2 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).</h>
+6. This estimated burden is based on the estimated wage rate of $489/hour, for 2 hours, for outside legal services. See supra footnote (regarding wage rates with respect to external cost estimates).
 
-<h>7. We estimate that 50% of funds will use outside legal services for these collections of information. This estimate takes into account that funds may elect to use outside legal services (along with in-house counsel) in connection with these requirements of rule 18f-4, based on factors such as fund budget and the fund’s standard practices for using outside legal services, as well as personnel availability and expertise.7. Recordkeeping Requirements</h>
+7. We estimate that 50% of funds will use outside legal services for these collections of information. This estimate takes into account that funds may elect to use outside legal services (along with in-house counsel) in connection with these requirements of rule 18f-4, based on factors such as fund budget and the fund’s standard practices for using outside legal services, as well as personnel availability and expertise.7. Recordkeeping Requirements
 
 Rule 18f-4 will require a fund that enters into derivatives transactions to maintain certain records. As proposed, if the fund is not a limited derivatives user, the fund will be required to maintain records related to the fund’s derivatives risk management program and the VaR-based limit on fund leverage risk, including records related to board oversight and reporting (including records of the written reporting that the rule requires to occur between the derivatives risk manager and the fund’s board when the fund is out of compliance with the applicable VaR test). <sup>1028</sup> As a modification to the proposal the final rule includes further obligations for a fund that is out of compliance with its applicable VaR test to provide written reports to the board. <sup>1029</sup> These additional reports will be covered by the final recordkeeping requirements.
 
@@ -2316,15 +1912,15 @@ Total annual burden 815 hours $143,081 $0 Total annual burden for all record kee
 
 Notes:
 
-<h>1. These estimates include initial burden estimates annualized over a three-year period.</h>
+1. These estimates include initial burden estimates annualized over a three-year period.
 
-<h>2. See supra footnote (regarding wage rates).</h>
+2. See supra footnote (regarding wage rates).
 
-<h>3. This reflects an increase to the estimate that appeared in the Proposing Release, to account for inadvertent halving of the internal time costs for the recordkeeping burdens in the Proposing Release.</h>
+3. This reflects an increase to the estimate that appeared in the Proposing Release, to account for inadvertent halving of the internal time costs for the recordkeeping burdens in the Proposing Release.
 
-<h>4. Note that this estimate may be over-inclusive because not all funds included in this calculation will be subject to a derivatives risk management program and compliance with the rule’s VaR requirements. For instance, certain leveraged/inverse funds will not be subject to compliance with the rule’s VaR requirements.</h>
+4. Note that this estimate may be over-inclusive because not all funds included in this calculation will be subject to a derivatives risk management program and compliance with the rule’s VaR requirements. For instance, certain leveraged/inverse funds will not be subject to compliance with the rule’s VaR requirements.
 
-<h>5. See supra footnote (regarding external cost estimates). Estimates of external costs for recordkeeping burdens reflect costs that funds may pay to third parties to assist in fulfilling funds’ recordkeeping duties.8. Rule 18f-4 Total Estimated Burden</h>
+5. See supra footnote (regarding external cost estimates). Estimates of external costs for recordkeeping burdens reflect costs that funds may pay to third parties to assist in fulfilling funds’ recordkeeping duties.8. Rule 18f-4 Total Estimated Burden
 
 As summ arized in Table 8 below, we estimate that the total hour burdens and time costs associated with rule 18f-4, amortized over three years, will result in an average aggregate annual burden of 501,275 hours and an average aggregate annual monetized time cost of $202,443,126. We also estimate that, amortized over three years, there will be external costs of $22,252,947 associated with this collection of information. Therefore, each fund that relies on the rule will incur an average annual burden of approximately 96.34 hours, at an average annual monetized time cost of approximately $38,909, and an external cost of $4,277 to comply with rule 18f-4. <sup>1034</sup>
 
@@ -2344,9 +1940,9 @@ Disclosure requirement associated with limit on fund leverage risk
 
 Disclosure requirement associated with alternative requirements for2,424 hours	$816,888	$0<sup>135</sup> hours <sup>2</sup> $45,192	$0certain leveraged/inverse funds Disclosure changes for money market <sup>207</sup> hours $69,384 $0 Policies and procedures for limited 5,995 hours $2,080,265 $0 derivatives users Recordkeeping requirements 25,455 hours $1,998,218 <sup>3</sup> $3,054,600 Total annual burden 109,620 $128,090,819 $3,054,600 Number of funds ÷ 5,091 ÷ 5,091 ÷ 5,091 Average annual burden per fund 21.53 hours $25,160 $600 Final Estimates Derivatives risk management program 190,854 hours $76,214,364 $10,820,592 Board oversight and reporting 77,448 hours $76,806,288 $4,734,009 VaR remediation 863 hours $542,974 $0 Disclosure requirement associated with alternative requirements for 70 hours $23,800 $0 certain leveraged/inverse funds Disclosure changes for money market <sup>840</sup> hours $285,600 $0 Requirements for limited derivatives users 44,402 hours $15,756,180 $3,576,546 Recordkeeping requirements 186,798 hours $32,813,920 $3,121,800 Total annual burden 501,275 $202,443,126 $22,252,947 Number of funds ÷ 5,203 ÷ 5,203 ÷ 5,203 Average annual burden per fund 96.34 hours $38,909 $4,277 fundsfunds1 This reflects an increase to the estimate that appeared in the Proposing Release ($31,739,698), to account for a correction to the total internal time costs calculation as it appeared in the Proposing Release.
 
-<h>2. This reflects a reduction of the annual burden hours estimate that appeared in the Proposing Release (269 hours), to account for inadvertent doubling of the estimated burden hours in the Proposing Release.</h>
+2. This reflects a reduction of the annual burden hours estimate that appeared in the Proposing Release (269 hours), to account for inadvertent doubling of the estimated burden hours in the Proposing Release.
 
-<h>3. This reflects an increase to the estimate that appeared in the Proposing Release ($799,287), to account for inadvertent halving of the internal time costs for the recordkeeping burdens in the Proposing Release.</h>
+3. This reflects an increase to the estimate that appeared in the Proposing Release ($799,287), to account for inadvertent halving of the internal time costs for the recordkeeping burdens in the Proposing Release
 
 <h>C. Rule 6c-11</h>
 
@@ -2438,17 +2034,17 @@ Total new annual burden for VaR- 23,347 hours $8,193,144 $2,458,752 Number of fu
 
 Notes:
 
-<h>1. See supra footnote (regarding wage rates). These PRA estimates assume that the same types of professionals will be involved in the reporting requirements that we believe otherwise will be involved in preparing and filing reports on Form N- PORT.</h>
+1. See supra footnote (regarding wage rates). These PRA estimates assume that the same types of professionals will be involved in the reporting requirements that we believe otherwise will be involved in preparing and filing reports on Form N- PORT.
 
-<h>2. Includes initial burden estimates annualized over a three-year period.</h>
+2. Includes initial burden estimates annualized over a three-year period.
 
-<h>3. This estimate assumes that, annually after the initial 2 hours to comply with the new N-PORT requirements, each of a compliance attorney and a senior programmer will incur 1 burden hour per filing associated with the new reporting requirements. The estimate of 4.33 hours is based on the following calculation: ((2 hours for the first filing x 1 = 2) + (3 additional filings in year 1 x 1 hour for each of the additional 3 filings in year 1 = 3) + (4 filings in years 2 and 3 x 1 hour per filing x 2 years) = 8)/ 3 = 4.33.</h>
+3. This estimate assumes that, annually after the initial 2 hours to comply with the new N-PORT requirements, each of a compliance attorney and a senior programmer will incur 1 burden hour per filing associated with the new reporting requirements. The estimate of 4.33 hours is based on the following calculation: ((2 hours for the first filing x 1 = 2) + (3 additional filings in year 1 x 1 hour for each of the additional 3 filings in year 1 = 3) + (4 filings in years 2 and 3 x 1 hour per filing x 2 years) = 8)/ 3 = 4.33.
 
-<h>4. This estimate is based on the following calculation: $4,210 (average costs for funds reporting the information on Form N-PORT) * 5,091 funds (which includes funds reporting derivative exposure information and VaR-related information).</h>
+4. This estimate is based on the following calculation: $4,210 (average costs for funds reporting the information on Form N-PORT) * 5,091 funds (which includes funds reporting derivative exposure information and VaR-related information).
 
-<h>5. This estimate is based on the following information and calculations: (35% x$4,805 (the average cost to license a third-party software solution per year) =$1,681.75) + (65% x $11,440 (the average cost of retaining the services of a third- party vendor to prepare and file reports on Form N-PORT on the fund’s behalf) =$7,436) = basis for existing external N-PORT filing costs. We estimate that the new N-PORT requirements will add an additional 10% costs (e.g., ($1,681.75 + $7,436= $9,117.75) x 10% = $912 per fund).</h>
+5. This estimate is based on the following information and calculations: (35% x$4,805 (the average cost to license a third-party software solution per year) =$1,681.75) + (65% x $11,440 (the average cost of retaining the services of a third- party vendor to prepare and file reports on Form N-PORT on the fund’s behalf) =$7,436) = basis for existing external N-PORT filing costs. We estimate that the new N-PORT requirements will add an additional 10% costs (e.g., ($1,681.75 + $7,436= $9,117.75) x 10% = $912 per fund).
 
-<h>6. This estimate of the external annual cost burden of Form N-PORT reporting for limited derivatives users encompasses any external costs burdens associated with reporting derivatives exposure and any reporting related to exceedances of the 10% derivatives exposure threshold on the Form N-PORT.</h>
+6. This estimate of the external annual cost burden of Form N-PORT reporting for limited derivatives users encompasses any external costs burdens associated with reporting derivatives exposure and any reporting related to exceedances of the 10% derivatives exposure threshold on the Form N-PORT.
 
 <h>E. Form N-RN and Rule 30b1-10</h>
 
@@ -2476,11 +2072,11 @@ FINAL ESTIMATESreports 0 hour 0.02 hours <sup>2</sup> × $334 (senior programmer
 
 Notes:
 
-<h>1. See supra footnote (regarding wage rates). These PRA estimates assume that the same types of professionals will be involved in the reporting requirements that we believe otherwise will be involved in preparing and filing reports on Form N- RN.</h>
+1. See supra footnote (regarding wage rates). These PRA estimates assume that the same types of professionals will be involved in the reporting requirements that we believe otherwise will be involved in preparing and filing reports on Form N- RN.
 
-<h>2. This estimate is based on the assumption that, of the 2,696 funds that will be required to comply with either of the VaR tests, on average the Commission will receive 54 reports regarding a relative or absolute VaR test breach (representing 1% of funds (2,696 x 1% = 27 funds) filing twice (27 funds x 2 = 54 filings), once upon initial breach and once upon coming back into compliance). We estimate that a compliance attorney will spend 3 hours, and a senior programmer will spend 1 hour, preparing and submitting each report. However, because we estimate that only 1% of funds will have to File Form N-RN each year because they breach the relative or absolute VaR test, the estimated hour burden is being decreased by 99%. (3 hours x 1%) x 2 filings (one on initial breach and one when back in compliance) =0.06 hours (for a compliance attorney); (1 hour x 1%) x 2 filings (one on initial breach and one when back in compliance) = 0.02 hours (for a senior programmer).</h>
+2. This estimate is based on the assumption that, of the 2,696 funds that will be required to comply with either of the VaR tests, on average the Commission will receive 54 reports regarding a relative or absolute VaR test breach (representing 1% of funds (2,696 x 1% = 27 funds) filing twice (27 funds x 2 = 54 filings), once upon initial breach and once upon coming back into compliance). We estimate that a compliance attorney will spend 3 hours, and a senior programmer will spend 1 hour, preparing and submitting each report. However, because we estimate that only 1% of funds will have to File Form N-RN each year because they breach the relative or absolute VaR test, the estimated hour burden is being decreased by 99%. (3 hours x 1%) x 2 filings (one on initial breach and one when back in compliance) =0.06 hours (for a compliance attorney); (1 hour x 1%) x 2 filings (one on initial breach and one when back in compliance) = 0.02 hours (for a senior programmer).
 
-F. Form N-CEN
+<h>F. Form N-CEN</h>
 
 Form N-CEN is a structured form that requires registered funds to provide census-type information to the Commission on an annual basis. We are amending Form N-CEN to require a fund to identify whether it relied on rule 18f-4 during the reporting period and whether the fund has relied on certain provisions of the rule, substantially as proposed. <sup>1044</sup> In a modification from the proposal, we also are amending Form N-CEN to require a fund to identify whether it has invested in securities on a when-issued or forward-settling basis, or with a non-standard settlement cycle, in reliance on the final rule.
 
@@ -2502,11 +2098,11 @@ PROPOSED ESTIMATES
 
 Notes:
 
-<h>1. See supra footnote (regarding wage rates). These PRA estimates assume that the same types of professionals will be involved in the reporting requirements that we believe otherwise will be involved in preparing and filing reports on Form N- CEN.</h>
+1. See supra footnote (regarding wage rates). These PRA estimates assume that the same types of professionals will be involved in the reporting requirements that we believe otherwise will be involved in preparing and filing reports on Form N- CEN.
 
-<h>2. This estimate assumes each fund reporting on Form N-CEN will spend approximately 1 minute reporting these new data elements.</h>
+2. This estimate assumes each fund reporting on Form N-CEN will spend approximately 1 minute reporting these new data elements.
 
-<h>3. This estimate assumes each fund reporting on Form N-CEN will spend approximately 10 minutes reporting these new data elements.<sup>393</sup></h>
+3. This estimate assumes each fund reporting on Form N-CEN will spend approximately 10 minutes reporting these new data elements.<sup>393</sup>
 
 <h>V. FINAL REGULATORY FLEXIBILITY ANALYSIS</h>
 

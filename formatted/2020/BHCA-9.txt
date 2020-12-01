@@ -1,109 +1,3 @@
-https://www.sec.gov/rules/final/2020/bhca-9.pdf
-
-I.0.0.0 Background
-
-II.0.0.0 Notice of Proposed Rulemaking
-
-III.0.0.0 Overview of the Final Rule
-
-IV.0.0.0 Summary of the Final Rule
-
-	IV.A.0.0 Qualifying Foreign Excluded Funds
-
-		IV.A.1.0 Is organized or established outside the United States and the ownership interests of which are offered and sold solely outside the United States;
-
-		IV.A.2.0 Would be a covered fund were the entity organized or established in the United States, or is, or holds itself out as being, an entity or arrangement that raises money from investors primarily for the purpose of investing in financial instruments for resale or other disposition or otherwise trading in financial instruments;
-
-		IV.A.3.0 Would not otherwise be a banking entity except by virtue of the foreign banking entity’s acquisition or retention of an ownership interest in, or sponsorship of, the entity;
-
-		IV.A.4.0 Is established and operated as part of a bona fide asset management business; and
-
-		IV.A.5.0 Is not operated in a manner that enables the foreign banking entity to evade the requirements of section 13 or implementing regulations.
-
-	IV.B.0.0 Modifications to Existing Covered Fund Exclusions
-
-		IV.B.1.0 Foreign Public Funds
-
-		IV.B.2.0 Loan Securitizations
-
-		IV.B.1.0 the issuing entity is required to use the fair market value of such loan or debt security for purposes of calculating compliance with concentration limitations or other similar calculations under its transaction agreements and (2) the issuing entity’s valuation methodology values similarly situated assets, for example non-performing loans, consistently. This provision is intended to provide issuers with the flexibility to leverage existing calculation methodologies while preventing issuers from using inconsistent methodologies in a manner to evade the requirements of the exclusion.
-
-		IV.B.3.0 Public Welfare and Small Business Funds
-
-	IV.C.0.0 Additional Covered Fund Exclusions
-
-		IV.C.1.0 Credit Funds
-
-		IV.C.166.0 IAA.
-
-		IV.C.167.0 ABA.
-
-		IV.C.2.0 disclosure and safety and soundness requirements on banking entities that sponsor or serve as an advisor for a credit fund; (3) safety and soundness requirements on all banking entities that invest in or have certain relationships with a credit fund; and (4) restrictions on the banking
-
-		IV.C.205.0 Id.
-
-		IV.C.206.0 Id.
-
-		IV.C.207.0 Id.
-
-		IV.C.208.0 Id.
-
-		IV.C.209.0 Id.
-
-		IV.C.2.0 Venture Capital Funds
-
-		IV.C.251.0 NVCA.
-
-		IV.C.252.0 Id.
-
-		IV.C.3.0 Family Wealth Management Vehicles
-
-		IV.C.4.0 Customer Facilitation Vehicles
-
-	IV.D.0.0 Limitations on Relationships with a Covered Fund
-
-	IV.E.0.0 Ownership Interest
-
-		IV.E.1.0 Definition of “ownership interest”
-
-		IV.E.1.0 the bankruptcy, insolvency, conservatorship or receivership of the investment manager;
-
-		IV.E.2.0 the breach by the investment manager of any material provision of the covered fund’s transaction agreements applicable to the investment manager;
-
-		IV.E.3.0 the breach by the investment manager of material representations or warranties;
-
-		IV.E.4.0 the occurrence of an act that constitutes fraud or criminal activity in the performance of the investment manager’s obligations under the covered fund’s transaction agreements;
-
-		IV.E.5.0 the indictment of the investment manager for a criminal offense, or the indictment of any officer, member, partner or other principal of the investment manager for a criminal offense materially related to his or her investment management activities;
-
-		IV.E.6.0 a change in control with respect to the investment manager;
-
-		IV.E.7.0 the loss, separation or incapacitation of an individual critical to the operation of the investment manager or primarily responsible for the management of the covered fund’s assets; or
-
-		IV.E.8.0 other similar events that constitute “cause” for removal of an investment manager, provided that such events are not solely related to the performance of the covered
-
-		IV.E.1.0 The holders of such interest do not receive any profits of the covered fund but may only receive: (i) interest payments which are not dependent on the performance of the covered fund; and (ii) fixed principal payments on or before a maturity date (which may include prepayment premiums intended solely to reflect, and compensate holders of the interest for, foregone income resulting from an early prepayment);
-
-		IV.E.2.0 The entitlement to payments on the interest is absolute and may not be reduced because of the losses arising from the covered fund, such as allocation of losses, write- downs or charge-offs of the outstanding principal balance, or reductions in the principal and interest payable; and
-
-		IV.E.3.0 The holders of the interest are not entitled to receive the underlying assets of the covered fund after all other interests have been redeemed and/or paid in full (excluding the rights of a creditor to exercise remedies upon the occurrence of an event of default or an acceleration event).
-
-		IV.E.2.0 Fund Limits and Covered Fund Deduction
-
-	IV.F.0.0 Parallel Investments
-
-		IV.F.1.0 A banking entity shall not be required to include in the calculation of the investment limits under § .12(a)(2) any investment the banking entity makes alongside a covered fund as long as the investment is made in compliance with applicable laws and regulations, including applicable safety and soundness standards.
-
-		IV.F.2.0 A banking entity shall not be restricted under § __.12 in the amount of any investment the banking entity makes alongside a covered fund as long as the investment is made in compliance with applicable laws and regulations, including applicable safety and soundness standards.
-
-	IV.G.0.0 Technical Amendments
-
-V.0.0.0 Administrative Law Matters
-
-
-
-<END TABLE OF CONTENTS>
-
 DEPARTMENT OF TREASURY
 
 Office of the Comptroller of the Currency 12 CFR Part <sup>44</sup>
@@ -294,15 +188,15 @@ The Federal banking agencies released a policy statement on July 21, 2017 (the p
 
 For purposes of the policy statement, a “qualifying foreign excluded fund” means, with respect to a foreign banking entity, an entity that:
 
-<h>1. Is organized or established outside the United States and the ownership interests of which are offered and sold solely outside the United States;</h>
+1. Is organized or established outside the United States and the ownership interests of which are offered and sold solely outside the United States;
 
-<h>2. Would be a covered fund were the entity organized or established in the United States, or is, or holds itself out as being, an entity or arrangement that raises money from investors primarily for the purpose of investing in financial instruments for resale or other disposition or otherwise trading in financial instruments;</h>
+2. Would be a covered fund were the entity organized or established in the United States, or is, or holds itself out as being, an entity or arrangement that raises money from investors primarily for the purpose of investing in financial instruments for resale or other disposition or otherwise trading in financial instruments;
 
-<h>3. Would not otherwise be a banking entity except by virtue of the foreign banking entity’s acquisition or retention of an ownership interest in, or sponsorship of, the entity;</h>
+3. Would not otherwise be a banking entity except by virtue of the foreign banking entity’s acquisition or retention of an ownership interest in, or sponsorship of, the entity;
 
-<h>4. Is established and operated as part of a bona fide asset management business; and</h>
+4. Is established and operated as part of a bona fide asset management business; and
 
-<h>5. Is not operated in a manner that enables the foreign banking entity to evade the requirements of section 13 or implementing regulations.</h>
+5. Is not operated in a manner that enables the foreign banking entity to evade the requirements of section 13 or implementing regulations.
 
 To be eligible for this relief, the foreign banking entity’s acquisition or retention of any ownership interest in, or sponsorship of, the qualifying foreign excluded fund must meet the requirements for permitted covered fund activities and investments solely outside the United States, as provided in section 13(d)(1)(I) of the BHC Act and § .13(b) of the implementing regulations, as if the qualifying foreign excluded fund were a covered fund. To provide greater clarity and certainty to banking entities and qualifying foreign excluded funds, and to limit the extraterritoriality of the rule, the 2020 proposal included a permanent exemption from the section 13 restrictions on proprietary trading and investing in or sponsoring covered funds for the activities of qualifying foreign excluded funds. The proposed exemption generally included the same eligibility criteria from the policy statement, although it included a modified version of the anti-evasion provision such that, in order to qualify, a fund could not be operated in a mannerthat enables “any other banking entity” (rather than “the foreign banking entity”) to evade the requirements of section 13 or the implementing regulations.
 
@@ -446,7 +340,7 @@ In the final rule, this measurement is based only on the value of the loans and 
 
 The agencies recognize that a loan securitization’s transaction agreements may require that some categories of loans, cash equivalents, or debt securities be valued at fair market value for certain purposes. To accommodate such situations, the exclusion provides that the value ofany loan, cash equivalent, or permissible debt security may be based on its fair market value if
 
-<h>1. the issuing entity is required to use the fair market value of such loan or debt security for purposes of calculating compliance with concentration limitations or other similar calculations under its transaction agreements and (2) the issuing entity’s valuation methodology values similarly situated assets, for example non-performing loans, consistently. This provision is intended to provide issuers with the flexibility to leverage existing calculation methodologies while preventing issuers from using inconsistent methodologies in a manner to evade the requirements of the exclusion.</h>
+(1) the issuing entity is required to use the fair market value of such loan or debt security for purposes of calculating compliance with concentration limitations or other similar calculations under its transaction agreements and (2) the issuing entity’s valuation methodology values similarly situated assets, for example non-performing loans, consistently. This provision is intended to provide issuers with the flexibility to leverage existing calculation methodologies while preventing issuers from using inconsistent methodologies in a manner to evade the requirements of the exclusion.
 
 Leases
 
@@ -496,11 +390,7 @@ Many commenters were broadly supportive of the proposed new exclusions from the 
 
 Ba ckground and 2020 Proposal
 
-In the preamble to the 2013 rule, the agencies declined to establish an exclusion from the definition of covered fund for funds that make loans, invest in debt, or otherwise extend the type of credit that banking entities may provide directly under applicable banking law (credit funds). <sup>170</sup> The agencies cited concerns about whether credit funds could be distinguished from private equity funds and hedge funds and the possible evasion of the requirements of section 13 of the BHC Act through the availability of such an exclusion. In addition, the agencies suggested that some credit funds would be able to operate using other exclusions from the
-
-<h>166. IAA.</h>
-
-<h>167. ABA.definition of covered fund in the 2013 rule, such as the exclusion for joint ventures or the exclusion for loan securitizations. <sup>171</sup></h>
+In the preamble to the 2013 rule, the agencies declined to establish an exclusion from the definition of covered fund for funds that make loans, invest in debt, or otherwise extend the type of credit that banking entities may provide directly under applicable banking law (credit funds). <sup>170</sup> The agencies cited concerns about whether credit funds could be distinguished from private equity funds and hedge funds and the possible evasion of the requirements of section 13 of the BHC Act through the availability of such an exclusion. In addition, the agencies suggested that some credit funds would be able to operate using other exclusions from the definition of covered fund in the 2013 rule, such as the exclusion for joint ventures or the exclusion for loan securitizations. <sup>171</sup>
 
 However, commenters on the 2018 proposal noted that many credit funds have not been able to utilize the joint venture and loan securitization exclusions. In response, the agencies included in the 2020 proposal a specific exclusion for credit funds. Under the 2020 proposal, a credit fund would have been an issuer whose assets consist solely of:
 
@@ -514,9 +404,9 @@ Certain interest rate or foreign exchange derivatives. <sup>172</sup>
 
 The proposed exclusion would have been subject to certain additional requirements to reduce evasion concerns and help ensure that banking entities invest in, sponsor, or advise credit funds in a safe and sound manner. For example, the proposed exclusion would have imposed (1) certain activity requirements on the credit fund, including a prohibition on proprietary trading; <sup>173</sup>
 
-<h>2. disclosure and safety and soundness requirements on banking entities that sponsor or serve as an advisor for a credit fund; (3) safety and soundness requirements on all banking entities that invest in or have certain relationships with a credit fund; and (4) restrictions on the bankingentity’s investment in, and relationship with, a credit fund. <sup>176</sup> The proposed exclusion also would have permitted a credit fund to receive and hold a limited amount of equity securities (or rights to acquire equity securities) that were received on customary terms in connection with the credit fund’s loans or debt instruments. <sup>177</sup></h>
+(2) disclosure and safety and soundness requirements on banking entities that sponsor or serve as an advisor for a credit fund; (3) safety and soundness requirements on all banking entities that invest in or have certain relationships with a credit fund; and (4) restrictions on the bankingentity’s investment in, and relationship with, a credit fund. <sup>176</sup> The proposed exclusion also would have permitted a credit fund to receive and hold a limited amount of equity securities (or rights to acquire equity securities) that were received on customary terms in connection with the credit fund’s loans or debt instruments. <sup>177</sup></h>
 
-C omments
+Comments
 
 The agencies requested comment on all aspects of the proposed credit fund exclusion. In addition, the agencies solicited comment on specific provisions of the proposed exclusion, including the permissibility of certain assets and requirements related to the activities of the credit fund and the relationship between a banking entity and a credit fund. <sup>178</sup>
 
@@ -547,16 +437,6 @@ Finally, one commenter contended that the application of certain requirements in
 Other Comments
 
 Commenters also submitted several miscellaneous comments about the proposed exclusion for credit funds. One commenter requested that the agencies clarify the definition of asset-backed securities as used in the proposed credit fund exclusion and the current loan securitization exclusion. <sup>208</sup> That same commenter also urged the agencies to revise the proposed credit fund exclusion to allow banking entities with more stringent credit requirements, such as insured depository institutions, to invest in credit funds that hold distressed debt. <sup>209</sup>
-
-<h>205. Id.</h>
-
-<h>206. Id.</h>
-
-<h>207. Id.</h>
-
-<h>208. Id.</h>
-
-<h>209. Id.</h>
 
 Finally, the 2020 proposal requested comment on whether to combine the proposed credit fund exclusion with the loan securitization exclusion. Commenters were generally opposed to combining the two exclusions, citing different classes of assets in which the two types of issuers invest and a fundamental difference in structure (loan securitizations issue asset-backed securities, while credit funds do not). <sup>210</sup> In addition, one commenter argued that while combining the two exclusions would increase the simplicity of the rule, such an amalgamated exclusion could result in increased compliance burdens for issuers who are accustomed to the lack of credit requirements in the current loan securitization exclusion. <sup>211</sup>
 
@@ -954,29 +834,29 @@ Commenters on the 2020 proposal generally supported the proposed amendment to th
 
 In light of comments received on the 2020 proposal, the agencies recognize that it is customary for debt holders to hold certain rights to participate in the removal or replacement of an investment manager for cause that may be triggered by events other than default or acceleration events. The agencies believe that debt interests that include the rights of a creditor to participate in the for-cause removal or replacement of an investment manager under certain circumstances do not necessarily constitute the type of interest Section 13 of the BHC Act is intended to capture as an ownership interest. The agencies are therefore finalizing, with certain modifications, the amendments to § .10(d)(6)(i)(A) in order to provide clarity about the types of creditor rights that may attach to an interest without that interest being deemed an ownership interest. The agencies have modified the scope of the definition of ownership interest in the finalrule to allow for certain additional rights of creditors that are not triggered exclusively by an event of default or acceleration to attach to a debt interest without such interests being deemed ownership interests. In addition to such rights arising under events of default or acceleration, under the final rule, the definition of ownership interest does not include rights of a creditor to participate in the removal or replacement of an investment manager for cause in connection with:
 
-<h>1. the bankruptcy, insolvency, conservatorship or receivership of the investment manager;</h>
+1. the bankruptcy, insolvency, conservatorship or receivership of the investment manager;
 
-<h>2. the breach by the investment manager of any material provision of the covered fund’s transaction agreements applicable to the investment manager;</h>
+2. the breach by the investment manager of any material provision of the covered fund’s transaction agreements applicable to the investment manager;
 
-<h>3. the breach by the investment manager of material representations or warranties;</h>
+3. the breach by the investment manager of material representations or warranties;
 
-<h>4. the occurrence of an act that constitutes fraud or criminal activity in the performance of the investment manager’s obligations under the covered fund’s transaction agreements;</h>
+4. the occurrence of an act that constitutes fraud or criminal activity in the performance of the investment manager’s obligations under the covered fund’s transaction agreements;
 
-<h>5. the indictment of the investment manager for a criminal offense, or the indictment of any officer, member, partner or other principal of the investment manager for a criminal offense materially related to his or her investment management activities;</h>
+5. the indictment of the investment manager for a criminal offense, or the indictment of any officer, member, partner or other principal of the investment manager for a criminal offense materially related to his or her investment management activities;
 
-<h>6. a change in control with respect to the investment manager;</h>
+6. a change in control with respect to the investment manager;
 
-<h>7. the loss, separation or incapacitation of an individual critical to the operation of the investment manager or primarily responsible for the management of the covered fund’s assets; or</h>
+7. the loss, separation or incapacitation of an individual critical to the operation of the investment manager or primarily responsible for the management of the covered fund’s assets; or
 
-<h>8. other similar events that constitute “cause” for removal of an investment manager, provided that such events are not solely related to the performance of the coveredfund or to the investment manager’s exercise of investment discretion under the covered fund’s transaction agreements.</h>
+8. other similar events that constitute “cause” for removal of an investment manager, provided that such events are not solely related to the performance of the coveredfund or to the investment manager’s exercise of investment discretion under the covered fund’s transaction agreements.
 
 The 2020 proposal also would have provided a safe harbor from the definition of ownership interest, as suggested by some commenters to the 2018 proposal. <sup>453</sup> The safe harbor was intended to address concerns of commenters to the 2018 proposal that some ordinary debt interests could be construed as an ownership interest. The 2020 proposal, therefore, would have provided that any senior loan or other senior debt interest that meets all of the following characteristics would not be considered to be an ownership interest:
 
-<h>1. The holders of such interest do not receive any profits of the covered fund but may only receive: (i) interest payments which are not dependent on the performance of the covered fund; and (ii) fixed principal payments on or before a maturity date (which may include prepayment premiums intended solely to reflect, and compensate holders of the interest for, foregone income resulting from an early prepayment);</h>
+1. The holders of such interest do not receive any profits of the covered fund but may only receive: (i) interest payments which are not dependent on the performance of the covered fund; and (ii) fixed principal payments on or before a maturity date (which may include prepayment premiums intended solely to reflect, and compensate holders of the interest for, foregone income resulting from an early prepayment);
 
-<h>2. The entitlement to payments on the interest is absolute and may not be reduced because of the losses arising from the covered fund, such as allocation of losses, write- downs or charge-offs of the outstanding principal balance, or reductions in the principal and interest payable; and</h>
+2. The entitlement to payments on the interest is absolute and may not be reduced because of the losses arising from the covered fund, such as allocation of losses, write- downs or charge-offs of the outstanding principal balance, or reductions in the principal and interest payable; and
 
-<h>3. The holders of the interest are not entitled to receive the underlying assets of the covered fund after all other interests have been redeemed and/or paid in full (excluding the rights of a creditor to exercise remedies upon the occurrence of an event of default or an acceleration event).</h>
+3. The holders of the interest are not entitled to receive the underlying assets of the covered fund after all other interests have been redeemed and/or paid in full (excluding the rights of a creditor to exercise remedies upon the occurrence of an event of default or an acceleration event).
 
 Commenters on the 2020 proposal generally supported the proposed safe harbor from the definition of ownership interest for certain senior loans or senior debt interests that do not have equity‐like characteristics. <sup>454</sup> However, certain commenters also requested that the agencies clarify that the safe harbor is available to senior loans and senior debt interests where repayment of principal may vary as a result of acceleration or amortization provisions. <sup>455</sup> Additionally, certain commenters also requested that the agencies clarify that the reference to senior loans or senior debt interests in the proposed safe harbor includes all exposures that would meet the definition of “investment grade” found in 12 CFR part 1 and implementing guidelines, as long as such exposures comply with the proposed conditions. <sup>456</sup>
 
@@ -1014,9 +894,9 @@ The 2013 rule restricts a banking entity’s investment in a covered fund organi
 
 The 2020 proposal included a new rule of construction to address investments made by banking entities alongside covered funds. This proposed rule of construction was intended to clarify in the rule text that banking entities are not required to treat a direct investment by a banking entity alongside a covered fund as an investment in the covered fund if certain conditions are met. Specifically, proposed § .12(b)(5) provided that:
 
-<h>1. A banking entity shall not be required to include in the calculation of the investment limits under § .12(a)(2) any investment the banking entity makes alongside a covered fund as long as the investment is made in compliance with applicable laws and regulations, including applicable safety and soundness standards.</h>
+1. A banking entity shall not be required to include in the calculation of the investment limits under § .12(a)(2) any investment the banking entity makes alongside a covered fund as long as the investment is made in compliance with applicable laws and regulations, including applicable safety and soundness standards.
 
-<h>2. A banking entity shall not be restricted under § __.12 in the amount of any investment the banking entity makes alongside a covered fund as long as the investment is made in compliance with applicable laws and regulations, including applicable safety and soundness standards.</h>
+2. A banking entity shall not be restricted under § __.12 in the amount of any investment the banking entity makes alongside a covered fund as long as the investment is made in compliance with applicable laws and regulations, including applicable safety and soundness standards.
 
 In the preamble to the 2020 proposal, the agencies recognized that banking entities rely on a number of investment authorities and structures to make investments and meet the needs of their clients and shareholders. <sup>477</sup> The agencies indicated that the proposed rule of construction would provide clarity to banking entities so that they may make such investments for the benefitof their clients and shareholders, provided that those investments comply with applicable laws and regulations. <sup>478</sup> The preamble to the 2020 proposal went on to note several restrictions that may apply to a banking entity’s investment alongside a covered fund. For example, a banking entity may not engage in prohibited proprietary trading alongside a covered fund. Likewise, a banking entity must have authority to make any investment alongside a covered fund under applicable banking and other laws and regulations and must ensure that the investment complies with applicable safety and soundness standards. For example, national banks are restricted in their ability to make direct equity investments under 12 U.S.C. 24(Seventh) and 12 CFR part 1. In addition, a banking entity that invests alongside a covered fund that the banking entity organizes and offers under the asset management exemption in § .11 would need to comply with all the conditions of that exemption, which, among other things, prohibits the banking entity from guaranteeing, assuming, or otherwise insuring the obligations or performance of the covered fund. Thus, a banking entity would not be permitted to make a direct investment alongside a covered fund that the banking entity organizes and offers for the purpose of artificially maintaining or increasing the value of the fund’s positions. Likewise, the banking entity would also need to ensure that any direct investment alongside an organized and offered covered fund does not cause the sponsoring banking entity’s permitted organizing and offering activities to violate the prudential backstops under § .15. <sup>479</sup>
 
@@ -1376,6 +1256,10 @@ The agencies did not receive comment on these provisions and are adopting the te
 
 165 SIFMA and BPI.
 
+166 IAA.
+
+167 ABA
+
 168 JBA.
 
 169 See 79 FR 5671.
@@ -1449,6 +1333,16 @@ The agencies did not receive comment on these provisions and are adopting the te
 203 Arnold & Porter.
 
 204 Arnold & Porter.
+
+205 Id.
+
+206 Id.
+
+207 Id.
+
+208 Id.
+
+209 Id.
 
 210 SIFMA; FSF; CCMC; Credit Suisse; and Data Boiler.
 
@@ -1531,6 +1425,10 @@ The agencies did not receive comment on these provisions and are adopting the te
 249 SAF.
 
 250 FSF; SIFMA; CCMC; and NVCA.
+
+251 NVCA.
+
+252 Id.
 
 253 FSF and SIFMA.
 

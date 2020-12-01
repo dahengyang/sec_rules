@@ -1,85 +1,3 @@
-https://www.sec.gov/rules/final/2020/ic-33921.pdf
-
-I.0.0.0 INTRODUCTION AND BACKGROUND
-
-	I.A.0.0 Overview of Applications for Relief under the Act
-
-	I.B.0.0 Efforts to Improve the Application Process
-
-	I.C.0.0 Factors Affecting the Application Process
-
-II.0.0.0 DISCUSSION OF COMMISSION ACTION
-
-	II.A.0.0 Expedited Review Procedure
-
-		II.A.1.0 Eligibility for Expedited Review
-
-		II.A.2.0 Additional Information Required for Expedited Review
-
-		II.A.3.0 Expedited Review Timeframe
-
-	II.B.0.0 Timeframe for “Standard Review” of Applications
-
-	II.C.0.0 Applications Deemed Withdrawn under the Standard Review Process
-
-	II.D.0.0 Release of Comments on Applications and Responses
-
-	II.E.0.0 Other Matters
-
-III.0.0.0 ECONOMIC ANALYSIS
-
-	III.A.0.0 Introduction
-
-	III.B.0.0 Economic Baseline
-
-		III.B.1.0 Applications for Relief
-
-		III.B.2.0 Review Process
-
-	III.C.0.0 Benefits and Costs of Amended Rule 0-5
-
-		III.C.1.0 Benefits
-
-		III.C.2.0 Costs
-
-	III.D.0.0 Effects on Efficiency, Competition, and Capital Formation
-
-	III.E.0.0 Reasonable Alternatives
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-	IV.A.0.0 Burden of Information Collection
-
-	IV.B.0.0 Cost to Respondents
-
-		IV.B.1.0 This estimate is based on the following calculations: [50 (estimated number of applications under expedited review) x 0.80 (approximate percentage of applications prepared by outside counsel)] + [50 (estimated number of applications under expedited review) x 0.20 (approximate percentage of applications prepared by in-house counsel)] = 50.
-
-		IV.B.2.0 $166,600 = $139,160 (estimated cost of utilizing outside counsel) + $27,440 (estimated cost of utilizing in-house counsel).
-
-		IV.B.3.0 This estimate is based on the following calculations: [90 (estimated number of applications under standard review) x 0.10 (approximate percentage of applications required to respond “in writing”) x 0.80 (approximate percentage of applications prepared by outside counsel)] + [90 (estimated number of applications under standard review) x
-
-		IV.B.4.0 $8,568 = $7,157 (estimated cost of utilizing outside counsel) + $1,411 (estimated cost of utilizing in-house counsel).
-
-V.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	V.A.0.0 Reasons for and Objectives of the Actions
-
-	V.B.0.0 Legal Basis
-
-	V.C.0.0 Small Entities Subject to the Amendment
-
-	V.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-	V.E.0.0 Duplicative, Overlapping or Conflicting Federal Rules
-
-	V.F.0.0 Significant Alternatives
-
-VI.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register Version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 200, 202, and 270
@@ -506,13 +424,13 @@ PRA Table 1. Estimated Paperwork Burden Increase and Total Costs of the Amendmen
 
 The hourly wages data is from the Securities Industry Financial Markets Association’s Management & Professional Earnings in the Securities Industry 2013, modified by Commission Staff to account for an 1,800-hour work-year and inflation, and multiplied by 5.35 (professionals) to account for bonuses, firm size, employee benefits, and overhead, suggests that the cost for outside counsel is $497 per hour.[$2,485 (estimated cost per application to prepare the marked copies) + $994 (estimated cost per application to explain, notate, and certify] x 50 (estimated number of applications under expedited review) x 0.80 (approximate percentage of applications prepared by outside counsel) = $139,160.$994 (estimated cost per application to prepare “in writing” response) x 90 (estimated number of applications under standard review) x 0.10 (approximate percentage of applications required to respond “in writing”) x 0.80 (approximate percentage of applications prepared by outside counsel)= $7,157.
 
-<h>1. This estimate is based on the following calculations: [50 (estimated number of applications under expedited review) x 0.80 (approximate percentage of applications prepared by outside counsel)] + [50 (estimated number of applications under expedited review) x 0.20 (approximate percentage of applications prepared by in-house counsel)] = 50.</h>
+1. This estimate is based on the following calculations: [50 (estimated number of applications under expedited review) x 0.80 (approximate percentage of applications prepared by outside counsel)] + [50 (estimated number of applications under expedited review) x 0.20 (approximate percentage of applications prepared by in-house counsel)] = 50.
 
-<h>2. $166,600 = $139,160 (estimated cost of utilizing outside counsel) + $27,440 (estimated cost of utilizing in-house counsel).</h>
+2. $166,600 = $139,160 (estimated cost of utilizing outside counsel) + $27,440 (estimated cost of utilizing in-house counsel).
 
-<h>3. This estimate is based on the following calculations: [90 (estimated number of applications under standard review) x 0.10 (approximate percentage of applications required to respond “in writing”) x 0.80 (approximate percentage of applications prepared by outside counsel)] + [90 (estimated number of applications under standard review) x0.10 (approximate percentage of applications required to respond “in writing”) x 0.20 (approximate percentage of applications prepared by in-house counsel)] = 9.</h>
+3. This estimate is based on the following calculations: [90 (estimated number of applications under standard review) x 0.10 (approximate percentage of applications required to respond “in writing”) x 0.80 (approximate percentage of applications prepared by outside counsel)] + [90 (estimated number of applications under standard review) x0.10 (approximate percentage of applications required to respond “in writing”) x 0.20 (approximate percentage of applications prepared by in-house counsel)] = 9.
 
-<h>4. $8,568 = $7,157 (estimated cost of utilizing outside counsel) + $1,411 (estimated cost of utilizing in-house counsel).</h>
+4. $8,568 = $7,157 (estimated cost of utilizing outside counsel) + $1,411 (estimated cost of utilizing in-house counsel).
 
 <h>V. FINAL REGULATORY FLEXIBILITY ANALYSIS</h>
 

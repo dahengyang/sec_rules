@@ -1,331 +1,3 @@
-https://www.sec.gov/rules/final/2019/34-86031.pdf
-
-I.0.0.0 INTRODUCTION
-
-	I.A.0.0 Background
-
-		I.A.2.0 the insufficiency of existing broker-dealer regulatory requirements to address these conflicts when broker-dealers make recommendations to retail customers. More specifically, there are concerns that existing requirements do not require a broker-dealer’s recommendations to be in the retail customer’s best interest.
-
-	I.B.0.0 Overview of Regulation Best Interest
-
-	I.C.0.0 Overview of Modifications to the Proposed Rule Text and Guidance Provided
-
-		I.C.1.0 similar to the proposal, establishing an overarching obligation to establish written policies and procedures to identify and at a minimum disclose (pursuant to the Disclosure Obligation), or eliminate, all conflicts of interest associated with the recommendation;and (2) setting forth
-
-	I.D.0.0 Overview of Key Enhancements
-
-II.0.0.0 DISCUSSION OF REGULATION BEST INTEREST
-
-	II.A.0.0 General Obligation
-
-		II.A.1.0 an overarching provision setting forth a general best interest obligation (“General
-
-		II.A.1.0 Commission’s Approach
-
-		II.A.2.0 General Obligation to “Act in Best Interest”
-
-	II.B.0.0 Key Terms and Scope of Best Interest Obligation
-
-		II.B.1.0 Natural Person who is an Associated Person
-
-		II.B.2.0 Recommendation of Any Securities Transaction or Investment Strategy Involving Securities
-
-		II.B.157.0 Id.
-
-		II.B.158.0 Id.
-
-		II.B.159.0 Id.
-
-			II.B.159.a Recommendation
-
-			II.B.159.b Interpretation of Any Securities Transaction or Investment Strategy Involving Securities
-
-		II.B.3.0 Retail Customer
-
-		II.B.225.0 Id.
-
-		II.B.226.0 Id.
-
-			II.B.226.a Focus on Natural Persons and Legal Representatives of Natural Persons
-
-			II.B.226.b Retail Customer Use of the Recommendation
-
-		II.B.1.0 the retail customer opens a brokerage account with the broker-dealer, regardless of whether
-
-			II.B.1.c Conformity with Form CRS
-
-			II.B.1.d Treatment of Dual-Registrants
-
-		II.B.265.0 Id.
-
-		II.B.266.0 Id.
-
-	II.C.0.0 Component Obligations
-
-		II.C.1.0 Disclosure Obligation
-
-		II.C.2.0 fees and charges that would apply to the retail customer’s transactions, holdings, and accounts; and (3) type and scope of services provided by the broker-dealer, including, for example, monitoring the performance of the retail customer’s account.
-
-			II.C.2.a Material Facts Regarding Scope and Terms of the Relationship
-
-			II.C.2.b Material Facts Regarding Conflicts of Interest
-
-			II.C.2.c Full and Fair Disclosure
-
-			II.C.2.d Timing and Frequency
-
-		II.C.2.0 Care Obligation
-
-		II.C.2.0 have a reasonable basis to believe that the recommendation is in the best interest of a particular retail customer based on that retail customer’s investment profile and the potential risks and rewards associated with the recommendation; and (3) have a reasonable basis to believe that a series of recommended transactions, even if in the retail customer’s best interest when viewed in isolation, is not excessive and is in the retail customer’s best interest when taken together in light of the retail customer’s investment profile. As we indicated in the Proposing Release, the Care Obligation was intended to incorporate and enhance existing suitability requirements applicable to broker-dealers under the federal securities laws by, among other
-
-			II.C.2.a Exercise Reasonable Diligence, Care, and Skill
-
-			II.C.2.b Understand potential risks, rewards, and costs associated with recommendation, and have a reasonable basis to believe that the recommendation could be in the best interest of at least some retail customers.
-
-			II.C.2.c Have a Reasonable Basis to Believe the Recommendation is in the Best Interest of a Particular Retail Customer Based on that Retail Customer’s Investment Profile and the Potential Risks, Rewards, and Costs Associated with the Recommendation and Does Not Place the Interest of the Broker- Dealer Ahead of the Interest of the Retail Customer
-
-			II.C.2.d Have a Reasonable Basis to Believe that a Series of Recommended Transactions, Even if in the Retail Customer’s Best Interest When Viewed in Isolation, is not Excessive and is the Retail Customer’s Best Interest When Taken Together in Light of the Retail Customer’s Investment Profile and
-
-		II.C.3.0 Conflict of Interest Obligation
-
-			II.C.3.a Reasonably Designed Policies and Procedures
-
-			II.C.3.b Conflicts of Interest
-
-			II.C.3.c Identifying Conflicts of Interest
-
-			II.C.3.d Overarching Obligation Related to Conflicts of Interest
-
-			II.C.3.e Mitigation of Certain Incentives to Associated Persons
-
-			II.C.3.f Mitigation of Material Limitations on Recommendations to Retail Customers
-
-			II.C.3.g Elimination of Certain Conflicts of Interest
-
-		II.C.4.0 Compliance Obligation
-
-	II.D.0.0 Record-Making and Recordkeeping
-
-	II.E.0.0 Compliance Date
-
-III.0.0.0 ECONOMIC ANALYSIS
-
-	III.A.0.0 Introduction and Primary Goals of the Regulation, Comments on Market Failure and Quantification, and Broad Economic Considerations
-
-		III.A.1.0 Introduction and Primary Goals of the Regulation
-
-		III.A.2.0 Broad Economic Considerations
-
-		III.A.3.0 Comments on Market Failure of the Principal-Agent Relationship and Quantification; Comments that the Broker-Dealer, Commission-Based Model Should Be Severely Restricted or Eliminated
-
-	III.B.0.0 Economic Baseline
-
-		III.B.1.0 Providers of Financial Services
-
-			III.B.1.a Broker-Dealers
-
-			III.B.1.b Investment Advisers
-
-			III.B.1.c Trends in the Relative Numbers of Providers of Financial Services
-
-		III.B.3.0 For high net worth retail clients, there has been a pronounced increase in AUM since 2012, although AUM has leveled off since 2015 and there also has been leveling and subsequent reduction in AUM for non-high net worth retail clients over a similar time period.
-
-			III.B.3.d Registered Representatives of Broker-Dealers, Investment Advisers, and Dually Registered Firms
-
-			III.B.3.e Investor Account Statistics
-
-			III.B.3.f Financial Incentives of Firms and Financial Professionals
-
-			III.B.3.a Federal and State Securities Laws
-
-			III.B.3.b FINRA Rule 2111: Suitability
-
-			III.B.3.c FINRA Report on Conflicts of Interest
-
-			III.B.3.d Other Broker-Dealer Obligations: Disclosure, Supervision, and Compensation
-
-			III.B.3.e DOL Fiduciary Rule as it Relates to Current Market Practice
-
-		III.B.3.0 Investment Advice and Evidence of Potential Investor Harm
-
-			III.B.3.a Who Seeks Investment Advice
-
-			III.B.3.b Benefits and Limitations of Investment Advice
-
-			III.B.3.c Evidence of Potential Investor Harm
-
-		III.B.4.0 Trust, Financial Literacy, and the Effectiveness of Disclosure
-
-			III.B.4.a Trust in Investment Advice
-
-			III.B.4.b Financial Literacy and Investment Advice
-
-			III.B.4.c Evidence on the Effectiveness and Limitations of Disclosure
-
-	III.C.0.0 Benefits and Costs
-
-		III.C.1.0 General
-
-		III.C.9.0 how likely retail investors are to act on a recommendation that complies with Regulation Best Interest, (10) how the risk and return of retail customer portfolios change as a result of how they act on the recommendation, and (11) how investment advisers, including dually registered advisers, react to the adoption of Regulation Best Interest and the other regulatory developments, including the rules we are adopting and interpretations we are issuing simultaneously with Regulation Best Interest. Because many of these factors are firm-specific and thus inherently difficult to quantify, even if it were possible to calculate a range of potential quantitative estimates, that range would be so wide as to not be informative about the magnitude of the benefits or costs associated with Regulation Best Interest.
-
-			III.C.9.a Broad Commenter Concerns with Respect to Costs and Benefits
-
-			III.C.9.b Broad Investor Protection Benefits
-
-		III.C.2.0 Disclosure Obligation
-
-			III.C.2.a Benefits
-
-			III.C.2.b Costs
-
-		III.C.3.0 Care Obligation
-
-			III.C.3.a Benefits
-
-			III.C.3.b Costs
-
-		III.C.4.0 Conflict of Interest Obligation
-
-			III.C.4.a Overarching Obligation Related to Conflicts of Interest
-
-			III.C.4.b Mitigation of Certain Incentives to the Associated Persons
-
-			III.C.4.c Material Limitations on Recommendations to Retail Customers
-
-			III.C.4.d Elimination of Certain Sales Practices
-
-		III.C.5.0 Compliance Obligation
-
-		III.C.6.0 Record-Making and Recordkeeping
-
-		III.C.7.0 Approaches to Quantifying the Potential Benefits
-
-			III.C.7.a Benefit to Investors Due to a Potential Reduction in Fees
-
-			III.C.7.b Benefits to Investors Due to a Potential Reduction in the Relative Underperformance of Broker-versus Direct Sold Mutual Funds
-
-	III.D.0.0 Efficiency, Competition, and Capital Formation
-
-		III.D.1.0 Competition
-
-		III.D.2.0 Capital Formation and Efficiency
-
-	III.E.0.0 Reasonable Alternatives
-
-		III.E.1.0 Fiduciary Standard for Broker-Dealers
-
-			III.E.1.a Fiduciary Standard under the Advisers Act Applied to Broker-Dealers
-
-			III.E.1.b Uniform Fiduciary Standard under 913(g)
-
-			III.E.1.c Fiduciary Standard under the DOL Rule and BIC Exemption
-
-		III.E.2.0 Prescribed Format for Disclosure
-
-		III.E.3.0 Disclosure-Only
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-	IV.A.0.0 Respondents Subject to Regulation Best Interest and Amendments to Rule 17a-3(a)(35) and Rule 17a-4(e)(5)
-
-		IV.A.1.0 Broker-Dealers
-
-		IV.A.2.0 Natural Persons Who Are Associated Persons of Broker-Dealers
-
-	IV.B.0.0 Summary of Collections of Information
-
-		IV.B.1.0 Disclosure Obligation
-
-			IV.B.1.a Obligation to Provide to the Retail Customer Full and Fair Disclosure, in Writing, of all Material Facts Relating to the Scope and Terms of the Relationship with the Retail Customer
-
-		IV.B.1.0 Disclosure of Capacity
-
-		IV.B.2.0 Disclosure of Fees and Costs and Type and Scope of Services, Including Any Material Limitations on the Securities or Investment Strategies that may be Recommended
-
-			IV.B.2.b Obligation to Provide to the Retail Customer Full and Fair Disclosure, in Writing, of All Material Facts Relating to Conflicts of Interest that are Associated with the Recommendation
-
-			IV.B.2.c Estimated Costs and Burdens
-
-		IV.B.1.0 Disclosure of Capacity, Type and Scope of Services
-
-		IV.B.2.0 Disclosure of Fees and Costs
-
-		IV.B.3.0 Disclosure of All Material Facts Relating to Conflicts of Interest Associated with the Recommendation
-
-		IV.B.2.0 Care Obligation
-
-		IV.B.3.0 Conflict of Interest Obligation
-
-			IV.B.3.a Written Policies and Procedures
-
-			IV.B.3.b Identification and Management of Conflicts of Interest
-
-			IV.B.3.c Training
-
-		IV.B.4.0 Compliance Obligation
-
-			IV.B.4.a Written Policies and Procedures
-
-			IV.B.4.b Training
-
-		IV.B.5.0 Record-Making and Recordkeeping Obligations
-
-			IV.B.5.a Record-Making Obligation
-
-			IV.B.5.b Recordkeeping Obligation
-
-		IV.B.1.0 existing account disclosure documents; (2) comprehensive fee schedules; (3) disclosures identifying material conflicts; and (4) memorialized oral disclosures under the circumstances outlined in Section II.C.1, Oral Disclosure or Disclosure After a Recommendation.
-
-V.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	V.A.0.0 Need for and Objectives of the Rule
-
-		V.A.2.0 Care Obligation, (3) Conflict of Interest Obligation, and (4) Compliance Obligation. In addition, the Commission is amending Rules 17a-3 and 17a-4 of the Exchange Act, which set forth minimum requirements with respect to the records that broker-dealers must make, and how long those records and other documents must be kept, respectively.
-
-	V.B.0.0 Significant Issues Raised by Public Comments
-
-	V.C.0.0 Small Entities Subject to the Rule
-
-	V.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-		V.D.1.0 Disclosure Obligation
-
-			V.D.1.a Obligation to Provide to the Retail Customer Full and Fair Disclosure, in Writing, of all Material Facts Relating to the Scope and Terms of the Relationship with the Retail Customer
-
-			V.D.1.b Estimated Costs and Burdens
-
-		V.D.1.0 Disclosure of Capacity, Type and Scope of Services
-
-		V.D.2.0 Disclosure of Fees and Costs
-
-		V.D.3.0 Disclosure of All Material Facts Relating to Conflicts of Interest Associated with the Recommendation
-
-		V.D.2.0 Care Obligation
-
-		V.D.3.0 Conflict of Interest Obligation
-
-			V.D.3.a Written Policies and Procedures
-
-			V.D.3.b Identification and Management of Conflicts of Interest
-
-			V.D.3.c Training
-
-		V.D.4.0 Compliance Obligation
-
-		V.D.5.0 Record-Making and Recordkeeping Obligations
-
-			V.D.5.a Record-Making Obligation
-
-			V.D.5.b Recordkeeping Obligation
-
-	V.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VI.0.0.0 STATUTORY AUTHORITY AND TEXT OF THE RULE
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>240</sup>
@@ -348,142 +20,6 @@ FOR FURTHER INFORMATION CONTACT: Lourdes Gonzalez, Assistant Chief Counsel – O
 
 SUPPLEMENTARY INFORMATION: The Commission is adopting new rule 17 CFR 240.15 l -1 under the Exchange Act to establish a standard of conduct for broker-dealers and natural persons who are associated persons of a broker-dealer when they make a recommendation to a retail customer of any securities transaction or investment strategy involving securities. The Commission is also adopting amendments to rules 17 CFR 240.17a-3 and 17 CFR 240.17a-4 to establish new record-making and recordkeeping requirements for broker-dealers with respect to certain information collected from or provided to retail customers.
 
-Table of Contents
-
-INTRODUCTION
-
-Background
-
-Overview of Regulation Best Interest
-
-Overview of Modifications to the Proposed Rule Text and Guidance Provided
-
-Overview of Key Enhancements
-
-DISCUSSION OF REGULATION BEST INTEREST
-
-General Obligation
-
-Commission’s Approach
-
-General Obligation to “Act in Best Interest”
-
-Key Terms and Scope of Best Interest Obligation
-
-Natural Person who is an Associated Person
-
-Recommendation of Any Securities Transaction or Investment Strategy Involving Securities
-
-Retail Customer
-
-Component Obligations
-
-Disclosure Obligation
-
-Care Obligation
-
-Conflict of Interest Obligation
-
-Compliance Obligation
-
-Record-Making and Recordkeeping
-
-Compliance Date
-
-ECONOMIC ANALYSIS
-
-Introduction and Primary Goals of the Regulation, Comments on Market Failure and Quantification, and Broad Economic Considerations
-
-Introduction and Primary Goals of the Regulation
-
-Broad Economic Considerations
-
-Comments on Market Failure of the Principal-Agent Relationship and Quantification; Comments that the Broker-Dealer, Commission-Based Model Should Be Severely Restricted or Eliminated
-
-Economic Baseline
-
-Providers of Financial Services
-
-Regulatory Baseline and Current Market Practices
-
-Investment Advice and Evidence of Potential Investor Harm
-
-Trust, Financial Literacy, and the Effectiveness of Disclosure
-
-Benefits and Costs
-
-General
-
-Disclosure Obligation
-
-Care Obligation
-
-Conflict of Interest Obligation
-
-Compliance Obligation
-
-Record-Making and Recordkeeping
-
-Approaches to Quantifying the Potential Benefits
-
-Efficiency, Competition, and Capital Formation
-
-Competition
-
-Capital Formation and Efficiency
-
-Reasonable Alternatives
-
-Fiduciary Standard for Broker-Dealers
-
-Prescribed Format for Disclosure
-
-Disclosure-Only
-
-PAPERWORK REDUCTION ACT
-
-Respondents Subject to Regulation Best Interest and Amendments to Rule 17a- 3(a)(35) and Rule 17a-4(e)(5)
-
-Broker-Dealers
-
-Natural Persons Who Are Associated Persons of Broker-Dealers
-
-Summary of Collections of Information
-
-Disclosure Obligation
-
-Care Obligation
-
-Conflict of Interest Obligation
-
-Compliance Obligation
-
-Record-Making and Recordkeeping Obligations
-
-FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-Need for and Objectives of the Rule
-
-Significant Issues Raised by Public Comments
-
-Small Entities Subject to the Rule
-
-Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-Disclosure Obligation
-
-Care Obligation
-
-Conflict of Interest Obligation
-
-Compliance Obligation
-
-Record-Making and Recordkeeping Obligations
-
-Agency Action to Minimize Effect on Small Entities
-
-S TATUTORY AUTHORITY AND TEXT OF THE RULE
-
 <END HEADER>
 
 <h>I. INTRODUCTION</h>
@@ -502,9 +38,7 @@ Like many principal-agent relationships—including the investment adviser-clien
 
 Notwithstanding these inherent conflicts of interest in the broker-dealer-customer relationship, there is broad acknowledgment of the benefits of, and support for, the continuing existence of the broker-dealer business model, including a commission or other transaction-based compensation structure, as an option for retail customers seeking investment recommendations . <sup>7</sup> For example, retail customers that intend to buy and hold a long-term investment may find that paying a one-time commission to a broker-dealer recommending such an investment is more cost effective than paying an ongoing advisory fee to an investment adviser merely to hold the same investment. Retail customers with limited investment assets may benefit from broker-dealer recommendations when they do not qualify for advisory accounts because they do not meet the account minimums often imposed by investment advisers. Other retail customers who hold a variety of investments, or prefer differing levels of services (e.g., both episodic recommendations from a broker-dealer and continuous advisory services including discretionary asset management from an investment adviser), may benefit from having access to both brokerage and advisory accounts. Nevertheless, concerns exist regarding (1) the potential harm to retail customers
 
-Interpretation at footnotes 53-72 and accompanying text for a discussion of how investment advisers satisfy their fiduciary duty when conflicts of interest are present.resulting from broker-dealer recommendations provided where conflicts of interest exist and
-
-<h>2. the insufficiency of existing broker-dealer regulatory requirements to address these conflicts when broker-dealers make recommendations to retail customers. More specifically, there are concerns that existing requirements do not require a broker-dealer’s recommendations to be in the retail customer’s best interest.</h>
+Interpretation at footnotes 53-72 and accompanying text for a discussion of how investment advisers satisfy their fiduciary duty when conflicts of interest are present.resulting from broker-dealer recommendations provided where conflicts of interest exist and (2) the insufficiency of existing broker-dealer regulatory requirements to address these conflicts when broker-dealers make recommendations to retail customers. More specifically, there are concerns that existing requirements do not require a broker-dealer’s recommendations to be in the retail customer’s best interest.
 
 <h>B. Overview of Regulation Best Interest</h>
 
@@ -608,9 +142,7 @@ We are also providing additional guidance on what it means to make a recommendat
 
 We are clarifying that an evaluation of reasonably available alternatives does not require an evaluation of every possible alternative (including those offered outside the firm) nor require broker-dealers to recommend one “best” product, and what this evaluation will require in certain contexts (such as a firm with open architecture). Furthermore, we clarify that, when a broker- dealer materially limits its product offerings to certain proprietary or other limited menus of products, it must still comply with the Care Obligation—even if it has disclosed and taken steps to prevent the limitation from placing the interests of the broker-dealer ahead of the retail customer, as required by the Disclosure and Conflict of Interest Obligation—and thus could not use its limited menu to justify recommending a product that does not satisfy the obligation to act in a retail customer’s best interest.
 
-Conflict of Interest Obligation . We are revising the Conflict of Interest Obligation by:
-
-<h>1. similar to the proposal, establishing an overarching obligation to establish written policies and procedures to identify and at a minimum disclose (pursuant to the Disclosure Obligation), or eliminate, all conflicts of interest associated with the recommendation;and (2) setting forthexplicit requirements to establish written policies and procedures reasonably designed to mitigate or eliminate certain identified conflicts of interest, specifically:</h>
+Conflict of Interest Obligation . We are revising the Conflict of Interest Obligation by: (1) similar to the proposal, establishing an overarching obligation to establish written policies and procedures to identify and at a minimum disclose (pursuant to the Disclosure Obligation), or eliminate, all conflicts of interest associated with the recommendation;and (2) setting forthexplicit requirements to establish written policies and procedures reasonably designed to mitigate or eliminate certain identified conflicts of interest, specifically:
 
 Mitigation of Associated Person Conflicts of Interest . We are revising the proposal’s mitigation requirement to: (1) eliminate the distinction between financial incentives and all other conflicts of interest; and (2) focus on mitigating conflicts of interest associated with recommendations that create an incentive for the associated person of the broker- dealer to place the interest of the firm or the associated person ahead of the interest of the retail customer. <sup>75</sup> We are providing further guidance regarding the types of incentives covered by this revised obligation, in particular focusing on compensation or employment related incentives and other incentives provided to the associated person (whether by the broker-dealer or third-parties). We are also confirming, clarifying and expanding on the proposal’s guidance on potential mitigation methods to further promote compliance with this obligation.
 
@@ -648,11 +180,7 @@ Through these new requirements, we believe that Regulation Best Interest will im
 
 <h>A. General Obligation</h>
 
-As in the Proposing Release, Regulation Best Interest is set forth in two subparagraphs:
-
-<h>1. an overarching provision setting forth a general best interest obligation (“General</h>
-
-Obligation”); and (2) a second provision requiring compliance with specific obligations in order to satisfy the overarching standard (discussed below in Section II.C). <sup>81</sup> Specifically, as in the Proposing Release, the General Obligation requires that a broker-dealer “shall act in the best interest of the retail customer at the time the recommendation is made, without placing the financial or other interest of [the broker-dealer]…ahead of the interest of the retail customer.” <sup>82</sup>
+As in the Proposing Release, Regulation Best Interest is set forth in two subparagraphs: (1) an overarching provision setting forth a general best interest obligation (“General Obligation”); and (2) a second provision requiring compliance with specific obligations in order to satisfy the overarching standard (discussed below in Section II.C). <sup>81</sup> Specifically, as in the Proposing Release, the General Obligation requires that a broker-dealer “shall act in the best interest of the retail customer at the time the recommendation is made, without placing the financial or other interest of [the broker-dealer]…ahead of the interest of the retail customer.” <sup>82</sup>
 
 Most commenters, including a majority of the IAC, expressed opinions on this approach, and in particular on the General Obligation, including whether the obligation should be a “fiduciary” standard, whether it should be a uniform standard for broker-dealers and investment advisers, <sup>83</sup> and whether the standard should be more principles-based or more prescriptive (in particular, whether to define “best interest”). <sup>84</sup>
 
@@ -764,15 +292,9 @@ We solicited comment on whether the application of the definition was appropriat
 
 <h>2. Recommendation of Any Securities Transaction or Investment Strategy Involving Securities</h>
 
-We proposed to apply Regulation Best Interest to broker-dealer recommendations of any securities transaction or investment strategy involving securities to a retail customer. We believed that by applying Regulation Best Interest to a “recommendation,” as that term is currently interpreted under broker-dealer regulation, we would make clear when the obligation
+We proposed to apply Regulation Best Interest to broker-dealer recommendations of any securities transaction or investment strategy involving securities to a retail customer. We believed that by applying Regulation Best Interest to a “recommendation,” as that term is currently interpreted under broker-dealer regulation, we would make clear when the obligation applied and would maintain efficiencies for broker-dealers that have already established infrastructures to comply with suitability obligations, which are recommendation-based. <sup>159</sup> Moreover, we believed that focusing on each recommendation would appropriately capture and reflect the various types of recommendations that broker-dealers make to retail customers, whether on an episodic, periodic, or more frequent basis and would help ensure that retail customers receive the protections that Regulation Best Interest is intended to provide. We received numerous comments supporting our general proposed approach to what is a “recommendation,” while several commenters suggested modifications regarding the scope of a recommendation or sought additional clarity regarding particular scenarios. <sup>160</sup>
 
-<h>157. Id.</h>
-
-<h>158. Id.applied and would maintain efficiencies for broker-dealers that have already established infrastructures to comply with suitability obligations, which are recommendation-based. <sup>159</sup> Moreover, we believed that focusing on each recommendation would appropriately capture and reflect the various types of recommendations that broker-dealers make to retail customers, whether on an episodic, periodic, or more frequent basis and would help ensure that retail customers receive the protections that Regulation Best Interest is intended to provide. We received numerous comments supporting our general proposed approach to what is a “recommendation,” while several commenters suggested modifications regarding the scope of a recommendation or sought additional clarity regarding particular scenarios. <sup>160</sup></h>
-
-As we indicated in the Proposing Release, in our view, the determination of whether a broker-dealer has made a recommendation that triggers application of Regulation Best Interest should turn on the facts and circumstances of the particular situation and therefore, whether a recommendation has taken place is not susceptible to a bright line definition. Factors considered in determining whether a recommendation has taken place include whether the communication “reasonably could be viewed as a ‘call to action’” and “reasonably would influence an investor
-
-<h>159. Id.to trade a particular security or group of securities . ” <sup>161</sup> The more individually tailored the communication to a specific customer or a targeted group of customers about a security or group of securities, the greater the likelihood that the communication may be viewed as a “recommendation.” We continue to believe this general framework regarding what is a recommendation is appropriate, and for the reasons discussed in the Proposing Release, are taking this approach. <sup>162</sup></h>
+As we indicated in the Proposing Release, in our view, the determination of whether a broker-dealer has made a recommendation that triggers application of Regulation Best Interest should turn on the facts and circumstances of the particular situation and therefore, whether a recommendation has taken place is not susceptible to a bright line definition. Factors considered in determining whether a recommendation has taken place include whether the communication “reasonably could be viewed as a ‘call to action’” and “reasonably would influence an investor to trade a particular security or group of securities . ” <sup>161</sup> The more individually tailored the communication to a specific customer or a targeted group of customers about a security or group of securities, the greater the likelihood that the communication may be viewed as a “recommendation.” We continue to believe this general framework regarding what is a recommendation is appropriate, and for the reasons discussed in the Proposing Release, are taking this approach. <sup>162</sup>
 
 While certain commenters recommended formally defining the term “recommendation,” including what does not come within that term, <sup>163</sup> other commenters maintained there is no need to define “recommendation” and expressed support for harmonizing the term in accordance with existing broker-dealer guidance and case law. <sup>164</sup> We agree with commenters that clarity isimportant, and we continue to believe that the current principles-based approach underlying existing Commission precedent and guidance will provide effective clarity. Being more prescriptive could result in a definition that is over inclusive, under inclusive, or both. <sup>165</sup> We believe that what constitutes a recommendation is highly fact-specific and not conducive to an express definition in the rule text. Furthermore, we believe that the existing framework has worked well, that broker-dealers generally are familiar with the existing framework, and therefore, that this approach should continue. Accordingly, we are taking the approach as set forth in the Proposing Release, which we believe provides a workable framework and clarity for broker-dealers regarding the contours of a recommendation. To provide further clarity, in response to comments, we describe below the types of communications that we generally view as falling outside of the scope of a recommendation.
 
@@ -800,9 +322,7 @@ General financial and investment information, including:basic investment concept
 
 Descriptive information about an employer-sponsored retirement or benefit plan, participation in the plan, the benefits of plan participation, and the investment options available under the plan; <sup>181</sup>
 
-Asset allocation models that are:based on generally accepted investment theory,accompanied by disclosures of all material facts and assumptions that may affect a reasonable investor's assessment of the asset allocation model or any report generated by such model, andin compliance with FINRA Rule 2214 (Requirements for the Use of Investment Analysis Tools) if the asset allocation model is an “investment analysis tool” covered by FINRA Rule 2214; <sup>182</sup> and
-
-Interactive investment materials that incorporate the above.
+Asset allocation models that are:based on generally accepted investment theory,accompanied by disclosures of all material facts and assumptions that may affect a reasonable investor's assessment of the asset allocation model or any report generated by such model, andin compliance with FINRA Rule 2214 (Requirements for the Use of Investment Analysis Tools) if the asset allocation model is an “investment analysis tool” covered by FINRA Rule 2214; <sup>182</sup> and Interactive investment materials that incorporate the above.
 
 Thus, for example, a general conversation about retirement planning, such as providing a company’s retirement plan options to a retail customer, would not, by itself, rise to the level of a recommendation. Similarly, where a broker-dealer informs a retail customer that he or she needs to take a required minimum distribution under the Internal Revenue Code, we would not interpret such communication, by itself, to rise to the level of a recommendation. Such a communication would be considered investment education or descriptive information, provided it does not involve, for example, a recommendation regarding specific securities to be sold or a recommendation regarding specific securities to be purchased with the proceeds of any sale. <sup>183</sup> We agree with commenters that Regulation Best Interest should not stifle investment education as a means to encourage financial wellness, or otherwise restrict broker-dealers fromdisseminating information about, for example, retirement plans, and the approach we are taking to what is or is not considered a “recommendation” achieves this goal. <sup>184</sup>
 
@@ -866,11 +386,7 @@ In proposing the definition, we intended to exclude recommendations related to c
 
 The Commission requested comment on the scope and definition of retail customer and received a range of comments requesting: modification of the definition to focus on natural persons; clarification of the “personal, family or household purposes” qualification; harmonization with the definition in Form CRS; and further guidance surrounding the treatment of dual-registrants. In consideration of the comments received, the Commission is modifying the definition of “retail customer” to mean a natural person, or the legal representative of such natural person, who: (A) receives a recommendation of any securities transaction or investment strategy involving securities from a broker, dealer, or a natural person who is an associated person of a broker or dealer; and (B) uses the recommendation primarily for personal, family, or household purposes.
 
-The revised definition shifts the focus to natural persons, as opposed to any persons, but otherwise it is adopted largely as proposed. However, as discussed below, the Commission is
-
-<h>225. Id.</h>
-
-<h>226. Id.providing additional interpretations, guidance and clarification regarding: the interpretation of the “personal, family, or household purposes” qualifier; the interaction of this definition with the definition of “retail investor” in Form CRS; what it means for a retail customer to “use” the recommendation; and the status of dual-registrants. Furthermore, we are providing guidance on who would be considered to be the legal representative of a natural person for purposes of this definition.</h>
+The revised definition shifts the focus to natural persons, as opposed to any persons, but otherwise it is adopted largely as proposed. However, as discussed below, the Commission is providing additional interpretations, guidance and clarification regarding: the interpretation of the “personal, family, or household purposes” qualifier; the interaction of this definition with the definition of “retail investor” in Form CRS; what it means for a retail customer to “use” the recommendation; and the status of dual-registrants. Furthermore, we are providing guidance on who would be considered to be the legal representative of a natural person for purposes of this definition.
 
 <h>a. Focus on Natural Persons and Legal Representatives of Natural Persons</h>
 
@@ -888,19 +404,11 @@ In addition, reports indicate deficiencies in financial literary among the gener
 
 In addition, the definition of “retail customer” under Section 913(a) of the Dodd-Frank Act did not make a distinction based on net worth.natural person and similar representatives such as executors, conservators, and persons holding a power of attorney for a natural person), <sup>241</sup> thereby excluding certain institutions from Regulation Best Interest’s coverage. In capturing non-professional legal representatives within the definition of retail customer, we are providing the protections of Regulation Best Interest to non- professional persons who are acting on behalf of natural persons but who are not regulated financial services industry professionals retained by natural persons to exercise independent professional judgment, such as registered investment advisers and broker-dealers, corporate fiduciaries (e.g. , banks, trust companies and similar financial institutions) and insurancecompanies, and the employees or other regulated representatives of such advisers, broker-dealers, corporate fiduciaries and insurance companies. <sup>242</sup> Our definition is intended to capture natural persons and their legal representatives who rely directly on the broker-dealer for the recommendation. Accordingly, such non-professional legal representatives would not include regulated financial industry professionals. We believe this responds to commenters who stated that it should not be necessary to provide the protections of Regulation Best Interest to regulated professionals. <sup>243</sup> Importantly, however, this will not relieve firms or financial professionalsretained to represent the assets of natural persons from their own obligations to retail customers. <sup>244</sup>
 
-We retained the “personal, family, or household purposes” qualifier, <sup>245</sup> but are providing additional guidance and clarification on our interpretation of this phrase to address comments received. In particular, we interpret “personal, family or household purposes” to mean that any recommendation to a natural person for his or her account would be subject to Regulation Best Interest, other than recommendations to natural persons seeking these services for commercial or business purposes. Accordingly, under this interpretation, “personal, family or household purposes” would not include, for example, an employee seeking services for an employer or an individual who is seeking services for a small business or on behalf of another non-natural person entity such as a charitable trust. <sup>246</sup> As discussed above <sup>247</sup> and pursuant to the Care
-
-Obligation, <sup>248</sup> we believe broker-dealers are able to obtain sufficient facts to determine the purpose for which a recommendation will be used.
+We retained the “personal, family, or household purposes” qualifier, <sup>245</sup> but are providing additional guidance and clarification on our interpretation of this phrase to address comments received. In particular, we interpret “personal, family or household purposes” to mean that any recommendation to a natural person for his or her account would be subject to Regulation Best Interest, other than recommendations to natural persons seeking these services for commercial or business purposes. Accordingly, under this interpretation, “personal, family or household purposes” would not include, for example, an employee seeking services for an employer or an individual who is seeking services for a small business or on behalf of another non-natural person entity such as a charitable trust. <sup>246</sup> As discussed above <sup>247</sup> and pursuant to the Care Obligation, <sup>248</sup> we believe broker-dealers are able to obtain sufficient facts to determine the purpose for which a recommendation will be used.
 
 We also confirm that “personal, family or household purposes” would cover retirement accounts, as retirement savings is a personal, household or family purpose. Accordingly, the definition of retail customer will include a natural person receiving recommendations <sup>249</sup> for his or her own retirement account, including but not limited to IRAs and individual accounts in workplace retirement plans, such as 401(k) plans and other tax-favored retirement plans. <sup>250</sup> Fortax-exempt organizations described by Code section 457, and annuity contracts and custodial accounts described by Code section 403(b). Likewise, the definition of retail investor includes natural persons seeking brokerage or advisory services for other tax- favored savings arrangements such as an Archer Medical Savings Account described by Code section 220(d), a Health Savings Accounts described by Code section 223(d) and any similar tax-favored health plan saving arrangement, a Coverdell education savings account described by Code section 530 and a qualified tuition program or “529 plan” established pursuant to Code section 529.example, plan participants receiving recommendations about whether to take a distribution from a 401(k) plan or other workplace retirement plan and how to invest that distribution would be covered as retail customers. Similarly, a plan participant receiving recommendations for the participant’s individual account held in a 401(k) plan or other workplace retirement plan would be a retail customer for purposes of Regulation Best Interest. <sup>251</sup>
 
-The Commission acknowledges concerns from some commenters that workplace retirement plans and their representatives (e.g., plan sponsors, trustees, other fiduciaries) and service providers should be included in the definition of retail customer. <sup>252</sup> However, we understand that plan representatives of workplace retirement plans typically are not receiving recommendations for their own account for personal, family or household purposes when they engage a broker-dealer to provide services to a retirement plan established, maintained, and operated by an employer to provide pension or retirement savings benefits to employees; and further, as a legal representative of a plan participant, must comply with DOL rules. <sup>253</sup> As such,the Commission does not believe that workplace retirement plans or their representatives andinvestment options and designating and monitoring “default” investments for investing account balances of participants who do not make their own investment elections, and that plan representatives typically make these investment selections for a workforce with diverse investment profiles. See ARA December 2018 Letter (describing obligations of plan fiduciaries selecting an investment menu and qualified default investment alternatives); Empower Letter (describing plan fiduciary obligations to select investment menus). We also understand that plan representatives may receive brokerage and advice services for plans together with or complimentary with, other services supporting the plan’s establishment, maintenance and operation, such as plan design, recordkeeping and other administrative services. See, e.g., Groom Letter (describing business models of firms offering brokerage and advice services together with other services); SPARK Letter (same). In this context, a plan representative would not be receiving recommendations from a broker-dealer for his or her own account and considerations material to the plan representative’s investment decisions differ from a situation in which a retail customer receives a recommendation from a broker-dealer for his or her own account.
-
-Further, we note that DOL has rules currently in place (not affected by the Fifth Circuit’s decision vacating the DOL Fiduciary Rule) that address how plan representatives operate participant-directed plans and select investment menus for such plans, see 29 CFR 2550.404c-1, what actions, including disclosures, plan representatives must take to be able to raise a defense or claim for investment losses by a participant or beneficiaries, see 29 CFR 2550.404c-5, and also generally require broker-dealers making investment alternatives available for a participant-directed plan to disclose in writing (among other things) all direct and indirect compensation received in connection with providing plan services. See 29 CFR 2550.408b-2(c). See also Form 5500, Schedule C, requiring after- the-fact reporting by certain plans of information regarding direct and indirect compensation received by, among others, broker-dealers and investment advisers, in connection with services rendered or their position with the plan.
-
-Accordingly, we agree with those commenters who recommended that plan representatives should not be included in the definition of retail customer. See Empower Letter; Groom Letter; Letter from Nora M. Everett, President, Retirement and Income Solutions, Principal Financial Group (Aug. 7, 2018) (“Principal Letter”); SPARK Letter;
-
-T. Rowe Price Letter; Transamerica August 2018 Letter.service providers generally fall within the definition of retail customer for purposes of Regulation Best Interest because the workplace retirement plan is not a natural person, and therefore the workplace retirement plan representatives are not a non-professional representative of a natural person that is receiving a recommendation directly from a broker-dealer for “personal, family, or household purposes.” <sup>254</sup>
+The Commission acknowledges concerns from some commenters that workplace retirement plans and their representatives (e.g., plan sponsors, trustees, other fiduciaries) and service providers should be included in the definition of retail customer. <sup>252</sup> However, we understand that plan representatives of workplace retirement plans typically are not receiving recommendations for their own account for personal, family or household purposes when they engage a broker-dealer to provide services to a retirement plan established, maintained, and operated by an employer to provide pension or retirement savings benefits to employees; and further, as a legal representative of a plan participant, must comply with DOL rules. <sup>253</sup> As such,the Commission does not believe that workplace retirement plans or their representatives and service providers generally fall within the definition of retail customer for purposes of Regulation Best Interest because the workplace retirement plan is not a natural person, and therefore the workplace retirement plan representatives are not a non-professional representative of a natural person that is receiving a recommendation directly from a broker-dealer for “personal, family, or household purposes.” <sup>254</sup>
 
 We note, however, that some plan representatives may participate under their employer’s workplace plan, for example, in the case of a workplace IRA or other workplace retirement plan that is established and maintained by a sole proprietor or other self-employed individual that includes one or more employees in addition to the plan representative. To the extent that a plan representative who decides service arrangements for a workplace retirement plan is a sole proprietor or other self-employed individual who will participate in the plan, the plan representative would be a retail customer for purposes of Regulation Best Interest to the extent the sole proprietor or self-employed individual receives recommendations directly from a broker- dealer primarily for personal, family or household purposes.
 
@@ -908,9 +416,7 @@ We note, however, that some plan representatives may participate under their emp
 
 In the Proposing Release, the Commission did not specifically address whether recommendations subject to Regulation Best Interest needed to be for compensation, but did state that the proposed definition of retail customer would only apply to a person who “received a recommendation…from a broker or dealer or a natural person who is an associated person of a broker or dealer, and used the recommendation primarily for personal, family, or household purposes.” We stated that this approach was appropriate because it builds upon the guidance provided for FINRA’s suitability rule. <sup>255</sup> In response, a few commenters recommended that the Commission limit the application of Regulation Best Interest to recommendations made to retail customers for compensation. <sup>256</sup>
 
-Regulation Best Interest applies to a retail customer that both receives a recommendation of any securities transaction or investment strategy involving securities by a broker-dealer and that uses that recommendation primarily for personal, family, or household purposes, and not simply those recommendations for which a broker-dealer receives compensation. <sup>257</sup> In response to commenters, we interpret that a retail customer “uses” a recommendation of a securities transaction or investment strategy involving securities when, as a result of the recommendation:
-
-<h>1. the retail customer opens a brokerage account with the broker-dealer, regardless of whetherthe broker-dealer receives compensation, <sup>258</sup> (2) the retail customer has an existing account with the broker-dealer and receives a recommendation from the broker-dealer, regardless of whether the broker-dealer receives or will receive compensation, directly or indirectly, as a result of that recommendation, or (3) the broker-dealer receives or will receive compensation, directly or indirectly as a result of that recommendation, even if that retail customer does not have an account at the firm. <sup>259</sup></h>
+Regulation Best Interest applies to a retail customer that both receives a recommendation of any securities transaction or investment strategy involving securities by a broker-dealer and that uses that recommendation primarily for personal, family, or household purposes, and not simply those recommendations for which a broker-dealer receives compensation. <sup>257</sup> In response to commenters, we interpret that a retail customer “uses” a recommendation of a securities transaction or investment strategy involving securities when, as a result of the recommendation: (1) the retail customer opens a brokerage account with the broker-dealer, regardless of whetherthe broker-dealer receives compensation, <sup>258</sup> (2) the retail customer has an existing account with the broker-dealer and receives a recommendation from the broker-dealer, regardless of whether the broker-dealer receives or will receive compensation, directly or indirectly, as a result of that recommendation, or (3) the broker-dealer receives or will receive compensation, directly or indirectly as a result of that recommendation, even if that retail customer does not have an account at the firm. <sup>259</sup>
 
 When a retail customer opens or has an existing account with a broker-dealer the retail customer has a relationship with the broker-dealer and is therefore in a position to “use” (i.e., accept or reject) the broker-dealer’s recommendation. In this context, tying “use” solely to a broker-dealer’s receipt of compensation would inappropriately result in Regulation Best Interestnot applying to the broker-dealer’s recommendations to hold securities positions or to maintain an investment strategy (such as account type), recommendations to open an account, or recommendations that may ultimately be rejected by the retail customer.
 
@@ -928,11 +434,7 @@ While the definitions have generally been harmonized across the package of rulem
 
 <h>d. Treatment of Dual-Registrants</h>
 
-In the Proposing Release, the Commission stated that Regulation Best Interest applies only in the context of a brokerage relationship with a brokerage customer, and specifically, when
-
-<h>265. Id.</h>
-
-<h>266. Id.a broker-dealer is making a recommendation in the capacity of a broker-dealer. In particular, for dual-registrants (for purposes of this section, a broker-dealer that is dually registered as an investment adviser with the Commission), the obligations associated with Regulation Best Interest were intended to apply only when they are acting in the capacity as a broker-dealer. <sup>269</sup> The Commission recognized the issues surrounding the determination of whether a dual- registrant is acting in the capacity of a broker-dealer or an investment adviser, and asserted that such a determination requires a facts and circumstances analysis, with no one factor being determinative. <sup>270</sup></h>
+In the Proposing Release, the Commission stated that Regulation Best Interest applies only in the context of a brokerage relationship with a brokerage customer, and specifically, when a broker-dealer is making a recommendation in the capacity of a broker-dealer. In particular, for dual-registrants (for purposes of this section, a broker-dealer that is dually registered as an investment adviser with the Commission), the obligations associated with Regulation Best Interest were intended to apply only when they are acting in the capacity as a broker-dealer. <sup>269</sup> The Commission recognized the issues surrounding the determination of whether a dual- registrant is acting in the capacity of a broker-dealer or an investment adviser, and asserted that such a determination requires a facts and circumstances analysis, with no one factor being determinative. <sup>270</sup>
 
 Many commenters requested that the Commission clarify the treatment of dual-registrants and what is expected when offering products in both types of accounts. <sup>271</sup> Some commenters asserted that dually registered financial professionals should be held to a fiduciary standard. <sup>272</sup>
 
@@ -956,9 +458,7 @@ As discussed above, we have determined to retain the overall structure and scope
 
 <h>1. Disclosure Obligation</h>
 
-We proposed a Disclosure Obligation that would require a broker-dealer “to, prior to or at the time of [a] recommendation, reasonably disclose to the retail customer, in writing, the material facts relating to the scope and terms of the relationship with the retail customer and all material conflicts of interest associated with the recommendation.” The Proposing Release states that, for purposes of the Disclosure Obligation, we would consider the following to be examples of material facts relating to the scope and terms of the relationship with the retail customer: (1) that the broker-dealer was acting in a broker-dealer capacity with respect to the recommendation;
-
-<h>2. fees and charges that would apply to the retail customer’s transactions, holdings, and accounts; and (3) type and scope of services provided by the broker-dealer, including, for example, monitoring the performance of the retail customer’s account.</h>
+We proposed a Disclosure Obligation that would require a broker-dealer “to, prior to or at the time of [a] recommendation, reasonably disclose to the retail customer, in writing, the material facts relating to the scope and terms of the relationship with the retail customer and all material conflicts of interest associated with the recommendation.” The Proposing Release states that, for purposes of the Disclosure Obligation, we would consider the following to be examples of material facts relating to the scope and terms of the relationship with the retail customer: (1) that the broker-dealer was acting in a broker-dealer capacity with respect to the recommendation; (2) fees and charges that would apply to the retail customer’s transactions, holdings, and accounts; and (3) type and scope of services provided by the broker-dealer, including, for example, monitoring the performance of the retail customer’s account.
 
 As stated in the Proposing Release, we understand that broker-dealers typically provide information about their services and accounts, which may include disclosures concerning the broker-dealer’s capacity, fees, services, and conflicts, on their firm websites and in their accountopening agreements. <sup>285</sup> Furthermore, while broker-dealers are subject to a number of specific disclosure obligations when they effect certain customer transactions, and are subject to the antifraud provisions of the federal securities laws, broker-dealers are not currently subject to an explicit and broad disclosure requirement under the Exchange Act regarding the scope and terms of the broker-dealer relationship. <sup>286</sup> To promote broker-dealer recommendations that are in the best interest of retail customers, we determined it was necessary to impose a more explicit and broader disclosure obligation on broker-dealers than that which currently exists under the federal securities laws and SRO rules. <sup>287</sup>
 
@@ -1362,11 +862,9 @@ While we are not prescribing an explicit timeframe in which required updates mus
 
 <h>2. Care Obligation</h>
 
-We proposed the Care Obligation to require a broker-dealer, when making a recommendation of any securities transaction or investment strategy involving securities to a retail customer, to exercise reasonable diligence, care, skill, and prudence to: (1) understand the potential risks and rewards associated with the recommendation, and have a reasonable basis to believe that the recommendation could be in the best interest of at least some retail customers;
+We proposed the Care Obligation to require a broker-dealer, when making a recommendation of any securities transaction or investment strategy involving securities to a retail customer, to exercise reasonable diligence, care, skill, and prudence to: (1) understand the potential risks and rewards associated with the recommendation, and have a reasonable basis to believe that the recommendation could be in the best interest of at least some retail customers; (2) have a reasonable basis to believe that the recommendation is in the best interest of a particular retail customer based on that retail customer’s investment profile and the potential risks and rewards associated with the recommendation; and (3) have a reasonable basis to believe that a series of recommended transactions, even if in the retail customer’s best interest when viewed in isolation, is not excessive and is in the retail customer’s best interest when taken together in light of the retail customer’s investment profile. As we indicated in the Proposing Release, the Care Obligation was intended to incorporate and enhance existing suitability requirements applicable to broker-dealers under the federal securities laws by, among otherbe construed as conduct inconsistent with just and equitable principles of trade under FINRA Rule 2010 (Standards of Commercial Honor and Principles of Trade).things, imposing a “best interest” requirement that will require a broker-dealer to not place its own interest ahead of the retail customer’s interest, when making recommendations. <sup>549</sup>
 
-<h>2. have a reasonable basis to believe that the recommendation is in the best interest of a particular retail customer based on that retail customer’s investment profile and the potential risks and rewards associated with the recommendation; and (3) have a reasonable basis to believe that a series of recommended transactions, even if in the retail customer’s best interest when viewed in isolation, is not excessive and is in the retail customer’s best interest when taken together in light of the retail customer’s investment profile. As we indicated in the Proposing Release, the Care Obligation was intended to incorporate and enhance existing suitability requirements applicable to broker-dealers under the federal securities laws by, among otherbe construed as conduct inconsistent with just and equitable principles of trade under FINRA Rule 2010 (Standards of Commercial Honor and Principles of Trade).things, imposing a “best interest” requirement that will require a broker-dealer to not place its own interest ahead of the retail customer’s interest, when making recommendations. <sup>549</sup></h>
-
-Commenters generally supported the proposed Care Obligation, including its principles- based approach, but many commenters requested additional guidance or clarification on how a broker-dealer could satisfy the Care Obligation under different circumstances and regarding specific products. <sup>550</sup> Relatedly, several commenters requested further guidance regarding the role of costs and other relevant factors when making a best interest determination, <sup>551</sup> while other commenters expressed concern over the usage of the term “prudence” <sup>552</sup> or expressed concern that Regulation Best Interest is not a major change from FINRA’s suitability rule. <sup>553</sup> Numerous commenters also requested clarification on the meaning and scope of “reasonably available alternatives” and “otherwise identical securities,” including how the phrase “reasonably available alternatives” would apply in situations where a broker-dealer operated in an open architectureenvironment, <sup>554</sup> or maintained a limited product menu such as where broker-dealers limited available offerings to proprietary products. <sup>555</sup> Finally, several commenters recommended the Commission include other factors in building a retail customer’s investment profile, such as longevity risk, <sup>556</sup> market risk, <sup>557</sup> or income profile. <sup>558</sup>
+Commenters generally supported the proposed Care Obligation, including its principles- based approach, but many commenters requested additional guidance or clarification on how a broker-dealer could satisfy the Care Obligation under different circumstances and regarding specific products. <sup>550</sup> Relatedly, several commenters requested further guidance regarding the role of costs and other relevant factors when making a best interest determination, <sup>551</sup> while other commenters expressed concern over the usage of the term “prudence” <sup>552</sup> or expressed concern that Regulation Best Interest is not a major change from FINRA’s suitability rule. <sup>553</sup> Numerous commenters also requested clarification on the meaning and scope of “reasonably available alternatives” and “otherwise identical securities,” including how the phrase “reasonably available alternatives” would apply in situations where a broker-dealer operated in an open architecture environment, <sup>554</sup> or maintained a limited product menu such as where broker-dealers limited available offerings to proprietary products. <sup>555</sup> Finally, several commenters recommended the Commission include other factors in building a retail customer’s investment profile, such as longevity risk, <sup>556</sup> market risk, <sup>557</sup> or income profile. <sup>558</sup>
 
 We are adopting the Care Obligation substantially as proposed, but with certain modifications and additional guidance to address comments. As discussed in more detail below, in response to comments, we are revising the Care Obligation to remove the term “prudence,” as we have concluded that its inclusion creates legal uncertainty and confusion, and it is redundant of what we intended in requiring a broker-dealer to exercise “diligence, care, and skill,” and its removal does not change the requirements under the Care Obligation. Accordingly, the Care Obligation will require broker-dealers to “exercise reasonable diligence, care, and skill” to meet the three components of the Care Obligation.
 
@@ -1960,9 +1458,7 @@ Increases in the number of investment advisers and decreases in the number of br
 
 Further, there has been a substantial increase in the number of retail clients at investment advisers, both high net worth clients and non-high net worth clients as shown in Figure 2.
 
-Although the number of non-high net worth retail customers of investment advisers dipped between 2010 and 2012, it increased by more than 12 million new non-high net worth retail clients between 2012 and 2017, and has declined since 2017. With respect to AUM, we observe a similar, albeit more pronounced pattern for non-high net worth retail clients as shown in Figure
-
-<h>3. For high net worth retail clients, there has been a pronounced increase in AUM since 2012, although AUM has leveled off since 2015 and there also has been leveling and subsequent reduction in AUM for non-high net worth retail clients over a similar time period.https://blogs.wsj.com/moneybeat/2018/01/25/wsj-wealth-adviser-briefing-the- reinvention-of-morgan-and-merrill-adviser-profile/.</h>
+Although the number of non-high net worth retail customers of investment advisers dipped between 2010 and 2012, it increased by more than 12 million new non-high net worth retail clients between 2012 and 2017, and has declined since 2017. With respect to AUM, we observe a similar, albeit more pronounced pattern for non-high net worth retail clients as shown in Figure 3. For high net worth retail clients, there has been a pronounced increase in AUM since 2012, although AUM has leveled off since 2015 and there also has been leveling and subsequent reduction in AUM for non-high net worth retail clients over a similar time period.https://blogs.wsj.com/moneybeat/2018/01/25/wsj-wealth-adviser-briefing-the- reinvention-of-morgan-and-merrill-adviser-profile/.
 
 Figure 2: Time Series of the Number of Retail Clients of Investment Advisers (2010 – 2018)
 
@@ -2058,7 +1554,9 @@ Commission rates for some firms, however, decline as the dollar amount sold incr
 
 For financial professionals who do not earn commission-based compensation, some firms charge retail customers flat fees ranging from $500 to $2,500, depending on the level of service required, such as financial planning, while others charge hourly rates ranging from $150 to $350 per hour. For dually registered firms that charge clients based on a percentage of AUM, the average percentage charge varies based on the size of the account: the larger the AUM, the lower the percentage fee charged. Percentage-based fees for the sample firms range fromapproximately 1.5% for accounts below $250,000 to 0.5% for accounts in excess of $1million. <sup>967</sup> If compensation rates range between 30% and 95%, a firm charging a customer $500 can provide compensation to the financial professional between $150 and $475 for each financial plan provided. For fee-based accounts, assuming that a retail customer has an account worth$250,000, the firm will charge account-level fees of $3,750 ($250,000 x 1.5%), and the financial professional can earn between $1,170 and $3,560 annually for each account. However, accounts may also be subject to additional fees beyond those described here and the financial professionals also may receive additional compensation.
 
-In addition to “base” compensation, most firms also provide bonuses (based on either individual or team performance) or variable compensation, ranging from approximately 10% to 83% of base compensation. These bonuses could be awarded based on either commissions generated or AUM. While the majority of firms base at least some portion of their bonuses on production, usually in the form of total gross revenue, other forms of bonus compensation are$500,000 to $55,000 for accounts in excess of $7.5 million. Again, we note that these are charges to clients and are not indicative of the total compensation earned by the financial professional per account.derived from customer retention, customer experience, and manager assessment of performance. Moreover, some firms use a tiered system within their compensation grids depending on firm experience and production levels. Financial professionals’ variable compensation can also increase when they enroll retail customers in advisory accounts versus other types of accounts, such as brokerage accounts. Some firms also provide transition bonuses for financial professionals with prior work experience based on historical trailing production levels and AUM. Although many firms do not have any incentive-based contests or programs, some firms award non-cash incentives for meeting certain performance, best practices, or customer service goals, including trophies, dinners with senior officers, and travel to annual meetings with other award winners. <sup>968</sup>2.	Regulatory Baseline and Current Market Practices
+In addition to “base” compensation, most firms also provide bonuses (based on either individual or team performance) or variable compensation, ranging from approximately 10% to 83% of base compensation. These bonuses could be awarded based on either commissions generated or AUM. While the majority of firms base at least some portion of their bonuses on production, usually in the form of total gross revenue, other forms of bonus compensation are$500,000 to $55,000 for accounts in excess of $7.5 million. Again, we note that these are charges to clients and are not indicative of the total compensation earned by the financial professional per account.derived from customer retention, customer experience, and manager assessment of performance. Moreover, some firms use a tiered system within their compensation grids depending on firm experience and production levels. Financial professionals’ variable compensation can also increase when they enroll retail customers in advisory accounts versus other types of accounts, such as brokerage accounts. Some firms also provide transition bonuses for financial professionals with prior work experience based on historical trailing production levels and AUM. Although many firms do not have any incentive-based contests or programs, some firms award non-cash incentives for meeting certain performance, best practices, or customer service goals, including trophies, dinners with senior officers, and travel to annual meetings with other award winners. <sup>968</sup>
+
+<h>2. Regulatory Baseline and Current Market Practices</h>
 
 Broker-dealers' current standards of conduct are governed by federal and state law and regulation as well as the rules and guidance of SROs, <sup>969</sup> particularly, for the purposes of thisrulemaking, those related to the suitability of recommendations and disclosure of conflicts of interest. In response to comment letters that stated the Proposing Release did not fully consider the current market practices, we have provided an overview of these practices reported by commenters and from industry studies. <sup>970</sup> Together, these laws and regulations comprise the regulatory baseline.
 
@@ -2288,9 +1786,7 @@ Regulation Best Interest enhances the broker-dealer standard of conduct beyond e
 
 In this section, we discuss broader themes associated with the costs and benefits of Regulation Best Interest, including general comments we received on our analysis of the costs and benefits in the Proposing Release. Following this more general discussion, we discuss the specific costs and benefits associated with Regulation Best Interest’s four component obligations.
 
-While the Commission has considered the potential benefits and costs of Regulation Best Interest, the Commission notes that generally it is difficult to quantify such benefits and costs with meaningful precision . <sup>1156</sup> Where possible, the Commission has provided an estimate of specific costs; however, several factors make the quantification of many of the effects of Regulation Best Interest difficult. With respect to costs to broker-dealers, there is a lack of data on the extent to which broker-dealers with different business practices engage in disclosure and conflict mitigation activities to comply with existing requirements, and therefore how costly it would be to comply with the proposed requirements. Also, the final rule will provide broker- dealers flexibility in complying with Regulation Best Interest, and, as a result, there could be multiple ways in which broker-dealers will satisfy this obligation, although broker-dealers must comply with each of the elements of the obligation. In addition, Regulation Best Interest mayaffect broker-dealers differently depending on their business model (e.g., full service broker- dealer, broker-dealer that uses independent contractors, insurance-affiliated broker-dealer) and size. More generally, estimates of the magnitude of such benefits and costs depend on assumptions about (1) the extent to which broker-dealers currently engage in disclosure and conflict mitigation activities, (2) how broker-dealers currently develop recommendations for their customers, (3) how broker-dealers choose to comply with Regulation Best Interest, (4) whether and how broker-dealers change investments and share classes offered as a result of Regulation Best Interest, (5) whether and how product manufacturers change their investment offerings as a result of Regulation Best Interest, (6) whether broker-dealers restrict access to brokerage accounts by raising minimum account sizes or adding additional qualification requirements, (7) whether broker-dealers try to shift customers to advisory accounts as a result of Regulation Best Interest, (8) how retail customers perceive the risk and return of their portfolios,
-
-<h>9. how likely retail investors are to act on a recommendation that complies with Regulation Best Interest, (10) how the risk and return of retail customer portfolios change as a result of how they act on the recommendation, and (11) how investment advisers, including dually registered advisers, react to the adoption of Regulation Best Interest and the other regulatory developments, including the rules we are adopting and interpretations we are issuing simultaneously with Regulation Best Interest. Because many of these factors are firm-specific and thus inherently difficult to quantify, even if it were possible to calculate a range of potential quantitative estimates, that range would be so wide as to not be informative about the magnitude of the benefits or costs associated with Regulation Best Interest.</h>
+While the Commission has considered the potential benefits and costs of Regulation Best Interest, the Commission notes that generally it is difficult to quantify such benefits and costs with meaningful precision . <sup>1156</sup> Where possible, the Commission has provided an estimate of specific costs; however, several factors make the quantification of many of the effects of Regulation Best Interest difficult. With respect to costs to broker-dealers, there is a lack of data on the extent to which broker-dealers with different business practices engage in disclosure and conflict mitigation activities to comply with existing requirements, and therefore how costly it would be to comply with the proposed requirements. Also, the final rule will provide broker- dealers flexibility in complying with Regulation Best Interest, and, as a result, there could be multiple ways in which broker-dealers will satisfy this obligation, although broker-dealers must comply with each of the elements of the obligation. In addition, Regulation Best Interest mayaffect broker-dealers differently depending on their business model (e.g., full service broker- dealer, broker-dealer that uses independent contractors, insurance-affiliated broker-dealer) and size. More generally, estimates of the magnitude of such benefits and costs depend on assumptions about (1) the extent to which broker-dealers currently engage in disclosure and conflict mitigation activities, (2) how broker-dealers currently develop recommendations for their customers, (3) how broker-dealers choose to comply with Regulation Best Interest, (4) whether and how broker-dealers change investments and share classes offered as a result of Regulation Best Interest, (5) whether and how product manufacturers change their investment offerings as a result of Regulation Best Interest, (6) whether broker-dealers restrict access to brokerage accounts by raising minimum account sizes or adding additional qualification requirements, (7) whether broker-dealers try to shift customers to advisory accounts as a result of Regulation Best Interest, (8) how retail customers perceive the risk and return of their portfolios, (9) how likely retail investors are to act on a recommendation that complies with Regulation Best Interest, (10) how the risk and return of retail customer portfolios change as a result of how they act on the recommendation, and (11) how investment advisers, including dually registered advisers, react to the adoption of Regulation Best Interest and the other regulatory developments, including the rules we are adopting and interpretations we are issuing simultaneously with Regulation Best Interest. Because many of these factors are firm-specific and thus inherently difficult to quantify, even if it were possible to calculate a range of potential quantitative estimates, that range would be so wide as to not be informative about the magnitude of the benefits or costs associated with Regulation Best Interest.
 
 Broader economic forces, beyond broker-dealer and retail customer behavioral responsesto Regulation Best Interest, also make meaningful estimates of economic impacts difficult todevelop. The market for investment advice and services is complex and vast, and as history demonstrates, is dynamic and affected by market-specific facts (including product developments and regulatory changes) as well as macroeconomic factors (including general economic conditions). For example, the introduction of indexation to the retail investment market and the subsequent increase in index products (and providers) and reduction in the costs of indexing for retail investors have had substantial effects on the market for retail investment advice and services. The more recent introduction of ETFs has had similar unanticipated and underestimated effects, including, in general, reducing investor costs and increasing tax efficiency, as well as increasing the array of product offerings. Developments such as the employer-driven shift from defined benefit plans to defined contribution plans also have had significant effects on the market for investment advice. We expect these and other factors, including factors not currently identified, will continue to affect the market and, accordingly, may change the economic effects of the rule. These sources of uncertainty and complexity make meaningfully quantifying many of the costs and benefits of the rule difficult and, particularly over long time periods, inherently speculative.
 
@@ -2884,13 +2380,13 @@ We are explicitly requiring in the rule text of Regulation Best Interest, items 
 
 The Commission assumes for purposes of this analysis that broker-dealers would meet the obligation to disclose to the retail customer, in writing, the material facts related to the scope and terms of the relationship with the retail customer through a combination of delivery of the Relationship Summary, creating account disclosures to include standardized language related to capacity and type and scope of services, and the development of fee schedules.
 
-<h>1. Disclosure of Capacity</h>
+(1) Disclosure of Capacity
 
 As discussed above, the Commission believes that a standalone broker-dealer would be able to satisfy its obligation to disclose that it is acting in a broker-dealer capacity by providing the retail customer with the Relationship Summary in the manner prescribed by the rules and guidance in the Relationship Summary Adopting Release. <sup>1392</sup>
 
 We assume, for purposes of this PRA analysis, that a dually registered broker-dealer would satisfy its obligation to disclose it is acting in a broker-dealer capacity by creating an account disclosure with standardized language, and by providing it to the retail customer at the beginning of the relationship. The account disclosure would set forth when the broker-dealer would be acting in a broker-dealer capacity, and the method the broker-dealer planned to use to clarify its capacity at the time of the recommendation. We understand that many broker-dealers already include such information in account disclosures.
 
-<h>2. Disclosure of Fees and Costs and Type and Scope of Services, Including Any Material Limitations on the Securities or Investment Strategies that may be Recommended</h>
+(2) Disclosure of Fees and Costs and Type and Scope of Services, Including Any Material Limitations on the Securities or Investment Strategies that may be Recommended
 
 While many broker-dealers provide fee information to retail customers in a fee schedule, the Commission believes that to comply with the Disclosure Obligation broker-dealers will either amend their existing schedules or develop a new standardized fee schedule to disclose the fees and costs applicable to retail customers’ transactions, holdings, and accounts. This fee schedulewould be delivered to retail customers at the beginning of a relationship. If, at the time the recommendation is made, the disclosure made to the retail customer is not current or does not contain all material facts regarding the fees and costs of the particular recommendation, the broker-dealer would need to deliver an amended fee schedule or provide an oral update, under the circumstances outlined in Section II.C.1.
 
@@ -2908,7 +2404,7 @@ The corresponding estimated total annual reporting costs and burdens are address
 
 <h>c. Estimated Costs and Burdens</h>
 
-<h>1. Disclosure of Capacity, Type and Scope of Services</h>
+(1) Disclosure of Capacity, Type and Scope of Services
 
 Standalone broker-dealers will satisfy the obligation to disclose the capacity in which they are acting through the delivery to retail customers of the Relationship Summary, in accordance with the rules and guidance set forth in the Relationship Summary Adopting Release. Additionally, although we understand that many dual-registrants and standalone broker-dealers, as a matter of best practice, already disclose the capacity in which they are acting as well as the and type and scope of services they offer to retail customers, for purposes of this analysis, we assume that dual-registrants would create new account disclosure related to capacity and allbroker-dealers would create or update account disclosure related to type and scope of services specifically for purposes of compliance with Regulation Best Interest. The Commission assumes that broker-dealers would provide the account disclosure to each retail customer account, regardless of whether the retail customer has multiple accounts with the broker-dealer.
 
@@ -2916,11 +2412,11 @@ While the Commission recognizes that the Disclosure Obligation applies to the br
 
 Following is a discussion of the estimated initial and ongoing burdens and costs.
 
-I nitial Costs and Burdens
+Initial Costs and Burdens
 
-Because, as noted above, standalone broker-dealers will satisfy the obligation to disclose the capacity in which they are acting through the delivery to retail customers of the Relationship Summary, we estimate zero burden hours for standalone broker-dealers to disclose the capacity in which they are acting. We estimate that a dually registered firm will incur an initial internal burden of 10 hours for in-house counsel and in-house complianc e <sup>1396</sup> to draft language regarding the capacity in which they are acting for inclusion in the standardized account disclosure that is delivered to the retail customer . <sup>1397</sup>
+Because, as noted above, standalone broker-dealers will satisfy the obligation to disclose the capacity in which they are acting through the delivery to retail customers of the Relationship Summary, we estimate zero burden hours for standalone broker-dealers to disclose the capacity in which they are acting. We estimate that a dually registered firm will incur an initial internal burden of 10 hours for in-house counsel and in-house compliance <sup>1396</sup> to draft language regarding the capacity in which they are acting for inclusion in the standardized account disclosure that is delivered to the retail customer . <sup>1397</sup>
 
-In addition, we estimate that dual-registrants will incur an estimated external cost of$4,970 for the assistance of outside counsel in the preparation and review of standardized language regarding capacity . <sup>1398</sup> For the estimated 563 dually registered firms with retailbusiness, <sup>1399</sup> we project an aggregate initial burden of 5,630 hours, <sup>1400</sup> and $2.8 million in aggregate initial costs relating to disclosure of the capacity in which they are acting. <sup>1401</sup>
+In addition, we estimate that dual-registrants will incur an estimated external cost of$4,970 for the assistance of outside counsel in the preparation and review of standardized language regarding capacity . <sup>1398</sup> For the estimated 563 dually registered firms with retail business, <sup>1399</sup> we project an aggregate initial burden of 5,630 hours, <sup>1400</sup> and $2.8 million in aggregate initial costs relating to disclosure of the capacity in which they are acting. <sup>1401</sup>
 
 Similarly, to comply with Regulation Best Interest, we believe that broker-dealers <sup>1402</sup> will draft standardized language for inclusion in the account disclosure to provide the retail customer with more specific information regarding the type and scope of services that they provide. We expect that the associated costs and burdens will differ between small and large broker-dealers, as large broker-dealers generally offer more products and services and therefore will need to evaluate a larger number of products and services.
 
@@ -2928,13 +2424,13 @@ Given these assumptions, we estimate that a small broker-dealer will incur an in
 
 Given the broader array of products and services offered, we estimate that a large broker- dealer will incur an internal burden of twenty hours to draft this standardized language. <sup>1408</sup> A large broker-dealer will also incur an estimated cost of $7,470 for the assistance of outside counsel in the preparation and review of this standardized language. <sup>1409</sup> For the estimated 2,010large retail broker-dealers, we estimate an aggregate initial burden of 40,200 hours <sup>1410</sup> and $15 million in aggregate initial costs. <sup>1411</sup>
 
-We estimate that all broker-dealers will each incur approximately 0.02 burden hou rs <sup>1412</sup> for delivery of the account disclosure document . <sup>1413</sup> Based on FOCUS data, we estimate that the 2,766 broker-dealers that report retail activity have approximately 139 million customer accounts, and that approximately 73.5%, or 102 million, of those accounts belong to retail customers. <sup>1414</sup> We therefore estimate that broker-dealers will have an aggregate initial burden of 2,040,000
+We estimate that all broker-dealers will each incur approximately 0.02 burden hours <sup>1412</sup> for delivery of the account disclosure document . <sup>1413</sup> Based on FOCUS data, we estimate that the 2,766 broker-dealers that report retail activity have approximately 139 million customer accounts, and that approximately 73.5%, or 102 million, of those accounts belong to retail customers. <sup>1414</sup> We therefore estimate that broker-dealers will have an aggregate initial burden of 2,040,000
 
 B. Assuming the amount of retail customer accounts is proportionate to the percentage of broker-dealers that have retail customers, or 73.5% of broker-dealers, then the number of retail customer accounts would be 73.5% of 139 million accounts = 102 million retail customer accounts. This number likely overstates the number of deliveries to be made due to the double-counting of deliveries to be made by dual-registrants to a certain extent, and the fact that one customer may own more than one account.hours, or approximately 738 hours <sup>1415</sup> per broker-dealer for the first year after Regulation Best Interest is in effect . <sup>1416</sup>
 
 We estimate a total initial aggregate burden for all broker-dealers to develop and deliver to retail customers account disclosures relating to capacity and type and scope of services of 2,093,390 burden hours. <sup>1417</sup> We estimate a total initial aggregate cost of $21.6 million. <sup>1418</sup>
 
-O ngoing Costs and Burdens
+Ongoing Costs and Burdens
 
 For purposes of this analysis, we assume that broker-dealers will review and amend the standardized language in the account disclosure, on average, once a year. <sup>1419</sup> Further, we assumethat broker-dealers will not incur outside costs in connection with updating account disclosures, as in-house personnel will be more knowledgeable about changes in capacity, and the type and scope of services offered by the broker-dealer. Additionally, with respect to standalone broker- dealers, because they will meet their obligation to disclose capacity by delivering the Relationship Summary, and will be subject to requirements to amend the Relationship Summary consistent with Form CRS, we estimate zero burden hours annually for ongoing costs relating to disclosure of capacity under the Disclosure Obligation.
 
@@ -2952,11 +2448,11 @@ The total ongoing aggregate burden for all broker-dealers to review, amend, and 
 
 The Commission acknowledges that the types of services and product offerings vary greatly by broker-dealer, and therefore the costs and burdens associated with updating the account disclosure might also vary.
 
-<h>2. Disclosure of Fees and Costs</h>
+(2) Disclosure of Fees and Costs
 
 The Commission assumes for purposes of this analysis that a broker-dealer will disclose its fees and costs through a standardized fee schedule, delivered to the retail customer at the+ (408,000 ongoing aggregate burden hours for delivery of amended account disclosures)= 455,165 total ongoing aggregate burden hours per year.beginning of the relationship, or, for existing retail customers, prior to or at the time of a recommendation and, as discussed below, will amend such fee schedules in the event of material changes. Although we understand that many broker-dealers already provide fee schedules to retail customers, we are assuming for purposes of this analysis that a fee schedule would be created specifically for purposes of compliance with Regulation Best Interest. <sup>1426</sup> While the Commission recognizes that the fee disclosure included in Disclosure Obligation applies to the broker-dealer entity and its associated persons, we do not expect any burdens or costs on associated persons related to the fees and costs as this information would be addressed in the broker-dealer entity’s fee schedule.
 
-I nitial Costs and Burdens
+Initial Costs and Burdens
 
 We assume that, for purposes of this analysis, the associated costs and burdens will differ between small and large broker-dealers, as large broker-dealers generally offer more products and services and therefore will need to evaluate a wider range of fees in their fee schedules. As stated above, while we anticipate that many broker-dealers may already create fee schedules, we believe that small broker-dealers will initially spend five hours for in-house compliance and large broker-dealers will spend ten hours for in-house compliance to internally create a new fee schedule in consideration of the requirements of Regulation Best Interest. We additionallyestimate a one-time external cost of $2,485 for small broker-dealer s <sup>1427</sup> and $4,970 for larger broker-dealers for outside counsel to review the fee schedule. <sup>1428</sup> We therefore estimate the initial aggregate burden for small broker-dealers to be 3,780 burden hours , <sup>1429</sup> and the initial aggregate cost to be $1.88 million . <sup>1430</sup> We estimate the aggregate burden for large broker- dealers to be 20,100 burden hours, <sup>1431</sup> and the aggregate cost to be $9.99 million. <sup>1432</sup>
 
@@ -2964,7 +2460,7 @@ Similar to delivery of the account disclosure regarding capacity and type and sc
 
 The total aggregate initial burden for broker-dealers is therefore estimated at 2,063,880 <sup>1436</sup> hours, and the total aggregate initial cost is estimated at $11.87 million. <sup>1437</sup>
 
-O ngoing Costs and Burdens
+Ongoing Costs and Burdens
 
 For purposes of this PRA analysis, we assume that broker-dealers will review and amend the fee schedule on average, once a year. With respect to small broker-dealers, we estimate thatreviewing and updating the fee schedule will require approximately two hours for in-house compliance per year, and for large broker-dealers, we estimate that the recurring, annual burden to review and update the fee schedule will be four hours for in-house compliance for each large broker-dealer. Based on these estimates, we estimate the recurring, aggregate, annualized burden will be 1,512 hours for small broker-dealer s <sup>1438</sup> and 8,040 hours for large broker-dealers. <sup>1439</sup> We do not anticipate that small or large broker-dealers will incur outside legal, compliance, or consulting fees in connection with updating their standardized fee schedule since in-house personnel would be more knowledgeable about these facts, and we therefore do not expect external costs associated with updating the fee schedule.
 
@@ -2974,11 +2470,11 @@ The total ongoing aggregate burden for all broker-dealers to review, amend, and 
 
 The Commission acknowledges that the type of fee schedule may vary greatly by broker- dealer, and therefore that the costs or burdens associated with updating the standardized fee schedule might similarly vary.
 
-<h>3. Disclosure of All Material Facts Relating to Conflicts of Interest Associated with the Recommendation</h>
+(3) Disclosure of All Material Facts Relating to Conflicts of Interest Associated with the Recommendation
 
 Regulation Best Interest requires broker-dealers to provide a retail customer, in writing, full and fair disclosure of all material facts relating to conflicts of interest that are associated with the recommendation. Because the Disclosure Obligation applies to both the broker-dealer entity and its associated persons, the Commission expects that the broker-dealer entity and its associated persons will incur initial and ongoing burdens. However, as with the disclosure of the capacity in which they are acting and type and scope of services, we assume for purposes of thisaggregate burden hours) / (2,766 broker-dealers) = 295 burden hours per broker-dealer per year.analysis that the broker-dealer entities will incur the costs and burdens of disclosing material conflicts of interest on behalf of their associated persons. <sup>1443</sup>
 
-I nitial Costs and Burdens
+Initial Costs and Burdens
 
 The Disclosure Obligation provides broker-dealers with the flexibility to choose the form and manner of conflict disclosure. However, we believe that many or most broker-dealers will develop a standardized conflict disclosure document and deliver it to their retail customers . <sup>1444</sup> We also assume for purposes of this PRA analysis that broker-dealers will update and deliver the standardized conflict disclosure document yearly on an ongoing basis, following the broker- dealer’s annual conflicts review process.
 
@@ -2988,9 +2484,9 @@ We expect the development and review of the standardized conflict disclosure doc
 
 We assume that broker-dealers will deliver the standardized conflict disclosure document to new retail customers at the inception of the relationship, and to existing retail customers prior to or at the time of a recommendation. We estimate that broker-dealers will require approximately 0.02 hours to deliver the standardized conflict disclosure document to each retail customer. <sup>1451</sup> We therefore estimate that broker-dealers will incur an aggregate initial burden of 2,040,000 hours, or approximately 738 hours per broker-dealer for delivery of the standardized conflict disclosure document the first year after Regulation Best Interest is in effect. <sup>1452</sup>
 
-The total aggregate initial burden for broker-dealers is therefore estimated at 2,058,855 <sup>1453</sup> hours, and the total aggregate initial cost is estimated at $9.37 million . <sup>1454</sup>
+The total aggregate initial burden for broker-dealers is therefore estimated at 2,058,855 <sup>1453</sup> hours, and the total aggregate initial cost is estimated at $9.37 million. <sup>1454</sup>
 
-O ngoing Costs and Burdens
+Ongoing Costs and Burdens
 
 We believe that broker-dealers will incur ongoing annual burdens and costs to update the disclosure document to include newly identified conflicts. We assume for purposes of this analysis that broker-dealers will update their conflict disclosure document annually, after conducting an annual conflicts review. We estimate that the conflicts disclosures will be updated internally by both small and large broker-dealers.
 
@@ -3018,7 +2514,7 @@ Following is a detailed discussion of the estimated costs and burdens associated
 
 <h>a. Written Policies and Procedures</h>
 
-I nitial Costs and Burdens
+Initial Costs and Burdens
 
 We believe that most broker-dealers have policies and procedures in place to address conflicts of interest, but do not necessarily have written policies and procedures regarding the identification and management of conflicts as required by Regulation Best Interest. To complyof the broker-dealer with respect to compliance with applicable laws and rules, and supervision of the activities of each associated, for a specified period of time. The record retention requirements of Rule 17a-4(e)(7) include any written policies and procedures that broker-dealers may produce pursuant to the Conflict of Interest Obligation of Regulation Best Interest.with the Conflict of Interest Obligation, we believe that broker-dealers would utilize a combination of in-house and outside legal and compliance counsel to update existing policies and procedures. <sup>1467</sup> We assume that, for purposes of this analysis, the associated costs and burdens would differ between small and large broker-dealers, as large broker-dealers generally offer more products and services and therefore would need to evaluate and address a greater number of potential conflicts of interest. As discussed above, we estimate that 2,010 broker- dealers would qualify as large broker-dealers for purposes of this analysis and 756 would qualify as small broker-dealers that have retail business. <sup>1468</sup>
 
@@ -3032,7 +2528,7 @@ For purposes of Regulation Best Interest as adopted, we estimate that a large br
 
 For small broker-dealers, we believe that they would primarily rely on outside counsel to update existing policies and procedures, as small broker-dealers generally have fewer in-house legal and compliance personnel. Given that smaller broker-dealers generally have fewer conflicts of interest, we estimate that 40 hours of outside legal counsel would be required to update existing policies and procedures, for a one-time cost of $19,880 per small broker-dealer , <sup>1478</sup> and an aggregate cost of $15.0 million for all small broker-dealers . <sup>1479</sup> We also expect that in-house compliance would require 10 hours to review and approve the updated policies and procedures, for an aggregate burden of 7,560 hours . <sup>1480</sup> Therefore, we estimate the total initial aggregate burden to be 128,160 hour s <sup>1481</sup> and the total initial aggregate cost to be approximately $25.0 million . <sup>1482</sup>
 
-O ngoing Costs and Burdens
+Ongoing Costs and Burdens
 
 For purposes of this analysis, we assume that small and large broker-dealers would review and update policies and procedures on an annual basis to accommodate the addition of, for example, new products or services, new business lines, and/or new personnel. We also assume that broker-dealers would review and update their policies and procedures for$25.0 million total aggregate costs.compliance with the Conflict of Interest Obligation on an annual basis, and in-house personnel would perform the review and make any updates.
 
@@ -3054,7 +2550,7 @@ Accordingly, we expect that the need to update policies and procedures might als
 
 With respect to identifying and determining whether a conflict of interest exists in connection with a recommendation and whether it needs to be addressed through disclosure, mitigation and/or elimination, a broker-dealer would first need to establish mechanisms to proactively and systematically identify conflicts of interest in its business on an ongoing or periodic basis. <sup>1495</sup> For purposes of this analysis, we assume that most broker-dealers already have an existing technological infrastructure in place, and we assume it would need to be modified to comply with the Conflict of Interest Obligation.
 
-I nitial Costs and Burdens
+Initial Costs and Burdens
 
 As stated in the Proposing Release, we believed that costs and burdens may vary greatly depending on the size of the broker-dealer, but we expected that modification of a broker- dealer’s existing technology would initially require the retention of an outside programmer as well as coordination between the programmer and the broker-dealer’s in-house compliance manager. The costs and burdens for this process were estimated to be $15.43 million and 14,285 burden hours. <sup>1496</sup> In addition to these costs and burdens, we expected that a broker-dealer would spend time to determine whether the conflict of interest identified were material and would have required an additional 14,285 burden hours for all broker-dealers for an aggregate burden of 28,570 hours for identification of conflicts of interest. <sup>1497</sup>
 
@@ -3064,7 +2560,7 @@ To comply with the Conflict of Interest Obligation, we expect that broker-dealer
 
 As a result of the changes made to the rule text of the Conflict of Interest Obligation, we believe that broker-dealers would incur burdens to: (1) identify conflicts of interest and determine whether the conflict involves an incentive to an associated person to place the interest of the broker-dealer or natural person making the recommendation ahead of the interest of the retail customer, a material limitation on the product menu, or a sales practice that is based on the sales of specific securities or specific types of securities within a limited period of time and (2) determine whether and how the conflict would be disclosed, disclosed and mitigated, or eliminated in accordance with the Conflict of Interest Obligation. In order to complete thisprocess, we believe a broker-dealer, on average, would require approximately 20 hour s <sup>1502</sup> of review per broker-dealer , <sup>1503</sup> for an aggregate of 55,320 burden hours for all broker-dealers. <sup>1504</sup> We therefore estimate the total initial aggregate burden for identification and management of conflicts of interest is 69,150 hours. <sup>1505</sup>
 
-O ngoing Costs and Burdens
+Ongoing Costs and Burdens
 
 To maintain compliance with the Conflict of Interest Obligation, we assume for purposes of this analysis that a broker-dealer would seek to identify additional conflicts of interest as its business evolves. As noted above, the Commission recognizes that broker-dealers vary in the types of services and product offerings and therefore vary in the types of conflicts of interest that exist within and across broker-dealers. <sup>1506</sup>
 
@@ -3084,7 +2580,7 @@ Because we did not include the Compliance Obligation in the Proposing Release, w
 
 <h>a. Written Policies and Procedures</h>
 
-I nitial Costs and Burdens
+Initial Costs and Burdens
 
 While the Compliance Obligation creates an explicit requirement under the Exchange Act, we believe that broker-dealers would likely establish policies and procedures to comply with Regulation Best Interest pursuant to Section 15(b)(4)(E) and SRO rules by adjusting their current systems of supervision and compliance, as opposed to creating new systems. While broker- dealers must already have policies and procedures in place to address other Commission and
 
@@ -3096,7 +2592,7 @@ For purposes of this analysis we estimate that a large broker-dealer would incur
 
 For small broker-dealers, we believe that they would primarily rely on outside counsel to update existing policies and procedures, as small broker-dealers generally have fewer in-house legal and compliance personnel. We estimate that only 20 hours of outside legal counsel services would be required, for a one-time cost of $9,940 per small broker-dealer , <sup>1524</sup> and an aggregate cost of $7.5 million for all small broker-dealers . <sup>1525</sup> We also expect that in-housecompliance personnel would require 6 hours to review and approve the updated policies and procedures, for an aggregate burden of 4,536 hours . <sup>1526</sup> Therefore, we estimate the total initial aggregate burden to be 84,936 hours <sup>1527</sup> and the total initial aggregate cost to be $13.5 million. <sup>1528</sup>
 
-O ngoing Costs and Burdens
+Ongoing Costs and Burdens
 
 For purposes of this analysis, we assume that small and large broker-dealers would review and update policies and procedures on a periodic basis to accommodate the addition of, among other things, new products or services, new business lines, and/or new personnel. We also assume that broker-dealers would review and update their policies and procedures for compliance with Regulation Best Interest on an annual basis, and for purposes of this analysis, we assume they would perform the review and update using in-house personnel. Under the Compliance Obligation, we do not believe that broker-dealers would incur any costs or burdens associated with compliance with the Conflict of Interest Obligation, as those are included in the discussion above, but would for ongoing compliance with the Disclosure and Care Obligations.
 
@@ -3110,7 +2606,7 @@ Pursuant to the Compliance Obligation’s requirement to “maintain and enforce
 
 Disclosure, Care and Conflict of Interest Obligations. The initial and ongoing costs and burdens associated with such a training program are estimated below.
 
-I nitial Costs and Burdens
+Initial Costs and Burdens
 
 We believe that broker-dealers would likely use a computerized training model to train their associated persons regarding the policies and procedures pertaining to Regulation Best Interest. We estimate that a broker-dealer would retain an outside systems analyst, outside programmer, and an outside programmer analyst to create the training module, at 20 hours, 40 hours, and 20 hours, respectively. The total cost to develop the training module would be approximately $20,920 , <sup>1535</sup> for an aggregate initial cost of $62.8 million. <sup>1536</sup>
 
@@ -3118,7 +2614,7 @@ Additionally, we expect that the training module would require the approval of t
 
 In addition, broker-dealers would incur an initial cost for associated persons to undergo training through the training module. We estimate the training time at one hour per associated person, for an aggregate burden of 428,404 burden hours, or an initial burden of 154.9 hours per broker-dealer. <sup>1538</sup> We estimate the total initial aggregate burden to approve the training module and implement the training program would be 439,486 burden hours. <sup>1539</sup>
 
-O ngoing Costs and Burdens
+Ongoing Costs and Burdens
 
 We believe that, as a matter of best practice, broker-dealers would likely require registered representatives to repeat the training module for Regulation Best Interest on an annual basis. The ongoing aggregate cost for the one-hour training would be 428,404 burden hours per year, or 154.9 burden hours per broker-dealer per year. <sup>1540</sup>
 
@@ -3138,7 +2634,7 @@ We are amending Rule 17a-3 by adding a new paragraph (a)(35) that requires a rec
 
 We indicated in the Proposing Release, and we continue to believe that broker-dealers currently make records of relevant customer investment profile information, and we therefore assume that no additional record-making obligations would arise as a result of broker-dealers’ or their registered representatives’ collection of information from retail customers. <sup>1547</sup> In addition, we continue to believe that broker-dealers likely make records of the “identity of each natural person who is an associated person, if any, responsible for the account.” However, we are assuming, for purposes of compliance with Rule 17a-3(a)(35), that broker-dealers will need to create a record, or modify an existing record, to identify the associated person, if any,to identify the associated person, if any, responsible for the account in the context of Regulation Best Interest. See Proposing Release at 21673.responsible for the account in the context of Regulation Best Interest. In addition, in cases where broker-dealers choose to meet part of the Disclosure Obligation orally under the circumstances outlined in Section II.C.1, Oral Disclosure or Disclosure After a Recommendation , we believe the requirement to maintain a record of the fact that oral disclosure was provided to the retail customer will trigger a record-making obligation under paragraph (a)(35) of Rule 17a-3 and a recordkeeping obligation under paragraph (e)(5) of Rule 17a-4 that may impose additional compliance costs and burdens on broker-dealers.
 
-I nitial Costs and Burdens
+Initial Costs and Burdens
 
 In the Proposing Release, we assumed that broker-dealers would satisfy the record- making requirement of the proposed amendment to Rule 17a-3(a)(25) by amending an existing account disclosure document to include the “identity of each natural person who is an associated person, if any, responsible for the account.” We estimated that the inclusion of this information in an account disclosure document would require an approximate total aggregate initial burden of 3,808,000 hours, or approximately 1,333 hours per broker-dealer for the first year after Regulation Best Interest is in effect. <sup>1548</sup>
 
@@ -3146,7 +2642,7 @@ As discussed above, we continue to believe that broker-dealers will satisfy the 
 
 The total aggregate initial burden for broker-dealers is therefore estimated at 4,084,020 hours, <sup>1553</sup> and the total aggregate initial cost is estimated at $375,732. <sup>1554</sup>
 
-O ngoing Costs and Burdens
+Ongoing Costs and Burdens
 
 We do not believe that the identity of the registered representative responsible for the retail customer’s account will change. Accordingly, we continue to believe that there are no ongoing costs and burdens associated with this record-making requirement of the amendment to Rule 17a-3(a)(35).
 
@@ -3158,11 +2654,9 @@ We are amending Rule 17a-4(e)(5) to require that broker-dealers retain all recor
 
 This estimate is likely over inclusive, as it includes all retail customer accounts at all broker-dealers (as opposed to only retail customer accounts where the retail customer has both a brokerage and advisory account with a dually registered financial professional), and under inclusive, as it assumes that such an oral disclosure will happen annually (as opposed to multiple times a year).
 
-Interest for at least six years after the earlier of the date the account was closed or the date on which the information was last replaced or updated. We assume that, for purposes of this analysis, the following records would likely be retained pursuant to amended Rule 17a-3(a)(35):
+Interest for at least six years after the earlier of the date the account was closed or the date on which the information was last replaced or updated. We assume that, for purposes of this analysis, the following records would likely be retained pursuant to amended Rule 17a-3(a)(35): (1) existing account disclosure documents; (2) comprehensive fee schedules; (3) disclosures identifying material conflicts; and (4) memorialized oral disclosures under the circumstances outlined in Section II.C.1, Oral Disclosure or Disclosure After a Recommendation.
 
-<h>1. existing account disclosure documents; (2) comprehensive fee schedules; (3) disclosures identifying material conflicts; and (4) memorialized oral disclosures under the circumstances outlined in Section II.C.1, Oral Disclosure or Disclosure After a Recommendation.</h>
-
-I nitial Costs and Burdens
+Initial Costs and Burdens
 
 We believe that, to reduce costs and for ease of compliance, broker-dealers will utilize their existing recordkeeping systems in order to retain the forgoing records made pursuant to Regulation Best Interest, and as required to be kept under the amendment to Rule 17a-4(e)(5). As noted above, broker-dealers currently are subject to recordkeeping obligations pursuant to Rule 17a-4, which require, for example, broker-dealers to “preserve for a period of not less than six years, the first two years in an easily accessible place, all records required to be madepursuant to” Rule 17a-3(a)(1), (a)(2), (a)(3), (a)(5), (a)(21), (a)(22), and analogous records created pursuant to paragraph 17a-3(f). Thus, for example, broker-dealers are already required to maintain documents such as account blotters and ledgers for six years.
 
@@ -3170,7 +2664,7 @@ We continue to believe that broker-dealers will utilize their existing recordkee
 
 Based on our belief that broker-dealers will rely on existing infrastructures to satisfy the recordkeeping obligations of Regulation Best Interest and the amendment to Rule 17-a(4)(e)(5), we believe the burden for broker-dealers to add new documents or modify existing documents to the broker-dealer’s existing retention system will be approximately 13.6 million burden hours for all broker-dealers, assuming a broker-dealer will need to upload or file each of the four accountdocuments discussed above for each retail customer account. <sup>1558</sup> We do not believe there will be additional substantive internal or external costs relating to the uploading or filing of the documents. In addition, because we have already included the costs and burdens associated with the delivery of the amended account opening agreement and other documents above, we do not include them in this section of the analysis.
 
-O ngoing Costs and Burdens
+Ongoing Costs and Burdens
 
 We estimate that the approximate ongoing burden associated with the recordkeeping requirement of the amendment to Rule 17a-4(e)(5) is 4.46 million burden hours per year. <sup>1559</sup> Wedo not believe that the ongoing costs associated with ensuring compliance with the retention schedule would change from the current costs of ensuring compliance with existing Rule 17a-4 and as outlined above.
 
@@ -3692,6 +3186,12 @@ We acknowledge certain commenters urged the Commission to take additional or dif
 
 156 Proposing Release at 21592-21593.
 
+157 Id.
+
+158 Id.
+
+159 Id.
+
 160 See generally SIFMA August 2018 Letter; Financial Engines Letter; IPA Letter; Putnam Letter; Cambridge Letter (recommending the Commission adopt FINRA’s approach to determining whether a communication is a “recommendation”). But see NASAA August 2018 Letter; BlackRock Letter; FSI August 2018 Letter (recommending modifications or clarifications to “recommendation”).
 
 161 See Proposing Release at 21592-21593; see also NASD Notice to Members 01-23, Online Suitability – Suitability Rules and Online Communications (Apr. 2001); Notice of Filing Proposed Rule Change to Adopt FINRA Rule 2090 (Know Your Customer) and FINRA Rule 2111 (Suitability) in the Consolidated FINRA Rulebook, Exchange Act Release No. 62718 (Aug. 13, 2010), 75 FR 51310 (Aug. 19, 2010), as amended, Exchange Act Release No. 67218A (Aug. 20, 2010), 75 FR 52562 (Aug. 26, 2010) (discussing what it means to make a “recommendation”).
@@ -3822,6 +3322,10 @@ We acknowledge certain commenters urged the Commission to take additional or dif
 
 224 See Proposing Release at Section II.C.4. Section 913(a) defines “retail customer” as a natural person, or the legal representative of such natural person who: (1) receives personalized investment advice about securities from a broker or dealer or investment adviser; and (2) uses such advice primarily for personal, family, or household purposes.
 
+225 Id.
+
+226 Id.
+
 227 See, e.g., Cetera August 2018 Letter; Invesco Letter.
 
 228 See FPC Letter; SIFMA August 2018 Letter; BlackRock Letter. Contra ACLI Letter (supporting the provision in Section 913 and positing that Regulation Best Interest appropriately implements this foundational threshold).
@@ -3874,7 +3378,8 @@ We acknowledge certain commenters urged the Commission to take additional or dif
 
 252 See, e.g., ARA December 2018 Letter; FPC Letter. But see Empower Letter (“It would be helpful if the SEC could confirm that the definition of ‘retail customer’ under RBI does not include advice to managers of retirement plans or to their fiduciaries or representatives.”).
 
-253 It is our understanding that the investment responsibilities of plan representatives typically include, among other things, selecting and monitoring a menu of plan
+253 It is our understanding that the investment responsibilities of plan representatives typically include, among other things, selecting and monitoring a menu of plan investment options and designating and monitoring “default” investments for investing account balances of participants who do not make their own investment elections, and that plan representatives typically make these investment selections for a workforce with diverse investment profiles. See ARA December 2018 Letter (describing obligations of plan fiduciaries selecting an investment menu and qualified default investment alternatives); Empower Letter (describing plan fiduciary obligations to select investment menus). We also understand that plan representatives may receive brokerage and advice services for plans together with or complimentary with, other services supporting the plan’s establishment, maintenance and operation, such as plan design, recordkeeping and other administrative services. See, e.g., Groom Letter (describing business models of firms offering brokerage and advice services together with other services); SPARK Letter (same). In this context, a plan representative would not be receiving recommendations from a broker-dealer for his or her own account and considerations material to the plan representative’s investment decisions differ from a situation in which a retail customer receives a recommendation from a broker-dealer for his or her own account. Further, we note that DOL has rules currently in place (not affected by the Fifth Circuit’s decision vacating the DOL Fiduciary Rule) that address how plan representatives operate participant-directed plans and select investment menus for such plans, see 29 CFR 2550.404c-1, what actions, including disclosures, plan representatives must take to be able to raise a defense or claim for investment losses by a participant or beneficiaries, see 29 CFR 2550.404c-5, and also generally require broker-dealers making investment alternatives available for a participant-directed plan to disclose in writing (among other things) all direct and indirect compensation received in connection with providing plan services. See 29 CFR 2550.408b-2(c). See also Form 5500, Schedule C, requiring after- the-fact reporting by certain plans of information regarding direct and indirect compensation received by, among others, broker-dealers and investment advisers, in connection with services rendered or their position with the plan. Accordingly, we agree with those commenters who recommended that plan representatives should not be included in the definition of retail customer. See Empower Letter; Groom Letter; Letter from Nora M. Everett, President, Retirement and Income Solutions, Principal Financial Group (Aug. 7, 2018) (“Principal Letter”); SPARK Letter; T. Rowe Price Letter; Transamerica August 2018 Letter.
+
 
 254 Although workplace retirement plans are not generally covered by the definition of retail customer in by Regulation Best Interest, based on preliminary discussions with DOL staff, we understand that the DOL is considering regulatory options in light of the Fifth Circuit’s decision vacating the DOL Fiduciary Rule, including the types of protections available to such workplace retirement plans and their representatives. Department of Labor Regulatory Agenda, Fiduciary Rule and Prohibited Transaction Exemptions, Fall 2018, available at AB82.
 
@@ -3897,6 +3402,10 @@ We acknowledge certain commenters urged the Commission to take additional or dif
 263 See, e.g., Invesco Letter; BlackRock Letter; ICI Letter; Committee of Annuity Insurers Letter; Bank of America Letter; CFA August 2018 Letter; Cetera August 2018 Letter; Fidelity Letter; Morgan Stanley Letter; Oppenheimer Letter; Raymond James Letter; SIFMA August 2018 Letter; TIAA Letter; Transamerica August 2018 Letter.
 
 264 See Relationship Summary Adopting Release.
+
+265 Id.
+
+266 Id.
 
 267 See, e.g., SIFMA August 2018 Letter; Prudential Letter; Money Management Institute Letter.
 

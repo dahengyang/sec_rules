@@ -1,393 +1,3 @@
-https://www.sec.gov/rules/final/2019/34-87780.pdf
-
-I.0.0.0 Overview
-
-II.0.0.0 Se curity-Base d Swap Transactions Arrange d, Negotiate d, or Executed by U.S. Personne l
-
-	II.A.0.0 Use of “Arranged, Negotiated, or Executed” Criteria
-
-		II.A.1.0 Background
-
-		II.A.2.0 Commission Action
-
-	II.B.0.0 Guidance Regarding the Meaning of “Arranged” and “Negotiated” in Connection with the Cross-Border Application of Title VII
-
-		II.B.1.0 Proposed Approach
-
-		II.B.2.0 Commission Action
-
-		II.B.1.0 current or historic pricing, volatility, or market depth, and (2) trends or predictions regarding pricing, volatility, or market depth, as well as information related to risk management.
-
-	II.C.0.0 Conditional Exception to Required De Minimis Counting of Certain Dealing Transactions Arranged, Negotiated, or Executed by U.S. Personnel
-
-		II.C.1.0 Registration and Ownership Status of the Entity with Which U.S.
-
-			II.C.1.a Proposed Approach
-
-			II.C.1.b Commission Action
-
-		II.C.1.0 Minimum Capital Requirement
-
-		II.C.2.0 Limited Exemption from Broker Registration
-
-		II.C.3.0 Limit on Use of the Exception for Covered Inter-Dealer Security-Based Swaps and Related Notice and Recordkeeping Provisions
-
-			II.C.3.a Purpose of the Limit
-
-			II.C.3.b Scope of the Limit and Related Recordkeeping Requirement
-
-			II.C.3.c Impact of Breaching the Limit
-
-			II.C.3.d Impact of the Limitation on Reporting and Public Dissemination
-
-		II.C.2.0 Compliance with Specific Security-Based Swap Dealer Requirements
-
-			II.C.2.a Proposed Approach
-
-			II.C.2.b Commission Action
-
-		II.C.1.0 Disclosure Condition
-
-		II.C.2.0 Communications Condition
-
-		II.C.3.0 Trade Acknowledgment and Verification Condition
-
-		II.C.4.0 Suitability Condition
-
-		II.C.5.0 Proposed Portfolio Reconciliation Condition
-
-		II.C.6.0 Interaction of the Exception with Substituted Compliance The Commission is not modifying the four adopted as-if conditions (disclosure condition,
-
-		II.C.7.0 Requirements Not Applicable to the Exception
-
-		II.C.3.0 Commission Access to Relevant Books, Records and Testimony, and
-
-			II.C.3.a Proposed Approach
-
-			II.C.3.b Commission Action
-
-		II.C.4.0 Notices to Counterparties
-
-			II.C.4.a Proposed Approach
-
-			II.C.4.b Commission Action
-
-		II.C.5.0 Applicability of Financial Responsibility Requirements of a Listed Jurisdiction
-
-			II.C.5.a Proposed Approach
-
-			II.C.5.b Commission Action
-
-III.0.0.0 Ame ndme nt to Rule 15Fb2-1 and Guidance on the Certification and Opinion of Counse l Re quire ments
-
-	III.A.0.0 General
-
-		III.A.1.0 Proposed Approach
-
-		III.A.2.0 Commission Action
-
-	III.B.0.0 Amendment to Rule 15Fb2-1 Providing for a Conditional Certification and Opinion of Counsel
-
-		III.B.1.0 Proposed Approach
-
-		III.B.2.0 Commission Action
-
-	III.C.0.0 Foreign Laws to Be Addressed by the Certification and Opinion of Counsel
-
-		III.C.1.0 Proposed Guidance
-
-		III.C.2.0 Commission Action
-
-	III.D.0.0 Covered Books and Records
-
-		III.D.1.0 Proposed Guidance
-
-		III.D.2.0 Commission Action
-
-	III.E.0.0 Consents
-
-		III.E.1.0 Proposed Guidance
-
-		III.E.2.0 Commission Action
-
-	III.F.0.0 Open Contracts
-
-		III.F.1.0 Proposed Guidance
-
-		III.F.2.0 Commission Action
-
-	III.G.0.0 Memoranda of Understanding, Agreements, Protocols, or Other Regulatory Arrangements with Foreign Financial Regulatory Authorities
-
-		III.G.1.0 Proposed Approach
-
-		III.G.2.0 Commission Action
-
-	III.H.0.0 Requests for Substituted Compliance
-
-		III.H.1.0 Proposed Approach
-
-		III.H.2.0 Commission Action
-
-	III.I.0.0 Other
-
-IV.0.0.0 Amendment to Commission Rule of Practice 194
-
-	IV.A.0.0 Proposed Approach
-
-	IV.B.0.0 Commission Action
-
-	IV.H.0.0 and (b)(8)(i)(A) through (H) of Rule 18a-5, unless the SBS Entity (1) is required to obtain such information under applicable law in the jurisdiction in which the associated person is employed or located or (2) obtains such information in conducting a background check that is customary for such firms in that jurisdiction, and the creation or maintenance of records reflecting that information would not result in a violation of applicable law in the jurisdiction in which the associated person is employed or located.
-
-V.0.0.0 Modifications to Rule 18a-5
-
-	V.A.0.0 Proposed Approach
-
-		V.A.1.0 Exemption Based on the Exclusion from the Prohibition under Section 15F(b)(6)
-
-		V.A.2.0 Exemption Based on Local Law
-
-	V.B.0.0 Commission Action
-
-VI.0.0.0 Economic Analysis
-
-	VI.A.0.0 Baseline
-
-		VI.A.1.0 Available Data from the Security-Based Swap Market
-
-		VI.A.2.0 Security-Based Swap Market: Market Participants and Dealing Structures
-
-			VI.A.2.a Security-Based Swap Market Participants
-
-			VI.A.2.b Security-Based Swap Market Participant Domiciles
-
-			VI.A.2.c Market Centers
-
-			VI.A.2.d Common Business Structures
-
-		VI.A.3.0 Market-Facing and Non-Market-Facing Activities
-
-		VI.A.4.0 Security-Based Swap Market Activity
-
-		VI.A.5.0 Global Regulatory Efforts
-
-		VI.A.6.0 Other Markets and Existing Regulatory Frameworks
-
-		VI.A.7.0 Estimates of Persons That May Use the Exception to Rule 3a71-3
-
-			VI.A.7.a Non-U.S. Persons Seeking to Reduce Assessment Costs
-
-			VI.A.7.b Non-U.S. Persons Seeking to Avoid Security-Based Swap Dealer Regulation
-
-			VI.A.7.c U.S. Dealing Entities Considering Changes to Booking Practices A third category of persons that potentially may use the exception are those U.S. dealers
-
-			VI.A.7.d Additional Considerations and Summary
-
-		VI.A.8.0 Statutory Disqualification
-
-		VI.A.9.0 Certification, Opinion of Counsel, and Employee Questionnaires
-
-	VI.B.0.0 Amendment to Rule 3a71-3
-
-		VI.B.1.0 Costs and Benefits of the Amendment
-
-			VI.B.1.a Costs and Benefits for Persons That May Use the Amendment The primary benefit of the amendment is that it would permit a person further flexibility
-
-			VI.B.1.b Title VII Programmatic Costs and Benefits
-
-		VI.B.2.0 Effects on Efficiency, Competition, and Capital Formation
-
-		VI.B.3.0 Additional Alternatives Considered
-
-			VI.B.3.a Proposed Alternative 1
-
-			VI.B.3.b Requiring the Registered Entity to Comply with ECP Verification and “Know Your Counterparty”
-
-			VI.B.3.c Requiring the Registered Entity to Comply with Daily Mark Disclosure
-
-			VI.B.3.d Requiring a Limited Disclosure of Incentives and Conflicts As an alternative to the disclosure requirements set forth under Rule 3a71-
-
-			VI.B.3.e Requiring the Non-U.S. Person to be Domiciled in a G-20 Jurisdiction or in a Jurisdiction where the Non-U.S. Person would be subject to Basel Capital Requirements
-
-			VI.B.3.f Not Requiring Notification to Counterparties of the Non-U.S. Person
-
-			VI.B.3.g “No Management of Relationship” Condition
-
-	VI.C.0.0 Amendment to Commission Rule of Practice 194
-
-		VI.C.1.0 Costs and Benefits of the Amendment
-
-		VI.C.2.0 Effects on Efficiency, Competition, and Capital Formation
-
-		VI.C.3.0 Alternatives Considered
-
-			VI.C.3.a Relief for All SBS Entities with Respect to Non-U.S. Personnel Transacting with Non-U.S. Counterparties but not with Foreign Branches of U.S. Counterparties
-
-			VI.C.3.b Relief for Non-U.S.-Person SBS Entities with Respect to Non-U.S. Personnel Transacting with Non-U.S. Counterparties and Foreign Branches of U.S. Counterparties
-
-			VI.C.3.c Relief for Non-U.S. SBS Entities with Respect to Both U.S. and
-
-			VI.C.3.d Relief for All SBS Entities with Respect to All Personnel Transacting with Non-U.S. Counterparties and Foreign Branches of U.S. Counterparties
-
-			VI.C.3.e Relief for All SBS Entities with Respect to non-U.S. Personnel Effecting and Involved in Effecting Security-Based Swaps with
-
-			VI.C.3.f Relief with Respect to Certain non-U.S. Middle- and Back-Office Associated Persons
-
-	VI.D.0.0 Certification, Opinion of Counsel, and Employee Questionnaires
-
-		VI.D.1.0 Amendments to Rule 15Fb2-1
-
-			VI.D.1.a Costs, Benefits, and Effects on Efficiency, Competition, and Capital Formation
-
-			VI.D.1.b Alternatives Considered
-
-		VI.D.2.0 Modifications to Rules 18a-5(a)(10) and (b)(8)
-
-			VI.D.2.a Costs, Benefits, and Effects on Efficiency, Competition, and Capital Formation
-
-			VI.D.2.b Alternatives Considered
-
-VII.0.0.0 Pape rwork Re duction Act
-
-	VII.A.0.0 Amendment to Rule 3a71-3
-
-		VII.A.1.0 Summary of the Collection of Information
-
-			VII.A.1.a Notification of Limited Title VII Applicability
-
-			VII.A.1.b Business Conduct-Related Conditions
-
-			VII.A.1.c Trade Acknowledgment and Verification Condition
-
-			VII.A.1.d Portfolio Reconciliation Condition
-
-			VII.A.1.e Recordkeeping Condition
-
-			VII.A.1.f Consent to Service Condition
-
-			VII.A.1.g “Listed Jurisdiction” Condition
-
-			VII.A.1.h Risk Management Control System Condition
-
-			VII.A.1.i Conditions Associated with the Use of Exception for Covered Inter-Dealer Security-Based Swaps
-
-		VII.A.2.0 Use of Information
-
-			VII.A.2.a Notification of Limited Title VII Applicability
-
-			VII.A.2.b Business Conduct-Related Conditions
-
-			VII.A.2.c Trade Acknowledgment and Verification Condition
-
-			VII.A.2.d Recordkeeping Condition
-
-			VII.A.2.e Consent to Service Condition
-
-			VII.A.2.f “Listed Jurisdiction” Condition
-
-			VII.A.2.g Risk Management Control System Condition
-
-			VII.A.2.h Conditions Associated with the Use of Exception for Covered Inter-Dealer Security-Based Swaps
-
-		VII.A.3.0 Respondents
-
-		VII.A.4.0 Total Annual Reporting and Recordkeeping Burdens (Summarized in Table 6)
-
-			VII.A.4.a Notification of Limited Title VII Applicability
-
-			VII.A.4.b Business Conduct-Related Conditions
-
-			VII.A.4.c Trade Acknowledgment and Verification Condition
-
-			VII.A.4.d Recordkeeping Condition
-
-			VII.A.4.e Consent to Service Condition
-
-			VII.A.4.f “Listed Jurisdiction” Condition
-
-			VII.A.4.g Risk Management Control System Condition
-
-			VII.A.4.h Conditions Associated with the Use of Exception for Covered Inter-Dealer Security-Based Swaps
-
-		VII.A.5.0 Collection of Information is Mandatory
-
-		VII.A.6.0 Confidentiality
-
-		VII.A.7.0 Retention Period of Recordkeeping Requirements
-
-	VII.B.0.0 Amendments to Rule 18a-5
-
-		VII.B.1.0 Summary of Collections of Information
-
-		VII.B.2.0 Use of Information
-
-		VII.B.3.0 Respondents
-
-		VII.B.4.0 Total Initial and Annual Recordkeeping and Reporting Burden
-
-			VII.B.4.a Addition of Paragraphs (a)(10)(iii)(A) and (b)(8)(iii)(A)
-
-			VII.B.4.b Addition of Paragraphs (a)(10)(iii)(B) and (b)(8)(iii)(B)
-
-		VII.B.5.0 Collection of Information Is Mandatory
-
-		VII.B.6.0 Confidentiality
-
-		VII.B.7.0 Retention Period for Recordkeeping Requirements
-
-VIII.0.0.0 Othe r Matte rs
-
-IX.0.0.0 Regulatory Fle xibility Act Certification
-
-X.0.0.0 Effective Date and Compliance Date s
-
-	X.A.0.0 Effective Date
-
-	X.B.0.0 Compliance Dates
-
-	X.C.0.0 Compliance with Rules for Security-Based Swap Data Repositories and
-
-		X.C.2.0 one month after the Registration Compliance Date. As explained in the Recordkeeping and Reporting Adopting Release, the Registration Compliance Date will be 18 months after the Effective Date set forth above in Part X.A of this release. Although the second condition
-
-		X.C.1.0 With respect to Rule 901(a) of Regulation SBSR if a person with a duty to report an SBS transaction (or a duty to participate in the selection of the reporting side) under Rule 901(a) does not report the transaction (or does not participate in the selection of the reporting side) because, under the swap reporting rules in force at the time of the transaction, a different person (or no person) would have the duty to report a comparable swap transaction.
-
-		X.C.2.0 With respect to Rules 901(c)(2)-(7) and 901(d) of Regulation SBSR, if a person with a duty to report a data element of an SBS transaction, as required by any provision of Rules 901(c)(2)-(7) and 901(d), does not report that data element because the swap reporting rules in force at the time of the transaction do not require that data element to be reported.
-
-		X.C.3.0 With respect to Rule 901(e) of Regulation SBSR, if a person does not report a life cycle event of an SBS transaction in a manner consistent with Rule 901(e) and the person acts instead in a manner consistent with the swap reporting rules for the reporting of life cycle events that are in force at the time of the life cycle event.
-
-		X.C.4.0 With respect to Rule 902 of Regulation SBSR, if a registered SDR does not
-
-		X.C.5.0 With respect to Rule 903(b), a registered SDR permits the reporting or public dissemination of SBS transaction information that includes codes in place of certain data elements even if the information necessary to interpret such codes is not widely available to users of the information on a non-fee basis.
-
-		X.C.6.0 With respect to Rule 906(a) of Regulation SBSR, if a registered SDR does not send reports of missing unique identification codes to its participants.
-
-		X.C.7.0 With respect to Rule 906(b) of Regulation SBSR, if a registered SDR does not collect
-
-		X.C.8.0 With respect to Rule 907(a)(1) of Regulation SBSR, if a registered SDR does not enumerate in its policies and procedures for reporting transaction information one or more
-
-		X.C.9.0 With respect to Rule 907(a)(3) of Regulation SBSR, if a registered SDR does not enumerate in its policies and procedures for handling life cycle events provisions that are not required under swap reporting rules that pertain to the reporting of life cycle events.
-
-		X.C.10.0 With respect to Rule 907(a)(4) of Regulation SBSR, if a registered SDR does not have policies and procedures for establishing and directing its participants to use condition flags in the reporting of SBS transactions, provided that the registered SDR instead complies with analogous CFTC rules regarding condition flags or other trade indicators.
-
-		X.C.11.0 With respect to Rule 907(a)(5) of Regulation SBSR, if a registered SDR does not have policies and procedures for assigning UICs.
-
-		X.C.12.0 With respect to Rule 907(a)(6) of Regulation SBSR, if a registered SDR does not
-
-		X.C.1.0 With respect to Section 13(n)(5)(B) of the Exchange Actand Rule 13n-4(b)(3) thereunder, if a registered SDR does not confirm with both counterparties to the SBS the accuracy of the data that was submitted to the SDR.
-
-		X.C.2.0 With respect to Rule 13n-5(b)(1)(iii) under the Exchange Act, if a registered SDR does not establish, maintain, and enforce written policies and procedures reasonably designed to satisfy itself that the transaction data that has been submitted to the SDR is complete and accurate, and clearly identifies the source for each trade side and the pairing method (if any) for each transaction in order to identify the level of quality of the transaction data that was submitted to the SDR.
-
-		X.C.3.0 A registered SDR does not adhere to any provision of Section 11A(b) of the Exchange
-
-		X.C.3.0 satisfies the standard for Commission registration of an SDR under Rule 13n-1(c); and (4) intends to rely on this position for the period set forth in this release with respect to any SBS asset class(es) for which it intends to accept transaction reports. Furthermore, an entity submitting an application to register would not need to comply with the requirement in Rule 13n- 1(b) and Rule 13n-11(f)(5) to file Form SDR and all amendments “electronically in a tagged data format” but instead would be able to submit such documents to the Commission electronically as portable document format (PDF) files, consistent with the CFTC SDR application procedures under Part 49.3(a)(1).
-
-	X.D.0.0 Effect on Existing Commission Exemptive Relief
-
-XI.0.0.0 Statutory Basis and Text of the Rule Ame ndme nts
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION
@@ -444,7 +54,7 @@ A number of these final actions have been modified from the proposals to address
 
 In addition, Section 752(a) of the Dodd-Frank Act provides in part that “[i]n order to promote effective and consistent global regulation of swaps and security-based swaps, the Commodity Futures Trading Commission, the Securities and Exchange Commission, and the prudential regulators . . . as appropriate, shall consult and coordinate with foreign regulatory authorities on the establishment of consistent international standards with respect to the regulation (including fees) of swaps.”working groups that impact OTC derivatives financial market infrastructures, such as Committee on Payment Market Infrastructures (“CPMI”)–IOSCO joint working groups assessing legal and regulatory frameworks for central counterparties and trade repositories and examining central counterparty resilience and recovery.
 
-<h>II. Se curity-Base d Swap Transactions Arrange d, Negotiate d, or Executed by U.S. Personne l</h>
+<h>II. Security-Based Swap Transactions Arranged, Negotiated, or Executed by U.S. Personnel</h>
 
 <h>A. Use of “Arranged, Negotiated, or Executed” Criteria</h>
 
@@ -504,9 +114,7 @@ The Commission is providing the guidance largely as proposed, modified to furthe
 
 The Commission is providing guidance <sup>56</sup> regarding the “arranged, negotiated, orexecuted” test that is used in connection with de minimis counting, <sup>57</sup> the cross-border applicationof business conduct rules, <sup>58</sup> regulatory reporting and public dissemination requirements, <sup>59</sup> and major security-based swap participant rules. <sup>60</sup>
 
-In the Commission’s view, “market color” is limited to background information regarding pricing or market conditions associated with particular instruments or with markets more generally in support of persons who arrange, negotiate, or execute security-based swap transactions on behalf of their clients. Background information includes information regarding
-
-<h>1. current or historic pricing, volatility, or market depth, and (2) trends or predictions regarding pricing, volatility, or market depth, as well as information related to risk management.</h>
+In the Commission’s view, “market color” is limited to background information regarding pricing or market conditions associated with particular instruments or with markets more generally in support of persons who arrange, negotiate, or execute security-based swap transactions on behalf of their clients. Background information includes information regarding (1) current or historic pricing, volatility, or market depth, and (2) trends or predictions regarding pricing, volatility, or market depth, as well as information related to risk management.
 
 The Commission is clarifying that U.S personnel who provide market color in connection with security-based swap transactions—in the form of information or data as described above—non-U.S. counterparties that have been “arranged, negotiated, or executed” in the United States, 17 CFR 240.3a71-3(b)(1)(iii)(C); (2) Exchange Act Rule 3a71-3(b)(2), which addresses the counting of affiliate transactions described by paragraph (b)(1) (which includes the (b)(1)(iii)(C) requirement), 17 CFR 240.3a71-3(b)(2); (3) Exchange Act Rule 3a71-5, which excepts certain cleared anonymous transactions from the individual counting requirement of paragraph (b)(1) of Rule 3a71-3 and from the affiliate counting requirement of paragraph (b)(2), but is unavailable to transactions “arranged, negotiated, or executed” by U.S. personnel, 17 CFR 240.3a71-5; and (4) the de minimis counting requirement of Exchange Act Rule 3a71-3(b)(1)(iii)(A), requiring the counting of dealing transactions involving a foreign branch of a registered security-based swap dealer and a non-U.S. counterparty (or another foreign branch), 17 CFR 240.3a71-3(b)(1)(iii)(A). The regulatory interests underlying the Rule 3a71-3(b)(1)(iii)(C) and Rule 3a71-3(b)(1)(iii)(A) uses of arranged, negotiated, and/or executed criteria to implement the de minimis counting requirement are similar (as are, derivatively, the Rule 3a71-3(b)(2) and Rule 3a71-5 uses).
 
@@ -670,15 +278,15 @@ The proposal also recognized that the registered entity would be subject to cert
 
 The Commission continues to believe that the investor protection benefits of these conditions justify any burdens related to compliance with the conditions and is adopting the disclosure condition and trade acknowledgment and verification condition with additional guidance and the communications condition as proposed. The Commission is adopting the suitability condition with one modification and is not adopting the portfolio reconciliation condition. Accordingly, the exception is available only if the registered entity engaging in the arranging, negotiating, or executing activity in the United States complies with certain disclosure, communications, trade acknowledgment and verification, and suitability requirements as if the counterparties to the non-U.S. person relying on the exception also were counterparties to the registered entity and, if the registered entity is a broker not registered as a security-based swap dealer, also as if it were a registered security-based swap dealer. <sup>161</sup> The discussion below considers each of these conditions in turn, as well as the interaction of the exception with substituted compliance and other requirements not applicable to the exception.
 
-<h>1. Disclosure Condition</h>
+(1). Disclosure Condition
 
 Disclosure of material information concerning the security-based swap in a manner reasonably designed to allow the counterparty to assess the material risks and characteristics of the security-based swap, as well as any material incentives or conflicts of interest the registered entity or the non-U.S. entity relying on the exception may have in connection with the security- based swap, will permit a counterparty to assess more effectively whether and under which terms to enter into a security-based swap transaction. The Commission does not agree with the commenter’s suggestion that disclosures of material incentives and conflicts of interest should be limited to those of the registered entity but not of the non-U.S. entity relying on the exception. <sup>162</sup> A disclosure of material incentives and conflicts of interest would be meaningfully incomplete if it omitted those of the non-U.S. entity relying on the exception, because the relying entity is the counterparty to the transaction. As the Commission noted in the Proposing Release, though the compliance burdens associated with the disclosure condition “may be significant, those burdens should be mitigated by the underlying provision stating that the [disclosure] requirement . . . will apply only when the registered security-based swap dealer knows the identity of the counterparty at a reasonably sufficient time prior to execution of the transaction.” <sup>163</sup> The disclosure condition also requires disclosure of only material risks, characteristics, incentives, and conflicts ofwhich the registered entity provides only execution services, and does not arrange or negotiate the transaction, as well as circumstances where U.S. personnel specify a trading strategy or techniques carried out through algorithmic trading or automated electronic execution of security- based swaps. See Proposing Release, 84 FR at 24224 n.149.interest, and not disclosure of all risks, characteristics, incentives, and conflicts of interest. <sup>164</sup> Another commenter expressed the general view that the “as if” conditions “are duplicative and may lead to the imposition of undue costs without commensurate regulatory benefits.” <sup>165</sup> To avoid the potential for duplicative disclosures, registered entities may choose to delegate to the relying entity the tasks of delivering the required disclosures and creating (but not maintaining) books and records relating to those disclosures as required by Rule 3a71-3(d)(1)(iii)(B)( <sup>1</sup> ). A registered entity that delegates these tasks to the relying entity would remain responsible for ensuring that all of the disclosures required by Rule 3a71-3(d)(ii)(B)( <sup>1</sup> ) are delivered in the manner described in Rule 15Fh-3(b), for ensuring that books and records relating to thesedisclosures are created as required by Rule 3a71-3(d)(1)(iii)(B)( <sup>1</sup> ), and for itself maintaining books and records relating to these disclosures as required by Rule 3a71-3(d)(1)(iii)(B)( <sup>1</sup> ). <sup>166</sup>
 
-<h>2. Communications Condition</h>
+(2). Communications Condition
 
 Similarly, the Commission concludes that the requirement for the registered entity to communicate with counterparties in a fair and balanced manner also will promote investor protection by prohibiting registered entities from overstating the benefits or understating the risks of potential transactions to inappropriately influence counterparties’ investment decisions. One commenter expressly supported the proposed communications condition. <sup>167</sup> In adopting thecommunications condition, the Commission is applying the same requirement <sup>168</sup> to thearranging, negotiating, or executing activity that the registered entity’s U.S. personnel undertakes in connection with transactions not subject to the exception, thus minimizing any compliance burdens.
 
-<h>3. Trade Acknowledgment and Verification Condition</h>
+(3). Trade Acknowledgment and Verification Condition
 
 The Commission believes that the trade acknowledgment and verification condition will help to ensure that there are definitive written records of the terms of the transactions that result from the registered entity’s arranging, negotiating, or executing activity in the United States, as well as help to control legal and operational risks for the counterparties. <sup>169</sup> One commenter expressed the general view that the “as if” conditions “are duplicative and may lead to the imposition of undue costs without commensurate regulatory benefits.” <sup>170</sup> To avoid the potential for duplicative trade acknowledgments and verifications, registered entities may choose to delegate to the relying entity the tasks of delivering the required trade acknowledgment or verification and creating (but not maintaining) books and records relating to that trade acknowledgment or verification as required by Rule 3a71-3(d)(1)(iii)(B)( <sup>1</sup> ). A registered entity that delegates these tasks to the relying entity would remain responsible for ensuring compliance with the requirements of Rules 15Fi-1 and 15Fi-2 as required by Rule 3a71-3(d)(ii)(B)( <sup>4</sup> ), for ensuring that books and records relating to the trade acknowledgment or verification are createdas required by Rule 3a71-3(d)(1)(iii)(B)( <sup>1</sup> ), and for itself maintaining books and records relating to the trade acknowledgment or verification as required by Rule 3a71-3(d)(1)(iii)(B)( <sup>1</sup> ).
 
@@ -688,7 +296,7 @@ The Commission believes that the potential application of both Rule 10b-10 and t
 
 Similarly, the trade acknowledgment and verification condition would require a trade acknowledgment to be delivered to the counterparty promptly, but in any event by the end of the first business day following the day of execution of the security-based swap transaction, <sup>180</sup> while Rule 10b-10 requires a confirmation to be delivered at or before completion of the transaction. <sup>181</sup> The Commission recognizes that imposing two competing timing standards for similar types of disclosures could unnecessarily increase compliance burdens, and believes that the time and form standards required by the trade acknowledgment and verification condition adequately protect counterparties to security-based swap transactions subject to the exception because they are the same standards that apply to registered security-based swap dealers. <sup>182</sup>
 
-<h>4. Suitability Condition</h>
+(4). Suitability Condition
 
 As proposed, the suitability condition would have required that if, as part of the registered entity’s arranging, negotiating, or executing activity in the United States, the registered entityrecommends a security-based swap or trading strategy involving a security-based swap to a counterparty of the non-U.S. entity relying on the exception, the registered entity must comply with the suitability requirements of Rule 15Fh-3(f)(1) as if the counterparty to the relying entity was its own counterparty. Accordingly, the registered entity would have to (1) undertakereasonable diligence to understand the potential risks and rewards associated with therecommended security-based swap or trading strategy involving a security-based swap (the “objective prong”) and (2) have a reasonable basis to believe that a recommended security-based swap or trading strategy involving a security-based swap is suitable for the counterparty (the “counterparty-specific prong”). <sup>183</sup> To satisfy the counterparty-specific prong as proposed, asecurity-based swap dealer would have to obtain relevant information regarding the counterparty, including the counterparty’s investment profile, trading objectives, and its ability to absorbpotential losses associated with the recommended security-based swap or trading strategyinvolving a security-based swap. <sup>184</sup>
 
@@ -702,15 +310,17 @@ The Commission believes that the counterparty-specific prong’s investor protec
 
 By allowing the counterparty-specific prong of the suitability condition to be satisfied by this disclosure when the registered entity makes a recommendation to a counterparty it reasonably determines is an institutiona l counterparty, the Commission also is partially addressing one commenter’s suggestion to reduce both prongs of the suitability condition to a disclaimer when the registered entity does not have primary client responsibility for the counterparty. <sup>192</sup> This commenter expressed the view that the proposed suitability condition should be limited when the registered entity “is not assigned primary client responsibility for a non-U.S. counterparty,” so that the registered entity merely would have to disclose that it is acting in its capacity as agent of the non-U.S. person relying on the exception, and that neither entity “is undertaking to assess the suitability of the SBS transaction or trading strategy.” <sup>193</sup> Thesuitability condition would allow a disclaimer of the counterparty-specific prong, but not of the objective prong, when the registered entity reasonably determines that the counterparty is an institutiona l counterparty. The Commission does not agree with the commenter, however, that this alternative method of compliance should be available whenever the registered entity does not have primary client responsibility for the counterparty, or that the registered entity should be able to disclaim responsibility for understanding the potential risks and rewards of a particular product or strategy. Registered entities become involved in arranging, negotiating, or executing activity on behalf of a non-U.S. entity precisely because they are expected to have specialized knowledge and expertise regarding a particular security-based swap product or strategy, so the registered entity likely already possesses the information needed to comply with the objective prong of the suitability condition. Moreover, when these registered entities make a recommendation regarding such a product or strategy, counterparties are likely to expect that the recommendation is based on reasonable diligence to understand its potential risks and rewards, as, again, the registered entity’s specialized knowledge and expertise are likely the reason it becomes involved in arranging, negotiating, or executing activity on behalf of its non-U.S. affiliate. Further, the limitations suggested by the commenter would allow the registered entity to make recommendations to a counterparty that the registered entity does not reasonably believe to be an institutiona l counterparty without ensuring that the recommendation is suitable for the counterparty. The Commission recognizes that the counterparty-specific prong of the suitability condition may entail significant compliance burdens in some instances in which the registered entity must obtain the counterparty information and make a suitability assessment using thatinformation. <sup>194</sup> However, the Commission continues to believe those burdens, now tailored to apply in full only when the registered entity does not reasonably determine that the counterparty is an institutional counterparty, are justified by the importance of the counterparty protections provided by this requirement.
 
-<h>5. Proposed Portfolio Reconciliation Condition</h>
+(5). Proposed Portfolio Reconciliation Condition
 
 The Commission is not adopting the proposed portfolio reconciliation condition. Two commenters called for the removal of the proposed portfolio reconciliation condition. <sup>195</sup> The Commission is persuaded by comments that the burdens of compliance with the proposed condition would not justify its benefits. In particular, one commenter stated that the costs of developing new systems to conduct portfolio reconciliation between the non-U.S. counterparty and the registered entity, together with the condition’s requirement regarding agreement in writing on the terms of portfolio reconciliation, “would likely discourage non-U.S. counterparties from having the interactions with U.S. personnel that could trigger the condition.” <sup>196</sup> The Commission agrees that, in the context of transactions eligible for the exception, the costs of these requirements likely would have this effect on some non-U.S. counterparties, particularlygiven that the proposed condition would have prompted these costs in service of only one portfolio reconciliation between the counterparty and the registered entity. For these reasons, the Commission is not including the limited portfolio reconciliation requirement as a condition to the exception.
 
-<h>6. Interaction of the Exception with Substituted Compliance The Commission is not modifying the four adopted as-if conditions (disclosure condition,communications condition, trade acknowledgment and verification condition, and suitability condition) to allow them to be satisfied by substituted compliance or otherwise by compliance with the home-country requirements of the entity relying on the exception. One commenter argued that the Commission should generally allow for the use of substituted compliance in connection with those (and other) conditions. <sup>197</sup> Another commenter argued that the proposed trade acknowledgment and verification condition should be satisfied if the non-U.S. person relying on the exception “provides written documentation of the SBS’s terms to the counterparty in compliance with [the non-U.S. person’s] home country confirmation requirements.” <sup>198</sup></h>
+(6). Interaction of the Exception with Substituted Compliance 
+
+The Commission is not modifying the four adopted as-if conditions (disclosure condition,communications condition, trade acknowledgment and verification condition, and suitability condition) to allow them to be satisfied by substituted compliance or otherwise by compliance with the home-country requirements of the entity relying on the exception. One commenter argued that the Commission should generally allow for the use of substituted compliance in connection with those (and other) conditions. <sup>197</sup> Another commenter argued that the proposed trade acknowledgment and verification condition should be satisfied if the non-U.S. person relying on the exception “provides written documentation of the SBS’s terms to the counterparty in compliance with [the non-U.S. person’s] home country confirmation requirements.” <sup>198</sup><
 
 Any entity relying on the exception would be, by definition, a non-U.S. person not registered with the Commission. The relying entity thus would not be eligible for substituted compliance, which is available only to registered SBS Entities, nor would it be covered by the “MOU or other arrangement addressing supervision and enforcement” <sup>199</sup> that is a key condition precedent of a substituted compliance determination. The registered entity also would notnecessarily be able to ascertain whether or not the relying entity had complied with its home- country regulations to which the registered entity is not subject. Allowing the relying entity to satisfy the “as-if” conditions by way of compliance with its home-country requirements could compromise the Commission’s ability to both supervise the registered entity and ascertain the relying entity’s compliance with the “as-if” conditions. Instead, in applying the “as-if” conditions to the registered entity, the Commission is striking a balance that will allow flexibility for market participants engaging in cross-border security-based swap activity, but also further Title VII’s goals of counterparty protection. <sup>200</sup>
 
-<h>7. Requirements Not Applicable to the Exception</h>
+(7). Requirements Not Applicable to the Exception
 
 As proposed, the exception included a list of certain other “counterparty”-related requirements compliance with which would not be a condition to the availability of the exception. This proposed list included ECP verification requirements, <sup>201</sup> “know your counterparty” requirements, <sup>202</sup> clearing rights disclosure requirements, <sup>203</sup> daily mark disclosure requirements, <sup>204</sup> proposed portfolio compression requirements, <sup>205</sup> and proposed security-basedswap trading relationship documentation requirements. <sup>206</sup> One commenter argued that the exception should not be subject to compliance with these requirements, <sup>207</sup> and the Commission agrees. In the case of the ECP verification requirements and “know your counterparty” requirements, the Commission continues to believe that in some circumstances the registered entity would have limited interaction with the counterparty to the transactions subject to the exception, making it difficult to obtain the information needed to satisfy those requirements.
 
@@ -720,9 +330,7 @@ Although the Commission agrees that a party complying with the exception should 
 
 Commission therefore does not believe it is necessary to include in Rule 3a71-3 the proposed list of requirements with which the registered entity need not comply.
 
-<h>3. Commission Access to Relevant Books, Records and Testimony, and</h>
-
-Related Obligations
+<h>3. Commission Access to Relevant Books, Records and Testimony, and Related Obligations</h>
 
 <h>a. Proposed Approach</h>
 
@@ -786,7 +394,7 @@ Finally, designation as a listed jurisdiction serves a purpose distinct from, an
 
 One commenter criticized the proposed listed jurisdiction condition on the grounds that the proposal would not require the foreign regime to be comparable to U.S. regulation, and that the Commission’s consideration of financial responsibility criteria would be optional. <sup>254</sup> However, the Commission believes that, unlike in the context of substituted compliance, designation as a listed jurisdiction need not require comparability of capital and margin requirements to serve its intended purpose to deter non-U.S. entities relying on the exception from conducting dealing activity in the United States without being subject to sufficient financial responsibility standards. Further, the final rule does not require the Commission to consider applicable margin and capital requirements but, rather, lists these requirements as a factor that the Commission may consider relevant for purposes of assessing whether a listed jurisdiction order would be in the public interest. In the Commission’s view, this flexibility in the rules is warranted because different regulatory systems may be able to further the goal of the listed jurisdiction condition through other financial responsibility measures. In assessing listed jurisdiction status, the Commission may need to take into account the manner in which the jurisdiction’s regulatory system is informed by local business and market practices. While recognizing the commenter’s desire to require an assessment of the jurisdiction’s applicable capital and margin requirements, in this circumstance the Commission believes that the listedwhich “may conditionally or unconditionally determine” which jurisdictions qualify based on a vague public interest standard. While a few criteria are set forward, such as the existence (but not the stringency) of capital and margin standards in the jurisdiction, and the effectiveness of the supervisory compliance program in the jurisdiction, Commission consideration of these factors is completely optional. Thus, by no means would regulation in a listed jurisdiction guarantee regulatory protections comparable to U.S. oversight under Title VII of Dodd-Frank.” (footnote omitted)).jurisdiction assessments will turn upon relevant facts and circumstances in a manner such that it would not be practicable to impose such a requirement.
 
-<h>III. Ame ndme nt to Rule 15Fb2-1 and Guidance on the Certification and Opinion of Counse l Re quire ments</h>
+<h>III. Amendment to Rule 15Fb2-1 and Guidance on the Certification and Opinion of Counsel Requirements</h>
 
 <h>A. General</h>
 
@@ -986,11 +594,7 @@ In addition, if any of the modifications recommended by these commenters are ado
 
 As discussed in Part VI.C below, this inconsistency may result in competitive disparities between U.S. and non-U.S. statutorily disqualified persons in middle- and back-office functions. Indeed, based on the estimates provided to the European Commission by EBF member firms, the potential for competitive disadvantage is not trivial. For example, and as outlined in Part VI.C, two of the alternative scenarios provided by EBF member firms may reduce the scope of application of the statutory prohibition with respect to non-U.S. associated persons—even though they may be involved in the security-based swap market in the United States—by anaverage of 38%, for Scenario 3 relative to the proposal (with estimates ranging between 20% and 80% for Scenario 3), and by an average of 66% for Scenario 4 relative to the proposal (withestimates ranging of between 45% and 87% for Scenario 4). <sup>370</sup>
 
-We also note that, even without the modification recommended by these commenters, the amendments to Rule 18a-5 as adopted, which are discussed below, <sup>371</sup> will reduce the burden on firms with respect to the questionnaire requirements for non-U.S. associated persons. Forexample, subparagraphs (a)(10)(iii)(B) and (b)(8)(iii)(B) to Rule 18a-5, as adopted, provide that a questionnaire or application for employment executed by an associated person who is not a
-
-U.S. person need not include all of the information described in paragraphs (a)(10)(i)(A) through
-
-<h>H. and (b)(8)(i)(A) through (H) of Rule 18a-5, unless the SBS Entity (1) is required to obtain such information under applicable law in the jurisdiction in which the associated person is employed or located or (2) obtains such information in conducting a background check that is customary for such firms in that jurisdiction, and the creation or maintenance of records reflecting that information would not result in a violation of applicable law in the jurisdiction in which the associated person is employed or located.</h>
+We also note that, even without the modification recommended by these commenters, the amendments to Rule 18a-5 as adopted, which are discussed below, <sup>371</sup> will reduce the burden on firms with respect to the questionnaire requirements for non-U.S. associated persons. Forexample, subparagraphs (a)(10)(iii)(B) and (b)(8)(iii)(B) to Rule 18a-5, as adopted, provide that a questionnaire or application for employment executed by an associated person who is not a U.S. person need not include all of the information described in paragraphs (a)(10)(i)(A) through (H) and (b)(8)(i)(A) through (H) of Rule 18a-5, unless the SBS Entity (1) is required to obtain such information under applicable law in the jurisdiction in which the associated person is employed or located or (2) obtains such information in conducting a background check that is customary for such firms in that jurisdiction, and the creation or maintenance of records reflecting that information would not result in a violation of applicable law in the jurisdiction in which the associated person is employed or located.
 
 Finally, and most importantly, the Commission believes that the modification recommended by these commenters would undermine important investor protections provided by the statutory disqualification provision in Section 15F(b)(6) of the Exchange Act. As the Commission noted in the Rule of Practice <sup>194</sup> Adopting Release, Exchange Act Section 15F(b)(6) is designed to limit the potential that associated persons who have engaged in certain types of “bad acts” will be able to negatively affect the security-based swap market and the participants in that market. <sup>373</sup> The Commission has also stated that it is concerned principally with those transactions that appear likely to affect the integrity of the security-based swap market in the United States and the U.S. financial markets more generally or that raise concerns about the protection of participants in those markets. <sup>374</sup> The Commission has also noted that the risk of fraud and other misconduct may be increased and the counterparty protection benefits of the disqualification provision may be reduced if, for instance, persons involved in structuringsecurity-based swaps, facilitating execution, or handling customer funds and securities areexcepted from the statutory disqualification provision. <sup>375</sup> For example, and as also discussed in Part VII.D below, allowing statutorily disqualified associated persons to manage the collateral for an SBS Entity in connection with security-based swap transactions with or for counterparties that are U.S. persons may give rise to higher compliance and counterparty risks to U.S. counterparties and, thus, the U.S. security-based swap market. <sup>376</sup>
 
@@ -1128,9 +732,9 @@ U.S. persons that are arranged, negotiated, or executed by personnel located in 
 
 Another category of persons that potentially may use the exception are those non-U.S. persons whose dealing transaction volume would have fallen below the $3 billion de minimisthreshold if their transactions with non-U.S. counterparties were not counted toward the deminimis threshold under the current “arranged, negotiated, or executed” counting requirement,but absent the exception, would have dealing transactions in excess of that threshold. <sup>430</sup> Such non-U.S. persons may choose to use the exception if they expect the compliance cost associated with the exception to be lower than the compliance cost associated with being subject to the full set of security-based swap dealer regulation and the cost of business restructuring. The Commission’s analysis of <sup>2017</sup> TIW data indicates that there is one non-U.S. person whose transaction volume would have fallen below the $3 billion de minimis threshold if that person’stransactions with non-U.S. counterparties were not counted toward the de minimis thresholdunder the current “arranged, negotiated, or executed” counting requirement. <sup>431</sup>
 
-<h>c. U.S. Dealing Entities Considering Changes to Booking Practices A third category of persons that potentially may use the exception are those U.S. dealersthat use U.S. personnel to arrange, negotiate, or execute transactions with non-U.S.counterparties. Such dealers may consider booking future transactions with non-U.S. counterparties to their non-U.S. affiliates, while still using U.S. personnel to arrange, negotiate, or execute such transactions. These U.S. dealers may have an incentive to engage in such booking practices in order to utilize the exception to the extent that they wish to continue using</h>
+<h>c. U.S. Dealing Entities Considering Changes to Booking Practices</h>
 
-U.S. personnel to arrange, negotiate, or execute transactions with non-U.S. counterparties and the compliance cost associated with the exception is less than the cost of compliance with Title VII requirements (if they choose not to book transactions to avail themselves of the exception) and the cost of business restructuring (if they choose to both book transactions to their non-U.S. affiliates and also refrain from using U.S. personnel to arrange, negotiate, or execute such transactions). <sup>432</sup> The Commission’s analysis of <sup>2017</sup> TIW data indicates that there are six U.S. dealers who transact with non-U.S. counterparties, who are likely to register as security-based swap dealers, <sup>433</sup> and have non-U.S. affiliates that also transact in the CDS market. To the extent that these U.S. dealers anticipate booking future transactions with non-U.S. counterparties that are arranged, negotiated, or executed by U.S. personnel to their non-U.S. affiliates, the Commission believes that these U.S. dealers may potentially make use of the exception.
+A third category of persons that potentially may use the exception are those U.S. dealersthat use U.S. personnel to arrange, negotiate, or execute transactions with non-U.S.counterparties. Such dealers may consider booking future transactions with non-U.S. counterparties to their non-U.S. affiliates, while still using U.S. personnel to arrange, negotiate, or execute such transactions. These U.S. dealers may have an incentive to engage in such booking practices in order to utilize the exception to the extent that they wish to continue using U.S. personnel to arrange, negotiate, or execute transactions with non-U.S. counterparties and the compliance cost associated with the exception is less than the cost of compliance with Title VII requirements (if they choose not to book transactions to avail themselves of the exception) and the cost of business restructuring (if they choose to both book transactions to their non-U.S. affiliates and also refrain from using U.S. personnel to arrange, negotiate, or execute such transactions). <sup>432</sup> The Commission’s analysis of <sup>2017</sup> TIW data indicates that there are six U.S. dealers who transact with non-U.S. counterparties, who are likely to register as security-based swap dealers, <sup>433</sup> and have non-U.S. affiliates that also transact in the CDS market. To the extent that these U.S. dealers anticipate booking future transactions with non-U.S. counterparties that are arranged, negotiated, or executed by U.S. personnel to their non-U.S. affiliates, the Commission believes that these U.S. dealers may potentially make use of the exception.
 
 <h>d. Additional Considerations and Summary</h>
 
@@ -1180,9 +784,9 @@ As discussed above, the Commission believes that up to 24 <sup>455</sup> persons
 
 The Commission believes that the amendment would provide increased flexibility to security-based swap market participants to comply with the Title VII framework whilepreserving their existing business practices. This could reduce their compliance burdens, whilesupporting the Title VII regime’s benefit of mitigating risks in foreign security-based swapmarkets that may flow into U.S. financial markets through liquidity spillovers. The Commission also believes that the amendments could reduce market fragmentation and associated distortions. At the same time, and as detailed later in this section, the Commission acknowledges that the amendment potentially limits certain other programmatic benefits of the Title VII regime by excusing security-based swap market participants that elect to use the exception from some ofthe Title VII requirements that would otherwise apply to their activity. The Commission believes that the amendment will result in compliance costs for persons that elect to use the exception, as described below. However, the Commission expects that persons will elect to incur those costs only where it would be less costly than either complying with the Title VII framework or restructuring to avoid using U.S. personnel to arrange, negotiate, or execute transactions with non-U.S. counterparties.
 
-<h>a. Costs and Benefits for Persons That May Use the Amendment The primary benefit of the amendment is that it would permit a person further flexibilityto opt into a Title VII compliance framework that is compatible with its existing business practices. While the registered U.S. person would be the entity adhering to most of the conditions set forth in the amendment and the non-U.S. person would be responsible for complying with some of the other conditions, <sup>456</sup> for the purposes of this analysis, the</h>
+<h>a. Costs and Benefits for Persons That May Use the Amendment</h>
 
-Commission assumes that the costs of complying with these conditions will be passed on to the non-U.S.-person affiliate. In the absence of the amendment, a non-U.S. person could incur the cost of registering as a security-based swap dealer, and a financial group may incur the cost of registering at least one security-based swap dealer <sup>457</sup> due to the “arranged, negotiated, orexecuted” counting test. The non-U.S. person or group accordingly would incur the costnecessary for compliance with the full set of security-based swap dealer requirements by one ormore registered security-based swap dealers. These burdens, contingent on exceeding the deminimis threshold, are in addition to the assessment costs that the non-U.S. person would incurto identify and count relevant market-facing activity toward the de minimis threshold.
+The primary benefit of the amendment is that it would permit a person further flexibilityto opt into a Title VII compliance framework that is compatible with its existing business practices. While the registered U.S. person would be the entity adhering to most of the conditions set forth in the amendment and the non-U.S. person would be responsible for complying with some of the other conditions, <sup>456</sup> for the purposes of this analysis, the Commission assumes that the costs of complying with these conditions will be passed on to the non-U.S.-person affiliate. In the absence of the amendment, a non-U.S. person could incur the cost of registering as a security-based swap dealer, and a financial group may incur the cost of registering at least one security-based swap dealer <sup>457</sup> due to the “arranged, negotiated, orexecuted” counting test. The non-U.S. person or group accordingly would incur the costnecessary for compliance with the full set of security-based swap dealer requirements by one ormore registered security-based swap dealers. These burdens, contingent on exceeding the deminimis threshold, are in addition to the assessment costs that the non-U.S. person would incurto identify and count relevant market-facing activity toward the de minimis threshold.
 
 As discussed in the ANE Adopting Release, such a non-U.S. person could respond to these costs by restructuring its security-based swap business to avoid using U.S. personnel to arrange, negotiate, or execute transactions with non-U.S. counterparties. Such a strategy would allow the non-U.S. person to avoid counting transactions between the non-U.S. person and its non-U.S. counterparties toward the non-U.S. person’s de minimis threshold. In addition toreducing the likelihood of incurring the programmatic costs associated with the full set ofsecurity-based swap dealer requirements under Title VII, this response to current requirements could reduce the assessment costs associated with counting transactions toward the de minimisthreshold and fully abrogate the need to identify transactions with non-U.S. counterparties thatinvolve U.S. personnel . <sup>458</sup>
 
@@ -1352,13 +956,11 @@ In light of these compliance challenges and the fact that the amendment does inc
 
 The Commission also considered requiring the registered entity to comply with daily mark disclosure, along with other security-based swap dealer requirements, even if the registered entity is not a party to the resulting security-based swap. Similar to the discussion of ECP verification and know your counterparty requirements above, this alternative would lead togreater conformity with the full set of security-based swap dealer requirements. However, it may require knowledge that may not be readily available to the registered entity when it engages in limited arranging, negotiating, and executing activity in connection with the security-based swaps addressed by the exception. Further, the daily mark disclosure is predicated on the existence of an ongoing relationship between the security-based swap dealer and thecounterparty that may not be present in connection with the transactions at issue, and would be linked to risk management functions that are likely to be associated with the entity in which the resulting security-based swap position is located. <sup>569</sup> These operational difficulties may prevent the registered entity from complying with the daily mark disclosure requirement or may requirethe registered entity to incur an unreasonably high cost to ensure compliance. In light of these compliance challenges and the fact that the amendment does include conditions designed to impose a minimum standard of conduct upon security-based swap dealers in connection with their transaction-related activities, the Commission believes that the adopted approach ispreferable to this alternative.
 
-<h>d. Requiring a Limited Disclosure of Incentives and Conflicts As an alternative to the disclosure requirements set forth under Rule 3a71-3(d)(1)(ii)(B)(1), the Commission considered requiring the registered entity to disclose its own material incentives and conflicts of interest, but not requiring the registered entity to disclose the incentives and conflicts of interest of its non-U.S. affiliate. While this alternative might help to mitigate the costs associated with disclosing the incentives and conflicts of interest of the non-</h>
+<h>d. Requiring a Limited Disclosure of Incentives and Conflicts</h>
 
-U.S. affiliate, <sup>570</sup> the benefits associated with such disclosures <sup>571</sup> may also decrease because non-
+As an alternative to the disclosure requirements set forth under Rule 3a71-3(d)(1)(ii)(B)(1), the Commission considered requiring the registered entity to disclose its own material incentives and conflicts of interest, but not requiring the registered entity to disclose the incentives and conflicts of interest of its non-U.S. affiliate. While this alternative might help to mitigate the costs associated with disclosing the incentives and conflicts of interest of the non-U.S. affiliate, <sup>570</sup> the benefits associated with such disclosures <sup>571</sup> may also decrease because non-U.S. counterparties would not know about the incentives and conflicts of interest of the non-U.S. affiliate prior to entering into security-based swaps with the non-U.S. affiliate. In light of this concern, the Commission believes that the adopted approach is preferable to this alternative.
 
-U.S. counterparties would not know about the incentives and conflicts of interest of the non-U.S. affiliate prior to entering into security-based swaps with the non-U.S. affiliate. In light of this concern, the Commission believes that the adopted approach is preferable to this alternative.
-
-<h>e. Requiring the Non-U.S. Person to be Domiciled in a G-20 Jurisdiction or in a Jurisdiction where the Non-U.S. Person would be subject to Basel Capital Requirements</h>
+<h>e. Requiring the Non-U.S. Person to be Domiciled in a G-20 Jurisdiction or in a Jurisdiction where the Non-U.S. Person would be subject to Basel Capital Requirements
 
 As alternatives to paragraph (d)(1)(v), the Commission considered a requirement that the non-U.S. person be domiciled in a G-20 jurisdiction or in a jurisdiction where the non-U.S. person would be subject to Basel capital requirements as commenters have suggested. While the Commission acknowledges that these alternatives are clearly defined and would providecertainty to market participants, the Commission believes these alternatives potentially could create opportunities for regulatory arbitrage whereby a non-U.S. person may relocate its operations to a jurisdiction that imposes lower financial responsibility standards. The non-U.S. person may thus enjoy a cost advantage relative to other dealers that operate under higher regulatory burdens, while not being subject to equally rigorous financial responsibility standards. Further, as discussed earlier, <sup>572</sup> the fact that a jurisdiction is a member of the G-20 or subscribes to Basel standards does not by itself provide assurance that the jurisdiction has implemented appropriate financial responsibility standards.
 
@@ -1618,7 +1220,7 @@ However, the Commission continues to recognize that recordkeeping requirements a
 
 The Commission also understands that broker-dealer SBS Entities are routinely making and keeping current employment questionnaires and applications for all of their associated persons, which may reduce the benefits of the above alternative. However, if such baseline behavior of broker-dealer SBS Entities is a result of Rule 17a-3 currently in effect and not ofcompliance practices optimal for each broker-dealer SBS Entity, the alternative may reduce burdens <sup>621</sup> and provide beneficial flexibility in recordkeeping practices for broker-dealer SBS Entities with respect to associated persons excluded from the statutory prohibition. The Commission continues to note that the recordkeeping requirement in Rule 18a-5 is intended to support substantive obligations with respect to statutory disqualification and that such substantive obligations would no longer exist with respect to associated persons of broker-dealer SBS Entities effecting or involved in effecting security-based swaps and exempt from the statutory prohibition under, for instance, Rule of Practice 194(c)(2).
 
-<h>VII. Pape rwork Re duction Act</h>
+<h>VII. Paperwork Reduction Act</h>
 
 Certain provisions of the amendments to Exchange Act Rules 3a71-3 and 18a-5 contain “collection of information” <sup>622</sup> requirements within the meaning of the Paperwork Reduction Act of <sup>1995</sup> (“PRA”). The Commission published notice requesting comment on the collection of information requirements <sup>623</sup> and submitted the proposed collections of information to the Office of Management and Budget (“OMB”) for review in accordance with <sup>44</sup> USC <sup>3507</sup> and 5 CFR 1320.11. The Commission’s earlier PRA assessments have been revised to reflect the modifications to the rule amendments from those that were proposed, as well as additional information and data now available to the Commission. An agency may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a currently valid OMB control number.
 
@@ -1904,13 +1506,13 @@ Information that an SBS Entity is required to make and keep current under Rule 1
 
 Rule 18a-6 establishes the required retention periods for SBS Entities to maintain records collected in accorded with Rule 18a-5. <sup>718</sup> Under paragraph (d)(1) of Rule 18a-6, an SBS Entity is required to maintain and preserve in an easily accessible place the records required under paragraphs (a)(10) and (b)(8) of Rule 18a-5 until at least three years after the associated person’s employment and any other connection with the SBS Entity has terminated.(a)(10)(iii)(A) and (b)(8)(iii)(A) and a 63 hour reduction in initial burden hours associated with the addition of paragraphs (a)(10)(iii)(B) and (b)(8)(iii)(B) = a 190 hour reduction in initial burden hours.(a)(10)(iii)(A) and (b)(8)(iii)(A) and a 79 hour reduction in ongoing burden hours associated with the addition of paragraphs (a)(10)(iii)(B) and (b)(8)(iii)(B) = a 237 hour reduction in ongoing burden hours.
 
-<h>VIII. Othe r Matte rs</h>
+<h>VIII. Other Matters</h>
 
 If any of the provisions of these rules, or the application thereof to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or application of such provisions to other persons or circumstances that can be given effect without the invalid provision or application.
 
 Pursuant to the Congressional Review Act, <sup>719</sup> the Office of Information and Regulatory Affairs has designated these rules as a major rule, as defined by 5 USC 804(2).
 
-<h>IX. Regulatory Fle xibility Act Certification</h>
+<h>IX. Regulatory Flexibility Act Certification</h>
 
 The Regulatory Flexibility Act of <sup>1980</sup> (“RFA”) <sup>720</sup> requires the Commission to consider the impact of the rules on “small entities,” <sup>721</sup> a term that includes “small businesses,” “small organizations,” and “small governmental jurisdictions.” <sup>722</sup> In the Proposing Release, the Commission certified, pursuant to Section 605(b) of the RFA, <sup>723</sup> that the proposed amendments to Exchange Act Rules 3a71-3, 15Fb2-1, 0-13, 18a-5 and Rule of Practice <sup>194</sup> would not have a significant economic impact on a substantial number of small entities. <sup>724</sup> The Commission received no comments on this certification.
 
@@ -1930,7 +1532,7 @@ Accordingly, the Commission believes that it is unlikely that the rule amendment
 
 For the foregoing reasons, the Commission certifies that the amendments to Exchange Act Rules 3a71-3, 15Fb2-1, 0-13, and 18a-5, and Rule of Practice <sup>194</sup> would not have a significant economic impact on a substantial number of small entities for purposes of the RFA.(Aug. 25, 2015) and Rule of Practice 194 Adopting Release, 84 FR at 4944.
 
-<h>X. Effective Date and Compliance Date s</h>
+<h>X. Effective Date and Compliance Dates</h>
 
 <h>A. Effective Date</h>
 
@@ -1950,13 +1552,9 @@ The Commission believes that the Registration Compliance date previously adopted
 
 Compliance Date <sup>755</sup> and continues to believe that <sup>18</sup> months after the Effective Date should afford the Commission and potential registrants with sufficient time. As noted above in Part III.H.2, the Commission welcomes requests for substituted compliance ahead of the Registration Compliance Date and encourages potential applicants to begin the process of requesting substituted compliance as soon as practicable. <sup>756</sup>
 
-<h>C. Compliance with Rules for Security-Based Swap Data Repositories and</h>
+<h>C. Compliance with Rules for Security-Based Swap Data Repositories and Regulation SBSR</h>
 
-Regulation SBSR
-
-The issuance of this release has certain implications for the compliance schedule for Regulation SBSR, which governs regulatory reporting and public dissemination of security- based swap (“SBS”) transactions. <sup>757</sup> Under Regulation SBSR, the first compliance date(“Compliance Date 1”) for affected persons with respect to an SBS asset class is the first Monday that is the later of: (1) six months after the date on which the first SBS data repository (“SDR”) that can accept transaction reports in that asset class registers with the Commission; or
-
-<h>2. one month after the Registration Compliance Date. As explained in the Recordkeeping and Reporting Adopting Release, the Registration Compliance Date will be 18 months after the Effective Date set forth above in Part X.A of this release. Although the second conditionprecedent of Regulation SBSR compliance has now been determined, the first condition precedent remains undetermined, as no SDR has registered with the Commission.</h>
+The issuance of this release has certain implications for the compliance schedule for Regulation SBSR, which governs regulatory reporting and public dissemination of security- based swap (“SBS”) transactions. <sup>757</sup> Under Regulation SBSR, the first compliance date(“Compliance Date 1”) for affected persons with respect to an SBS asset class is the first Monday that is the later of: (1) six months after the date on which the first SBS data repository (“SDR”) that can accept transaction reports in that asset class registers with the Commission; or (2) one month after the Registration Compliance Date. As explained in the Recordkeeping and Reporting Adopting Release, the Registration Compliance Date will be 18 months after the Effective Date set forth above in Part X.A of this release. Although the second conditionprecedent of Regulation SBSR compliance has now been determined, the first condition precedent remains undetermined, as no SDR has registered with the Commission.
 
 In issuing this release and in light of the completion of many other Title VII rulemakings as well as the changing regulatory landscape since the Commission’s consideration of Regulation SBSR and the SDR rules, the Commission has considered how all of the Title VII rules will work on full implementation and, in particular, the role of SDRs. The Commission recognizes that the CFTC rules analogous to the SBS reporting rules have been in force for several years <sup>759</sup>standards, duties, and core principles for SDRs. See 17 CFR 240.13n-1 to 240.13n-12; SDR Rules and Core Principles Adopting Release, 80 FR 14438. In 2016, the Commission adopted additional provisions of Regulation SBSR. See Regulation SBSR Amendments Adopting Release, 81 FR 53546. Regulation SBSR and the SDR rules are hereinafter referred to collectively as the “SBS reporting rules.”and multiple entities have registered with the CFTC as swap data repositories. <sup>760</sup> Most of the participants in the SBS market are also participants in the swap market, including the two entities that previously sought registration with the Commission as SDRs. <sup>761</sup> The Commission understands that these market participants and swap data repositories have invested in systems and developed policies and procedures to comply with the CFTC’s swap reporting rules.
 
@@ -1970,29 +1568,29 @@ The Commission is mindful of the time and costs that may be incurred by swap dat
 
 The Commission believes that implementation of the SBS reporting rules can and should be done in a manner that carries out the fundamental policy goals of the SBS reporting rules while minimizing burdens as much as practicable. The Commission continues to believe that this should be done pursuant to the compliance schedule noted above. <sup>766</sup> However, in light of the Commission’s efforts to promote harmonization, the CFTC’s announced reconsideration ofhttps://www.cftc.gov/sites/default/files/idc/groups/public/@lrlettergeneral/documents/letter/17- 33.pdf .its swap reporting rules, and ongoing concerns among market participants about incurring unnecessary burdens, the Commission takes the following position with respect to the SBS reporting rules for four years following Regulation SBSR’s Compliance Date 1 in each SBS asset class. After the first SDR that can accept transaction reports in a particular SBS class is registered by the Commission, certain actions with respect to the SBS reporting rules will not provide a basis for a Commission enforcement action, as set forth below: <sup>767</sup>
 
-<h>1. With respect to Rule 901(a) of Regulation SBSR if a person with a duty to report an SBS transaction (or a duty to participate in the selection of the reporting side) under Rule 901(a) does not report the transaction (or does not participate in the selection of the reporting side) because, under the swap reporting rules in force at the time of the transaction, a different person (or no person) would have the duty to report a comparable swap transaction.</h>
+1. With respect to Rule 901(a) of Regulation SBSR if a person with a duty to report an SBS transaction (or a duty to participate in the selection of the reporting side) under Rule 901(a) does not report the transaction (or does not participate in the selection of the reporting side) because, under the swap reporting rules in force at the time of the transaction, a different person (or no person) would have the duty to report a comparable swap transaction
 
-<h>2. With respect to Rules 901(c)(2)-(7) and 901(d) of Regulation SBSR, if a person with a duty to report a data element of an SBS transaction, as required by any provision of Rules 901(c)(2)-(7) and 901(d), does not report that data element because the swap reporting rules in force at the time of the transaction do not require that data element to be reported.</h>
+2. With respect to Rules 901(c)(2)-(7) and 901(d) of Regulation SBSR, if a person with a duty to report a data element of an SBS transaction, as required by any provision of Rules 901(c)(2)-(7) and 901(d), does not report that data element because the swap reporting rules in force at the time of the transaction do not require that data element to be reported.
 
-<h>3. With respect to Rule 901(e) of Regulation SBSR, if a person does not report a life cycle event of an SBS transaction in a manner consistent with Rule 901(e) and the person acts instead in a manner consistent with the swap reporting rules for the reporting of life cycle events that are in force at the time of the life cycle event.</h>
+3. With respect to Rule 901(e) of Regulation SBSR, if a person does not report a life cycle event of an SBS transaction in a manner consistent with Rule 901(e) and the person acts instead in a manner consistent with the swap reporting rules for the reporting of life cycle events that are in force at the time of the life cycle event.
 
-<h>4. With respect to Rule 902 of Regulation SBSR, if a registered SDR does notdisseminate an SBS transaction in a manner consistent with Rule 902 but instead disseminates(or does not disseminate) the SBS transaction in a manner consistent with Part 43 of the CFTC’s swap reporting rules in force at the time of the transaction, provided that for an SBS based on a single credit instrument or a narrow-based index of credit instruments having a notional size of$5 million or greater, the registered SDR that receives the report of the SBS transaction does not utilize any capping or bucketing convention under Part 43 of the CFTC’s swap reporting rules but instead disseminates a capped size of $5 million ( e.g. , “$5MM+” or similar) in lieu of thetrue notional size. <sup>768</sup></h>
+4. With respect to Rule 902 of Regulation SBSR, if a registered SDR does notdisseminate an SBS transaction in a manner consistent with Rule 902 but instead disseminates(or does not disseminate) the SBS transaction in a manner consistent with Part 43 of the CFTC’s swap reporting rules in force at the time of the transaction, provided that for an SBS based on a single credit instrument or a narrow-based index of credit instruments having a notional size of$5 million or greater, the registered SDR that receives the report of the SBS transaction does not utilize any capping or bucketing convention under Part 43 of the CFTC’s swap reporting rules but instead disseminates a capped size of $5 million ( e.g. , “$5MM+” or similar) in lieu of thetrue notional size. <sup>768</sup>
 
-<h>5. With respect to Rule 903(b), a registered SDR permits the reporting or public dissemination of SBS transaction information that includes codes in place of certain data elements even if the information necessary to interpret such codes is not widely available to users of the information on a non-fee basis.</h>
+5. With respect to Rule 903(b), a registered SDR permits the reporting or public dissemination of SBS transaction information that includes codes in place of certain data elements even if the information necessary to interpret such codes is not widely available to users of the information on a non-fee basis.
 
-<h>6. With respect to Rule 906(a) of Regulation SBSR, if a registered SDR does not send reports of missing unique identification codes to its participants.</h>
+6. With respect to Rule 906(a) of Regulation SBSR, if a registered SDR does not send reports of missing unique identification codes to its participants.
 
-<h>7. With respect to Rule 906(b) of Regulation SBSR, if a registered SDR does not collectultimate parent and affiliate information from its participants.</h>
+7. With respect to Rule 906(b) of Regulation SBSR, if a registered SDR does not collectultimate parent and affiliate information from its participants.
 
-<h>8. With respect to Rule 907(a)(1) of Regulation SBSR, if a registered SDR does not enumerate in its policies and procedures for reporting transaction information one or morespecific data elements that are required by Rule 901(c) or 901(d) of Regulation SBSR, because such data element(s) are not required under the swap reporting rules, except that the registered SDR’s policies and procedures must set out how a participant must identify the SBS and any security underlying the SBS and thereby comply with Rule 901(c)(1).</h>
+8. With respect to Rule 907(a)(1) of Regulation SBSR, if a registered SDR does not enumerate in its policies and procedures for reporting transaction information one or morespecific data elements that are required by Rule 901(c) or 901(d) of Regulation SBSR, because such data element(s) are not required under the swap reporting rules, except that the registered SDR’s policies and procedures must set out how a participant must identify the SBS and any security underlying the SBS and thereby comply with Rule 901(c)(1).
 
-<h>9. With respect to Rule 907(a)(3) of Regulation SBSR, if a registered SDR does not enumerate in its policies and procedures for handling life cycle events provisions that are not required under swap reporting rules that pertain to the reporting of life cycle events.</h>
+9. With respect to Rule 907(a)(3) of Regulation SBSR, if a registered SDR does not enumerate in its policies and procedures for handling life cycle events provisions that are not required under swap reporting rules that pertain to the reporting of life cycle events.
 
-<h>10. With respect to Rule 907(a)(4) of Regulation SBSR, if a registered SDR does not have policies and procedures for establishing and directing its participants to use condition flags in the reporting of SBS transactions, provided that the registered SDR instead complies with analogous CFTC rules regarding condition flags or other trade indicators.</h>
+10. With respect to Rule 907(a)(4) of Regulation SBSR, if a registered SDR does not have policies and procedures for establishing and directing its participants to use condition flags in the reporting of SBS transactions, provided that the registered SDR instead complies with analogous CFTC rules regarding condition flags or other trade indicators.
 
-<h>11. With respect to Rule 907(a)(5) of Regulation SBSR, if a registered SDR does not have policies and procedures for assigning UICs.</h>
+11. With respect to Rule 907(a)(5) of Regulation SBSR, if a registered SDR does not have policies and procedures for assigning UICs.
 
-<h>12. With respect to Rule 907(a)(6) of Regulation SBSR, if a registered SDR does nothave policies and procedures for obtaining from its participants information about each participant’s ultimate parent and affiliates.</h>
+12. With respect to Rule 907(a)(6) of Regulation SBSR, if a registered SDR does nothave policies and procedures for obtaining from its participants information about each participant’s ultimate parent and affiliates.
 
 Notwithstanding the above, the Commission’s position with respect to Rule 901(a) of Regulation SBSR does not extend to instances where a transaction falls within Rule 901(a)(2)(ii)(E) and one or both sides is relying on the exception to the de minimis countingrequirement for ANE transactions ( i.e. , is a “relying entity”). The Commission expects that aforeign dealing entity that is a relying entity would utilize staff of an affiliated U.S. registered
 

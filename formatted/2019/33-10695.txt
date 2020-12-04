@@ -1,243 +1,3 @@
-https://www.sec.gov/rules/final/2019/33-10695.pdf
-
-I.0.0.0 INTRODUCTION
-
-	I.A.0.0 Overview of Exchange-Traded Funds
-
-	I.B.0.0 Operation of Exchange-Traded Funds
-
-II.0.0.0 DISCUSSION
-
-	II.A.0.0 Scope of Rule 6c-11
-
-		II.A.1.0 Organization as Open-End Funds
-
-		II.A.2.0 Index-Based ETFs and Actively Managed ETFs
-
-		II.A.3.0 Leveraged/Inverse ETFs
-
-	II.B.0.0 Exemptive Relief under Rule 6c-11
-
-		II.B.1.0 Treatment of ETF Shares as “Redeemable Securities”
-
-		II.B.2.0 Trading of ETF Shares at Market-Determined Prices
-
-		II.B.3.0 Affiliated Transactions
-
-		II.B.4.0 Additional Time for Delivering Redemption Proceeds
-
-	II.C.0.0 Conditions for Reliance on Rule 6c-11
-
-		II.C.1.0 Issuance and Redemption of Shares
-
-		II.C.2.0 Listing on a National Securities Exchange
-
-		II.C.3.0 Intraday Indicative Value (“IIV”)
-
-		II.C.4.0 Portfolio Holdings Disclosure
-
-			II.C.4.a Timing of Portfolio Holdings Disclosure
-
-			II.C.4.b Presentation of Portfolio Holdings Disclosure
-
-			II.C.4.c Portfolio Holdings that Will Form the Basis for the ETF’s NAV Calculation
-
-		II.C.5.0 Baskets
-
-			II.C.5.a Basket Policies and Procedures
-
-			II.C.5.b Definition of Custom Baskets
-
-			II.C.5.c Basket Publication Requirement
-
-		II.C.6.0 Website Disclosure
-
-			II.C.6.a Disclosure of Prior Business Day’s NAV, Market Price, and Premium or Discount
-
-			II.C.6.b Disclosure of Table and Line Graphs of the ETF’s Premiums and Discounts
-
-			II.C.6.c Disclosure of ETF Premiums or Discounts Greater than 2%
-
-			II.C.6.d Median Bid-Ask Spread
-
-		II.C.7.0 Marketing
-
-		II.C.8.0 ETF and ETP Nomenclature
-
-	II.D.0.0 Recordkeeping
-
-	II.E.0.0 Share Class ETFs
-
-	II.F.0.0 Master-Feeder ETFs
-
-	II.G.0.0 Effect of Rule 6c-11 on Prior Orders
-
-	II.H.0.0 Amendments to Form N-1A
-
-		II.H.1.0 Fee Disclosures for Mutual Funds and ETFs (Item 3)
-
-		II.H.2.0 Disclosures Regarding ETF Trading and Associated Costs (Item 6)
-
-			II.H.2.a Narrative Disclosures
-
-			II.H.2.b Median Bid-Ask Spread Requirement
-
-			II.H.2.c Historical Premium and Discount Disclosures (Items 11 and 27)
-
-		II.H.3.0 Eliminated Disclosures
-
-	II.I.0.0 Amendments to Form N-8B-2
-
-	II.J.0.0 Amendments to Form N-CEN
-
-	II.K.0.0 Technical and Conforming Amendments to Form N-1A, Form N-8B-2, Form N-CSR, Form N-PORT, and Regulation S-X
-
-	II.L.0.0 Compliance Dates
-
-III.0.0.0 OTHER MATTERS
-
-IV.0.0.0 ECONOMIC ANALYSIS
-
-	IV.A.0.0 Introduction
-
-	IV.B.0.0 Economic Baseline
-
-		IV.B.1.0 ETF Industry Growth and Trends
-
-		IV.B.2.0 Exemptive Order Process and Certain Conditions under Existing Orders
-
-		IV.B.3.0 Market Participants
-
-		IV.B.4.0 Secondary Market Trading, Arbitrage, and ETF Liquidity
-
-	IV.C.0.0 Benefits and Costs of Rule 6c-11 and Form Amendments
-
-		IV.C.1.0 Rule 6c-11
-
-			IV.C.1.a General Considerations
-
-			IV.C.1.b Conditions for Reliance on Rule 6c-11
-
-			IV.C.1.c Recordkeeping
-
-			IV.C.1.d Master-Feeder Relief
-
-		IV.C.2.0 Amendments to Forms N-1A, N-8B-2, and N-CEN
-
-	IV.D.0.0 Effects on Efficiency, Competition, and Capital Formation
-
-		IV.D.1.0 Efficiency
-
-		IV.D.2.0 Competition
-
-		IV.D.3.0 Capital Formation
-
-	IV.E.0.0 Reasonable Alternatives
-
-		IV.E.1.0 Website Disclosure of Basket Information
-
-		IV.E.2.0 Disclosure of ETF Premiums or Discounts Greater than 2%
-
-		IV.E.3.0 Website and Prospectus Disclosure of the Median Bid-Ask Spread Calculated Over the Most Recent 1-Year Period
-
-		IV.E.4.0 Additional Disclosures Showing the Impact of Bid-Ask Spreads
-
-		IV.E.5.0 Website Disclosure of a Modified IIV
-
-		IV.E.6.0 The Use of a Structured Format for Additional Website Disclosures and the Filing of Additional Website Disclosures in a Structured Format on EDGAR
-
-		IV.E.7.0 Pro Rata Baskets
-
-		IV.E.8.0 Treatment of Existing Exemptive Relief
-
-		IV.E.9.0 ETFs Organized as UITs
-
-		IV.E.10.0 Treatment of Leveraged/Inverse ETFs
-
-V.0.0.0 PAPERWORK REDUCTION ACT
-
-	V.A.0.0 Introduction
-
-	V.B.0.0 Rule 6c-11
-
-		V.B.1.0 Website Disclosures
-
-		V.B.1.0 Includes initial burden estimates annualized over a three-year period.
-
-		V.B.2.0 See supra footnote
-
-		V.B.3.0 2018 Proposing Release, supra footnote at section IV.B.1.
-
-		V.B.4.0 Estimate revised to reflect modifications from the proposal.
-
-		V.B.5.0 Estimate revised to reflect updated industry data.
-
-		V.B.1.0 Based on SIFMA Report, supra footnote as modified by Commission staff.
-
-		V.B.2.0 See 2018 ETF Proposing Release at section IV.B.2.
-
-		V.B.3.0 Estimate revised to reflect updated industry data.
-
-		V.B.1.0 Includes initial burden estimates annualized over a three-year period.
-
-		V.B.2.0 Based on SIFMA Report, supra footnote as modified by Commission staff.
-
-		V.B.3.0 See 2018 ETF Proposing Release at section IV.B.3.
-
-		V.B.4.0 The proposed estimates shown here for the total annual hour and cost burdens (30,525 hours and $12,145,320) are not identical to the totals provided in the 2018 ETFs Proposing Release. See supra footnote at section IV.B.2 (estimating total hour and cost burdens of 30,520 hours and
-
-		V.B.5.0 Estimate revised to reflect updated industry data.
-
-	V.C.0.0 Rule 0-2
-
-	V.D.0.0 Form N-1A
-
-		V.D.1.0 Includes initial burden estimates annualized over a three-year period.
-
-		V.D.2.0 See supra footnote
-
-		V.D.3.0 2018 Proposing Release, supra footnote at section IV.D.
-
-		V.D.4.0 Estimate revised to reflect updated industry data.
-
-		V.D.5.0 Estimate revised to reflect modifications from the proposal.
-
-	V.E.0.0 Forms N-8B-2 and S-6
-
-		V.E.1.0 Includes initial burden estimates annualized over a three-year period.
-
-		V.E.2.0 See supra footnote
-
-		V.E.3.0 2018 Proposing Release, supra footnote at section IV.E.
-
-		V.E.4.0 Estimate revised to reflect modifications from the proposal.
-
-		V.E.5.0 Estimate revised to reflect updated industry data.
-
-	V.F.0.0 Form N-CEN
-
-VI.0.0.0 FINAL REGULATORY FLEXIBILITY ANALYSIS
-
-	VI.A.0.0 Need for and Objectives of the Rule and Form Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comments
-
-	VI.C.0.0 Small Entities Subject to the Rule
-
-	VI.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-		VI.D.1.0 Rule 6c-11
-
-		VI.D.2.0 Other Disclosure and Reporting Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 STATUTORY AUTHORITY
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 210, 232, 239, 270, and 274
@@ -1418,15 +1178,15 @@ FINAL ESTIMATES
 
 Notes:
 
-<h>1. Includes initial burden estimates annualized over a three-year period.</h>
+1. Includes initial burden estimates annualized over a three-year period.
 
-<h>2. See supra footnote</h>
+2. See supra footnote
 
-<h>3. 2018 Proposing Release, supra footnote at section IV.B.1.</h>
+3. 2018 Proposing Release, supra footnote at section IV.B.1.
 
-<h>4. Estimate revised to reflect modifications from the proposal.</h>
+4. Estimate revised to reflect modifications from the proposal.
 
-<h>5. Estimate revised to reflect updated industry data.</h>
+5. Estimate revised to reflect updated industry data.
 
 Table 11 above summarizes the proposed PRA estimates included in the 2018 ETF Proposing Release and the final PRA estimates associated with the website disclosures in rule 6c-11. <sup>681</sup> We did not receive public comment on our proposed estimates, but we have revised them as a result of updated industry data and modifications from the proposal. Specifically, we are increasing the initial and ongoing internal and external burden estimates by 50 percent each to account for our modification to the proposal that will require ETFs to disclose median bid-ask spread information on their websites as part of rule 6c-11, partially offset by the elimination of the proposed published basket requirement and the modification to the proposed requirement to disclose portfolio holdings related to timing and presentation of those holdings . <sup>682</sup> In addition, we are revising the estimated wage rates and estimated number of ETFs that will be subject to the rule to reflect updated industry data.2.	Recordkeeping
 
@@ -1438,11 +1198,11 @@ Recordkeeping<sup>0</sup> hours	2.5 hours	×	$62 (general clerk) <sup>3</sup> $1
 
 Notes:
 
-<h>1. Based on SIFMA Report, supra footnote as modified by Commission staff.</h>
+1. Based on SIFMA Report, supra footnote as modified by Commission staff.
 
-<h>2. See 2018 ETF Proposing Release at section IV.B.2.</h>
+2. See 2018 ETF Proposing Release at section IV.B.2.
 
-<h>3. Estimate revised to reflect updated industry data.</h>
+3. Estimate revised to reflect updated industry data.
 
 Table 12 above summarizes the proposed PRA estimates included in the 2018 ETF Proposing Release and the final PRA estimates associated with the recordkeeping requirements in rule 6c-11. <sup>686</sup> We did not receive public comment on our proposed estimates, but we have revised the estimates as a result of updated industry data. Specifically, we have updated the estimated wage rates and the estimated number of ETFs that will be subject to the rule and thus the recordkeeping requirement. We do not estimate that there will be any initial or ongoing external costs associated with the recordkeeping requirement.3.	Policies and Procedures
 
@@ -1452,15 +1212,15 @@ TABLE 13: POLICIES AND PROCEDURES PRA ESTIMATES
 
 Notes:
 
-<h>1. Includes initial burden estimates annualized over a three-year period.</h>
+1. Includes initial burden estimates annualized over a three-year period.
 
-<h>2. Based on SIFMA Report, supra footnote as modified by Commission staff.</h>
+2. Based on SIFMA Report, supra footnote as modified by Commission staff.
 
-<h>3. See 2018 ETF Proposing Release at section IV.B.3.</h>
+3. See 2018 ETF Proposing Release at section IV.B.3.
 
-<h>4. The proposed estimates shown here for the total annual hour and cost burdens (30,525 hours and $12,145,320) are not identical to the totals provided in the 2018 ETFs Proposing Release. See supra footnote at section IV.B.2 (estimating total hour and cost burdens of 30,520 hours and$12,111,525). This discrepancy is due to our calculation of the annual hours in the 2018 ETF Proposing Release, in which the total initial burden hours were calculated before being amortized over 3 years ( i.e. , divided by 3). Here, the initial burden hours were amortized over 3 years before we calculated the total annual hour and cost burdens, resulting in slightly higher totals. This does not affect the final estimates set forth above.</h>
+4. The proposed estimates shown here for the total annual hour and cost burdens (30,525 hours and $12,145,320) are not identical to the totals provided in the 2018 ETFs Proposing Release. See supra footnote at section IV.B.2 (estimating total hour and cost burdens of 30,520 hours and$12,111,525). This discrepancy is due to our calculation of the annual hours in the 2018 ETF Proposing Release, in which the total initial burden hours were calculated before being amortized over 3 years ( i.e. , divided by 3). Here, the initial burden hours were amortized over 3 years before we calculated the total annual hour and cost burdens, resulting in slightly higher totals. This does not affect the final estimates set forth above.
 
-<h>5. Estimate revised to reflect updated industry data.</h>
+5. Estimate revised to reflect updated industry data.
 
 Table 13 above summarizes the proposed PRA estimates included in the 2018 ETF Proposing Release and the final PRA estimates associated with the policies and procedures requirements in rule 6c-11. <sup>690</sup> We did not receive public comment on our proposed estimates, but we are revising the estimates as a result of updated industry data. Specifically, we have updated the estimated wage rates and the estimated number of ETFs that will be subject to the rule and thus the policies and procedures requirement. We do not estimate that there will be any initial or ongoing external costs associated with this requirement.4.	Estimated Total Burden
 
@@ -1496,15 +1256,15 @@ FINAL ESTIMATES
 
 Notes:
 
-<h>1. Includes initial burden estimates annualized over a three-year period.</h>
+1. Includes initial burden estimates annualized over a three-year period.
 
-<h>2. See supra footnote</h>
+2. See supra footnote
 
-<h>3. 2018 Proposing Release, supra footnote at section IV.D.</h>
+3. 2018 Proposing Release, supra footnote at section IV.D.
 
-<h>4. Estimate revised to reflect updated industry data.</h>
+4. Estimate revised to reflect updated industry data.
 
-<h>5. Estimate revised to reflect modifications from the proposal.</h>
+5. Estimate revised to reflect modifications from the proposal.
 
 Table 16 above summarizes the proposed PRA estimates included in the 2018 ETF Proposing Release and the final PRA estimates associated Form N-1A as amended. <sup>700</sup> We did not receive public comment on our proposed PRA estimates, but we are revising our estimates as a result of updated industry data and modifications from the proposal. Specifically, we are decreasing the initial and ongoing internal and external burden estimates associated with the bid- ask spread and interactive calculator requirements by 80 percent each to account for our elimination of the hypothetical example and interactive calculator requirements and our decision to apply the prospectus bid-ask spread requirements only to those ETFs that do not comply with the website disclosure requirements in rule 6c-11, partially offset by the additional premium or discount requirements. <sup>701</sup> In addition, we are revising the estimated wage rates and estimated number of ETFs that will be subject to the rule to reflect updated industry data.
 
@@ -1534,15 +1294,15 @@ FINAL ESTIMATES
 
 Notes:
 
-<h>1. Includes initial burden estimates annualized over a three-year period.</h>
+1. Includes initial burden estimates annualized over a three-year period.
 
-<h>2. See supra footnote</h>
+2. See supra footnote
 
-<h>3. 2018 Proposing Release, supra footnote at section IV.E.</h>
+3. 2018 Proposing Release, supra footnote at section IV.E.
 
-<h>4. Estimate revised to reflect modifications from the proposal.</h>
+4. Estimate revised to reflect modifications from the proposal.
 
-<h>5. Estimate revised to reflect updated industry data.</h>
+5. Estimate revised to reflect updated industry data.
 
 Table 17 and Table 18 above summarize the proposed PRA estimates included in the 2018 ETF Proposing Release and the final PRA estimates associated with Forms S-6 and N-8B-2, respectively. <sup>708</sup> We did not receive public comment on our proposed estimates, but we are revising our estimates as a result of updated industry data and modifications from the proposal.
 

@@ -1,109 +1,3 @@
-https://www.sec.gov/rules/final/2019/33-10648.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Final Amendments
-
-	II.A.0.0 Overview of the Final Amendments
-
-	II.B.0.0 Focus the Analysis on Beneficial Ownership
-
-		II.B.1.0 Proposed Amendments
-
-		II.B.2.0 Comments
-
-		II.B.3.0 Final Amendments
-
-	II.C.0.0 Significant Influence Test
-
-		II.C.1.0 Proposed Amendments
-
-		II.C.2.0 Comments
-
-			II.C.2.a Significant Influence Test
-
-			II.C.2.b ASC 323
-
-			II.C.2.c Rebuttable Presumption
-
-			II.C.2.d Participation on an Advisory Committee
-
-			II.C.2.e Authorized Participants
-
-			II.C.2.f Evaluation of Compliance with the Loan Provision
-
-			II.C.2.g Alternatives to the Significant Influence Test
-
-		II.C.3.0 Final Amendments
-
-	II.D.0.0 Reasonable Inquiry Compliance Threshold
-
-		II.D.1.0 Proposed Amendments
-
-		II.D.2.0 Comments
-
-		II.D.3.0 Final Amendments
-
-	II.E.0.0 Excluding Other Funds That Would Be Considered Affiliates of the Audit Client
-
-		II.E.1.0 Proposed Amendments
-
-		II.E.2.0 Comments
-
-		II.E.3.0 Final Amendments
-
-	II.F.0.0 Other Comments
-
-		II.F.1.0 Materiality Qualifier
-
-		II.F.2.0 Other Potential Changes to the Auditor Independence Rules
-
-III.0.0.0 Other Matters
-
-IV.0.0.0 Paperwork Reduction Act
-
-V.0.0.0 Economic Analysis
-
-	V.A.0.0 General Economic Considerations
-
-	V.B.0.0 Baseline
-
-	V.C.0.0 Anticipated Benefits and Costs
-
-		V.C.1.0 Anticipated Benefits
-
-		V.C.2.0 Anticipated Costs and Potential Unintended Consequences
-
-	V.D.0.0 Effects on Efficiency, Competition, and Capital Formation
-
-	V.E.0.0 Alternatives
-
-VI.0.0.0 Final Regulatory Flexibility Analysis
-
-	VI.A.0.0 Need for the Amendments
-
-	VI.B.0.0 Significant Issues Raised by Public Comment
-
-	VI.C.0.0 Small Entities Subject to the Final Rules
-
-		VI.C.1.0 has assets under management having a total value of less than $25 million;
-
-		VI.C.2.0 did not have total assets of $5 million or more on the last day of the most recent fiscal year; and
-
-		VI.C.3.0 does not control, is not controlled by, and is not under common control with another investment adviser that has assets under management of $25 million or more, or any person (other than a natural person) that had total assets of $5 million or more on the last day of its most recent fiscal year. We estimate that there are approximately 552 investment advisers that will be subject to the final amendments that may be considered small entities.
-
-	VI.D.0.0 Projected Reporting, Recordkeeping and Other Compliance Requirements
-
-	VI.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-VII.0.0.0 Codification Update
-
-VIII.0.0.0 Statutory Basis
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>210</sup>
@@ -486,11 +380,11 @@ This number includes open-end ETFs. <sup>172</sup>
 
 For purposes of the RFA, an investment adviser is a small entity if it:
 
-<h>1. has assets under management having a total value of less than $25 million;</h>
+1. has assets under management having a total value of less than $25 million;
 
-<h>2. did not have total assets of $5 million or more on the last day of the most recent fiscal year; and</h>
+2. did not have total assets of $5 million or more on the last day of the most recent fiscal year; and
 
-<h>3. does not control, is not controlled by, and is not under common control with another investment adviser that has assets under management of $25 million or more, or any person (other than a natural person) that had total assets of $5 million or more on the last day of its most recent fiscal year. We estimate that there are approximately 552 investment advisers that will be subject to the final amendments that may be considered small entities.</h>
+3. does not control, is not controlled by, and is not under common control with another investment adviser that has assets under management of $25 million or more, or any person (other than a natural person) that had total assets of $5 million or more on the last day of its most recent fiscal year. We estimate that there are approximately 552 investment advisers that will be subject to the final amendments that may be considered small entities.
 
 For purposes of the RFA, a broker-dealer is considered to be a “small business” if its total capital (net worth plus subordinated liabilities) is less than $500,000 on the date in the prior fiscal year as of which its audited financial statements were prepared pursuant to Rule 17a-5(d) under the Exchange Act, <sup>175</sup> or, if not required to file such statements, a broker-dealer with total capital (net worth plus subordinated liabilities) of less than $500,000 on the last day of the preceding fiscal year (or in the time that it has been in business, if shorter); and that is not affiliated with any person (other than a natural person) that is not a small business or small organization. <sup>176</sup> As of December 2018, there were approximately 985 small entity broker- dealers that will be subject to the final amendments. <sup>177</sup>
 

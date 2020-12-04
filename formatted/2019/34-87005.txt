@@ -1,239 +1,3 @@
-https://www.sec.gov/rules/final/2019/34-87005.pdf
-
-I.0.0.0 BACKGROUND
-
-II.0.0.0 FINAL RULES AND RULE AMENDMENTS
-
-	II.A.0.0 Recordkeeping
-
-		II.A.1.0 Introduction
-
-		II.A.2.0 Records to be Made and Kept Current
-
-			II.A.2.a Amendments to Rule 17a-3 and New Rule 18a-5
-
-		II.A.3.0 Record Maintenance and Preservation Requirements
-
-			II.A.3.a Rule 17a-4 and Rule 18a-6
-
-			II.A.3.b Additional Amendments to Rule 17a-4 and Modifications to Rule 18a-6
-
-		II.A.2.0 removing “on the schedule” in paragraph (b)(8)(xiii) for clarity; (3) removing “or Form SBS” in paragraph (b)(8)(xiii) as it is no longer applicable; (4) adding “security-based swap” before the phrase “possession or control requirements” in paragraph (b)(8)(xiv) for clarity; (5) correcting references from § 240.18a-4 to § 240.15c3-3 in paragraph (b)(8)(xiv); (6) replacing “on Form SBS” with “in Part II of Form X-17A-5”; and (7) replacing “;” with “,” in paragraphs (b)(14) and (15) for internal consistency.
-
-	II.B.0.0 Reporting
-
-		II.B.1.0 Introduction
-
-		II.B.2.0 Periodic Filing of FOCUS Report
-
-			II.B.2.a Rule 17a-5 and Rule 18a-7
-
-			II.B.2.b FOCUS Report
-
-		II.B.3.0 an obsolete accounting reference is updated globally (including on Line 15E, which was proposed as Line 14E) to accurately reflect “ASC 860” instead of “SFAS 140”; and (4) the instructions are updated to reflect the changes discussed in this section.
-
-		II.B.1.0 The instruction to “check one only” is replaced with “check all that apply” as a firm can claim more than one exemption from Rule 15c3-3; (2) the incorrect references to paragraphs “(k)(2)(A)” and “(k)(2)(B)” of Rule 15c3-3 are replaced with correct references to paragraphs (k)(2)(i) and (ii) of Rule 15c3-3; and (3) due to the inadvertent omission of instructions regarding this section, the instructions to FOCUS Report Part II, as amended, are updated to direct stand-alone broker- dealers, broker-dealer SBSDs, and broker-dealer MSBSPs that are claiming an exemption from Rule 15c3-3 to complete this section.
-
-		II.B.2.0 the parenthetical “(See Note A)” is added to Line 1 for consistency with Line 1 of the Computation for Determination of Customer Reserve Requirements section in revised FOCUS Report Part II, and in response to commenters, the section includes a clarification that the notes referenced in this section appear in Exhibit B to Rule 15c3-3 or Exhibit A to Rule 18a- 4, as applicable (see SIFMA 9/5/2014 Letter); and (3) in Lines 24 and 26, “Reserve Bank Account(s)” is replaced with “Reserve Account(s)” for consistency with paragraph (a)(9) of Rule 18a-4, as adopted (see paragraph (a)(9) of Rule 18a-4, as adopted).
-
-		II.B.3.0 Filing of Annual Audited Financial Reports and Other Reports
-
-			II.B.3.a Amendments to Rule 17a-5 and Adoption of Rule 18a-7
-
-		II.B.3.0 the opinions or conclusions to be expressed in the accountant’s reports; and (4) requirements related to matters to which the accountant takes exception. Broker-dealer SBSDs, other than OTCDD/SBSDs, and broker-dealer MSBSPs will be subject to these requirements. The Commission proposed parallel requirements in Rule 18a-7 for stand-alone SBSDs and MSBSPs. The Commission is modifying these requirements to
-
-			II.B.3.b Additional Amendments to Rule 17a-5 and Modifications to Rule 18a-7
-
-	II.C.0.0 Notification
-
-		II.C.1.0 Introduction
-
-		II.C.11.0 Similarly, a broker-dealer SBSD, other than an OTCDD/SBSD, (which is subject to Rule 15c3-1) will be subject to Rule 17a-11. A broker-dealer, including an OTC derivatives dealer, that is also an MSBSP (which is subject to Rule 15c3-1), will be subject to Rule 17a-11. A stand-alone SBSD (which is subject to Rule 18a-1) will be subject to Rule 18a-8. Similarly, an OTCDD/SBSD (which is subject to Rule 18a-1) will be subject to Rule 18a-8. A stand-alone MSBSP (which is subject to Rule 18a-2) will be subject to Rule 18a-8. Finally, a bank SBSD or MSBSP (which has a prudential regulator) will be subject to Rule 18a-8.
-
-		II.C.1.0 Amendments to Rule 17a-11 and New Rule 18a-8
-
-		II.C.2.0 Additional Amendments to Rule 17a-11 and Modifications to Rule 18a-8.
-
-	II.D.0.0 Quarterly Securities Count and Capital Charge for Unresolved Securities Differences
-
-		II.D.1.0 Introduction
-
-		II.D.2.0 Rule 18a-9
-
-	II.E.0.0 Alternative Compliance Mechanisms
-
-		II.E.1.0 Limited Alternative Compliance Mechanism - Rules 17a-3 and 18a-5
-
-		II.E.2.0 Full Alternative Compliance Mechanism - Rule 18a-10
-
-	II.F.0.0 Cross-Border Application and Availability of Substituted Compliance
-
-		II.F.1.0 Cross-Border Application of Recordkeeping and Reporting Requirements
-
-		II.F.2.0 Availability of Substituted Compliance in Connection with Recordkeeping and Reporting Requirements
-
-			II.F.2.a Existing Substituted Compliance Rule
-
-			II.F.2.b Amendments to Final Rule
-
-	II.G.0.0 Amendments to Rule 18a-1
-
-	II.H.0.0 Delegation of Authority
-
-III.0.0.0 EXPLANATION OF DATES
-
-	III.A.0.0 Effective Date
-
-	III.B.0.0 Compliance Date
-
-	III.C.0.0 Effect on Existing Commission Exemptive Relief
-
-	III.D.0.0 Application to Substituted Compliance
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-	IV.A.0.0 Summary of Collections of Information under the Rule Amendments and New Rules
-
-		IV.A.1.0 Amendments to Rule 17a-3 and New Rule 18a-5
-
-		IV.A.2.0 Amendments to Rule 17a-4 and New Rule 18a-6
-
-		IV.A.3.0 Amendments to Rule 17a-5 and New Rule 18a-7
-
-		IV.A.4.0 Amendments to Rule 17a-11 and New Rule 18a-8
-
-		IV.A.5.0 Amendments to Rule 17a-12
-
-		IV.A.6.0 New Rule 18a-9
-
-		IV.A.7.0 Amendments to Rule 18a-10
-
-		IV.A.8.0 Amendments to Rule 3a71-6
-
-	IV.B.0.0 Use of Information
-
-	IV.C.0.0 Respondents
-
-	IV.D.0.0 Total Initial and Annual Recordkeeping and Reporting Burden
-
-		IV.D.1.0 Amendments to Rule 17a-3 and New Rule 18a-5
-
-		IV.D.2.0 Amendments to Rule 17a-4 and New Rule 18a-6
-
-		IV.D.3.0 Amendments to Rule 17a-5 and New Rule 18a-7
-
-		IV.D.4.0 Amendments to Rule 17a-11 and New Rule 18a-8
-
-		IV.D.3.0 Given the similarity of this new requirement to the current requirements of Rule 17a-11, the Commission estimates that each required notice will take one hour to prepare and file. Based on Commission experience with the number of notices filed under current Rule 17a-11, the Commission estimates that 100 notices will
-
-		IV.D.1.0 Amendments to Rule 17a-12
-
-		IV.D.2.0 New Rule 18a-9
-
-		IV.D.3.0 Amendments to Rule 18a-10
-
-		IV.D.4.0 Amendments to Rule 3a71-6
-
-	IV.E.0.0 Collection of Information Is Mandatory
-
-	IV.F.0.0 Confidentiality
-
-	IV.G.0.0 Retention Period for Recordkeeping Requirements
-
-V.0.0.0 ECONOMIC ANALYSIS
-
-	V.A.0.0 Introduction
-
-	V.B.0.0 Baseline of Economic Analysis
-
-		V.B.1.0 Available Data from the Security-Based Swap Market
-
-		V.B.2.0 Security-Based Swap Market: Market Participants and Activity
-
-			V.B.2.a Security-Based Swap Dealers
-
-			V.B.2.b Security-Based Swap Market Activity
-
-			V.B.2.c Participation of Banks and Broker-Dealers
-
-		V.B.3.0 Existing Regulation of OTC Derivatives Market Participants and Broker-Dealers
-
-			V.B.3.a Stand-alone SBSDs and MSBSPs
-
-			V.B.3.b Bank SBSDs and MSBSPs
-
-			V.B.3.c Broker-Dealers, SBSD Broker-Dealers, and MSBSP Broker-Dealers
-
-			V.B.3.a Periodic Reports
-
-			V.B.3.b Annual Audited Reports and Related Notifications
-
-			V.B.3.c Customer Statements
-
-			V.B.3.d Additional ANC Broker-Dealer Reports
-
-			V.B.3.a Failure to Meet Minimum Capital Requirements
-
-			V.B.3.b Early Warning of Potential Capital or Model Problem
-
-			V.B.3.c Failure to Make and Keep Current Books and Records
-
-			V.B.3.d Material Weakness
-
-			V.B.3.e Failure to Make a Required Reserve Deposit
-
-		V.B.4.0 Regulation SBSR
-
-		V.B.5.0 Global Regulatory Efforts
-
-	V.C.0.0 Analysis of the Adopted Program and Alternatives
-
-		V.C.1.0 Benefits of Recordkeeping, Reporting, Notification, and Securities Count Requirements
-
-			V.C.1.a Requirements to Make and Keep Records
-
-			V.C.1.b Requirements to Preserve Records
-
-			V.C.1.c Reporting
-
-			V.C.1.d Notification Requirements
-
-			V.C.1.e Quarterly Securities Count Requirement for Stand-Alone SBSDs (New Rule 18a-9)
-
-		V.C.2.0 Costs of the Recordkeeping, Reporting, Notification, and Securities Count Requirements
-
-			V.C.2.a Requirements to Make and Keep Records:
-
-			V.C.2.b Requirements to Preserve Records
-
-		V.C.1.0 of this release (PRA estimate of the total initial and annual recordkeeping and reporting burden for Rule 18a-5, as adopted).
-
-			V.C.1.c Reporting Requirements
-
-		V.C.2.0 of this release (PRA estimate of the total initial and annual recordkeeping and reporting burden for amendments to Rule 17a-4, as amended).
-
-			V.C.2.d Notification Requirements
-
-			V.C.2.e Quarterly Securities Count Requirement (New Rule 18a-9)
-
-		V.C.3.0 Economic Effects of the Approach to Recordkeeping, Reporting, Notification, and Securities Count Requirements
-
-		V.C.4.0 Cross-Border Application and Substituted Compliance
-
-	V.D.0.0 Impact on Efficiency, Competition, and Capital Formation
-
-	V.E.0.0 Alternatives to the Adopted Recordkeeping, Reporting, Notification, and Securities Count Rules
-
-VI.0.0.0 OTHER MATTERS
-
-VII.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-VIII.0.0.0 STATUTORY BASIS
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 200, 240, and 249
@@ -762,9 +526,7 @@ The Commission proposed amendments to paragraph (b)(8) of Rule 17a-4 that would 
 
 The Commission proposed amendments to paragraph (h) of Rule 17a-4 that would add, after the phrase “Rule G-9 of the Municipal Securities Rulemaking Board,” the phrase “or any successor rule” to address the possibility of a future change in how the MSRB’s rules are designated.
 
-The Commission received no comments on these proposed amendments and is adopting them substantially as proposed, with the modification discussed above about retaining references to “members.” <sup>234</sup> The Commission is also making certain non-substantive modifications to Rule 18a-6 as proposed in addition to those discussed above. <sup>235</sup>
-
-<h>2. removing “on the schedule” in paragraph (b)(8)(xiii) for clarity; (3) removing “or Form SBS” in paragraph (b)(8)(xiii) as it is no longer applicable; (4) adding “security-based swap” before the phrase “possession or control requirements” in paragraph (b)(8)(xiv) for clarity; (5) correcting references from § 240.18a-4 to § 240.15c3-3 in paragraph (b)(8)(xiv); (6) replacing “on Form SBS” with “in Part II of Form X-17A-5”; and (7) replacing “;” with “,” in paragraphs (b)(14) and (15) for internal consistency.</h>
+The Commission received no comments on these proposed amendments and is adopting them substantially as proposed, with the modification discussed above about retaining references to “members.” <sup>234</sup> The Commission is also making certain non-substantive modifications to Rule 18a-6 as proposed in addition to those discussed above. <sup>235</sup> (2) removing “on the schedule” in paragraph (b)(8)(xiii) for clarity; (3) removing “or Form SBS” in paragraph (b)(8)(xiii) as it is no longer applicable; (4) adding “security-based swap” before the phrase “possession or control requirements” in paragraph (b)(8)(xiv) for clarity; (5) correcting references from § 240.18a-4 to § 240.15c3-3 in paragraph (b)(8)(xiv); (6) replacing “on Form SBS” with “in Part II of Form X-17A-5”; and (7) replacing “;” with “,” in paragraphs (b)(14) and (15) for internal consistency.
 
 <h>B. Reporting</h>
 
@@ -850,9 +612,7 @@ Establishing unique lines to report this information will avoid firms reporting 
 
 Computation of Net Capital
 
-The Pre-Amendment FOCUS Reports have a Computation of Net Capital section. Proposed Form SBS included two sections: one to be completed by SBSDs authorized to use internal models to compute net capital
-
-<h>3. an obsolete accounting reference is updated globally (including on Line 15E, which was proposed as Line 14E) to accurately reflect “ASC 860” instead of “SFAS 140”; and (4) the instructions are updated to reflect the changes discussed in this section.under the proposed capital requirements and the other to be completed by filers not authorized to use internal models for this purpose. <sup>283</sup> The Commission has adopted capital requirements for nonbank SBSDs under which certain firms may be authorized to use internal models to compute net capital. <sup>284</sup></h>
+The Pre-Amendment FOCUS Reports have a Computation of Net Capital section. Proposed Form SBS included two sections: one to be completed by SBSDs authorized to use internal models to compute net capital under the proposed capital requirements and the other to be completed by filers not authorized to use internal models for this purpose. <sup>283</sup> The Commission has adopted capital requirements for nonbank SBSDs under which certain firms may be authorized to use internal models to compute net capital. <sup>284</sup>
 
 The Computation of Net Capital section for filers authorized to use models was largely modeled on the parallel section in Pre-Amendment FOCUS Report Part II CSE. The section in proposed Form SBS had a line for filers to report their contractual securities commitments because this line appeared on the Computation of Net Capital section in Pre-Amendment FOCUS Report Part II. <sup>285</sup> However, this line item does not apply to filers authorized to use models and is removing it from the section. <sup>286</sup>
 
@@ -902,9 +662,7 @@ In 2013, the Commission amended Rule 15c3-3 to establish PAB reserve bank accoun
 
 Claiming an Exemption from Rule 15c3-3
 
-Pre-Amendment FOCUS Report Part II has a section for broker-dealers claiming an exemption from Rule 15c3-3 to identify the paragraph of the rule upon which the firm’s exemption is based. Proposed Form SBS had a similar section modeled on the parallel section in Pre-Amendment FOCUS Report Part II. <sup>316</sup> The Commission received no comment on this section of proposed Form SBS and is adopting it by retaining the parallel section in FOCUS Report Part II, as amended, with non-substantive changes for clarity and accuracy. <sup>317</sup> This section must be completed by stand-alone broker-dealers and broker-dealer SBSDs and MSBSPs claiming
-
-<h>1. The instruction to “check one only” is replaced with “check all that apply” as a firm can claim more than one exemption from Rule 15c3-3; (2) the incorrect references to paragraphs “(k)(2)(A)” and “(k)(2)(B)” of Rule 15c3-3 are replaced with correct references to paragraphs (k)(2)(i) and (ii) of Rule 15c3-3; and (3) due to the inadvertent omission of instructions regarding this section, the instructions to FOCUS Report Part II, as amended, are updated to direct stand-alone broker- dealers, broker-dealer SBSDs, and broker-dealer MSBSPs that are claiming an exemption from Rule 15c3-3 to complete this section.an exemption from Rule 15c3-3.</h>
+Pre-Amendment FOCUS Report Part II has a section for broker-dealers claiming an exemption from Rule 15c3-3 to identify the paragraph of the rule upon which the firm’s exemption is based. Proposed Form SBS had a similar section modeled on the parallel section in Pre-Amendment FOCUS Report Part II. <sup>316</sup> The Commission received no comment on this section of proposed Form SBS and is adopting it by retaining the parallel section in FOCUS Report Part II, as amended, with non-substantive changes for clarity and accuracy. <sup>317</sup> This section must be completed by stand-alone broker-dealers and broker-dealer SBSDs and MSBSPs claiming an exemption from Rule 15c3-3.
 
 Computation for Determination of Security-Based Swap Customer Reserve Requirements
 
@@ -912,9 +670,7 @@ The Commission’s proposed segregation requirements for SBSDs in Rule 18a-4 req
 
 Possession or Control for Security-Based Swap Customers
 
-The Commission’s proposed segregation requirements for SBSDs in Rule 18a-4 required them to
-
-<h>2. the parenthetical “(See Note A)” is added to Line 1 for consistency with Line 1 of the Computation for Determination of Customer Reserve Requirements section in revised FOCUS Report Part II, and in response to commenters, the section includes a clarification that the notes referenced in this section appear in Exhibit B to Rule 15c3-3 or Exhibit A to Rule 18a- 4, as applicable (see SIFMA 9/5/2014 Letter); and (3) in Lines 24 and 26, “Reserve Bank Account(s)” is replaced with “Reserve Account(s)” for consistency with paragraph (a)(9) of Rule 18a-4, as adopted (see paragraph (a)(9) of Rule 18a-4, as adopted).maintain possession or control over excess security collateral. <sup>322</sup> Accordingly, proposed Form SBS had a section titled “Information for Possession or Control Requirements Under Rule 18a-4” that elicits detail about excess securities collateral kept in possession or control for customers under proposed Rule 18a-4. <sup>323</sup> The Commission received no comment on this section of proposed Form SBS. However, the final segregation rules codified the security-based swap reserve account requirements in: (1) Rule 15c3-3 to apply to stand-alone broker-dealers and broker-dealer SBSDs and MSBSPs; and (2) Rule 18a-4 to apply to stand-alone SBSDs. <sup>324</sup> Consequently, the Commission is adopting the section in proposed Form SBS by adding it to FOCUS Report Part II, as amended, with non-substantive changes for consistency internally and with Rules 15c3-3 and 18a-4. <sup>325</sup> The modifications also include an instruction that the section must be completed by stand-alone broker- dealers in addition to broker-dealer SBSDs and MSBSPs.</h>
+The Commission’s proposed segregation requirements for SBSDs in Rule 18a-4 required them to maintain possession or control over excess security collateral. <sup>322</sup> Accordingly, proposed Form SBS had a section titled “Information for Possession or Control Requirements Under Rule 18a-4” that elicits detail about excess securities collateral kept in possession or control for customers under proposed Rule 18a-4. <sup>323</sup> The Commission received no comment on this section of proposed Form SBS. However, the final segregation rules codified the security-based swap reserve account requirements in: (1) Rule 15c3-3 to apply to stand-alone broker-dealers and broker-dealer SBSDs and MSBSPs; and (2) Rule 18a-4 to apply to stand-alone SBSDs. <sup>324</sup> Consequently, the Commission is adopting the section in proposed Form SBS by adding it to FOCUS Report Part II, as amended, with non-substantive changes for consistency internally and with Rules 15c3-3 and 18a-4. <sup>325</sup> The modifications also include an instruction that the section must be completed by stand-alone broker- dealers in addition to broker-dealer SBSDs and MSBSPs.
 
 Claiming an Exemption from Rule 18a-4
 
@@ -1082,9 +838,7 @@ The Commission proposed parallel notification requirements in Rule 18a-7 for sta
 
 Reports of the Independent Public Accountant
 
-Paragraph (i) of Rule 17a-5 prescribes requirements for the reports of the independent public accountant covering the broker-dealer’s annual reports, including: (1) technical requirements; (2) required representations;
-
-<h>3. the opinions or conclusions to be expressed in the accountant’s reports; and (4) requirements related to matters to which the accountant takes exception. Broker-dealer SBSDs, other than OTCDD/SBSDs, and broker-dealer MSBSPs will be subject to these requirements. The Commission proposed parallel requirements in Rule 18a-7 for stand-alone SBSDs and MSBSPs. The Commission is modifying these requirements toconform them to the modifications discussed above pursuant to which a stand-alone SBSD or MSBSP as well as an OTCDD/SBSD also registered as an OTC derivatives dealer may engage an independent public accountant that is not registered with the PCAOB and the accountant may use GAAS in the United States or PCAOB standards. The Commission received no other comments related to these proposed requirements regarding reports of the independent accountant and is adopting them as proposed. <sup>415</sup></h>
+Paragraph (i) of Rule 17a-5 prescribes requirements for the reports of the independent public accountant covering the broker-dealer’s annual reports, including: (1) technical requirements; (2) required representations; (3) the opinions or conclusions to be expressed in the accountant’s reports; and (4) requirements related to matters to which the accountant takes exception. Broker-dealer SBSDs, other than OTCDD/SBSDs, and broker-dealer MSBSPs will be subject to these requirements. The Commission proposed parallel requirements in Rule 18a-7 for stand-alone SBSDs and MSBSPs. The Commission is modifying these requirements toconform them to the modifications discussed above pursuant to which a stand-alone SBSD or MSBSP as well as an OTCDD/SBSD also registered as an OTC derivatives dealer may engage an independent public accountant that is not registered with the PCAOB and the accountant may use GAAS in the United States or PCAOB standards. The Commission received no other comments related to these proposed requirements regarding reports of the independent accountant and is adopting them as proposed. <sup>415</sup>
 
 Notification of Change of Fiscal Year
 
@@ -1110,9 +864,7 @@ The Commission also made additional modifications to the text of Rule 18a-7 as p
 
 After considering the anticipated business activities of SBSDs and MSBSPs, the Commission proposeda notification program for these registrants under Sections 15F and 17(a) of the Exchange Act modeled on the notification program for broker-dealers codified in Rule 17a-11. Rule 17a-11 specifies the circumstances under which a broker-dealer must notify the Commission and other regulators about its financial or operational condition, as well as the form of the notice. Rule 17a-11 is being amended to account for the security-based swap activities of entities subject to its requirements and new Rule 18a-8 – which is modeled on Rule 17a-11 – is being adopted to establish reporting requirements for SBSDs and MSBSPs that will not be subject to Rule 17a-11. Rule 18a-8 does not include a parallel requirement for every requirement in Rule 17a-11. <sup>425</sup>
 
-As is the case with Rules 17a-5 and 18a-7, the applicability of Rule 17a-11 or 18a-8 will depend on whether the firm is subject to the capital requirements of Rule 15c3-1 (in which case Rule 17a-5 will apply), is subject to the capital requirements of Rules 18a-1 or 18a-2 (in which case Rule 18a-7 will apply), or has a prudential regulator (in which case Rule 18a-7 will apply). <sup>426</sup> Therefore, a stand-alone broker-dealer, including a stand-alone OTC derivatives dealer, (which is subject to Rule 15c3-1) will continue to be subject to Rule 17a-
-
-<h>11. Similarly, a broker-dealer SBSD, other than an OTCDD/SBSD, (which is subject to Rule 15c3-1) will be subject to Rule 17a-11. A broker-dealer, including an OTC derivatives dealer, that is also an MSBSP (which is subject to Rule 15c3-1), will be subject to Rule 17a-11. A stand-alone SBSD (which is subject to Rule 18a-1) will be subject to Rule 18a-8. Similarly, an OTCDD/SBSD (which is subject to Rule 18a-1) will be subject to Rule 18a-8. A stand-alone MSBSP (which is subject to Rule 18a-2) will be subject to Rule 18a-8. Finally, a bank SBSD or MSBSP (which has a prudential regulator) will be subject to Rule 18a-8.</h>
+As is the case with Rules 17a-5 and 18a-7, the applicability of Rule 17a-11 or 18a-8 will depend on whether the firm is subject to the capital requirements of Rule 15c3-1 (in which case Rule 17a-5 will apply), is subject to the capital requirements of Rules 18a-1 or 18a-2 (in which case Rule 18a-7 will apply), or has a prudential regulator (in which case Rule 18a-7 will apply). <sup>426</sup> Therefore, a stand-alone broker-dealer, including a stand-alone OTC derivatives dealer, (which is subject to Rule 15c3-1) will continue to be subject to Rule 17a-11. Similarly, a broker-dealer SBSD, other than an OTCDD/SBSD, (which is subject to Rule 15c3-1) will be subject to Rule 17a-11. A broker-dealer, including an OTC derivatives dealer, that is also an MSBSP (which is subject to Rule 15c3-1), will be subject to Rule 17a-11. A stand-alone SBSD (which is subject to Rule 18a-1) will be subject to Rule 18a-8. Similarly, an OTCDD/SBSD (which is subject to Rule 18a-1) will be subject to Rule 18a-8. A stand-alone MSBSP (which is subject to Rule 18a-2) will be subject to Rule 18a-8. Finally, a bank SBSD or MSBSP (which has a prudential regulator) will be subject to Rule 18a-8.
 
 <h>1. Amendments to Rule 17a-11 and New Rule 18a-8</h>
 
@@ -1598,9 +1350,7 @@ The Commission estimates that new Rule 18a-8 will impose an annual burden of 4.6
 
 Estimated Hours and Costs of Amendments to Rule 17a-11
 
-The Commission is adopting paragraph (f) to Rule 17a-11, which will require broker-dealers engaged in security-based swap activities to notify the Commission if they fail to make a deposit required under paragraph(p) of Rule 15c3-3. <sup>772</sup> Because the burden to calculate the reserve amount is already accounted for in the PRAestimate for Rule 15c3-3, <sup>773</sup> the burden imposed by paragraph (f) of Rule 17a-11, as amended, is the requirement to notify the Commission when the firm fails to act in accordance with paragraph (p) of Rule 15c3-
-
-<h>3. Given the similarity of this new requirement to the current requirements of Rule 17a-11, the Commission estimates that each required notice will take one hour to prepare and file. Based on Commission experience with the number of notices filed under current Rule 17a-11, the Commission estimates that 100 notices willbe filed each year under paragraph (f) of Rule 17a-11, as amended, resulting in an industry-wide ongoing burden of 100 hours per year. <sup>776</sup></h>
+The Commission is adopting paragraph (f) to Rule 17a-11, which will require broker-dealers engaged in security-based swap activities to notify the Commission if they fail to make a deposit required under paragraph(p) of Rule 15c3-3. <sup>772</sup> Because the burden to calculate the reserve amount is already accounted for in the PRAestimate for Rule 15c3-3, <sup>773</sup> the burden imposed by paragraph (f) of Rule 17a-11, as amended, is the requirement to notify the Commission when the firm fails to act in accordance with paragraph (p) of Rule 15c3-3. Given the similarity of this new requirement to the current requirements of Rule 17a-11, the Commission estimates that each required notice will take one hour to prepare and file. Based on Commission experience with the number of notices filed under current Rule 17a-11, the Commission estimates that 100 notices willbe filed each year under paragraph (f) of Rule 17a-11, as amended, resulting in an industry-wide ongoing burden of 100 hours per year. <sup>776</sup>
 
 The Commission is redesignating current paragraph (f) of Rule 17a-11 as paragraph (g) and requiring a broker-dealer’s national securities exchange or national securities association to notify the Commission if it learns that the broker-dealer failed to provide a notice required under any paragraph of Rule 17a-11 (instead of just paragraphs (b) through (e) of Rule 17a-11 as it currently requires). <sup>777</sup> Thus, these entities will be subject to new burdens to file a delinquent broker-dealer’s notices under new paragraph (f) (failure to deposit in Rule 15c3-3(p) account). After considering the similar preexisting Rule 17a-11 requirement, the Commission estimates that each required notice will take one hour to prepare and file. <sup>778</sup> Based on Commission experience with the number of notices currently filed by these entities, the Commission estimates that five notices will be filed pursuant to the amendment to paragraph (g) of Rule 17a-11, as amended, resulting in an estimated industry-wide ongoing burden of five hours per year. <sup>779</sup>
 
@@ -2020,7 +1770,7 @@ Additionally, the Commission has attempted to reduce compliance burdens and to a
 
 B roker-Dealer SBSDs, Broker-Dealer MSBSPs, and Stand-Alone Broker-Dealers (Amendments to Rule 17a-4)
 
-<h>1. of this release (PRA estimate of the total initial and annual recordkeeping and reporting burden for Rule 18a-5, as adopted).</h>
+1. of this release (PRA estimate of the total initial and annual recordkeeping and reporting burden for Rule 18a-5, as adopted).
 
 The Commission estimates that the amendments to Rule 17a-4 will result in a total initial industry cost of $1,338,896 to broker-dealers. <sup>946</sup> On an ongoing annual basis, the Commission estimates that the amendments to Rule 17a-4 will result in $164,704 in industry costs to broker-dealers. <sup>947</sup>
 
@@ -2034,7 +1784,7 @@ B roker-Dealer SBSDs, Broker-Dealer MSBSPs, and Stand-Alone Broker-Dealers (Amen
 
 The Commission anticipates that there may be additional costs associated with stand-alone broker dealers, broker-dealer SBSDs or broker-dealer MSBSPs completing and filing the annual reports required under paragraph (d) of Rule 17a-5, as amended. For example, the amendments will increase the cost of completing the annual compliance report filed by a broker-dealer SBSD because the compliance report for such firms will include statements about the firms’ compliance with Rule 18a-4, the customer segregation rule that will apply to broker-dealer SBSDs. <sup>950</sup> Similarly, an ANC broker-dealer that currently files FOCUS Report Part II CSE and that registers with the Commission as an SBSD or MSBSP will experience a marginal impact on its reporting$314 per hour figure for a senior database administrator is from SIFMA’s Management & Professional Earnings in the Securities Industry 2012 , as modified by Commission staff to account for a 1,800-hour work-year and multiplied by 5.35 to account for bonuses, firm size, employee benefits, and overhead.
 
-<h>2. of this release (PRA estimate of the total initial and annual recordkeeping and reporting burden for amendments to Rule 17a-4, as amended).obligations due to new line items and schedules tailored to specifically elicit details about security-based swap activities. <sup>951</sup></h>
+2. of this release (PRA estimate of the total initial and annual recordkeeping and reporting burden for amendments to Rule 17a-4, as amended).obligations due to new line items and schedules tailored to specifically elicit details about security-based swap activities. <sup>951</sup>
 
 The Commission also anticipates that the cost of auditing the annual reports filed by stand-alone broker- dealers, broker-dealer SBSDs and MSBSPs will rise. <sup>952</sup> Currently, and as described in more detail above, broker-dealers are required to engage a PCAOB-registered independent public accountant to conduct an annual audit of their annual reports. <sup>953</sup> The Commission believes the additional required components of the financial report and the compliance report will increase the costs of ongoing compliance as well as those of the annual audit for these entities.
 
@@ -2750,7 +2500,7 @@ For the foregoing reasons, the Commission certifies that the amendments to Rules
 
 281 See FOCUS Report Part II, as amended, Schedule 1 – Aggregate Securities, Commodities, and Swaps Positions.
 
-282 See FOCUS Report Part II, as amended, Statement of Financial Condition. The following non-substantive changes are being made: (1) a line item is added for firms to report non-allowable cash (e.g., petty or restricted cash); (2) the note on the second page of the Statement of Financial Condition clarifies that “Stand-alone MSBSPs should only complete the Allowable and Total columns” (emphasis added); this sentence is also added to the instructions for the Statement of Financial Condition;
+282 See FOCUS Report Part II, as amended, Statement of Financial Condition. The following non-substantive changes are being made: (1) a line item is added for firms to report non-allowable cash (e.g., petty or restricted cash); (2) the note on the second page of the Statement of Financial Condition clarifies that “Stand-alone MSBSPs should only complete the Allowable and Total columns” (emphasis added); this sentence is also added to the instructions for the Statement of Financial Condition; (3). an obsolete accounting reference is updated globally (including on Line 15E, which was proposed as Line 14E) to accurately reflect “ASC 860” instead of “SFAS 140”; and (4) the instructions are updated to reflect the changes discussed in this section.
 
 283 See Recordkeeping and Reporting Proposing Release, 79 FR at 25227-28.
 
@@ -2820,7 +2570,7 @@ For the foregoing reasons, the Commission certifies that the amendments to Rules
 
 316 See Recordkeeping and Reporting Proposing Release, 79 FR at 25226.
 
-317 See FOCUS Report Part II, as amended, Claiming an Exemption from Rule 15c3-3. The following changes are being made:
+317 See FOCUS Report Part II, as amended, Claiming an Exemption from Rule 15c3-3. The following changes are being made: (1) The instruction to “check one only” is replaced with “check all that apply” as a firm can claim more than one exemption from Rule 15c3-3; (2) the incorrect references to paragraphs “(k)(2)(A)” and “(k)(2)(B)” of Rule 15c3-3 are replaced with correct references to paragraphs (k)(2)(i) and (ii) of Rule 15c3-3; and (3) due to the inadvertent omission of instructions regarding this section, the instructions to FOCUS Report Part II, as amended, are updated to direct stand-alone broker- dealers, broker-dealer SBSDs, and broker-dealer MSBSPs that are claiming an exemption from Rule 15c3-3 to complete this section.
 
 318 See Capital, Margin, and Segregation Proposing Release, 77 FR at 70282-87.
 
@@ -2828,7 +2578,7 @@ For the foregoing reasons, the Commission certifies that the amendments to Rules
 
 320 See Capital, Margin, and Segregation Adopting Release, 84 FR at 43930-43.
 
-321 See FOCUS Report Part II, as amended, Computation for Determination of Security-Based Swap Customer Reserve Requirements. The following changes are being made: (1) references to Rule 18a-4 are removed from the section’s title, line items, and instructions to accurately reflect that the security-based swap customer reserve requirement adopted by the Commission is located in Rules 15c3-3 and 18a-4 (instead of solely in Rule 18a-4 as initially proposed by the Commission);
+321 See FOCUS Report Part II, as amended, Computation for Determination of Security-Based Swap Customer Reserve Requirements. The following changes are being made: (1) references to Rule 18a-4 are removed from the section’s title, line items, and instructions to accurately reflect that the security-based swap customer reserve requirement adopted by the Commission is located in Rules 15c3-3 and 18a-4 (instead of solely in Rule 18a-4 as initially proposed by the Commission); (2) the parenthetical “(See Note A)” is added to Line 1 for consistency with Line 1 of the Computation for Determination of Customer Reserve Requirements section in revised FOCUS Report Part II, and in response to commenters, the section includes a clarification that the notes referenced in this section appear in Exhibit B to Rule 15c3-3 or Exhibit A to Rule 18a- 4, as applicable (see SIFMA 9/5/2014 Letter); and (3) in Lines 24 and 26, “Reserve Bank Account(s)” is replaced with “Reserve Account(s)” for consistency with paragraph (a)(9) of Rule 18a-4, as adopted (see paragraph (a)(9) of Rule 18a-4, as adopted).
 
 322 See Capital, Margin, and Segregation Proposing Release, 77 FR at 70278-82.
 

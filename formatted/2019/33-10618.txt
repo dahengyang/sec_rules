@@ -1,213 +1,3 @@
-https://www.sec.gov/rules/final/2019/33-10618.pdf
-
-I.0.0.0 INTRODUCTION
-
-II.0.0.0 FINAL AMENDMENTS
-
-	II.A.0.0 Adoption of Proposals with Modifications
-
-		II.A.1.0 Management’s Discussion and Analysis of Financial Condition and Results of Operations (Item 303)
-
-			II.A.1.a Year-to-Year Comparisons (Instruction 1 to Item 303(a))
-
-			II.A.1.b Application to Foreign Private Issuers
-
-		II.A.2.0 Redaction of Confidential Information in Material Contract Exhibits
-
-			II.A.2.a Proposed Amendment
-
-			II.A.2.b Comments
-
-			II.A.2.c Final Amendment
-
-		II.A.3.0 Financial Statements: Incorporation by Reference and Cross-Reference of Information
-
-			II.A.3.a Proposed Amendments
-
-			II.A.3.b Comments
-
-			II.A.3.c Final Amendments
-
-	II.B.0.0 Adoption of Amendments as Proposed
-
-		II.B.1.0 Description of Property (Item 102)
-
-			II.B.1.a Proposed Amendments
-
-			II.B.1.b Comments
-
-			II.B.1.c Final Amendment
-
-		II.B.2.0 Management, Security Holders, and Corporate Governance
-
-			II.B.2.a Amendment to Item 401 of Regulation S-K (Directors, Executive Officers, Promoters, and Control Persons)
-
-			II.B.2.b Compliance with Section 16(a) of the Exchange Act (Item 405)
-
-		II.B.3.0 Corporate Governance (Item 407)
-
-			II.B.3.a Audit Committee Discussions with Independent Auditor (Item 407(d)(3)(i)(B))
-
-			II.B.3.b Compensation Committee Report (Item 407(e)(5))
-
-		II.B.4.0 Registration Statement and Prospectus Provisions
-
-			II.B.4.a Outside Front Cover Page of the Prospectus (Item 501(b))
-
-			II.B.4.b Risk Factors (Item 503(c))
-
-			II.B.4.c Plan of Distribution (Item 508)
-
-			II.B.4.d Undertakings (Item 512)
-
-		II.B.5.0 Exhibits
-
-			II.B.5.a Description of Registrant’s Securities (Item 601(b)(4))
-
-			II.B.5.b Additional Information Omitted From Exhibits (Item 601 and Investment Company Forms)
-
-			II.B.5.c Material Contracts (Item 601(b)(10)(i))
-
-			II.B.5.d Application to Foreign Private Issuers
-
-		II.B.6.0 Incorporation by Reference
-
-			II.B.6.a Item 10(d)
-
-			II.B.6.b Securities Act Rule 411, Exchange Act Rule 12b-23 and Rule 12b-32, and Related Rules under the Investment Company Act and Investment Advisers Act
-
-		II.B.7.0 Manner of Delivery
-
-			II.B.7.a Tagging Cover Page Data
-
-			II.B.7.b Exhibit Hyperlinks and HTML Format for Investment Companies
-
-	II.C.0.0 Proposed Amendments Not Being Adopted
-
-		II.C.1.0 Forms – Captions and Item Numbers
-
-		II.C.2.0 Subsidiaries of the Registrant and Entity Identifiers
-
-	II.D.0.0 Removal of Outdated Requirement
-
-III.0.0.0 OTHER MATTERS
-
-IV.0.0.0 TRANSITION MATTERS
-
-V.0.0.0 COMPLIANCE DATES
-
-	V.A.0.0 Tagging of Cover Page Data
-
-	V.B.0.0 Hyperlinks and HTML Format for Investment Companies
-
-VI.0.0.0 ECONOMIC ANALYSIS
-
-	VI.A.0.0 Baseline
-
-	VI.B.0.0 Economic Analysis of the Amendments: General Assessment, Including Impact on Efficiency, Competition, and Capital Formation
-
-	VI.C.0.0 Economic Analysis of the Specific Amendments: Amendments that Clarify, Streamline, or Update Existing Rules
-
-		VI.C.1.0 Amendments that Clarify or Streamline a Rule’s Requirements
-
-			VI.C.1.a Description of Property (Item 102)
-
-			VI.C.1.b Management’s Discussion and Analysis of Financial Condition and Results of Operations (Item 303 and Item 5 of Form 20-F)
-
-		VI.C.1.0 below, we discuss amendments to the content of MD&A. Instruction 1 to Item 303(a) provides that, generally, MD&A shall cover the three-year period covered by the financial statements and either use year-to-year comparisons or any other formats that in the registrant’s judgment would enhance a reader’s understanding. Additionally, the instruction states that
-
-			VI.C.1.c Risk Factors (Item 503(c))
-
-			VI.C.1.d Plan of Distribution (Item 508)
-
-			VI.C.1.e Material Contracts (Item 601(b)(10))
-
-			VI.C.1.f Amendments with a Minor or No Effect on Disclosure
-
-		VI.C.2.0 Amendments to Update Rules to Account for Subsequent Developments
-
-	VI.D.0.0 Economic Analysis of the Specific Amendments: Amendments that Simplify the Disclosure Process or Eliminate Disclosures
-
-		VI.D.1.0 Management’s Discussion and Analysis (Item 303 and Item 5 of Form 20-F)
-
-		VI.D.2.0 Information Omitted from Exhibits
-
-		VI.D.2.0 will eliminate the costs associated with preparing confidential treatment requests, except for cases when Commission staff asks the registrant to provide an analysis of why the redacted information is immaterial and would likely cause the registrant competitive harm if publicly disclosed.
-
-	VI.E.0.0 Economic Analysis of the Specific Amendments: Amendments that Require More Disclosure or the Incorporation of New Technology
-
-		VI.E.1.0 Description of Registrant’s Securities (Item 601(b)(4))
-
-		VI.E.2.0 Tagging Cover Page Data
-
-		VI.E.3.0 Amendments for Additional Disclosure with Minimal Additional Costs to Registrants
-
-	VI.F.0.0 Economic Analysis of HTML and Hyperlinking Requirements of Forms under the Investment Company Act
-
-VII.0.0.0 PAPERWORK REDUCTION ACT
-
-	VII.A.0.0 Background
-
-	VII.B.0.0 Summary of Comment Letters and Revisions to PRA Estimates
-
-	VII.C.0.0 Summary of the Amendments’ Impact on Collections of Information
-
-		VII.C.1.0 Amendments Expected to Decrease Burdens
-
-			VII.C.1.a Description of Property (Item 102)
-
-			VII.C.1.b Management’s Discussion and Analysis (Item 303 of S-K and Item 5 of Form 20-F)
-
-			VII.C.1.c Directors, Executive Officers, Promoters and Control Persons (Item 401, Item 405 and Item 407)
-
-			VII.C.1.d Exhibits
-
-		VII.C.1.0 Confidential Information in Material Contracts
-
-		VII.C.2.0 Schedules and Attachments to Exhibits
-
-		VII.C.3.0 Personally Identifiable Information
-
-		VII.C.2.0 Amendments Expected to Increase Burdens
-
-			VII.C.2.a Registration Statement and Prospectus Provisions (Item 501(b))
-
-			VII.C.2.b Exhibits (Item 601(b)(4)(vi))
-
-			VII.C.2.c Manner of Delivery
-
-		VII.C.3.0 Amendments Not Expected to Meaningfully Affect Burdens
-
-			VII.C.3.a Registration Statement and Prospectus Provisions (Item 501(b), Item 503(c), Item 508 and Item 512)
-
-			VII.C.3.b Incorporation by Reference
-
-	VII.D.0.0 Burden and Cost Estimates to the Amendments
-
-		VII.D.1.0 Form 10-K and Form 10-Q; Schedule 14A and Schedule 14C
-
-		VII.D.2.0 Form S-1, Form S-3, Form S-4, Form F-3, Form F-4, Form SF-1, Form SF-3, Form 10, and Form 20-F
-
-		VII.D.3.0 Form 8-A, Form 10-D, Form 40-F, Form F-7, Form F-8, Form F-10, and Form F-80
-
-		VII.D.4.0 Form S-6, Form N-1A, Form N-2, Form N-3, Form N-4, Form N-5, Form N-6, Form N-14, Form N-8B-2, and Form N-CSR
-
-VIII.0.0.0 FINAL REGULATORY FLEXIBILITY ACT ANALYSIS
-
-	VIII.A.0.0 Need for, and Objectives of, the Amendments
-
-	VIII.B.0.0 Significant Issues Raised by Public Comments
-
-	VIII.C.0.0 Small Entities Subject to the Amendments
-
-	VIII.D.0.0 Projected Reporting, Recordkeeping, and Other Compliance Requirements
-
-X.0.0.0 Li, Characteristics of a firm’s information environment and the information asymmetry between insiders and outsiders, 37 J. ACCT. ECON. 229, 229-259 (June 2004). See also L. Cheng, S. Liao, and H. Zhang, The Commitment Effect versus Information Effect of Disclosure – Evidence from Smaller Reporting Companies, 88 ACCT. REV. 1239, 1239-1263 (2013).
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION
@@ -930,9 +720,7 @@ When Item 102 was originally adopted, registrants were more likely than they are
 
 <h>b. Management’s Discussion and Analysis of Financial Condition and Results of Operations (Item 303 and Item 5 of Form 20-F)</h>
 
-We are adopting a series of amendments to Item 303. <sup>312</sup> In this section, we discuss all amendments to Item 303 that are intended to clarify the rule’s requirements, while in Section
-
-<h>1. below, we discuss amendments to the content of MD&A. Instruction 1 to Item 303(a) provides that, generally, MD&A shall cover the three-year period covered by the financial statements and either use year-to-year comparisons or any other formats that in the registrant’s judgment would enhance a reader’s understanding. Additionally, the instruction states thatas of 2018. See infra Section VII.C.1.a. for a discussion of the estimated reduction in paperwork burden as a result of the amendments to Item 102.reference to the five-year selected financial data may be necessary where trend information is relevant.</h>
+We are adopting a series of amendments to Item 303. <sup>312</sup> In this section, we discuss all amendments to Item 303 that are intended to clarify the rule’s requirements, while in Section 1 below, we discuss amendments to the content of MD&A. Instruction 1 to Item 303(a) provides that, generally, MD&A shall cover the three-year period covered by the financial statements and either use year-to-year comparisons or any other formats that in the registrant’s judgment would enhance a reader’s understanding. Additionally, the instruction states thatas of 2018. See infra Section VII.C.1.a. for a discussion of the estimated reduction in paperwork burden as a result of the amendments to Item 102.reference to the five-year selected financial data may be necessary where trend information is relevant.
 
 We are adopting as proposed the revision to Instruction 1 of Item 303 that eliminates the reference to year-to-year comparisons. Instruction 1 will now state that registrants may use any presentation that in the registrant’s judgment enhances a reader’s understanding of the registrant’s financial condition, changes in financial condition, and results of operations, without suggesting that any one mode of presentation is preferable to another. We are also deleting the reference to five-year selected financial data in Instruction 1 to Item 303(a) as proposed.
 
@@ -1022,9 +810,7 @@ We are also amending 601(b)(10) and (2) and certain related requirements in spec
 
 Registrants can be asked by the Commission staff to provide on a supplemental basis an unredacted copy of the exhibit. The staff also can request that the registrant provide an analysis of why the redacted information is both (i) not material and (ii) would likely cause it competitive harm if publicly disclosed. Registrants may request confidential treatment of this supplemental information pursuant to Rule 83 while it is in the possession of the staff.
 
-The amendment will significantly reduce the costs associated with preparing confidential treatment requests and expedite the filing process. <sup>340</sup> The largest cost associated with the confidential treatment request process is the cost to prepare the letter and application for the request, which can require substantial legal analysis. The amendment of Items 601(b)(10) and
-
-<h>2. will eliminate the costs associated with preparing confidential treatment requests, except for cases when Commission staff asks the registrant to provide an analysis of why the redacted information is immaterial and would likely cause the registrant competitive harm if publicly disclosed.</h>
+The amendment will significantly reduce the costs associated with preparing confidential treatment requests and expedite the filing process. <sup>340</sup> The largest cost associated with the confidential treatment request process is the cost to prepare the letter and application for the request, which can require substantial legal analysis. The amendment of Items 601(b)(10) and 2 will eliminate the costs associated with preparing confidential treatment requests, except for cases when Commission staff asks the registrant to provide an analysis of why the redacted information is immaterial and would likely cause the registrant competitive harm if publicly disclosed.
 
 In this regard, one commenter on the Concept Release reviewed seven different confidential treatment requests on which it assisted clients since 2012 and found that legal fees alone ranged from approximately $35,000 to over $200,000. <sup>341</sup> A commenter on the Proposing Release mentioned that “[d]uring [its] 2017 fiscal year, [it] submitted 39 confidential treatment requests, and [it] submitted a total of 17 confidential treatment requests during the first twoquarters of [its] 2018 fiscal year. Attorneys and paralegals at [the] company spend an average of 80 hours each quarter preparing redacted exhibits and related confidential treatment requests.” <sup>342</sup> According to another commenter, any cost savings likely will be more pronounced for smaller companies “because smaller reporting companies have a lower threshold for determining whether a contract is material and therefore required to be filed publicly in the first place” and for companies in certain industries that require confidential treatment more frequently ( e.g. , biotechnology). <sup>343</sup>
 
@@ -1254,9 +1040,27 @@ We estimate that there are 1,171 issuers that file with the Commission, other th
 
 As noted above, the purpose of the amendments is to modernize and simplify the Commission’s disclosure requirements and provide consistent incorporation by reference and hyperlinking rules for registrants, including investment companies and investment advisers. The majority of the amendments are expected to have a minor effect on existing reporting, recordkeeping and other compliance burdens for all issuers, including small entities. <sup>434</sup>
 
-Many of the amendments simplify and streamline existing disclosure requirements in ways that are expected to reduce compliance burdens. Some of the amendments, like those that impose new data tagging, <sup>435</sup> hyperlinking, <sup>436</sup> or disclosure requirements <sup>437</sup> will increase compliance costs for registrants, and some of these costs could disproportionately affect small entities. For example, smaller investment company registrants currently reporting in ASCII are more likely to be impacted by the mandated use of HTML . While investment companies that
+Many of the amendments simplify and streamline existing disclosure requirements in ways that are expected to reduce compliance burdens. Some of the amendments, like those that impose new data tagging, <sup>435</sup> hyperlinking, <sup>436</sup> or disclosure requirements <sup>437</sup> will increase compliance costs for registrants, and some of these costs could disproportionately affect small entities. For example, smaller investment company registrants currently reporting in ASCII are more likely to be impacted by the mandated use of HTML . While investment companies that file forms in ASCII will incur costs to switch to HTML, in addition to the costs of hyperlinking to exhibits, we expect that the burden to switch from ASCII to HTML will not be significant because the software tools to file in HTML format are now widely used and available at a minimal cost. In addition, during calendar year 2018, approximately 10% of the forms that will be affected by the amendments were filed in ASCII. The limited use of ASCII to file these forms indicates that the final amendments will affect only a limited number of registrants on a one-time basis.
 
-<h>X. Li, Characteristics of a firm’s information environment and the information asymmetry between insiders and outsiders, 37 J. ACCT. ECON. 229, 229-259 (June 2004). See also L. Cheng, S. Liao, and H. Zhang, The Commitment Effect versus Information Effect of Disclosure – Evidence from Smaller Reporting Companies, 88 ACCT. REV. 1239, 1239-1263 (2013).file forms in ASCII will incur costs to switch to HTML, in addition to the costs of hyperlinking to exhibits, we expect that the burden to switch from ASCII to HTML will not be significant because the software tools to file in HTML format are now widely used and available at a minimal cost. In addition, during calendar year 2018, approximately 10% of the forms that will be affected by the amendments were filed in ASCII. The limited use of ASCII to file these forms indicates that the final amendments will affect only a limited number of registrants on a one-time basis.</h>
+Overall, for the reasons discussed elsewhere in this release, we do not expect these additional costs to be significant relative to existing compliance costs. Moreover, we expect that the benefits of the amended confidential treatment rules accruing to smaller reporting companies, who may be disproportionately burdened by the time and expense involved in preparing requests for confidential treatment,<sup>438</sup> will offset some of their compliance costs that are estimated to increase because of the amendments. The professional skills necessary to comply with the amendments include legal, accounting, and information technology skills.<sup>439</sup>
+
+<h>E. Agency Action to Minimize Effect on Small Entities</h>
+
+The RFA directs us to consider alternatives that would accomplish our stated objectives, while minimizing any significant adverse impact on small entities. In connection with the amendments, we considered the following alternatives:
+
+establishing different compliance or reporting requirements that take into account the resources available to small entities;
+
+clarifying, consolidating, or simplifying compliance and reporting requirements under the rules for small entities;
+
+using performance rather than design standards; and
+
+exempting small entities from all or part of the requirements.
+
+We believe the amendments clarify, consolidate and simplify compliance and reporting requirements for small entities and other registrants. As discussed above, we believe the majority of the amendments simplify and streamline disclosure requirements in ways that are expected to reduce compliance burdens.<sup>440</sup> We do not believe that the amendments will impose any significant new compliance obligations. Accordingly, we generally do not believe it is necessary to establish different compliance and reporting requirements or timetables or to exempt small entities from all or part of the amendments.<sup>441</sup> We note in this regard that the Commission’s existing disclosure requirements provide for scaled disclosure requirements and other accommodations for small entities, and the amendments would not alter these existing accommodations. 
+
+Finally, with respect to using performance rather than design standards, the amendments generally use design rather than performance standards in order to promote uniform filing requirements for all registrants. In some instances, the amendments modernize and simplify existing design standards. For example, the amendments to Item 303(a) emphasize the flexibility currently available to registrants with respect to the form of MD&A presentation.<sup>442</sup> In other instances, the amendments may result in additional flexibility when preparing disclosures. For example, new Item 601(a)(5) expands a registrant’s ability to omit schedules and attachments to exhibits that are not material. <sup>443</sup> As another example, the amendments to Item 102 clarify that the threshold for disclosure about registrants’ physical properties is based on materiality.<sup>444</sup>
+
+<h>IX. STATUTORY AUTHORITY</h>
 
 <END MAIN TEXT>
 
@@ -2124,7 +1928,7 @@ Many of the amendments simplify and streamline existing disclosure requirements 
 
 433 This estimate is based on Commission-registered investment adviser responses to Form ADV, Item 5.F and Item 12.
 
-434 We recognize that the fixed costs of disclosure requirements typically constitute a higher percentage of revenues for smaller companies than for larger companies. However, the benefits of disclosure may be greater for smaller companies because information asymmetries between investors and managers of smaller companies are typically higher than for larger, more seasoned companies with a large following. See, e.g., R. Frankel and
+434 We recognize that the fixed costs of disclosure requirements typically constitute a higher percentage of revenues for smaller companies than for larger companies. However, the benefits of disclosure may be greater for smaller companies because information asymmetries between investors and managers of smaller companies are typically higher than for larger, more seasoned companies with a large following. See, e.g., R. Frankel and X. Li, Characteristics of a firm’s information environment and the information asymmetry between insiders and outsiders, 37 J. ACCT. ECON. 229, 229-259 (June 2004). See also L. Cheng, S. Liao, and H. Zhang, The Commitment Effect versus Information Effect of Disclosure – Evidence from Smaller Reporting Companies, 88 ACCT. REV. 1239, 1239-1263 (2013).
 
 435 See, e.g., supra Section II.B.7.a. (Tagging Cover Page Data).
 
@@ -2144,4 +1948,4 @@ Many of the amendments simplify and streamline existing disclosure requirements 
 
 443 See supra Section II.B.5.b.i. (Schedules and Attachments to Exhibits).
 
-444 See supra Section II.B.1. (Description of Property (Item 102)).
+444 See supra Section II.B.1. (Description of Property (Item 102)). 

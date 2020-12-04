@@ -1,63 +1,3 @@
-https://www.sec.gov/rules/final/2019/34-86590.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 Background
-
-III.0.0.0 Description of Rule Amendments A.	Rule 17g-5(a)(3)
-
-	III.B.0.0 Conforming Amendments to Rule 17g-7(a) and Rule 15Ga-2
-
-	III.C.0.0 Technical Amendments
-
-IV.0.0.0 Paperwork Reduction Act
-
-	IV.A.0.0 Summary of Collection of Information under the Rule Amendments and Use of Information
-
-		IV.A.1.0 Amendment to Rule 17g-5(a)(3)
-
-		IV.A.2.0 Amendment to Rule 17g-7(a)
-
-	IV.B.0.0 Respondents
-
-	IV.C.0.0 Burden and Cost Estimates Related to the Amendments
-
-		IV.C.1.0 Amendment to Rule 17g-5(a)(3)
-
-		IV.C.2.0 Amendment to Rule 17g-7(a)
-
-	IV.D.0.0 Collection of Information is Required to Obtain a Benefit
-
-	IV.E.0.0 Confidentiality
-
-V.0.0.0 Other Matters
-
-VI.0.0.0 Economic Analysis
-
-	VI.A.0.0 Introduction
-
-	VI.B.0.0 Baseline and Affected Parties
-
-	VI.C.0.0 Anticipated Costs and Benefits, Including Potential Effects on Efficiency, Competition, and Capital Formation
-
-		VI.C.1.0 Potential Benefits
-
-		VI.C.2.0 Potential Costs and Other Anticipated Effects
-
-		VI.C.3.0 Alternative Considered: Allow Exemptive Order to Expire
-
-			VI.C.3.a Benefits
-
-			VI.C.3.b Costs
-
-VII.0.0.0 Regulatory Flexibility Act Certification
-
-VIII.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Part <sup>240</sup>
@@ -76,66 +16,6 @@ FOR FURTHER INFORMATION CONTACT: Harriet Orol, Kevin Vasel, or Patrick Boyle, at
 
 SUPPLEMENTARY INFORMATION: The Commission is adopting amendments to:
 
-TABLE OF CONTENTS
-
-Introduction
-
-Background
-
-A. Rule 17g-5(a)(3)
-
-Rule 17g-7(a) and Rule 15Ga-2
-
-Description of Rule Amendments A. Rule 17g-5(a)(3)
-
-Conforming Amendments to Rule 17g-7(a) and Rule 15Ga-2
-
-Technical Amendments
-
-Paperwork Reduction Act
-
-Summary of Collection of Information under the Rule Amendments and Use of Information
-
-Amendment to Rule 17g-5(a)(3)
-
-Amendment to Rule 17g-7(a)
-
-Respondents
-
-Burden and Cost Estimates Related to the Amendments
-
-Amendment to Rule 17g-5(a)(3)
-
-Amendment to Rule 17g-7(a)
-
-Collection of Information is Required to Obtain a Benefit
-
-Confidentiality
-
-Other Matters
-
-Economic Analysis
-
-Introduction
-
-Baseline and Affected Parties
-
-Anticipated Costs and Benefits, Including Potential Effects on Efficiency, Competition, and Capital Formation
-
-Potential Benefits
-
-Potential Costs and Other Anticipated Effects
-
-Alternative Considered: Allow Exemptive Order to Expire
-
-Benefits
-
-Costs
-
-Regulatory Flexibility Act Certification
-
-Statutory Authority
-
 <END HEADER>
 
 <h>I. Introduction</h>
@@ -148,7 +28,7 @@ As discussed in Section III of this release, the Commission has considered the c
 
 <h>II. Background</h>
 
-A.	Rule 17g-5(a)(3)
+<h>A. Rule 17g-5(a)(3)</h>
 
 In 2009, the Commission adopted amendments to 17 CFR 240.17g-5 (“Rule 17g-5”) designed to address conflicts of interest arising from the business of determining credit ratings,and to improve competition and the quality of credit ratings for structured finance products, by making it possible for more NRSROs to rate such securities . <sup>4</sup> The amendments established a program (“Rule 17g-5 Program”) by which an NRSRO that is not hired by an issuer, sponsor, or underwriter (collectively, “arranger”) is able to obtain the same information that the arranger provides to an NRSRO hired to determine a credit rating for the structured finance product at the same time the information is provided to the hired NRSRO. <sup>5</sup>
 
@@ -158,7 +38,7 @@ The Rule 17g-5 Program also requires the hired NRSRO to obtain a written represe
 
 Prior to the June 2, 2010, compliance date for the Rule 17g-5 Program, the Commission by order granted a temporary conditional exemption to NRSROs from Rule 17g-5(a)(3). This temporary conditional exemption (the “existing Rule 17g-5(a)(3) exemption”) applies solely with respect to credit ratings if: (1) the issuer of the security or money market instrument is not a U.S. person (as defined under 17 CFR 230.902(k)); and (2) the NRSRO has a reasonable basis to conclude that the structured finance product will be offered and sold upon issuance, and that any arranger linked to the structured finance product will effect transactions of the structured finance product after issuance, only in transactions that occur outside the United States. <sup>11</sup> Theseconditions were designed to confine the existing Rule 17g-5(a)(3) exemption’s application to credit ratings of structured finance products issued in, and linked to, financial markets outside of the United States. The Commission granted this relief in light of concerns raised by various foreign securities regulators and market participants that local securitization markets may be disrupted if the rule applied to transactions outside the United States. <sup>12</sup> The Commission has extended the existing Rule 17g-5(a)(3) exemption several times, most recently until the earlier of December 2, 2019, or the compliance date set forth in any final rule that may be adopted by the Commission that provides for a similar exemption. <sup>13</sup>
 
-B.	Rule 17g-7(a) and Rule 15Ga-2
+<h>B. Rule 17g-7(a) and Rule 15Ga-2</h>
 
 In 2014, the Commission adopted Rule 17g-7(a) and Rule 15Ga-2. Rule 17g-7(a) requires an NRSRO, when taking a rating action, to publish an information disclosure form containing specified information about the related credit rating. <sup>14</sup> For example, the information disclosure form must specify, among other things, the version of the methodology used to determine the credit rating, a description of the types of data relied upon to determine the credit rating, and information on the sensitivity of the credit rating to assumptions made by the
 
@@ -174,13 +54,13 @@ Commission Form ABS-15G containing the findings and conclusions of any third-par
 
 In response to concerns raised by commenters when the rules were proposed, <sup>20</sup> the Commission included paragraph (3) in Rule 17g-7(a) and paragraph (e) in Rule 15Ga-2 to provide an exemption from the disclosure requirements for certain offshore transactions. <sup>21</sup> The Commission closely modeled the language of the Rule 17g-7(a) exemption on the existing Rule 17g-5(a)(3) exemption. <sup>22</sup> The Commission noted that it was appropriate for the Rule 15Ga-2 exemption to be aligned with the Rule 17g-7(a) exemption so that there is a consistent approach to determining when the Commission’s NRSRO rules apply to offshore transactions. <sup>23</sup>
 
-<h>III. Description of Rule Amendments A.	Rule 17g-5(a)(3)</h>
+<h>III. Description of Rule Amendments</h>
+
+<h>A. Rule 17g-5(a)(3)</h>
 
 In the Proposing Release, the Commission proposed to codify, with certain clarifying changes, the existing Rule 17g-5(a)(3) exemption. Specifically, the Commission proposed to add new paragraph (iv) to Rule 17g-5(a)(3) to provide that the provisions of paragraphs (i) through (iii) of Rule 17g-5(a)(3) will not apply to an NRSRO when issuing or maintaining a credit rating for a security or money market instrument issued by an asset pool or as part of any asset-backed securities transaction, if: (1) the issuer of the security or money market instrument is not a U.S. person (as defined in 17 CFR 230.902(k)); and (2) the NRSRO has a reasonable basis to conclude that all offers and sales of the security or money market instrument by any issuer, sponsor, or underwriter linked to the security or money market instrument will occur outside the United States (as that phrase is used in Regulation S).
 
-Three commenters, including an NRSRO and two industry groups, submitted comment letters in response to the proposed amendments. <sup>24</sup> The commenters all supported the Commission’s proposal to codify the existing Rule 17g-5(a)(3) exempti on . <sup>25</sup> One commenter stated that concerns that have been raised over time about extraterritorial application of Rule 17g-5(a)(3) remain relevant and that adoption of the proposed amendment would be an effectivemeans by which to provide permanent relief. <sup>26</sup> This commenter also expressed the belief that adopting the proposed amendment would be consistent with notions of international comity and the generally limited interest of the Commission in regulating securities offered and sold exclusively outside the United States. <sup>27</sup> Another commenter stated that Rule 17g-5(a)(3) should not apply with respect to non-U.S. offerings absent a substantial effect in the United States or on
-
-U.S. persons, arguing that applying the rule to all credit ratings of an NRSRO or a registered affiliate, regardless of whether the relevant transaction involves a U.S. investor connection, would be inconsistent from a policy perspective with the wider U.S. legislative and regulatory framework as well as principles of international comity. <sup>28</sup> Commenters also indicated that codification of the existing Rule 17g-5(a)(3) exemption would benefit NRSROs and other securitization market participants worldwide by providing certainty and predictability regarding continued application of the exempti on . <sup>29</sup>
+Three commenters, including an NRSRO and two industry groups, submitted comment letters in response to the proposed amendments. <sup>24</sup> The commenters all supported the Commission’s proposal to codify the existing Rule 17g-5(a)(3) exempti on . <sup>25</sup> One commenter stated that concerns that have been raised over time about extraterritorial application of Rule 17g-5(a)(3) remain relevant and that adoption of the proposed amendment would be an effectivemeans by which to provide permanent relief. <sup>26</sup> This commenter also expressed the belief that adopting the proposed amendment would be consistent with notions of international comity and the generally limited interest of the Commission in regulating securities offered and sold exclusively outside the United States. <sup>27</sup> Another commenter stated that Rule 17g-5(a)(3) should not apply with respect to non-U.S. offerings absent a substantial effect in the United States or on U.S. persons, arguing that applying the rule to all credit ratings of an NRSRO or a registered affiliate, regardless of whether the relevant transaction involves a U.S. investor connection, would be inconsistent from a policy perspective with the wider U.S. legislative and regulatory framework as well as principles of international comity. <sup>28</sup> Commenters also indicated that codification of the existing Rule 17g-5(a)(3) exemption would benefit NRSROs and other securitization market participants worldwide by providing certainty and predictability regarding continued application of the exempti on . <sup>29</sup>
 
 One of the commenters, though supportive of the proposal, expressed the view that Rule 17g-5(a)(3) has been ineffective, citing longstanding discussions among its issuer member firms as evidence that very few non-hired NRSROs have requested access to the websites thatarrangers are required to maintain under the rule. <sup>30</sup> This commenter noted that concerns with respect to the effectiveness of the rule are compounded by lingering international uncertainty regarding the potential future applicability of Rule 17g-5(a)(3) to extraterritorial transactions. <sup>31</sup>
 

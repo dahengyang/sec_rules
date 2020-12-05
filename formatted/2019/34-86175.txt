@@ -1,277 +1,3 @@
-https://www.sec.gov/rules/final/2019/34-86175.pdf
-
-I.0.0.0 INTRODUCTION
-
-	I.A.0.0 BACKGROUND
-
-	I.B.0.0 OVERVIEW OF THE NEW REQUIREMENTS
-
-		I.B.1.0 Capital Requirements
-
-			I.B.1.a SBSDs
-
-			I.B.1.b MSBSPs
-
-		I.B.2.0 Margin Requirements for Non-Cleared Security-Based Swaps
-
-			I.B.2.a SBSDs
-
-			I.B.2.b MSBSPs
-
-		I.B.3.0 Segregation Requirements
-
-		I.B.4.0 Alternative Compliance Mechanism
-
-		I.B.5.0 Cross-Border Application
-
-II.0.0.0 FINAL RULES AND RULE AMENDMENTS
-
-	II.A.0.0 CAPITAL
-
-		II.A.1.0 Introduction
-
-		II.A.2.0 Capital Rules for Nonbank SBSDs
-
-			II.A.2.a Computing Required Minimum Net Capital
-
-		II.A.1.0 maintaining the $250 billion maximum fixed-dollar amount for an additional period of time or
-
-			II.A.1.b Computing Net Capital
-
-		II.A.2.0 the model must be reviewed periodically by the firm’s internal audit staff, and annually by an independent public accounting firm; and (3) the measure computed by the model must be multiplied by a factor of at least 3 but potentially a greater amount based on the number of exceptions to the measure resulting from quarterly back-testing exercises. The pre-existing provisions of paragraph (d)(2) prescribe quantitative requirements that specify that the model must, among other things: (1) use a 99%, one-tailed confidence level with price changes equivalent to a 10-business-day movement in rates and prices;(2) use an effective historical observation period of at least one year; (3) use historical data sets that are updated at least monthly and are reassessed whenever market prices or volatilities change significantly; and (4) take into account and incorporate all significant, identifiable market risk factors applicable to positions of the ANC broker-dealer, including risks arising from non-linear price characteristics, empirical correlations within and across risk factors, spread risk, and specific risk for individual positions. An ANC broker-dealer SBSD would be subject to these pre-existing qualitative and quantitative requirements in paragraph (d) of Rule 15c3-1e. A stand-alone SBSD authorized to use internal models would have been subject to similar qualitative and quantitative requirements in proposed Rule 18a-1.
-
-			II.A.2.c Risk Management
-
-			II.A.2.d Other Rule 15c3-1 Provisions Incorporated into Rule 18a-1
-
-		II.A.3.0 Capital Rules for Nonbank MSBSPs
-
-		II.A.4.0 OTC Derivatives Dealers
-
-	II.B.0.0 MARGIN
-
-		II.B.1.0 Introduction
-
-		II.B.2.0 Margin Requirements for Nonbank SBSDs and Nonbank MSBSPs
-
-			II.B.2.a Daily Calculations
-
-			II.B.2.d of Rule 18a-3 to establish a margin model authorization process that is distinct from the net capital rule model authorization process. This modification will provide flexibility to allow nonbank SBSDs that do not use a model for purposes of the net capital rule to seek authorization to use a model for purposes of the margin rule. It also will permit firms to use an industry standard model such as the model currently being used to comply with the margin rules of the CFTC and the prudential regulators.
-
-			II.B.2.b Account Equity Requirements
-
-		II.B.6.0 set forth certain exceptions to collecting the collateral.
-
-			II.B.6.c Risk Monitoring and Procedures
-
-	II.C.0.0 SEGREGATION
-
-		II.C.1.0 Background
-
-		II.C.2.0 Exemption
-
-		II.C.3.0 Segregation Requirements for Security-Based Swaps
-
-			II.C.3.a Possession or Control of Excess Securities Collateral
-
-			II.C.3.b Security-Based Swap Customer Reserve Account
-
-			II.C.3.c Special Provisions for Non-cleared Security-Based Swap Counterparties
-
-	II.D.0.0 ALTERNATIVE COMPLIANCE MECHANISM
-
-			II.D.3.e of Rule 18a-10 provides that the notices required by the rule must be sent by facsimile transmission to the principal office of the Commission and the regional office of the Commission for the region in which the security-based swap dealer has its principal place of business or an
-
-	II.E.0.0 CROSS-BORDER APPLICATION OF CAPITAL, MARGIN, AND SEGREGATION REQUIREMENTS
-
-		II.E.1.0 Capital and Margin Requirements
-
-			II.E.1.a Treatment of Cross-Border Transactions
-
-			II.E.1.b Amendments to the Substituted Compliance Rule
-
-		II.E.2.0 Segregation Requirements
-
-			II.E.2.a Treatment of Cross-Border Transactions
-
-			II.E.2.b Disclosure Requirements
-
-			II.E.2.c Non-Substantive Modifications
-
-	II.F.0.0 DELEGATION OF AUTHORITY
-
-III.0.0.0 EXPLANATION OF DATES
-
-	III.A.0.0 EFFECTIVE DATE
-
-	III.B.0.0 COMPLIANCE DATES
-
-	III.C.0.0 EFFECT ON EXISTING COMMISSION EXEMPTIVE RELIEF
-
-	III.D.0.0 APPLICATION TO SUBSTITUTED COMPLIANCE
-
-IV.0.0.0 PAPERWORK REDUCTION ACT
-
-	IV.A.0.0 SUMMARY OF COLLECTIONS OF INFORMATION UNDER THE RULES AND RULE AMENDMENTS
-
-		IV.A.1.0 Rule 18a-1 and Amendments to Rule 15c3-1
-
-		IV.A.2.0 Rule 18a-2
-
-		IV.A.3.0 Rule 18a-3
-
-		IV.A.4.0 Rule 18a-4 and Amendments to Rule 15c3-3
-
-		IV.A.5.0 Rule 18a-10
-
-		IV.A.6.0 Amendments to Rule 3a71-6
-
-	IV.B.0.0 USE OF INFORMATION
-
-	IV.C.0.0 RESPONDENTS
-
-	IV.D.0.0 TOTAL INITIAL AND ANNUAL RECORDKEEPING AND REPORTING BURDEN
-
-		IV.D.1.0 Rule 18a-1 and Amendments to Rule 15c3-1
-
-		IV.D.2.0 Rule 18a-2
-
-		IV.D.3.0 Rule 18a-3
-
-			IV.D.3.d of Rule 18a-1 governing the use of internal models to compute net capital.
-
-		IV.D.4.0 Rule 18a-4 and Amendments to Rule 15c3-3
-
-		IV.D.5.0 Rule 18a-10
-
-		IV.D.6.0 Rule 3a71-6
-
-	IV.E.0.0 COLLECTION OF INFORMATION IS MANDATORY
-
-	IV.F.0.0 CONFIDENTIALITY
-
-	IV.G.0.0 RETENTION PERIOD FOR RECORDKEEPING REQUIREMENTS
-
-V.0.0.0 OTHER MATTERS
-
-VI.0.0.0 ECONOMIC ANALYSIS
-
-	VI.A.0.0 BASELINE
-
-		VI.A.1.0 Market Participants
-
-			VI.A.1.a Dealing Structures
-
-			VI.A.1.b Security-Based Swap Market Participant Domiciles
-
-			VI.A.1.c Security-Based Swap Market: Levels of Security-Based Swap Trading Activity
-
-			VI.A.1.d Open Positions
-
-			VI.A.1.e Cross-Market Participation
-
-		VI.A.2.0 Counterparty Credit Risk Mitigation
-
-		VI.A.1.0 using a central counterparty (“CCP”) such as a clearing agency or DCO to clear a trade; (2) using standardized netting agreements between counterparties; (3) performing portfolio compression to minimize counterparty exposure; and (4) requiring margin (i.e., collateral). Below is a brief discussion of the extent to which market participants make use of each of these practices in the CDS market, which comprises the majority of security-based swap transactions.
-
-			VI.A.1.a Clearing
-
-			VI.A.1.b Netting Agreements
-
-			VI.A.1.c Portfolio Compression
-
-			VI.A.1.d Margin
-
-		VI.A.2.0 collateral has actually been collected or delivered. See ISDA Margin Survey 2015. In contrast, inactive collateral agreements are those that have been executed and have no current outstanding exposure, or those that show no current activity but may be used to trade at some point in the future. Cleared OTC derivatives trades are generally subject to collateral agreements specified by the CCP.
-
-		VI.A.3.0 Global Regulatory Efforts
-
-		VI.A.4.0 Capital Regulation
-
-			VI.A.4.a Commission-Registered Broker-Dealers
-
-			VI.A.4.b Banking Entities
-
-			VI.A.4.c CFTC-Registered Entities
-
-		VI.A.5.0 Margin Regulation
-
-			VI.A.5.a Prudential Regulators, CFTC, and Foreign Regulators
-
-			VI.A.5.b Broker-Dealer Margin Rules
-
-		VI.A.6.0 Segregation
-
-		VI.A.7.0 Historical Pricing Data
-
-	VI.B.0.0 ANALYSIS OF THE FINAL RULES AND ALTERNATIVES
-
-		VI.B.1.0 The Capital Rules for Nonbank SBSDs—Rules 15c3-1 and 18a-1
-
-			VI.B.1.a Overview
-
-			VI.B.1.b Benefits and Costs of the Capital Rules for Nonbank SBSDs
-
-			VI.B.1.c Alternatives Considered
-
-		VI.B.2.0 The Capital Rule for Nonbank MSBSPs – Rule 18a-2
-
-			VI.B.2.a Benefits and Costs of the Capital Rule for Nonbank MSBSPs
-
-			VI.B.2.b Alternatives Considered
-
-		VI.B.3.0 The Margin Rule — Rule 18a-3
-
-			VI.B.3.a Overview
-
-			VI.B.3.b Benefits and Costs of the Margin Rule
-
-			VI.B.3.c Alternatives Considered
-
-		VI.B.4.0 The Segregation Rules – Rules 15c3-3 and 18a-4
-
-			VI.B.4.a Overview
-
-			VI.B.4.b Benefits and Costs of the Segregation Rules
-
-			VI.B.4.c Alternatives Considered
-
-		VI.B.5.0 Cross-Border Application
-
-			VI.B.5.a Overview
-
-			VI.B.5.b Benefits and Costs
-
-		VI.B.6.0 Rule 18a-10
-
-			VI.B.6.a Overview
-
-			VI.B.6.b Benefits and Costs of Rule 18a-10
-
-	VI.C.0.0 IMPLEMENTATION COSTS
-
-	VI.D.0.0 EFFECTS ON EFFICIENCY, COMPETITION, AND CAPITAL FORMATION
-
-		VI.D.1.0 Efficiency and Capital Formation
-
-		VI.D.2.0 Competition
-
-			VI.D.2.a Nonbank SBSDs
-
-			VI.D.2.b Nonbank SBSDs and Bank SBSDs
-
-			VI.D.2.c Domestic and Foreign SBSDs
-
-			VI.D.2.d Nonbank MSBSPs
-
-VII.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-VIII.0.0.0 STATUTORY BASIS AND TEXT OF THE AMENDMENTS AND NEW RULES
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 SECURITIES AND EXCHANGE COMMISSION
@@ -526,9 +252,7 @@ The Commission continues to believe a margin factor ratio is the right approach 
 
 However, in response to comments raising concerns about the potential impact of the proposed 8% margin factor, the Commission believes it would be appropriate to adopt, at least initially, a lower margin factor and create a process through which the percent multiplier can potentially (but not necessarily) be increased over time ( i.e. , starting at 2% and potentially transitioning from 2% to 8% or less over the course of at least 5 years). Initially using a 2% multiplier could provide ANC broker-dealers and nonbank SBSDs with time to adjust to the requirement if it incrementally increases. The final rule sets strict limits in terms of how quickly the multiplier can be raised and the amount by which it can be raised through the process in the rule because market participants should know when a potential increase in the multiplier using the process could first occur and how much the multiplier could be increased at that time or thereafter. The Commission’s objective is to establish an efficient and flexible process, while providing market participants with notice about the potential timing and magnitude of an increase so that they can make informed decisions about how to structure their businesses.
 
-Consequently, under the process set forth in the final rules, the percent multiplier will be 2% for at least 3 years after the compliance date of the rule. <sup>84</sup> After 3 years, the multiplier could
-
-<h>1. maintaining the $250 billion maximum fixed-dollar amount for an additional period of time orincrease to not more than 4% by Commission order, and after 5 years the multiplier could increase to not more than 8% by Commission order if the Commission had previously issued an order raising the multiplier to 4% or less. The process sets an upper limit for the multiplier of 8% (the day-1 multiplier under the proposed rules) and requires the issuance of two successive orders to raise the multiplier to as much as 8% (or an amount between 4% and 8%). The first order can be issued no earlier than 3 years after the compliance date of the rules, and the second order can be issued no earlier than 5 years after the compliance date.</h>
+Consequently, under the process set forth in the final rules, the percent multiplier will be 2% for at least 3 years after the compliance date of the rule. <sup>84</sup> After 3 years, the multiplier could (1) maintaining the $250 billion maximum fixed-dollar amount for an additional period of time orincrease to not more than 4% by Commission order, and after 5 years the multiplier could increase to not more than 8% by Commission order if the Commission had previously issued an order raising the multiplier to 4% or less. The process sets an upper limit for the multiplier of 8% (the day-1 multiplier under the proposed rules) and requires the issuance of two successive orders to raise the multiplier to as much as 8% (or an amount between 4% and 8%). The first order can be issued no earlier than 3 years after the compliance date of the rules, and the second order can be issued no earlier than 5 years after the compliance date.
 
 The process in the final rules provides that, before issuing an order to raise the multiplier, the Commission will consider the capital and leverage levels of the firms subject to the ratio- based minimum net capital requirement as well as the risks of their security-based swap positions. After the rule is adopted, the Commission will gather data on how the ratio-based minimum net capital requirement using the 2% multiplier (“2% margin factor”) compares to the levels of excess net capital these firms maintain, the risks of their security-based swap positions, and the leverage they employ. <sup>85</sup> This information will assist the Commission in analyzing whether the ratio-based minimum net capital requirement is operating in practice as the Commission intends ( i.e. , a requirement that sets a prudent level of minimum net capital given the volume, size, and risk of the firm’s security-based swap positions). In determining whether to issue an order raising the multiplier, the Commission may also consider, for example, whether further data is necessary to analyze the appropriate level of the ratio-based minimum net capital requirement.indefinitely; or (2) lowering the maximum fixed-dollar amount to an amount between $250 billion and $50 billion.
 
@@ -746,9 +470,7 @@ As part of the ANC application approval process, the Commission staff reviews th
 
 The pre-existing provisions of paragraph (a)(8) of Rule 15c3-1e require an ANC broker- dealer to amend its ANC application and submit it to the Commission for approval before materially changing its model or its internal risk management control system. Further, the pre- existing provisions of paragraph (a)(10) require an ANC broker-dealer to notify the Commission 45 days before the firm ceases to use internal models to compute net capital. Finally, the pre- existing provisions of paragraph (a)(11) provide that the Commission, by order, can revoke an ANC broker-dealer’s exemption that allows it to use internal models if the Commission finds that the ANC broker-dealer’s use of models is no longer necessary or appropriate in the public interest or for the protection of investors. In this case, the firm would need to revert to applying the standardized haircuts for all positions. Under the proposal, an ANC broker-dealer SBSD would be subject to these pre-existing application requirements in paragraph (a) of Rule 15c3-1e. A stand-alone SBSD authorized to use internal models would have been subject to similar application requirements in proposed Rule 18a-1. <sup>222</sup>
 
-The pre-existing provisions of paragraph (d)(1) of Rule 15c3-1e require an ANC broker- dealer to comply with qualitative requirements that specify among other things that: (1) the model must be integrated into the ANC broker-dealer’s daily internal risk management system;
-
-<h>2. the model must be reviewed periodically by the firm’s internal audit staff, and annually by an independent public accounting firm; and (3) the measure computed by the model must be multiplied by a factor of at least 3 but potentially a greater amount based on the number of exceptions to the measure resulting from quarterly back-testing exercises. The pre-existing provisions of paragraph (d)(2) prescribe quantitative requirements that specify that the model must, among other things: (1) use a 99%, one-tailed confidence level with price changes equivalent to a 10-business-day movement in rates and prices;(2) use an effective historical observation period of at least one year; (3) use historical data sets that are updated at least monthly and are reassessed whenever market prices or volatilities change significantly; and (4) take into account and incorporate all significant, identifiable market risk factors applicable to positions of the ANC broker-dealer, including risks arising from non-linear price characteristics, empirical correlations within and across risk factors, spread risk, and specific risk for individual positions. An ANC broker-dealer SBSD would be subject to these pre-existing qualitative and quantitative requirements in paragraph (d) of Rule 15c3-1e. A stand-alone SBSD authorized to use internal models would have been subject to similar qualitative and quantitative requirements in proposed Rule 18a-1.</h>
+The pre-existing provisions of paragraph (d)(1) of Rule 15c3-1e require an ANC broker- dealer to comply with qualitative requirements that specify among other things that: (1) the model must be integrated into the ANC broker-dealer’s daily internal risk management system; (2) the model must be reviewed periodically by the firm’s internal audit staff, and annually by an independent public accounting firm; and (3) the measure computed by the model must be multiplied by a factor of at least 3 but potentially a greater amount based on the number of exceptions to the measure resulting from quarterly back-testing exercises. The pre-existing provisions of paragraph (d)(2) prescribe quantitative requirements that specify that the model must, among other things: (1) use a 99%, one-tailed confidence level with price changes equivalent to a 10-business-day movement in rates and prices;(2) use an effective historical observation period of at least one year; (3) use historical data sets that are updated at least monthly and are reassessed whenever market prices or volatilities change significantly; and (4) take into account and incorporate all significant, identifiable market risk factors applicable to positions of the ANC broker-dealer, including risks arising from non-linear price characteristics, empirical correlations within and across risk factors, spread risk, and specific risk for individual positions. An ANC broker-dealer SBSD would be subject to these pre-existing qualitative and quantitative requirements in paragraph (d) of Rule 15c3-1e. A stand-alone SBSD authorized to use internal models would have been subject to similar qualitative and quantitative requirements in proposed Rule 18a-1.
 
 The pre-existing provisions of paragraph (b) of Rule 15c3-1e prescribe the model-based haircuts an ANC broker-dealer must deduct from tentative net capital in lieu of the standardized haircuts. This deduction is an amount equal to the sum of four charges: (1) a portfolio marketrisk charge for all positions that are included in the ANC broker-dealer’s models ( i.e. , the amount measured by the model multiplied by a factor of at least 3); <sup>226</sup> (2) a “specific risk ” charge for positions where specific risk was not captured in the model; <sup>227</sup> (3) a charge for positions not included in the model where the ANC broker-dealer is approved to use scenario analysis; and (4) a charge for all other positions that is determined using the standardized haircuts. An ANC broker-dealer SBSD would be subject to these pre-existing model-based haircut requirements in paragraph (b) of Rule 15c3-1e. A stand-alone SBSD authorized to use internal models would have been subject to similar requirements in proposed Rule 18a-1. <sup>228</sup>
 
@@ -1052,9 +774,7 @@ As noted above, some commenters made suggestions about how to expedite the model
 
 Two commenters suggested the Commission allow market participants to delegate the duty to run a model to a counterparty or third party noting that it is an accepted market practice for a counterparty to agree that a dealer will make determinations for a security-based swap in the dealer’s capacity as calculation agent. <sup>405</sup> In response to this comment, a nonbank SBSD could enter into a commercial arrangement to serve as a third-party calculation agent for entities that are not required to calculate initial margin pursuant to Rule 18a-3, as adopted. In addition, a nonbank SBSD’s model can use third-party inputs ( e.g. , price calculations). However, a nonbank SBSD retains responsibility for the model-based initial margin calculations required by Rule 18a-3, as adopted. As discussed above, paragraph (c)(1)(i) of Rule 18a-3, as adopted, requires a nonbank SBSD to calculate an initial margin amount for each counterparty as of the close of each business day. Under paragraph (d) of Rule 18a-3, the nonbank SBSD must use the standardized or model-based approach, as applicable, to calculate the initial margin amount. The fact that a nonbank SBSD uses a model to perform the calculation and that the model uses third- party inputs does not eliminate or diminish the firm’s underlying obligation under the rule to calculate an initial margin amount for each counterparty as of the close of each business day. In light of the comment and the Commission’s response that third-party inputs may be used, the Commission believes it would be appropriate to make explicit in the rule that the nonbank SBSDretains responsibility for model-based initial margin calculations. Accordingly, the Commission is modifying the proposed rule text to make this clear. <sup>406</sup>
 
-In summary, the Commission is adopting the model-based approach to calculating initial margin, with the modifications discussed above. The final rule will require a nonbank SBSD to calculate with respect to each account of a counterparty as of the close of each business day: (1) the amount of the current exposure in the account; and (2) the initial margin amount for the account. <sup>407</sup> As discussed above, in response to comments, the Commission modified paragraph
-
-<h>d. of Rule 18a-3 to establish a margin model authorization process that is distinct from the net capital rule model authorization process. This modification will provide flexibility to allow nonbank SBSDs that do not use a model for purposes of the net capital rule to seek authorization to use a model for purposes of the margin rule. It also will permit firms to use an industry standard model such as the model currently being used to comply with the margin rules of the CFTC and the prudential regulators.</h>
+In summary, the Commission is adopting the model-based approach to calculating initial margin, with the modifications discussed above. The final rule will require a nonbank SBSD to calculate with respect to each account of a counterparty as of the close of each business day: (1) the amount of the current exposure in the account; and (2) the initial margin amount for the account. <sup>407</sup> As discussed above, in response to comments, the Commission modified paragraph (d) of Rule 18a-3 to establish a margin model authorization process that is distinct from the net capital rule model authorization process. This modification will provide flexibility to allow nonbank SBSDs that do not use a model for purposes of the net capital rule to seek authorization to use a model for purposes of the margin rule. It also will permit firms to use an industry standard model such as the model currently being used to comply with the margin rules of the CFTC and the prudential regulators.
 
 Comments and Final Requirements to Increase the Frequency of the Calculations
 
@@ -1074,11 +794,9 @@ The Commission acknowledges that the final rule, in this case, is not consistent
 
 <h>b. Account Equity Requirements</h>
 
-N onbank SBSDs
+Nonbank SBSDs
 
-As discussed above, a nonbank SBSD must calculate variation and initial margin amounts with respect to the account of a counterparty as of the close of each business day. Proposed Rule 18a-3: (1) required a nonbank SBSD to collect margin from the counterparty unless an exception applied; (2) set forth the time frame for when that collateral needed to be collected; (3) prescribed the types of assets that could serve as eligible collateral; (4) prescribed additional requirements for the collateral; (5) prescribed when collateral must be liquidated; and
-
-<h>6. set forth certain exceptions to collecting the collateral.</h>
+As discussed above, a nonbank SBSD must calculate variation and initial margin amounts with respect to the account of a counterparty as of the close of each business day. Proposed Rule 18a-3: (1) required a nonbank SBSD to collect margin from the counterparty unless an exception applied; (2) set forth the time frame for when that collateral needed to be collected; (3) prescribed the types of assets that could serve as eligible collateral; (4) prescribed additional requirements for the collateral; (5) prescribed when collateral must be liquidated; and (6) set forth certain exceptions to collecting the collateral.
 
 More specifically, proposed Rule 18a-3 required that a nonbank SBSD collect from the counterparty by noon of the following business day cash, securities, and/or money market instruments in an amount at least equal to the “negative equity ” (current exposure) in the account plus the initial margin amount unless an exception applied. Assets other than cash, securities, and/or money market instruments were not eligible collateral. The proposed rule further provided that the fair market value of securities and money market instruments (“securities collateral”) held in the account of a counterparty needed to be reduced by the amount of the standardized haircuts the nonbank SBSD would apply to the positions pursuant to the proposed capital rules for the purpose of determining whether the level of equity in the account met the minimum margin requirements. Securities collateral with no “ready market” or that could not be publicly offered or sold because of statutory, regulatory, or contractual arrangements or other restrictions effectively could not serve as collateral because it would be subject to a 100%word “the” replaced the word “each” to conform the language in the paragraph more closely with the language in paragraph (c)(1)(i) of the final rule.deduction pursuant to the standardized haircuts in the proposed capital rules, which were to be used to take the collateral deductions for the purposes of proposed Rule 18a-3.
 
@@ -1570,9 +1288,7 @@ Paragraph (d) of Rule 18a-10 addresses how a firm would elect to operate pursuan
 
 Under paragraph (d)(2) of Rule 18a-10, an SBSD can make the election after the firm has been registered as an SBSD. In this case, the firm must provide written notice to the Commission and the CFTC of its intent to operate pursuant to the rule and continue to comply with Rules 18a-1, 18a-3, and 18a-4 for two months after the end of the month in which the firm provides the notice or for a shorter period of time as granted by the Commission by order subject to any conditions imposed by the Commission. The requirement that the firm continue complying with the Commission’s rules for a period of time after making the election is designed to provide the Commission and the CFTC with an opportunity to examine the firm before it begins operating pursuant to the alternative compliance mechanism and to prepare for the firm no longer complying with the Commission’s rules.
 
-As discussed above, paragraph (b)(3) requires a firm operating pursuant to the rule to immediately notify the Commission and the CFTC in writing if the SBSD fails to meet a condition in paragraph (a). Further, paragraphs (d)(1) and (2) require a firm to provide written notice to the Commission and the CFTC of its intent to operate pursuant to the rule. Paragraph
-
-<h>e. of Rule 18a-10 provides that the notices required by the rule must be sent by facsimile transmission to the principal office of the Commission and the regional office of the Commission for the region in which the security-based swap dealer has its principal place of business or anemail address to be specified separately, and to the principal office of the CFTC in a manner consistent with the notification requirements of the CFTC. <sup>713</sup> The paragraph also requires that notices include a brief summary of the reason for the notice and the contact information of an individual who can provide further information about the matter that is the subject of the notice. This will facilitate the ability of the Commission and the CFTC to follow-up with the firm and gather further information about the matter that triggered the notice requirement.</h>
+As discussed above, paragraph (b)(3) requires a firm operating pursuant to the rule to immediately notify the Commission and the CFTC in writing if the SBSD fails to meet a condition in paragraph (a). Further, paragraphs (d)(1) and (2) require a firm to provide written notice to the Commission and the CFTC of its intent to operate pursuant to the rule. Paragraph (e) of Rule 18a-10 provides that the notices required by the rule must be sent by facsimile transmission to the principal office of the Commission and the regional office of the Commission for the region in which the security-based swap dealer has its principal place of business or anemail address to be specified separately, and to the principal office of the CFTC in a manner consistent with the notification requirements of the CFTC. <sup>713</sup> The paragraph also requires that notices include a brief summary of the reason for the notice and the contact information of an individual who can provide further information about the matter that is the subject of the notice. This will facilitate the ability of the Commission and the CFTC to follow-up with the firm and gather further information about the matter that triggered the notice requirement.
 
 <h>E. CROSS-BORDER APPLICATION OF CAPITAL, MARGIN, AND SEGREGATION REQUIREMENTS</h>
 
@@ -1954,9 +1670,7 @@ Paragraph (e) of Rule 18a-3 requires a nonbank SBSD to establish and implement r
 
 Start-up costs may vary depending on the size and complexity of the nonbank SBSD. In addition, the start-up costs may be less for the 16 broker-dealer SBSDs because these firms may already be subject to similar margin requirements. <sup>879</sup> For the remaining 6 nonbank SBSDs, because these written procedures may be novel undertakings for these firms, the Commission staff assumes these nonbank SBSDs will have their written risk analysis methodology reviewed by outside counsel. As a result, the Commission staff estimates that these nonbank SBSDs will likely incur $2,000 in legal costs, or $12,000 in the aggregate initial burden to review and comment on these materials. <sup>880</sup>
 
-Based on comments received, the Commission modified the language in the final rule to provide that a nonbank SBSD may use a model to calculate the initial margin amount under the rule, if the use of the model has been approved by the Commission. Paragraph (d) of Rule 18a-3, as adopted, provides that a nonbank SBSD seeking approval to use a margin model will be subject to an application process and ongoing conditions set forth in Rule 15c3-1e and paragraph
-
-<h>d. of Rule 18a-1 governing the use of internal models to compute net capital.</h>
+Based on comments received, the Commission modified the language in the final rule to provide that a nonbank SBSD may use a model to calculate the initial margin amount under the rule, if the use of the model has been approved by the Commission. Paragraph (d) of Rule 18a-3, as adopted, provides that a nonbank SBSD seeking approval to use a margin model will be subject to an application process and ongoing conditions set forth in Rule 15c3-1e and paragraph (d) of Rule 18a-1 governing the use of internal models to compute net capital.
 
 Based on staff experience, the Commission estimates it will take a nonbank SBSD approximately 50 hours to prepare and submit an application to the Commission to seekauthorization to use a model to calculate initial margin. Based on observations regarding market participants’ implementation of final swap margin rules adopted by other regulators, the Commission believes it is likely that 22 nonbank SBSDs will seek Commission approval to use a model to calculate initial margin resulting in a total industry-wide one-time hour burden of 1,100 hours. <sup>881</sup> The Commission also estimates that each nonbank SBSD will spend approximately 250 hours per year reviewing, updating, and backtesting their initial margin model, resulting in a total industry-wide annual hour burden of 5,500 hours. <sup>882</sup>
 
@@ -2158,9 +1872,7 @@ The numerous financial markets are integrated, often attracting the same market 
 
 In contrast to the securities markets, counterparty credit risk represents a major source of risk to participants in the OTC security-based swap market. <sup>969</sup> For example, in a CDS transaction, the first party, the protection buyer, agrees to pay the second party, the protection seller, a periodic premium for a set time period in exchange for the protection seller agreeing to pay some amount in the event of the occurrence of a given credit event during the same period. The ongoing reciprocal obligations of the parties in such transactions expose each to ongoing reciprocal counterparty credit risk.
 
-Currently, security-based swap market participants mitigate counterparty credit risk by:
-
-<h>1. using a central counterparty (“CCP”) such as a clearing agency or DCO to clear a trade; (2) using standardized netting agreements between counterparties; (3) performing portfolio compression to minimize counterparty exposure; and (4) requiring margin (i.e., collateral). Below is a brief discussion of the extent to which market participants make use of each of these practices in the CDS market, which comprises the majority of security-based swap transactions.</h>
+Currently, security-based swap market participants mitigate counterparty credit risk by: (1) using a central counterparty (“CCP”) such as a clearing agency or DCO to clear a trade; (2) using standardized netting agreements between counterparties; (3) performing portfolio compression to minimize counterparty exposure; and (4) requiring margin (i.e., collateral). Below is a brief discussion of the extent to which market participants make use of each of these practices in the CDS market, which comprises the majority of security-based swap transactions.
 
 <h>a. Clearing</h>
 
@@ -2184,9 +1896,7 @@ Portfolio compression reduces counterparty risk through the termination of early
 
 <h>d. Margin</h>
 
-Participants in the security-based swap market may mitigate counterparty risk by collecting collateral through margin assessment under an active collateral agreement. <sup>979</sup> The Commission lacks regulatory data on the use of collateral by participants in the security-based
-
-<h>2. collateral has actually been collected or delivered. See ISDA Margin Survey 2015. In contrast, inactive collateral agreements are those that have been executed and have no current outstanding exposure, or those that show no current activity but may be used to trade at some point in the future. Cleared OTC derivatives trades are generally subject to collateral agreements specified by the CCP.swap and swap markets. <sup>980</sup> Thus, the Commission’s quantitative understanding of margin practices in these markets is largely based on the ISDA’s annual margin surveys. These surveys suggest that: (1) the use of collateral has generally increased over the last decade; (2) collateral practices vary by type of market participant and counterparty; (3) segregation of collateral is not widespread; and (4) use of central clearing is increasing. <sup>981</sup></h>
+Participants in the security-based swap market may mitigate counterparty risk by collecting collateral through margin assessment under an active collateral agreement. <sup>979</sup> The Commission lacks regulatory data on the use of collateral by participants in the security-based (2) collateral has actually been collected or delivered. See ISDA Margin Survey 2015. In contrast, inactive collateral agreements are those that have been executed and have no current outstanding exposure, or those that show no current activity but may be used to trade at some point in the future. Cleared OTC derivatives trades are generally subject to collateral agreements specified by the CCP.swap and swap markets. <sup>980</sup> Thus, the Commission’s quantitative understanding of margin practices in these markets is largely based on the ISDA’s annual margin surveys. These surveys suggest that: (1) the use of collateral has generally increased over the last decade; (2) collateral practices vary by type of market participant and counterparty; (3) segregation of collateral is not widespread; and (4) use of central clearing is increasing. <sup>981</sup>
 
 The statistics in the margin surveys suggest that the use of collateral in security-based swap and swap transactions generally increased in the period from the end of 2002 through the end of 2012. <sup>982</sup> At the end of 2002, 53% of fixed income derivatives transactions and 30% of credit derivatives transactions were subject to a credit support agreement (“CSA”); by 2009, the percentages were 63% and 71%, respectively. <sup>983</sup> By 2012, similar statistics indicated that 79% of fixed income derivative transactions and 83% of credit derivative transactions were subject to CSAs. <sup>984</sup> With respect to non-cleared transactions, the 2012 percentages of fixed income derivative trades and credit derivative trades subject to a CSA were 73% and 79%, respectively.
 

@@ -1,146 +1,166 @@
 https://www.sec.gov/rules/final/2020/33-10825.pdf
 
-I.0.0.0 INTRODUCTION AND BACKGROUND
+	.A.0.0 General Development of Business (Item 101(a))
 
-II.0.0.0 DISCUSSION OF THE AMENDMENTS
+		.A.1.0 Elimination of the Five-Year and the Three-Year Disclosure Timeframes
 
-	II.A.0.0 General Development of Business (Item 101(a))
+			.A.1.a Proposed Amendments
 
-		II.A.1.0 Elimination of the Five-Year and the Three-Year Disclosure Timeframes
+			.A.1.b Comments on the Proposed Amendments
 
-			II.A.1.a Proposed Amendments
+			.A.1.c Final Amendments
 
-			II.A.1.b Comments on the Proposed Amendments
+		.A.2.0 Updated Disclosure in Subsequent Filings
 
-			II.A.1.c Final Amendments
+			.A.2.a Proposed Amendments
 
-		II.A.2.0 Updated Disclosure in Subsequent Filings
+			.A.2.b Comments on the Proposed Amendment
 
-			II.A.2.a Proposed Amendments
+			.A.2.c Final Amendment
 
-			II.A.2.b Comments on the Proposed Amendment
+		.A.3.0 Disclosure about Business Strategy
 
-			II.A.2.c Final Amendment
+			.A.3.a Proposed Amendments
 
-		II.A.3.0 Disclosure about Business Strategy
+			.A.3.b Comments on the Proposed Amendment
 
-			II.A.3.a Proposed Amendments
+			.A.3.c Final Amendments
 
-			II.A.3.b Comments on the Proposed Amendment
+	.B.0.0 Narrative Description of Business (Item 101(c))
 
-			II.A.3.c Final Amendments
+		.B.1.0 Principal products produced and services rendered;
 
-	II.B.0.0 Narrative Description of Business (Item 101(c))
+		.B.2.0 New products or segments;
 
-		II.B.1.0 Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product families, or customers, including governmental customers
+		.B.3.0 Sources and availability of raw materials;
 
-			II.B.1.a Proposed Amendments and Comments
+		.B.4.0 Intellectual property;
 
-			II.B.1.b Final Amendments
+		.B.5.0 Seasonality of the business;
 
-		II.B.2.0 Status of development efforts for new or enhanced products, trends in market demand, and competitive conditions
+		.B.6.0 Working capital practices;
 
-			II.B.2.a Proposed Amendments and Comments
+		.B.7.0 Dependence on certain customers;
 
-			II.B.2.b Final Amendments
+		.B.8.0 Dollar amount of backlog orders believed to be firm;
 
-		II.B.3.0 Resources material to a registrant’s business
+		.B.9.0 Business subject to renegotiation or termination of government contracts;
 
-			II.B.3.a Raw materials
+		.B.10.0 Competitive conditions;
 
-			II.B.3.b The duration and effect of all patents, trademarks, licenses, franchises, and concessions held
+		.B.11.0 The material effects of compliance with environmental laws; and
 
-		II.B.4.0 A description of any material portion of the business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government
+		.B.12.0 Number of persons employed.
 
-			II.B.4.a Proposed Amendment and Comments
+		.B.1.0 Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product	families, or customers, including governmental customers
 
-			II.B.4.b Final Amendment
+			.B.1.a Proposed Amendments and Comments
 
-		II.B.5.0 The extent to which the business is or may be seasonal
+			.B.1.b Final Amendments
 
-			II.B.5.a Proposed Amendment and Comments
+		.B.2.0 Status of development efforts for new or enhanced products, trends in market demand, and competitive conditions
 
-			II.B.5.b Final Amendment
+			.B.2.a Proposed Amendments and Comments
 
-		II.B.6.0 Compliance with material government regulations, including environmental regulations
+			.B.2.b Final Amendments
 
-			II.B.6.a Proposed Amendment
+		.B.3.0 Resources material to a registrant’s business
 
-			II.B.6.b Comments on the Proposed Amendment
+			.B.3.a Raw materials
 
-			II.B.6.c Final Amendment
+			.B.3.b The duration and effect of all patents, trademarks, licenses, franchises, and concessions held
 
-		II.B.7.0 Human capital disclosure
+		.B.4.0 A description of any material portion of the business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government
 
-			II.B.7.a Proposed Amendment
+			.B.4.a Proposed Amendment and Comments
 
-			II.B.7.b Comments on the Proposed Amendment
+			.B.4.b Final Amendment
 
-			II.B.7.c Final Amendment
+		.B.5.0 The extent to which the business is or may be seasonal
 
-	II.C.0.0 Legal Proceedings (Item 103)
+			.B.5.a Proposed Amendment and Comments
 
-		II.C.1.0 Expressly provide for the use of hyperlinks or cross-references to avoid repetitive disclosure
+			.B.5.b Final Amendment
 
-			II.C.1.a Proposed Amendment
+		.B.6.0 Compliance with material government regulations, including environmental regulations
 
-			II.C.1.b Comments on the Proposed Amendment
+			.B.6.a Proposed Amendment
 
-			II.C.1.c Final Amendment
+			.B.6.b Comments on the Proposed Amendment
 
-		II.C.2.0 Updated disclosure threshold for environmental proceedings in which the government is a party
+			.B.6.c Final Amendment
 
-	II.D.0.0 Risk Factors (Item 105)
+		.B.7.0 Human capital disclosure
 
-		II.D.1.0 Summary risk factor disclosure if the risk factor section exceeds 15 pages
+			.B.7.a Proposed Amendment
 
-			II.D.1.a Proposed Amendment
+			.B.7.b Comments on the Proposed Amendment
 
-			II.D.1.b Comments on the Proposed Amendment
+			.B.7.c Final Amendment
 
-			II.D.1.c Final Amendment
+	.C.0.0 Legal Proceedings (Item 103)
 
-		II.D.2.0 Replace the requirement to disclose the “most significant” factors with the “material” factors
+		.C.1.0 Expressly provide for the use of hyperlinks or cross-references to avoid repetitive disclosure
 
-			II.D.2.a Proposed Amendment
+			.C.1.a Proposed Amendment
 
-			II.D.2.b Comments on the Proposed Amendment
+			.C.1.b Comments on the Proposed Amendment
 
-			II.D.2.c Final Amendment
+			.C.1.c Final Amendment
 
-		II.D.3.0 Require registrants to organize risk factors under relevant headings
+		.C.2.0 Updated disclosure threshold for environmental proceedings in which the government is a party
 
-			II.D.3.a Proposed Amendment
+			.C.2.a Proposed Amendments
 
-			II.D.3.b Comments on the Proposed Amendment
+			.C.2.b Comments on the Proposed Amendments
 
-			II.D.3.c Final Amendment
+			.C.2.c Final Amendment
 
-III.0.0.0 OTHER MATTERS
+	.D.0.0 Risk Factors (Item 105)
 
-IV.0.0.0 ECONOMIC ANALYSIS
+		.D.1.0 Summary risk factor disclosure if the risk factor section exceeds 15 pages
 
-	IV.A.0.0 Baseline and Affected Parties
+			.D.1.a Proposed Amendment
 
-	IV.B.0.0 Potential Costs and Benefits
+			.D.1.b Comments on the Proposed Amendment
 
-	IV.C.0.0 Anticipated Effects on Efficiency, Competition, and Capital Formation
+			.D.1.c Final Amendment
 
-	IV.D.0.0 Alternatives
+		.D.2.0 Replace the requirement to disclose the “most significant” factors with the “material” factors
 
-V.0.0.0 PAPERWORK REDUCTION ACT
+			.D.2.a Proposed Amendment
 
-	V.A.0.0 Summary of the Collections of Information
+			.D.2.b Comments on the Proposed Amendment
 
-	V.B.0.0 Summary of Comment Letters
+			.D.2.c Final Amendment
 
-	V.C.0.0 Summary of the Impact on Collections of Information
+		.D.3.0 Require registrants to organize risk factors under relevant headings
 
-	V.D.0.0 Burden and Cost Estimates of the Amendments
+			.D.3.a Proposed Amendment
 
-VI.0.0.0 REGULATORY FLEXIBILITY ACT CERTIFICATION
+			.D.3.b Comments on the Proposed Amendment
 
-VII.0.0.0 STATUTORY AUTHORITY
+			.D.3.c Final Amendment
+
+	.A.0.0 Baseline and Affected Parties
+
+	.B.0.0 Potential Costs and Benefits
+
+		.B.1.0 Principles-Based versus Prescriptive Requirements
+
+		.B.2.0 Benefits and Costs of Specific Amendments
+
+	.C.0.0 Anticipated Effects on Efficiency, Competition, and Capital Formation
+
+	.D.0.0 Alternatives
+
+	.A.0.0 Summary of the Collections of Information
+
+	.B.0.0 Summary of Comment Letters
+
+	.C.0.0 Summary of the Impact on Collections of Information
+
+	.D.0.0 Burden and Cost Estimates of the Amendments
 
 
 
@@ -168,153 +188,819 @@ SUPPLEMENTARY INFORMATION: The Commission is amending
 
 Table of Contents
 
-<END HEADER>
+INTRODUCTION AND BACKGROUND
 
-<h>I. INTRODUCTION AND BACKGROUND</h>
+DISCUSSION OF THE AMENDMENTS
 
-<h>II. DISCUSSION OF THE AMENDMENTS</h>
+General Development of Business (Item 101(a))
 
-<h>A. General Development of Business (Item 101(a))</h>
+Elimination of the Five-Year and the Three-Year Disclosure Timeframes
 
-<h>1. Elimination of the Five-Year and the Three-Year Disclosure Timeframes</h>
+Proposed Amendments
 
-<h>a. Proposed Amendments</h>
+Comments on the Proposed Amendments
 
-<h>b. Comments on the Proposed Amendments</h>
+Final Amendments
 
-<h>c. Final Amendments</h>
+Updated Disclosure in Subsequent Filings
 
-<h>2. Updated Disclosure in Subsequent Filings</h>
+Proposed Amendments
 
-<h>a. Proposed Amendments</h>
+Comments on the Proposed Amendment
 
-<h>b. Comments on the Proposed Amendment</h>
+Final Amendment
 
-<h>c. Final Amendment</h>
+Disclosure about Business Strategy
 
-<h>3. Disclosure about Business Strategy</h>
+Proposed Amendments
 
-<h>a. Proposed Amendments</h>
+Comments on the Proposed Amendment
 
-<h>b. Comments on the Proposed Amendment</h>
+Final Amendments
 
-<h>c. Final Amendments</h>
+Narrative Description of Business (Item 101(c))
 
-<h>B. Narrative Description of Business (Item 101(c))</h>
+Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product families, or customers, including governmental customers
 
-<h>1. Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product families, or customers, including governmental customers</h>
+Proposed Amendments and Comments
 
-<h>a. Proposed Amendments and Comments</h>
+Final Amendments
 
-<h>b. Final Amendments</h>
+Status of development efforts for new or enhanced products, trends in market demand, and competitive conditions
 
-<h>2. Status of development efforts for new or enhanced products, trends in market demand, and competitive conditions</h>
+Proposed Amendments and Comments
 
-<h>a. Proposed Amendments and Comments</h>
+Final Amendments
 
-<h>b. Final Amendments</h>
+Resources material to a registrant’s business
 
-<h>3. Resources material to a registrant’s business</h>
+Raw materials
 
-<h>a. Raw materials(ii).	Comments on the Proposed Amendments (iii).	Final Amendments</h>
+(ii).	Comments on the Proposed Amendments (iii).	Final Amendments
 
-<h>b. The duration and effect of all patents, trademarks, licenses, franchises, and concessions held</h>
+The duration and effect of all patents, trademarks, licenses, franchises, and concessions held
 
 Proposed Amendments
 
 Comments on the Proposed Amendments (iii).	Final Amendment
 
+A description of any material portion of the business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government
+
+Proposed Amendment and Comments
+
+Final Amendment
+
+The extent to which the business is or may be seasonal
+
+Proposed Amendment and Comments
+
+Final Amendment
+
+Compliance with material government regulations, including environmental regulations
+
+Proposed Amendment
+
+Comments on the Proposed Amendment
+
+Final Amendment
+
+Human capital disclosure
+
+Proposed Amendment
+
+Comments on the Proposed Amendment
+
+Final Amendment
+
+Legal Proceedings (Item 103)
+
+Expressly provide for the use of hyperlinks or cross-references to avoid repetitive disclosure
+
+Proposed Amendment
+
+Comments on the Proposed Amendment
+
+Final Amendment
+
+Updated disclosure threshold for environmental proceedings in which the government is a party
+
+a.	Proposed Amendments
+
+c.	Final Amendment
+
+Risk Factors (Item 105)
+
+Summary risk factor disclosure if the risk factor section exceeds 15 pages
+
+Proposed Amendment
+
+Comments on the Proposed Amendment
+
+Final Amendment
+
+Replace the requirement to disclose the “most significant” factors with the “material” factors
+
+Proposed Amendment
+
+Comments on the Proposed Amendment
+
+Final Amendment
+
+Require registrants to organize risk factors under relevant headings
+
+Proposed Amendment
+
+Comments on the Proposed Amendment
+
+Final Amendment
+
+OTHER MATTERS
+
+ECONOMIC ANALYSIS
+
+Baseline and Affected Parties
+
+Potential Costs and Benefits
+
+Anticipated Effects on Efficiency, Competition, and Capital Formation
+
+Alternatives
+
+PAPERWORK REDUCTION ACT
+
+Summary of the Collections of Information
+
+Summary of Comment Letters
+
+Summary of the Impact on Collections of Information
+
+Burden and Cost Estimates of the Amendments
+
+REGULATORY FLEXIBILITY ACT CERTIFICATION
+
+STATUTORY AUTHORITY
+
+INTRODUCTION AND BACKGROUND
+
+On August 8, 2019, the Commission proposed amendments to modernize the description
+
+of business (Item 101), legal proceedings (Item 103), and risk factor (Item 105) disclosure requirements in Regulation S- K . <sup>3</sup> The proposals were intended to improve these disclosures for investors and to simplify compliance for registrants. <sup>4</sup>
+
+Pursuant to Section 108 of the Jumpstart Our Business Startups Act (“JOBS Act”), <sup>5</sup> the
+
+Commission staff prepared the Report on Review of Disclosure Requirements in Regulation S-K (“S-K Study”) , <sup>6</sup> which recommended that the Commission conduct a comprehensive evaluation of its disclosure requirements. Based on the S-K Study’s recommendation, the staff initiated an evaluation of the information our rules require registrants to disclose, how this information is
+
+presented, where this information is disclosed, and how we can better leverage technology as part of these efforts (collectively, the “Disclosure Effectiveness Initiative”). <sup>7</sup> The overall objective of the Disclosure Effectiveness Initiative was to improve our disclosure regime for both investors and registrants.
+
+In connection with the S-K Study and the launch of the Disclosure Effectiveness Initiative, the Commission staff invited public input on how to improve registrant disclosures. <sup>8</sup> In a separate Concept Release issued in 2016 , <sup>9</sup> the Commission staff revisited the business and financial disclosure requirements in Regulation S-K and requested public comment on whether these requirements provide the information that investors need to make informed investment and voting decisions, and whether any of our rules have become outdated or unnecessary.
+
+In developing the proposed amendments to Items 101, 103, and 105 of Regulation S-K, we considered input from comment letters we received in response to these disclosure modernization efforts. We also took into account the staff’s experience with Regulation S-K arising from the Division of Corporation Finance’s disclosure review program and changes in the regulatory and business landscape since the adoption of Regulation S-K. As a recent example, in response to the COVID-19 pandemic, the Division of Corporation Finance closely monitored registrants’ disclosure about how COVID-19 affected their financial condition and
+
+results of operations. Division staff observed that our principles-based disclosure requirements generally elicited detailed discussions of the impact of COVID-19 on registrants’ liquidity position, operational constraints, funding sources, supply chain and distribution challenges, the health and safety of workers and customers, and other registrant- and sector-specific matters. <sup>10</sup>
+
+We also considered the many changes that have occurred in our capital markets and the domestic and global economy in the more than 30 years since the adoption of these disclosure requirements, including changes in the mix of businesses that participate in our public markets, changes in the way businesses operate, changes in technology (in particular technology that facilitates the provision of, and access to, information), and other changes that have occurred simply with the passage of time. Many of the amendments reflect our long-standing commitment to a principles-based, registrant-specific approach to disclosure. Our disclosure requirements, while prescriptive in some respects, are rooted in materiality and facilitate an understanding of a registrant’s business, financial condition and prospects through the lens through which management and the board of directors manage and assess the performance of the registrant. We believe that modernizing Items 101, 103, and 105 will result in improved disclosure, tailored to reflect registrants’ particular circumstances, and reduce disclosure costs and burdens.
+
+In response to the proposed amendments, we received numerous comment letters, which we discuss in context below. <sup>11</sup> In general, commenters supported some or all of the proposed
+
+amendments, although many suggested modifications to, and expansions of, the proposals. In some cases, commenters opposed one or more of the proposed amendments, or aspects of them.
+
+After considering all of the public comments received, we are adopting the amendments substantially as proposed with certain modifications. The table below briefly summarizes the final amendments : <sup>12</sup>
+
+We discuss our revisions with respect to the proposed amendments in more detail below.
+
+DISCUSSION OF THE AMENDMENTS
+
+<END HEADER>
+
+<h>A. General Development of Business (Item 101(a))</h>
+
+Item 101(a) of Regulation S-K currently requires a description of the general development of the business of the registrant during the past five years, or such shorter period as the registrant may have been engaged in business. In describing the general development of the business, Item 101(a)(1) requires disclosure of the following:
+
+The year in which the registrant was organized and its form of organization;
+
+The nature and results of any bankruptcy, receivership or similar proceedings with respect to the registrant or any of its significant subsidiaries;
+
+The nature and results of any other material reclassification, merger or consolidation of the registrant or any of its significant subsidiaries;
+
+The acquisition or disposition of any material amount of assets otherwise than in the ordinary course of business; and
+
+Any material changes in the mode of conducting the business.
+
+The Concept Release solicited input on whether the disclosure provided under this Item continues to be useful and how this Item might be improved. <sup>13</sup> A number of commenters on the Concept Release recommended eliminating or streamlining the requirements in Item 101(a). <sup>14</sup> Several of these commenters recommended limiting Item 101(a) disclosure to material developments, <sup>15</sup> and a few commenters supported executive summaries and layering techniques for the business section. <sup>16</sup>
+
+In light of this feedback, we proposed to amend Item 101(a)(1) to make it more principles-based and to provide registrants more flexibility to tailor disclosures to their unique circumstances. We discuss the proposals and our revisions with respect to the final amendments below.
+
+<h>1. Elimination of the Five-Year and the Three-Year Disclosure Timeframes</h>
+
+<h>a. Proposed Amendments</h>
+
+Item 101(a) requires a description of the general development of the registrant’s business during the past five years, or such shorter period as the registrant may have engaged in business. Item 101(a) also requires information to be disclosed for earlier periods if material to an understanding of the general development of the business. A requirement to provide a brief outline of the general development of the business for the preceding five years was included inthe earliest form requirements for registration statements and annual reports. <sup>17</sup> The first version of Regulation S-K, adopted in 1977, included a requirement to describe the development of the registrant’s business during the prior five years, or such shorter period as the registrant may have been in business. <sup>18</sup>
+
+Item 101(h) sets forth alternative disclosure standards for smaller reporting companies that allow these registrants to, among other things, provide a less detailed description of the registrant’s business than is required under Item 101(a). <sup>19</sup> In addition, Item 101(h) requires a description of three years rather than five years of development of a smaller reporting company’s business.
+
+We proposed to amend Item 101(a) to eliminate the five-year disclosure timeframe and to apply a materiality standard to all of a registrant’s disclosure of the general development of its business. In addition, we proposed a corresponding amendment to Item 101(h) to eliminate the three-year disclosure timeframe applicable to smaller reporting companies. <sup>20</sup>
+
+<h>b. Comments on the Proposed Amendments</h>
+
+A number of commenters expressed general support for eliminating the five-year disclosure timeframe. <sup>21</sup> Several commenters stated that a prescribed disclosure timeframe does not elicit the most relevant disclosure. <sup>22</sup> One of these commenters stated that the one-size-fits- all, fixed time period under the current rule may discourage registrants from providing relevant disclosure relating to periods outside of the five-year timeframe or result in an inadequate discussion of meaningful recent developments. <sup>23</sup>
+
+Several commenters opposed eliminating the five-year disclosure timeframe. <sup>24</sup> One of these commenters stated that the proposal complicates an area where there are no existing reporting problems. <sup>25</sup> Another commenter stated that the current five-year timeframe is appropriate because it corresponds with other financial reporting requirements in Regulation S- K that have similar five-year disclosure timeframes, such as the selected financial data required by Item 301. <sup>26</sup> A different commenter stated that, without a prescribed timeframe, some registrants might consider it necessary to include information from decades past, which couldsignificantly increase the amount of disclosure with minimal added value to users. <sup>27</sup> This commenter recommended that we retain the five-year timeframe and emphasize that only material developments be disclosed.
+
+We received a few comments on the proposed elimination of the three-year timeframe in Item 101(h). <sup>28</sup> One commenter supported eliminating the three-year timeframe. <sup>29</sup> This commenter stated that investors are generally better able to make informed investment decisions when the disclosure requirements provide a basis for comparison, but noted that smaller reporting companies are by their nature much less comparable to other companies. Another commenter indicated that the Commission should retain the current requirement to provide business development disclosure for predecessors, if any, of the smaller reporting company if the smaller reporting company has not been in business for three years. <sup>30</sup>
+
+<h>c. Final Amendments</h>
+
+After considering the comments, we are adopting the amendments to Item 101(a) and Item 101(h) as proposed, but with a minor change to the rule text of Item 101(h) for clarity. The amendment to Item 101(a) will focus registrants on information material to an understanding of the development of their business, irrespective of a specific timeframe. Similarly, the amendment to Item 101(h) will eliminate the provision that requires smaller reporting companies to describe the development of their business during the last three years, and will direct smaller reporting companies, in describing the development of their business, to provideinformation for the period of time that is material to an understanding of the general development of the business.
+
+While we have considered commenter concerns about eliminating a fixed timeframe for the description of a registrant’s business, we continue to believe that the current timeframes of five years and three years, respectively, may not always elicit the most relevant disclosure. With respect to one commenter’s belief that the five-year time period should be retained because it corresponds to other disclosure requirements, we do not think that elimination of the specified period will result in the loss of an important correlation with other disclosure requirements. <sup>31</sup> We believe the final amendments will improve disclosure by affording registrants additional flexibility to tailor their disclosure and provide information material to an understanding of their business. Some registrants may prefer to describe the development of their business over a longer period in order to provide the information that may be material to an investment or voting decision, while others may conclude that the material aspects of their business development can be described over a shorter timeframe. Moreover, we believe the benefits of more tailored and effective disclosure in this context would justify any corresponding loss in comparability.
+
+<h>2. Updated Disclosure in Subsequent Filings</h>
+
+<h>a. Proposed Amendments</h>
+
+Currently, registrants are required to provide disclosure regarding the general development of the business in certain registration statements and annual reports. For filingsmade after a registrant’s initial filing, we proposed to amend Item 101(a)(2) and Item 101(h) to permit a registrant to provide only an update of its business development disclosure with a focus on material developments, if any, in the reporting period. In addition, the proposed amendments would require a registrant that is using this provision to incorporate by reference a discussion of the general development of the registrant’s business that, together with the update, would contain the full discussion. The registrant would be required to incorporate the prior discussion by reference using one active hyperlink to the registrant’s most recent filing containing that discussion. <sup>32</sup> Under this approach, a reader would have access to a full discussion by reviewing the updated business development disclosure and the disclosure from the previous filing that is incorporated by reference. Alternatively, a registrant could elect to provide a complete discussion of its business development, including any material updates, in which case, it would not need to incorporate by reference business development disclosure from a previous filing.
+
+<h>b. Comments on the Proposed Amendment</h>
+
+A number of commenters generally supported permitting the use of incorporation by reference, and hyperlinking to the most recently filed full discussion of the general development of the registrant’s business. <sup>33</sup> One of these commenters stated that this would result in a more organized and efficient picture of the registrant’s business for the investing public. <sup>34</sup> Some of these commenters, while supportive of the proposal, did not support mandating the proposed method to present updated Item 101(a)(1) disclosure, as this method might not always be usefulto investors. <sup>35</sup> These commenters stated that when registrants have frequent material updates ( e.g. , multiple significant acquisitions), including the full disclosure of the general development of the business in each filing (or every few filings) may be the most effective way to provide appropriate information to investors in a format that is easy for them to understand.
+
+A number of commenters opposed the proposal to allow registrants to provide an update of material developments during the reporting period and require a hyperlink to the full discussion of the general development of the registrant’s business disclosure, because they stated that this approach could lead to a disjointed narrative that would not be user-friendly. <sup>36</sup> One commenter stated the approach would not reduce burdens on registrants as the prior period disclosure has already been prepared. <sup>37</sup> Several other commenters expressed concern that the term “reporting period” limited the period of time over which a registrant could provide an update about material developments. <sup>38</sup>
+
+We also received comments recommending that the proposal should not mandate the use of a single hyperlink reference. <sup>39</sup> These commenters stated that if there are multiple updates in more than one reporting period, registrants should be allowed to incorporate by reference and hyperlink to all relevant filings to provide a full discussion of the general development of the business.
+
+<h>c. Final Amendment</h>
+
+After considering the comments, we are adopting the amendments to Item 101(a)(2) and Item 101(h) substantially as proposed, but with clarifications. <sup>40</sup> Under the final amendments, for filings subsequent to its initial registration statement, a registrant may provide an update of the general development of its business disclosing all of the material developments that have occurred, if any, since the most recent full discussion of the general development of its business disclosed in a previously filed registration statement or report. If a registrant chooses this approach, it must incorporate by reference the most recent full discussion of the general development of the registrant’s business. Moreover, under the final amendments, registrants are only permitted to incorporate the full discussion of the general development of its business from a single previously filed document. If a registrant does not choose this approach, it must provide a complete discussion of its business development, including any material updates in each filing. In this regard, the approach that we are adopting is more restrictive than existing incorporation by reference requirements that, subject to certain limits, allow registrants to provide disclosure by incorporating by reference some or all of it from more than one previously filed document. <sup>41</sup>
+
+In response to the concerns expressed by some commenters that the proposal should notbe mandatory, <sup>42</sup> we have added language to the final amendment to clarify that the revision to Item 101(a)(2) provides an optional method for updating general business development disclosure using incorporation by reference to one document. In addition, based on comments received expressing concerns that the term “reporting period” limited the period of time over which a registrant could provide an update about material developments, <sup>43</sup> the final amendments clarify that registrants using the update option must disclose all of the material developments that have occurred since the most recent full discussion of the general development of its business disclosed in a previously filed registration statement or report.
+
+As we noted in the Proposing Release, the repetition of Item 101(a) disclosure in successive filings may obscure important developments in a registrant’s business. To the extent that registrants present and update their Item 101(a) disclosure under this method, we believe that the final amendments will help focus investor attention on material developments in a registrant’s business.
+
+<h>3. Disclosure about Business Strategy</h>
+
+<h>a. Proposed Amendments</h>
+
+We proposed amending the existing prescribed disclosure topics in Item 101(a)(1) to make them more principles-based. The proposed amendments would replace the list of prescribed disclosure topics with a non-exclusive list of the types of information that a registrant may need to disclose. The proposed amendments would also clarify that disclosure of a topic would be required only to the extent such information is material to an understanding of the general development of a registrant’s business. As proposed, amended Item 101(a)(1) no longerwould include disclosure of the year that the registrant was organized and its form of organization, or disclosure of any material changes in the mode of conducting the registrant’s business in its list of disclosure topics. Nevertheless, such disclosure would continue to be required if material to an understanding of the general development of the registrant’s business. In addition, we also proposed to include a new disclosure topic that would require, if material to an understanding of the general development of the business, disclosure of transactions and events that affect or may affect the company’s operations, including material changes to a registrant’s previously disclosed business strategy. We noted that such disclosure may be material to investors and many registrants currently include it in their initial registration statements.
+
+<h>b. Comments on the Proposed Amendment</h>
+
+Many commenters expressed general support for moving to a more principles-based approach to disclosure about the development of a registrant’s business. <sup>44</sup> Several commenters stated that a more principles-based approach would reduce the disclosure of immaterial information and give registrants the flexibility to focus on information that is material and unique to the registrant. <sup>45</sup> Several commenters, however, opposed the more principles-based approach under the proposals. <sup>46</sup>
+
+A number of commenters expressed support for including “material changes to a registrant’s previously disclosed business strategy” as a non-exclusive disclosure example. <sup>47</sup> One commenter viewed the strategic orientation of a company as material to investors and suggested that changes to it should be disclosed to investors on a continuing basis. <sup>48</sup> Several other commenters stated that disclosure of a registrant’s business strategy, not just changes to previously disclosed business strategy, should be required for all registrants. <sup>49</sup> Another commenter expressed concern that limiting the requirement to disclose only material changes in business strategy would reduce the amount of business strategy information that companies are currently providing annually to their investors. <sup>50</sup> This commenter recommended that the Commission require annual disclosure of a company’s business strategy. Another commenter who expressed support for requiring disclosure of material changes to a previously disclosed business strategy stated that the rules should not mandate disclosure of business strategy because it could cause some registrants to disclose competitive or sensitive forward-looking information. <sup>51</sup> To help mitigate this risk, this commenter recommended that a safe harbor provision be added to the amendment.
+
+Several commenters opposed including transactions and events that affect or may affect the company’s operations and material changes to a registrant’s previously disclosed businessstrategy as non-exclusive disclosure topics. <sup>52</sup> Some of these commenters stated that disclosure of material changes to a registrant’s previously disclosed business strategy is unnecessary and duplicative because disclosure regarding changes in business strategy would already be reflected in the MD&A. <sup>53</sup> Other commenters stated that to the extent any change would constitute a known trend or uncertainty likely to cause the most recent financial results not to be indicative of future results, Item 303 of Regulation S-K already requires such disclosure. <sup>54</sup> Some commenters that opposed this disclosure topic also stated that the disclosure standard in the proposed amendment was different from the disclosure standard under the MD&A requirements, which provides for disclosure of information that a registrant “reasonably expects will have a material favorable or unfavorable impact on net sales or revenues or income from continuing operations.” <sup>55</sup> These commenters recommended that, if the proposed amendment were adopted, the amendment should be revised to harmonize its standard with the MD&A disclosure standard.
+
+Another commenter noted that, absent a definition of the term “business strategy,” it would be difficult for registrants to determine whether disclosure is warranted. <sup>56</sup> Another commenter stated that there is a broad range in the interpretation of what “strategy” means and that the amendment would not result in disclosures that would enable investors to makemeaningful comparisons among companies, even among companies within the same industry. <sup>57</sup> Several commenters expressed concern that the proposal would require registrants todisclose sensitive proprietary or business information regarding a registrant’s business strategy. <sup>58</sup> One of these commenters recommended that, if adopted, the Commission should clarify that disclosure of proprietary or competitively sensitive information is not required. <sup>59</sup>
+
+Several commenters stated that the proposal could result in disparate treatment between registrants that provide disclosure of their business strategy and therefore would be required to disclose any material changes to their strategy, and registrants that have not previously provided disclosure of their business strategy. <sup>60</sup> One of these commenters stated that a requirement to provide disclosure of any material change in business strategy could become a deterrent to companies considering conducting an initial public offering. <sup>61</sup>
+
+<h>c. Final Amendments</h>
+
+We are adopting the amendments to Item 101(a)(1) largely as proposed, but with several modifications in response to comments received. As proposed, the final amendments retain the existing disclosure topics addressing the results of any bankruptcy, receivership, or similar proceedings; the nature and results of any other material reclassification, merger, or consolidation of the registrant or any of its significant subsidiaries; and the acquisition ordisposition of any material amount of assets otherwise than in the ordinary course of business. <sup>62</sup>
+
+We are revising the disclosure topic regarding transactions and events that affect or may affect the company’s operations, including material changes to a registrant’s previously disclosed business strategy, to eliminate the requirement to disclose transactions and events that affect or may affect the company’s operations. We were persuaded by the commenter who stated that this disclosure would be required under Item 303 of Regulation S-K. <sup>63</sup> We agree that the proposed disclosure requirement could result in repetitive disclosures, which would be contrary to one of our objectives in amending Item 101(a). However, we are adopting as a disclosure topic material changes to a registrant’s previously disclosed business strategy. While some commenters indicated that the proposal could result in disparate treatment between registrants that currently provide disclosure of their business strategy and those that do not, <sup>64</sup> we believe that once a registrant has disclosed its business strategy, it is appropriate for it to discuss changes to that strategy, to the extent material to an understanding of the development of the registrant’s business. As noted by one commenter, many registrants currently tailor their responses under existing Item 101(a) to provide disclosure regarding their business strategy, although this disclosure is not specifically required. <sup>65</sup> The final amendments build on thesepractices. We emphasize, however, that the principles-based approach of the final amendments will provide registrants with the flexibility to determine the appropriate level of detail for these disclosures and should mitigate any disincentives the amendments create for registrants to disclose their business strategy. We are also not adopting a definition of the term “business strategy,” as suggested by one commenter, <sup>66</sup> to provide registrants with the flexibility to tailor their disclosures according to their facts and circumstances.
+
+We are not adding a requirement to disclose a company’s business strategy annually, contrary to the suggestion of a commenter. <sup>67</sup> Given that the final amendments are intended to make Item 101(a) more principles-based and require disclosure only to the extent material to an understanding of a registrant’s business, we believe that requiring annual disclosure of a company’s business strategy would be inconsistent with these goals.
+
+In addition, we are not adopting a safe harbor to address the concern of disclosing competitive or sensitive forward-looking information, as recommended by one commenter. We believe the principles-based nature of the final amendments to Item 101(a)(1) will provide registrants with considerable flexibility to tailor their disclosures to avoid disclosing competitively harmful information while still providing material information to investors. In addition, the amendments do not alter the application of existing statutory safe harbor provisions of the Private Securities Litigation Reform Act (“PSLRA”) that would be available for forward-looking statements made by registrants. <sup>68</sup> We therefore do not believe a new safe harbor is necessary.
+
+U.S.C. 78u-5(b)].
+
+<h>B. Narrative Description of Business (Item 101(c))</h>
+
+Item 101(c) requires a narrative description of the business done and intended to be done by the registrant and its subsidiaries, focusing upon the registrant’s dominant segment or each reportable segment about which financial information is presented in the financial statements.
+
+To the extent material to an understanding of the registrant’s business taken as a whole, the description of each such segment must include ten specific items listed in Item 101(c) ( see Items (1)-(10) in the list below). Item 101(c) specifies two other items that must be discussed with respect to the registrant’s business in general ( see Items (11)-(12) in the list below), although, where material, the registrant must also identify the segments to which those matters are significant. Item 101(c) requires disclosure of: <sup>69</sup>
+
+<h>1. Principal products produced and services rendered;</h>
+
+<h>2. New products or segments;</h>
+
+<h>3. Sources and availability of raw materials;</h>
+
+<h>4. Intellectual property;</h>
+
+<h>5. Seasonality of the business;</h>
+
+<h>6. Working capital practices;</h>
+
+<h>7. Dependence on certain customers;</h>
+
+<h>8. Dollar amount of backlog orders believed to be firm;</h>
+
+<h>9. Business subject to renegotiation or termination of government contracts;</h>
+
+<h>10. Competitive conditions;</h>
+
+<h>11. The material effects of compliance with environmental laws; and</h>
+
+<h>12. Number of persons employed.</h>
+
+Many of the enumerated disclosure requirements in Item 101(c) were adopted in 1973. <sup>71</sup> As businesses, markets, and technology have changed since that time, some of the prescribed disclosure topics in Item 101(c) are not relevant to all registrants, and these disclosure requirements may elicit disclosure that is not material to a particular registrant. In the S-K Study, the staff recommended a review of these requirements in light of changes that have occurred in the way businesses operate. <sup>72</sup> In addition, the Concept Release invited comment on whether Item 101(c) continues to provide useful information to investors and how the Item’s requirements may be improved. <sup>73</sup>
+
+To facilitate application of our principles-based revisions to Item 101, we proposed to amend Item 101(c) to be more clearly principles-based by replacing the current list of specific items with a non-exclusive list of disclosure topic examples. <sup>74</sup> In developing the proposal, we took into account the comments received on the Concept Release. For example, a number ofcommenters on the Concept Release stated that working capital practices might be better addressed in MD&A. <sup>75</sup> Under the proposed amendments to Item 101(c), the revised rule would not explicitly reference the disclosure requirements under Item 101(c)(1)(vi) regarding disclosure of working capital practices, Item 101(c)(1)(ii) requirement regarding disclosure about new segments, or the Item 101(c)(1)(viii) dollar amount of backlog orders believed to be firm. Nevertheless, under the proposed principles-based approach, registrants would have to provide disclosure about these topics, as well as any other topics regarding their business, if they are material to an understanding of the business and not otherwise disclosed. For example, if supply chain finance arrangements used by a registrant are a significant part of its working capital practices, they may be material to understanding the nature of its commercial relationships. While MD&A disclosures on the topic are more focused on the potential material impact of such arrangements on the registrant’s periodic cash flows and financial condition, the proposed principles-based approach would call for additional disclosure if material to an understanding of those commercial relationships. We discuss the proposals and our revisions with respect to the final amendments below. <sup>76</sup>
+
+<h>1. Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product	families, or customers, including governmental customers</h>
+
+<h>a. Proposed Amendments and Comments</h>
+
+We proposed to retain as a listed disclosure topic information regarding revenue-generating activities, products and/or services, and any dependence on key products, services, product families or customers, including governmental customers, to the extent this information is material to an understanding of the registrant’s business. We did not receive any comments that addressed this proposal.
+
+<h>b. Final Amendments</h>
+
+We are adopting the amendment as proposed. <sup>77</sup> Although we did not receive any comments on this proposal, feedback in response to the Concept Release indicated that these elements are key to how reasonable investors often evaluate the future prospects of a registrant’s business and that highlighting these topics should elicit more informative disclosures. <sup>78</sup> We continue to believe that disclosure regarding revenue-generating activities, products and/or services, and any dependence on key products, services, product families, or customers, including governmental customers, generally would be material to an investment decision.
+
+<h>2. Status of development efforts for new or enhanced products, trends in market demand, and competitive conditions</h>
+
+<h>a. Proposed Amendments and Comments</h>
+
+We proposed to retain as a listed disclosure topic information regarding development efforts for new or enhanced products, trends in market demand, and competitive conditions. We had proposed this disclosure topic, which elicits more granular information of the type currently specified in Item 101(c), in response to comments received on the Concept Release.
+
+Commenters had recommended more disclosure of a registrant’s competitive position, especially the market share of its products and industry trends shaping the nature of competition. <sup>79</sup> Our principles-based approach to this topic was intended to provide registrants with flexibility to disclose this information to the extent material to an understanding of their business. We received a few comments on this proposal. <sup>80</sup> One commenter recommended that the proposal clarify that registrants are not required to disclose proprietary or other sensitive information, which could damage their competitive position. <sup>81</sup> Another commenter recommended that this disclosure topic be revised to include “substantial trends known to the company that may ultimately affect market demand. <sup>82</sup>
+
+<h>b. Final Amendments</h>
+
+We are adopting the amendments as proposed. We are not adding a clarification that the disclosure of proprietary or other sensitive information is not required, as suggested by one commenter. We believe the principles-based nature of Item 101(c) disclosure, which the final amendments are intended to improve, should provide registrants with sufficient flexibility in how they disclose this information, to the extent material, without causing undue harm to their business operations. Indeed, based on our experience with the current rules, we are not aware that registrants have faced significant difficulties providing this disclosure. We are also not adopting revisions to the final amendments to include disclosure of substantial trends known to the company that may ultimately affect market demand, as suggested by one commenter. Theprinciples-based disclosure topic should provide registrants with flexibility to disclose information about competition that is material to an understanding of their business. We also note that Item 303(a)(3)(ii) of Regulation S-K requires a registrant to describe any known trends or uncertainties that have had or that the registrant reasonably expects will have a material impact (favorable or unfavorable) on net sales or revenues or income from continuing operations. In addition, if the registrant knows of events that will cause a material change in the relationship between costs and revenues, the change in the relationship must be disclosed under Item 303(a)(3)(ii). <sup>83</sup> Thus, including this disclosure in Item 101(c) could result in duplicative disclosures.
+
+<h>3. Resources material to a registrant’s business</h>
+
+Currently, two of the twelve disclosure requirements in Item 101(c) relate to registrants’ resources: Item 101(c)(1)(iii) requires disclosure of the sources and availability of raw materials, and Item 101(c)(1)(iv) requires disclosure of the importance to the segment and the duration and effect of all patents, trademarks, licenses, franchises, and concessions held, each to the extent material to an understanding of the registrant’s business taken as a whole. We proposed amending these requirements to refocus registrants’ disclosure on all resources material to their business. Specifically, we proposed to retain these disclosure topics with minor modifications and combine them into one principles-based, non-exclusive set of examples of information that should be disclosed to extent material to an understanding of a registrant’s business as a whole.
+
+<h>a. Raw materials</h>
+
+Item 101(c)(1)(iii) currently requires disclosure of the sources and availability of raw materials. We received several comment letters in response to the Concept Release that specifically addressed this requirement. <sup>84</sup> A few commenters on the Concept Release recommended retaining this requirement. <sup>85</sup> One of these commenters specified that the disclosure requirement should be retained with a materiality overlay, <sup>86</sup> while the other commenter stated that disclosure should only be required if raw materials are difficult to obtain. <sup>87</sup> Another commenter on the Concept Release stated that, when material, registrants provide disclosures in response to the specific sub-items in Item 101(c), including sources and availability of raw materials, in the business narrative or elsewhere, including MD&A. <sup>88</sup> We proposed retaining sources and availability of raw materials as a listed disclosure topic in Item 101(c).
+
+Comments on the Proposed Amendments
+
+We received limited comment on this aspect of the proposed amendments. One commenter supported the proposal, but suggested that it should specifically direct registrants to discuss how climate change will affect access to raw materials. <sup>89</sup> Another commenter stated that the availability of raw materials as a disclosure topic was established at a time when the U.S.economy was largely manufacturing-based and is no longer representative of the value drivers of today’s technology-based and intangible-based economy. <sup>90</sup>
+
+Final Amendments
+
+After considering the comments received, we are adopting the amendments as proposed.
+
+In accordance with our overall approach to Item 101(c), the final amendments emphasize a principles-based approach and clarify that disclosure regarding sources and availability of raw materials is required only when material to a registrant’s business. Although the disclosure topic of raw materials might not be applicable to all registrants, we continue to believe that, for businesses whose products or services depend on raw materials, disclosures regarding such raw materials should be provided to the extent material. The one commenter’s suggestion that the final amendments should require all registrants to specifically discuss how climate change will affect access to raw materials is not consistent with the principles-based nature of Item 101(c), so we are not adopting it.
+
+<h>b. The duration and effect of all patents, trademarks, licenses, franchises, and concessions held</h>
+
+Proposed Amendments
+
+Item 101(c)(1)(iv) requires disclosure of the duration and effect of all patents, trademarks, licenses, franchises, and concessions held to the extent material to an understanding of the registrant’s business taken as a whole. Since the promulgation of this disclosure requirement, intellectual property has become increasingly important to the business of a broad range of registrants. Correspondingly, many registrants provide detailed disclosure in response to Item 101(c)(1)(iv), although disclosure varies among registrants and across industries. The
+
+Concept Release solicited feedback on whether to maintain, expand or revise the current scope of this Item and requested comment on the competitive costs of this disclosure. Numerous commenters supported maintaining the current scope of Item 101(c)(1)(iv), <sup>91</sup> with many of these opposed to expanding this Item based on competitive concerns. <sup>92</sup>
+
+In light of this feedback we proposed to retain as a listed disclosure topic the duration and effect of patents, trademarks, licenses, franchises, and concessions held as non-exclusive types of property that may be material to a registrant’s business.
+
+Comments on the Proposed Amendments
+
+In response to the Commission’s request for comment on whether the proposed amendments should include as a disclosure topic the duration and effect of copyright and trade secret protection, one commenter stated that the duration and effect of copyright protection is extrinsic information that is derived from applicable U.S. and foreign copyright laws. <sup>93</sup> This commenter, however, opposed requiring disclosure of the duration of trade secret protection on the ground that this information is generally indefinite as it lasts only as long as the secret is maintained. Another commenter stated that disclosure of a registrant’s reliance on copyrights and trade secrets is warranted because such disclosure is significant to an understanding of theregistrant’s business and strategic plans. <sup>94</sup> Other commenters, however, opposed requiring disclosure of copyrights and trade secrets, contending that such disclosure would not benefit investors and would be costly and time-consuming for registrants to prepare. <sup>95</sup> These concerns are consistent with comments we received on the Concept Release, in which commenters indicated that because copyright and trade secret protection is not contingent on registration, a requirement to disclose even a subset of these two types of intellectual property would force registrants to systematically identify and catalog these types of intellectual property, which could impose substantial costs and require significant time. <sup>96</sup>
+
+Final Amendment
+
+After consideration of the comments, we are adopting the amendment as proposed. We are retaining, as a non-exclusive example, disclosure about the duration and effect of all patents, trademarks, licenses, franchises, and concessions held to the extent material to an understanding of the registrant’s business taken as a whole. We are not expanding the requirement to include the duration and effect of copyright and trade secret protections because of the cost and other concerns highlighted by commenters.
+
 <h>4. A description of any material portion of the business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government</h>
+
+U.S. Chamber of Commerce (July 20, 2016), FedEx Corporation (July 21, 2016), Intellectual Property Owners Association (July 15, 2016), National Association of Manufacturers (July 21, 2016), Association of American Publishers (July 21, 2016), available at https:// www.sec.gov/comments/s7-06- 16/s70616.htm. But see letters from International Integrated Reporting Council (July 20, 2016) and CFA Institute (Oct. 6, 2016) (supporting the inclusion of copyrights under Item 101(c)), available at https:// www.sec.gov/comments/s7-06-16/s70616.htm.
 
 <h>a. Proposed Amendment and Comments</h>
 
+Item 101(c)(1)(ix) requires, to the extent material to an understanding of the registrant’s business taken as a whole, disclosure of any material portion of a business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government.
+
+Business contracts with agencies of the U.S. government and the various laws and regulations relating to procurement and performance of U.S. government contracts impose terms and rights that are different from those typically found in commercial contracts. In a 1972 Notice to Registrants, the Commission noted that government contracts are subject to renegotiation of profit and to termination for the convenience of the Government. <sup>97</sup> At any given time in the performance of a government contract, an estimate of its profitability may be subject not only to additional costs to be incurred, but also to the outcome of future negotiations or possible claims relating to costs already incurred. <sup>98</sup>
+
+Registrants with U.S. Government contracts tend to disclose that the funding of these contracts is subject to the availability of Congressional appropriations and that, as a result, long- term government contracts are partially funded initially with additional funds committed only as Congress makes further appropriations. These registrants disclose that they may be required to maintain security clearances for facilities and personnel in order to protect classified information. Additionally, these registrants state that they may be subject to routine government audits and investigations, and any deficiencies or illegal activities identified during the audits orinvestigations may result in the forfeiture or suspension of payments and civil or criminal penalties.
+
+We proposed to retain renegotiation or termination of government contracts as a disclosure topic, citing our continued belief that, when material to a business, disclosure of this information is important for investors. We did not receive any comments that addressed this proposal.
+
 <h>b. Final Amendment</h>
+
+We are adopting the amendment as proposed for the reasons discussed above.
 
 <h>5. The extent to which the business is or may be seasonal</h>
 
 <h>a. Proposed Amendment and Comments</h>
 
+Item 101(c)(1)(v) requires, to the extent material to an understanding of the registrant’s business taken as a whole, disclosure of the extent to which the business of the segment is or may be seasonal. Although we recently considered eliminating this disclosure requirement, noting that other Regulation S-K disclosure requirements and U.S. GAAP require disclosures about seasonality in interim periods , <sup>99</sup> we ultimately decided to retain Item 101(c)(1)(v) and instead to delete Instruction 5 to Item 303(b) of Regulation S-K, which also required a discussion of any seasonal aspects that have had a material effect on a registrant’s financial condition or results of operations. <sup>100</sup> We proposed to retain this Item out of concern about thepotential loss of information in the fourth quarter regarding the extent to which the business of a registrant or its segment(s) is or may be seasonal because U.S. GAAP may not elicit this disclosure. <sup>101</sup>
+
+We received one comment on this aspect of the proposed amendments. The commenter recommended that the Commission require registrants with seasonal businesses to discuss the impact of climate change on their businesses. <sup>102</sup>
+
 <h>b. Final Amendment</h>
+
+We are adopting the amendment as proposed. Consistent with our previous evaluation of this Item, we continue to believe that the seasonality of the business or a segment should be disclosed to the extent it is material to an understanding of the registrant’s business. Although a commenter suggested that this non-exclusive example should require disclosure about the impact of climate change on seasonal businesses, consistent with our response to a similar suggestion regarding the raw materials disclosure topic, we are not adding this additional specificity to avoid undermining the principles-based nature of Item 101(c). Our principles- based approach to this disclosure affords registrants sufficient flexibility to address relevant factors that may affect seasonality to the extent material to an understanding of the registrant’s business.
 
 <h>6. Compliance with material government regulations, including environmental regulations</h>
 
 <h>a. Proposed Amendment</h>
 
+Item 101(c)(1)(xii) requires disclosure of the material effects of compliance with environmental laws on the capital expenditures, earnings, and competitive position of the registrant and its subsidiaries, as well as any material estimated capital expenditures for the remainder of the fiscal year, the succeeding fiscal year, and such future periods that the registrant deems material.
+
+Pursuant to the National Environmental Policy Act of 1969 (“NEPA”), <sup>103</sup> which mandated consideration of the environment in regulatory action, in 1973, the Commission adopted a new provision to require disclosure of the material effects that compliance with Federal, state, and local environmental laws may have on the capital expenditures, earnings, and competitive position of the registrant, now designated as Item 101(c)(1)(xii). <sup>104</sup> Subsequent litigation <sup>105</sup> concerning both the denial of a rulemaking petition and adoption of the 1973 environmental disclosure requirements resulted in the Commission initiating public proceedings primarily to elicit comments on whether the provisions of NEPA required further rulemaking. <sup>106</sup> As a result of these proceedings, the Commission in 1976 amended the Item 101 requirements to specifically require disclosure of any material estimated capital expenditures for environmental control facilities for the remainder of the registrant’s current and succeedingfiscal years, and for any further periods that are deemed material. <sup>107</sup>
+
+Although there is no separate line item requiring disclosure of government regulations that may be material to a registrant’s business, it is common practice for many registrants to include disclosure regarding such information in response to Item 101(c)(1)(xii). In response to the Concept Release, a few commenters supported requiring registrants to disclose all government regulations material to their business given that many registrants already voluntarily provide such information. <sup>108</sup>
+
+In recognition of this common practice and because we believed this disclosure would provide important information to investors, we proposed including the material effects of compliance with material government regulations, not just environmental laws, as a listed disclosure topic in Item 101(c).
+
 <h>b. Comments on the Proposed Amendment</h>
 
+A number of commenters supported the proposal to include the material effects of compliance with material governmental regulations, not just environmental laws, as a listed disclosure topic in Item 101(c). <sup>109</sup> Several of these commenters affirmed that the proposal was consistent with current market practice and would provide material information to investors. <sup>110</sup>
+
+Section II.B.6 of the Proposing Release, supra note 3.
+
+One commenter suggested that the Commission should require disclosure of the impact of material government regulations on the business and specify that this must include disclosure about environmental risks. <sup>111</sup> This commenter also recommended the Commission adopt a more prescriptive approach to ensure that this disclosure provides investors with consistent, comparable data about regulatory compliance matters. Other commenters recommended that the Commission should require disclosure of international tax strategies. <sup>112</sup>
+
+One commenter stated that the proposed amendment was confusing because the text of the amendment repeatedly used the term “material” and urged the Commission to clarify the rule text. <sup>113</sup> Another commenter recommended that the rule should define the term “environmental regulations” to include, as examples of regulations warranting disclosure, animal-welfare and wildlife regulations, and regulations relating to climate change. <sup>114</sup>
+
+Several commenters opposed the proposal to include the material effects of compliance with material governmental regulations, not just environmental laws, as a listed disclosure topic in Item 101(c). <sup>115</sup> All of these commenters stated that registrants are already required to disclose the material impact of compliance with material governmental regulations in their MD&A, risk factor, or financial statement disclosure. Some of these commenters also expressed concern that the preparation of this disclosure could be burdensome to registrants and may result in boilerplate disclosure, as registrants might feel compelled to provide lengthy recitations of all ofthe laws that affect their business and operations. <sup>116</sup>
+
 <h>c. Final Amendment</h>
+
+After considering the comments received, we are adopting the amendments largely as proposed with certain modifications. Some commenters opposed the proposal, asserting that disclosure of the material impact of compliance with material governmental regulations is required under MD&A or financial statement requirements. Item 101(c)(1), however, seeks to elicit broader disclosure that may be material to an understanding of the registrant’s business as a whole, whereas disclosure in a registrant’s MD&A or financial statements may focus more narrowly on the specific impact on a registrant’s financial results, liquidity and capital resources or balance sheet. As such, we agree with the commenters that supported the proposal and stated that it would provide material information to investors. <sup>117</sup>
+
+The final rule will require, to the extent material to an understanding of the business taken as a whole, disclosure of the material effects that compliance with government regulations, including environmental regulations, may have upon the capital expenditures, earnings, and competitive position of the registrant and its subsidiaries. The final rule also will continue to require registrants to include the estimated capital expenditures for environmental control facilities for the current fiscal year and any other subsequent period that is material.
+
+In response to the concerns of a commenter, <sup>118</sup> we have revised the text of the proposed rule to eliminate the second instance of the word “material” that appeared before the term“government.” <sup>119</sup> Although we included “material” there to make clear that disclosure should not include a discussion of every regulation that may apply to a registrant, we were persuaded by commenters that the dual use of the term “material” in the text of the proposed amendment could be confusing. <sup>120</sup> The final amendment more closely follows the existing text of Item 101(c)(1)(xii). As we noted in the Proposing Release, while existing Item 101(c)(1)(xii) does not require disclosure of government regulations that are material to a registrant’s business, it is common practice for many registrants to include such disclosure in response to the Item.
+
+Consequently, we think this formulation will be less likely to cause confusion. In addition, we believe that this principles-based requirement will help provide investors with material information about a registrant’s compliance with the government regulations that are material to an understanding of the registrant’s business. For this reason, we are not adding prescriptive requirements to the final amendment, such as requiring disclosure of international tax strategies as recommended by some commenters. <sup>121</sup> The principles-based approach of the final rule should improve the ability of each registrant to tailor its disclosure to discuss only those governmental regulations that are of particular importance to it. The Item does not call for, or require, a recitation of every regulation that affects a registrant’s business and operations.
+
+With respect to one commenter’s suggestion that the final amendment define the term “environmental regulations” to include animal-welfare and wildlife regulations, and regulations relating to climate change, <sup>122</sup> we do not believe that this additional specificity is necessary. Oneof the purposes of the final amendment is to make the disclosure of the material effects of compliance with government regulations more principles-based. Although specific categories of government regulations are not identified in the final amendment, disclosure of the material effects of compliance with government regulations, including animal-welfare and wildlife regulations, would be required if material to an understanding of the registrant’s business.
 
 <h>7. Human capital disclosure</h>
 
 <h>a. Proposed Amendment</h>
 
+Item 101(c)(1)(xiii) currently requires disclosure of the number of persons employed by the registrant. Some registrants distinguish between the number of full-time and part-time employees, and others specify the number of employees in each department or division. Some registrants with large numbers of employees disclose the approximate number of employees and some registrants discuss their employees’ membership in a union or similar organization.
+
+The Concept Release solicited input on this disclosure requirement, requesting feedback on, among other things, whether this numeric disclosure is still important to investors, and what, if any, improvements could be made. <sup>123</sup> Some commenters on the Concept Release recommended retaining and expanding the requirement, while others questioned the continued relevance of the requirement. <sup>124</sup>
+
+Subsequent to the issuance of the Concept Release, we received a rulemaking petition requesting that the Commission adopt new rules, or amend existing rules, to require registrants to disclose information about their human capital management policies, practices andperformance. <sup>125</sup> This rulemaking petition generated a substantial number of comments supporting increased disclosure of human capital management policies and specific human capital metrics. <sup>126</sup>
+
+In light of the feedback that we received on the Concept Release and the Human Capital Rulemaking Petition, and as part of our efforts to modernize disclosure, we proposed to amend Item 101(c) to replace the current requirement to disclose the number of persons employed by the registrant with a requirement to provide a description of the registrant’s human capital resources, including in such description any human capital measures or objectives that management focuses on in managing the business, to the extent such disclosures would be material to an understanding of the registrant’s business taken as a whole. <sup>127</sup> In addition, the proposed amendment included non-exclusive examples of human capital measures and objectives that may be material, depending on the nature of the registrant’s business and workforce, such as measures or objectives that address the attraction, development, and retention of personnel.
+
 <h>b. Comments on the Proposed Amendment</h>
+
+Many commenters expressed general support for the inclusion of human capital as adisclosure topic. <sup>128</sup> Several commenters expressly supported a principles-based approach to human capital disclosure. <sup>129</sup> While supporting the principles-based approach in the proposal, some commenters urged the Commission to proceed with caution and expressed concerns that prescriptive requirements may elicit immaterial disclosures. <sup>130</sup> Many other commenters called for a combination of principles-based and prescriptive requirements that would include disclosure of specified quantitative metrics. <sup>131</sup>
+
+Many other commenters expressed opposition to the proposed principles-based approach to human capital disclosure. <sup>132</sup> Some of these commenters stated that the proposed principles-based approach would not likely elicit meaningful information about human capital practices, or provide sufficiently comparable disclosure, unless grounded in standardized metrics. <sup>133</sup> Several commenters stated that companies disclose a wide range of human capital information and that this could lead to confusion among investors. <sup>134</sup> One commenter stated that requiring human capital disclosure would be inconsistent with the Commission’s mission. <sup>135</sup> Some commenters urged the Commission to consider providing interpretive guidance on human capital in light of existing disclosure obligations. <sup>136</sup> Other commenters expressed concern based on their view that the principles-based approach would rely entirely on the judgment of management to determine the substance of the information to disclose and would result in less disclosure being provided than would be the case under a prescriptive disclosure requirement. <sup>137</sup>
+
+In the Proposing Release, we requested comment on whether the proposed amendment should include other non-exclusive examples of human capital measures or objectives, such as the number and types of employees, including the number of full-time, part-time, seasonal, and temporary workers. A number of commenters supported the inclusion of specific human capitalfor Responsible Investment, Oil Change International, OIP Trust, Oxfam America, Pax World Funds, Public Citizen, Railroads & Clearcuts Campaign, Reynders, McVeigh Capital Management LLC, Sierra Club, Teamsters, Tri-State Coalition for Responsible Investment, U.S. PIRG, Union of Concerned Scientists, Women's Institute for Freedom of the Press. (“33 Organizations”); GM; DP&W; Domini; NYSCRF; Public Citizen; RVM; FEI; Schultz; Rissman; Society; ICGN; and Breckinridge.management disclosure metric requirements or examples. <sup>138</sup> Many of these commenters emphasized the importance of comparability and stated that the use of different metrics would make it difficult for investors to analyze and compare information. <sup>139</sup> Several commenters recommended that we require specific, or encourage companies to use certain, third-party disclosure standards or frameworks to provide human capital disclosure. <sup>140</sup> One commenter supported the inclusion of non-exclusive examples that do not focus on numerical measurements, and argued that the disclosure requirement should not promote comparability. <sup>141</sup> This commenter stated that because every registrant is different, the way in which each registrant defines and measures human capital related objectives necessarily varies widely.
+
+A number of commenters, also highlighting the limitations of mandating or suggesting certain metrics for the purpose of increasing comparability in this area, opposed the inclusion of either non-exclusive examples or prescriptive human capital management disclosure metrics. <sup>142</sup>
+
+Some of these commenters stated that there was no consensus on the most appropriate metrics or methodology for human capital management disclosure. <sup>143</sup> Other commenters expressed concern that a list of non-exclusive examples could be viewed as mandated disclosure, which could result in registrants providing immaterial disclosure. <sup>144</sup>
+
+In the Proposing Release, we also requested comment on whether we should define human capital. Several commenters stated that human capital should be defined, <sup>145</sup> while a few opposed a Commission definition of the term. <sup>146</sup> One of these commenters stated that there were many definitions of human capital and that the concept is often tailored to the circumstances and objectives of individual companies. <sup>147</sup> The other commenter stated that the Commission should resist defining human capital because there is no standard method to assess “human capital management” and because it is a complex concept with many factors influencing human capital management that vary across industries and individual companies. <sup>148</sup>
+
+We also requested comment on whether we should retain the requirement in Item 101(c) for registrants to disclose the number of persons employed by the registrant. Severalcommenters urged the Commission to retain the requirement. <sup>149</sup> One of these commenters stated that this disclosure provides investors with valuable information that can be used in assessing productivity growth, compensation measures, and capital allocation. <sup>150</sup> A number of commenters recommended that the Commission require additional information regarding the number of persons employed by the registrant, such as the number of full-time, part-time, and contingent workers; the number of seasonal employees; the ratio of full-time to part-time employees; or the number of domestic and foreign employees. <sup>151</sup> Some commenters, however, stated that the requirement to disclose the number of employees was arbitrary, outdated, and of limited use. <sup>152</sup>
 
 <h>c. Final Amendment</h>
 
+After considering public comments, we are adopting this amendment substantially as proposed with certain modifications. Under the final amendments, Item 101(c) will require, to the extent such disclosure is material to an understanding of the registrant’s business taken as a whole, a description of a registrant’s human capital resources, including any human capital measures or objectives that the registrant focuses on in managing the business. We believe that, in many cases, human capital disclosure is important information for investors. Human capital is a material resource for many companies and often is a focus of management, in varying ways, and an important driver of performance.
+
+The final amendments identify various human capital measures and objectives thataddress the attraction, development, and retention of personnel as non-exclusive examples of subjects that may be material, depending on the nature of the registrant’s business and workforce. We emphasize that these are examples of potentially relevant subjects, not mandates. Each registrant’s disclosure must be tailored to its unique business, workforce, and facts and circumstances. Consistent with the views expressed by some commenters, we did not include more prescriptive requirements because we recognize that the exact measures and objectives included in human capital management disclosure may evolve over time and may depend, and vary significantly, based on factors such as the industry, the various regions or jurisdictions in which the registrant operates, the general strategic posture of the registrant, including whether and the extent to which the registrant is vertically integrated, as well as the then-current macro- economic and other conditions that affect human capital resources, such as national or global health matters. <sup>153</sup> Although several commenters expressed concern that the principles-based approach could result in less comparability (as compared to a more prescriptive approach), given the varied and evolving nature of human capital considerations, we believe that this approach will likely lead to more meaningful disclosure being provided to investors. Moreover, we do not believe that prescriptive requirements or a designated standard or framework will ensure more comparable disclosure given the variety in registrant operations as well as how registrants define, calculate, and assess human capital measures. <sup>154</sup> Furthermore, we note that
+
+E NVIRONMENTAL , S OCIAL , AND G OVERNANCE F ACTORS AND O PTIONS TO E NHANCE T HEM (July 2020),available at https:// www.gao.gov/assets/710/707949.pdf (finding lack of consistency across companies that use the same framework to assess environmental, social, and governance (ESG) matters); Alex Edmans, Grow the Pie: How Great Companies Deliver Both Purpose and Profit (2020) (stating that non- financial measures are inherently incomparable because they depend on a company’s unique purpose).while the final amendments do not require registrants to use a disclosure standard or framework to provide human capital disclosure, as recommended by some commenters, <sup>155</sup> a principles- based approach affords registrants the flexibility to tailor their disclosures to their unique circumstances, including by providing disclosure in accordance with some or all of the components of any current or future standard or framework that facilitates human capital resource disclosure that is material to an understanding of the registrant’s business taken as a whole.
+
+We also are not adopting a definition of the term “human capital” as recommended by some commenters because this term may evolve over time and may be defined by different companies in ways that are industry specific. This approach is consistent with the view expressed by a number of commenters that noted that there are many definitions of human capital and that the concept, while generally well understood, is often tailored to the circumstances and objectives of individual companies. <sup>156</sup>
+
+In a change from the proposal, a registrant will need to disclose, to the extent material to an understanding of the registrant’s business, the number of persons employed by the registrant. We agree with commenters that this disclosure topic should be retained and that it can provide investors with important and useful information that is material to an understanding of the registrant’s business. <sup>157</sup> The number of persons employed by the registrant can help investors assess the size and scale of a registrant’s operations as well as changes over time. In addition,we believe this disclosure will complement, and could provide essential context to, any discussion of a registrant’s human capital management. Although many commenters recommended that we expand this disclosure topic to include additional metrics, such as the number of full-time, part-time, and contingent workers, and employee turnover , <sup>158</sup> we are not adopting these prescriptive elements because we believe that they would be inconsistent with our objective to make Item 101(c) more principles-based. We note that, under the principles- based approach we are adopting, to the extent that a measure, for example, of a registrant’s part- time employees, full-time employees, independent contractors and contingent workers, and employee turnover, in all or a portion of the registrant’s business, is material to an understanding of the registrant’s business, the registrant must disclose this information.
+
 <h>C. Legal Proceedings (Item 103)</h>
+
+Item 103 requires disclosure of any material pending legal proceedings, other than ordinary routine litigation incidental to the business, to which the registrant or any of its subsidiaries is a party or of which any of their property is the subject. Item 103 also requires disclosure of the name of the court or agency in which the proceedings are pending, the date instituted, and the principal parties thereto and a description of the factual basis alleged to underlie the proceeding and the relief sought. Similar information is to be included for such proceedings known to be contemplated by governmental authorities.
+
+The Commission first adopted a requirement to disclose all pending litigation that may materially affect the value of the security to be offered, describing the origin, nature and nameof parties to the litigation, as part of Form A-1 in 1933. <sup>159</sup> Over time, this disclosure requirement was expanded to include, among other things, the date the proceeding was instituted, the identity of the responsible court or agency, and a requirement that material bankruptcy proceedings involving the registrant or its significant subsidiaries be described and any material proceeding involving a director, officer, affiliate, or principal security holder. <sup>160</sup> Moreover, in connection with NEPA, the legal proceedings disclosure requirement was expanded to require additional disclosure about environmental matters. <sup>161</sup>
+
+In the Proposing Release, we noted that Item 103 and U.S. GAAP have overlapping disclosure requirements, but that these requirements nonetheless differ in certain respects. <sup>162</sup> Often, in complying with Item 103, registrants repeat some or all of the disclosures provided in the notes to the financial statements under U.S. GAAP or include a cross-reference thereto. In the DUSTR Proposing Release, the Commission solicited comment concerning whether to retain, modify, eliminate, or refer the Item 103 disclosure requirements to the Financial Accounting Standards Board for potential incorporation into U.S. GAAP. <sup>163</sup> Many of the commenters on the DUSTR Proposing Release opposed the integration of Item 103 into U.S. GAAP. <sup>164</sup>
+
+In response to these concerns, the Commission decided to retain the disclosurerequirements in Item 103, stating that further consideration was warranted with respect to the implications of potential changes to these requirements. <sup>165</sup> Given the concerns expressed by commenters in response to the DUSTR Proposing Release, and after further consideration of how to improve the disclosure requirements in Item 103, we proposed the following amendments to Item 103.
 
 <h>1. Expressly provide for the use of hyperlinks or cross-references to avoid repetitive disclosure</h>
 
 <h>a. Proposed Amendment</h>
 
+In an effort to encourage registrants to avoid duplicative disclosure, we proposed to amend Item 103 to expressly state that this disclosure may be provided by hyperlink or cross- reference to legal proceedings disclosure located elsewhere in the document, such as in Management’s Discussion & Analysis (MD&A), Risk Factors, or notes to the financial statements.
+
 <h>b. Comments on the Proposed Amendment</h>
+
+Many commenters supported the use of hyperlinks or cross-references to provide legal proceedings disclosure and to avoid repetitive disclosure. <sup>166</sup> Several commenters indicated that this approach would help decrease duplicative disclosures in filings. <sup>167</sup> Other commenters stated that using hyperlinks would improve the navigability of documents. <sup>168</sup> One commenter stated that many registrants commonly cross-reference to disclosures concerning legal proceedingscontained in the notes to the financial statements or elsewhere in a filing. <sup>169</sup>
+
+Another commenter, although supportive of this proposal, expressed concern that the use of multiple hyperlinks or cross-references could increase search costs for investors who would have to spend additional time retrieving and piecing together disclosures located in different sections of a filing. <sup>170</sup> This commenter recommended that the amendment place limits on a registrant’s use of multiple hyperlinks.
+
+One commenter expressed opposition to the use of hyperlinks to provide legal proceedings disclosure because it would result in “search expeditions” to find the disclosure. <sup>171</sup> This commenter claimed that a registrant is best positioned to determine the most effective means to organize and present information in its filing to investors. Another commenter claimed that duplicative information was not problematic if such disclosures were consistent throughout the filing. In addition, this commenter indicated that the proposal did not address inaccurate or inactive hyperlinks. <sup>172</sup>
 
 <h>c. Final Amendment</h>
 
-<h>2. Updated disclosure threshold for environmental proceedings in which the government is a partya.	Proposed Amendmentsc.	Final Amendment</h>
+We are adopting the amendment as proposed. The final rules will clarify that registrants are permitted to provide disclosure responsive to Item 103 by hyperlink or cross-reference to legal proceedings disclosure elsewhere in the document, such as in MD&A, Risk Factors, or a note to the financial statements.
+
+We do not believe it is necessary to place a restriction on the ability of registrants to usemultiple hyperlinks to provide disclosure of legal proceedings pursuant to revised Item 103 or address inactive hyperlinks as suggested by some commenters, <sup>173</sup> because a hyperlink used in response to Item 103 would be an internal hyperlink that connects a reader to a different section within the same document or web page (and also would be less likely to become broken or inactive) as opposed to an external hyperlink that connects a reader to a different document.
+
+Clarifying that registrants can use hyperlinks furthers a primary goal of the proposal to reduce duplicative disclosure. As we noted in the Proposing Release, in order to comply with existing Item 103, many registrants commonly repeat some or all of the disclosures that are provided in the notes to the financial statements under U.S. GAAP or include a cross-reference to those disclosures. We believe placing restrictions on the use of hyperlinks or cross-references would reduce the flexibility of registrants to present this information in a manner that they deem to be the most effective.
+
+<h>2. Updated disclosure threshold for environmental proceedings in which the government is a party</h>
+
+<h>a. Proposed Amendments</h>
+
+Instruction 5.C. to Item 103 specifically requires registrants to disclose any proceeding under environmental laws to which a governmental authority is a party unless the registrant reasonably believes it will not result in sanctions of $100,000 or more; provided, however, that such proceedings which are similar in nature may be grouped and described generally. The Commission added this requirement to Item 103 in <sup>1982</sup> . <sup>174</sup> Since that time, the $100,000disclosure threshold for environmental proceedings in which the government is a party has not been changed. We proposed to increase this threshold to $300,000 to adjust it for inflation. <sup>175</sup> In addition, we proposed to reorganize Item 103 to incorporate its instructions into the text of the Item.
+
+<h>b. Comments on the Proposed Amendments</h>
+
+Comments on the proposed amendment were mixed. Several commenters supported the proposal to revise the $100,000 threshold for environmental proceedings to which the government is a party to $300,000 to adjust for inflation, or supported the retention of a quantitative threshold without recommending a specific amount. <sup>176</sup> One of these commenters concurred that a bright-line disclosure threshold provides a useful benchmark and promotes comparability. <sup>177</sup> Another commenter, while supportive of the increased threshold, recommended that the Commission consider whether the fixed dollar amount should be eliminated in favor of a materiality standard. <sup>178</sup> Other commenters recommended that the threshold should be periodically indexed for inflation. <sup>179</sup> A few commenters suggested adopting a hybrid approach of requiring disclosure of any fine above a quantitative threshold of at least$300,000 that is determined to be material. <sup>180</sup>
+
+Many commenters opposed the proposal to revise the $100,000 threshold to $300,000 to adjust for inflation. <sup>181</sup> Several of these commenters recommended that the proposed amendment use a materiality-based standard rather than a fixed dollar amount. <sup>182</sup> Some of these commenters recommended that the proposed amendment include a non-exhaustive list of qualitative factors that a registrant should consider when assessing the materiality of an environmental proceeding. <sup>183</sup> These commenters suggested that such factors could include whether a fine brought by a governmental authority is indicative of potentially significant environmental compliance problems and whether the fine relates to conduct for which the company previously has been sanctioned. These commenters also suggested that if the Commission were to retain a quantitative threshold, we should correlate the threshold to a registrant’s market capitalization or some other benchmark that may be more indicative of materiality on a company-specific basis. <sup>184</sup> Some of these commenters stated that the use of a materiality-based standard would eliminate the guesswork to determine whether a potential monetary sanction will equal or exceed the dollar threshold and require disclosure. <sup>185</sup> Several commenters that supported a materiality-based threshold stated that one-size-fits-all quantitative thresholds are arbitrary and result in disclosure that may not be material to investors and can obscure other, more meaningful information about a company’s material legal proceedings. <sup>186</sup>
+
+Other commenters, however, opposed the use of a materiality standard for environmental proceedings and stated that larger registrants likely would not provide any disclosure of environmental proceedings under Item 103. <sup>187</sup> A few commenters recommended that we retain the current $100,000 threshold. <sup>188</sup> Several commenters expressed concerns that the proposed $300,000 threshold may result in reduced environmental proceedings disclosure. <sup>189</sup>
+
+We also received comments that supported increasing the disclosure threshold above$300,000. <sup>190</sup> However, these commenters did not believe that the threshold should be a fixed dollar amount. These commenters stated that it was more burdensome for larger registrants to gather and disclose environmental proceedings based on a universal fixed threshold applicable to all registrants as such a threshold would likely not be material to larger registrants. These commenters recommended using a threshold that was the greater of $1 million or an amount that was material to the registrant. <sup>191</sup> These commenters stated that such an approach would ensure that information disclosed is useful to investors without the risk of being overly burdensome to the preparers of filings or becoming obsolete due to passage of time.
+
+<h>c. Final Amendment</h>
+
+After considering the public comments, we are adopting the amendments to reorganize
+
+Item 103 to eliminate the current instructions to the Item and incorporate their contents in the text of Item 103 as proposed. In addition, as discussed in more detail below, we are adopting a modified disclosure threshold that increases the existing quantitative threshold but that also affords a registrant some flexibility by providing a range within which the registrant can select a different threshold that it determines is reasonably designed to result in disclosure of material environmental proceedings. <sup>192</sup>
+
+The Commission has in the past considered and received feedback on a materiality standard for environmental disclosures. <sup>193</sup> As the Commission noted when it first adopted the$100,000 threshold for disclosure of environmental proceedings in 1981, disclosure of fines by governmental authorities may be of particular importance in assessing a registrant’s environmental compliance, as governmental fines may be more indicative of possible illegality and conduct contrary to public policy. <sup>194</sup> At the same time, as pointed out by several commenters on the proposal, for many registrants a one-size-fits-all quantitative threshold may result in the disclosure of information that is not material in assessing whether a registrant has significant environmental compliance problems. <sup>195</sup>
+
+We further observe that environmental proceedings often can be complex from a factualand legal standpoint. A bright-line test can help registrants assess whether a particular proceeding is subject to disclosure and provide certainty about when disclosure is required. However, we also recognize that a single numerical threshold may result in some disclosures that are not material.
+
+After weighing these various considerations, we are persuaded by commenters who suggested a hybrid approach that includes a quantitative threshold while also providing registrants with the flexibility to apply a more tailored disclosure threshold that would best accomplish the Commission’s objectives. <sup>196</sup> We believe a hybrid approach will continue to elicit information that is important to investors in assessing a registrant’s environmental compliance while enabling registrants to apply a disclosure threshold that is more indicative of materiality on a company-specific basis. For these reasons, we are adopting a modified disclosure requirement for environmental proceedings involving monetary sanctions that sets forth a quantitative disclosure threshold range within which registrants may determine a threshold that will result in disclosure of material information concerning environmental proceedings.
+
+Accordingly, under the final rule, disclosure will be required for any proceeding that involves potential monetary sanctions of $300,000 or more, or at the election of the registrant, such other amount that the registrant determines is reasonably designed to result in disclosure of any such proceeding that is material to its business or financial condition. However, irrespective of any alternative threshold adopted by the registrant, disclosure will be required in all cases for any proceeding when the potential monetary sanctions exceed the lesser of $1 million or one percent of the current assets of the registrant and its subsidiaries on a consolidated basis.
+
+Furthermore, if a registrant chooses to use a threshold other than the $300,000 threshold, it must disclose this threshold (including any change thereto) in each annual and quarterly report. We believe this approach avoids a mandatory one-size-fits-all disclosure threshold that may potentially result in the disclosure of information that is not material by allowing registrants to determine a company-specific disclosure threshold that is more relevant to their particular circumstances.
+
+We acknowledge commenters’ concerns that use of a materiality standard for environmental proceedings could result in larger registrants providing less disclosure under Item103. For that reason, the final rule stipulates that the alternative disclosure threshold may not exceed certain parameters. The sliding-scale standard of the lesser of $1 million or one percent of the current assets builds on commenter suggestions to use a higher dollar threshold, such as$1 million, or a company-specific benchmark that scales with the size of the company. These parameters, together with the bright-line $300,000 threshold, are intended to ensure that investors continue to receive relevant information about environmental sanctions while also realizing the benefits of a more principles-based approach.
 
 <h>D. Risk Factors (Item 105)</h>
+
+Item 105 requires disclosure of the most significant factors that make an investment in the registrant or offering speculative or risky and specifies that the discussion should be concise and organized logically. <sup>197</sup> The principles-based requirement further directs registrants to explain how each risk affects the registrant or the securities being offered, discouragesdisclosure of risks that could apply generically to any registrant, and requires registrants to set forth each risk factor under a sub-caption that adequately describes the risk.
+
+In proposing amendments to Item 105, we aimed to address the lengthy and generic nature of the risk factor disclosure presented by many registrants. Although the length and number of risk factors disclosed by registrants vary, some recent studies have indicated that risk factor disclosures have increased over time. <sup>198</sup>
+
+The inclusion of generic, boilerplate risks that could apply to any offering or registrant appears to contribute to the increased length of risk factor disclosure. Although Item 105 instructs registrants not to present risks that could apply generically to any registrant, and despite longstanding Commission and staff guidance stating that risk factors should be focused on the “most significant” risks and should not be boilerplate, <sup>199</sup> it is not uncommon for companies to include generic risks. Registrants often disclose risk factors that are similar to those used by others in their industry without tailoring the disclosure to their circumstances and particular risk profile.
+
+To address these concerns, we proposed the following amendments to the Item 105 risk factor disclosure requirement.
 
 <h>1. Summary risk factor disclosure if the risk factor section exceeds 15 pages</h>
 
 <h>a. Proposed Amendment</h>
 
+As a way of addressing the length of risk factor disclosure, the Commission has previously considered requiring a page limit for risk factor disclosure. <sup>200</sup> However, comments received in response to prior initiatives have dissuaded the Commission from adopting such a requirement. For example, while the Concept Release did not seek specific feedback on reducing or limiting the length of risk factor disclosure, several commenters on the Concept Release nonetheless opposed a page limit. <sup>201</sup> Commenters on the Concept Release attributed the growing length of risk factor disclosure to the fear of litigation for failing to disclose risks if events turn negative. <sup>202</sup> Similar comments were received in response to the Disclosure Effectiveness Initiative’s general solicitation of comment. <sup>203</sup>
+
+Given the increasing length of risk factor disclosure and after considering the feedback on the Concept Release, we proposed to amend Item 105 to require summary risk factor disclosure in the forepart of the document if the risk factor section exceeds 15 pages.
+
 <h>b. Comments on the Proposed Amendment</h>
 
+Several commenters supported the proposal to require summary risk factor disclosure. <sup>204</sup>
+
+One commenter stated that a summary would enhance readability and make documentscontaining risk factor disclosure more user-friendly and recommended a lower threshold based on investor-testing. <sup>205</sup> Another commenter recommended that summary risk factor disclosure should be required for all registrants. <sup>206</sup>
+
+A number of commenters opposed the proposal. <sup>207</sup> Several of these commenters expressed concern that investors may focus only on the risk factor summary, which may give them an imprecise understanding of the risks. <sup>208</sup> A few commenters stated that the proposed risk factor summary would not enhance the readability of the document. <sup>209</sup> One of these commenters suggested that the risk factor summary could result in investors discounting the full risk factor presentation. <sup>210</sup> Another commenter stated that registrants would provide lengthy summaries of their risks out of concern about the potential liability for any omissions in their disclosure. <sup>211</sup> Other commenters stated that grouping similar risk factors and including subheadings would achieve the objective of enhancing the readability of risk factors, making a summary duplicative. <sup>212</sup>
+
+Several commenters emphasized that many registrants decide to provide lengthy risk factor disclosure because they believe this will help limit their legal exposure. <sup>213</sup> One of thesecommenters stated that many registrants have risk factors that exceed 15 pages in order to provide adequate disclosure about risks that are important for investors to be aware of and to limit legal exposure. <sup>214</sup> This commenter stated that a risk factor summary would not include the appropriate level of detail necessary to understand fully a registrant’s risk factors and could open up companies to potential litigation. Another commenter stated that the proposal would not eliminate boilerplate disclosure. <sup>215</sup> One commenter recommended that summary risk factor disclosure be optional. <sup>216</sup>
+
+Another commenter expressed concern that the proposal to require registrants to summarize the “principal” risk factors would effectively require registrants to rank their risk factors, which some registrants may find difficult. <sup>217</sup> Yet another commenter expressed concern that providing summary risk factor disclosure could be burdensome on registrants and stated that the proposal could discourage some companies from going public. <sup>218</sup>
+
 <h>c. Final Amendment</h>
+
+We are adopting the amendments substantially as proposed with a modification in response to comments received. Under the final amendments, if a registrant’s risk factor disclosure exceeds 15 pages, Item 105(b) will require in the forepart of the document a series of concise, bulleted or numbered statements summarizing the principal factors that make aninvestment in the registrant or offering speculative or risky. <sup>219</sup> We believe specifying this format for the risk factor summary will avoid concerns that the requirement could lead to lengthy summaries or result in investors discounting the full risk factor presentation. In a change from the proposal, and for similar reasons, the final amendments limit the risk summary to no more than two pages. We believe that imposing a page limit on the risk summary should lessen the burden of preparing the summary and also act as an incentive for registrants to give due consideration to the risk factors that are material to investors. Because the risk summary is not required to contain all of the risk factors identified in the full risk factor discussion, registrants may prioritize certain risks and omit others. Nonetheless, we believe that a summary of the principal risks will help investors navigate lengthy risk factor disclosure that exceeds 15 pages and enhance the readability and usefulness of the disclosure for investors. We also note that the requirement to provide a risk factor summary may create an incentive for registrants to reduce the length of their risk factor discussion to avoid triggering the summary requirement, to the extent that such an incentive outweighs perceived litigation risks.
+
+With respect to commenters’ concerns that the risk factor summary would require registrants to rank their risk factors or would not include the appropriate level of detail necessary to fully understand a registrant’s risks and could subject companies to potential litigation, <sup>220</sup> we note that the final amendment is similar to other disclosure requirements underour rules that require disclosure of a summary. <sup>221</sup> Based on Commission staff experience with those rules, we believe that a summary will not detract from a registrant’s more extensive disclosure elsewhere in a filing or subject a registrant to greater litigation risk. Instead, we believe a summary will enhance the ability of investors to process relevant information and will focus registrants on disclosing material risks.
+
+Finally, although some commenters suggested a lower threshold for triggering the summary risk factor disclosure or requiring the summary in all instances, <sup>222</sup> we continue to believe that the 15-page threshold is an appropriate threshold. Based on an analysis of filings, Commission staff estimates that the 15-page threshold would affect approximately 40 percent of filers. <sup>223</sup> Thus, if registrants maintain the same length of their risk factor disclosure, the final amendments will result in summary risk factor disclosure being provided in a significant number of filings, without imposing undue costs on registrants with less complex risk profiles.
 
 <h>2. Replace the requirement to disclose the “most significant” factors with the “material” factors</h>
 
 <h>a. Proposed Amendment</h>
 
+Since the Commission first published guidance on risk factor disclosure in 1 <sup>964</sup> , <sup>224</sup> it has underscored that risk factor disclosure should be focused on the “most significant” or “principal” factors that make a registrant’s securities speculative or risky. <sup>225</sup> Notwithstandingthis additional guidance, the length of risk factor disclosure and the number of risks disclosed has increased in recent years.
+
+We proposed to amend Item 105 to change the standard for disclosure from the “most significant” risks to “material” risks <sup>226</sup> to focus registrants on disclosing the risks to which reasonable investors would attach importance in making investment or voting decisions.
+
 <h>b. Comments on the Proposed Amendment</h>
 
+Comments on this proposal were generally supportive. Many commenters expressed support for replacing the requirement to discuss the “most significant” risks with “material” risks. <sup>227</sup> Some commenters stated that changing to a materiality standard would significantly enhance the informative value of this disclosure. <sup>228</sup> Another commenter stated that this proposal could reduce or eliminate generic risk factors. <sup>229</sup> A different commenter conditionally supported the proposal, recommending that we revise the definition of “material” to include “information in which there is a substantial likelihood that disclosure of the omitted fact would have been viewed by a reasonable investor as having significantly altered the total mix of information available in deciding how to vote or make an investment decision.” <sup>230</sup> This commenterexpressed concern that the current definition excludes consideration of voting decisions.
+
+A few commenters opposed the proposed amendment. <sup>231</sup> One of these commenters stated that the other proposed amendments to Item 105 would adequately address the increase in risk factor disclosure without the need to revise the current disclosure standard. <sup>232</sup> Another commenter stated that registrants are subject to litigation over immaterial misstatements or omissions and suggested that, therefore, registrants may prepare their risk factors to address many risks, including risks that are not material. <sup>233</sup> This commenter further expressed concern that a change from the current disclosure standard could create a presumption of materiality in the risk factor section that could lead to some registrants choosing to disclose fewer risks.
+
+Other commenters stated that changing the disclosure standard from “most significant” to “material” would likely not meaningfully reduce the amount of risk factor disclosures in filings. <sup>234</sup> One commenter recommended that registrants should be required to disclose cybersecurity risk. <sup>235</sup>
+
 <h>c. Final Amendment</h>
+
+After considering the comments, we are adopting the amendment as proposed. Under the final amendment, registrants will be required to disclose the material factors that make an investment in the registrant or offering speculative or risky. We believe that the final amendment will result in risk factor disclosure that is more tailored to the particular facts andcircumstances of each registrant, which should reduce the disclosure of generic risk factors and potentially shorten the length of the risk factor discussion, to the benefit of both investors and registrants. <sup>236</sup> Consistent with this principles-based approach, we are not adding a specific requirement to disclose cybersecurity risk as recommended by a commenter. <sup>237</sup> Although certain commenters expressed concerns about the use of the term “material,” <sup>238</sup> we do not believe that the use of that term would be too narrow or would lead to the disclosure of fewer risks.
+
+Materiality is a broad concept that encompasses both investment and voting decisions. As the Commission explained in the Concept Release, the concept of materiality is used throughout the federal securities laws. The Supreme Court has held that information is material if there is a substantial likelihood that a reasonable investor would consider the information important in deciding how to vote or make an investment decision. <sup>239</sup> The Court further explained that information is material if there is a substantial likelihood that disclosure of the omitted fact would have been viewed by the reasonable investor as having significantly altered the “total mix” of information available. <sup>240</sup> The term “material” as used in the final amendments to Item
+
+U.S. 438, 449 (1976). In TSC Industries , the Supreme Court adopted a standard for materiality in connection with proxy statement disclosure under Schedule 14A and Rule 14a–9 of the Exchange Act. 426
+
+U.S. at 449 at n. 10 (. [T]he SEC’s view of the proper balance between the need to insure adequate disclosure and the need to avoid the adverse consequences of setting too low a threshold for civil liability is entitled to consideration [and] [t]he standard we adopt is supported by the SEC.”).105, as well as in the amendments to Items 101 and 103, is defined under Rule 12b-2 of the Exchange Act and Rule 405 of the Securities Act. As the Commission has previously stated, the definitions of “material” in Rule 12b-2 and Rule 405 are consistent with the Supreme Court’s holding in TSC Industries . <sup>241</sup>
 
 <h>3. Require registrants to organize risk factors under relevant headings</h>
 
 <h>a. Proposed Amendment</h>
 
+Since 1964, the Commission has periodically emphasized the importance of organized and concise risk factor disclosure. <sup>242</sup> Most recently, in the Concept Release, the Commission solicited public input on ways in which we could improve the organization of registrants’ risk factor disclosure to help investors better navigate the disclosure. <sup>243</sup>
+
+After considering the comments received on the Concept Release, we proposed to amend Item 105 to require registrants to organize their risk factor disclosure under relevant headings in addition to the subcaptions that are currently required. In addition, the proposed amendments would require registrants to present risks that could apply to any registrant or any offering at the end of the risk factor section under a separate caption entitled “General Risk Factors.” The proposed amendments were intended to improve the organization of risk factor disclosure in an effort to help readers comprehend lengthy risk factor disclosures.
+
 <h>b. Comments on the Proposed Amendment</h>
+
+Securities Offering Reform , Release No. 33-8591 (July 19, 2005) [70 FR 44722 (Aug. 3, 2005)].
+
+Many commenters supported organizing risk factors under relevant headings. <sup>244</sup> Several commenters stated that this proposal would make risk factor disclosure more user-friendly and improve the readability of this disclosure. <sup>245</sup> One commenter stated that the proposal would enable investors to more easily discern those risk factors that are more general in nature. <sup>246</sup> Other commenters stated that many registrants already categorize their risk factors. <sup>247</sup>
+
+Some commenters opposed organizing risk factors under relevant headings. <sup>248</sup> One commenter stated that organizing risk factors under relevant headings could result in less investor-friendly disclosure because it would preclude the practice that many registrants currently employ, which is to organize risks in order of materiality. <sup>249</sup> This commenter stated that registrants should have the flexibility to organize risk factors in a way that a registrant believes is most useful to investors.
+
+Comments were mixed on the proposed amendment to require registrants to disclose generic risk factors at the end of the risk factor section under a separate “General Risk Factors” caption. A number of commenters agreed with the proposed amendment. <sup>250</sup> Several commenters, however, opposed this aspect of the proposal, or expressed concern about it. <sup>251</sup>
+
+Some of these commenters stated that this proposal has the potential to undermine the existing ways registrants’ categorize risk factors. <sup>252</sup> One commenter expressed concern that this amendment creates a second-class tier of risk factors that investors might automatically perceive as less important simply due to their different characterization and that such a result is counter to the notion of risk factors generally. <sup>253</sup>
+
+Another commenter stated that registrants use risk factor disclosure to satisfy the “meaningful cautionary language” required by the safe harbor provision of the PSLRA, <sup>254</sup> and expressed concern that classifying some risk factors as generic could potentially disqualify this disclosure as “meaningful cautionary language” in securities class action lawsuits and potentially increase the litigation risk to registrants. <sup>255</sup> This commenter also asserted that if registrants are required to disclose generic risk factors at the end of the risk factor section, they may caption most or all as specific risk factors or curtail their forward-looking disclosure in MD&A due to higher litigation risks.
+
+A few commenters expressed concern that it could be difficult for registrants to differentiate risks as “specific” or “general.” <sup>256</sup> These commenters recommended that if we were to adopt this revision, the final amendments would have to be clearer as to what qualifies as a “General Risk Factor” in order to enable registrants to apply the rule consistently and avoid mischaracterization of risks.
+
+In the Proposing Release, we also requested comment on whether Item 105 should be amended to require registrants to prioritize the order in which they discuss their risk factors so that the more significant risks to the registrant are discussed first. Several commenters supported requiring registrants to prioritize the risk factors to discuss more significant risks first. <sup>257</sup> One commenter opposed requiring registrants to prioritize risk factors in this manner. <sup>258</sup> This commenter noted that many risk factors deal with evolving or uncertain circumstances that are unknown or difficult to quantify, and requiring registrants to evaluate and rank often equally significant and evolving risk factors will add burden, increase costs, take time and effort from other efforts, and create liability concerns based on how the factors are prioritized.
+
+In addition, we requested comment on whether we should require registrants to explain how generic, boilerplate risk factors are material to their investors, and what, if anything, management does to address these risks. One commenter, suggesting that this would lead to more useful disclosure for investors, supported such a requirement. <sup>259</sup> Another commenter recommended that we require risk factor disclosure to be specific to the registrant and exclude generic statements that apply to all or most registrants. <sup>260</sup>
 
 <h>c. Final Amendment</h>
 
-<h>III. OTHER MATTERS</h>
+After considering the public comments, we are adopting the amendment as proposed.
 
-<h>IV. ECONOMIC ANALYSIS</h>
+Amended Item 105 will require registrants to organize their risk factor disclosure under relevant headings, in addition to the subcaptions that are currently required. The final amendments,except as described below, do not specify risk factor headings that registrants should use. As noted above, many registrants already organize their risk factor disclosure through groupings of related risk factors and the use of headings. We believe that requiring this type of organization for all registrants will improve the readability and usefulness of this disclosure. In addition, the final amendments will require registrants to present risks that could apply generally to any company or offering of securities at the end of the risk factor section under the caption “General Risk Factors.” We are not adopting a requirement for registrants to explain how generic, boilerplate risk factors are material and how management addresses these risks, as suggested by one commenter. <sup>261</sup> We believe such disclosures would be largely redundant to the current requirement under Item 105 that registrants explain how a risk affects it or the securities being offered. For similar reasons, we do not believe that additional clarification is necessary regarding the types of risks that would constitute a general risk factor, as suggested by some commenters. <sup>262</sup> Because the existing rule requires registrants to explain how a risk affects them, we believe registrants should be well positioned to determine the particular nature of a risk.
+
+With respect to one commenter’s concern that grouping some risk factors under a “General Risk Factor” sub-heading could potentially disqualify this disclosure from certain statutory safe harbor protections and subject registrants to potential litigation, we note that the final amendment is solely meant to improve the organization and the effectiveness of risk factor disclosures and does not limit the ability of a registrant to include appropriate cautionary language with respect to any forward-looking statements. In our view, if a registrant includes one or more risk factors under the “General Risk Factor” caption, that fact alone should notaffect the availability of the PSLRA safe harbor. Nevertheless, we encourage registrants to tailor their risk factor disclosures to emphasize the specific relationship of the risk to the registrant or the offering and therefore avoid the need to include the risk under the general risk heading.
+
+We continue to believe that the final amendment will help to address the lengthy and generic nature of the risk factor disclosure presented by many registrants. We agree with commenters that stated that the amendments would make risk factor disclosure more user- friendly and improve the readability of this information. <sup>263</sup>
+
+The final amendments will not require registrants to prioritize the order in which they discuss their risk factors. Although we recognize that such prioritization could be useful to users of the disclosure in certain circumstances, consistent with our goal to make the item more principles based, we believe the amendments should afford registrants flexibility to determine the order to most effectively present the material risks that make an investment in the registrant or offering speculative or risky. Accordingly, if a registrant believes it is useful or important to emphasize the relative importance of certain risks, it is free to write those risk factors and other disclosures in such a way that their relative importance is apparent. Retaining this flexibility should also help address concerns expressed by some commenters that it could be difficult to evaluate and rank often equally significant and evolving risk factors.
+
+If any of the provisions of these rules, or the application thereof to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or application of such provisions to other persons or circumstances that can be given effect without the invalidprovision or application.
+
+Pursuant to the Congressional Review Act, <sup>264</sup> the Office of Information and Regulatory Affairs has designated these amendments not a “major rule,” as defined by 5 U.S.C. 804(2).
+
+ECONOMIC ANALYSIS
+
+This section analyzes the expected economic effects of the final amendments relative tothe current baseline, which consists of both the regulatory framework of disclosure requirements in existence today and the current use of such disclosure by investors. As discussed above, we are adopting amendments to modernize and simplify the description of business (Item 101), legal proceedings (Item 103), and risk factor (Item 105) disclosure requirements in Regulation
+
+S-K. <sup>265</sup> An important objective of the final amendments is to revise Items 101(a), 101(c), and 105 to be more principles-based. Overall, investors and registrants may benefit from the principles-based approach if the existing prescriptive requirements result in disclosure that is not material to an investment decision and is costly to provide. We acknowledge that emphasizing a principles-based approach and granting registrants more flexibility to determinewhat and how much disclosure about a topic to provide could result in the elimination of some information to investors. However, we believe that the cost to investors of any such loss of information will be limited given that, under the principles-based approach reflected in the final amendments, registrants are required to provide disclosure about these topics if that disclosure is material to an understanding of the business.
+
+We are sensitive to the costs and benefits of these amendments. The discussion below addresses the potential economic effects of the final amendments, including the likely benefits and costs, as well as the likely effects on efficiency, competition, and capital formation. <sup>266</sup> At the outset, we note that, where possible, we have attempted to quantify the benefits, costs, and effects on efficiency, competition, and capital formation expected to result from the final amendments. In many cases, however, we are unable to quantify the economic effects because we lack information necessary to provide a reasonable estimate. <sup>267</sup> For example, we are unable to quantify, with precision, the costs to investors of having to rely on alternative information sources under each disclosure item and the potential information processing cost savings that may arise from the elimination of disclosures not material to an investment decision.
 
 <h>A. Baseline and Affected Parties</h>
 
+Our baseline includes the current disclosure requirements under Items 101, 103, and 105 of Regulation S-K, which apply to registration statements, periodic reports, and certain proxy statements filed with the Commission. Thus, the parties that are likely to be affected by the final amendments include investors and other users of registration statements, periodic reports and proxy statements, such as financial analysts, as well as registrants subject to Regulation S-K.
+
+The final amendments affect both domestic registrants and foreign private issuers <sup>268</sup> thatfile on domestic forms <sup>269</sup> and foreign private issuers that file on foreign registration forms. <sup>270</sup> We estimate that approximately 6,987 registrants that file on domestic forms <sup>271</sup> and 469 foreign private issuers that file on foreign registration forms will be affected by the final amendments. Among the registrants that file on domestic forms, approximately 30 percent are large accelerated filers, 18.5 percent are accelerated filers, and 51.5 percent are non-accelerated filers.post-effective amendment to one of those forms with the Commission during calendar year 2019. See also supra note 12.
+
+In addition, we estimate that 43 percent of domestic registrants are smaller reporting companies and approximately 21.1 percent are emerging growth companies. <sup>272</sup>
+
 <h>B. Potential Costs and Benefits</h>
+
+In this section, we discuss the anticipated economic benefits and costs of the final amendments. We first analyze the overall economic effects of shifting toward a more principles- based approach to disclosure, which is one of the main objectives of the final amendments. We then discuss the potential costs and benefits of specific amendments.
+
+<h>1. Principles-Based versus Prescriptive Requirements</h>
+
+Prescriptive requirements employ bright-line, quantitative or other thresholds to identify when disclosure is required, or require registrants to disclose the same types of information.
+
+Principles-based requirements, on the other hand, provide registrants with the flexibility to determine (i) whether certain information is material, and (ii) how to disclose such information.
+
+In this release, we are amending Items 101(a), 101(c), and 105 to be more clearly principles-based. <sup>273</sup> Principles-based requirements may result in more or less detail than prescriptive requirements. The economic effects of replacing a prescriptive requirement with a more principles-based disclosure standard based on materiality depend on a variety of factors,
+
+U.S.C. 77b(a)(19); 15 U.S.C. 78c(a)(80); and Inflation Adjustments and Other Technical Amendments under Titles I and II of the JOBS Act , Release No. 33- 10332 (Mar. 31, 2017) [82 FR 17545 (Apr. 12, 2017)]. We based the estimate of the percentage of emerging growth companies on whether a registrant claimed emerging growth company status, as derived from Ives Group Audit Analytics data.including the preferences of investors, the compliance costs of producing the disclosure, and the nature of the information to be disclosed.
+
+For certain existing disclosure requirements, shifting to a more principles-based approach could benefit registrants with no loss of investor protection because the current requirements may result in some disclosure that is not material to an investment decision and costly for registrants to provide. Elimination of disclosure that is not material could reduce compliance burdens and potentially benefit investors, to the extent it improves the readability and conciseness of the information provided and allows investors to focus on information that is material to an understanding of the registrant’s busin ess . <sup>274</sup> In addition, a principles-based approach may permit or encourage registrants to present more tailored information, which also may benefit investors. <sup>275</sup> Principles-based requirements generally would elicit disclosure that ismore in line with the way the registrant’s management and its board of directors monitor and assess the business and therefore (1) would be easier for registrants to prepare using existing metrics and reporting mechanisms and (2) would provide investors better insight into the decision-making process, current status, and prospects of the registrant.
+
+On the other hand, shifting to a more principles-based approach may result in the elimination of previously prescriptive disclosure that is material to an investment decision if registrants misjudge what information is material to investors. <sup>276</sup> In this regard, to the extent that prescriptive requirements result in an improved mix of information, such requirements could benefit investors and may also benefit registrants by improving stock market liquidity and decreasing cost of capital. <sup>277</sup> Further, prescriptive standards could enhance the comparability and verifiability of information, but those benefits may be limited (or impose costs) if the specified metrics result in comparisons that are not appropriate due to differences between or among registrants. <sup>278</sup> We acknowledge, however, that differences between principles-basedsupporting the notion that a move toward principles-based accounting could result in better financial reporting); Usha Rodrigues and Mike Stegemoller, An inconsistency in SEC disclosure requirements? The case of the “insignificant” private target, 13 J. Corp. Fin. 251 (2007) (providing evidence, in the context of mergers and acquisitions, where prescriptive thresholds deviate from investor preferences). Studies highlighting a preference for prescriptive disclosure standards are discussed below. See infra note 14.standards and prescriptive standards have often been studied in the financial reporting context. These differences may be narrower in the context of the final amendments due to the qualitative nature of the disclosures in Items 101(a), 101(c), and 105. Prescriptive requirements also may be easier to apply and therefore less costly for registrants as they involve fewer judgments than principles-based requirements.
+
+In addition, some of the potential costs of shifting to a more principles-based approach could be mitigated by external disciplines, such as the Commission staff’s filing review program and the registrant’s engagement with investors. <sup>279</sup> In addition, registrants will remain subject to the antifraud provisions of the securities laws. <sup>280</sup> There also may be incentives for registrants to voluntarily disclose additional information if the benefits to registrants of reduced information asymmetry exceed the disclosure costs.
+
+Differences between the principles-based and prescriptive approaches are likely to vary across registrants, investors, and disclosure topics. Despite potential costs associated with replacing prescriptive requirements with principles-based requirements, the shift is likely to reduce overall compliance costs because registrants will have the flexibility to determine whether certain information is material under the principles-based approach. To the extent theexperienced and hold higher organizational rank); Andrew A. Acito et al., The Materiality of Accounting Errors: Evidence from SEC Comment Letters , 36 C ONTEMP . A CCT . R ES . 839 (2019) (studying managers’ responses to SEC inquiries about the materiality of accounting errors and finding that managers are inconsistent in their application of certain qualitative considerations and may omit certain qualitative considerations from their analysis that weigh in favor of an error’s materiality). In addition, while we did not solicit comment on the submission format of the Item 101, 103, and 105 disclosures in the proposal, some commenters stated that the disclosures would be more useful to investors if they were submitted in a machine-readable format, citing comparability and searchability as among the benefits of such a format. See letters from CFA Institute, Better Markets, the California State Teachers’ Retirement System (CalSTRS), and XBRL US (with the latter two specifically recommending the Inline XBRL format). The submission format of the Item 101, 103, and 105 disclosures is outside the scope of this rulemaking.principles-based approach reduces compliance costs, the cost reduction should be more beneficial to smaller registrants that are financially constrained. In addition, as noted above, prescriptive requirements may create information asymmetries if investors are left to rely on disclosure of measures that are not relevant to the way a registrant’s management and board of directors are operating and assessing the business. Although eliminating information that is not material should benefit all investors, it could benefit retail investors more to the extent they are less likely to have the time and resources to devote to reviewing and evaluating disclosure. At the same time, smaller registrants with less established reporting histories may be the most at risk of persistent information asymmetries if the principles-based approach results in reduction or loss of information that is material to investors. In the event of reduction or loss of information that is material (the risk of which, as noted above, is offset by mitigants including corporate internal controls and the antifraud provisions of the securities laws), retail investors in these registrants may be more negatively affected than institutional investors because obtaining information from alternative sources could involve monetary costs, such as database subscriptions, or opportunity costs, such as time spent searching for alternative sources. Retail investors may not be able or willing to incur these costs.
+
+Across different disclosure topics, the principles-based approach may be more appropriate for topics where the relevant information tends to vary greatly across companies, because, in these situations, the more standardized prescriptive requirements are less likely to elicit information that is tailored to a specific company. A principles-based approach may also be more appropriate for disclosures that are episodic in nature, because investors may derive relatively less value from comparisons of such disclosure for a given registrant over time. In addition, registrants may derive relatively less benefit from applying a standardized prescriptiveapproach to episodic disclosures, which may be less amenable to routinized reporting than periodic disclosures of information that arise on a regular basis.
+
+<h>2. Benefits and Costs of Specific Amendments</h>
+
+We expect the final amendments will result in costs and benefits to registrants and investors, and we discuss those costs and benefits qualitatively, item by item, in this section. The changes to each item will affect the compliance burden for registrants in filing particular forms. Overall, we expect the net effect of the final amendments on a registrant’s compliance burden to be limited. The quantitative estimates of changes in those burdens for purposes of the Paperwork Reduction Act are further discussed in Section V. As explained in the item-by-item discussion of the final amendments in this section, we expect certain aspects of the final amendments to increase compliance burdens and others to decrease the burdens. Taken together, we estimate that the final amendments are likely to result in a net decrease of between three and five burden hours per form for purposes of the Paperwork Reduction Act. <sup>281</sup>
+
+General Development of Business (Item 101(a))
+
+Item 101(a) requires a description of the general development of the registrant’s business, such as the year in which the registrant was organized and the nature and results of any merger of the registrant or its significant subsidiaries. Some academic research has found that information required under Item 101(a) is relevant to firm value. For example, the registrant’s age can, to some extent, predict its future growth rates <sup>282</sup> and corporateinnovation. <sup>283</sup> Similarly, merger activities can affect shareholder value and predict future performance. <sup>284</sup> Given the relevance of such information to firm value, and thus investors, the effects of the final amendments to Item 101(a) on investors will depend on whether they result in more concise and material disclosures of business development information under Item 101(a). <sup>285</sup>
+
+The final amendments will revise the requirements in Item 101(a) to be more clearly principles-based, requiring disclosure of information material to an understanding of the general development of the registrant’s business. The shift to a more clearly principles-based approach for these requirements will give rise to the potential economic effects discussed in Section
+
+IV.B.1 above.
+
+Currently, Item 101(a) requires registrants to describe their business development during the past five years, or such shorter period as the registrant may have engaged in business. The final amendments will eliminate the prescribed five-year timeframe for this disclosure.
+
+Eliminating this specific requirement will provide registrants with flexibility to choose a
+
+D YNAMICS 146 (2018) (developing a theoretical model showing that firm growth rates decrease with firm age and calibrating the model using plant-level data).different timeframe that is more relevant in describing their business development to investors. For example, a long timeframe might be less appropriate for registrants operating in rapidly changing environments where historical information becomes irrelevant in a short period of time. Given that registrants will have the flexibility to determine the appropriate timeframe, this amendment is expected to reduce compliance costs. Investors may also benefit if the timeframe chosen by a registrant is more consistent with their preferences than the prescribed five-year timeframe, but may be burdened if the timeframe chosen by the registrant is less consistent with their preferences than the prescribed five-year timeframe.
+
+Currently, Item 101(a) requires registrants to describe their business development in registration statements and annual reports. For filings subsequent to the initial registration statement, the final amendments to Item 101(a)(1) will allow registrants to provide only an update of this disclosure and incorporate by reference the previous discussion of the general development of its business included in the registrant’s most recently filed registration statement or report containing that discussion. Together, the update and the incorporated disclosure will present a complete discussion of the general development of its business. <sup>286</sup> If duplicative disclosure distracts investors from other important information, the amendments may benefit investors by highlighting all of the material developments that have occurred since the most recent full discussion of the general development of the registrant’s business.
+
+However, to the extent that historical information will be available through hyperlinking asopposed to being in the same filing, investors will have to spend more time to retrieve the information from another disclosure document.
+
+Some commenters stated that the use of hyperlinks to update material developments would lead to a disjointed narrative and hamper readability. <sup>287</sup> Because the final amendments will allow only one hyperlink instead of multiple hyperlinks, we believe that any increase in retrieval costs for investors will be minimal. A few commenters objected to prohibiting the use of multiple hyperlinks. <sup>288</sup> We believe, however, that retrieval costs for investors may increase quickly with the number of hyperlinks because each additional hyperlink increases the risk of broken or inactive hyperlinks, and a disjointed narrative would not be reader-friendly.
+
+While limiting registrants to only one hyperlink as opposed to multiple hyperlinks may make compliance efforts somewhat more burdensome, we do not believe this restriction will significantly change existing disclosure practices as the Commission’s current rules prohibit incorporation by reference when it would render the disclosure unclear or confusing. <sup>289</sup> Moreover, registrants that select this option will benefit from the reduction in costs to disclose duplicative information. Finally, for those registrants who find this restriction too limiting, we believe that the costs of copying relevant disclosure from a previous filing, rather than incorporating it by reference, should be minimal.
+
+The final amendments to Item 101(a) provide a non-exclusive list of topics that should be disclosed if material. Providing potential disclosure topics should help clarify the disclosurerequirements and avoid potential confusion among registrants. Besides the topics currently included under Item 101(a), the disclosure topics in the final amendments also add material changes to a registrant’s previously disclosed business strategy. Several studies have found that business strategy is a critical determinant of corporate success <sup>290</sup> and an essential component of business model design, <sup>291</sup> so investors may benefit from any increase in the disclosure of material changes to previously disclosed business strategies. A number of commenters also supported the inclusion of material changes to business strategy as a non-exclusive disclosure example. <sup>292</sup>
+
+Some commenters expressed concerns that this amendment could impose costs on filers if the disclosure of ‘material changes” in business strategy reveals sensitive or proprietary corporate information. <sup>293</sup> One commenter suggested that a safe harbor provision should be added to avoid disclosure of sensitive information. <sup>294</sup> However, because the final amendments do not make the disclosure of business strategy mandatory if a registrant has not previously disclosed its business strategy and a registrant will have considerable flexibility to tailor itsbusiness strategy disclosure, the costs of revealing proprietary information that could be harmful to registrants’ competitive positions should be limited.
+
+Overall, investors and registrants may benefit from the final amendments to Item 101(a) if the existing requirements elicit disclosure that is not material to an investment decision and/or is more costly to provide. However, providing registrants with additional flexibility to determine (i) whether certain information is material, and (ii) how to disclose such information may result in the reduction or loss of information in cases in which registrants no longer disclose information material to an investment decision.
+
+Narrative Description of Business (Item 101(c))
+
+Item 101(c) requires a narrative description of the registrant’s business. The current requirement identifies twelve specific items that must be disclosed to the extent material to an understanding of the registrant’s business taken as a whole. We are revising the requirements in Item 101(c) to be more clearly principles based. The final amendments require a description of the business and set forth seven non-exclusive examples of information to disclose if material to an understanding of the business. These examples include some, but not all, of the current disclosure topics required under Item 101(c) as well as some additional topics. Emphasizing a principles-based approach to Item 101(c) will give rise to the potential economic effects discussed in Section I.B.1 above. In addition, eliminating more prescriptive disclosure topics ( e.g. , dollar amount of backlog orders believed to be firm) may diminish comparability across firms.
+
+The disclosure topics that are retained, with some changes, as examples under the final amendments are: (1) principal products produced and services rendered, and dependence on certain customers; (2) new products and competitive conditions; (3) sources and availability ofraw materials and intellectual property; (4) business subject to renegotiation or termination of government contracts; (5) seasonality of the business; and (6) the number of persons employed. As the information required under Item 101(c) can be relevant to firm value, <sup>295</sup> investors and registrants will likely benefit if the examples elicit information material to an investment decision while allowing registrants to tailor the disclosure to their specific circumstances.
+
+The final amendments will expand the existing disclosure topic regarding the number of persons employed to encompass a description of the registrant’s human capital resources. This disclosure topic will require, in addition to the number of persons employed, a description of any human capital measures or objectives that the registrant focuses on in managing the business, to the extent such disclosures are material to an understanding of the registrant’s business. The rule also will provide non-exclusive examples of human capital measures and objectives, such as measures or objectives that address the attraction, development, and retention of personnel.
+
+In one meta-analysis, which reviewed 66 studies, the authors found that besides the number of employees, other human capital characteristics, including education, experience, and training, have positive effects on firm performance. <sup>296</sup> Another study found that turnover ratesreflect human resource management practices. <sup>297</sup> These studies suggest that investors may benefit from additional information elicited by the human capital topic. Many commenters agreed that investors would benefit from such disclosure, but offered different suggestions for what that disclosure should include. <sup>298</sup> Registrants will incur incremental compliance costs to provide this additional information. <sup>299</sup> To the extent that some registrants already disclose such information, for them the incremental benefits and costs would likely be lower than if they were providing no such disclosure. <sup>300</sup> We recognize, however, that even for some registrants who are currently disclosing such information, the incremental compliance costs may not be trivial.
+
+The final amendments also replace the requirement to disclose the material effects on the registrant of compliance with environmental laws with a disclosure topic that covers the material effects of compliance with material government regulations, including environmental laws. To the extent that information about compliance with government regulations affects firm value, investors may benefit from additional information about the effects of material government regulations. Registrants, however, will incur incremental compliance costs to provide this information. To the extent that many registrants already disclose such information, the incremental benefits and costs could be limited.
+
+Some of the disclosure requirements currently contained in Item 101(c) are not included as potential topics in the revised rule. <sup>301</sup> To the extent that the elimination of these topics results in a loss of material information, there may be costs to investors. <sup>302</sup> However, we believe that any such costs would be limited given that, under the principles-based approach, the list of disclosure topics will not be exhaustive and registrants still will be required to provide disclosure about such matters if they are material to an understanding of the business.
+
+Additionally, in an effort to consolidate working capital disclosure in one location and to avoid duplicative disclosure, the final amendments eliminate working capital practices as a disclosure topic in Item 101(c), given that this information, when material, often is elicited by MD&A disclosure requirements. <sup>303</sup> If duplicative disclosure distracts investors from other important information, this amendment may benefit investors by reducing repetition and facilitating more efficient information processing. However, to the extent that information on working capital practices will no longer be available in the narrative description of business required by Item 101(c), investors may have to spend more time synthesizing this information from other locations. Registrants may marginally benefit from reduced compliance costs from the elimination of duplicative disclosure.
+
+Overall, investors and registrants may benefit from the final amendments to Item 101(c) if the revised rules result in disclosure that is more likely to be material to an investment decision and avoid disclosure that is not material and/or is costly to provide.
+
+Legal Proceedings (Item 103)
+
+Item 103 requires disclosure of material pending legal proceedings and other relevant information about the proceedings, such as the name of the court, the date instituted, and the principal parties involved. Given that involvement in legal proceedings can affect a firm’s cash flows through multiple channels, including legal fees, the cost of executives being distracted from their main operational tasks, reputational costs, and settlement costs, information required under Item 103 is relevant to firm value. <sup>304</sup> Therefore, investors will benefit if the final amendments to Item 103 result in more effective disclosure of material legal proceedings information.
+
+Currently, Item 103 and U.S. GAAP, which requires disclosure of certain loss contingencies, overlap in the requirement to disclose certain information associated with legal proceedings. As a result, in order to comply with Item 103, registrants commonly repeat disclosures that are already provided elsewhere in registration statements and periodic reports. The final amendments to Item 103 encourage the use of hyperlinks or cross-references to avoidrepetitive disclosure. If duplicative disclosure distracts investors from other important information, the final amendments may benefit investors by reducing repetition and facilitating more efficient information processing. However, to the extent that some information on legal proceedings will no longer be readily available under Item 103, investors may have to spend more time synthesizing this information from other locations. Nevertheless, we believe the increase in information processing cost for investors would be minimal. While registrants may incur minimal compliance costs if they choose to include hyperlinks, those costs generally would be less than the costs of disclosing duplicative information in a document.
+
+Currently, Item 103 specifically requires disclosure of any proceedings under environmental laws to which a governmental authority is a party unless the registrant reasonably believes that the proceeding will result in monetary sanctions, exclusive of interest and costs, of less than $100,000. This bright-line threshold for environmental proceedings was adopted in 1982. The final amendment includes a modified disclosure threshold that increases the existing$100,000 threshold to $300,000 (to account for inflation), but also affords a registrant some flexibility. Specifically, the amendment will allow a registrant to select a different threshold, with an upper bound of the lesser of $1 million or one percent of its current assets, that it determines is reasonably designed to result in disclosure of material environmental proceedings. Research has found that environmental liabilities can influence certain corporate decisions related to managing environmental regulatory risk <sup>305</sup> and that some investors includeenvironmental criteria in their investment strategies. <sup>306</sup> As discussed above, commenters’ views were mixed on whether we should retain a bright-line disclosure threshold or move to a more principles-based approach. <sup>307</sup> Also as discussed above, environmental proceedings often can be complex from a factual and legal standpoint so a bright-line, quantitative threshold can help registrants by eliminating the need to make an assessment of whether a particular proceeding that exceeds the threshold is subject to disclosure on a principles basis. However, a single quantitative threshold that is set at a level that is designed to limit the need to make materiality judgments is likely to result in some disclosures, particularly for larger registrants that are not material. Alternatively, a materiality-based threshold would lower compliance costs for registrants by reducing the disclosure of proceedings that are not material, but also may increase the costs to registrants to assess whether the disclosure of environmental proceedings is appropriate. Because it involves a certain degree of judgment, there also may be costs associated with misapplication of a materiality-based standard. For example, depending on the facts and circumstances (including the size of a registrant) misapplication of such a standard may result in disclosure of proceedings that are not material, particularly when considered inhttps://ssrn.com/abstract=3200991 (documenting that firms with higher environmental liabilities maintain lower financial leverage ratios and suggesting that environmental liabilities and financial liabilities are substitutionary).relation to the registrant’s total assets or revenues, or the non-disclosure of proceedings that are material. <sup>308</sup> The two-pronged approach that will be required under the final rule will benefit registrants and potentially lower their compliance costs since it includes a minimum quantitative threshold while also providing them with the flexibility to apply a more tailored disclosure threshold within a range that has an upper limit of $1 million. Under such an approach, registrants will continue to provide information on a bright-line basis using a threshold that is designed to capture at least all information that would be material to an investment or voting decision but will have the flexibility to use a disclosure threshold that is more indicative of materiality on a company-specific basis. Additionally, the two-pronged approach will reduce the risk of non-disclosure of material information, particularly for larger issuers, because disclosure will be required in all cases for any proceeding when the potential monetary sanctions exceed the lesser of $1 million or one percent of the current assets of the registrant and its subsidiaries on a consolidated basis. We estimate that $1 million represents approximately 0.01% of the mean current assets (0.02% of the median current assets) of companies in the S&P 500. <sup>309</sup> Accordingly, we expect that many larger registrants will be subject to a maximum bright-line disclosure threshold of $1 million, representing substantially less than one percent of current assets. We believe this proportionately lower threshold, which is likely to result in the disclosure of information that is not material to an investment decision, is nevertheless appropriate, as assessing the materiality of governmental monetary sanctions, even in loweramounts, may be difficult and as a result, it may be more efficient for registrants and investors to bear the costs of some degree of over-disclosure.
+
+Since the two-pronged approach we are adopting includes quantitative thresholds that are higher than the current threshold, registrants of all sizes should benefit from reduced compliance costs. For example, Table 1 below summarizes the number of registrants that have cases in the EPA’s Enforcement and Compliance History Online Database over the period 2009-2019 and provides summary statistics on the size of the monetary sanctions, in dollar terms and as a percentage of registrants’ current assets. For each year, the table shows the estimated number of registrants that incurred environmental proceedings with monetary sanctions exceeding (i) $100,000, (ii) $300,000 and (iii) the lesser of $1 million or one percent of the current assets of the registrant and its subsidiaries on a consolidated basis.
+
+The increase in the disclosure threshold from $100,000 to $300,000 would have resulted on average in an upper bound decrease of 30% in the number of registrants that have to report such sanctions during the period under consideration, with the median ratio of sanctions to current assets of approximately 0.12%. The use of an alternative threshold that requires disclosure when sanctions exceed the lesser of $1 million or one percent of the current assets of the registrant results in an additional average upper bound decrease of 30% in the number of registrants that have to report such sanctions during the period under consideration, with the median ratio of sanctions to current assets of approximately 0.30%.
+
+Based only on a financial assessment of the mean (and median) total sanctions as a percentage of current assets, we would not expect these changes to result in the non-disclosure of information that would be material to an investment or voting decision. The data in Table 1 also suggests that the $100,000 threshold likely resulted in the disclosure of a substantialamount of non-material information. In addition, it further suggests that the new two-pronged approach is likely to continue to result in the disclosure of a substantial amount of non-material information, albeit less than is currently required.
+
+Table 1. Statistics for SEC Registrant cases in EPA’s Enforcement and Compliance History Online Database (ECHO)
+
+Risk Factors (Item 105)
+
+Item 105 requires disclosure of the most significant factors that make an investment in the registrant or offering speculative or risky. Some academic research supports the notion that information currently required under Item 105 is important to investors. For example, there is evidence that risk factor disclosure by publicly traded firms is material in content. <sup>315</sup> There also is evidence suggesting that investors benefit from risk factor disclosures that are morespecific. <sup>316</sup> In measuring long-run returns to IPO stocks, some studies conclude that the returns are commensurate with the risk profiles of the individual firms. <sup>317</sup> Together, this research supports the notion that effective disclosures of risk factors can help investors better manage their risk exposure.
+
+The amendments to Item 105 will require a bullet point summary of the principal risk factors that is no more than two pages in the forepart of the document when the risk factor section exceeds 15 pages. If lengthy risk factor disclosure contains information that is less meaningful to investors, such as generic risks that could apply to any investment in securities, a brief summary of the risk factors should benefit investors, especially those who have less time to review and analyze registrants’ disclosure, by enabling them to make more efficient investment decisions. The potential benefit of a brief summary may be limited for some registrants if they cannot disclose all material risks in a two-page summary, although all material risk factors will still be required to appear in the risk factor section. The requirement to prepare a risk factor summary may increase the compliance costs. For example, one commenter stated that the proposed amendments may require registrants to rank risk factors, which would increase the compliance burden. <sup>318</sup> Other commenters expressed concern that the proposedamendments could create litigation risks. <sup>319</sup> Yet another commenter asserted that a risk factor summary could be especially burdensome for smaller and pre-IPO firms that deem a wide range of information at their stage of life cycle to be material, and thus may deter them from going public. <sup>320</sup>
+
+While we are cognizant of potential compliance costs associated with the preparation of a risk factor summary, such an increase should be limited due to the requirement that the summary cannot exceed two pages. The use of a risk factor summary, when the full risk factor discussion exceeds 15 pages, should make the disclosure more user friendly and improve its readability. <sup>321</sup> The new threshold also could incentivize registrants to limit the length of their risk factor disclosure to no more than 15 pages. Based on current disclosure practices, we estimate that a 15-page threshold will affect approximately 40 percent of registrants. <sup>322</sup> If registrants shorten their risk factor disclosure to avoid triggering the summary disclosure requirement, the disclosure might become less detailed. However, registrants that are providing lengthy risk factor disclosure to reduce potential litigation risks might be less likely to shorten the disclosure simply to avoid providing the summary. <sup>323</sup> We do not believe that the compliancecosts associated with the risk factor summary of up to two pages will be so large as to affect a company’s decision whether to go public. <sup>324</sup>
+
+The final amendments to Item 105 also replace the requirement to discuss the “most significant” risks with “material” risks. The economic effects of the final amendment depend on the preferences of investors. If the existing “most significant” standard elicits too much or too little information, investors may benefit from the materiality standard emphasized in the final rules. Focusing on the risks to which investors would attach the most importance should enable them to make more efficient investment decisions. Registrants may experience increased (decreased) compliance costs if the materiality standard results in more (less) expansive disclosure than the existing “most significant” standard.
+
+In addition, the final amendments revise Item 105 to require registrants to organize their risk factor disclosure under relevant headings, with generic risk factors, if disclosed, appearing at the end of the risk factor section under the caption “General Risk Factors.” Some academic research has found that different types of registrants disclose different types of risk factors and certain types of risk factors are more correlated with stock return volatilities and systematic risks. <sup>325</sup> Therefore, well-organized risk factor disclosure that gives greater prominence to material risks could benefit investors, especially those who have less time to review and analyze registrants’ disclosure, by enabling them to make more efficient investment decisions.
+
+Registrants may incur additional costs to organize their risk factor disclosure. To the extent that some registrants already organize their risk factor disclosure through groupings of related risk factors and the use of headings, the compliance costs will be limited. <sup>326</sup>
 
 <h>C. Anticipated Effects on Efficiency, Competition, and Capital Formation</h>
 
+As discussed above, the final amendments may improve capital allocation efficiency by enabling investors to make more efficient investment decisions. For example, the final amendments may reduce search costs for certain investors by eliminating information that is not material to those investors. Given that certain investors may have less time to review and analyze registrants’ disclosure, <sup>327</sup> elimination of such information may facilitate more efficient investment decision making. In addition, permitting registrants to omit disclosure of information when it is not material may reduce registrant compliance costs, allowing registrants to deploy resources towards more productive uses and thus encouraging capital formation. The reduction in compliance costs might be particularly beneficial for smaller and younger registrants that are resource-constrained. <sup>328</sup>
+
+However, in cases in which registrants misjudge what information is material, a principles-based disclosure framework relying on registrants’ determinations of the importance of information to investors could result in increased information asymmetries betweenregistrants and investors. Such asymmetries may increase the cost of capital, reduce capital formation, and hamper efficient allocation of capital across companies. Overall, to the extent that the final amendments will eliminate disclosure that is not considered to be material, we believe these effects will be limited. Moreover, we expect this risk to be offset by mitigants, including corporate internal controls and the antifraud provisions of the securities laws.
+
 <h>D. Alternatives</h>
 
-<h>V. PAPERWORK REDUCTION ACT</h>
+We are amending Items 101(a), 101(c), and 105 to be more clearly principles-based. As an alternative, we considered modifying these requirements using prescriptive standards.
+
+Several commenters expressed support for more prescriptive standards. <sup>329</sup> For example, some commenters advocated for additional specific disclosures about environmental and foreign regulatory risks, the types and composition of employees, and business strategy. <sup>330</sup> A prescriptive standard could elicit additional specific disclosures, may be easier for registrants to apply, and could enhance the comparability and verifiability of information. However, not all of these disclosures will be relevant at the same level of detail for all registrants. Given that the optimal levels of disclosure for business description and risk factors, in particular, are likely to vary greatly across registrants, a more flexible principles-based approach is more likely to elicit the appropriate disclosures for these items. In addition, a prescriptive approach to a particular area of disclosure where the specified metric does not capture or does not fully capture the information likely to be material to an investment decision about a particular registrant or comparable registrants may lead investors to disproportionately rely on that metric for the registrant or as a comparative tool with respect to other registrants.
+
+The final amendments to Item 101(a) will include a non-exclusive list of the types of information that a registrant may need to disclose. We could have included a new disclosure topic that would require, if material to an understanding of the general development of the business, disclosure of transactions and events that affect or may affect the company’s operations. Given that existing MD&A disclosure requirements likely elicit similar information, including this disclosure topic could result in duplicative disclosures that would increase compliance costs for registrants without significantly improving the overall mix of information available to investors.
+
+The final amendments to Item 101(c) will require disclosure of human capital measures or objectives, including disclosure of the number of persons employed, to the extent material to an understanding of the registrant’s business. One alternative to this disclosure topic would be to remove any reference to disclosure of the number of persons employed. This alternative would be consistent with the general principles-based approach of the final amendments that eschews specificity in favor of encouraging registrants to consider the particular types of information that would be material to an understanding of their business. <sup>331</sup> However, such an alternative could have deprived investors of disclosure that provides them with valuable information that can be used in assessing productivity growth, compensation measures, and capital allocation. <sup>332</sup> Moreover, disclosure of this metric would allow investors to readily compare different registrants and assess their cost of capital and future corporateperformance. <sup>333</sup> Therefore, retaining a specific reference to the number of employees in this disclosure topic may help registrants provide information that is material to an understanding of their business.
+
+The final amendments also adjust for inflation the bright-line threshold for environmental proceedings in Item 103 from $100,000 to $300,000 and allow registrants to elect to use a different threshold, with an upper bound of the lesser of $1,000,000 or one percent of its current assets. As an alternative to this amendment, we considered applying only a materiality standard. On the one hand, a materiality standard might elicit disclosure that is more relevant to a registrant’s operations. For example, the same dollar amount of environmental fines might have a significant impact on the cash flows of a small registrant but a marginal impact on the cash flows of a large registrant. On the other hand, some environmental proceedings can be factually and legally complex, so a bright-line threshold may provide an easy-to-apply benchmark for registrants that use it when determining whether a particular environmental proceeding should be disclosed. <sup>334</sup> Furthermore, the imposition of fines and sanctions may be important information for investors in assessing a registrant’s overall compliance efforts, even if, depending on the size of a registrant, such fines or sanctions may be construed as not material when considered in relation to the registrant’s total assets or revenues. Another alternative would be to adopt a lower or higher bright-line threshold than the oneproposed. The optimal threshold depends on the preference of investors. For example, a lower bright-line threshold might be more appropriate if investors use information about environmental proceedings smaller than $300,000 to inform investment decisions.
+
+As another alternative, we considered making similar amendments to the corresponding disclosure requirements applicable to foreign private issuers <sup>335</sup> and smaller reporting companies. <sup>336</sup> For example, we considered making the business disclosure requirements under Form 20-F, which are largely prescriptive, more principles-based, similar to those we are adopting for domestic registrants. Although current rules provide certain accommodations specific to these types of registrants (e.g., scaled disclosures), they are generally more prescriptive. Amending these requirements to make them more principles-based would enable such registrants to realize the same expected benefits as other registrants by permitting them to tailor their disclosure to fit their own particular circumstances and reduce the amount of disclosure that is not material. However, such an alternative also could impose unique costs for these registrants. For example, such an approach could reduce the ability of foreign private registrants to use a single disclosure document that would be accepted in multiple jurisdictions. Similarly, a principles-based approach that requires more judgment may make it more difficult for smaller registrants with limited resources and less established reporting histories to meet their disclosure obligations and could increase the risk of persistent information asymmetries. For these reasons, and because we received limited feedback on these points, we are notadopting either of these alternatives.
+
+PAPERWORK REDUCTION ACT
 
 <h>A. Summary of the Collections of Information</h>
 
+Certain provisions of our rules, schedules, and forms that would be affected by the rule amendments contain “collection of information” requirements within the meaning of the Paperwork Reduction Act of 1995 (“PRA”). <sup>337</sup> The Commission published a notice requesting comment on revisions to these collections of information requirements in the Proposing Release and has submitted these requirements to the Office of Management and Budget (“OMB”) for review in accordance with the PRA. <sup>338</sup> The hours and costs associated with preparing, filing, and sending the schedules and forms constitute reporting and cost burdens imposed by each collection of information. An agency may not conduct or sponsor, and a person is not required to comply with, a collection of information unless it displays a currently valid OMB control number. Compliance with the information collections is mandatory. Responses to the information collections are not kept confidential and there is no mandatory retention period for the information disclosed. The titles for the collections of information are: <sup>339</sup>“Form S-1” (OMB Control No. 3235-0065);“Form S-3” (OMB Control No. 3235-0073;“Form S-4” (OMB Control No. 3235-0324);“Form S-11” (OMB Control No. 3235-0067);“Form F-1” (OMB Control No. 3235-0258);“Form F-3” (OMB Control No. 3235-0256);“Form F-4” (OMB Control No. 3235-0325);“Form SF-1” (OMB Control No. 3235-0707);“Form SF-3” (OMB Control No. 3235-0690);“Form 10” (OMB Control No. 3235-0064);“Form 10-K” (OMB Control No. 3235-0063);“Form 10-Q” (OMB Control No. 3235-0070);“Schedule 14A” (OMB Control No. 3235-0059); and“Schedule 14C” (OMB Control No. 3235-0057)
+
+The regulations, schedules, and forms listed above were adopted under the Securities Act and/or the Exchange Act. These regulations, schedules, and forms set forth the disclosure requirements for registration statements, periodic and current reports, distribution reports, and proxy and information statements filed by registrants to help investors make informed investment and voting decisions.
+
+A description of the amendments, including the need for the information and its use, as well as a description of the likely respondents, can be found in Section II above, and a discussion of the economic effects of the proposed amendments can be found in Section IV above.
+
 <h>B. Summary of Comment Letters</h>
+
+In the Proposing Release, the Commission requested comment on the PRA burden hour and cost estimates and the analysis used to derive such estimates. We did not receive any comments that directly addressed the PRA analysis of the proposed amendments. Severalcommenters, however, did provide responses to certain requests for comment that have informed some of our PRA estimates. In this regard, several commenters stated that the proposals would eliminate or reduce disclosure of redundant and unnecessary information and give registrants the flexibility to focus on information that is material. <sup>340</sup> These effects should also reduce the compliance burdens.
 
 <h>C. Summary of the Impact on Collections of Information</h>
 
+As discussed in more detail in the Proposing Release, <sup>341</sup> we derived the burden hour estimates by estimating change in paperwork burden as a result of the amendments. As discussed in Section II, we have made some changes to the proposed amendments as a result of comments received. While certain of these changes could further reduce burdens on registrants, such as not adopting as a disclosure topic under Item 101(a)(1) transactions and events that affect or may affect the company’s operations, or providing a modified disclosure threshold for environmental proceedings, others may incrementally increase those burdens relative to the proposals. Considered together, we do not expect these changes to impact our assessment of the compliance burdens of the final rule amendments for purposes of the PRA. Accordingly, we have not revised the estimates of the impact on the per hour burden for the affected forms discussed in the Proposing Release. We have, however, added Schedule 14C as an affected form, which increases the totals in PRA Tables 3 and 4.
+
+PRA Table 1 summarizes the estimated impact of the final amendments on the paperwork burdens associated with the affected forms listed above.
+
+PRA Table 1. Estimated Paperwork Burden Effects of the Final Amendments*Estimated effect expressed as increase or decrease of burden hours on average and derived from staff review of samples of relevant sections of the affected forms.**The lower estimated average incremental burden for Schedules 14A and 14C reflects the Commission staff estimate that annually no more than 10% of these filings include Item 101 disclosures.***Because Form S-11 already has a summary risk factor disclosure requirement, the amendments to Item 105 are not expected to affect the compliance burden for Form S-11 registrants.± The lower estimated average incremental burden for Forms 10 and 10-K reflects the approximate number of these forms filed by smaller reporting companies which are not required to provide Item 105 risk factor disclosure.
+
 <h>D. Burden and Cost Estimates of the Amendments</h>
-
-<h>VI. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
-
-<h>VII. STATUTORY AUTHORITY</h>
 
 <END MAIN TEXT>
 

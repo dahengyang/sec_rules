@@ -1,295 +1,3 @@
-https://www.sec.gov/rules/final/2019/bhca-7.pdf
-
-I.0.0.0 Background
-
-II.0.0.0 Notice of Proposed Rulemaking
-
-III.0.0.0 Overview of the Final Rule and Modifications from the Proposal
-
-	III.A.0.0 The Final Rule
-
-	III.B.0.0 Interagency Coordination and Other Comments
-
-IV.0.0.0 Section by Section Summary of the Final Rule
-
-	IV.A.0.0 Subpart A—Authority and Definitions
-
-		IV.A.1.0 Section .2: Definitions
-
-			IV.A.1.a Banking Entity
-
-			IV.A.1.b Limited, Moderate, and Significant Trading Assets and Liabilities
-
-	IV.B.0.0 Subpart B—Proprietary Trading Restrictions
-
-		IV.B.1.0 Section .3: Prohibition on Proprietary Trading and Related Definitions
-
-			IV.B.1.a Trading Account
-
-	IV.A.0.0 is licensed or registered, or is required to be licensed or registered, to engage in the business of a dealer, swap dealer, or security-based swap dealer, to the extent the instrument is purchased or sold in connection with the activities that require the banking
-
-			IV.A.1.b Proprietary Trading Exclusions
-
-			IV.A.1.c Trading Desk
-
-			IV.A.1.d Reservation of Authority
-
-		IV.A.2.0 Section .4: Permitted Underwriting and Market Making Related Activities
-
-			IV.A.2.a Current Exemptions for Underwriting and Market Making– Related Activities
-
-			IV.A.2.b Proposed presumption of compliance with the statutory RENTD requirement
-
-		IV.A.1.0 Amount, types, and risk of its underwriting position;
-
-		IV.A.2.0 Level of exposures to relevant risk factors arising from its underwriting position; and
-
-		IV.A.3.0 Period of time a security may be held.
-
-		IV.A.1.0 Amount, types, and risks of its market-maker positions;
-
-		IV.A.2.0 Amount, types, and risks of the products, instruments, and exposures the trading desk may use for risk management purposes;
-
-		IV.A.3.0 Level of exposures to relevant risk factors arising from its financial exposure; and
-
-		IV.A.4.0 Period of time a financial instrument may be held.
-
-			IV.A.4.c Commenters’ Views
-
-			IV.A.4.d Final presumption of compliance with the statutory RENTD requirement
-
-		IV.A.1.0 Amount, types, and risk of its underwriting position;
-
-		IV.A.2.0 Level of exposures to relevant risk factors arising from its underwriting position; and
-
-		IV.A.3.0 Period of time a security may be held.
-
-		IV.A.1.0 Amount, types, and risks of its market-maker positions;
-
-		IV.A.2.0 Amount, types, and risks of the products, instruments, and exposures the trading desk may use for risk management purposes;
-
-		IV.A.3.0 Level of exposures to relevant risk factors arising from its financial exposure; and
-
-		IV.A.4.0 Period of time a financial instrument may be held.
-
-			IV.A.4.e Additional changes to the final rule’s underwriting and market making–related activities exemptions
-
-			IV.A.4.f Compliance program and other requirements for underwriting and market making-related activities
-
-	IV.A.0.0 The products, instruments or exposures each trading desk may purchase, sell, or manage as part of its underwriting activities;
-
-	IV.B.0.0 Limits for each trading desk, in accordance with § .4(a)(2)(ii)(A);
-
-	IV.C.0.0 Written authorization procedures, including escalation procedures that require review and approval of any trade that would exceed a trading desk’s limit(s), demonstrable analysis of the basis for any temporary or permanent increase to a trading desk’s limit(s), and independent review of such demonstrable analysis and approval; and
-
-	IV.D.0.0 Internal controls and ongoing monitoring and analysis of each trading desk’s compliance with its limits.
-
-	IV.A.0.0 The financial instruments each trading desk stands ready to purchase and sell in accordance with § .4(b)(2)(i);
-
-	IV.B.0.0 The actions the trading desk will take to demonstrably reduce or otherwise significantly mitigate promptly the risks of its financial exposure consistent with the limits required under § .4 (b)(2)(iii)(C); the products, instruments, and exposures each trading desk may use for risk management purposes; the techniques and strategies each trading desk may use to manage the risks of its market making-related activities and positions; and the process, strategies, and personnel responsible for ensuring that the actions taken by the trading desk to mitigate these risks are and continue to be effective;
-
-	IV.C.0.0 Limits for each trading desk, in accordance with § .4(b)(2)(ii);
-
-	IV.D.0.0 Written authorization procedures, including escalation procedures that require review and approval of any trade that would exceed a trading desk’s limit(s),
-
-	IV.E.0.0 Internal controls and ongoing monitoring and analysis of each trading desk’s compliance with its limits.
-
-			IV.E.4.g Other comments
-
-			IV.E.4.h Market making hedging
-
-		IV.E.3.0 Section .5: Permitted Risk-Mitigating Hedging Activities
-
-			IV.E.3.a Section .5 of the 2013 Rule
-
-			IV.E.3.b Proposed Amendments to Section .5
-
-			IV.E.3.c Commenters’ Views
-
-			IV.E.3.d Final Rule
-
-		IV.E.4.0 Section .6(e): Permitted Trading Activities of a Foreign Banking Entity
-
-	IV.A.0.0 with the foreign operations of a U.S. entity, if no personnel of such
-
-	IV.B.0.0 with an unaffiliated market intermediary acting as principal, provided
-
-	IV.C.0.0 through an unaffiliated market intermediary, provided the transaction is conducted anonymously (i.e., each party to the transaction is unaware of the identity of the other party(ies)) on an exchange or similar trading facility and promptly cleared and settled through a clearing agency or derivatives clearing organization acting as a central counterparty.
-
-	IV.C.0.0 Subpart C—Covered Fund Activities and Investments
-
-		IV.C.1.0 Overview of Agencies’ Approach to the Covered Fund Provisions
-
-		IV.C.2.0 Section .11: Permitted Organizing and Offering, Underwriting, and Market Making with Respect to a Covered Fund
-
-		IV.C.3.0 Section .13: Other Permitted Covered Fund Activities
-
-			IV.C.3.a Permitted Risk-Mitigating Hedging
-
-			IV.C.3.b Permitted Covered Fund Activities and Investments Outside of the United States
-
-		IV.C.4.0 Section .14: Limitations on relationships with a covered fund
-
-			IV.C.4.a Relationships with a covered fund
-
-			IV.C.4.b Prime Brokerage transactions
-
-		IV.C.7.0 purchase and sale of financial assets from inventory. Similarly, another commenter requested that the agencies clarify that the term “prime brokerage transaction” applies to any transaction provided in connection with custody, clearance and settlement, securities borrowing or lending services, trade execution, financing, or data, operational, and administrative support regardless of which business line within the banking entity conducts the business. The same commenter suggested that any prime brokerage transaction with a second-tier covered fund should be presumed to comply with section
-
-	IV.D.0.0 Subpart D—Compliance Program Requirement; Violations.
-
-		IV.D.1.0 Section .20: Program for compliance; reporting
-
-			IV.D.1.a Compliance Program Requirements for Banking Entities with Significant Trading Assets and Liabilities
-
-			IV.D.1.b Compliance Program Requirements for Banking Entities with Moderate Trading Assets and Liabilities
-
-			IV.D.1.c Compliance Program Requirements for Banking Entities with Limited Trading Assets and Liabilities
-
-			IV.D.1.d Notice and Response Procedures
-
-	IV.E.0.0 Subpart E—Metrics: Appendix to Part [●]—Reporting and Recordkeeping Requirements
-
-		IV.E.1.0 Purpose
-
-		IV.E.2.0 Definitions
-
-		IV.E.3.0 Reporting and Recordkeeping
-
-		IV.E.4.0 Trading Desk Information
-
-		IV.E.5.0 Quantitative Measurements Identifying Information
-
-		IV.E.6.0 Narrative Statement
-
-		IV.E.7.0 Frequency and Method of Required Calculation and Reporting
-
-		IV.E.8.0 Recordkeeping
-
-		IV.E.9.0 Quantitative Measurements
-
-			IV.E.9.a Risk-Management Measurements
-
-			IV.E.9.b Source-of-Revenue Measurements
-
-			IV.E.9.c Customer-Facing Activity Metrics
-
-			IV.E.9.d Securities Inventory Aging
-
-V.0.0.0 Administrative Law Matters
-
-	V.A.0.0 Use of Plain Language
-
-	V.B.0.0 Paperwork Reduction Act
-
-	V.C.0.0 Regulatory Flexibility Act Analysis
-
-			V.C.9.a Regulatory Flexibility Analysis
-
-			V.C.9.b Reasons for and Policy Objectives of the Final Rule
-
-			V.C.9.c Description of the Rule
-
-			V.C.9.d Other Statutes and Federal Rules
-
-			V.C.9.e Small Entities Affected
-
-			V.C.9.f Certification Statement
-
-	V.D.0.0 Riegle Community Development and Regulatory Improvement Act.
-
-	V.E.0.0 OCC Unfunded Mandates Reform Act Determination
-
-	V.F.0.0 SEC Economic Analysis
-
-		V.F.1.0 Broad Economic Considerations
-
-			V.F.1.a Scope
-
-		V.F.1.0 more than $10 billion in total consolidated assets; and (2) total trading assets and trading liabilities, as reported on the most recent applicable regulatory filing filed by the institution, that are more than 5% of total consolidated assets.
-
-			V.F.1.b Economic Effects and Justification
-
-			V.F.1.c Analytical Approach
-
-		V.F.2.0 Baseline
-
-			V.F.2.a Regulation
-
-		V.F.1.0 Definition of the Trading Account
-
-		V.F.2.0 Exemption for Underwriting and Market Making-Related Activity
-
-		V.F.3.0 Exemption for Risk-Mitigating Hedging
-
-		V.F.4.0 Exemption for Foreign Trading
-
-		V.F.5.0 Covered Funds
-
-		V.F.6.0 Compliance Program
-
-		V.F.7.0 Metrics
-
-			V.F.7.b Response to Commenters Regarding Economic Baseline and Effects of Section 13 of the BHC Act and the 2013 Rule
-
-			V.F.7.c Affected Participants
-
-		V.F.3.0 Economic Effects
-
-			V.F.3.a Treatment of Entities Based on the Size of Trading Assets and Liabilities
-
-			V.F.3.a and V.F.3.h may be partially or fully passed along to clients and counterparties.
-
-			V.F.3.b Proprietary Trading
-
-		V.F.1.0 Costs and Benefits
-
-		V.F.2.0 Efficiency, Competition, and Capital Formation
-
-		V.F.3.0 Alternatives
-
-		V.F.1.0 Costs and Benefits
-
-		V.F.2.0 Efficiency, Competition, and Capital Formation
-
-		V.F.3.0 Alternatives
-
-		V.F.1.0 Costs and Benefits
-
-		V.F.2.0 Efficiency, Competition, and Capital Formation
-
-		V.F.3.0 Alternatives
-
-			V.F.3.c Permitted Underwriting and Market Making
-
-			V.F.3.d Permitted Risk-Mitigating Hedging
-
-			V.F.3.e Exemption for Foreign Trading
-
-			V.F.3.f Covered Funds
-
-			V.F.3.g Compliance Program
-
-			V.F.3.h Metrics
-
-		V.F.1.0 Reporting and Recordkeeping Burden for SEC- Regulated Banking Entities
-
-		V.F.2.0 Elimination, Replacement, and Streamlining of Certain Metrics
-
-			V.F.2.b .i above.
-
-		V.F.3.0 Trading Desk Information, Quantitative Measurements Identifying Information, and Narrative Statement
-
-		V.F.4.0 Time to Report
-
-		V.F.5.0 XML Format
-
-	V.G.0.0 Congressional Review Act
-
-
-
-<END TABLE OF CONTENTS>
-
 Conformed to Federal Register version
 
 DEPARTMENT OF TREASURY
@@ -544,9 +252,7 @@ The 2013 rule’s definition of trading account includes three prongs and a rebu
 
 The market risk capital rule prong (market risk capital prong) includes within the definition of trading account the purchase or sale of one or more financial instruments that are both covered positions and trading positions under the market risk capital rule (or hedges of other covered positions under the market risk capital rule), if the banking entity, or any affiliate of the banking entity, is an insured depository institution, bank holding company, or savings and loan holding company, and calculates risk-based capital ratios under the market risk capital rule. <sup>129</sup>
 
-Finally, the dealer prong includes within the definition of trading account any purchase or sale of one or more financial instruments for any purpose if the banking entity
-
-<h>A. is licensed or registered, or is required to be licensed or registered, to engage in the business of a dealer, swap dealer, or security-based swap dealer, to the extent the instrument is purchased or sold in connection with the activities that require the bankingentity to be licensed or registered as such; or (B) is engaged in the business of a dealer, swap dealer, or security-based swap dealer outside of the United States, to the extent the instrument is purchased or sold in connection with the activities of such business. <sup>130</sup></h>
+Finally, the dealer prong includes within the definition of trading account any purchase or sale of one or more financial instruments for any purpose if the banking entity (A) is licensed or registered, or is required to be licensed or registered, to engage in the business of a dealer, swap dealer, or security-based swap dealer, to the extent the instrument is purchased or sold in connection with the activities that require the bankingentity to be licensed or registered as such; or (B) is engaged in the business of a dealer, swap dealer, or security-based swap dealer outside of the United States, to the extent the instrument is purchased or sold in connection with the activities of such business. <sup>130</sup>
 
 The proposal would have replaced the 2013 rule’s short-term intent prong with a new third prong based on the accounting treatment of a position (the accounting prong). The proposal also would have added a presumption of compliance with the proposed rule’s prohibition on proprietary trading for trading desks whose activities are not covered by the market risk capital prong or the dealer prong if the activities did not exceed a specified quantitative threshold. The proposal would have retained a modified version of the market risk capital prong and would have retained the dealer prong unchanged from the 2013 rule. As described in detail below, the final rule retains the three-pronged definition of trading account from the 2013 rule and does not adopt the proposed accounting prong or presumption of compliance with the proprietary trading prohibition. Rather, the final rule makes targeted changes to the definition of trading account.
 
@@ -818,21 +524,21 @@ Instead of the approach taken in the 2013 rule, the agencies proposed to establi
 
 Under the proposal, all banking entities, regardless of their volume of trading assets and liabilities, would have been able to voluntarily avail themselves of the presumption of compliance with the RENTD requirement by establishing and complying with these internal limits. With respect to the underwriting exemption, the proposal would have provided that a banking entity would establish internal limits for each trading desk that are designed not to exceed RENTD, based on the nature and amount of the trading desk’s underwriting activities, on the:
 
-<h>1. Amount, types, and risk of its underwriting position;</h>
+1. Amount, types, and risk of its underwriting position;
 
-<h>2. Level of exposures to relevant risk factors arising from its underwriting position; and</h>
+2. Level of exposures to relevant risk factors arising from its underwriting position; and
 
-<h>3. Period of time a security may be held.</h>
+3. Period of time a security may be held.
 
 With respect to the exemption for market making-related activities, the proposal would have provided that all banking entities, regardless of their volume of trading assets and liabilities, would be able to voluntarily avail themselves of the presumption of compliance with the RENTD requirement by establishing and complying with internal limits. Specifically, the proposal would have provided that a banking entity would establish internal limits for each trading desk that are designed not to exceed RENTD, based on the nature and amount of the trading desk’s market making-related activities, on the:
 
-<h>1. Amount, types, and risks of its market-maker positions;</h>
+1. Amount, types, and risks of its market-maker positions;
 
-<h>2. Amount, types, and risks of the products, instruments, and exposures the trading desk may use for risk management purposes;</h>
+2. Amount, types, and risks of the products, instruments, and exposures the trading desk may use for risk management purposes;
 
-<h>3. Level of exposures to relevant risk factors arising from its financial exposure; and</h>
+3. Level of exposures to relevant risk factors arising from its financial exposure; and
 
-<h>4. Period of time a financial instrument may be held.</h>
+4. Period of time a financial instrument may be held.
 
 In the case of both exemptions, the proposal provided that banking entities utilizing the applicable presumption of compliance with the RENTD requirement would have been required to maintain internal policies and procedures for setting and reviewing desk-level risk limits. <sup>385</sup> The proposed approach would not have required that a banking entity’s limits be based on any specific or mandated analysis, as required with respect to RENTD analysis under the 2013 rule. Rather, a banking entity would have established the limits according to its own internal analyses and processes around conducting its underwriting activities and market making-related activities in accordance with section13(d)(1)(B). <sup>386</sup> In addition, the proposal would have required, for both the exemption for underwriting and market making-related activities, a banking entity to promptly report to the appropriate agency when a trading desk exceeds or increases its internal limits. <sup>387</sup>
 
@@ -890,21 +596,21 @@ The agencies note commenters’ concerns regarding the removal of “demonstrabl
 
 Accordingly, under the rule, a banking entity will be presumed to meet the RENTD requirements in § .4 (a)(2)(ii)(A) or § .4 (b)(2)(ii) with respect to the purchase or sale of a financial instrument if the banking entity has established and implements, maintains, and enforces the limits for the relevant trading desk as described in the final rule. <sup>442</sup> With respect to underwriting activities, the presumption will be available to each trading desk that establishes, implements, maintains, and enforces internal limits that are designed not to exceed RENTD, based on the nature and amount of the trading desk’s underwriting activities, on the:
 
-<h>1. Amount, types, and risk of its underwriting position;</h>
+1. Amount, types, and risk of its underwriting position;
 
-<h>2. Level of exposures to relevant risk factors arising from its underwriting position; and</h>
+2. Level of exposures to relevant risk factors arising from its underwriting position; and
 
-<h>3. Period of time a security may be held.</h>
+3. Period of time a security may be held.
 
 With respect to market making-related activities, the presumption will be available to each trading desk that establishes, implements, maintains, and enforces risk andposition limits that are designed not to exceed RENTD, based on the nature and amount of the trading desk’s market making-related activities, that address the:
 
-<h>1. Amount, types, and risks of its market-maker positions;</h>
+1. Amount, types, and risks of its market-maker positions;
 
-<h>2. Amount, types, and risks of the products, instruments, and exposures the trading desk may use for risk management purposes;</h>
+2. Amount, types, and risks of the products, instruments, and exposures the trading desk may use for risk management purposes;
 
-<h>3. Level of exposures to relevant risk factors arising from its financial exposure; and</h>
+3. Level of exposures to relevant risk factors arising from its financial exposure; and
 
-<h>4. Period of time a financial instrument may be held.</h>
+4. Period of time a financial instrument may be held.
 
 Some commenters also noted that the agencies should not take a “one-size-fits-all” approach to the limits that must be established to satisfy the presumption of compliance with RENTD on the basis that not all of the proposed limits may be applicable to every type of financial instrument, particularly derivatives. <sup>445</sup> In response to these commenters, the agencies have modified the rule text to clarify that the limits required to be established by a banking entity in order to satisfy the presumption of compliance must address certain items. The agencies recognize that certain of the enumerated items, which are unchanged from the proposal, may be more easily applied for desks that engage in market-making in securities rather than derivatives, and emphasize that section .4(b), both as currently in effect and as amended, is intended to provide banking entities with the flexibility to determine appropriate limits for market making-related activities that are designed not toexceed RENTD, taking into account the liquidity, maturity, and depth of the market for the relevant types of financial instruments.
 
@@ -952,25 +658,25 @@ The agencies recognize that banking entities that do not have significant tradin
 
 Accordingly, § .4(a)(2)(iii) of the final rule will require banking entities with significant trading assets and liabilities, as a condition to complying with the underwriting exemption, to establish and implement, maintain, and enforce an internal compliance program required by subpart D that is reasonably designed to ensure the banking entity’s compliance with the requirements of the exemption, including reasonably designed written policies and procedures, internal controls, analysis and independent testing identifying and addressing:
 
-<h>A. The products, instruments or exposures each trading desk may purchase, sell, or manage as part of its underwriting activities;</h>
+A. The products, instruments or exposures each trading desk may purchase, sell, or manage as part of its underwriting activities;
 
-<h>B. Limits for each trading desk, in accordance with § .4(a)(2)(ii)(A);</h>
+B. Limits for each trading desk, in accordance with § .4(a)(2)(ii)(A);
 
-<h>C. Written authorization procedures, including escalation procedures that require review and approval of any trade that would exceed a trading desk’s limit(s), demonstrable analysis of the basis for any temporary or permanent increase to a trading desk’s limit(s), and independent review of such demonstrable analysis and approval; and</h>
+C. Written authorization procedures, including escalation procedures that require review and approval of any trade that would exceed a trading desk’s limit(s), demonstrable analysis of the basis for any temporary or permanent increase to a trading desk’s limit(s), and independent review of such demonstrable analysis and approval; and
 
-<h>D. Internal controls and ongoing monitoring and analysis of each trading desk’s compliance with its limits.</h>
+D. Internal controls and ongoing monitoring and analysis of each trading desk’s compliance with its limits.
 
 With respect to the exemption for market making-related activities, §.4(a)(b)(iii) of the final rule will require banking entities with significant trading assets and liabilities to establish and implement, maintain, and enforce an internal complianceprogram required by subpart D that is reasonably designed to ensure the banking entity’s compliance with the requirements of the exemption, including reasonably designed written policies and procedures, internal controls, analysis and independent testing identifying and addressing:
 
-<h>A. The financial instruments each trading desk stands ready to purchase and sell in accordance with § .4(b)(2)(i);</h>
+A. The financial instruments each trading desk stands ready to purchase and sell in accordance with § .4(b)(2)(i);
 
-<h>B. The actions the trading desk will take to demonstrably reduce or otherwise significantly mitigate promptly the risks of its financial exposure consistent with the limits required under § .4 (b)(2)(iii)(C); the products, instruments, and exposures each trading desk may use for risk management purposes; the techniques and strategies each trading desk may use to manage the risks of its market making-related activities and positions; and the process, strategies, and personnel responsible for ensuring that the actions taken by the trading desk to mitigate these risks are and continue to be effective;</h>
+B. The actions the trading desk will take to demonstrably reduce or otherwise significantly mitigate promptly the risks of its financial exposure consistent with the limits required under § .4 (b)(2)(iii)(C); the products, instruments, and exposures each trading desk may use for risk management purposes; the techniques and strategies each trading desk may use to manage the risks of its market making-related activities and positions; and the process, strategies, and personnel responsible for ensuring that the actions taken by the trading desk to mitigate these risks are and continue to be effective;
 
-<h>C. Limits for each trading desk, in accordance with § .4(b)(2)(ii);</h>
+C. Limits for each trading desk, in accordance with § .4(b)(2)(ii);
 
-<h>D. Written authorization procedures, including escalation procedures that require review and approval of any trade that would exceed a trading desk’s limit(s),the market for the relevant types of financial instruments.demonstrable analysis of the basis for any temporary or permanent increase to a trading desk’s limit(s), and independent review of such demonstrable analysis and approval; and</h>
+D. Written authorization procedures, including escalation procedures that require review and approval of any trade that would exceed a trading desk’s limit(s),the market for the relevant types of financial instruments.demonstrable analysis of the basis for any temporary or permanent increase to a trading desk’s limit(s), and independent review of such demonstrable analysis and approval; and
 
-<h>E. Internal controls and ongoing monitoring and analysis of each trading desk’s compliance with its limits.</h>
+E. Internal controls and ongoing monitoring and analysis of each trading desk’s compliance with its limits.
 
 The agencies are clarifying in the final rule that the authorization procedures for banking entities with significant trading assets and liabilities of proposed§ .4(a)(2)(iii)(D) and § .4(b)(2)(iii)(E) are to be in writing pursuant to§ .4(a)(2)(iii)(C) and § .4(b)(2)(iii)(D). Requiring that these authorization procedures are written provides a basis for which banking entities and supervisors can review for compliance with the underwriting and market making exemption compliance requirements.
 
@@ -1106,13 +812,13 @@ No financing for the banking entity’s purchase or sale is provided, directly o
 
 The purchase or sale is not conducted with or through any U.S. entity, <sup>539</sup>except if the purchase or sale is conducted:
 
-<h>A. with the foreign operations of a U.S. entity, if no personnel of such</h>
+A. with the foreign operations of a U.S. entity, if no personnel of such
 
 U.S. entity that are located in the United States are involved in the arrangement, negotiation or execution of such purchase or sale (the counterparty prong); <sup>540</sup>
 
-<h>B. with an unaffiliated market intermediary acting as principal, providedthe transaction is promptly cleared and settled through a clearing agency or derivatives clearing organization acting as a central counterparty; or</h>
+B. with an unaffiliated market intermediary acting as principal, providedthe transaction is promptly cleared and settled through a clearing agency or derivatives clearing organization acting as a central counterparty; or
 
-<h>C. through an unaffiliated market intermediary, provided the transaction is conducted anonymously (i.e., each party to the transaction is unaware of the identity of the other party(ies)) on an exchange or similar trading facility and promptly cleared and settled through a clearing agency or derivatives clearing organization acting as a central counterparty.</h>
+C. through an unaffiliated market intermediary, provided the transaction is conducted anonymously (i.e., each party to the transaction is unaware of the identity of the other party(ies)) on an exchange or similar trading facility and promptly cleared and settled through a clearing agency or derivatives clearing organization acting as a central counterparty.
 
 Since the adoption of the 2013 rule, foreign banking entities have asserted that certain of these criteria limit their ability to make use of the statutory exemption for trading activity that occurs outside of the United States, which has adversely impactedtheir foreign trading operations. Additionally, many foreign banking entities have suggested that the full set of eligibility criteria to rely on the exemption for foreign trading activity are unnecessary to accomplish the policy objectives of section 13 of the BHC Act. This information has raised concerns that the current requirements for the exemption may be overly restrictive and not effective in permitting foreign banks to engage in foreign trading activities consistent with the policy objective of the statute.
 
@@ -1250,9 +956,7 @@ Section 13(f) of the BHC Act provides an exemption from the prohibition on cover
 
 The proposal retained each of the 2013 rule’s conditions for the prime brokerage exemption described above, including the requirement that certification be made to theappropriate agency for the banking entity. <sup>618</sup> Staffs of the agencies previously issued guidance explaining when a banking entity was required to provide this certification during the conformance period. <sup>619</sup> The proposal incorporated this guidance into the rule text by requiring banking entities to provide the CEO certification annually no later than March 31 of the relevant year. <sup>620</sup> This change was intended to provide banking entities with certainty about when the required certification must be provided to the appropriate agency in order to comply with the prime brokerage exemption. As under the 2013 rule, under the proposal, the CEO would have a duty to update the certification if the information in the certification materially changes at any time during the year when he or she becomes aware of the material change. <sup>621</sup>
 
-One commenter recommended that the agencies expressly state that the CEO certification for purposes of the prime brokerage exemption is based on a reasonable review by the CEO and is made based on the knowledge and reasonable belief of the CEO. <sup>622</sup> That commenter also requested that the agencies clarify that the term “prime brokerage transaction” includes transactions and services commonly provided in connection with prime brokerage transactions, as described under the 2013 rule, including:(1) lending and borrowing of financial assets, (2) provision of secured financing collateralized by financial assets, (3) repurchase and reverse repurchase of financial assets,(4) derivatives, (5) clearance and settlement of transactions, (6) “give-up” agreements, and
-
-<h>7. purchase and sale of financial assets from inventory. Similarly, another commenter requested that the agencies clarify that the term “prime brokerage transaction” applies to any transaction provided in connection with custody, clearance and settlement, securities borrowing or lending services, trade execution, financing, or data, operational, and administrative support regardless of which business line within the banking entity conducts the business. The same commenter suggested that any prime brokerage transaction with a second-tier covered fund should be presumed to comply with section.14 of the rule and the prime brokerage exemption as long as it is executed in compliance with the requirements of Section 23B of the Federal Reserve Act. <sup>625</sup> In addition, one commenter recommended limiting the prime brokerage exemption by, for instance, excluding financing and securities lending and borrowing from the prime brokerage exemption. <sup>626</sup></h>
+One commenter recommended that the agencies expressly state that the CEO certification for purposes of the prime brokerage exemption is based on a reasonable review by the CEO and is made based on the knowledge and reasonable belief of the CEO. <sup>622</sup> That commenter also requested that the agencies clarify that the term “prime brokerage transaction” includes transactions and services commonly provided in connection with prime brokerage transactions, as described under the 2013 rule, including:(1) lending and borrowing of financial assets, (2) provision of secured financing collateralized by financial assets, (3) repurchase and reverse repurchase of financial assets,(4) derivatives, (5) clearance and settlement of transactions, (6) “give-up” agreements, and (7) purchase and sale of financial assets from inventory. Similarly, another commenter requested that the agencies clarify that the term “prime brokerage transaction” applies to any transaction provided in connection with custody, clearance and settlement, securities borrowing or lending services, trade execution, financing, or data, operational, and administrative support regardless of which business line within the banking entity conducts the business. The same commenter suggested that any prime brokerage transaction with a second-tier covered fund should be presumed to comply with section.14 of the rule and the prime brokerage exemption as long as it is executed in compliance with the requirements of Section 23B of the Federal Reserve Act. <sup>625</sup> In addition, one commenter recommended limiting the prime brokerage exemption by, for instance, excluding financing and securities lending and borrowing from the prime brokerage exemption. <sup>626</sup>
 
 The final rule adopts the proposed revision to the prime brokerage exemption with no changes. The agencies believe that codifying a deadline for CEO certification with respect to prime brokerage transactions will provide banking entities with greater certainty and facilitate supervision and review of the prime brokerage exemption. With respect to the other issues raised by commenters regarding the prime brokerage exemption in section13(f) of the BHC Act, the agencies continue to consider these issues and intend to issue a separate proposed rulemaking that specifically addresses these issues.
 
@@ -1802,9 +1506,7 @@ The OCC has analyzed the rule under the factors set forth in the Unfunded Mandat
 
 As discussed above, section 13 of the Bank Holding Company (BHC) Act generally prohibits banking entities from engaging in proprietary trading and from acquiring or retaining an ownership interest in, sponsoring, or having certain relationships with a hedge fund or private equity fund (covered funds), subject to certain exemptions.
 
-Section 13(h)(1) of the BHC Act defines the term “banking entity” to include (i) any insured depository institution (as defined by statute), (ii) any company that controls an insured depository institution, (iii) any company that is treated as a bank holding companyfor purposes of section 8 of the International Banking Act of 1978, and (iv) any affiliate or subsidiary of such an entity. <sup>761</sup> In addition, as discussed above, the Economic Growth, Regulatory Relief, and Consumer Protection Act (EGRRCPA), enacted on May 24, 2018, amended section 13 of the BHC Act to exclude from the definition of “insured depository institution” any institution that does not have and is not controlled by a company that has
-
-<h>1. more than $10 billion in total consolidated assets; and (2) total trading assets and trading liabilities, as reported on the most recent applicable regulatory filing filed by the institution, that are more than 5% of total consolidated assets.</h>
+Section 13(h)(1) of the BHC Act defines the term “banking entity” to include (i) any insured depository institution (as defined by statute), (ii) any company that controls an insured depository institution, (iii) any company that is treated as a bank holding companyfor purposes of section 8 of the International Banking Act of 1978, and (iv) any affiliate or subsidiary of such an entity. <sup>761</sup> In addition, as discussed above, the Economic Growth, Regulatory Relief, and Consumer Protection Act (EGRRCPA), enacted on May 24, 2018, amended section 13 of the BHC Act to exclude from the definition of “insured depository institution” any institution that does not have and is not controlled by a company that has (1) more than $10 billion in total consolidated assets; and (2) total trading assets and trading liabilities, as reported on the most recent applicable regulatory filing filed by the institution, that are more than 5% of total consolidated assets.
 
 Certain SEC-regulated entities, such as broker-dealers, security-based swap dealers (SBSDs), and registered investment advisers (RIAs) affiliated with a banking entity, fall under the definition of “banking entity” and are subject to the prohibitions of section 13 of the BHC Act. <sup>763</sup> This economic analysis is limited to areas within the scope of the SEC’s
 
@@ -1858,9 +1560,9 @@ The subsections below discuss in greater detail the legal and regulatory baselin
 
 This policy statement continued the position of the Federal banking agencies that was released on July 21, 2017, and the position that the agencies expressed in the proposal. See 83 FR 33444.
 
-T he 2013 Rule
+i. The 2013 Rule
 
-<h>1. Definition of the Trading Account</h>
+(1). Definition of the Trading Account
 
 The scope of prohibited proprietary trading activity is determined by the definition of “trading account” and related exclusions. <sup>777</sup> As discussed in detail in section IV.B.1.a, the 2013 rule’s definition of trading account includes three prongs: the short-term intent prong, the market risk capital rule prong, and the dealer prong. In addition, the 2013 rule includes a rebuttable presumption, under which a purchase (or sale) of a financial instrument is presumed to be for the trading account under the short-term intent prong if the banking entity holds the financial instrument for fewer than 60 days or substantially transfers the risk of the financial instrument within 60 days of the purchase (or sale).
 
@@ -1868,13 +1570,13 @@ The 2013 rule provides several exclusions from the definition of proprietary tra
 
 In addition, section § .3(e)(13) of the 2013 rule defines “trading desk” as the smallest discrete unit of organization of a banking entity that purchases or sells financial instruments for the trading account of the banking entity or an affiliate thereof, and applies certain requirements at the “trading desk”-level of organization. <sup>779</sup>
 
-<h>2. Exemption for Underwriting and Market Making-Related Activity</h>
+(2). Exemption for Underwriting and Market Making-Related Activity
 
 Section 13(d)(1)(B) of the BHC Act contains an exemption from the prohibition on proprietary trading for underwriting and market making-related activities. Under the 2013 rule, all banking entities with covered activities must satisfy several requirements with respect to their underwriting activities to qualify for the exemption for underwriting activities, discussed in detail in section IV.B.2.a above. <sup>780</sup> In addition, under the current baseline, all banking entities with covered activities must satisfy six requirements with respect to their market making-related activities to qualify for the exemption for market making-related activities, as discussed in section IV.B.2.a. <sup>781</sup>
 
 The SEC also notes that, under the baseline, an organizational unit or a trading desk of another banking entity that has consolidated trading assets and liabilities of $50 billion or more is generally not considered a client, customer, or counterparty for thepurposes of the RENTD requirement. <sup>782</sup> Thus, such demand does not contribute to RENTD unless such demand is affected through an anonymous trading facility or unless the trading desk documents how and why the organizational unit of said large banking entity should be treated as a client, customer, or counterparty. To the extent that such documentation requirements increase the cost of intermediating interdealer transactions, this requirement may affect the volume and cost of interdealer trading.
 
-<h>3. Exemption for Risk-Mitigating Hedging</h>
+(3). Exemption for Risk-Mitigating Hedging
 
 Under the baseline, certain risk-mitigating hedging activities may be exempt from the restriction on proprietary trading under the risk-mitigating hedging exemption. To make use of this exemption, the 2013 rule requires all banking entities to comply with a comprehensive and multi-faceted set of requirements, including (1) the establishment, implementation, and maintenance of an internal compliance program; (2) satisfaction of various criteria for hedging activities; and (3) the existence of compensation arrangements for persons performing risk-mitigating hedging activities that are designed not to reward or incentivize prohibited proprietary trading. In addition, certain activities under the exemption for risk-mitigating hedging are subject to documentation requirements. <sup>783</sup>
 
@@ -1888,11 +1590,11 @@ Finally, the 2013 rule requires banking entities to document and retain informat
 
 These records must be retained for a period of not less than 5 years in a form that allows them to be promptly produced if requested. <sup>788</sup>
 
-<h>4. Exemption for Foreign Trading</h>
+(4). Exemption for Foreign Trading
 
 Under the 2013 rule, a foreign banking entity that has a branch, agency, or subsidiary located in the United States (and is not itself located in the United States) is subject to the proprietary trading prohibitions and related compliance requirements unless the transaction meets five criteria. <sup>789</sup> First, a branch, agency, or subsidiary of a foreign banking organization that is located in the United States or organized under the laws of the United States or of any state may not engage as principal in the purchase or sale of financial instruments (including any personnel that arrange, negotiate, or execute a purchase or sale). Second, the banking entity (including relevant personnel) that makes the decision to engage in the transaction must not be located in the United States or organized under the laws of the United States or of any state. Third, the transaction, including any transaction arising from risk-mitigating hedging related to the transaction, must not be accounted for as principal directly or on a consolidated basis by any branch or affiliate that is located in the United States or organized under the laws of the United States or of any state. Fourth, no financing for the transaction can be provided by any branch or affiliate of a foreign banking entity that is located in the United States or organized under the laws of the United States or of any state (the financing prong). Fifth, the transaction must generally not be conducted with or through any U.S. entity (thecounterparty prong), unless (1) no personnel of a U.S. entity that are located in the United States are involved in the arrangement, negotiation, or execution of such transaction; (2) the transaction is with an unaffiliated U.S. market intermediary acting as principal and is promptly cleared and settled through a central counterparty; or (3) the transaction is executed through an unaffiliated U.S. market intermediary acting as agent, conducted anonymously through an exchange or similar trading facility, and is promptly cleared and settled through a central counterparty. <sup>790</sup>
 
-<h>5. Covered Funds</h>
+(5). Covered Funds
 
 The 2013 rule generally defines covered funds as issuers that would be investment companies but for section 3(c)(1) or 3(c)(7) of the Investment Company Act of 1940 and then excludes specific types of entities from the definition. As described above, the 2013 rule provides for market making and hedging exemptions to the prohibition on proprietary trading. However, the 2013 rule places additional restrictions on the amount of underwriting, market making, and hedging a banking entity can engage in when those transactions involve covered funds. For underwriting and market making transactions in covered funds, if the banking entity sponsors or advises a covered fund, or acts in any of the other capacities specified in § .11(c)(2) of the 2013 rule, then any ownership interests acquired or retained by the banking entity and its affiliates in connection with underwriting and market making-related activities for that particular covered fund must be included in the per-fund and aggregate covered fund investment limits in § .12 of the<sup>2013</sup> rule and is subject to the capital deduction provided in § .12(d) of the 2013 rule. <sup>791</sup> Additionally, a banking entity’s aggregate investment in all covered funds is limited to 3% of a banking entity’s tier 1 capital, and banking entities must include all ownership interests in covered funds acquired or retained in connection with underwriting and market making-related activities for purposes of this calculation. <sup>792</sup> Moreover, under the 2013 rule, the exemption for risk-mitigating hedging activities related to covered funds is available only for transactions that mitigate risks associated with the compensation of a banking entity employee or an affiliate that provides advisory or other services to the covered fund. <sup>793</sup>
 
@@ -1900,7 +1602,7 @@ Under the 2013 rule, foreign banking entities can acquire or retain an ownership
 
 U.S. branch or affiliate. In addition, the staffs of the agencies have issued FAQs concerning the requirement that no ownership interest in such fund is offered for sale or sold to a resident of the United States. <sup>794</sup>
 
-<h>6. Compliance Program</h>
+(6). Compliance Program
 
 For compliance purposes, the 2013 rule differentiates banking entities on the basis of certain thresholds, including the amount of the banking entity’s consolidated trading assets and liabilities and total consolidated assets. More specifically, U.S. banking entities that have, together with affiliates and subsidiaries, trading assets and liabilities (excluding trading assets and liabilities involving obligations of or guaranteed by the United States or any agency of the United States) the average gross sum of which—on a worldwide consolidated basis, over the previous consecutive four quarters, as measured as of the last day of each of the four prior calendar quarters—equals $10 billion or more are subject to reporting requirements of Appendix A under the 2013 rule. Banking entities that have $50 billion or more in total consolidated assets as of the previous calendar year end and banking entities with over $10 billion in consolidated trading assets and liabilities are subject to the requirement to adopt an enhanced compliance program pursuant to Appendix B of the 2013 rule. Additionally, banking entities that engage in coveredactivities and that have total consolidated assets of $10 billion or less as reported on December 31 of the previous 2 calendar years qualify for the simplified compliance regime.
 
@@ -1918,7 +1620,7 @@ Appendix B requires the compliance program of the banking entities that are subj
 
 Additionally, under the 2013 rule, any banking entity that has more than $10 billion in total consolidated assets as reported in the previous 2 calendar years is required to maintain additional records related to covered funds. In particular, a banking entity must document the exclusions or exemptions relied on by each fund sponsored by the banking entity (including all subsidiaries and affiliates) in determining that such fund is not a covered fund, including documentation that supports such determination; for each seeding vehicle that will become a registered investment company or SEC-regulated business development company, a written plan documenting the banking entity’s determination that the seeding vehicle will become a registered investment company or SEC-regulated business development company, the period of time during which thevehicle will operate as a seeding vehicle, and the banking entity’s plan to market the vehicle to third-party investors and convert it into a registered investment company or SEC-regulated business development company within the time period specified. <sup>799</sup>
 
-<h>7. Metrics</h>
+(7). Metrics
 
 Under Appendix A of the 2013 rule, banking entities with trading assets and liabilities (excluding trading assets and liabilities involving obligations of or guaranteed by the United States or any agency of the United States) the average gross sum of which— on a worldwide consolidated basis, over the four previous quarters, as measured by the last day of each of the four prior calendar quarters— equals or exceeds $10 billion to meet requirements concerning recording and reporting certain measurements for each trading desk engaged in covered trading activity. <sup>800</sup> Banking entities subject to Appendix A are required to record and report the following quantitative measurements for each trading day and for each trading desk engaged in covered trading activities: (i) Risk and Position Limits and Usage; (ii) Risk Factor Sensitivities; (iii) Value-at-Risk and Stress Value-at- Risk; (iv) Comprehensive Profit and Loss Attribution; (v) Inventory Turnover; (vi) Inventory Aging; and (vii) Customer-Facing Trade Ratio.
 
@@ -1926,7 +1628,7 @@ The metrics reporting requirements are intended to assist banking entities, the 
 
 Under the 2013 rule, banking entities with significant trading assets and liabilities (Group A entities) and with moderate trading assets and liabilities (Group B entities) that have less than $50 billion in consolidated trading assets and liabilities are required to report metrics for each quarter within 30 days of the end of that quarter. In contrast, Group A and Group B banking entities with total trading assets and liabilities equal to or above $50 billion are required to report metrics more frequently—each month within 10 days of the end of that month. <sup>802</sup>
 
-E GRRCPA and Conforming Amendments
+ii. EGRRCPA and Conforming Amendments
 
 In accordance with section 203 of EGRRCPA, <sup>803</sup> the agencies amended the definition of “insured depository institution” in § __.2(r) of the 2013 rule to exclude an institution if it, and every entity that controls it, has both (1) $10 billion or less in total consolidated assets and (2) total consolidated trading assets and liabilities that are 5% or less of its total consolidated assets. The agencies also amended the 2013 rule to reflect the changes made by section 204 of EGRRCPA. That provision modified section 13 of the BHC Act to permit, in certain circumstances, bank-affiliated investment advisers to share their name with the hedge funds or private equity funds they organize and offer.
 
@@ -2178,7 +1880,7 @@ The SEC notes two important caveats relevant for the interpretation of these sta
 
 As proposed, the agencies are adopting a categorization of banking entities into three groups on the basis of the size of their trading activity. Under the final rule, banking entities with significant trading assets and liabilities (Group A entities) are required to comply with a streamlined but comprehensive version of the 2013 rule’s compliance program requirements, as discussed below. Banking entities with moderate trading assets and liabilities (Group B entities) are subject to reduced requirements and an even more tailored approach in light of their smaller trading activities. The burdens are further reduced for banking entities with limited trading assets and liabilities (Group C entities), for which the amendments establish a presumption of compliance, which can be rebutted by the agencies. The sections that follow discuss the economic effects of each of the amendments on these groups of entities.
 
-C osts and Benefits
+Costs and Benefits
 
 First, banking entities with significant trading assets and liabilities are defined as those that have, together with affiliates and subsidiaries, trading assets and liabilities (excluding trading assets and liabilities attributable to trading activities permitted pursuant to § .6(a)(1) and (2) of subpart B) the average gross sum of which, over the previous consecutive four quarters, as measured as of the last day of each of the four previous calendar quarters, equals or exceeds $20 billion. <sup>949</sup> This $20 billion threshold is higherthan the threshold that the agencies proposed in the proposal. Accordingly, more banking entities may qualify as Group B entities rather than Group A entities (as compared to those that would have qualified under the proposal’s lower threshold), which will reduce compliance burdens for more banking entities relative to the proposal. <sup>950</sup> The agencies received comments that a higher than the proposed $10 billion trading assets and liabilities threshold would provide Group B banking entities that are near or approaching $10 billion threshold with flexibility to have moderate growth over time and to manage their business without triggering the more stringent compliance requirements imposed on Group A banking entities. <sup>951</sup> In addition, some commenters stated that potential fluctuations resulting from customer-driven trades, quarter-end activity, and market and foreign exchange volatility may cause banking entities that are near or approaching the $10 billion threshold to exceed this threshold. <sup>952</sup> The SEC recognizes that fluctuations in customer demand or market events may cause these banking entities to exceed the $10 billion threshold temporarily or permanently, which could trigger a more enhanced compliance regime and expose these banking entities to higher compliance costs. <sup>953</sup> Thus, a $20 billion threshold accounts for such fluctuations and provides banking entities that are nearaffiliates, branches, and agencies of the foreign banking organization operating, located, or organized in the United States).or approaching $10 billion in trading assets and liabilities with more certainty regarding their compliance burdens.
 
@@ -2198,7 +1900,7 @@ The shifts in risk exposure may have two competing effects. On the one hand, if 
 
 In response to the final rule, it is possible that trading activity that was once consolidated within a small number of unaffiliated banking entities may become fragmented among a larger number of unaffiliated banking entities that each manage down their trading books under the $20 billion and $1 billion trading assets and liabilities thresholds to enjoy reduced hedging compliance and documentation requirements and a less costly compliance and reporting regime described in sections V.F.3.c, V.F.3.d, V.F.3.g, and V.F.3.h. The extent to which banking entities may seek to manage down their trading books will depend on a number of factors, such as the size and complexity of each banking entity’s trading activities and organizational structure, along with those of its affiliated entities, as well as forms of potential restructuring and the magnitude of expected compliance savings from such restructuring relative to the cost of restructuring. The SEC anticipates that the incentives to manage the trading book under the $20 billion or $1 billion threshold, as applicable, may be strongest for those holding companies that are near or just above the thresholds. Such management of the trading book may reduce the size of trading activity of some banking entities and reduce the number of banking entities subject to more stringent hedging, compliance, and reporting requirements. At the same time, if the amendments incentivize banking entities to have smaller trading books, they may mitigate moral hazard and reduce market impacts from the failure of a given banking entity.
 
-E fficiency, Competition, and Capital Formation
+Efficiency, Competition, and Capital Formation
 
 The 2013 rule imposes compliance burdens that may be particularly significant for smaller market participants. Moreover, such compliance burdens may be passed along to counterparties and customers in the form of higher costs, reduced capital formation, or a reduced willingness to transact. For example, in the proposal, the SEC cited one commenter’s estimate that the funding cost for an average non-financial firm may have increased by as much as $30 million after the 2013 rule’s implementation. <sup>957</sup> At the same time, and as discussed in section V.F.2, the SEC continues to recognize that the 2013 rule may have yielded important qualitative benefits, such as reducing certain types of risks in the financial system and mitigating potential incentive conflicts that could be posed by certain types of proprietary trading by dealers, as well as enhancing oversight and supervision.
 
@@ -2206,13 +1908,11 @@ On one hand, as a result of the amendments, Group B and Group C entities might e
 
 In addition, the adopted methods for the calculation of limited and significant trading assets and liabilities may result in lower compliance costs for foreign banking entities relative to the domestic banking entities, increasing the competitive advantage of foreign Group B and C entities.
 
-As in the proposal, the SEC recognizes that cost savings to Group B and Group C entities related to the compliance requirements and requirements described in sections
-
-<h>a. and V.F.3.h may be partially or fully passed along to clients and counterparties.</h>
+As in the proposal, the SEC recognizes that cost savings to Group B and Group C entities related to the compliance requirements and requirements described in sections (a) and V.F.3.h may be partially or fully passed along to clients and counterparties.
 
 To the extent that hedging documentation and compliance requirements for Group B and Group C entities are currently resulting in a reduced willingness to make markets or underwrite securities, the amendments may facilitate trading activity and risk-sharing, as well as capital formation and reduced costs of access to capital. Again, the SEC notes that the amendments do not eliminate statutory prohibitions under section 13 of the BHC but create a simplified compliance regime for banking entities that do not have significant trading assets and liabilities. Thus, the statutory prohibitions on proprietary trading and covered funds activities will continue to apply to all affected entities, including Group B and Group C entities.
 
-A lternatives
+Alternatives
 
 Alternative approaches were considered. For example, the rule could have used other values for thresholds for total consolidated trading assets and liabilities in the definition of entities with significant trading assets and liabilities. As noted in the discussion of the economic baseline, using different thresholds would affect the scope of application of compliance requirements and requirements described in sections V.F.3.g and V.F.3.h by changing the number and size of affected broker-dealers. For instance, using the proposed $10 billion threshold or a lower threshold, such as $5 billion, in the definition of significant trading assets and liabilities would scope a larger number of entities into Group A, as compared to the final rule’s $20 billion threshold, thereby subjecting a larger share of the dealer and investment adviser industries to six-pillar compliance obligations. However, the SEC continues to recognize that trading activity is heavily concentrated in the right tail of the distribution and that using a lower threshold would not significantly increase the volume of trading assets and liabilities scoped into the Group A regime. <sup>958</sup> For example, Table 2 shows that 57 bank-affiliated broker-dealers that have between $1 and $10 billion in consolidated trading assets and liabilities and are subject to section 13 of the BHC Act account for only approximately 10% of bank- affiliated broker-dealer assets and between approximately 4% and 9% of holdings. In addition, 33 broker-dealer affiliates of firms that have between $1 and $5 billion in consolidated trading assets and liabilities and are subject to section 13 of the BHC Act account for only approximately 2% of bank-affiliated broker-dealer assets and betweenapproximately 1% and 2% of holdings. <sup>959</sup> At the same time, with a lower threshold, more banking entities would face higher compliance burdens and related costs. Therefore, as discussed in section IV.A.1.b, the agencies decided against this alternative.
 
@@ -2244,9 +1944,9 @@ Some commenters suggested that periodic adjustment to thresholds to account for 
 
 Under section 13 of the BHC act and the 2013 rule, proprietary trading is defined as engaging as principal for the “trading account” of a banking entity. <sup>967</sup> Thus, the definition of the trading account determines the trading activity that falls within the scope of the statutory prohibitions and the compliance regime in the 2013 rule associated with such activity. The definition of trading account in the 2013 rule has three prongs,including the dealer prong. The final amendments introduce certain changes to the definition of trading account; however, these amendments do not remove or modify the dealer prong. In addition, the amendments introduce new exclusions from the trading account and a new definition of the trading desk.
 
-T rading Account
+Trading Account
 
-<h>1. Costs and Benefits</h>
+1. Costs and Benefits
 
 Under the final rule, the definition of “trading account” continues to include purchases and sales of financial instruments by banking entities engaged in the business of a dealer, swap dealer, or security-based swap dealer outside of the United States, to the extent these instruments are purchased or sold in connection with the activities of such business . <sup>968</sup> Thus, the SEC expects that most (if not substantially all) trading activity by SEC- regulated dealers that are banking entities will continue to be captured by the dealer prong of a banking entity, notwithstanding any of the changes made to the definition of the trading account.
 
@@ -2270,11 +1970,11 @@ However, the SEC continues to believe that the largest share of dealers’ tradi
 
 The third amendment to the trading account definition will eliminate the 60-day rebuttable presumption in the short-term prong and instead establish a new rebuttable presumption that financial instruments held for 60 days or more are not within the short- term prong. Many commenters supported the proposed rule’s elimination of the 60-day rebuttable presumption, <sup>972</sup> and some commenters suggested that the agencies should presume, for banking entities not subject to the market risk capital rule, that financial instruments held for longer than 60 days, or that have an original maturity or remaining maturity upon acquisition, of fewer than 60 days to their stated maturities, are not for the banking entity’s trading account. <sup>973</sup> As recognized in section IV.B.1.a.iv, the agencies have found that the rebuttable presumption has captured many activities that should not be included in the definition of proprietary trading. In addition, as stated by some commenters, the presumption may be difficult to rebut. <sup>974</sup> Therefore, the SEC believesthat the reversal of the presumption in the 2013 rule would reduce the compliance burdens for dealers that conduct trading activity that is not otherwise captured by the dealer prong or the market risk capital prong. To the extent that the compliance burdens related to the rebuttable presumption of the 2013 rule limit dealers’ ability to conduct customer- accommodating transactions or liquidity management activities, the cost reductions of the amendment may flow through to customers and counterparties and increase operational efficiency of dealers. The SEC estimates that this amendment may affect 99 broker- dealers—the broker-dealers that are not subject to the market risk capital rule—which on aggregate have 1.5% of broker-dealer holdings. However, the SEC expects that the largest share of dealing activity subject to SEC oversight will continue to be captured by the dealer prong. Thus, the SEC expects that the effects of this amendment for dealers will be modest.
 
-<h>2. Efficiency, Competition, and Capital Formation</h>
+2. Efficiency, Competition, and Capital Formation
 
 To the extent that the compliance related to the rebuttable presumption of the 2013 rule limits dealers’ ability to conduct customer-accommodating transactions, or liquidity management or risk management activities that are covered by the short-term prong, the amendments to the definition of trading account may facilitate such activities, which could, in turn, promote capital formation. In addition, to the degree that the amendments to the trading account may provide banking entities with more flexibility to underwrite, market make, and hedge, and to the extent these activities facilitate capital formation, these amendments may improve allocative efficiency. To the extent that the amendments to the short-term prong reduce compliance costs and to the extent that the short-term prong primarily applies to smaller dealers (i.e., those not covered by the marketrisk capital prong), the amendments to the trading account definition may improve the competitive position of smaller dealers. However, the SEC notes that the largest share of dealing activity subject to SEC oversight is already captured by the dealer prong; and, therefore, the above economic effects of the amendments to the definition of the trading account on SEC- regulated entities, including the effects on efficiency, competition, and capital formation, may be de minimis.
 
-<h>3. Alternatives</h>
+3. Alternatives
 
 As an alternative to the short-term prong, the agencies proposed replacing the short-term prong in the 2013 rule with an accounting prong that would have included within the definition of “trading account” any account used by a banking entity to purchase or sell one or more financial instruments that are recorded at fair value on a recurring basis under applicable accounting standards. <sup>975</sup> As the agencies noted when they proposed this alternative, the accounting prong was designed to provide more certainty and clarity about which financial instruments should be included in the trading account due to the fact that banking entities should know which positions are recorded at fair value on their balance sheets. <sup>976</sup> In addition, as pointed out by some commenters, <sup>977</sup> this alternative could deter noncompliance and facilitate the agencies’ supervision.
 
@@ -2296,7 +1996,7 @@ E xclusions from Proprietary Trading
 
 The agencies are adopting the proposed expansion of the liquidity management exclusion, as well as an exclusion for trading errors and subsequent correcting transactions, certain matched derivative transactions, certain trades related to hedging mortgage servicing rights or mortgage servicing assets, and transactions in instruments not included in the definition of trading asset or trading liability under the applicable reporting form for a banking entity.
 
-<h>1. Costs and Benefits</h>
+1. Costs and Benefits
 
 Exclusion for Liquidity Management Activities
 
@@ -2330,13 +2030,13 @@ In addition to the above exclusions, the agencies are adopting an exclusion for 
 
 To the extent that some financial instruments that are not trading assets or liabilities are currently scoped-into the rule by the short-term prong due to the fact that they are held for less than 60 days, this amendment may decrease the scope of the trading account. For example, some fair value financial instruments that are not trading assets or liabilities, such as available-for-sale securities or derivatives not reported as trading, maybe held for less than 60 days and therefore be presumed to be for the trading account under the 2013 rule. However, under the 2013 rule, banking entities could rebut this presumption by demonstrating that such instruments are not purchased or sold principally for the purpose of selling in the near term. <sup>1001</sup> In addition, the SEC notes that dealers, in general, hold primarily trading assets and trading liabilities due to the nature of their business. The SEC does not have data or information about what fraction of dealers’ financial instruments that are not defined as trading assets or liabilities under the applicable banking agency reporting forms is currently being scoped-into the trading account by the short-term prong in the 2013 rule. This is because only non-trading fair value instruments held for fewer than 60 days are likely to be scoped into the trading account via the short-term prong under the 2013 rule, rather than all such financial instruments, and the data disaggregated by maturity of non-trading fair value instruments is not available. However, the SEC reiterates that only a small subset of trading activity by dealers may be affected by this exclusion, as majority of financial instruments purchased or sold by dealers are trading assets and liabilities. For this reason and the reasons discussed above, the SEC expects that this amendment will not substantially affect the scope of the trading account for banking entities that are dealers.
 
-<h>2. Efficiency, Competition, and Capital Formation</h>
+2. Efficiency, Competition, and Capital Formation
 
 To the degree that the 2013 rule may be restricting liquidity-risk management by banking entities, and to the extent that this affects their trading activity, the liquiditymanagement amendment could facilitate more efficient risk management, greater secondary market activity, and more capital formation in primary markets. Similarly, to the extent that corrections for bona-fide errors and exclusions for customer-driven swaps and customer-driven security-based swaps and transactions related to mortgage servicing rights facilitate customer-driven transactions and increase banking entities’ willingness to conduct such transactions, these exclusions could facilitate more efficient risk management and promote capital formation and secondary market activity. In addition, to the degree that the exclusions from proprietary trading may provide banking entities with more flexibility to manage risks, and to the extent these activities facilitate capital formation, these amendments may improve allocative efficiency.
 
 To the extent that these amendments may increase the ability of dealers that are banking entities to hedge risks related to customer transactions, the competitive position of dealers that are banking entities may improve relative to nonbanking dealers. In addition, to the extent that these amendments reduce compliance costs of dealers that are banking entities and to the extent that these compliance costs are currently passed onto customers and counterparties, the reduction in costs related to the exclusions from proprietary trading may result in more competitive prices set by dealers that are banking entities, improving their competitive position further.
 
-<h>3. Alternatives</h>
+3. Alternatives
 
 The agencies could have taken the approach of expanding the liquidity management exclusion to exclude additional trading activities. For example, the agencies could exclude transactions in other derivatives, such as derivatives related to governmentsecurities, derivatives on foreign sovereign debt, <sup>1002</sup> instruments that qualify for certain treatment under the liquidity coverage ratio or section 165 of the Dodd-Frank Act, or transactions executed by SEC-registered dealers on behalf of their asset management customers. <sup>1003</sup>
 
@@ -2348,11 +2048,11 @@ Since the alternative would exclude all derivatives transactions on governmentob
 
 The agencies also considered mandating the use of a separately-managed trade error account for the purposes of this amendment. This alternative could deter banking entities from using the error trade exclusion to obfuscate impermissible proprietary trades. However, as indicated by the commenters, this approach may result in duplicative systems and additional compliance costs. <sup>1004</sup> The agencies agree with these commenters and, therefore, are not adopting this alternative.
 
-T rading Desk Definition
+Trading Desk Definition
 
 The final rule adopts a multi-factor definition of the trading desk that is substantially similar to the definition included in the request for comment in the proposal, except that the reference to incentive compensation has been removed from the first prong. The definition of trading desk includes a new second prong that aligns the definition with the market risk capital rule. Specifically, for a banking entity that is subject to the market risk capital rule, the trading desk established for purposes of the market risk capital rule must be the same unit of organization that is established as a trading desk for purposes of the regulations implementing section 13 of the BHC Act.
 
-<h>1. Costs and Benefits</h>
+1. Costs and Benefits
 
 The SEC continues to recognize that the definition of trading desk is an important component of the implementation of the 2013 rule in that certain requirements, such as those applicable to the underwriting and market making exemptions, and the metrics- reporting requirements, apply at the trading desk level of organization. Under the 2013 rule, a trading desk is defined as the smallest discrete unit of organization of a banking entity that purchases or sells financial instruments for the trading account of the banking entity or an affiliate thereof. Some commenters asserted that the smallest discrete unit language of the 2013 rule was subjective, ambiguous, or could be interpreted in different ways. <sup>1005</sup> Thus, the SEC continues to believe that SEC-regulated banking entities may currently experience substantial compliance costs related to the trading desk designation for the purposes of compliance with section 13 of the BHC Act. Accordingly, the SEC believes that the adopted definition of the trading desk may provide more certainty to SEC-regulated banking entities regarding trading desk designations and will reduce their compliance burdens, as the multi-factor definition better aligns with other operational, management, and compliance purposes, <sup>1006</sup> which typically depend on the type of trading activity, asset class, product line offered, and individual banking entity’s structure.
 
@@ -2362,11 +2062,11 @@ As seen in Table 9, the SEC estimates that 100 broker-dealers with between 98% a
 
 The SEC also estimates that 99 broker-dealers are not currently subject to the market risk capital rule—these broker-dealers will be able to establish trading desks on the basis of the multi-factor definition. To the extent that the current operational, management, or compliance structure of these entities may not perfectly align with the adopted multi- factor definition of the trading desk, these entities may experience one-time setup costs related to the reorganization of trading activity in order to satisfy the multi-factor definition. The SEC does not have information or data about the costs of this reorganization. However, the SEC believes that these reorganization costs will be offset by a reduction in ongoing compliance costs, which will be reduced as a result of the amended definition of the trading desk for dealers that are not subject to the market risk capital rule, to the extent that the trading desk designations under the final rule will be lessgranular than those under the 2013 rule and will better align with criteria used to establish trading desks for operational and management purposes.
 
-<h>2. Efficiency, Competition, and Capital Formation</h>
+2. Efficiency, Competition, and Capital Formation
 
 To the extent that the reduction in compliance costs stemming from this amendment facilitates permitted trading activity by banking entities, capital formation may increase. To the extent that the reduced compliance costs stemming from this amendment flow through to customers and counterparties, bank-affiliated dealers may become more competitive with nonbanking dealers. The amendment to the definition of the trading desk does not change the information available to market participants, and the SEC does not believe that these amendments are likely to have an effect on informational efficiency. To the degree that this amendment facilitates capital formation, allocative efficiency may improve.
 
-<h>3. Alternatives</h>
+3. Alternatives
 
 The agencies could have adopted an amendment that would allow trading desks to be set completely at the discretion of banking entities. <sup>1009</sup> This would provide banking entities greater flexibility in determining their own optimal organizational structure and allow banking entities organized with various degrees of complexity to reflect their organizational structure in the trading desk definition. This alternative could reduce operational costs from fragmentation of trading activity and compliance program requirements, as well as enable more streamlined metrics reporting. However, under thisalternative, a banking entity may be able to aggregate impermissible proprietary trading with permissible activity (e.g., underwriting, market making, or hedging) into the same trading desk and consequently take speculative positions under the guise of permitted activities. To the extent that this alternative would allow banking entities to use a highly aggregated definition of a trading desk, it may increase risk exposures of banking entities and the conflicts of interest that the prohibitions of section 13 of the BHC Act aimed to address. <sup>1010</sup> The SEC does not have data on operating and compliance costs that arise because of the fragmentation of trading activity by SEC-regulated banking entities, or data on their organizational complexity, and the extent of variation therein. For the reasons discussed in section IV.B.1.c, the agencies are not adopting this definition.
 
@@ -2642,7 +2342,7 @@ The agencies also recognize that CEO attestation may be costly for banking entit
 
 <h>h. Metrics</h>
 
-C osts and Benefits
+Costs and Benefits
 
 In the proposal, the SEC discussed the compliance burdens related to the metrics reporting and recordkeeping requirements under the 2013 rule. For example, the SEC reported that a market participant estimated that the average cost of collecting and filing metrics subject to the reporting requirements may be as high as $2 million per year per participant, and that market participants may submit an average of over 5 million data points in each filing. <sup>1157</sup> The SEC also reported an estimate from a market participant incurring approximately $3 million in costs associated with the buildout of new IT infrastructure and system enhancements and estimated that this IT infrastructure will require at least $250,000 in maintenance and operating costs year-to-year. <sup>1158</sup> In addition,the SEC noted that the same firm estimated costs related to compliance consultants assisting with the construction of the 2013 rule compliance regime at $3 million. <sup>1159</sup>
 
@@ -2656,7 +2356,7 @@ The SEC considered how to assess the costs of the final rule for SEC-regulated b
 
 The discussion that follows addresses the effects of the final rule on the reporting and recordkeeping burdens and other compliance costs for banking entities, the effects of the elimination and streamlining of certain metrics, the effects of extended time to report, and amendments related to the XML format.
 
-<h>1. Reporting and Recordkeeping Burden for SEC- Regulated Banking Entities</h>
+1. Reporting and Recordkeeping Burden for SEC- Regulated Banking Entities
 
 The changes in reporting and recordkeeping burdens as a result of the final rule stem from four key groups of changes to the metrics reporting regime. First, the final rule requires metrics reporting for Group A entities only. Under the 2013 rule, banking entitieswith consolidated trading assets and liabilities above $10 billion are required to record and report certain quantitative measurements for each trading desk engaged in covered trading. <sup>1166</sup> Under the amended rules, entities with $20 billion or more in trading assets and liabilities would be required to furnish metrics. The SEC estimates that three metrics reporters that have affiliated broker-dealers required to submit metrics to the SEC under the 2013 rule will no longer be required to report metrics under the final rule.
 
@@ -2672,7 +2372,7 @@ The SEC agrees that compliance with the final rule will involve one-time costs t
 
 However, as discussed earlier in this section, the SEC believes that the final metrics amendments may reduce reporting and recordkeeping burdens. <sup>1175</sup> The SEC estimates that the amendments may decrease ongoing annual reporting and recordkeepingcost by $463,921. <sup>1176</sup> These figures reflect the estimated burden reductions net of any new systems costs imposed by the final rule.
 
-<h>2. Elimination, Replacement, and Streamlining of Certain Metrics</h>
+2. Elimination, Replacement, and Streamlining of Certain Metrics
 
 As discussed above, the final rule includes a number of amendments eliminating, replacing, and streamlining metrics reporting. For example, the final rule eliminates the Inventory Aging, Stress VaR, and Risk Factor Sensitivities metrics, as well as replaces the Inventory Turnover with the Positions metric and the Customer Facing Trade Ratio with the Transaction Volumes metric. As discussed above, both the Transaction Volumes metric and the Positions metric will be required only by desks involved in underwriting or market making-related activity. The SEC continues to believe that the key balancing of economic effects from metrics reporting is between compliance burdens (which may be particularly significant for smaller entities) and the amount and usefulness of information provided for regulatory oversight of the 2013 rule, as well as for general supervision and oversight. As estimated above, the limitation of certain metrics to desks engaged in covered trading activities, elimination of the above metrics, and removal of the Stress VaR
 
@@ -2692,9 +2392,7 @@ In addition to requiring separate reporting of the value of securities positions
 
 Moreover, the valuation methods required under the final rule are intended to be more consistent with the agencies’ understanding of how banking entities value securities and derivatives positions in other contexts, such as internal monitoring or external reporting purposes, which may allow them to leverage existing systems and reduce ongoing costs relative to the costs of reporting requirements under the 2013 rule. While a banking entity may incur one-time costs in modifying how it values certain positions for purposes of metrics reporting, the SEC does not expect such systems costs to be significant, particularly if the banking entity is able to use the systems it currently has in place for purposes of metrics reporting to value positions consistent with the final rule.
 
-However, the SEC recognizes that some metrics reporters may incur such costs, and they are reflected in the estimate of the one-time metrics switching costs of up to $540,000 for SEC-registered dealers affiliated with a single Group A metrics reporter in section
-
-<h>b. .i above.</h>
+However, the SEC recognizes that some metrics reporters may incur such costs, and they are reflected in the estimate of the one-time metrics switching costs of up to $540,000 for SEC-registered dealers affiliated with a single Group A metrics reporter in section V.F.3.h.i above.
 
 The agencies have received a number of comments on the proposed replacement of the Inventory Turnover metric with the Positions metric and of the Customer-Facing Trade Ratio metric with the Transaction Volumes metrics. With respect to thereplacement of Inventory Turnover with Positions, commenters indicated that the Positions metric will involve costly modifications to existing infrastructure and re-scoping of products. <sup>1177</sup> In addition, commenters indicated that Positions metric will provide few valuable insights regarding each desk’s overall risk profile and that the granularity will result in false positives. <sup>1178</sup> Commenters also opposed the replacement of the Customer- Facing Trade Ratio with the Transactions Volume metric, arguing that it would create a new metric, require firms to classify inter-affiliate transactions, increase transition and system update costs, and fail to provide the agencies with valuable information enhancing oversight for the purposes of section 13 of the BHC Act. <sup>1179</sup>
 
@@ -2726,7 +2424,7 @@ Second, the final rule requires banking entities to provide a complete attributi
 
 The SEC recognizes that the Risk Factor Attribution Information Schedule and the new unique identification label reporting requirement may impose additional burdens on reporters. As discussed in section IV.E, the agencies generally expect that the final rule may enable banking entities to leverage compliance with market risk capital programs to meet the final metrics requirements, which may reduce complexity and cost for banking entities and improve the effectiveness of the final rule. The SEC also notes that the final rule also includes an amendment to the trading desk definition, allowing reporters to use the same trading desk and risk factor attribution and risk factor sensitivity hierarchies. Atthe same time, profit and loss attribution and the identification label may enhance the ability of regulators to connect risk factors that explain a preponderance of the profit or loss changes due to risk factors with a separate Risk Factor Attribution Information Schedule. Thus, these amendments may help enhance the agencies’ understanding of the structure of reporters’ activity and the nature of their revenue sources.
 
-<h>3. Trading Desk Information, Quantitative Measurements Identifying Information, and Narrative Statement</h>
+3. Trading Desk Information, Quantitative Measurements Identifying Information, and Narrative Statement
 
 As recognized in Appendix A of the 2013 rule, the effectiveness of particular quantitative measurements may differ depending on the profile of a particular trading desk, including the types of instruments traded and trading activities and strategies. <sup>1190</sup> Thus, the additional qualitative information the agencies would collect in the Trading Desk Information and Quantitative Measurements Identifying Information provision may facilitate SEC review and analysis of covered trading activities and reported metrics. For instance, the trading desk description may help the SEC assess the risks associated with a given activity and establish the appropriate frequency and scope of examination of such activity. Having access to such information may allow the agencies to consider the specifics of each trading desk’s activities during the reporting period, which may facilitate regulatory oversight.
 
@@ -2748,13 +2446,13 @@ SEC regulated banking entities and the estimates only represent a fraction of th
 
 However, recognizing the above comments concerning systems changes that all reporters may have to make for the purposes of reporting of qualitative information, the SEC now estimates that the combined one-time systems costs related to the submission of new qualitative information (including Trading Desk Information, Quantitative Measurements Identifying Information, and the optional Narrative Statement) may be as high as $22,500 for SEC-registered entities affiliated with a single Group A metrics reporter <sup>1201</sup> and $270,000 for all SEC-registered entities affiliated with all reporters. <sup>1202</sup> Iftransitioning reporting systems to meet the requirements of the final rule impose one-time costs and IT burdens comparable with those of the metrics requirements of the 2013 rule, <sup>1203</sup> the compliance costs related to the 2013 rule can be used to estimate potential one-time switching costs for some banking entities. In the proposal, the SEC reported an estimate from a market participant incurring approximately $3 million in costs associated with the buildout of new IT infrastructure and system enhancements. <sup>1204</sup> Using this estimate, the one-time costs related to transitioning metrics reporting to comply with the requirements of the final rule may be as high as $540,000 <sup>1205</sup> for SEC-registered dealers affiliated with a single Group A metrics reporter and as high as $6,480,000 <sup>1206</sup> for all SEC-registered entities affiliated with all reporters.
 
-<h>4. Time to Report</h>
+4. Time to Report
 
 The agencies are amending the time frame for metrics reporting by requiring quarterly reporting for all reporters and extending the timeline for metrics submissions to 30 days following the end of each calendar quarter. The SEC has received comments supporting a move to quarterly reporting <sup>1207</sup> and an extended reporting timeframe forrequirements for metrics reporters may be half as costly as the cost estimate in Regulation Crowdfunding. $250,000 x 0.5 x 0.18 = $22,500.reporters with more than $50 billion in trading assets and liabilities <sup>1208</sup> and stating that such timeframes account for the scale and complexity of profit and loss reconciliations as well as the internal compliance and governance processes of such banking entities. The SEC also notes that, to the extent that the shorter timeframe for submission may result in later resubmissions to correct errors, the increase in time for some reporters may decrease compliance burdens and make the information collection process more efficient.
 
 As estimated in Table 5 of the economic baseline, this amendment would not affect the reporting schedule of four reporters with between $20 billion and $50 billion in trading assets and liabilities and would provide additional flexibility and time to eight reporters with over $50 billion in trading assets and liabilities. In addition to reductions in compliance burdens, the final rule may also involve greater improvements in the number of banking entities reporting on time and in the quality of submissions. As estimated in Panel A of Table 7, approximately 66% of all records submitted by reporters with over$50 billion in trading assets and liabilities are resubmitted to the SEC at least once. In addition, from Panel B of Table 7, the average delay in initial submissions is approximately 2 days. The SEC notes that in addition to resulting in potentially higher quality submissions with fewer resubmissions, under the final rule the agencies may not receive the information as promptly. However, the SEC will continue to have access to quantitative metrics and related information through the standard examination and review process and existing recordkeeping requirements.
 
-<h>5. XML Format</h>
+5. XML Format
 
 The agencies are requiring banking entities to submit the Trading Desk Information, the Quantitative Measurements Identifying Information, and each applicable quantitative measurement in accordance with the XML Schema specified and published on the relevant agency’s website. <sup>1209</sup> Under the 2013 rule, the metrics are not required to be reported in a structured format, and banking entities are currently reporting quantitative measurement data electronically. In the proposal, the SEC noted that, on the basis of discussions with metrics reporters, most of these entities indicated a familiarity with XML, and further, several indicated that they use XML internally for other reporting purposes. In addition, banks currently submit quarterly Reports of Condition and Income (“Call Reports”) to the Federal Financial Institutions Examination Council (“FFIEC”)
 
@@ -2776,11 +2474,11 @@ The agencies received several comments regarding the costs of transitioning to m
 
 The SEC continues to estimate that each reporter may incur a one-time switching cost of up to $75,000 but is adjusting the total aggregate reporting costs to reflect an updated count of metrics reporters with affiliated SEC-registered banking entities. Asdiscussed in the economic baseline, using data from March 2018 through March 2019, the SEC estimates that 12 reporters with trading assets and liabilities in excess of $20 billion may be subject to the final metrics reporting amendments, resulting in an aggregate estimate of a one-time switching cost of $162,000 for all SEC registrants. <sup>1217</sup> Moreover, since the final rule involves a single one-time change to the reporting format, the SEC continues to believe that SEC- regulated banking entities will not incur significant ongoing costs from this aspect of the final rule. Moreover, the SEC continues to believe that XML reporting will result in a more efficient submission process, including validation of submissions, and anticipates that some of the implementation costs may be offset over time by these greater efficiencies.
 
-C ompetition, Efficiency, and Capital Formation
+Competition, Efficiency, and Capital Formation
 
 Under the amendments, entities that have between $10 and $20 billion in trading assets and liabilities would incur lower costs of compliance as they would no longer be subject to metrics requirements. To the extent that these compliance burdens may be significant for some entities, and since Group B entities are not subject to any metrics requirements, Group A entities close to the threshold may become more competitive with Group B entities. To the extent that some entities are currently experiencing significant metrics-reporting costs and partially or fully passing them along to customers in the form of reduced willingness to transact or higher costs, the final rule may reduce costs of and increase access to capital. However, estimated reporting and recordkeeping burden savings resulting from the final rule are relatively modest, and the SEC does not anticipatea substantial increase in access to capital as a result of the final rule to metrics reporting requirements.
 
-A lternatives
+Alternatives
 
 The agencies could have taken several alternative approaches. First, the agencies could have kept the metrics being reported unchanged, but increased or decreased the trading activity thresholds used to determine metrics recordkeeping and reporting by filers and the frequency of such reporting. For instance, the agencies could have used the $10 billion trading activity threshold as proposed. As shown in Table 2, the SEC estimates that this alternative would affect nine bank-affiliated SEC-registered broker-dealers. The alternative would increase the amount and frequency of quantitative data available for regulatory oversight of banking entities. However, under the alternative, these dealers would be required to keep or report metrics, experiencing higher compliance burdens.
 

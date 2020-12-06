@@ -1,141 +1,3 @@
-https://www.sec.gov/rules/final/2020/33-10871.pdf
-
-	.A.0.0 and III of this final rule.
-
-	.A.0.0 Regulatory Context
-
-	.B.0.0 Rule 12d1-4 Overview
-
-	.A.0.0 Scope
-
-		.A.1.0 Registered Funds and BDCs
-
-		.A.2.0 Private Funds and Unregistered Investment Companies
-
-	.B.0.0 Exemptions from the Act’s Prohibition on Certain Affiliated Transactions
-
-	.C.0.0 Conditions
-
-		.C.1.0 Control and Voting
-
-			.C.1.a Control
-
-			.C.1.b Voting Provisions
-
-		.C.2.0 Redemption Limits, Fund Findings, and Fund of Funds Investment Agreements
-
-			.C.2.a Proposed Redemption Limit and Disclosure Requirements
-
-			.C.2.b Fund Findings and Fund of Funds Investment Agreement
-
-		.C.3.0 Complex Structures
-
-			.C.3.a General Prohibition on Three-Tier Structures
-
-			.C.3.b Limitations on Other Funds’ Acquisitions of Acquiring Funds
-
-			.C.3.c Limitations on Acquired Funds’ Acquisition of Other
-
-			.C.3.d Ten Percent Bucket
-
-		.C.4.0 Recordkeeping
-
-	.D.0.0 Rescission of Rule 12d1-2 and Amendment to Rule 12d1-1
-
-		.D.1.0 Rescission of Rule 12d1-2
-
-		.D.2.0 Amendment to Rule 12d1-1
-
-	.E.0.0 Disclosures Relating to Fund of Funds Arrangements
-
-		.E.1.0 Amendments to Form N-CEN
-
-		.E.2.0 Acquired Fund Fees and Expenses
-
-	.F.0.0 Compliance Dates
-
-	.G.0.0 of the Act with one limited exception. We did not propose to rescind the exemptive orders
-
-	.A.0.0 Introduction
-
-	.B.0.0 Economic Baseline
-
-		.B.1.0 Current State of the Funds Market
-
-		.B.2.0 Current Regulatory Framework
-
-			.B.2.a Exemptive Order Process
-
-			.B.2.b Summary of Relevant Statutory Provisions, Rules, and Industry Practices Associated with Staff No-Action Letters
-
-	.C.0.0 Benefits and Costs and Effects on Efficiency, Competition, and Capital Formation
-
-		.C.1.0 Benefits and Costs
-
-			.C.1.b Effects of New and Omitted Conditions
-
-		.C.2.0 Effects on Efficiency, Competition, and Capital Formation
-
-	.D.0.0 Reasonable Alternatives
-
-		.D.1.0 Retain Existing Exemptive Relief
-
-		.D.2.0 Retain Rule 12d1-2
-
-		.D.3.0 Allow Private and Unregistered Investment Companies to Rely on Rule 12d1-4
-
-		.D.4.0 Codify Current Conditions in Existing Exemptive Orders
-
-		.D.5.0 Restrict the Ability of an Acquiring Fund and its Advisory
-
-		.D.6.0 Permit Multi-Tier Fund Structures
-
-		.D.7.0 Alternative Control Conditions
-
-			.D.7.a Redemption Limit
-
-			.D.7.b Uniform Voting Conditions for all Funds
-
-			.D.7.c Disclosure Requirement
-
-	.A.0.0 Introduction
-
-	.B.0.0 Rule 12d1-4
-
-		.B.3.0 for management companies, certain evaluations and findings that are reported to a fund’s board, (4) for UITs, an evaluation by the principal underwriter or depositor, and (5) for separate accounts funding variable insurance contracts, the acquiring fund obtaining a certification by the insurance company offering the separate account. These requirements are collections of information for purposes of the PRA. These are the same collections we identified in the 2018 FOF Proposing Release, with two exceptions based upon changes to the rule from the proposal.
-
-		.B.1.0 Voting Provisions
-
-		.B.2.0 Fund of Funds Investment Agreements
-
-		.B.3.0 Management Companies – Fund Findings
-
-		.B.4.0 UITs – Principal Underwriter or Depositor Evaluations
-
-		.B.5.0 Separate Accounts Funding Variable Insurance Contracts – Certification
-
-		.B.6.0 Rule 12d1-4 Total Estimated Burden
-
-	.C.0.0 Rule 0-2
-
-	.D.0.0 Form N-CEN
-
-		.D.1.0 See SIFMA Report, supra footnote 617.
-
-	.A.0.0 Need for and Objectives of the Rule and Form Amendments
-
-	.B.0.0 Significant Issues Raised by Public Comments
-
-	.C.0.0 Small Entities Subject to the Rule
-
-	.D.0.0 Projected Board Reporting, Recordkeeping, and Other Compliance Requirements
-
-	.E.0.0 Agency Action to Minimize Effect on Small Entities
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION
 
 17 CFR Parts 270 and 274
@@ -150,21 +12,15 @@ ACTION: Final rule.
 
 SUMMARY: The Securities and Exchange Commission (the “Commission”) is adopting a new rule under the Investment Company Act of 1940 (“Investment Company Act” or “Act”) to streamline and enhance the regulatory framework applicable to funds that invest in other funds (“fund of funds” arrangements). In connection with the new rule, the Commission is rescinding rule 12d1-2 under the Act and certain exemptive relief that has been granted from sections 12(d)(1)(A), (B), (C), and (G) of the Act permitting certain fund of funds arrangements. Finally, the Commission is adopting related amendments to rule 12d1-1 under the Act and to Form N- CEN.
 
-DATES: Effective date: This rule is effective [insert date 60 days after publication in the Federal Register]. Compliance dates : The applicable compliance dates are discussed in sections II.D,
-
-<END HEADER>
-
-<h>A. and III of this final rule.</h>
+DATES: Effective date: This rule is effective [insert date 60 days after publication in the Federal Register]. Compliance dates : The applicable compliance dates are discussed in sections II.D, II.F and III of this final rule.
 
 FOR FURTHER INFORMATION CONTACT: Bradley Gude, Terri G. Jordan, John Lee, Adam Lovell, Senior Counsels; Jacob D. Krawitz, Branch Chief; Melissa Gainor, Brian Johnson, Assistant Directors, at (202) 551-6792, Investment Company Regulation Office, Division of Investment Management, Securities and Exchange Commission, 100 F Street, NE, Washington, DC 20549.
 
-SUPPLEMENTARY INFORMATION: The Commission is adopting 17 CFR 270.12d1-4 (new rule 12d1-4) under the Investment Company Act [15 U.S.C. 80a-1 et seq .]; <sup>1</sup> amendments to 17 CFR 270.12d1-1 (rule 12d1-1) under the Investment Company Act; amendments to
+SUPPLEMENTARY INFORMATION: The Commission is adopting 17 CFR 270.12d1-4 (new rule 12d1-4) under the Investment Company Act [15 U.S.C. 80a-1 et seq .]; <sup>1</sup> amendments to 17 CFR 270.12d1-1 (rule 12d1-1) under the Investment Company Act; amendments to Form N-CEN [referenced in 17 CFR 274.101] under the Investment Company Act; and rescission of 17 CFR 270.12d1-2 (rule 12d1-2) under the Investment Company Act.
 
-Form N-CEN [referenced in 17 CFR 274.101] under the Investment Company Act; and rescission of 17 CFR 270.12d1-2 (rule 12d1-2) under the Investment Company Act.
+<END HEADER>
 
-Table of Contents
-
-Introduction
+<h>I. Introduction</h>
 
 We are adopting new rule 12d1-4 under the Investment Company Act and several relatedamendments to streamline and enhance the regulatory framework applicable to fund of funds arrangements. This framework reflects the Commission’s decades of experience with fund of funds arrangements and will create a consistent and efficient rules-based regime for the formation, operation, and oversight of fund of funds arrangements. <sup>2</sup> We believe that this framework will provide investors with the benefits of fund of funds arrangements, and will provide funds with investment flexibility to meet their investment objectives efficiently, in a manner consistent with the public interest and the protection of investors.
 
@@ -212,7 +68,7 @@ Complex Structures . Rule 12d1-4 will impose a general three-tier prohibition wi
 
 As proposed, we are rescinding rule 12d1-2 under the Act, and amending rule 12d1-1 to allow funds that rely on section 12(d)(1)(G) to invest in money market funds that are not part of the same group of investment companies in reliance on that rule. <sup>29</sup> In addition, certain staff no- action letters relating to section 12(d)(1) will be withdrawn. <sup>30</sup> The resulting regulatory framework will reduce confusion and subject similar fund of funds arrangements to tailored conditions that will enhance investor protection, while continuing to provide funds with investment flexibility to meet their investment objectives. In addition, the rule will allow the Commission, as well as funds and advisers seeking exemptions, to focus exemptive order review resources on novel products or arrangements.(i) acquire the securities of other funds that are not part of the same group of investment companies; or (ii) invest directly in stocks, bonds, and other securities, except in compliance with rule 12d1-4.
 
-Discussion
+<h>II. Discussion</h>
 
 <h>A. Scope</h>
 
@@ -758,13 +614,11 @@ We are not addressing AFFE disclosure requirements as part of this rulemaking. I
 
 The Commission is providing for a transition period for the amendments to Form N-CEN. Specifically, we are adopting compliance dates for our amendment to Form N-CEN of [insert date 425 days after publication in the Federal Register ], one year following the amendment’s effective date. All reports on this form filed on or after the compliance date must comply with the amendments. Based on the staff’s experience, we believe that this will provide adequate time for affected funds to compile and review the information that must be disclosed.
 
-Rescission of Exemptive Relief; Withdrawal of Staff Letters
+<h>III. Rescission of Exemptive Relief; Withdrawal of Staff Letters</h>
 
 Pursuant to our authority under the Act to amend or rescind our orders when necessary orappropriate to the exercise of the powers conferred elsewhere in the Act, we are rescinding, as proposed, the exemptive relief permitting fund of funds arrangements that fall within the scope of rule 12d1-4. <sup>483</sup> As discussed in more detail below, exemptive relief granted to fund of funds arrangements outside the scope of the rule is not being rescinded.
 
-We proposed to rescind all orders granting relief from sections 12(d)(1)(A), (B), (C), and
-
-<h>G. of the Act with one limited exception. We did not propose to rescind the exemptive ordersproviding relief from section 12(d)(1)(A) and (B) granted to allow certain interfund lending arrangements. <sup>484</sup> Interfund lending arrangements allow certain funds within the same complex to lend money to and borrow money from each other for temporary purposes and subject to certain conditions. While such arrangements require exemptive relief from sections 12(d)(1)(A) and (B), among other provisions, we stated that they do not result in the pyramiding of funds or therelated potential abuses that the proposed rule was designed to address, and thus they were not included within the scope of the proposed rule.</h>
+We proposed to rescind all orders granting relief from sections 12(d)(1)(A), (B), (C), and (G) of the Act with one limited exception. We did not propose to rescind the exemptive ordersproviding relief from section 12(d)(1)(A) and (B) granted to allow certain interfund lending arrangements. <sup>484</sup> Interfund lending arrangements allow certain funds within the same complex to lend money to and borrow money from each other for temporary purposes and subject to certain conditions. While such arrangements require exemptive relief from sections 12(d)(1)(A) and (B), among other provisions, we stated that they do not result in the pyramiding of funds or therelated potential abuses that the proposed rule was designed to address, and thus they were not included within the scope of the proposed rule.
 
 We also proposed to rescind the exemptive relief from sections 12(d)(1)(A) and (B) that has been included in our ETF and ETMF orders. <sup>485</sup> We believed that rescinding this fund of funds relief in the ETF and ETMF orders, as well as more generally, would establish a transparent regulatory framework for these arrangements. As discussed in the 2018 FOF Proposing Release, we expected that the need to comply with the requirements of proposed rule 12d1-4, as opposed to their orders, would not significantly negatively affect the operations of most existing fund of funds arrangements. <sup>486</sup>
 
@@ -820,13 +674,13 @@ As a result of these considerations, the no-action letters stating that the staf
 
 Release No. 3222, at note 294 and accompanying text (June 22, 2011) [76 FR 39646 (July 6, 2011)]. Staff no-action letters stating that the staff would not recommend enforcement action if a foreign fund purchases securities of U.S. funds in excess of the limits of section 12(d)(1) under certain facts and circumstances will not be withdrawn. See, e.g., Dechert LLP, SEC No-Action Letter (pub. avail. Aug. 4. 2009).
 
-Other Matters
+<h>IV. Other Matters</h>
 
 Pursuant to the Congressional Review Act, <sup>530</sup> the Office of Information and Regulatory
 
 Affairs has designated this rule a “major rule,” as defined by 5 U.S.C. § 804(2). If any of the provisions of these rules, or the application thereof to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or application of such provisions to other persons or circumstances that can be given effect without the invalid provision or application.
 
-Economic Analysis
+<h>V. Economic Analysis</h>
 
 We are mindful of the costs imposed by, and the benefits obtained from, our rules.
 
@@ -1376,7 +1230,7 @@ We proposed to require a fund that operates in accordance with rule 12d1-4 to di
 
 As mentioned above, the proposed disclosure requirement was designed to put funds on notice that a fund would be subject to rule 12d1-4 as an acquiring fund. Under rule 12d1-4, this function will be filled by the fund of funds investment agreement, which an acquiring fund and acquired fund must execute before the acquiring fund may invest in the acquired fund in excess of the limits imposed by section 12(d)(1). Since rule 12d1-4 imposes the fund of funds investment agreement condition, it does not include such a disclosure requirement.
 
-Paperwork Reduction Act
+<h>VI. Paperwork Reduction Act</h>
 
 <h>A. Introduction</h>
 
@@ -1392,9 +1246,7 @@ We published notice soliciting comments on the collection of information require
 
 <h>B. Rule 12d1-4</h>
 
-Rule 12d1-4 will permit certain registered funds and BDCs that satisfy certain conditions to acquire shares of another fund in excess of the limits of section 12(d)(1) of the Act without obtaining an exemptive order from the Commission. These conditions include (1) adherence to certain voting provisions, (2) for most funds, entering into a fund of funds investment agreement,
-
-<h>3. for management companies, certain evaluations and findings that are reported to a fund’s board, (4) for UITs, an evaluation by the principal underwriter or depositor, and (5) for separate accounts funding variable insurance contracts, the acquiring fund obtaining a certification by the insurance company offering the separate account. These requirements are collections of information for purposes of the PRA. These are the same collections we identified in the 2018 FOF Proposing Release, with two exceptions based upon changes to the rule from the proposal.</h>
+Rule 12d1-4 will permit certain registered funds and BDCs that satisfy certain conditions to acquire shares of another fund in excess of the limits of section 12(d)(1) of the Act without obtaining an exemptive order from the Commission. These conditions include (1) adherence to certain voting provisions, (2) for most funds, entering into a fund of funds investment agreement, (3) for management companies, certain evaluations and findings that are reported to a fund’s board, (4) for UITs, an evaluation by the principal underwriter or depositor, and (5) for separate accounts funding variable insurance contracts, the acquiring fund obtaining a certification by the insurance company offering the separate account. These requirements are collections of information for purposes of the PRA. These are the same collections we identified in the 2018 FOF Proposing Release, with two exceptions based upon changes to the rule from the proposal.
 
 We have removed the disclosure requirements that were included in the proposed estimate and added the fund of funds investment agreement element of the collection.
 
@@ -1612,7 +1464,7 @@ Number of Responses Annual hours Wage Rate <sup>1</sup> Annual internal time	Ann
 
 Notes:
 
-<h>1. See SIFMA Report, supra footnote 617.</h>
+1. See SIFMA Report, supra footnote 617.
 
 Final Regulatory Flexibility Analysis
 

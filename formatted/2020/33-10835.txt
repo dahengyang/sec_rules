@@ -1,105 +1,3 @@
-https://www.sec.gov/rules/final/2020/33-10835.pdf
-
-I.0.0.0 Introduction
-
-II.0.0.0 New Subpart 1400 of Regulation S-K
-
-	II.A.0.0 Codification
-
-	II.B.0.0 Location of Disclosure Requirements and XBRL
-
-	II.C.0.0 Scope
-
-	II.D.0.0 Applicability to Domestic Registrants and Foreign Registrants
-
-	II.E.0.0 Reporting Periods
-
-	II.F.0.0 Distribution of Assets, Liabilities and Stockholders’ Equity; Interest Rate and Interest Differential (Average Balance, Interest and Yield/Rate Analysis and Rate/Volume Analysis)
-
-	II.G.0.0 Investment Portfolio
-
-	II.H.0.0 Loan Portfolio
-
-III.0.0.0 B of Guide 3, with the loan categories based on the categories required by U.S. GAAP or IFRS in the financial statements, but in response to comments received, the final rules also require additional maturity categories to provide investors with sufficient information on
-
-I.0.0.0 Allowance for Credit Losses
-
-	I.A.0.0 Deposits
-
-III.0.0.0 Certain Existing Guide 3 Disclosures That Would Not Be Codified in Subpart 1400 of Regulation S-K
-
-	III.A.0.0 Return on Equity and Assets
-
-	III.B.0.0 Short-Term Borrowings
-
-IV.0.0.0 Changes to Article 9 of Regulation S-X
-
-V.0.0.0 Compliance Date
-
-VI.0.0.0 Other Matters
-
-VII.0.0.0 Economic Analysis
-
-	VII.A.0.0 Introduction
-
-	VII.B.0.0 Baseline
-
-	VII.C.0.0 Economic Effects
-
-			VII.C..a Costs and Benefits
-
-			VII.C..b Alternatives
-
-			VII.C..a Costs and Benefits
-
-			VII.C..a Costs and Benefits
-
-			VII.C..b Alternatives
-
-			VII.C..a Costs and Benefits
-
-			VII.C..b Alternatives
-
-			VII.C..a Costs and Benefits
-
-			VII.C..b Alternatives
-
-			VII.C..a Costs and Benefits
-
-			VII.C..b Alternatives
-
-	VII.D.0.0 Effects on Efficiency, Competition, and Capital Formation
-
-VIII.0.0.0 Paperwork Reduction Act
-
-	VIII.A.0.0 Summary of the Collections of Information
-
-	VIII.B.0.0 Burden and Cost Estimates Related to the Proposed Rules
-
-			VIII.B..a Disclosure Related to Distribution of Assets, Liabilities, and Stockholders’ Equity; and Interest Rate and Interest Differential (Item I of Guide 3 / Item 1402)
-
-			VIII.B..b Disclosure Related to Investment Portfolios (Item II of Guide 3
-
-			VIII.B..c Disclosure Related to Loan Portfolios (Item III of Guide 3 / Item 1404)
-
-			VIII.B..d Disclosure Related to Allowance for Credit Losses (Item IV of Guide 3 / Item 1405(c))
-
-			VIII.B..e Disclosure Related to Deposits (Item V of Guide 3 / Item 1406)
-
-			VIII.B..f Disclosure Related to Return on Equity and Assets (Item VI of Guide 3)
-
-			VIII.B..g Disclosure Related to Short-Term Borrowings (Item VII of Guide 3 / Item 1402)
-
-			VIII.B..h Disclosure Related to Credit Ratios (Items 1405(a) and (b))
-
-IX.0.0.0 Regulatory Flexibility Act Certification
-
-X.0.0.0 Statutory Authority
-
-
-
-<END TABLE OF CONTENTS>
-
 SECURITIES AND EXCHANGE COMMISSION 17 CFR Parts 210, 229, and 249
 
 [Release No. 33-10835; 34-89835; File No. S7-02-17] RIN 3235-AL79
@@ -154,15 +52,15 @@ Therefore, like the proposed rules, the final rules do not require a registrant 
 
 <h>C. Scope</h>
 
-P roposal
+<h>1. Proposal</h>
 
 We proposed that Subpart 1400 of Regulation S-K would apply to bank and savings and loan registrants. In the Proposing Release, we expressed the view that identifying and codifying the types of registrants within the scope of the proposed rules would clarify the existing practice of providing Guide 3 disclosures when registrants have material lending and deposit-taking activities. <sup>24</sup> We also indicated that the proposed scope would capture the majority of registrants that predominantly engage in the activities covered by existing Guide 3 and for which these activities are material. <sup>25</sup>
 
-C omments on Proposal
+<h>2. Comments on Proposal</h>
 
 One commenter stated that the scope of the proposed rules would largely capture the majority of registrants who currently provide the disclosures called for by Guide 3. <sup>26</sup> Another commenter recommended expanding the scope of the proposed rules to cover any institution that performs the services under the scope of the proposed rules, even if it is not their primary role or sole function, provided it does not place undue burden on the institution. <sup>27</sup> One commenter encouraged the Commission to consider input from investors and others regarding the scope of registrant applicability. <sup>28</sup>
 
-F inal Rules
+<h>3. Final Rules</h>
 
 After considering the comments, we are adopting rules related to the scope as proposed. Subpart 1400 of Regulation S-K applies to bank and savings and loan registrants. We received limited feedback suggesting that the scope should be expanded to include other registrants in the financial services industry, and we did not receive any feedback from investors or others explaining how the proposed disclosures would be valuable for assessing registrants outside of the proposed scope. We continue to believe there is not a large population of non-bank and savings and loan registrants that are providing Guide 3 disclosures today that will be outside the scope of Subpart 1400 of Regulation S-K. This is because those registrants likely engage in only one or a few of the activities addressed by
 
@@ -172,19 +70,19 @@ Guide 3 (e.g., lending and deposit-taking). We also continue to believe that reg
 
 <h>D. Applicability to Domestic Registrants and Foreign Registrants</h>
 
-P roposal
+<h>1. Proposal</h>
 
 Consistent with existing Guide 3, we proposed that the rules would apply to both domestic registrants, including Regulation A issuers, and foreign registrants, notwithstanding the differences between U.S. GAAP and IFRS in some of the items called for by Guide 3, such as the measurement of credit losses and disclosures of financial instruments, among other areas. <sup>29</sup> The proposed rules would explicitly exempt foreign private issuers applying IFRS (“IFRS registrants”) from certain of the disclosure requirements that are not applicable under IFRS in order to address certain challenges foreign private issuers may face in providing the proposed disclosures. <sup>30</sup>
 
 We also proposed not to codify the undue burden or expense accommodation for foreign registrants in Guide 3’s General Instruction 6, which states that the disclosure items also apply to foreign registrants to the extent the information is available or can be compiled without unwarranted or undue burden and expense. In doing so, we noted that all registrants,not just foreign registrants, can avail themselves of relief from providing information that is “unknown and not reasonably available to the registrant” under 17 CFR 230.409 (“Securities Act Rule 409”) and 17 CFR 240.12b-21 (“Exchange Act Rule 12b-21”). <sup>31</sup>
 
-C omments on Proposal
+<h>2. Comments on Proposal</h>
 
 One commenter stated that the proposed rules should apply to both domestic and foreign registrants, but asked the Commission to consider carve-outs and add other exceptions that align with the registrant’s applicable accounting standards in their domicile countries. <sup>32</sup> This commenter did not provide any examples of exceptions in accounting standards that were not addressed in the proposed rules.
 
 Another commenter stated that the proposed rules would modify certain of the requirements for foreign registrants filing Form 20-F using IFRS and supported those changes. <sup>33</sup> However, this commenter also noted that many foreign registrants currently report Guide 3 information on a modified basis as a result of prior consultations with Commission staff and asked the Commission to confirm in the adopting release that the proposed amendments are not intended to change existing interpretations of hardship or priorstaff guidance to foreign registrants with respect to the disclosure requirements. This commenter also stated the Commission should codify the undue burden or expense accommodation in General Instruction 6. <sup>34</sup> Other commenters noted that they had seen limited use of the accommodation in Rules 409 and 12b-21 and therefore surmised that it may be rare for a registrant to be able to demonstrate that the required information is not reasonably available or that obtaining it may require unreasonable effort or expense. <sup>35</sup> These commenters asked the Commission to provide guidance on factors the registrant should consider when evaluating whether the requested information is unknown or that obtaining it would require unreasonable effort or expense. Several commenters stated it is unclear whether registrants would be required to discuss an accommodation or alternative presentation with the staff if they relied on the guidance in Rules 409 and 12b-21 and suggested clarifying any expectations. <sup>36</sup> One commenter recommended using language based on Item 3.A.1 of Form 20-F, <sup>37</sup> which they stated provides a similar hardship accommodation for foreign private issuers. <sup>38</sup>
 
-F inal Rules
+<h>3. Final Rules</h>
 
 After considering the comments, we are adopting the rules as proposed. The rules apply to domestic registrants, including Regulation A issuers, <sup>39</sup> and to foreign registrants. <sup>40</sup> In considering whether to codify the undue burden or expense accommodation for foreign registrants in General Instruction 6, we note that no commenters provided examples of disclosures that would involve an undue hardship to provide. We also note that the staff has not received any requests for accommodation during the past ten years and that prior accommodation requests tended to request relief with respect to reporting periods or categories or classes of financial instruments that were different from those called for by Guide 3. We believe the final rules address these matters by linking the disclosure requirements to categories or classes of financial instruments disclosed in the registrant’s
 
@@ -198,13 +96,13 @@ Securities Act Rule 409 and Exchange Act Rule 12b-21, however, remain applicable
 
 <h>E. Reporting Periods</h>
 
-P roposal
+<h>1. Proposal</h>
 
 We proposed defining the term “reported period” for purposes of Subpart 1400 of Regulation S-K to mean each annual period for which Commission rules require a registrant to provide financial statements. Commission rules generally require two years of balance sheets and three years of income statements, <sup>42</sup> except that smaller reporting companies (“SRCs”) <sup>43</sup> may present only two years of income statements, <sup>44</sup> and emerging growth companies (“EGCs”) <sup>45</sup> may present only two years of financial statements in initial public offerings of common equity securities. <sup>46</sup> Lastly, Commission rules for Regulation A issuers generally require two years of annual financial statements for Tier 1 and Tier 2 offerings. <sup>47</sup>$100 million during its most recently completed fiscal year, and no public float or a public float of less than $700 million as of the last business day of its most recently completed second fiscal quarter. See Rule 405 of Regulation C, Rule 12b-2 of the Exchange Act [17 CFR 240.12b-2], and Item 10(f) of Regulation S-K [17 CFR 229.10(f)].
 
 We also proposed requiring interim period disclosures if there is a material change in the information or the trend evidenced thereby. Lastly, we proposed to require new bank and savings and loan registrants to disclose certain credit ratios for each of their last five fiscal years in initial registration statements and Regulation A offering statements. <sup>48</sup> Consistent with Securities Act Rule 409 and Exchange Act Rule 12b-21, the information would be required only insofar as it is known or reasonably available to the registrant.
 
-C omments on Proposal
+<h>2. Comments on Proposal</h>
 
 One commenter agreed with each of the proposed changes to reporting periods. <sup>49</sup> A number of commenters agreed with the proposal to reduce the number of reporting periods and align them with the annual periods for which Commission rules require financialstatements to be presented. <sup>50</sup> One of these commenters supported the proposal to modify the current interim period instruction to clarify that the threshold to include an additional interim period is based on whether there is a material change in the information or the trend evidenced thereby, stating that this is consistent with other Commission guidance and FASB guidance. <sup>51</sup> However, another commenter stated that the Commission should align the threshold for interim reporting to the threshold in Rule 10-01(a)(5) of Regulation S-X, <sup>52</sup>which only requires disclosure of information to the extent sufficient to keep the interim disclosures from being misleading. <sup>53</sup>
 
@@ -212,7 +110,7 @@ A few commenters were supportive of the proposed credit ratio disclosures for ea
 
 Several other commenters encouraged the Commission to consider requiring the credit ratio disclosure for only the number of years presented in the financial statements in the initial registration statement. <sup>58</sup> One of these commenters questioned whether the five-year requirement was consistent with disclosure effectiveness and investor protection. <sup>59</sup> All of these commenters requested that the Commission, at a minimum, align the reportingperiods to the financial statement periods for EGCs in order for the requirement to be consistent with the underlying principles and objectives of the Jumpstart Our Business Startups Act <sup>60</sup> (“JOBS Act”). <sup>61</sup> Two of these commenters also recommended that the Commission consider this revised approach for Regulation A issuers that would otherwise qualify as EGCs. <sup>62</sup>
 
-F inal Rules
+<h>3. Final Rules</h>
 
 After considering the comments, we are adopting the rules as proposed for the annual and interim reporting period definitions. We continue to believe it is appropriate to align the required reporting periods with the relevant annual periods for which Commission rules require a registrant to provide financial statements because the Subpart 1400 of Regulation S- K disclosures are integrally related to the financial statements. There have been changes in technology since Guide 3 was originally issued, particularly the availability of past financial statements and other disclosure made in filings on the Commission’s Electronic Data Gathering, Analysis, and Retrieval system (“EDGAR”). As such, the historical information provided pursuant to Guide 3 that is not required by Subpart 1400 of Regulation S-K will generally be accessible through the registrant’s prior filings on EDGAR. Furthermore, the elimination of repetitive disclosures, reduction in costs and burdens to registrants, and availability of technology reflected in the final rules is in line with the 2015 Fixing America’s Surface Transportation Act (“FAST Act”) mandate <sup>63</sup> and the related Commissionrulemaking. <sup>64</sup> Finally, we do not believe it is necessary to align the threshold for interim reporting with the threshold in Rule 10-01(a)(5) of Regulation S-X. Investors and bank and savings and loan registrants are familiar with the interim period threshold we are codifying, and we believe that threshold strikes the appropriate balance for when additional information would be material to an investment decision.
 
@@ -224,15 +122,15 @@ Commission has issued guidance emphasizing the requirement to provide trend disc
 
 <h>F. Distribution of Assets, Liabilities and Stockholders’ Equity; Interest Rate and Interest Differential (Average Balance, Interest and Yield/Rate Analysis and Rate/Volume Analysis)</h>
 
-P roposal
+<h>1. Proposal</h>
 
 We proposed to codify in proposed Item 1402 of Regulation S-K all of the average balance sheet, interest and yield/rate analysis, and rate/volume analysis disclosure items currently in Item I of Guide 3. We also proposed to further disaggregate the categories of interest-earning assets and interest-bearing liabilities required to be disclosed. Specifically, we proposed to require registrants to separate (1) federal funds sold <sup>70</sup> from securities purchased with agreements to resell and (2) federal funds purchased from securities sold under agreements to repurchase <sup>71</sup> and to disaggregate commercial paper. <sup>72</sup> Finally, weproposed to codify the instructions related to foreign activities contained in General Instruction 7 <sup>73</sup> and Instruction 5 of Item I <sup>74</sup> of Guide 3.
 
-C omments on Proposal
+<h>2. Comments on Proposal</h>
 
 One commenter supported the proposal to codify the average balance and rate section of Guide 3, stating that the disclosures are unique to Guide 3 and that users of its financial statements find the information useful. <sup>75</sup> In contrast, another commenter stated that the additional disaggregation that would be required by the proposal appears to remove any element of professional judgment based on quantitative or qualitative materiality assessments, and therefore may result in disaggregation that will be of little value to users. <sup>76</sup> A different commenter stated that the required disaggregation is more granular than current practice and financial statement requirements. <sup>77</sup> This commenter noted that, for example, federal funds sold and securities purchased with agreements to resell are typically aggregated on a single line item on the balance sheet. This commenter also stated that separating these items and requiring them to be disclosed on an average balance basis may not be relevant or may be confusing to investors. Several commenters recommended either retaining Guide 3’sexisting language of “should include,” or revising the language in proposed Item 1402 tostate “must include, if material” when referring to the disaggregation requirement, in order to give registrants the flexibility to present this information in a way that they believe is most relevant to users. <sup>78</sup>
 
-F inal Rules
+<h>3. Final Rules</h>
 
 After considering the comments, we are adopting the rules substantially as proposed. Item 1402 of Regulation S-K codifies all of the average balance sheet, interest and yield/rate analysis and rate/volume analysis disclosure items currently in Item I of Guide 3, along with General Instruction 7 and Instruction 5 of Item 1 of Guide 3. We also are adopting the requirement to disaggregate the categories of interest-earning assets and interest-bearing liabilities required to be disclosed, as proposed.
 
@@ -240,25 +138,25 @@ In a change from the proposal, as suggested by commenters, Item 1402(a) of Regul
 
 <h>G. Investment Portfolio</h>
 
-P roposal
+<h>1. Proposal</h>
 
 We proposed to codify in Item 1403 of Regulation S-K the requirement to disclose weighted average yield for each range of maturities by category of debt securities andproposed to use the categories required by U.S. GAAP <sup>79</sup> or IFRS, <sup>80</sup> rather than those categories currently called for by Item II.B of Guide 3. In the Proposing Release, we stated our belief that the proposed weighted average yield disclosure would provide investors with information to evaluate more effectively the performance of the portfolio and that revising the categories of debt securities to conform to the categories presented in accordance with
 
 U.S. GAAP or IFRS would enhance the consistency and usefulness of the registrant’s investment portfolio disclosures. <sup>81</sup> As proposed, this disclosure requirement would apply only to debt securities that are not carried at fair value through earnings. Due to the substantial overlap with U.S. GAAP and IFRS disclosure requirements, we proposed not to codify in Item 1403 the following disclosure items in Item II of Guide 3: (a) book value information; (b) the maturity analysis of book value information; and (c) the disclosures related to investments exceeding 10% of stockholders’ equity.
 
-C omments on Proposal
+<h>2. Comments on Proposal</h>
 
 One commenter supported the proposal to eliminate the investment portfolio disclosure items that overlap with U.S. GAAP. <sup>82</sup> This commenter also supported moving away from the bright-line thresholds in Guide 3. <sup>83</sup> Furthermore, this commenter also supported the proposal to require disclosure of weighted average yields of each category of debt securities not carried at fair value through earnings by specified range of maturities because it would provide decision-useful information to investors. While not commenting specifically on the investment portfolio disclosure requirements, many commenters generally supported the elimination of disclosure items that overlap with those in Commission rules,
 
 U.S. GAAP, or IFRS. <sup>84</sup>
 
-F inal Rules
+<h>3. Final Rules</h>
 
 After considering the comments, we are adopting Item 1403 of Regulation S-K as proposed. Item 1403 of Regulation S-K codifies the requirement to disclose weighted average yield for each range of maturities by category of debt securities required to be disclosed in the registrant’s U.S. GAAP or IFRS financial statements. As proposed, the final rules only apply to debt securities that are not carried at fair value through earnings. The final rules do not codify the following disclosure items in Item II of Guide 3: (a) book value information; (b) the maturity analysis of book value information; and (c) the disclosuresrelated to investments exceeding 10% of stockholders’ equity, because these items substantially overlap with U.S. GAAP and IFRS disclosure requirements.
 
 <h>H. Loan Portfolio</h>
 
-P roposal
+<h>1. Proposal</h>
 
 We proposed to codify in Item 1404 of Regulation S-K the requirement to disclose the maturity by loan category and the total amount of loans due after one year that have (a) predetermined interest rates and (b) floating or adjustable interest rates disclosure currently called for by Item III.B, by the loan categories disclosed in the registrant’s U.S. GAAP <sup>85</sup> or IFRS <sup>86</sup> financial statements. Currently Item III.B of Guide 3 provides for the exclusion of certain loan categories (real estate-mortgage, installment loans to individuals and lease financing) from these disclosures and the aggregation of other loan categories (foreign loans to governments and official institutions, banks and other financial institutions, commercial and industrial and other loans). The proposed rules would not provide for any exclusion of loan categories, or permit the aggregation of loan categories for purposes of this disclosure. Additionally, we proposed to codify the existing Guide 3 instruction stating that the determination of maturities should be based on contractual terms. We proposed to clarify the “rollover policy” for these disclosures by stating that, to the extent non-contractual rollovers or extensions are included for purposes of measuring the allowance for credit losses under
 
@@ -266,17 +164,15 @@ U.S. GAAP or IFRS, such non-contractual rollovers or extensions should be includ
 
 We proposed not to codify the following Guide 3 disclosure items because they call for disclosures that are reasonably similar to disclosures already required by Commission rules, U.S. GAAP, or IFRS: <sup>87</sup>the loan category disclosures called for by Item III.A of Guide 3;the loan portfolio risk elements disclosure called for by Item III.C, which among other disclosures, included disclosure of loan concentrations exceeding 10% of loans that are not otherwise disclosed in the loan category disclosure in Item III.A and disclosure of cross border outstandings to borrowers in each foreign country where such outstandings exceed 1% of total assets; andthe other interest bearing assets disclosure called for by Item III.D. <sup>88</sup>
 
-C omments on Proposal
+<h>2. Comments on Proposal</h>
 
 One commenter supported aligning the requirements with the loan categories under existing U.S. GAAP and IFRS requirements but asked the Commission to allow registrants to exclude any loan categories from the maturity and sensitivity to interest rate changes disclosure that are not material to the registrant. <sup>89</sup> This commenter stated that, similar to disclosure requirements for U.S. GAAP, registrants should have the ability to aggregate certain loan categories for purposes of the disclosure on the basis of relevance, materiality,and other considerations. This commenter also supported moving away from the bright-line thresholds in Guide 3 and instead relying on existing U.S. GAAP and IFRS requirements that call for the disclosure of significant concentrations of credit risk. Finally, this commenterstated that the use of the “significant” threshold in U.S. GAAP and IFRS would not result in the loss of material information.
 
 Another commenter recommended the Commission continue to allow registrants to exclude or aggregate certain loan categories if they determine an alternative presentation is more appropriate. <sup>90</sup> This commenter stated that mirroring the loan categories and classes presented in the financial statements, without the flexibility to exclude certain loan categories, would not result in more meaningful disclosures. For example, this commenter stated it is likely that large portfolios of consumer loans, such as credit cards, would be classified in the “within 1 year” category, whereas residential real estate loans would generally be in the “over 10 year” category.
 
-F inal Rules
+<h>3. Final Rules</h>
 
-After considering the comments, we are adopting final rules substantially as proposed. Consistent with the proposal, Item 1404(a) of Regulation S-K codifies the requirement to disclose the maturity by loan category disclosure currently called for by Item
-
-<h>III. B of Guide 3, with the loan categories based on the categories required by U.S. GAAP or IFRS in the financial statements, but in response to comments received, the final rules also require additional maturity categories to provide investors with sufficient information onthe potential interest rate risk associated with the loans in the portfolio. The final rules also codify the existing Guide 3 instruction stating the determination of maturities should be based on contractual terms, and also codifies the language, as proposed, regarding the “rollover policy” for these disclosures.</h>
+After considering the comments, we are adopting final rules substantially as proposed. Consistent with the proposal, Item 1404(a) of Regulation S-K codifies the requirement to disclose the maturity by loan category disclosure currently called for by Item III B of Guide 3, with the loan categories based on the categories required by U.S. GAAP or IFRS in the financial statements, but in response to comments received, the final rules also require additional maturity categories to provide investors with sufficient information onthe potential interest rate risk associated with the loans in the portfolio. The final rules also codify the existing Guide 3 instruction stating the determination of maturities should be based on contractual terms, and also codifies the language, as proposed, regarding the “rollover policy” for these disclosures.
 
 Item 1404(b) of Regulation S-K codifies the disclosure items in Item III.B of Guide 3 regarding the total amount of loans due after one year that have (a) predetermined interest rates or (b) floating or adjustable interest rates, and specifies that this disclosure should also be disaggregated by the loan categories disclosed in the registrant’s U.S. GAAP or IFRS financial statements.
 
@@ -288,13 +184,13 @@ Consistent with the proposal, the final rules do not codify the loan category di
 
 <h>I. Allowance for Credit Losses</h>
 
-P roposal
+<h>1. Proposal</h>
 
 We proposed to require in Item 1405 of Regulation S-K the disclosure of the ratio of net charge-offs during the period to average loans outstanding based on the loan categories required to be disclosed in the registrant’s U.S. GAAP or IFRS financial statements, instead of on a consolidated basis as called for by Guide 3. We also proposed to require registrants to provide the tabular allocation of the allowance disclosure called for by Item IV.B of Guide 3, except that the allocation would be based on the loan categories presented in the U.S. GAAP financial statements, instead of the loan categories specified in Item IV.B of Guide 3, which we believe is not a substantive change from existing practice given the existing instruction <sup>94</sup> in Item IV of Guide 3 which permits other loan categories to be used if considered a more appropriate presentation. <sup>95</sup> We did not propose to codify the rollforward of the allowance for loan loss disclosures called for by Item IV.A of Guide 3, given the overlap of this requirement with U.S. GAAP and IFRS.
 
 The proposed rules did not require any incremental disclosures related to the New Credit Loss Standard or IFRS 9 because, as explained in the Proposing Release, we first wanted to assess the disclosures provided under the new U.S. GAAP and IFRS standards andevaluate whether additional information is necessary. <sup>96</sup> However, the Proposing Release contained a number of requests for comments seeking feedback on the types of disclosures that may be material upon the adoption of the New Credit Loss Standard.
 
-C omments on Proposal
+<h>2. Comments on Proposal</h>
 
 Several commenters supported eliminating the allowance for credit losses disclosure items, such as the five-year analysis of loan loss experience called for by Item IV.A of Guide 3, that are duplicative of U.S. GAAP or IFRS. <sup>97</sup> One commenter was supportive of the proposed allocation of the allowance for credit losses disclosure requirement. <sup>98</sup> Another commenter stated that the tabular allocation of the allowance for credit losses would not be burdensome to prepare and that it provides a convenient location for such information to be
 
@@ -308,7 +204,7 @@ In response to request for comments on disclosure requirements related to the Ne
 
 One of these commenters cautioned that, while the inputs and assumptions made to the New Credit Loss Standard models will be critical to credit loss estimates and thus will be important to investment decisions, and disclosure of such inputs initially appears helpful to investors, the complexity of credit loss modeling (for example, non-linear relationships of changes in certain economic conditions to loss given default) will likely frustrate many investors who wish to use inputs in their own modeling. <sup>109</sup> This commenter stated that any future required disclosure related to the New Credit Loss Standard methodology should not be required in a formulaic manner or template. This commenter also noted that due to the broad range of credit loss modeling methods that will be performed by banks, it expects there to be a wide diversity in how qualitative adjustments are defined and applied in the credit loss modeling, not only between registrants, but also between periods within a registrant.
 
-F inal Rules
+<h>3. Final Rules</h>
 
 After considering the comments, we are adopting the rules as proposed. Item 1405(c) of Regulation S-K codifies the requirement to provide a tabular allocation of the allowance disclosures based on the loan categories presented in the U.S. GAAP financial statements for registrants applying or reconciling to U.S. GAAP. Item 1405(c) of Regulation S-K does notapply to IFRS registrants because IFRS already requires this information at a similar level of disaggregation in the financial statements. <sup>110</sup> While one commenter recommended retaining the instruction to Item III.A of Guide 3, which provides latitude to registrants to use loan categories outside of those identified in Guide 3, we do not believe this is necessary as we have tied the loan categories for this disclosure to the loan categories presented in the U.S. GAAP financial statements. We continue to believe the tabular allocation required by this Item will provide for easier analysis by investors when reviewing these disclosures. The final rules also codify the requirement to disclose disaggregated net charge-off ratios. We continue to believe that, in many circumstances, disclosure of disaggregated net charge-off ratios may provide material information to investors in terms of transparency and comparability. For example, the staff has observed that credit cards and other unsecured loans often have higher net charge-off ratios relative to secured loans, such as residential mortgage loans or commercial loans. Therefore, to the extent a bank and savings and loan registrant has a material loan category with higher net charge-offs relative to other loan categories in its loan portfolio, a single disclosure of the consolidated net charge-off ratio may not reveal trends present in the loan portfolio because the portfolio performance can be skewed by a specific loan category or by the number and type of loan products. Furthermore, disaggregated net charge-off ratio disclosures can facilitate comparison of loan performance by specific loan category among banks of varying sizes and operations.
 
@@ -318,11 +214,11 @@ Standard affects the relationship between the net charge-off ratio to the provis
 
 Consistent with the proposal, and the suggestions of several commenters, the final rules do not codify the disclosure items in Item IV of Guide 3 that overlap with U.S. GAAP and IFRS and do not require any disclosures related to the New Credit Loss Standard or IFRS 9.
 
-P roposal - New Credit Ratios Disclosure
+<h>4. Proposal - New Credit Ratios Disclosure</h>
 
 Guide 3 currently calls for the disclosure of one credit ratio, net charge-offs during the period to average loans outstanding, as outlined in Item IV.A of Guide 3. As discussed in Section II.I.i above, we proposed to codify the requirement to disclose this ratio by the loan categories disclosed in the U.S. GAAP or IFRS financial statements. In addition, we also proposed to require in Item 1405(a) of Regulation S-K disclosure of the following new credit ratios on a consolidated basis, along with each of the components used in their calculation:(1) Allowance for Credit Losses <sup>112</sup> to Total Loans; (2) Nonaccrual Loans to Total Loans; and(3) Allowance for Credit Losses <sup>113</sup> to Nonaccrual Loans. The proposed rules would also require a discussion of the factors that drove material changes in the ratios, or related components, during the periods presented. As discussed in Section II.E.iii above, the credit ratios would be required for each annual period for which Commission rules require financial statements, and any additional interim period if there was a material change in the information or the trends evidenced thereby. The proposed rules would not require disclosure of the ratio of nonaccrual loans to total loans or the allowance for credit losses to nonaccrual loans for IFRS registrants, as there is no concept of nonaccrual loans in IFRS.
 
-C omments on Proposal
+<h>5. Comments on Proposal</h>
 
 We received limited feedback on our proposal to require credit ratios disclosure. The primary feedback we received was that these credit ratios may no longer be as relevant to investors upon the adoption of the New Credit Loss Standard. <sup>114</sup>
 
@@ -334,7 +230,7 @@ A few commenters stated the Commission should not require a discussion of the fa
 
 Another commenter cited the complexity of what can drive the New Credit Loss Standard estimate. <sup>123</sup> For example, this commenter observed that nonaccrual loans and charge-offs result from credit deterioration events, which are not necessarily direct drivers of the New Credit Loss Standard allowance estimate, and therefore would not necessarily drive changes in ratios to the extent they have been accurately forecast. As a result, according to this commenter, a discussion of these metrics may be confusing to analysts or investors. Finally, although the proposed rules would not have required disclosure of the ratio of nonaccrualloans to total loans or the allowance for credit losses to nonaccrual loans for IFRS registrants as there is no concept of nonaccrual loans in IFRS, this commenter asked the Commission to explore how “Stage 3” <sup>124</sup> assets under IFRS 9 may be considered comparable to nonaccrual loans within U.S. GAAP.
 
-F inal Rules
+<h>6. Final Rules</h>
 
 Having considered the comments, we are adopting the rules as proposed. We continue to believe that investors evaluate these ratios when making investment decisions and that disclosure of the components used in the calculation of the ratios, along with the proposed narrative disclosure of the factors driving material changes in the ratio or related components, would further aid investors’ understanding of the reasons for the material changes in ratios. The staff has observed that these credit ratios are already commonly disclosed by most bank and savings and loan registrants with material lending portfolios, and the staff has observed that many bank and savings and loan registrants have continued to provide these credit ratios in their earnings releases and periodic reports after the adoption of the New Credit Loss Standard. Therefore, we believe these registrants may continue to find that this information may be material for an investor’s understanding of their financial results. <sup>125</sup>
 
@@ -352,15 +248,15 @@ U.S. GAAP and IFRS. We believe this information could be provided within MD&A if
 
 We also note that U.S. GAAP, both before and after the adoption of the New Credit Loss Standard, requires disclosure of many of the components of these ratios, such as nonaccrual loans, and the rollforward of the allowance for credit losses by portfolio segment, which includes separate line items showing charge-offs against the allowance and recoveriesof amounts previously charged off (that together can be used to calculate net charge-offs, which is the numerator to the disaggregated net charge-off ratio). We believe this indicates that these components, and potentially the related ratios, continue to have relevance upon the adoption of the New Credit Loss Standard. <sup>130</sup> As noted by a commenter, we believe this will limit the burden a registrant will have in providing these disclosures. <sup>131</sup>
 
-<h>A. Deposits</h>
+<h>J. Deposits</h>
 
-P roposal
+<h>1. Proposal</h>
 
 We proposed to codify in Item 1406 of Regulation S-K the majority of the deposit disclosure items in Item V of Guide 3, with some revisions. Specifically, we proposed to replace the “amount of outstanding domestic time certificates of deposit and other time deposits equal to or in excess of $100,000” by maturity disclosure called for by Item V.D with a requirement to disclose the “amount of time deposits in uninsured accounts” by maturity. We proposed to require separate presentation of: (1) U.S. time deposits in amounts in excess of the FDIC insurance limit, and (2) time deposits that are otherwise uninsured (including, for example, U.S. time deposits in uninsured accounts, non-U.S. time deposits in uninsured accounts, or non-U.S. time deposits in excess of any country-specified insurance fund), by time remaining until maturity of: (A) three months or less; (B) over three through six months; (C) over six through 12 months; and (D) over 12 months. The proposed rules didnot have a defined dollar threshold for the disclosure, which we indicated would make the rules easier to apply when there is a change in the FDIC insurance limit. <sup>132</sup>
 
 Additionally, we proposed that bank and savings and loan registrants quantify the amount of uninsured deposits as of the end of each reported period. The proposed rules defined uninsured deposits for bank and savings and loan registrants that are U.S. federally insured deposit institutions as individual deposits in U.S. offices of amounts exceeding the FDIC insurance limit and investment products such as mutual funds, annuities, or life insurance policies. The proposed rules would require foreign bank and savings and loan registrants to disclose how they define uninsured deposits for purposes of this disclosure given that the definition varies from jurisdiction to jurisdiction.
 
-C omments on Proposal
+<h>2. Comments on Proposal</h>
 
 One commenter stated that the proposed deposit disclosures would provide transparency with respect to a registrant’s source of funding and liquidity risk profile. <sup>133</sup> Another commenter was supportive of the proposed disclosures related to bank deposits, including the amounts that are uninsured. <sup>134</sup>
 
@@ -384,7 +280,7 @@ One commenter commended the Commission for proposing to remove the $100,000 thre
 
 U.S. GAAP disclosure requirements largely address the proposed disclosure of outstanding time deposits in uninsured accounts by maturity and recommended not adopting this disclosure requirement. <sup>151</sup>
 
-F inal Rules
+<h>3. Final Rules</h>
 
 After considering the comments, we are adopting the rules substantially as proposed. Item 1406 of Regulation S-K codifies the majority of the disclosure items in Item V of Guide 3, with some revisions.
 
@@ -442,7 +338,7 @@ Where possible, we have attempted to quantify the expected economic effects of t
 
 Our baseline consists of the disclosures currently called for by Guide 3, as well as those provided under current market practices.
 
-R egulation
+<h>1. Regulation</h>
 
 In general, Guide 3 calls for disclosures related to interest-earning assets and interest- bearing liabilities of both domestic and foreign BHC registrants and registrants that have material lending and deposit-taking activities. <sup>167</sup> Since the last substantive revision of
 
@@ -452,7 +348,7 @@ Guide 3 calls for five years of loan portfolio and loan loss experience data and
 
 Commission rules for SRCs and EGCs are based on other thresholds, such as public float, total annual revenues, or a combination of both. As such, some SRCs and EGCs may not qualify for scaled disclosure under Guide 3.
 
-A ffected Registrants
+<h>2. Affected Registrants</h>
 
 We define the scope of Guide 3 as the population of registrants that currently may be providing Guide 3 disclosures. Table 1 below shows the estimated number of registrants within the Guide 3 scope, <sup>169</sup> along with their cumulative assets by type and domestic/foreign
 
@@ -482,7 +378,7 @@ Among the 493 registrants within the Guide 3 scope, 44% are either SRCs or EGCs.
 
 The economic effects of the final rules primarily stem from changes to the substance and reporting periods of the Guide 3 disclosure items, including, among other things, the addition of certain new credit ratio disclosure requirements. As a result, the affected bank and savings and loan registrants would experience changes in their compliance costs. In particular, affected registrants would experience a decrease in compliance costs stemming from a removal of overlapping disclosure items and reduced reporting periods. However, this reduction may be fully or partially offset by an increase in costs stemming from the proposed new credit ratio disclosure requirements and more disaggregated disclosure requirements. As discussed in Section VIII.B.v below, we estimate that the final rules will on aggregate increase paperwork and reporting burdens for the affected registrants. <sup>172</sup> As a result, these costs may flow through to customers in the form of higher costs for financial services, and to shareholders in the form of lower earnings. On the other hand, the final rules are expected to decrease investors’ search costs and reduce information asymmetries betweeninvestors and affected registrants, which may lead to increased allocative efficiency and lower cost of capital. Below, we first discuss the economic effects of changes to the substance and reporting periods of the disclosure requirements, followed by a discussion of economic effects related the scope and applicability of the disclosure requirements and the location and format of the required disclosures.
 
-C odified Disclosures
+<h>1. Codified Disclosures</h>
 
 The final rules codify in a new Subpart 1400 of Regulation S-K Guide 3 disclosure items that do not significantly overlap with disclosure requirements in other Commission rules, U.S. GAAP, and IFRS.
 
@@ -516,7 +412,7 @@ As another alternative, we could have defined uninsured deposits to expressly in
 
 Finally, we could have required all affected registrants to disclose precise amounts of uninsured deposits, as proposed. Under this alternative, comparability among registrants would increase relative to the final rules. However, several commenters urged the Commission to consider operational complexities and costs of calculating the precise amounts of uninsured deposits rather than providing an estimate, which is more consistent with industry practices. <sup>189</sup> We recognize that, in some instances, due to complex deposit insurance rules that apply across accounts, it may be operationally challenging and costly for registrants to report precise amounts of uninsured deposits. Therefore, the final rules allow disclosure of an estimate of uninsured deposits if it is not practicable to provide a precise measure. To mitigate potential loss of comparability due to disclosure of estimated rather than the precise amount of uninsured deposits, the final rules require that the methodologies and assumptions used for the estimate be the same as those used for the registrant’s regulatory reporting.
 
-Ne w Credit Ratios
+<h>2. New Credit Ratios</h>
 
 The final rules require disclosure of three additional credit ratios for bank and savings and loan registrants, along with each of the components used in the ratios’ calculation and a discussion of the factors that led to material changes in the ratios or related components. <sup>190</sup> In the Proposing Release, we indicated that the additional compliance burden for the proposedcredit ratio disclosure requirements would not be significant for existing bank and savings and loan registrants, as the components of each proposed ratio are already required disclosures in bank and savings and loan registrants’ financial statements. One commenter agreed with this assessment. <sup>191</sup>
 
@@ -528,7 +424,7 @@ We believe that, despite this important difference in the information contained 
 
 Commenters also stated that because the timeline for the implementation of the New Credit Loss Standard differs among the types of affected registrants ( e.g., a regional bank that is not an SRC versus a community bank that is an SRC), it may be difficult or confusing to compare these credit ratios across all bank and savings and loan registrants. We recognize that comparability of ratios across registrants may be reduced until all affected registrants adopt the New Credit Loss Standard. However, we believe that the discussion of the factors that led to material changes in the ratios or their components may mitigate this concern, as investors will be able to understand how the ratios and their components differ across registrants. In addition, as discussed in Section II.I above, we believe that the majority ofaffected registrants will adopt New Credit Loss Standard by the mandatory compliance date of the final rules.
 
-N ot Codified Disclosures and Instructions
+<h>3. Not Codified Disclosures and Instructions</h>
 
 The final rules do not codify the following Guide 3 disclosure items and instructions that overlap with Commission rules, U.S. GAAP, or IFRS:
 
@@ -558,7 +454,7 @@ The final rules do not codify the ratios in Item VI of Guide 3. Because these ra
 
 The final rules also do not codify the undue burden or expense accommodation for foreign registrants in General Instruction 6 of Guide 3. One commenter indicated that this accommodation should be codified, <sup>198</sup> and several commenters <sup>199</sup> noted that they had seen limited use of the accommodation in Rules 409 and 12b-21 and therefore surmised that it may be rare for a registrant to be able to demonstrate that the required information is not reasonably available or that obtaining it may require unreasonable effort or expense. <sup>200</sup> However, these commenters did not provide any specific examples of when reliance on the accommodation in General Instruction 6 of Guide 3 would be necessary, notwithstanding theflexibility in disclosure provided to IFRS registrants under the final rules and the ability of all registrants to rely on Securities Act Rule 409 and Exchange Act Rule 12b-21. To the extent that some registrants currently rely on the undue burden accommodation in General Instruction 6 and would be unable to rely on Securities Act Rule 409 or Exchange Act Rule 12b-21, these registrants may experience an increase in compliance costs. However, the final rules’ linkage of categories of debt securities and loans with those required by U.S. GAAP and IFRS should reduce the need for foreign registrants to seek regulatory accommodations with respect to the final disclosure requirements. In addition, as noted in Section II.D above, the staff has not received any requests from foreign registrants seeking relief under General Instruction 6 during the past 10 years. Thus, we do not expect any such increase in compliance costs to be substantial.
 
-R eporting Periods
+<h>4. Reporting Periods</h>
 
 The final rules align the reporting periods for the required disclosures with the periods required by Commission rules for financial statements, rather than the longer periods called for by Guide 3.
 
@@ -574,7 +470,7 @@ As an alternative, we considered codifying the current Guide 3 reporting periods
 
 Under this alternative, all bank and savings and loan registrants with total assets over $200 million or net worth over $10 million, including SRCs and EGCs, would provide the loan and allowance for credit losses disclosures for five years and the rest of the disclosures for three years. As such, the data would be required for a longer period of time than Commission rules require for financial statements. On the one hand, additional historical periods may benefit investors in new bank and savings and loan registrants, as historicalinformation is not publicly available for these registrants. <sup>202</sup> On the other hand, under this alternative, the majority of SRCs and EGCs would not realize the benefits of scaled disclosure, which would impose higher compliance costs for these registrants. On balance, we believe benefits of scaled disclosure justify the reduction in historical information.
 
-S cope
+<h>5. Scope</h>
 
 <h>a. Costs and Benefits</h>
 
@@ -594,7 +490,7 @@ Under the alternative approach discussed above, these 620 financial services reg
 
 To the extent that certain types of registrants outside the final rules’ scope conduct activities similar to bank and savings and loan registrants, this alternative approach could lead to more consistent and comparable disclosure among registrants that provide similar financial services and help investors better compare registrants that conduct similar activities, which in turn could increase allocative efficiency. In addition, to the extent registrants that conduct one of the activities addressed by the final rules are not within the final rules’ scope, and to the extent that these registrants currently have a competitive advantage over registrants providing Guide 3 disclosures due to lower costs, the alternative may decrease this disparity. However, given that many of the 620 registrants that do not fall within the final rules’ scope may not currently provide the disclosures we are codifying, the increased costs due to this alternative approach may be significant. However, we note that even for a registrant that will not be subject to disclosure requirements under the final rules, other Commission disclosure requirements, such as MD&A, or investor demand may elicit certain disclosure about financial activities of these registrants to the extent they are material.
 
-A pplicability of Disclosure
+<h>6. Applicability of Disclosure</h>
 
 <h>a. Costs and Benefits</h>
 
@@ -606,7 +502,7 @@ As an alternative, we considered requiring disclosures based on the materiality 
 
 As another alternative, we considered using a bright-line threshold for all proposed disclosure requirements. Such an approach may be easier to apply as it would not require judgment and would reduce bank and savings and loan registrants’ uncertainty about whether they need to provide disclosures. However, a bright-line threshold may be under- or over- inclusive, especially for bank and savings and loan registrants with a level of activities just below or over the specified threshold. As a result, disclosures by registrants that fall just below the threshold would be less comparable to those of registrants above the threshold, despite conducting similar activities. In addition, under this alternative, some bank and savings and loan registrants may be incentivized to actively manage their activity to the level just below the threshold such that they would not have to provide the disclosures for specified activities, even though those activities could be material to their business. In this instance, the bright-line approach would be under-inclusive.
 
-L ocation of Disclosures
+<h>7. Location of Disclosures</h>
 
 <h>a. Costs and Benefits</h>
 
@@ -618,7 +514,7 @@ As an alternative, we could have required disclosures to be placed in the footno
 
 In the Proposing Release, we noted that requiring the disclosure to be located in the footnotes to financial statements could increase reliability of disclosures and decrease search costs for users of financial statements and information asymmetries between investors and bank and savings and loan registrants. One commenter, however, indicated that allowing registrants to decide where best to present the disclosure will result in a superior presentation, with related disclosures being grouped together. <sup>210</sup> We agree that prescribing a specific location for the disclosures could diminish bank and savings and loan registrants’ ability tonoted that the disclosures currently called for by Guide 3 are typically included in the Business section or in MD&A. See letters from CAQ; Crowe; and EY. Two other commenters noted that many preparers include existing Guide 3 disclosures in MD&A in conjunction with other required MD&A disclosures, while others include the information within their financial statements. See letters from BAC and BPI/SIFMA.present the information in the context in which it is most relevant and understandable for investors reading the report. In addition, this alternative would increase compliance costs for those bank and savings and loan registrants that currently provide the aforementioned disclosures within the MD&A section.
 
-F ormat of Disclosures
+<h>8. Format of Disclosures</h>
 
 In the Proposing Release, we requested comment on whether the disclosures addressed in the final rules should be provided in a structured machine-readable format. A few commenters supported the use of the structured machine-readable Inline XBRL format for disclosures addressed in the final rules, regardless of their location. <sup>211</sup> According to these commenters, this requirement would ensure consistency of data across all affected registrants. <sup>212</sup> In addition, these commenters stated that data provided in a structured format encourages more robust and in-depth analysis due to reduced costs of analysis. <sup>213</sup>
 
@@ -650,35 +546,35 @@ The hours and costs associated with preparing and filing the forms and reports c
 
 Compliance with the information collections is mandatory. Responses to the information collections are not kept confidential and there is no mandatory retention period for the information disclosed. The titles for the affected collections of information are:
 
-R egulation S-K (OMB Control No. 3235-007); <sup>226</sup>
+Regulation S-K (OMB Control No. 3235-007); <sup>226</sup>
 
-F orm S-1 <sup>227</sup> (OMB Control No. 3235-0065);
+Form S-1 <sup>227</sup> (OMB Control No. 3235-0065);
 
-F orm S-3 <sup>228</sup> (OMB Control No. 3235-0073); <sup>229</sup>
+Form S-3 <sup>228</sup> (OMB Control No. 3235-0073); <sup>229</sup>
 
-F orm S-4 <sup>230</sup> (OMB Control No. 3235-0324);
+Form S-4 <sup>230</sup> (OMB Control No. 3235-0324);
 
-F orm F-1 <sup>231</sup> (OMB Control No. 3235-0258);
+Form F-1 <sup>231</sup> (OMB Control No. 3235-0258);
 
-F orm F-3 <sup>232</sup> (OMB Control No. 3235-0256);
+Form F-3 <sup>232</sup> (OMB Control No. 3235-0256);
 
-F orm F-4 <sup>233</sup> (OMB Control No. 3235-0325);
+Form F-4 <sup>233</sup> (OMB Control No. 3235-0325);
 
-F orm <sup>10</sup> <sup>234</sup> (OMB Control No. 3235-0064);
+Form <sup>10</sup> <sup>234</sup> (OMB Control No. 3235-0064);
 
-F orm 10-K <sup>235</sup> (OMB Control No. 3235-0064);
+Form 10-K <sup>235</sup> (OMB Control No. 3235-0064);
 
-F orm 10-Q <sup>236</sup> (OMB Control No. 3235-0070);
+Form 10-Q <sup>236</sup> (OMB Control No. 3235-0070);
 
-F orm 20-F (OMB Control No. 3235-0063); and
+Form 20-F (OMB Control No. 3235-0063); and
 
-R egulation A (Form 1-A) <sup>237</sup> (OMB Control No. 3235-0286).
+Regulation A (Form 1-A) <sup>237</sup> (OMB Control No. 3235-0286).
 
 The regulations and forms listed above were adopted under the Securities Act or the Exchange Act. The regulations and forms set forth the disclosure requirements for registration statements, offering statements, and periodic reports filed by registrants and issuers to help investors make informed investment decisions. A description of the final rules, including the need for the information and its use, as well as a description of the likely respondents, can be found in Sections II through V above, and a discussion of the economic effects of the proposed rules can be found in Section VII above.
 
 <h>B. Burden and Cost Estimates Related to the Proposed Rules</h>
 
-A ffected Registrants and Forms
+<h>1. Affected Registrants and Forms</h>
 
 We estimate that, currently, approximately 493 bank and savings and loan registrants provide the disclosures set forth in Guide 3. These registrants have to provide the disclosures required by the final rules in Securities Act registration statements filed on Forms S-1, S-3,
 
@@ -694,13 +590,13 @@ Therefore, including the burden and cost estimates in both annual and quarterly 
 
 Further, as with quarterly reports on Form 10-Q, a registrant would be required to collect and disclose almost the same information related to the final rules in a registration or offering statement as it would in an annual report. However, we recognize that there could be some additional burdens and costs associated with a registration or offering statement that may not apply to an annual report. Therefore, we assign a small incremental increase in burdens and costs to all affected registration and offering statements, including Forms 20-F, S-1, S-4, F-1, F-4, 10, and 1-A.
 
-S tandard Estimated Burden Allocation for Specified Forms
+<h>2. Standard Estimated Burden Allocation for Specified Forms</h>
 
 For purposes of the PRA, total burden is to be allocated between internal burden hours and outside professional costs. A registrant’s internal burden is estimated in internal burden hours and its outside professional costs are estimated at $400 per hour. <sup>240</sup> Table 5 below sets forth the percentage estimates we typically use for the burden allocation for each form.
 
 Table 5. Standard Estimated Burden Allocation for Specified Forms.
 
-B urden Change for Specific Portions of the Final Rules
+<h>3. Burden Change for Specific Portions of the Final Rules</h>
 
 <h>a. Disclosure Related to Distribution of Assets, Liabilities, and Stockholders’ Equity; and Interest Rate and Interest Differential (Item I of Guide 3 / Item 1402)</h>
 
@@ -752,13 +648,13 @@ Table 11 below shows the resulting estimated change in an affected registrant’
 
 Table 11. Estimated Increase in Internal Burden Hours and Costs for Outside Professionals from the Disclosure Related to Credit Ratios (Items 1405(a) and (b)).<sup>1</sup> Six hours x 0.75 = 4.5 hours.<sup>2</sup> (Six hours x 0.25) x $400 = $600.<sup>3</sup> Six hours x 0.25 = 1.5 hours.<sup>4</sup> (Six hours x 0.75) x $400 = $1,800.<sup>5</sup> One hour x 0.25 = 0.25 hours.<sup>6</sup> (One hour x 0.75) x $400 = $300.<sup>7</sup> One hour x 0.25 = 0.25 hours.<sup>8</sup> (One hour x 0.75) x $400 = $300.<sup>9</sup> One hour x 0.25 = 0.25 hours.<sup>10</sup> (One hour x 0.75) x $400 = $300.<sup>11</sup> One hour x 0.25 = 0.25 hours.<sup>12</sup> (One hour x 0.75) x $400 = $300.<sup>13</sup> One hour x 0.25 = 0.25 hours.<sup>14</sup> (One hour x 0.75) x $400 = $300.<sup>15</sup> One hour x 0.25 = 0.25 hours.<sup>16</sup> (One hour x 0.75) x $400 = $300.<sup>17</sup> One hour x 0.75 = 0.75 hours.<sup>18</sup> (One hour x 0.25) x $400 = $100.
 
-T otal Change in Burden Per Form as a Result of the Final Rules
+<h>4. Total Change in Burden Per Form as a Result of the Final Rules</h>
 
 Table 12 below shows the resulting estimated change in an affected registrant’s internal burden hours and costs for outside professionals per form as a result of the final rules.
 
 Table 12. Estimated Total Increase in Internal Burden Hours and Costs for Outside Professional as a Result of the Final Rules.
 
-T otal Paperwork Burden Under the Final Rules
+<h>5. Total Paperwork Burden Under the Final Rules</h>
 
 Table 13 below shows the total estimated internal burden hours and costs for outside professional under the final rules. <sup>241</sup>
 
@@ -1255,5 +1151,3 @@ We are adopting the final rules as proposed with one substantive change relating
 240 We recognize that the costs of retaining outside professionals may vary depending on the nature of the professional services, but for purposes of this PRA analysis, we estimate that such costs will be an average of $400 per hour. This estimate is based on consultations with several registrants, law firms, and other persons who regularly assist registrants in preparing and filing reports with the Commission.
 
 241 Figures in the table have been rounded to the nearest whole number.
-
-309 (2012); Sec. 107, Pub. L. 112-106, 126 Stat. 313 (2012), and Sec. 72001, Pub. L. 114-94,

@@ -28,30 +28,6 @@ https://www.sec.gov/rules/final/2020/33-10825.pdf
 
 	.B.0.0 Narrative Description of Business (Item 101(c))
 
-		.B.1.0 Principal products produced and services rendered;
-
-		.B.2.0 New products or segments;
-
-		.B.3.0 Sources and availability of raw materials;
-
-		.B.4.0 Intellectual property;
-
-		.B.5.0 Seasonality of the business;
-
-		.B.6.0 Working capital practices;
-
-		.B.7.0 Dependence on certain customers;
-
-		.B.8.0 Dollar amount of backlog orders believed to be firm;
-
-		.B.9.0 Business subject to renegotiation or termination of government contracts;
-
-		.B.10.0 Competitive conditions;
-
-		.B.11.0 The material effects of compliance with environmental laws; and
-
-		.B.12.0 Number of persons employed.
-
 		.B.1.0 Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product	families, or customers, including governmental customers
 
 			.B.1.a Proposed Amendments and Comments
@@ -186,161 +162,9 @@ FOR FURTHER INFORMATION CONTACT: Sean Harrison, Office of Rulemaking, at
 
 SUPPLEMENTARY INFORMATION: The Commission is amending
 
-Table of Contents
+<END HEADER>
 
-INTRODUCTION AND BACKGROUND
-
-DISCUSSION OF THE AMENDMENTS
-
-General Development of Business (Item 101(a))
-
-Elimination of the Five-Year and the Three-Year Disclosure Timeframes
-
-Proposed Amendments
-
-Comments on the Proposed Amendments
-
-Final Amendments
-
-Updated Disclosure in Subsequent Filings
-
-Proposed Amendments
-
-Comments on the Proposed Amendment
-
-Final Amendment
-
-Disclosure about Business Strategy
-
-Proposed Amendments
-
-Comments on the Proposed Amendment
-
-Final Amendments
-
-Narrative Description of Business (Item 101(c))
-
-Revenue-generating activities, products and/or services, and any dependence on revenue-generating activities, key products, services, product families, or customers, including governmental customers
-
-Proposed Amendments and Comments
-
-Final Amendments
-
-Status of development efforts for new or enhanced products, trends in market demand, and competitive conditions
-
-Proposed Amendments and Comments
-
-Final Amendments
-
-Resources material to a registrant’s business
-
-Raw materials
-
-(ii).	Comments on the Proposed Amendments (iii).	Final Amendments
-
-The duration and effect of all patents, trademarks, licenses, franchises, and concessions held
-
-Proposed Amendments
-
-Comments on the Proposed Amendments (iii).	Final Amendment
-
-A description of any material portion of the business that may be subject to renegotiation of profits or termination of contracts or subcontracts at the election of the Government
-
-Proposed Amendment and Comments
-
-Final Amendment
-
-The extent to which the business is or may be seasonal
-
-Proposed Amendment and Comments
-
-Final Amendment
-
-Compliance with material government regulations, including environmental regulations
-
-Proposed Amendment
-
-Comments on the Proposed Amendment
-
-Final Amendment
-
-Human capital disclosure
-
-Proposed Amendment
-
-Comments on the Proposed Amendment
-
-Final Amendment
-
-Legal Proceedings (Item 103)
-
-Expressly provide for the use of hyperlinks or cross-references to avoid repetitive disclosure
-
-Proposed Amendment
-
-Comments on the Proposed Amendment
-
-Final Amendment
-
-Updated disclosure threshold for environmental proceedings in which the government is a party
-
-a.	Proposed Amendments
-
-c.	Final Amendment
-
-Risk Factors (Item 105)
-
-Summary risk factor disclosure if the risk factor section exceeds 15 pages
-
-Proposed Amendment
-
-Comments on the Proposed Amendment
-
-Final Amendment
-
-Replace the requirement to disclose the “most significant” factors with the “material” factors
-
-Proposed Amendment
-
-Comments on the Proposed Amendment
-
-Final Amendment
-
-Require registrants to organize risk factors under relevant headings
-
-Proposed Amendment
-
-Comments on the Proposed Amendment
-
-Final Amendment
-
-OTHER MATTERS
-
-ECONOMIC ANALYSIS
-
-Baseline and Affected Parties
-
-Potential Costs and Benefits
-
-Anticipated Effects on Efficiency, Competition, and Capital Formation
-
-Alternatives
-
-PAPERWORK REDUCTION ACT
-
-Summary of the Collections of Information
-
-Summary of Comment Letters
-
-Summary of the Impact on Collections of Information
-
-Burden and Cost Estimates of the Amendments
-
-REGULATORY FLEXIBILITY ACT CERTIFICATION
-
-STATUTORY AUTHORITY
-
-INTRODUCTION AND BACKGROUND
+<h>I. INTRODUCTION AND BACKGROUND</h>
 
 On August 8, 2019, the Commission proposed amendments to modernize the description
 
@@ -368,9 +192,7 @@ After considering all of the public comments received, we are adopting the amend
 
 We discuss our revisions with respect to the proposed amendments in more detail below.
 
-DISCUSSION OF THE AMENDMENTS
-
-<END HEADER>
+<h>II. DISCUSSION OF THE AMENDMENTS</h>
 
 <h>A. General Development of Business (Item 101(a))</h>
 
@@ -472,29 +294,29 @@ Item 101(c) requires a narrative description of the business done and intended t
 
 To the extent material to an understanding of the registrant’s business taken as a whole, the description of each such segment must include ten specific items listed in Item 101(c) ( see Items (1)-(10) in the list below). Item 101(c) specifies two other items that must be discussed with respect to the registrant’s business in general ( see Items (11)-(12) in the list below), although, where material, the registrant must also identify the segments to which those matters are significant. Item 101(c) requires disclosure of: <sup>69</sup>
 
-<h>1. Principal products produced and services rendered;</h>
+1. Principal products produced and services rendered;
 
-<h>2. New products or segments;</h>
+2. New products or segments;
 
-<h>3. Sources and availability of raw materials;</h>
+3. Sources and availability of raw materials;
 
-<h>4. Intellectual property;</h>
+4. Intellectual property;
 
-<h>5. Seasonality of the business;</h>
+5. Seasonality of the business;
 
-<h>6. Working capital practices;</h>
+6. Working capital practices;
 
-<h>7. Dependence on certain customers;</h>
+7. Dependence on certain customers;
 
-<h>8. Dollar amount of backlog orders believed to be firm;</h>
+8. Dollar amount of backlog orders believed to be firm;
 
-<h>9. Business subject to renegotiation or termination of government contracts;</h>
+9. Business subject to renegotiation or termination of government contracts;
 
-<h>10. Competitive conditions;</h>
+10. Competitive conditions;
 
-<h>11. The material effects of compliance with environmental laws; and</h>
+11. The material effects of compliance with environmental laws; and
 
-<h>12. Number of persons employed.</h>
+12. Number of persons employed.
 
 Many of the enumerated disclosure requirements in Item 101(c) were adopted in 1973. <sup>71</sup> As businesses, markets, and technology have changed since that time, some of the prescribed disclosure topics in Item 101(c) are not relevant to all registrants, and these disclosure requirements may elicit disclosure that is not material to a particular registrant. In the S-K Study, the staff recommended a review of these requirements in light of changes that have occurred in the way businesses operate. <sup>72</sup> In addition, the Concept Release invited comment on whether Item 101(c) continues to provide useful information to investors and how the Item’s requirements may be improved. <sup>73</sup>
 
@@ -834,11 +656,13 @@ We continue to believe that the final amendment will help to address the lengthy
 
 The final amendments will not require registrants to prioritize the order in which they discuss their risk factors. Although we recognize that such prioritization could be useful to users of the disclosure in certain circumstances, consistent with our goal to make the item more principles based, we believe the amendments should afford registrants flexibility to determine the order to most effectively present the material risks that make an investment in the registrant or offering speculative or risky. Accordingly, if a registrant believes it is useful or important to emphasize the relative importance of certain risks, it is free to write those risk factors and other disclosures in such a way that their relative importance is apparent. Retaining this flexibility should also help address concerns expressed by some commenters that it could be difficult to evaluate and rank often equally significant and evolving risk factors.
 
+<h>III. OTHER MATTERS</h>
+
 If any of the provisions of these rules, or the application thereof to any person or circumstance, is held to be invalid, such invalidity shall not affect other provisions or application of such provisions to other persons or circumstances that can be given effect without the invalidprovision or application.
 
 Pursuant to the Congressional Review Act, <sup>264</sup> the Office of Information and Regulatory Affairs has designated these amendments not a “major rule,” as defined by 5 U.S.C. 804(2).
 
-ECONOMIC ANALYSIS
+<h>IV. ECONOMIC ANALYSIS</h>
 
 This section analyzes the expected economic effects of the final amendments relative tothe current baseline, which consists of both the regulatory framework of disclosure requirements in existence today and the current use of such disclosure by investors. As discussed above, we are adopting amendments to modernize and simplify the description of business (Item 101), legal proceedings (Item 103), and risk factor (Item 105) disclosure requirements in Regulation
 
@@ -978,7 +802,7 @@ The final amendments also adjust for inflation the bright-line threshold for env
 
 As another alternative, we considered making similar amendments to the corresponding disclosure requirements applicable to foreign private issuers <sup>335</sup> and smaller reporting companies. <sup>336</sup> For example, we considered making the business disclosure requirements under Form 20-F, which are largely prescriptive, more principles-based, similar to those we are adopting for domestic registrants. Although current rules provide certain accommodations specific to these types of registrants (e.g., scaled disclosures), they are generally more prescriptive. Amending these requirements to make them more principles-based would enable such registrants to realize the same expected benefits as other registrants by permitting them to tailor their disclosure to fit their own particular circumstances and reduce the amount of disclosure that is not material. However, such an alternative also could impose unique costs for these registrants. For example, such an approach could reduce the ability of foreign private registrants to use a single disclosure document that would be accepted in multiple jurisdictions. Similarly, a principles-based approach that requires more judgment may make it more difficult for smaller registrants with limited resources and less established reporting histories to meet their disclosure obligations and could increase the risk of persistent information asymmetries. For these reasons, and because we received limited feedback on these points, we are notadopting either of these alternatives.
 
-PAPERWORK REDUCTION ACT
+<h>V. PAPERWORK REDUCTION ACT</h>
 
 <h>A. Summary of the Collections of Information</h>
 
@@ -1001,6 +825,30 @@ PRA Table 1 summarizes the estimated impact of the final amendments on the paper
 PRA Table 1. Estimated Paperwork Burden Effects of the Final Amendments*Estimated effect expressed as increase or decrease of burden hours on average and derived from staff review of samples of relevant sections of the affected forms.**The lower estimated average incremental burden for Schedules 14A and 14C reflects the Commission staff estimate that annually no more than 10% of these filings include Item 101 disclosures.***Because Form S-11 already has a summary risk factor disclosure requirement, the amendments to Item 105 are not expected to affect the compliance burden for Form S-11 registrants.± The lower estimated average incremental burden for Forms 10 and 10-K reflects the approximate number of these forms filed by smaller reporting companies which are not required to provide Item 105 risk factor disclosure.
 
 <h>D. Burden and Cost Estimates of the Amendments</h>
+
+Below we estimate the incremental change in paperwork burdens as a result of the final amendments. These estimates represent the average burden for all registrants, both large and small. In deriving our estimates, we recognize that the burdens will likely vary among individual registrants based on a number of factors, including the size and nature of their business. We do not believe that the amendments will change the number of responses to the existing collections of information; rather, we estimate that the amendments will reduce the burdens per response.
+
+The burden reduction estimates were calculated by multiplying the number of responses by the estimated average reduction in the amount of time it would take a registrant to prepare and review the disclosures required under the amendments. For purposes of the PRA, the burden is to be allocated between internal burden hours and outside professional costs. The table below sets forth the percentage estimates we typically use for the burden allocation for each form. We also estimate that the average cost of retaining outside professionals is $400 per hour.<sup>342</sup>
+
+PRA Table 2. Standard Estimated Burden Allocation for Specified Forms and Schedules.
+
+The table below illustrates the incremental change to the total annual compliance burden of affected forms, in hours and in costs, as a result of the final amendments.
+
+PRA Table 3. Calculation of the Incremental Change in Burden Estimates of Current Responses Resulting from the Final Amendments
+
+The following table summarizes the requested paperwork burden, including the estimated total reporting burdens and costs, under the final amendments.
+
+PRA Table 4. Requested Paperwork Burden under the Final Amendments
+
+<h>VI. REGULATORY FLEXIBILITY ACT CERTIFICATION</h>
+
+The Regulatory Flexibility Act (“RFA”)<sup>345</sup> requires an agency in promulgating rules, to consider the impact of those rules on small entities. The Commission certified in the Proposing Release, pursuant to Section 605(b) of the RFA,<sup>346</sup> that the proposed amendments to Items 101, 103, and 105 of Regulation S-K and related conforming amendments would not, if adopted, have a significant economic impact on a substantial number of small entities. The Commission solicited comments on its certification and received no comments.
+
+The final amendments to Items 101, 103, and 105 will affect all small entities that file documents that must include disclosure required by these Items. However, we believe that the impact on small entities will not be significant. The primary effects of the final amendments will be to: (1) increase a registrant’s flexibility to provide disclosure regarding its business, including its general business development, so that it can tailor its disclosure to its particular circumstances; (2) eliminate or reduce disclosure about matters that are not material to an understanding of the business or to a registrant’s legal proceedings; and (3) encourage risk factor disclosure that is shorter and concerns only material risks. We expect the final amendments will reduce the paperwork burden for all registrants, including small entities.<sup>347</sup> 
+
+Although, we anticipate that the economic impact of the reduction in the paperwork burden will be modest, the reduction in the burden will be beneficial to all registrants, including small entities. Accordingly, the Commission hereby certifies, pursuant to 5 U.S.C. 605(b), that the final amendments to Items 101, 103, and 105 of Regulation S-K will not have a significant economic impact on a substantial number of small entities for purposes of the RFA.
+
+<h>VII. STATUTORY AUTHORITY</h>
 
 <END MAIN TEXT>
 
